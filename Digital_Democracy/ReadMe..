@@ -1,0 +1,5 @@
+- This project is based on a masters degree disertation, the paper may or may not get published. Available on request, it details methodology & techniques used: JDLilleyData@gmail.com
+- The goal is to help close an infomation gap between UK constituents & thier representatives using Data Science & viusalisation
+
+- I have saved all project into 3 parts, Method, Data, Visualisations
+- I recommend investigating the visualisations to understand the idea before looking at the code (Written in R)
