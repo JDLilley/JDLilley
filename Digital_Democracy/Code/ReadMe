@@ -1,0 +1,4 @@
+- The R file will not run from top to bottom it reqires some manual process such as cluster assignment & manual interaction with LLMs
+- Dependancies are included
+
+- THIS FILE IS SLOW AND COMPUTATIONALLY EXPENSIVE. Help converting my nested for loops into matrix multiplication is desired.
