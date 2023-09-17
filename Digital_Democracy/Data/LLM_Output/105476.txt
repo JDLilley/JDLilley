@@ -1,0 +1,11 @@
+## Bing
+
+Summary - The text file is a transcript of a parliamentary debate on a bill that aims to regulate lobbying, non-party campaigning and trade union administration in the UK. The bill is controversial and faces criticism from various stakeholders.
+
+For - Voting 'Ayes' in the division means supporting amendment 4, which would change the term 'consultant' to 'professional' in the definition of lobbying. This would broaden the scope of the bill and include in-house lobbyists and other types of lobbying activities.
+
+Against - Voting 'Noes' in the division means opposing amendment 4, which would change the term 'consultant' to 'professional' in the definition of lobbying. This would narrow the scope of the bill and exclude in-house lobbyists and other types of lobbying activities.
+
+Decision - Voting 'Aye' in the division is associated with accountability and decentralisation in the context of parliamentary procedures, because it would increase the transparency of lobbying and allow more public scrutiny of the influence of lobbyists on government decisions.
+
+Sentiment - A

@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I have reviewed the text file open in your current webpage and I will try to answer your questions as best as I can. Here is my response:
+
+Summary - The text file is a transcript of a debate in the UK Parliament on a bill that aims to regulate lobbying, non-party campaigning and trade union administration. The debate focuses on the definition and scope of lobbying and the proposed register of lobbyists.
+
+For - Voting 'Ayes' in the division means supporting amendment 2, which would replace the term 'consultant' with 'professional' in the bill. This would broaden the register to include all professional lobbyists, not just those who work for third parties[1]. The supporters of this amendment argue that it would increase transparency and accountability in lobbying.
+
+Against - Voting 'Noes' in the division means opposing amendment 2 and keeping the term 'consultant' in the bill. This would limit the register to only those who lobby on behalf of another person or persons. The opponents of this amendment argue that it would create unnecessary bureaucracy and capture too many people who are not lobbyists.
+
+Decision - Voting 'Aye' in the division is associated with accountability and decentralisation in the context of parliamentary procedures. This is because it would make lobbying more visible and accessible to the public and allow more scrutiny of the influence of lobbyists on policy making. It would also recognise the diversity and complexity of lobbying activities and actors.
+
+Sentiment - A

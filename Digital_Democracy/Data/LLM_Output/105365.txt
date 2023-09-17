@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I can help you review the text file open in your current webpage. Here is my response based on your request:
+
+Summary - The text file is a transcript of a debate in the UK Parliament on a bill that would validate sanctions imposed on jobseekers who failed to participate in mandatory back-to-work schemes. The bill was introduced after a court ruling that quashed the previous regulations.
+
+For - Voting 'Ayes' means supporting the bill and agreeing that the government should not have to repay the benefits lost by claimants who did not comply with the schemes[1]. It also means endorsing the principle and policy of mandatory back-to-work schemes as a way to help the unemployed find work and reduce welfare spending.
+
+Against - Voting 'Noes' means opposing the bill and arguing that the government should respect the court ruling and refund the claimants who were unlawfully sanctioned. It also means challenging the effectiveness and fairness of mandatory back-to-work schemes as a way to help the unemployed find work and reduce welfare spending.
+
+Decision - Voting 'Aye' in the division is associated with cutting spending on, and provision of, welfare and social housing. This is because the bill would save up to £130 million of public money that would otherwise be paid back to claimants, and because mandatory back-to-work schemes are intended to reduce the number of people claiming benefits and increase their self-reliance[2].
+
+Sentiment - B

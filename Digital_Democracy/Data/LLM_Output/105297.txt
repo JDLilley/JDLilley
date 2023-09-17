@@ -1,0 +1,11 @@
+## Bing
+
+Summary - The text file you have open in your current webpage is a transcript of a debate in the UK Parliament on the Energy Bill in 2013. The Bill aimed to reform the electricity market and promote low-carbon energy sources. The debate covered various aspects of the Bill, such as contracts for difference, capacity market, emissions performance standard, and consumer tariffs.
+
+For - Voting 'Ayes' in the division means supporting an amendment that would reject the Bill unless it includes a clear target to decarbonise the power sector by 2030. This would show a commitment to tackling climate change and reducing greenhouse gas emissions from electricity generation.
+
+Against - Voting 'Noes' in the division means opposing the amendment and allowing the Bill to proceed without a decarbonisation target. This would give more flexibility to the Government and the industry to decide how to balance low-carbon and affordable energy sources.
+
+Decision - Voting 'Aye' in the division is associated with prioritising environmental sustainability in the context of Environment & Energy. It implies that reducing carbon emissions from the power sector is a key objective and that a binding target is necessary to achieve it.
+
+Sentiment - A

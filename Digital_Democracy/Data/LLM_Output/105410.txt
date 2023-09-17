@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I can help you review the text file open in your current webpage. Here is my response based on your request:
+
+Summary - The text file is a transcript of a debate in the UK Parliament on the Energy Bill, which aims to reform the electricity market and promote low-carbon generation. The debate covers various amendments and new clauses proposed by different MPs.
+
+For - Voting 'Ayes' in the division means supporting the new clause 5, which would establish an expert panel to advise the Secretary of State on contracts for difference and investment contracts. The panel would also publish its advice and opinions, and scrutinise the value for money and appropriateness of the contracts.
+
+Against - Voting 'Noes' in the division means rejecting the new clause 5, which would create an additional layer of bureaucracy and delay the implementation of the contracts for difference and investment contracts. The Government already has sufficient mechanisms to consult with relevant experts and ensure transparency and accountability.
+
+Decision - Voting 'Aye' in the division is associated with prioritising environmental sustainability in the context of Environment & Energy, because it would ensure that the contracts for difference and investment contracts are based on sound evidence and advice, and that they support low-carbon technologies that reduce greenhouse gas emissions.
+
+Sentiment - A

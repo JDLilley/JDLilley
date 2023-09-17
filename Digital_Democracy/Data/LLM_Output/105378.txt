@@ -1,0 +1,13 @@
+## Bing
+
+Thank you for your request. Here is my response based on the text file open in your current webpage:
+
+Summary - The text file is a transcript of a debate in the House of Commons on the Enterprise and Regulatory Reform Bill, which aims to promote growth and reduce regulatory burdens on businesses[1]. The debate covers four issues: the Equality and Human Rights Commission, caste discrimination, health and safety, and letting and managing agents.
+
+For - Voting 'For' (Ayes) in the division on Lords Amendment 37 means rejecting the amendment that would make caste a protected characteristic under the Equality Act 2010. The Government argues that legislation is not the best way to address caste prejudice and discrimination, and that education and consultation are more effective.
+
+Against - Voting 'Against' (Noes) in the division on Lords Amendment 37 means supporting the amendment that would make caste a protected characteristic under the Equality Act 2010. The Opposition argues that caste discrimination is a serious human rights issue that requires legal protection, and that the Government is breaking its promise to legislate on this matter.
+
+Decision - Voting 'For' (Ayes) in the division on Lords Amendment 37 is associated with austerity & regulation, because it implies that the Government is unwilling to spend resources and create new laws to tackle caste discrimination, and that it prefers to rely on existing legislation and voluntary measures.
+
+Sentiment - B

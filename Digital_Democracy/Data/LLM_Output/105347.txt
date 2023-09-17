@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I can help you review the text file open in your current webpage. Here is my response based on your request:
+
+Summary - The text file is a transcript of a debate in the UK House of Commons on the Justice and Security Bill, which aims to reform the oversight and accountability of the intelligence and security agencies. The debate focuses on amendments proposed by some MPs to make the Intelligence and Security Committee more independent and democratic.
+
+For - Voting 'Ayes' in the division means supporting the amendments that would allow the Chair of the ISC to be elected by the whole House of Commons, with the prior consent of the Prime Minister. The proponents of this change argue that it would enhance the credibility and authority of the ISC and its scrutiny of the security agencies.
+
+Against - Voting 'Noes' in the division means rejecting the amendments and maintaining the status quo, where the Chair of the ISC is elected by its members, who are nominated by the Prime Minister and approved by the House of Commons. The opponents of this change argue that it would put the Prime Minister in an invidious position, compromise the trust relationship between the ISC and the agencies, and create unnecessary problems for an already effective Committee.
+
+Decision - Voting 'Aye' in the division is associated with freedom and autonomy, limiting police powers and softer punishments, limiting Crime & Justice. This is because it implies a greater role for Parliament and less for the Executive in overseeing the activities of the security agencies, which may have implications for civil liberties, human rights, and due process.
+
+Sentiment - B

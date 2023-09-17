@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I can help you review the text file open in your current webpage. Here is my response based on your request:
+
+Summary - The text file is a transcript of a parliamentary debate on the Financial Services Bill, which aims to reform the regulation of the financial sector in the UK. The debate covers various amendments proposed by the Lords and the Commons, and the arguments for and against them.
+
+For - Voting for amendment 60 means supporting the creation of a new Financial Conduct Authority (FCA) as an independent regulator of financial services, with a mandate to protect consumers, promote competition, and enhance market integrity. The amendment also gives the FCA powers to make rules, impose sanctions, and intervene in product design and distribution.
+
+Against - Voting against amendment 60 means opposing the establishment of the FCA and preferring to retain the existing Financial Services Authority (FSA) as the regulator of financial services. The amendment also removes the powers of the FSA to make rules, impose sanctions, and intervene in product design and distribution.
+
+Decision - Voting for amendment 60 is associated with stimulus and the free market, because it creates a new regulator that is more responsive to the needs of consumers and the market, and that has more tools to foster innovation and competition in the financial sector. Voting for amendment 60 also implies a rejection of the status quo of the FSA, which has been criticised for being ineffective and bureaucratic.
+
+Sentiment - A

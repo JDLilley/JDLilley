@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I have reviewed the text file open in your current webpage and I will try to answer your questions as best as I can.
+
+Summary - The text file is a transcript of a debate in the UK Parliament on the Finance (No. 2) Bill, which contains various measures related to taxation and public spending. The debate covers topics such as housing, welfare, infrastructure, and anti-abuse rules.
+
+For - Voting for the amendment 6 to clause 203 means supporting a stronger anti-abuse rule that would prevent tax avoidance schemes that are not in accordance with the spirit of the law. The amendment would also require the Government to report on the impact of the rule on tax revenues and fairness.
+
+Against - Voting against the amendment 6 to clause 203 means rejecting the proposed changes to the anti-abuse rule and accepting the Government's version of the rule, which is based on a narrower definition of abusive arrangements. The Government argues that its rule is more effective and certain than the amendment.
+
+Decision - Voting for the amendment 6 to clause 203 is associated with austerity and regulation, because it aims to increase tax compliance and reduce tax loopholes for wealthy individuals and corporations. It also implies a higher level of scrutiny and accountability for the Government's tax policy.
+
+Sentiment - B

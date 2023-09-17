@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I have reviewed the text file open in your current webpage and I will try to answer your questions as best as I can.
+
+Summary - The text file is a transcript of a debate in the UK Parliament on a bill that would limit the annual increase of certain welfare benefits to 1% for three years. The bill was opposed by Labour and some other parties, who argued that it would increase poverty and inequality, while the bill was supported by the Conservative-Liberal Democrat coalition, who argued that it would make work pay and reduce the deficit.
+
+For - Voting 'Ayes' in the division means supporting the bill and agreeing with the Government's argument that capping the uprating of benefits is necessary to restore fairness, fiscal responsibility and work incentives. It also means accepting the Government's claim that the bill would not affect the most vulnerable groups, such as disabled people and pensioners, and that other policies, such as universal credit and tax cuts, would mitigate the impact on low-income families.
+
+Against - Voting 'Noes' in the division means opposing the bill and agreeing with the Opposition's argument that cutting the real value of benefits is unjust, cruel and counterproductive. It also means rejecting the Government's claim that the bill would not increase poverty and hardship, especially for children, women and disabled people, and that other policies, such as universal credit and tax cuts, would compensate for the loss of income.
+
+Decision - Voting 'Aye' in the division is associated with cutting spending on, and provision of, welfare and social housing. This is because the bill would reduce the amount of money that low-income households receive from benefits and tax credits, which are often used to pay for rent, food, utilities and other essentials. The bill would also reduce the incentive for landlords to provide affordable housing, as they would face lower demand from benefit claimants. The bill would therefore worsen the situation of many people who rely on welfare and social housing for their well-being.
+
+Sentiment - B

@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I have reviewed the text file open in your current webpage and here is my response:
+
+Summary - The text file is a transcript of a debate in the UK Parliament on the Local Government Finance Report (England) 2013-14, which sets out the funding allocations for local authorities. The debate covers topics such as fairness, efficiency, growth and council tax.
+
+For - Voting for the report means supporting the Government's local government finance reforms, which aim to reduce the deficit, incentivise local growth, reward councils for building new homes, and give local people more power to veto excessive council tax rises.
+
+Against - Voting against the report means opposing the Government's local government finance reforms, which are accused of imposing unfair and disproportionate cuts on deprived areas, undermining local services, favouring wealthy councils, and creating a complex and opaque system.
+
+Decision - Voting for the report is associated with austerity and regulation. The report reflects the Government's commitment to cut public spending and borrowing, and to regulate the council tax system more tightly.
+
+Sentiment - B

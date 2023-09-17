@@ -1,0 +1,13 @@
+## Bing
+
+This is Bing. I can help you review the text file open in your current webpage. Here is my response based on your request:
+
+Summary - The text file is a transcript of a parliamentary debate on a bill that regulates lobbying, non-party campaigning and trade union administration in the UK. The debate covers various amendments and clauses of the bill, as well as its impact on civil society and democracy.
+
+For - Voting 'Ayes' in the division means supporting clause 26 of the bill, which defines 'controlled expenditure' as spending on activities that can reasonably be regarded as intended to influence voters to vote for or against political parties or candidates. This is meant to prevent undue influence from third parties on election outcomes.
+
+Against - Voting 'Noes' in the division means opposing clause 26 of the bill, which is seen as unclear, confusing and restrictive for charities and voluntary organisations that want to campaign on policy issues. This is seen as undermining their freedom of expression and participation in public debate.
+
+Decision - Voting 'Aye' in the division is associated with reduced bureaucracy and centralisation in the context of parliamentary procedures, because it aims to simplify and harmonise the rules for third party spending across different types of elections and regions. It also gives more power to the Electoral Commission to regulate and enforce the law.
+
+Sentiment - B

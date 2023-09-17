@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I can help you review the text file open in your current webpage. Here is my response based on your request:
+
+Summary - The text file is a transcript of a parliamentary debate on the Energy Bill, which aims to reform the electricity market and promote low-carbon generation. The debate covers various amendments and issues related to the Bill, such as transparency, contracts, capacity, nuclear power, biomass and consumer tariffs.
+
+For - Voting 'Ayes' in the division means supporting amendment 3, which would require the Secretary of State to publish a report on the impact of the Bill on carbon emissions and climate change targets. This would ensure that the Bill is consistent with the UK's commitments under the Climate Change Act 2008 and the Paris Agreement.
+
+Against - Voting 'Noes' in the division means opposing amendment 3, which would impose an additional reporting burden on the Secretary of State and potentially delay the implementation of the Bill. This would undermine the urgency and flexibility of the Bill to address the security and affordability of electricity supply in the UK.
+
+Decision - Voting 'Aye' in the division is associated with prioritising environmental sustainability in the context of Environment & Energy, as it would demonstrate a commitment to reducing carbon emissions and meeting climate change goals. It would also increase the transparency and accountability of the Bill to Parliament and the public.
+
+Sentiment - A

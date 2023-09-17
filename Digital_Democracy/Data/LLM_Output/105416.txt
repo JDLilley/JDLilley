@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I can help you review the text file open in your current webpage. Here is my response based on your request:
+
+Summary - The text file is a transcript of a debate in the UK Parliament on an amendment to the Energy Bill that would set a decarbonisation target for 2030. The amendment was proposed by the chair of the Energy and Climate Change Committee and supported by some MPs from different parties, but it was rejected by the majority.
+
+For - Voting 'Ayes' in the division means supporting the amendment and agreeing that a decarbonisation target for 2030 is necessary to provide certainty for investors, to reduce greenhouse gas emissions, to avoid dangerous climate change, and to create jobs and growth in low-carbon industries.
+
+Against - Voting 'Noes' in the division means opposing the amendment and arguing that a decarbonisation target for 2030 is premature, inflexible, costly, and risky. It also means preferring a diversified energy mix that includes gas and coal, and waiting for the advice of the Committee on Climate Change in 2016.
+
+Decision - Voting 'Aye' in the division is associated with prioritising environmental sustainability in the context of Environment & Energy, because it aims to reduce the carbon intensity of electricity generation and to support low-carbon technologies that can mitigate climate change impacts.
+
+Sentiment - A

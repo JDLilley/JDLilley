@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I have reviewed the text file open in your current webpage and I will try to answer your questions as best as I can. Here is my response:
+
+Summary - The text file is a transcript of a debate in the UK Parliament on the Finance Bill 2023, which contains various measures related to taxation and public spending. The debate covers several amendments and new clauses proposed by different MPs, and the votes on them.
+
+For - Voting for New Clause NC11 means supporting the proposal to introduce a financial transaction tax (FTT) on certain transactions involving shares, bonds, derivatives and other financial instruments. The FTT would aim to raise revenue for public services and discourage speculative trading that may harm the economy.
+
+Against - Voting against New Clause NC11 means opposing the proposal to introduce a financial transaction tax (FTT) on certain transactions involving shares, bonds, derivatives and other financial instruments. The FTT would be seen as a threat to the competitiveness of the UK financial sector and a burden on investors and businesses.
+
+Decision - Voting for New Clause NC11 is associated with austerity and regulation, as it would impose a new tax on the financial sector and restrict its activities. Voting against New Clause NC11 is associated with stimulus and the free market, as it would avoid a new tax on the financial sector and allow it to operate freely.
+
+Sentiment - B

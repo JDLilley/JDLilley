@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I can help you review the text file open in your current webpage. Here is my response based on your request:
+
+Summary - The text file is a transcript of a debate in the UK Parliament on the Crime and Courts Bill, which aims to create a National Crime Agency and make other changes to the criminal justice system.
+
+For - Voting 'Ayes' in the division means supporting the addition of a new clause that would require the Home Secretary to consult with the devolved Administrations before making any order to confer counter-terrorism functions on the NCA.
+
+Against - Voting 'Noes' in the division means opposing the addition of a new clause that would require the Home Secretary to consult with the devolved Administrations before making any order to confer counter-terrorism functions on the NCA.
+
+Decision - Voting 'Aye' in the division is associated with respecting the devolution settlement and ensuring that any change in the counter-terrorism arrangements is done with the consent of the relevant authorities in Scotland, Wales and Northern Ireland.
+
+Sentiment - B

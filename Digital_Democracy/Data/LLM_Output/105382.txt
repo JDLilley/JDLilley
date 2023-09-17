@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I can help you review the text file open in your current webpage. Here is my response based on your request:
+
+Summary - The text file is a transcript of a debate in the UK Parliament on the Finance (No. 2) Bill, which contains various measures related to taxation and public spending. The debate focuses on two new clauses proposed by the Labour opposition: one on government housing market support and one on mansion tax.
+
+For - Voting for the new clauses means supporting the Labour's proposals to limit the government's help to buy scheme to first-time buyers and primary residences, and to introduce a tax on properties worth over £2 million to fund a lower starting rate of income tax for low and middle-income earners[1].
+
+Against - Voting against the new clauses means rejecting the Labour's proposals and backing the government's help to buy scheme, which aims to boost the housing market by offering equity loans and mortgage guarantees to all buyers of newly built homes. It also means opposing the idea of a mansion tax as unfair and impractical.
+
+Decision - Voting for the new clauses is associated with austerity and regulation, as it implies a more restrictive and redistributive approach to the housing market and taxation. It also reflects a concern about the potential inflationary and social effects of the government's scheme.
+
+Sentiment - B

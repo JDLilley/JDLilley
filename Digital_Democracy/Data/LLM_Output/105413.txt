@@ -1,0 +1,11 @@
+## Bing
+
+Summary - The text file is a transcript of a debate in the UK Parliament on the Energy Bill, which aims to reform the electricity market and promote low-carbon generation. The debate covers various aspects of the Bill, such as contracts for difference, capacity market, investment contracts, emissions performance standards, and consumer tariffs.
+
+For - Voting 'Ayes' in the division means supporting amendment 9, which would limit the definition of 'confidential information' in investment contracts to trade secrets only. This would increase the transparency and accountability of the contracts and allow more public scrutiny of their terms and conditions.
+
+Against - Voting 'Noes' in the division means opposing amendment 9, which would restrict the ability of the Secretary of State to withhold information from investment contracts that is deemed commercially sensitive or damaging to developers' interests. This would protect the confidentiality and competitiveness of the contracts and encourage more investment in low-carbon generation.
+
+Decision - Voting 'Aye' in the division is associated with prioritising environmental sustainability in the context of Environment & Energy, because it would ensure that the public and Parliament have access to more information about the costs and benefits of different low-carbon technologies and how they are supported by the Government. This would enable more informed and democratic decision making on energy policy and climate change mitigation.
+
+Sentiment - A

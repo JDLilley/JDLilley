@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I have reviewed the text file open in your current webpage and I will try to answer your questions as best as I can.
+
+Summary - The text file is a transcript of a debate in the UK Parliament on the Justice and Security Bill, which aims to allow the use of closed material procedures (CMPs) in civil cases involving national security. The debate covers various amendments and clauses related to the scope, conditions, and safeguards of CMPs.
+
+For - Voting 'Ayes' in the division means supporting New Clause NC4, which would require the Government to publish a report every five years on the use and impact of CMPs. This would increase the transparency and accountability of the Government and the courts in relation to CMPs.
+
+Against - Voting 'Noes' in the division means opposing New Clause NC4, which would impose an additional burden on the Government and the courts to produce a report every five years on the use and impact of CMPs. This would be unnecessary and costly, as the Government and the courts already have sufficient oversight and review mechanisms for CMPs.
+
+Decision - Voting 'Aye' in the division is associated with freedom & autonomy, limiting police powers & softer punishments, limiting Crime & Justice. This is because New Clause NC4 would enhance the public's right to know how CMPs are used and what effects they have on civil liberties and human rights. It would also limit the Government's ability to use CMPs without scrutiny or challenge.
+
+Sentiment - B

@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I have reviewed the text file open in your current webpage and I will try to answer your questions as best as I can.
+
+Summary - The text file is a transcript of a parliamentary debate on the Public Service Pensions Bill, which aims to reform the pension schemes for public sector workers. The debate covers various aspects of the Bill, such as the fair deal policy, the scheme design, the cost cap, and the local government pension scheme.
+
+For - Voting 'Ayes' in the division means supporting Amendment 29, which would exclude the Scottish local government pension scheme from the Bill unless approved by the Scottish Parliament[1]. The amendment was proposed by the Scottish National Party and Labour MPs, who argued that the Bill would undermine the autonomy and flexibility of the Scottish scheme.
+
+Against - Voting 'Noes' in the division means rejecting Amendment 29 and applying the Bill to the Scottish local government pension scheme. The amendment was opposed by the Conservative and Liberal Democrat MPs, who claimed that the Bill would ensure consistency and fairness across all public service pension schemes.
+
+Decision - Voting 'Aye' in the division is not directly associated with either greater or lower spending on welfare and social housing. However, it could be seen as a way of protecting the interests of Scottish local government workers, who provide many public services, including welfare and social housing. Therefore, voting 'Aye' could be interpreted as a gesture of support for those workers and their pension rights.
+
+Sentiment - C

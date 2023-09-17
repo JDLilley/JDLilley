@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I can help you review the text file open in your current webpage. Here is my response based on your request:
+
+Summary - The text file is a transcript of a debate in the UK House of Commons on the Crime and Courts Bill [Lords] (Programme) (No. 3) motion, which sets out the time allocation for the remaining stages of the bill. The motion was opposed by some MPs who wanted more time to discuss amendments on extradition, press regulation, and other issues.
+
+For - Voting 'Ayes' in the division means supporting the motion and agreeing to the proposed timetable for the bill. It also means accepting the cross-party agreement on implementing the Leveson report on press regulation, which involves a royal charter and statutory underpinning.
+
+Against - Voting 'Noes' in the division means opposing the motion and wanting more time to debate the bill and its amendments. It also means rejecting or questioning the cross-party agreement on press regulation, which some MPs see as a threat to press freedom or a rushed and flawed process.
+
+Decision - Voting 'Aye' in the division is associated with greater police powers, harsher punishments, and strengthening Crime & Justice, because the bill contains provisions that would enhance the powers of the National Crime Agency, increase sentences for certain offences, and reform legal aid and courts.
+
+Sentiment - A
