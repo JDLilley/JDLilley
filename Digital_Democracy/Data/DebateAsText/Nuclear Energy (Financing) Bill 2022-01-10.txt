@@ -1,0 +1,842 @@
+ Nuclear Energy (Financing) Bill
+
+Consideration of Bill, not amended in the Public Bill Committee
+
+New Clause 1
+
+Report on proposed payments to a nuclear administrator or relevant licensee nuclear company
+
+“(1) Prior to making payments for the purpose described in section 41(2)(c), the Secretary of State must prepare and publish a report on the proposed payment and must lay a copy of the report before Parliament.
+
+(2) Before the payment is made, the report under subsection (1) must be approved by the House of Commons.”—(Alan Brown.)
+
+Brought up, and read the First time.
+
+17:08:00
+
+Alan Brown (Kilmarnock and Loudoun) (SNP)
+I beg to move, That the clause be read a Second time.
+
+Mr Deputy Speaker (Mr Nigel Evans)
+With this it will be convenient to discuss the following:
+
+Amendment 1, in clause 1, page 1, line 15, at end insert—
+
+“(6) “Owned by a foreign power” means owned by a company controlled by a foreign state and operating for investment purposes.”
+
+This amendment is a definition of “foreign power” set out in Amendment 2.
+
+Amendment 2, in clause 2, page 2, line 14, at end insert—
+
+“(c) the nuclear company is not wholly or in part owned by a foreign power, and
+
+(d) the fuel rods for the company’s reactor are supplied by a UK based company.”
+
+This amendment prevents the Secretary of State from designating a nuclear company owned or part-owned by the agents of a foreign power and ensures that the fuelling of the designated company’s reactor is provided by a UK based company.
+
+Amendment 6, in clause 3, page 3, line 8, at end insert—
+
+“(e) detail of any public funding agreed as part of the project development and the services being provided for this funding.”
+
+Amendment 9, page 5, line 21, at end insert—
+
+“(4A) The Secretary of State must lay a report before Parliament in respect of each project in relation to which a nuclear company has been designated under section 2(1) before exercising the power under section 6 (1), setting out—
+
+(a) the expected overall capital cost of the prospective project,
+
+(b) the expected up-front cost of the prospective projects,
+
+(c) the general terms of the project for the sale of electricity onto the grid, including—
+
+(i) a statement of whether the Government has offered the nuclear company a minimum floor price mechanism for the sale of electricity onto the National Grid,
+
+(ii) the minimum floor price mechanism included in any arrangement including any inflationary or baseline indices, and
+
+(iii) the duration in years of any such arrangement under sub-paragraph (ii); and
+
+(d) how decommissioning costs of the project will be met, including in the event of insolvency of the nuclear energy company, setting out any role for—
+
+(i) revenue collection contracts, including any percentage specifically dedicated to decommissioning costs;
+
+(ii) protection of decommissioning payments for time of need;
+
+(iii) insurances; and
+
+(iv) consumer risk.”
+
+In respect of new nuclear projects, this amendment would require the Secretary of State to lay before Parliament a report on the up-front and overall expected cost of the project, details of any agreement reached terms for the sale of electricity onto the National Grid and how decommissioning costs will be met, including in the event of the nuclear company becoming insolvent.
+
+Amendment 8, page 6, line 15, at end insert—
+
+“(n) provision about penalties the Secretary of State may apply if the level of power outages of a nuclear reactor results in up to 60 non-operational days in a 12 month period.”
+
+Amendment 3, in clause 7, page 7, line 8, at end insert—
+
+“(3A) When exercising the power in subsection (1), the Secretary of State must not cause the excess of expenditure being incurred over the allowable revenue cap to lead to further charges upon revenue collection contracts.”
+
+This amendment prevents the Secretary of State from allowing the levy of further consumer charges should an increase in allowable revenue be agreed following increases in costs or timescale of a nuclear project.
+
+Amendment 4, page 7, line 8, at end insert—
+
+“(3A) When exercising the power in subsection (1), the Secretary of State must publish a statement setting out how an adjustment in the company’s allowed revenue is to be made without relying on revenue collection contracts.”
+
+This amendment requires the Secretary of State to set out how an adjustment to allowed revenue, following an increase in costs or time, is to be provided for by means other than additional customer levies.
+
+Amendment 7, in clause 11, page 10, line 2, at end insert—
+
+“(1A) The Secretary of State must exercise the power under subsection (1) to require each designated nuclear company to make an annual report of—
+
+(a) the number of outages of each reactor, the reasons for outages and the total number of non-operational days per outage, and
+
+(b) an assessment of the operational lifespan of the reactor and its key components and details of all safety inspections carried out.”
+
+Amendment 5, in clause 32, page 24, line 24, at end insert—
+
+“(5A) In the event that a relevant licensee nuclear company cannot be rescued as a going concern, or if a transfer of the undertaking to a wholly owned subsidiary does not result in the establishment of a going concern, the Secretary of State must establish a Government-owned company into which the assets, liabilities and undertakings of the relevant licensee nuclear company may be transferred in order to allow electricity supply to be commenced or continued at the nuclear installation in respect of which the relevant nuclear licensee holds a nuclear licence.”
+
+This amendment ensures the continuation of a nuclear project where a failed company cannot be rescued as a going concern or successfully have its assets transferred to a subsidiary.
+
+Amendment 10, page 24, line 26, at end insert—
+
+“(7) Prior to a transfer falling within section 32(3), the Secretary of State must lay a report before Parliament.
+
+(8) The report under subsection (7) must set out—
+
+(a) the liabilities associated with the nuclear company;
+
+(b) any estimated costs of getting the plant operational again if it has been temporarily shut down;
+
+(c) the estimated lifespan of the nuclear power station; and
+
+(d) decommissioning costs and confirmation of any funding provided by the nuclear company for this purpose.”
+
+This amendment would require the Secretary of State to publish a report on the matters listed prior to any transfers falling within clause 32(3).
+
+Alan Brown
+I express my condolences on the untimely passing of Jack Dromey. I pass on my sympathies to his family, particularly the Mother of the House.
+
+I rise to speak to new clause 1 and amendments 6 to 9 in my name. I make it clear at the outset that I still oppose the Bill. The strategy is completely wrong, but I tabled these amendments to seek transparency and to see whether there is any seriousness to ministerial words about their willingness to consider amendments and their openness to further parliamentary scrutiny.
+
+Let me start with amendment 9, which is all about ensuring that Parliament has a fuller understanding of what sums are involved and what commitments the Government will be making as regards any new nuclear project. The Minister has been very good at telling us about the mythical savings that will accrue via the regulated asset base funding model introduced by this Bill—they are estimated at between £30 billion and £70 billion.
+
+What the Government are not so good at is telling us what money they want to commit for the likes of Sizewell C. In effect, they are telling us, “Let’s save money for bill payers by signing up to a less bad deal for a new nuclear project.” According to the impact assessment, the capital and financing cost is going to be in the region of £40 billion to £60 billion for a new nuclear power station. It is a strange logic to tell us that £50 billion being added to our energy bills at the time of a cost of living energy crisis is somehow a good thing. By default, the Government are also confirming just how much of a stinking, rotten deal Hinkley Point C was for bill payers if we are saying that we can save that much money compared with the contracts for difference model for Hinkley C.
+
+We know that eye-watering sums are intended to be committed, but the Bill, as it stands, gives the Secretary of State carte blanche to sign off on a new nuclear deal. Amendment 9 tries to address that by setting out key criteria that should be laid in a report before Parliament. In Committee, and at other times when there has been quizzing on cost transparency, we have been given the con trick, “We cannot share that information for commercial confidentiality reasons.” If Parliament is told that the capital cost of a new power station is some £23 billion, which is the current estimated cost for Hinkley Point C, we do not know what the breakdown of that £23 billion is, so there is no way that that would breach commercial confidentiality. We have a right to know what up-front costs are being committed to or forced on bill payers, and it is important we know that for any deals on the sale of electricity. As I said, at the moment the Government tell us how much money the RAB model will save, but they want to continue to be vague on how much a new project will actually cost. We have the smoke and mirrors argument that it is a basic RAB payment that somehow, in the future, gets partially negated with the sale of electricity to the grid.
+
+In Committee, the Minister also argued that if the capital cost of the project was somehow known, it would be harder to raise capital in the private markets. That is a nonsense argument, given that other infrastructure projects have their costs put in the public domain while capital is still to be raised. I would have thought it advantageous for it to be in the public domain how much capital is required to be raised, in order to generate competition for that capital investment. Initial capital-raising discussions would need already to have been held to get some assessment of the viability of the project as it was being developed. Lines about market sensitivity and best value just do not stack up as a counter argument.
+
+We also need to know what other costs are committed to during the anticipated construction period. Under the RAB proposals, consumers will start to pay money as soon as construction begins, but they are not committed to the full construction cost because that gets spread out over the 60-year operational contract period. It is only right that bill payers know what costs are being committed to at the outset before that final sign-off of a 60-year contract.
+
+Amendment 9 also tries to get transparency about the sale of energy. We are told there will not be a strike rate, but to me it is not credible to believe that some £50 billion-worth of capital and financing costs will be committed for a 60-year operational plan without sufficient confidence on the returns from the sale of electricity. Ministerial clarity is required, and that is why it would be good to have the Government commit to having to report on that.
+
+For example, in a briefing in favour of the Bill, the Prospect union has come up with the ridiculous supposition that if energy prices in the market are at the right level in the future, RAB payments could reduce to zero. Are we seriously supposed to believe that is a credible proposition? Equally, are we supposed to believe that if wholesale electricity prices drop to a certain level way below the operational costs of the nuclear plant in generating electricity, the nuclear company will just carry on regardless, because it carries all the risks? It might not be a strike rate as we understand it in terms of the contract of difference scheme, but given the scenarios I have painted, some sort of guarantee will be looked for and it might be a minimum floor price on the sale of electricity. If so, we should know about it as parliamentarians and bill payers. If there is not a minimum floor price in future and the risk lies with the developer or is somehow baked into the RAB payments, we should know and understand that as well. Otherwise it is about continued closed-door negotiations hidden from the public who are actually paying for it.
+
+Amendment 9 tries to shine a light on what would otherwise be that closed-shop negotiation by a Government who still have not learned the lessons from their desperation to sign off on Hinkley Point C at any cost whatsoever and seem destined to do so again with Sizewell C, just this time with a different model and the bill payers carrying a greater level of risk through the RAB model. I would expect any parliamentarian here who believes in some form of parliamentary scrutiny to be happy to have the Secretary of State obliged to report on the capital cost, any up-front committed costs and any future sale of energy contracts as a basic form of transparency, as amendment 9 seeks.
+
+17:15:00
+
+Another important aspect of amendment 9 is decommissioning. At present, decommissioning and tidying up the existing nuclear legacy is another albatross around the necks of taxpayers. An estimated £132 billion is to be spent in the next 100 years. This sum increases every time the Nuclear Decommissioning Authority gets new information and updates the estimate. We are told, in this case, that decommissioning is baked into the up-front prices of the contractual agreement going forward. Amendment 9 therefore tries to elicit more information on this aspect. We understand that construction can take 10 to 15 years, and that thereafter there is supposed to be a 60-year operation of the new nuclear station before decommissioning occurs. The defuelling stage takes up to five years before the rest of the site can be properly dismantled. How robust will be the decommissioning costs that are baked into the up-front contract, which means that they are estimated to be some 75 years ahead of when the decommissioning task is supposed to begin?
+
+It is clear that there are massive financial risks surrounding this. Insurances or bonds must be required if there is to be any chance that the liability does not just pass to the bill payer in future, especially if the nuclear company becomes insolvent. We also need protections to ensure that it does not become an attractive proposition in future for a company to become insolvent and simply pass on the liabilities. Amendment 9 seeks to get some clarity for Parliament on those considerations.
+
+Amendment 6 is also about transparency of costs—in this case, the up-front costs, or costs borne by the taxpayer. Much of the rationale for the amendment is the Budget commitment in the Red Book of £1.7 billion to enable a final investment decision for a large-scale nuclear project in this Parliament. That is an astonishing sum of money to commit taxpayers to. In Committee, the Sizewell C Consortium stated that it had no idea where that £1.7 billion comes from, and the Minister still has not been able to explain it to me, either in Committee or following a written question.
+
+Again, I suggest that for full transparency, parliamentarians need to know what money is being thrown at nuclear projects up front and what the likes of this £1.7 billion actually procure. At the moment, all we know is that it is what the Treasury thinks is required to get Sizewell C to final investment stage. However, this sum of money could otherwise be used to see major construction of renewable projects. It could see the Coire Glas pumped hydro storage scheme constructed and the Cruachan Dam pumped hydro extension undertaken. Instead, at the moment, it looks as though it will be spent on design, accountancy and lawyer fees. This is despite the fact that we are continually told that Sizewell C is practically designed already by utilising the design from Hinkley Point C. If this money for development is for other purposes such as, as has been mooted, a stake in the consortium, then we should still know what it is being utilised for. It should not be too much to ask this of Government for them to accept amendment 6.
+
+Amendment 7 tries to get some clarity on the operation of the plant going forward. The great myth of nuclear power is that it is supposed to be so reliable and provides base-load. We keep hearing that nuclear power is required for when the wind does not blow, but the reality is that nuclear is too inflexible to be properly compatible with intermittent renewables, and a nuclear station is either on or off—that is the limit of its flexibility. From the answer to a written parliamentary question I submitted before Christmas, it also seems that nuclear power stations tend to go off for way longer than would be expected if nuclear power were so critical and reliable. Looking back at the year-on-year average since 2010, each nuclear power station is down for nearly 25% of a typical year. If we look at Hartlepool, each reactor is down for 90 days a year on average. Dungeness was down for nearly 200 days a year on average until its early closure. Even Sizewell B, the youngest power station in the existing fleet and the one with the greatest remaining lifespan, has been non-operational for 64 days a year on average since 2010. To me, that is truly astonishing and again destroys the argument for why new nuclear is required.
+
+As one of the witnesses in Committee stated, each nuclear station actually requires further nuclear as a back-up because of all those outages. Amendment 7 would provide Parliament and bill payers with at least some clarity on how a new station was performing in its ability to generate electricity at times of need.
+
+Amendment 7 would also provide for annual reporting and assessment of the condition and operability of a station. If we look at the existing fleet of nuclear reactors, we see how the anticipated lifespan and operation of a plant can change quickly, with Dungeness closing seven years early. Considering how it was effectively offline for the preceding two years, had Dungeness been subject to the report requirements I am asking for, at least Parliament would have understood the situation there. They would probably have elicited more questions from parliamentarians about the state of that power station. If we are looking at a 60-year operational contract—bear in mind that no nuclear power station in the UK has ever reached the 50-year milestone—it is important that, as a plant ages, parliamentarians and bill payers understand the performance of the station and, critically, its operational lifespan and any liabilities and repairs that are required. That is what amendment 7 seeks to ensure.
+
+Amendment 8 is linked to the operation of the plant and allows for penalties if the plant is down too long. It seems logical, if we take the Government argument that nuclear power is critical, that we need to minimise the risk of extended outages. Amendment 8 would do that by giving the Government the ability to impose penalties and seek financial recovery if a station was down for too long. I have inserted a suggested timeline of 60 days, which I think is a reasonable point for penalties to kick in, especially when we look at the recent historical performance of the existing fleet. That still allows a station to be down for 15% of the time in a typical year before penalties are incurred.
+
+Amendment 10 is also about transparency, this time in the event of a nuclear company becoming insolvent. It is only right that the taxpayer understands the liabilities the Government are willing to pick up in the event of insolvency. Compelling a report on the costs of getting a plant operational again, what its remaining lifespan is and any other liabilities that might not be covered any more due to insolvency, such as decommissioning, might at least focus minds on the merits of continuing to operate a plant or not. Otherwise, we remain in the position where the Secretary of State could be writing blank cheques that Parliament is unaware of.
+
+John Redwood (Wokingham) (Con)
+The hon. Gentleman is raising some important questions about cost and reliability. What is his recommendation as to what the Government should do to make the position better?
+
+Alan Brown
+My ideal recommendation would be not to invest in a new nuclear plant. That would be the first thing, but if we take the situation as it is and look at the position going forward, the Government first need to satisfy themselves on the design. Bear in mind that the EPR system is still not working anywhere in the world. The whole point of the amendment is to at least have yearly assessments and reports to Parliament that advise on reliability. As I say, that would allow parliamentarians to understand that, challenge the Government if need be, and help to put pressure on nuclear consortiums if they were not performing to plan. That, for me, is critical to actually getting what has been signed up for.
+
+Wera Hobhouse (Bath) (LD)
+Does the hon. Gentleman agree that increasingly, the view that we need a permanent base-load for energy supply is outdated thinking, and that most modern thinking around the idea of energy supply all day, every day is that we do not need the idea of base-loads anymore?
+
+Alan Brown
+I agree wholeheartedly with that. Actually, as far back as 2015, Steve Halliday, the then chief executive of National Grid, said that baseload was an “outdated” concept and a false argument, so I agree with that. This goes back to my point that nuclear is too inflexible because it is either on or off, and it is actually nuclear that leads to wind turbines being turned off so often. The bizarre thing is that nuclear has hidden costs because of the energy constraint payments that are made.
+
+To return to the amendments, our amendment 10 relates to clause 32, as does Labour’s amendment 5. I would point out, as I stated in Committee, that I do not support the Labour amendment because I believe that compelling the Government to take over a plant confirmed to have been economically unviable would be throwing good money after bad, which is the polar opposite of the rationale behind our amendment 10. However, to be fair, I certainly support all the other Labour amendments, particularly those about foreign ownership, and I will be happy to support them if they are pushed to a vote.
+
+Finally—people will be glad to know—I turn to new clause 1. This is another attempt at transparency in what could otherwise be the Secretary of State committing huge sums of money via the special administration route. Again, I do not think it too onerous for the Secretary of State to have to report to Parliament on the likely costs of a bail-out of an insolvent company.
+
+In Committee, the Minister argued that it would hamper the process, but given that the SAR process is only being implemented for the first time through Bulb going bust, it is unclear to me why a report to Parliament would unduly delay the anyway complicated process of going through the courts. The Minister stated that the court process would provide enough transparency, but also that the reporting requirement might have commercial implications and affect the Secretary of State’s ability to bring the administration to an end. Both aspects of that cannot be true: there is enough transparency or there is not. It seems to me that reporting to Parliament should not hinder the transparency process, and it should not have commercial implications, so this new clause has been put forward to ensure clear reporting of information to Parliament.
+
+In conclusion, I have made it clear from the outset that this Bill lacks transparency. Clauses 2 and 3 give way too much power to the Secretary of State to assess what he or she believes to be a value-for-money nuclear project and then commit bill payers to paying for it. While I am opposed to the Bill, I have not even proposed wrecking amendments because the amendments today are all designed to ensure that, first, parliamentarians and, secondly, bill payers know exactly what money is being committed and for what reasons.
+
+If the Government have faith in their arguments that nuclear energy is required and that it represents true value for money, it seems to me that they should willingly accept these amendments and new clause 1. If the amendments get defeated in votes, we will know that it is all about continued backroom deals that they fear will not stand up to scrutiny if they were to report on the actual sums.
+
+John Redwood
+I welcome proposals that will create more generating capacity in the United Kingdom. As the Minister knows, I am extremely worried that we are already typically 10% dependent on imported electricity and that the current plans envisage our becoming more import dependent, with the preferred route for electricity provision being the construction of more interconnectors. I am worried about this on security grounds, because we link ourselves at our peril into an energy-short system on the continent of Europe that is far too dependent on Mr Putin and Russian gas. I also worry about it because we are short of electricity and gas at the moment, and we see the price pressures that that creates. I think we should be doing more to expand the supply of both electricity and domestic gas.
+
+I think the Scottish National party has made some important points, although it comes at nuclear power from a different perspective from that of the Government. While we could usefully enjoy more nuclear power, it is very important that those projects are timely and cost-controlled, with technologies that will deliver reliable power on a sustainable basis. Does the Minister agree that nothing in this legislation, and nothing that he can now do, can prevent the proportion of our electricity that is generated by nuclear from declining for the whole of this decade? As I understand it, these projects take a long time to get type approval and financing, and a long time in construction. As I also understand it, all but one of our current nuclear power stations is scheduled to close by 2030, and although one large new nuclear power station should come on stream during that period, it will not offset all the capacity that is taken out.
+
+17:30:00
+
+So, it would be misleading to suggest that nuclear power can do anything to solve our problem this decade. I do not want to get in the way of it solving the problem for a following decade—we need to think ahead and these are very long-term projects—but the context of this debate is that we will be energy short for the next decade, and that even with the best intentions of this legislation and the possible schemes that would come under it, we are not going to do anything to contribute to resolving our energy shortage in the decade that we now face.
+
+I would also like the Minister’s thoughts on the pace of the roll-out of nuclear power, if this Bill goes well and is passed with suitable amendment. What would he expect to see by way of incremental capacity for the following two decades after 2030, if all went well with the ideas embedded in this legislation, given the state of the technology and the rather imperfect supply of capacity? Above all, does he have plans for smaller nuclear where it might be possible to approve a project more quickly and then scale it up and roll it out in more than a few locations?
+
+Bob Seely (Isle of Wight) (Con)
+The purpose of small modular nuclear reactors—we are going to be building 10 or 15 of them—is to enable us to bring the price down. Is my right hon. Friend also concerned that 18 major projects in oil and gas exploration have seemingly been put on hold, given that we need those projects and those fields to come online now?
+
+John Redwood
+Yes. I fear I may be wandering a little from the actual Bill, Mr Deputy Speaker, but given the general context of energy shortage and the crucial role that gas has been playing in recent months in generating electricity, because we are short of nuclear power and short of wind power when the wind does not blow, I would strongly recommend that we get on with exploiting our own gas reserves. That is greener and cheaper than relying on gas being brought halfway round the world in a liquefied natural gas tanker or on Mr Putin’s gas routed via the continent. That is probably an argument for another day, but I am grateful to the Deputy Speaker for allowing me to answer my hon. Friend’s very good point.
+
+In conclusion, I would like the Minister to set out a little bit more of the context of when nuclear might start contributing to our electricity demand and need, and how he sees the balance of that developing between small nuclear being rolled out at greater scale and the one or two large nuclear projects that might still be around. Also, given the hugely radical electrical revolution that the Government wish to encourage, with switching home heating from predominantly gas to electricity and switching much transport from predominantly diesel and petrol to electricity, we are going to need a massive expansion of total capacity. Would he agree, however, that we are starting from a position where we do not have enough capacity for our current levels of demand and where the nuclear element of that capacity will contract quite a lot over this decade?
+
+Wera Hobhouse
+As a lifelong anti-nuclear power campaigner, I could not fail to speak in this debate or to represent the views of the many Bath constituents who have written to me over the last weeks and months about voting and speaking against this Bill. We need to get to net zero by 2050 at the latest, but do we need nuclear power to get there, and is nuclear energy a fair deal for our consumers? While nuclear power is not a carbon fuel, it is enormously expensive, costing twice as much as generation from renewables. In answer to the right hon. Member for Wokingham (John Redwood), I believe that we just need to roll out renewable energy. We have the capacity. Britain is a country surrounded by sea, and there is a lot of wind further out. Projects such as floating wind are out there—I speak to that industry a lot. If only the Government had the political will to make that renewable energy revolution happen.
+
+John Redwood
+What difference would it have made if we had had double our wind capacity in recent weeks when it was supplying only 2% of our total electricity because there was no wind?
+
+Wera Hobhouse
+As I said, there is the potential for offshore wind, particularly further out where the wind blows all the time—the right hon. Member needs only to talk to the industry about that—if only the Government were prepared to invest much more in that and not just rely on the small projects that we currently have.
+
+Yes, we doubled our offshore wind capacity thanks to the Liberal Democrats in government—some time ago now—but there is still no level playing field for the renewable energy sector. We speak of this again and again. If only the Government were prepared to set a regulatory level playing field, we could see a lot more renewable energy to cover our energy costs.
+
+Let me repeat that while nuclear power is not a carbon fuel, it is enormously expensive, costing twice as much as generation from renewables, and in the end that cost will fall on the consumer. We have seen the disasters of that in recent weeks. Quite apart from the long-term costs of decommissioning, disposal and storage of waste, nuclear is an unusual technology that sees costs rise instead of fall over time. In other words, it has a high need for Government subsidy.
+
+The Government say that the Bill is about saving consumers money by removing barriers to private investment in the nuclear sector, but that is misleading. Their proposed regulated asset base funding model provides no protection for consumers; instead, evidence shows that costs under this model for abandoned nuclear power stations have still been passed on to consumers.
+
+Let us look at what happened in the United States, where a version of the regulated asset base model—early cost recovery—was introduced more than 10 years ago. As in Britain, ECR was sold to policy makers as a way of lowering the cost of capital, thereby making nuclear power more competitive with other sources of generation. However, the lower capital cost was not a true saving. The nuclear renaissance’s 2009 peak consisted of applications to build 31 units pending at the Nuclear Regulatory Commission. Of those, 29 have been cancelled, and despite expenditure exceeding $20 billion, no new US nuclear plants have gone into service. In South Carolina, ratepayers are having to pay $2.3 billion for a cancelled nuclear plant. While US electricity customers are exposed to paying more than $10 billion for cancelled nuclear plants and another $13.5 billion in cost overruns, no reactors have come online as a result of the US shift to early cost recovery. Florida and South Carolina have repealed the laws allowing early cost recovery, and no states have enacted such laws in the last decade, so why on earth are the Tory Government introducing a failed financial model from the US?
+
+In contrast, the cost of renewables is falling globally. Renewables are significantly undercutting fossil fuels as the cheapest form of energy as the cost of renewable technologies falls. According to the International Energy Agency, the world’s best solar power schemes offer the “cheapest…electricity in history.”
+
+John Redwood
+rose—
+
+Wera Hobhouse
+I will not give way again.
+
+Renewable energy is the future, and we in the UK are ideally placed to take advantage of the wind and wave power all around us. When UK tidal wave projects were cancelled in the past, that was always on a cost basis. Why do we not look at those projects again? They are truly renewable and truly the future. We could be an exporter of renewables. Onshore wind is now the cheapest form of electricity generation in the UK—
+
+Mr Deputy Speaker (Mr Nigel Evans)
+Order. I have been incredibly generous, as I was to Sir John Redwood. Could the hon. Lady tell me which clause she is speaking to?
+
+Wera Hobhouse
+Thank you, Mr Deputy Speaker; I am coming to the end. I could not miss the opportunity to speak in this debate because I believe that the whole Bill is a complete failure. However, I will be supporting all the amendments that are proposed today because they will improve it, but I will vote against the Bill.
+
+Virginia Crosbie (Ynys Môn) (Con)
+It is a pleasure to speak in this debate. As the co-founder of the nuclear delivery group, along with my fellow atomic kitten, my hon. Friend the Member for Copeland (Trudy Harrison), I have been at the forefront of campaigning for nuclear energy to form a key part of our 2050 net zero strategy since becoming MP for Ynys Môn.
+
+I can talk about the various amendments tabled by the Opposition, but the reality is that this Bill is critical if the UK is to tackle climate change, and it is critical for the UK’s energy security and stability. The demand for electricity will only rise as we phase out carbon-based energy. Although renewables such as solar, wind and tidal energy must form part of our zero-carbon mix, they simply do not currently offer the capacity or reliability that we will need to go forward. Nuclear power is the only viable alternative to fossil fuels that the UK can implement in the timeframes required.
+
+Alan Brown
+When the hon. Member speaks to the amendments, will she explain why she opposes any of them? I would have thought that tabling amendments about transparency and to highlight the costs of nuclear would be a good thing.
+
+Virginia Crosbie
+Several of the amendments that the hon. Member mentioned relate to information flow and financing. I will talk more about financing and how that is so important to my constituents on Ynys Môn.
+
+In recent years, we have seen our nuclear generation capacity drop and UK progress on the decarbonisation of power stall. Over the past year, I have been working hard to raise the issue of financing for nuclear power with Ministers and officials, because it is a key blocker to bringing more nuclear power online. The majority of my constituents support Wylfa Newydd. It is recognised as the best site in the UK, possibly the world, to host a nuclear power plant.
+
+I will end by saying that the Bill will make a huge difference to Ynys Môn. My constituency has one of the lowest levels of gross value added in the UK and we desperately need these jobs to come through. On behalf of the nuclear delivery group, I would like to thank all my constituents and, in particular, the community of Llanbadrig for remaining positive and united in the hope that Ynys Môn sees the fruits of this important piece of legislation.
+
+Mr Deputy Speaker (Mr Nigel Evans)
+Order. It would be really useful when people are contributing on Report if they could mention some of the amendments or the new clause now and again.
+
+Charlotte Nichols (Warrington North) (Lab)
+I welcome the return of this important Bill from Committee and I am pleased to support it, as is the Labour party. Indeed, although our NHS is the Attlee Government’s greatest achievement, it was his Labour Government who approved this country’s first nuclear reactors, which have been supplying clean energy ever since.
+
+It is regrettable that it has taken the Conservatives more than a decade in office to bring forward these new plans to finance and ensure that we have the next generation of nuclear that we need. I am concerned that much of our domestic expertise and supply chain capacity has eroded in that time, but it is still true that if the best time to build a nuclear plant was 10 years ago, the second-best time is today. This is especially important with the retirement of Hunterston B last week, which alone provided 1 GW of the UK’s 7.9 GW nuclear capacity—enough to power 1.7 million homes.
+
+As our energy bills rocket in the months to come, as a result of huge volatility in the international gas markets, we will be reminded yet again of the importance of the diversification, sovereignty, security and constancy of our power supplies, which Labour’s amendments address. Ensuring that there is a further generation of nuclear plants is the best way to address that as well as to be environmentally sustainable as we seek net zero.
+
+There are too many myths about nuclear power that undermine it in the public mind and in pockets of this place. Let us hear the facts: nuclear power has the lowest lifecycle carbon of all technologies, the lowest land use of all low-carbon technologies, the lowest mining and metal use of all low-carbon technologies and the highest employment multiplier of all low-carbon technologies. Those peddling such myths rely on misleading comparisons, over-optimism about alternatives and wholly outdated concerns about safety that do not reflect the reality of modern nuclear plants. We should not be scared of making the positive case for nuclear, and making it strongly and proudly. Nuclear is safe and reliable, and it directly creates quality, high-paying and unionised jobs, as well as supporting many more in its supply chain.
+
+17:45:00
+
+I declare an interest, as Warrington North has the third-most nuclear jobs of any constituency in the country, despite not having a nuclear plant. Indeed, I recently visited Hinkley Point C with the all-party parliamentary group on nuclear energy, to see for myself the fruits of the labour of the thousands of my Warrington North constituents who work in its supply chain, alongside many other nuclear workers, on all aspects—from new build to decommissioning, nuclear medicine and nuclear propulsion for space flight. Moltex, based in Birchwood in my constituency, is currently working on stable salt reactors, which would recycle nuclear waste from older fleets of reactors by using it as the fuel for future fleets.
+
+These are good jobs, in stark contrast to the increasing casualisation of our labour market and the gig economy more widely. High-quality apprenticeships, including at the university technical college in Warrington, involve working with employers such as Sellafield, and they open up great opportunities for my constituents in high-skilled roles in a world-class industry. We are proud of them and would welcome many more.
+
+Mark Jenkinson (Workington) (Con)
+Does the hon. Member have any figures on how many of those jobs in Warrington might be put at risk by the exclusion of companies that are partly foreign-owned? If passed, Labour’s amendment might keep them out of new nuclear build.
+
+Charlotte Nichols
+I do not have the data on my person at this point, but ultimately more jobs are at risk in Warrington North’s nuclear sector if we do not approve the building of new nuclear. Regardless of whether that involves direct state investment, a regulated asset base model, as we are discussing today, or foreign investment, the fact is that we need to get it built, because all those jobs will be at risk if we do not.
+
+Going back to the point that the hon. Gentleman raised, we have heard complaints about the cost of the regulated asset base model. Indeed, my preference would be direct state investment in this vital national infrastructure, which would keep the stations and the power they produce in public ownership. None the less, the model that we are discussing must be recognised as an investment that guarantees construction and production over the longer term.
+
+As I wind up my remarks, I want to point out that the uncertainty and lack of guarantees have left the industry in the dark for so long. With the uncertainties now addressed by the Bill and the amendments that Labour has tabled, the industry can now have the confidence to plan and move forward. My hope is that by passing the Bill on a cross-party basis, it will send the signal that there is a clear consensus on the vital role that nuclear will continue to have in our energy mix. This message is fundamental as we hopefully move on from Sizewell C to other projects and plan these as a fleet to drive down costs and to maintain and expand the world-class expertise and skills of the British nuclear sector.
+
+Bob Seely
+I rise to speak to amendments 1 and 2. If I have time, I will get to amendment 9, but I will speak for no more than five minutes.
+
+I hear what people say about the importance of renewables, but it is not a choice between renewables or nuclear. Frankly, if the world is to have any chance of meeting its carbon targets, it is not “either/or” but “and”. I am afraid to say that we see the environmental, energy and security disaster that is Germany’s imbecilic energy policy, caused by the shutting of nuclear and the dependence on Russian gas and lignite coal, the dirtiest form of energy production known to humanity.
+
+Wera Hobhouse
+I am not speaking on behalf of Germany, because Germany is in a very different position from that of Britain. It is more or less landlocked, it does not have sea, and it does not have wind in the same way. Britain has a massive opportunity to invest in new renewable energy that no other country has apart from Greece, which is doing so.
+
+Bob Seely
+I am half German and I think my German relatives would confirm that they have wind in Germany. [Interruption.] And the Baltic sea—thank you very much indeed. There is no reputable case, including in reports from the UN and others, that disagrees that, if we are to meet zero carbon at some point in the next 20, 30 or 40 years, nuclear will play an increasingly significant element, whether we like it or not. It is a very low-carbon form of energy, with no greenhouse gas, and it is important for us to take that on board.
+
+On foreign ownership and foreign funding, would I start from here? No. I am uncomfortable with the idea that we would ever want to build an untried, untested Chinese nuclear reactor in this country, especially one that has not been built anywhere else, to say nothing of the geopolitical ramifications of that. I am not hugely happy that we have Chinese funding in place, but I understand the critical point that we need a sense of momentum to make progress on this issue. In a perfect world, though, we would not be starting from here.
+
+Alan Brown
+The hon. Gentleman spoke about the importance of nuclear to get to net zero, but the UK Government are committed to decarbonisation of the electricity grid by 2035. If we are going to rely on nuclear, there is no way on earth that we can fully decarbonise the grid. Other things are needed, such as carbon capture and storage and green hydrogen.
+
+Bob Seely
+The hon. Gentleman makes a perfectly sensible point, but his argument that we can do it all with renewables is a bit of a cop-out. We are not doing so. I want tidal energy for the Solent and for the Isle of Wight as much as he does for the west of Scotland, but the argument that renewables will solve our problems—especially when, as the right hon. Member for Wokingham (John Redwood) says, there is no wind— is a difficult one to sustain.
+
+Moving back to amendments 1 and 2, it is perfectly sensible for the Government to make the point—the Minister did so when we were in conversation last week, and I thank him for his time—that we need foreign institutional funding, especially from friendly states, such as the United States, Australia, Canada, and the European Union, and a RAB system to make that investment in nuclear, which is expensive and which we need for the long term, but we need to be getting on with it. Having argued against those two amendments, I have to say that we have had two decades of incredibly poor leadership on energy supply. The hon. Member for Warrington North (Charlotte Nichols) spoke eloquently about the attractions of the nuclear industry, but, unfortunately, the point she missed out was that nuclear was killed as an investment discussion early on in the new Labour years. Unfortunately, the coalition carried on with that, because, effectively, we were appeasing a rather extreme green lobby in our country. We are coming to this very late. As my right hon. Friend the Member for Wokingham said, in a decade’s time, we will lose 12 out of the 13 nuclear reactors that we have. That means that we will go backwards when it comes to producing low-carbon, low-greenhouse-emission energy, even if more renewables come on stream, which I hope they will, so we need to get on with this.
+
+Are we in a perfect position with Chinese funding? No. Do I want to see a Chinese nuclear reactor in this country? Absolutely not. Do I want to see Rolls-Royce nuclear reactors, which I hope will be the Rolls-Royce solution in all senses of the word? Absolutely, and we need to get cracking, because that will lower the price. It is also British technology and we will be keeping those high-quality jobs. We need to get moving. On that principle, I oppose amendments 1 and 2. I am happy with where we are with the Government at the moment, but let us just crack on, get this done, get another Bill for another nuclear plant this side of an election and then get in place the laws and the Bills that we need for modular nuclear to come onstream.
+
+Jim Shannon (Strangford) (DUP)
+It is a pleasure to speak in this debate, and I am grateful for the opportunity to do so.
+
+In the past, I have spoken in the Chamber and in smaller debates about nuclear energy and its importance in today’s society. I will put on record once again my support for nuclear energy and for what it can deliver for all of this great United Kingdom of Great Britain and Northern Ireland. We need nuclear generating capacity for the United Kingdom, and I believe that this Bill gives the opportunity for that to happen.
+
+The hon. Member for Kilmarnock and Loudoun (Alan Brown) put forward a very good case for his proposals in new clause 1 and amendments 6, 9, 8, 7 and 10. I believe that, ultimately, it comes down to whether we support nuclear energy and the benefits that it brings or whether we have some concerns, which, obviously, the hon. Gentleman has.
+
+Nuclear energy in the UK is minimal, with only 13 nuclear reactors and six plants, which are able to supply only about 20% of the UK’s electricity demand. It is worth pointing out that Northern Ireland is the only devolved institution in the UK without a nuclear plant or power station. I note from the papers supplied to us by the Minister that
+
+“For the RAB model and revenue stream measures in Parts 1 and 2, these will extend and apply to England and Wales and Scotland only. This is because the unique energy position of Northern Ireland means they would not benefit from energy produced by nuclear energy generation projects under a RAB model in Great Britain, and so should not be obliged to pay.”
+
+It is clear that the Government have provided protection for us in Northern Ireland. It is also important to remember that in the context of the Government’s levelling up agenda as well as the Bill, the funding is not relative.
+
+Nuclear energy in the UK has not peaked since 1995 and the opening of Sizewell B, the last commissioned plant to be built.
+
+Alan Brown
+I appreciate that the hon. Gentleman is saying that he would welcome new nuclear power. I mentioned earlier that the impact assessment stated that the capital and financing costs of a new nuclear power station would be some £50 billion. If I were to offer the hon. Gentleman £50 billion for an investment in Northern Ireland, would a new nuclear power station really be it?
+
+Jim Shannon
+If only we had the opportunity of a nuclear power station in Northern Ireland! We do not have that possibility at this moment, but I would certainly be keen. I have supported this throughout my years as an elected representative—as a councillor from 1985, in the Northern Ireland Assembly, and now today.
+
+This group of amendments also deals with reports to Parliament on costs of nuclear projects, provision of information on outages, and limits on additional charges to revenue collection contracts.
+
+We are expecting the next nuclear plant to be built in Hinckley Point C in Somerset in 2025, some four years from now. |There is no doubt that there is a huge cost implication when it comes to safe nuclear energy, but I look to Members today to see the good that comes along with it. It ensures that we keep our carbon footprint to a minimum, which is one of the main goals that we addressed at COP26. It is also essential in addressing the energy gap and relaying our response to climate change and lowering gas emissions.
+
+The new RAB model is expected to allow new nuclear projects to be financed privately, which is the thrust of what the Bill is about. However, it is the responsibility of our Government, and our Minister, to ensure that private investors are protected. I should like to hear from the Minister how he plans to include Northern Ireland in this strategy, so that we can gain some benefits. What will happen to private investors should things change in future? I encourage the Minister to engage with the relevant Ministers back home to ensure that similar opportunities are within reach for Northern Ireland. I have historically encouraged him and his Department to ensure that there are the correct provisions for nuclear energy improvement across the UK. While this is a long and costly road, I urge other Members to look at the benefits and sustainability factors that come along with it. Additional funding must be secured for successful and green living throughout the UK.
+
+What is important in this debate is that we understand the essential role that nuclear power has to play, and allow that role to be played in a regulated and possible manner. I support the aim of the Bill to allow the Secretary of State—or the Minister, in this case—to regulate for revenue collection contracts, which will be used to fund a nuclear company. Payments will be managed by a “revenue collection counterparty”. Projects will be paid an “allowed revenue”, which is broadly the agreed capital cost of a project along with other relevant costs. Payments will be made by electricity supply companies which are expected to pass the cost on to consumers. Costs will start to be charged to consumers during construction, based on the allowed revenue due for that period. During operation, the cost will be the allowed revenue due, minus the value of selling the energy generated.
+
+All this seems to me to be common-sense and logical. It is important that we regulate effectively and ensure maximum security. This is not a matter that we can ever take lightly, and I believe that the Bill’s progress has been right and proper. I therefore support the Bill, but ask the Minister to reconsider the role of Northern Ireland in our nuclear power plan. Now that the potential for a plant has been removed from the old equation, there must be a place for us in the new equation.
+
+18:00:00
+
+Richard Graham (Gloucester) (Con)
+What a pleasure it is to join the debate. One of the most enjoyable moments for me was to hear the hon. Member for Warrington North (Charlotte Nichols) making the case strongly and proudly for nuclear power. It was wonderful to hear that, and many of us on this side of the House have shared that feeling for a long time, while perhaps not everybody on her side has done so. It was fabulous to hear it being said.
+
+This debate comes in a week when one of our most important nuclear power stations has just closed. It is a moment to pay tribute to all those involved in Hunterston B, which was designed to last for 25 years and actually did its job for 46 years—a tribute to the huge engineering skills and safety operation involved. It generated enough carbon-free electricity for the whole of Scotland for 31 years. In that context, I find it puzzling that the SNP continues to take such a strong anti-nuclear power position, after all the good work that Hunterston B has done for people across Scotland.
+
+Wera Hobhouse
+We always say that in the past it delivered so much energy, but what about the radioactive waste that is still there? We just close our eyes to that.
+
+Mr Deputy Speaker (Mr Nigel Evans)
+Order. I just remind Richard Graham before he continues that the new clause and amendments should be spoken to, as opposed to a general debate.
+
+Richard Graham
+I am grateful, Mr Deputy Speaker. I would have made precisely the same observation—that we must focus on new clause 1 and the amendments. In that context, it is worth mentioning that there was undoubtedly a strategic error of no new investment in nuclear during the period from 1997 to 2010, when the Opposition were in power. That is precisely why we are here today to discuss the Nuclear Energy (Financing) Bill.
+
+Neil Parish (Tiverton and Honiton) (Con)
+The need for a baseload of nuclear power of up to 25% is apparent. Big nuclear power stations such as Hinkley Point C that will produce about 8% will be absolutely important, especially as Hinkley Point B will soon be mothballed. We really do need to get this going, and it is a shame that when the Labour party was in power it did not develop nuclear power.
+
+Richard Graham
+I am grateful for my hon. Friend’s comments because they lead in to the Bill and what we are debating today, which is largely about finance and the optimum way to ensure that a new, large nuclear power station is constructed, following the success of Hinkley Point C. Indeed, obviously, the ideal thing would be to move the team seamlessly from one project to another. In all of this, it is worth paying tribute to the hugely successful operational nuclear headquarters for the whole country at EDF Energy’s offices in Gloucestershire in my constituency. One thing I hope the Minister will touch on today is how important a part they will play in the future development of our nuclear capacity, whether in further large stations such as the one at Wylfa, talked up—rightly and so effectively—by my hon. Friend the Member for Ynys Môn (Virginia Crosbie), or in any other part of the United Kingdom, as well as in the small modular reactors that have been mentioned by several Members as a key way of generating more nuclear power, and probably faster, to answer the question raised by my right hon. Friend the Member for Wokingham (John Redwood).
+
+Alan Brown
+I issue the challenge again to the hon. Gentleman to speak to the amendments. For example, can he explain why, if he is pro-nuclear, he will vote against amendment 9, which is about providing transparency on cost? Why does he oppose amendment 7, which would compel the Secretary of State to report on the operation of the new nuclear stations in the future, including outages and their condition and operability?
+
+Richard Graham
+The hon. Gentleman has tabled several amendments, including amendments 6, 8, 9 and 7. Largely speaking, my perception is that they are designed to tie down the Government in as much detail as possible, avoiding the uncomfortable truth for the Scottish National party that the whole process of regulated asset base funding, which the SNP opposes, has already been used very successfully for infrastructure projects around the country, not least the separation of ScottishPower and Scottish Hydro Electric in 2005. It has also been used for the Thames tideway tunnel and Heathrow terminal 5. I do not recall those projects ever being criticised for the concept and detail of the regulated asset base funding, which is precisely what we are discussing for Sizewell C.
+
+Alan Brown
+Will the hon. Gentleman give way?
+
+Richard Graham
+I am happy to carry on taking interventions if time allows.
+
+Alan Brown
+The RAB model has been used successfully for some infrastructure projects, but as outlined earlier it has not been very successful in the United States when applied to nuclear power stations. Can the hon. Gentleman tell me of a successful application of the RAB model to a nuclear power station?
+
+Clive Lewis (Norwich South) (Lab)
+rose—
+
+Richard Graham
+May I answer the intervention from the hon. Member for Kilmarnock and Loudoun (Alan Brown) first? We are more interested in what has been tried and tested here in the United Kingdom than in what may not have succeeded in a different model in a different sovereign country. Obviously, this is the first time it has been used for nuclear power here, but let us not forget, as I have pointed out, that there was a whole generation in which no nuclear power stations were built at all. When it came to the funding for Hinkley C in around 2010-11, I remember well the debates that we had at that time and, of course, the uncomfortable truth that we had lost the expertise to build these things ourselves, so we needed to bring in both foreign finance and foreign expertise. The situation today is different, because we are building on what we have already learned and achieved so far in the process at Hinkley Point.
+
+I agree with the Government that this is a time to choose to move to regulated asset financing, because the crucial difference is that the businesses involved will be able to finance at lower rates and, as I understand it, two thirds of the cost of electricity from Hinkley Point C will come from the cost of capital. Making access to income available during the construction period will both reduce the costs of the project and make it more attractive to institutional investors, who are quite happy with a lower but steady return on their investment. I believe that that is the key reason—and I am comfortable with it—for adopting that approach to this nuclear power station and, I hope, others to come in the future.
+
+Mark Jenkinson
+rose—
+
+John Redwood
+rose—
+
+Richard Graham
+I will give way to my hon. Friend the Member for Workington (Mark Jenkinson) first and then to my right hon. Friend the Member for Wokingham.
+
+Mark Jenkinson
+If I could take my hon. Friend back to Sizewell C and to EDF in his constituency, and specifically to amendment 2 in the name of Her Majesty’s official Opposition, does he share my concerns that removing nuclear companies that are part owned by foreign powers would remove EDF’s involvement in the likes of Sizewell C? That would kill Sizewell C and it would kill Moorside.
+
+Richard Graham
+I am very grateful to my hon. Friend for that intervention, because I was coming on to what seems to be a curious irony in the position of Her Majesty’s loyal Opposition, particularly the hon. Member for Southampton, Test (Dr Whitehead), for whom I have a lot of respect on energy issues. It seems ironic that, as my hon. Friend has pointed out, amendment 2 would make it virtually impossible for a company partly or wholly owned by a foreign power to build and run a nuclear entity. Of course, since British Energy was sold by the last Labour Government in 2009, it is not possible for a company that is entirely British owned to do the work. In that context, the amendment seems rather ironic. Perhaps the fact that it would be a UK subsidiary of EDF answers the question; otherwise, I am inclined to agree with my hon. Friend that amendment 2 should be ruled out immediately by Members on both sides of the House on the basis of it being wholly impractical.
+
+I am conscious that my right hon. Friend the Member for Wokingham wants to intervene, but I think the hon. Member for Norwich South (Clive Lewis) was first.
+
+Clive Lewis
+The hon. Gentleman is being very generous. Some of us on the Opposition Benches consider energy to be a public good, and therefore if we are talking about the optimal way of funding this public good, it would be via the state. The RAB system that he is talking about is very complex and is actually being backed by the state, not the market. Ultimately, if he wants to bring the costs down and make the system more cost-effective and to be optimal—that is the term he used—we would have the state funding this area fully, as well as the rest of the energy roll-out that he is talking about.
+
+The final point I will make is that the hon. Gentleman gave some examples about Heathrow and other large-scale projects, but the difference here is that the system that he is advocating will mean that bill payers will foot much of the risk and much of the bill if there is an overspend. The problem is that that proposal is regressive—it is like a poll tax on energy. The far more progressive way to fund things would be through progressive taxation.
+
+Richard Graham
+We may be straying a bit from the subject and scope, Mr Deputy Speaker, so I will try to come back to the road of virtue as quickly as I can, but the hon. Member raises interesting points about what structure of ownership is required to develop nuclear power stations effectively. To be honest, it was his party that decided to sell—to privatise—British Energy. I think it is too late to try to row back on that and recreate that situation, unless he is proposing an interesting new Anglo-French argument over nationalising EDF Energy in the UK. We have to accept that things have moved on, and we must focus on the amendments proposed today.
+
+John Redwood
+The burden of the argument with the SNP, my hon. Friend and the rest of us is, as I understand it, transparency over the costs and terms of putative contracts. If those are to be private sector contracts, there are issues about commercial confidentiality, but if there is to be a lot of state exposure, there needs to be a very clear definition of its limits and what it will be, and I am sure that is what the Minister has in mind. Does my hon. Friend agree that we expect to see a very clear and honest statement of any state liabilities, but that commercial private contracts are not as appropriate for that kind of transparency?
+
+Richard Graham
+Yes, that is a very good way of defining the difference between the confidentiality of commercial agreements and the state’s obligation to be transparent in what is clearly a model that has elements of both. There is an element of hybrid in it, as Members have alluded to.
+
+To bring my contribution to a close fairly swiftly, fundamentally we need to get on, as other colleagues have said, with the business of building more nuclear capacity as quickly as possible. The Bill is an opportunity to move that forward fast, with the safeguards offered by the Government within it, and to get on with a new way of funding through the regulated asset base mechanism. It will provide cheaper costs of financing and ultimately bring down the costs to consumers. Clearly, the Labour party is supporting us today in principle, and perhaps the hon. Member for Southampton, Test will give his support to the Bill from the Opposition Front Bench. The SNP is not supporting it.
+
+From the Government Benches, I want to reiterate my support as the MP for Gloucester for what the nuclear operational headquarters in Barnwood has successfully achieved for a very long period, and I hope that the Minister, my right hon. Friend the Member for Chelsea and Fulham (Greg Hands), will accept an invite to visit Gloucester to look at the operational headquarters and what it is doing and to discuss ways to ensure that that expertise can be used most effectively in the development of nuclear capacity in the future, as well as now.
+
+I am afraid none of the amendments will have my support. I have mentioned that amendment 2 is ironic and inappropriate, and I think all the SNP amendments are designed to try to ensure as far as possible that today’s Bill does not go any further. Bearing in mind that we are celebrating the 46-year role of nuclear in providing electricity to every home in Scotland, that seems rather ironic and, frankly, a bit disappointing. Thank you for calling me, Mr Deputy Speaker. I very much hope the Bill goes through.
+
+18:15:00
+
+Mr John Whittingdale (Maldon) (Con)
+I do not want to detain the House for too long. However, I want to say a few words as the Member of Parliament for Maldon, which contains Bradwell-on-Sea.
+
+Bradwell had been the home of a nuclear power station since the early 1960s, and it safely generated power for nearly 40 years before being successfully decommissioned. I remain a strong supporter of nuclear power, and I agree with my hon. Friend the Member for Isle of Wight (Bob Seely) that it is not a question of choosing between renewables and nuclear. We will need both if we are to achieve our ambitions, particularly our ambition to reduce carbon emissions.
+
+The fact Bradwell has been the site of a nuclear power station for so long is probably the reason why it was chosen as one of the designated sites for new nuclear development. Of course, an agreement was reached between EDF and China General Nuclear Power Corporation whereby Hinkley Point and Sizewell would be majority owned and financed by EDF with some Chinese contribution, but Bradwell would be the site of a Chinese-designed and majority Chinese-financed reactor.
+
+I visited China General Nuclear in Shenzhen when I was Secretary of State for Culture, Media and Sport, when the attitude of the British Government was perhaps a little more friendly towards China than it is today. At that time the Government were keen to encourage investment in Bradwell, partly because it appeared to be the only way that we would be able to finance new nuclear, as the Chinese were the people who had the resources and the willingness to do so.
+
+My hon. Friend the Member for Isle of Wight referred to the concerns about Chinese technology, and my concern is not about the safety of Chinese technology. The Chinese reactor is now well advanced in the generic design assessment process, and it appears to be proceeding smoothly. I suspect it will be found to be safe, but there may be other reasons why the British Government are perhaps less keen on the idea of a Chinese-owned and designed nuclear power station in this country than they were five years ago. I fully appreciate and understand the reasons for that.
+
+Bradwell is one of the few locations to be designated as appropriate for new nuclear, and the site is owned by CGN. If the Government decide it is not appropriate to build a Chinese reactor, I would still like to think Bradwell is a possible site for an alternative nuclear power station development. Whether or not the Government reach that decision on China, it is too early to say, and I am sure the Minister will not be in a position to say definitively this afternoon, but I would like to put it on record that Bradwell successfully hosted a nuclear power station for 40 years—Bradwell A—and I saw the benefits it brought to the local community. I would therefore still be positive about the possibility of Bradwell B, whoever designs and owns it.
+
+Dr Alan Whitehead (Southampton, Test) (Lab)
+I rise to speak to the amendments tabled on Report. You will be interested to know, Mr Deputy Speaker, that I would also like to talk about the Bill and its contents.
+
+Mr Deputy Speaker (Mr Nigel Evans)
+Order. Dr Whitehead, do you intend to keep your mask on?
+
+Dr Whitehead
+Sorry, no—I have a general habit of wearing a mask whenever possible.
+
+The Bill essentially falls into three parts. Part 1 concerns the designation of a company for the receipt of regulated asset base payments. Part 2 concerns the collection and disbursement of funds through the regulated asset base arrangements. Part 3 sets out a special administration regime, should a nuclear power plant be unable to carry out its obligations arising from the institution of the regulated asset base arrangement.
+
+The Bill, essentially, is trying to produce a method for funding and getting over the line one particular nuclear power plant: Sizewell C. That is the only plant that is developed enough to be able to generate by 2030. A substantial part of the Bill is not about the general future of nuclear, or the relationship with nuclear renewables; it is about how one plant is to be financed over the next period so that it can actually start producing energy, hopefully by the end of this decade or shortly thereafter.
+
+The Labour party supports nuclear power for the future and is particularly concerned that, for example, the Climate Change Committee has indicated that some 8 GW of nuclear power might be put in the mix for low-carbon renewable power for the future. Sizewell C is an important part of that process—indeed, getting it going is long overdue. Perhaps I can put the record straight, because the previous Labour Government, as the 2007 nuclear White Paper and the strategic planning documents of 2009-10 show, laid the basis for the present number of sites to be considered and, therefore, for nuclear power going forward.
+
+Bob Seely
+The hon. Gentleman is absolutely right, but unfortunately we lost a decade, from 1997 to 2007, when nuclear was taken off the table. Because of the timescales, which he is well aware of, will he just accept—this is not necessarily party political—that losing that decade put us back and is costing us now?
+
+Dr Whitehead
+The hon. Member is quite right that prior to 2007 the Labour Government did not consider the development of nuclear power by state means to be an appropriate way forward, although they never suggested that the development of nuclear power by private means could not be countenanced. However, we have since had more than 10 years of Conservative-led Government, which has produced precisely no nuclear power plants. Indeed, there is one nuclear power plant in the pipeline, and we hope a nuclear power plant that can be financed by reasonable means. One of the problems with the previous plant, Hinkley Point C, which the present Government got off the ground, was the funding arrangements, with EDF supplying most of the capital for the plant and then a CfD for the plant at the end, which looks like it will be quite disastrous, with future electricity prices being completely uneconomic.
+
+It is therefore important that we get a method for funding those nuclear plants, and particularly Sizewell C, that does not fall into those traps and is also secure for the future. That is the concern of our amendments 1 and 2. To put the record straight, anyone who looks at those amendments reasonably closely will see that amendment 1 defines what is stated in amendment 2, and that it is defined as
+
+“means owned by a company controlled by a foreign state and operating for investment purposes.”
+
+That does not include EDF. Let us be clear from the outset that EDF is not
+
+“a company controlled by a foreign state.”
+
+Although it is substantially owned by a foreign state, it is not operating for investment purposes, but for production purposes. Let us be clear about what the particular concern is for the future.
+
+Richard Graham
+Please correct me if I am wrong, but my understanding is that EDF is majority owned by the state. If the state required it to do certain things, I do not see how the company could say no. Could the hon. Gentleman confirm if that is his understanding?
+
+Dr Whitehead
+It is correct that EDF is owned by the French state, but it is not controlled by the French state and, as I say, it does not operate for investment purposes. The amendment specifically excludes that kind of company from its provisions, but, importantly, it includes companies such as the China General Nuclear Power Corporation, which is clearly owned and controlled by a foreign state and operates for investment purposes.
+
+Richard Graham
+This is incredibly important. The amendment states
+
+“the nuclear company is not wholly or in part owned by a foreign power”.
+
+Factually, that is the situation with EDF. I do not have a problem with it, but I am trying to explain to the hon. Gentleman that his amendment does not say what he has just said it does, and it is therefore inaccurate, even by what he is trying to achieve.
+
+Dr Whitehead
+I am afraid we will have to differ on that. Amendment 1 has been written on good advice, in terms of what EDF does and does not do in its operation, and, on the contrary, what a company such as the China General Nuclear Power Corporation does. There is a clear distinction between those two particular companies and organisations.
+
+The amendments wish to draw attention to the fact that this is not an academic issue. As the right hon. Member for Maldon (Mr Whittingdale) mentioned earlier, we have an agreement in place at the moment whereby the Chinese state nuclear corporation has a 35% stake in Hinkley Point C, a 20% stake in Sizewell C, should it go ahead, and complete control of Bradwell, should that go ahead, with ownership of the site and operations, and with the installation of a Chinese reactor. That agreement has already been reached, so the issue in this Bill is that if the regulated asset base is going to be put in place to finance and bring about the control of a nuclear power plant by the Chinese Government over the next period, we think that that would be a retrograde step for the future of nuclear power in this country, for obvious reasons.
+
+In Committee, we asked the Government whether they wished to make any statement about the future of the agreement that is currently in place, which was agreed between 2013 and 2016 and includes the Secretary of State’s investment agreement, and about future arrangements for nuclear power. We asked if they could they confirm that RAB would not be used as an instrument to extend those arrangements, as far as the Chinese Government are concerned. They have not said anything about that at all; I regret that. Hence we have brought these amendments to try to clarify what RAB will be used for, what the position is concerning the 20% of Sizewell C that looks to be owned by the Chinese Government in the future, and how that relates to RAB overall. Although it is not central to the RAB debate, it is an important element in that debate and needs clarification for the future.
+
+We did not particularly want to table these amendments. If we had had a statement from the Government that they were not proceeding with Bradwell and were going to bring an end to the arrangements that are in place for Sizewell C at the moment, perhaps things might have been different, but we urgently need some clarification about their intentions in relation to RAB and Chinese involvement in UK civil nuclear power in future. That is what amendments 1 and 2 would achieve.
+
+18:30:00
+
+Amendments 3 and 4 are concerned with the process of RAB itself. As we have already discussed, a regulated asset base arrangement allows a designated nuclear company to draw funds from a collection arrangement via an intermediary to assist with the investment in the nuclear power plant, with those funds being drawn from the people who pay energy bills—the customers. Not only that, but—this is a big difference from CfDs—the funds are drawn from contributions from customers while the plant is being developed and constructed, not just when production takes place, so they have a substantial stake in the nuclear company as it moves forward, and they also obviously bear a substantial amount of the risk that goes with the nuclear power plant being developed. We are concerned about not the RAB mechanism itself but the extent to which potential overruns in time or in cost could expose the bill-paying public. This is a very pertinent and relevant discussion at the moment because those bills—those collections—are a levy on customer bills for the future, and that levy will be made for a long time to come.
+
+Jonathan Edwards (Carmarthen East and Dinefwr) (Ind)
+I welcome these amendments because one of the concerns about RAB is that there are no safeguards, so the developer could run up costs and there would be nothing to stop them doing so. Therefore, if the Government do not accept the amendments, would it not be irresponsible to support the Bill on Third Reading?
+
+Dr Whitehead
+It would not be irresponsible to support the Bill on Third Reading, but it would be responsible of the Government to take a little more notice of these particular problems with the RAB process and possibly, as we move forward with its development, bring in mechanisms that can protect the bill-paying public in a rather better way than is suggested at the moment. That is essentially what the amendments do.
+
+The arrangement for the RAB to be put into place is that a series of considerations are entered into to give an agreed expenditure cap for what is considered to be the proper use of the collection fund that will provide assistance to the company producing the new nuclear power plant. It can properly draw on that, up to a certain ceiling, from the general public. That is if everything goes well with the nuclear power plant, but of course that may not necessarily be the case. Of 176 nuclear power plants across the world, 175 went substantially over time and over budget, so we need to be very clear that we should not commit the general public to fund these proposals completely open-endedly. We are saying in these amendments that should there be a cost overrun or a time overrun, the Secretary of State should seek an increase in the agreed revenue ceiling without further recourse to customer funds. That may be by producing bonds or it may be by further state funding if that is the choice the Government wish to make, but they should not increase the ceiling for customers to pay exponentially at the same time.
+
+These are very simple and straightforward amendments saying that, should there be such cost overruns or time overruns and there is a suggested further call on customer bills through RAB, the Secretary of State will have to think of something else to fund the system. Let us be clear that, with the RAB arrangements at the moment, it is suggested, I think very optimistically, there will be an increase of about £10 to £20 in customer bills. That is a really current topic at the moment, but a cost overrun would substantially increase such a levy on customer bills, and we just think that should not be part of the RAB arrangements for the future.
+
+The third set of changes we wish to put in place are to part 3 of the Bill, which sets out what should happen and what arrangements should be in place if a company, despite all the investment from the public in the construction of a nuclear power plant, essentially goes bust. In this part, the Government have in effect lifted the provision in the Energy Act 2011 for a special administration regime. Again, that is rather current because it is precisely such a special administration regime that was used to rescue Bulb Energy when it went bust a little way ago. It was placed in such a regime under the 2011 Act—the wording is identical to that in this Bill—to allow it to continue trading for the time being, subject to the company being disposed of.
+
+However, I would suggest that a nuclear power plant the size of Sizewell C, for example, is not remotely the same as an energy company the size of Bulb. It would be quite possible to dispose of Bulb or disperse its customers according to the special administration regime, but that would not be the case for a large nuclear power station. We are saying in amendment 5 that there should be an additional backstop so that, in the circumstances of a special administration regime, it would not be possible to pass the company on—to sell it on or to reintroduce it as a going concern through allocation to a subsidiary—and that the Government should have a plan to introduce a public company to take it over, provided it is working as a nuclear power station. That would not be the case—some Members may think the amendment means this—if the power station could not continue because the reactor head had exploded or the power plant was otherwise non-operational. If it is an operational power plant, we think that such a backstop should be available.
+
+Hon. Members have mentioned what I think is the salutary case of the North Carolina energy plant that was conceived under RAB arrangements, or something very similar. Some $9 billion of customer money went into that plant, but the plant went bust, not because it was not operational, but because it was unfinanceable. Customers lost $9 billion of money, and there is no power station at the moment.
+
+John Redwood
+Is it not the case that, if the Government in power are faced with a big financial disaster from a very large project going horribly wrong and the company going bust, they will need flexibility to make the best decisions they can in the interests of the taxpayers and customers at the time, and it is quite difficult for us to pre-think that and embed it clearly in law?
+
+Dr Whitehead
+That is precisely why we wish to put in the Bill that there should be a direction in which the Government should go. Of course they should have flexibility in how they work, but we think this is an important backstop that will ensure customers do not lose their shirts in a company that goes bust after they have invested large amounts of money in its operation.
+
+We will seek to divide the House on amendments 2 and 3 in the absence of any clear further Government commitments today in relation to. We may well be minded to support amendment 9, tabled by the SNP, should that also be put to a Division. However, I emphasise that we are happy to support the Bill overall. We want it to go through Third Reading, but we would like it to be strengthened as much as it can be by the addition of the amendments we have put forward today.
+
+The Minister for Energy, Clean Growth and Climate Change (Greg Hands)
+First, may I minute my condolences on the death of Jack Dromey? I shared his 12 years here and he made an enviable contribution to the House. Particular condolences to the right hon. and learned Member for Camberwell and Peckham (Ms Harman).
+
+I am thankful for the excellent contributions we have heard today, and over the past few weeks during the passage of the Bill through the House, from Members throughout the House. I will attempt to address all Members’ comments and explain why the Government do not believe that today’s amendments should be accepted.
+
+I turn first to new clause 1, tabled by the hon. Member for Kilmarnock and Loudoun (Alan Brown) for the SNP, regarding the special administration regime, but before I deal with his amendments, let me reflect a little bit on the contribution by my hon. Friend the Member for Gloucester (Richard Graham). The SNP, as we know, is talking today about transparency, but its real agenda is a hardcore anti-civil nuclear power agenda. This comes, ironically, just a few days after the closure of the Hunterston power station, which had its life extended by two decades beyond what was predicted and provided 31 years—31 years—of zero-carbon electricity to every home in Scotland. The Bill would make things cheaper, but I do not think that the SNP has got Scotland’s best interests at heart here for Scottish electricity or Scottish consumers.
+
+Nuclear power has been a massive success story in Scotland, which is what I hope the Bill will also enable. New clause 1, tabled by the hon. Member for Kilmarnock and Loudoun, would severely risk the effectiveness of the special administration regime by delaying the speed at which an administrator could access funding to continue a nuclear RAB project construction or a plant’s generation of electricity. That could result in significant sunk costs for consumers and is not in the public interest.
+
+I will turn now to Labour amendments 1 and 2, tabled by the hon. Member for Southampton, Test (Dr Whitehead), while responding to some of the points made in the debate. The hon. Member and I are aligned in our concern that foreign investment in our critical infrastructure should not come at the cost of national security. However, I want to be clear that the Bill is not about decisions on individual future projects; it is about widening the pool of potential investors and financing while reducing our reliance on state-owned developers to build new nuclear power stations. As the House is aware, we have committed to taking at least one project to final investment decision in this Parliament, subject to value for money and all relevant approvals. We are in active negotiations on the proposed project at Sizewell C. The hon. Member argued that the approval of Hinkley Point C would inexorably lead to the approval of other projects. That is simply not the case. Decisions on nuclear projects in this country are made on a case-by-case basis, and subject to a number of robust approvals from both Government and independent regulators.
+
+Sarah Owen (Luton North) (Lab)
+Will the Minister give way?
+
+Greg Hands
+I am not going to take an intervention. I will respond to the debate first.
+
+Whatever the intent of the hon. Member for Southampton, Test with amendments 1 and 2—this is the crux of the argument, ably pointed out in interventions by my hon. Friend the Member for Gloucester—they could rule out many companies from investing in new projects under a RAB model. The RAB model is designed to bring in new investment, but in my view and in the view of the Government, his amendment would severely restrict who could invest. It could extend to some of our closest international partners. My advice is that EDF itself would be very much in scope, or at least it would be arguable in court as being in scope, of his amendment. It could also mean the rejection of huge amounts of potential investment from bodies such as major sovereign wealth funds of friendly or allied countries.
+
+I am sure that the hon. Member’s intent does not lie in that direction, as that could make it much harder to bring new projects to fruition, and the purpose of the RAB model is to find new investors. We also need to maintain resilience in our fuel supply chain, referred to in amendment 2. I put on record my visit to Springfields recently to give the UK Government’s support, including funding announced in the spending review recently, to make sure that we have that flexibility.
+
+18:45:00
+
+I turn now to amendment 6, also tabled by the SNP. It would introduce a RAB designation notice, which I cannot accept. The legislation already creates a clear and transparent process for Government decision making, including scrutiny from economic, environmental and nuclear regulators. It may be used to develop a project to a suitable point of maturity prior to entering into the RAB regime, or to take a direct stake in a project, partly to help mobilise private investment.
+
+Alan Brown
+Will the Minister explain why he does not want to put forward a report that explains the public funding that is allocated to a project? I do not understand why that would be so difficult for him.
+
+Greg Hands
+We think those processes are already in place, and it is right that this should be a commercial decision and negotiation, but with transparency. We think the balance in the legislation as proposed currently meets that.
+
+On amendment 9, also tabled by the SNP, the additional reporting obligations are unhelpful and unworkable. The requirement to publish up-front capital costs of a project could jeopardise our ability to complete a complex and lengthy capital raise. The amendment’s requirement to publish the floor price is simply not workable. In the context of a RAB model, there is no minimum floor price, and nuclear companies’ allowed revenues are determined by the economic regulator throughout the life of a plant.
+
+Alan Brown
+Will the Minister give way once more?
+
+Greg Hands
+No, I will not. I will try to respond to the debate.
+
+Amendments 3 and 4, tabled by Labour, address how additional costs beyond the financing cap could be paid for. I agree that any RAB scheme must have adequate protections in place for consumers. However, given the size and importance of a new nuclear project, there must be a mechanism in place, with appropriate protections, to allow additional capital to be raised to ensure completion of a project where the financing cap is likely to be exceeded. The amendments proposed by the official Opposition would nullify the ability to be flexible. We are making sure that we do not have to go down that course to carry out robust due diligence on the project in the first place, having learned from existing and current projects to set a robust estimate of project cost.
+
+SNP amendments 7 and 8 refer to reporting requirements. Planned outages at nuclear power stations may happen for a variety of reasons, and it is right that they are governed by the amount of time required to complete the maintenance—the actual cause of the outage in many cases—rather than the arbitrary time limit set out in the SNP’s amendment. Both the Office for Nuclear Regulation and National Grid already work closely with nuclear operators with regard to outages and availability, and they should do so independently of the Government. Nevertheless, I would like to reassure the hon. Member for Southampton, Test that we are aiming to design the RAB regime so that the nuclear company is incentivised to maintain availability.
+
+I turn now to amendment 5, tabled by Labour. It deals with situations whereby a RAB project
+
+“cannot be rescued as a going concern”,
+
+having entered special administration. Of course, I share the wish of the hon. Member for Southampton, Test that the special administration regime should protect consumer interests, but the amendment could have the impact of damaging those interests. We expect the insolvency of a nuclear RAB company to be a highly unlikely event. However, there may be even rarer circumstances within this where it is actually in the best interests of both consumers and taxpayers to discontinue the project, and for it to be safely decommissioned—for example, if a safety fault, which is very unlikely, discovered at a plant made it, in practical terms, inoperable. It is important that the Secretary of State retains the discretion to act in whichever way can achieve the best outcomes for consumers or taxpayers during the insolvency of a relevant licensee nuclear company, and the Opposition’s amendment would remove this discretion.
+
+Finally, I would like to discuss amendment 10, tabled by the SNP. It is important to make it clear that special administration is a court-administered procedure and that the nuclear administrator is an appointee of the court. There is already an appropriate level of transparency through the court process for the transfer.
+
+I will now deal with other points raised in the debate. My right hon. Friend the Member for Wokingham (John Redwood) asked about new supply, particularly in relation to gas, which is not on the face of the Bill. I can tell him that six new gas fields came on stream in the last quarter of the last year: Arran, Columbus, Finlaggan, Tolmount, Blythe and Elgood. It is not the case that there are no new gas fields coming on stream. Gas is, of course, heavily incentivised at present, simply by the price, for there to be more extraction. According to the developers’ estimates, Hinkley Point C could be online or start to come online as early as 2026. However, my right hon. Friend is right that we need to think ahead. I should Make it clear that I welcome the official Opposition’s support for the Bill overall, but let us not forget that awful 1997 Labour manifesto, which said:
+
+“We see no economic case for the building of any new nuclear power stations”—
+
+not just state-owned nuclear power stations, as my right hon. Friend said. Hinkley Point is being built, and an amazing job has been done to keep that construction work going through the pandemic. Our nuclear industry deserves congratulations.
+
+The hon. Member for Bath (Wera Hobhouse) said that we should be rolling out renewable energy. That is exactly what we are doing. We have massively expanded our offshore wind power, and we are quadrupling it over the next decade. I think she said that Germany did not have any wind, but it has a target of 30 GW of offshore wind. There is a lot of wind in Germany. I know that she is from Hanover, which is a long way from the sea, but there is even a famous film—it is one of the best German films—called “Mit dem Wind nach Westen”, which is all about wind carrying people in balloons from east Germany to west Germany. There is most definitely wind in Germany.
+
+Wera Hobhouse
+Will the Minister give way?
+
+Greg Hands
+No, I will not give way.
+
+My hon. Friend the Member for Ynys Môn (Virginia Crosbie), who described herself as one of the original atomic kittens—my hon. Friend the Member for Copeland (Trudy Harrison) is the other one—gave a passionate speech in favour of civil nuclear power. She is right that the Bill is all about financing, making cheaper and alternative sources of finance.
+
+Again, I welcome the Opposition’s support for the Bill, but the hon. Member for Warrington North (Charlotte Nichols) was wrong to point the finger of delay at the Government. I should point out the 1997 Labour party manifesto and how nothing happened for 13 years. Hinkley Point C is now being built.
+
+My hon. Friend the Member for Isle of Wight (Bob Seely) made a fantastic speech. He was quite right that the Bill’s purpose is to reduce dependence on foreign developers. He is right that we are not in a perfect position when it comes to energy or to nuclear power, but the Bill will significantly improve that position by creating options and establishing expertise for us to go forward.
+
+The hon. Member for Strangford (Jim Shannon) made important points about Northern Ireland. I speak to Gordon Lyons quite often, and obviously Northern Ireland has a special status for energy and electricity.
+
+My hon. Friend the Member for Gloucester made a fantastic speech and fantastic interventions. I am sure that his hub of expertise in Gloucester will come in incredibly useful, and I of course agree to visiting it.
+
+I turn finally to my right hon. Friend the Member for Maldon (Mr Whittingdale). Bradwell, which has been a successful site in Britain’s civil nuclear experience, is at a very early stage of development and not a decision for now. Of course, in terms of the future of the site, the Bill is not site-specific; it is all about financing.
+
+This has been an excellent, wide-ranging debate and I thank all right hon. and hon. Members for their contributions.
+
+Ronnie Cowan (Inverclyde) (SNP)
+Will the Minister give way?
+
+Greg Hands
+No, I am winding up now. For the reasons that I have set out, I cannot accept the amendments tabled and therefore ask right hon. and hon. Members not to press them. I hope that I have nevertheless shown that our aims are closely aligned for Britain’s brilliant nuclear renaissance, and the Bill will be a key part of that. I urge the House to reject new clause 1 and amendments 1 to 10.
+
+Alan Brown
+I beg to ask leave to withdraw the motion.
+
+Clause, by leave, withdrawn.
+
+Clause 1
+
+Key definitions for Part 1
+
+Amendment proposed: 1, page 1, line 15, at end insert—
+
+“(6) ‘Owned by a foreign power’ means owned by a company controlled by a foreign state and operating for investment purposes.”—(Dr Whitehead.)
+
+This amendment is a definition of “foreign power” set out in Amendment 2.
+
+Question put, That the amendment be made.
+
+Division 152
+10/01/2022 18:54:00
+The House divided:
+Ayes: 204
+Noes: 316
+Question accordingly negatived.
+
+Clause 6
+
+Licence modifications: designated nuclear companies
+
+Amendment proposed: 9, in page 5, line 21, at end insert—
+
+“(4A) The Secretary of State must lay a report before Parliament in respect of each project in relation to which a nuclear company has been designated under section 2(1) before exercising the power under section 6 (1), setting out—
+
+(a) the expected overall capital cost of the prospective project,
+
+(b) the expected up-front cost of the prospective projects,
+
+(c) the general terms of the project for the sale of electricity onto the grid, including—
+
+(i) a statement of whether the Government has offered the nuclear company a minimum floor price mechanism for the sale of electricity onto the National Grid,
+
+(ii) the minimum floor price mechanism included in any arrangement including any inflationary or baseline indices, and
+
+(iii) the duration in years of any such arrangement under sub-paragraph (ii); and
+
+(d) how decommissioning costs of the project will be met, including in the event of insolvency of the nuclear energy company, setting out any role for—
+
+(i) revenue collection contracts, including any percentage specifically dedicated to decommissioning costs;
+
+(ii) protection of decommissioning payments for time of need;
+
+(iii) insurances; and
+
+(iv) consumer risk.”—(Alan Brown.)
+
+In respect of new nuclear projects, this amendment would require the Secretary of State to lay before Parliament a report on the up-front and overall expected cost of the project, details of any agreement reached terms for the sale of electricity onto the National Grid and how decommissioning costs will be met, including in the event of the nuclear company becoming insolvent.
+
+Question put, That the amendment be made.
+
+Division 153
+10/01/2022 19:07:00
+The House divided:
+Ayes: 207
+Noes: 315
+Question accordingly negatived.
+
+More than two hours having elapsed since the commencement of proceedings on the programme motion, the proceedings were interrupted (Programme Order, this day).
+
+The Deputy Speaker put forthwith the Question necessary for the disposal of the business to be concluded at that time (Standing Order No. 83E).
+
+Clause 7
+
+Licence modifications: relevant licensee nuclear companies
+
+Amendment proposed: 3, page 7, line 8, at end insert—
+
+“(3A) When exercising the power in subsection (1), the Secretary of State must not cause the excess of expenditure being incurred over the allowable revenue cap to lead to further charges upon revenue collection contracts.”—(Dr Whitehead.)
+
+This amendment prevents the Secretary of State from allowing the levy of further consumer charges should an increase in allowable revenue be agreed following increases in costs or timescale of a nuclear project.
+
+Question put, That the amendment be made.
+
+Division 154
+10/01/2022 19:19:00
+The House divided:
+Ayes: 207
+Noes: 315
+Question accordingly negatived.
+
+Third Reading.
+
+19:30:00
+
+The Secretary of State for Business, Energy and Industrial Strategy (Kwasi Kwarteng)
+I beg to move, That the Bill be now read the Third time.
+
+I want to start by following right hon. and hon. Members in paying my respects to the late Member for Birmingham, Erdington (Jack Dromey). His constituency has lost a dedicated public servant and a real champion of local industry. I am sure that all our thoughts are with his wife and his family.
+
+Civil nuclear power has worked for this country and it works for consumers, but we all know that the existing financing scheme has led to too many foreign nuclear developers walking away from projects, setting our nuclear industry back a number of years. While the contract for difference model was right for Hinkley Point C, the lack of alternative funding models has contributed significantly to the cancellation of recent potential large-scale projects, including Hitachi’s project at Wylfa and Toshiba’s project at Moorside. We urgently need a new approach to attract capital into the sector, and therefore we are introducing the new nuclear RAB model, which will deliver nuclear projects at a lower cost for consumers.
+
+This new funding model is a win-win for nuclear and for our country. Not only will we be able to encourage greater diversity of private investment; we will also be able through this mechanism to lower the cost of financing new nuclear power and reduce costs commensurately to consumers and to businesses. New nuclear is absolutely essential if we are to have security of energy supply and diversity to ensure resilience.
+
+We have heard from MPs across the House about how the nuclear industry in their constituencies has created and will create jobs—from Wylfa to Hartlepool to Hinkley. All those hon. Members are powerful advocates in this place for the future of the nuclear industry. Thanks to the Bill and other steps we are taking, I firmly believe that we are at the beginning of a new age, a new renaissance, of nuclear energy in the UK.
+
+We have already made a commitment to bring at least one further large-scale nuclear project to final investment decision by the end of this Parliament, subject of course to value for money and relevant approvals. We are also creating not only an ability to invest in large-scale nuclear but a £120 million future nuclear enabling fund to tackle barriers to deploying new nuclear technologies. I am particularly pleased to refer to the fact that we have committed £210 million to back Rolls-Royce’s plan to deploy small modular reactors.
+
+Jonathan Edwards
+The one thing that perplexes me about this Bill is that it is for nuclear only. If the RAB model is the way forward, why is it not also available for other technologies, such as tidal?
+
+Kwasi Kwarteng
+I am pleased that the hon. Gentleman mentions tidal, because for the first time, I think, in the history of the technology—in the history of the world—this Government committed to supporting tidal stream only last year. I am pleased that he should support that initiative.
+
+I would like to make a few brief comments on some of the key themes that the debate has covered. One of the Labour party’s amendments would have put investment in new nuclear in the deep freeze. It would have prohibited investment from abroad. The very purpose of the Bill is not only to reduce the UK’s reliance on overseas developers for finance, but to widen—and this is often overlooked—the pool of potential investors, including British institutional investors and investors from some of our closest allied countries. That is why we rejected the Opposition amendment and why we feel that the Bill broadens our ability to finance new projects. The amendment would have ruled out many companies and prevented like-minded allies such as Canada, Norway and Singapore, with their large pools of capital, from being able to invest in our industry.
+
+Dame Andrea Leadsom (South Northamptonshire) (Con)
+I sincerely congratulate my right hon. Friend on bringing forward this Bill. There is absolutely no doubt that nuclear provides the zero-carbon baseload that we need in our transition to net zero, and this is really going to help, so many congratulations to him.
+
+Kwasi Kwarteng
+I thank my right hon. Friend for her intervention. The House will know that she and I worked very closely in the Department for Business, Energy and Industrial Strategy, and she was one of the first in the new Parliament to realise the key importance of nuclear. I pay tribute to the work that she, among others, did to drive this agenda. Clearly, this Bill is timely because, as she said, we cannot reach net zero without a substantial commitment to nuclear.
+
+John Redwood
+Will the Secretary of State give some indication of how long it might take to prove and put into a working model the small nuclear technology, if all went well?
+
+Kwasi Kwarteng
+My right hon. Friend will be aware that the small modular reactors cannot be brought onstream in the next few months, but with the right investment and the right incentives, all this technology can be brought onstream very quickly. I cannot say that it will be five years or 10 years, but it will be brought onstream and will help us to reach the decarbonising targets that we have set ourselves.
+
+Alan Brown
+Will the Secretary of State give way?
+
+Kwasi Kwarteng
+I must make progress—forgive me.
+
+Since the publication of the Prime Minister’s 10-point plan in November 2020, £6 billion of new investment has already poured into the energy sector—just in a period of barely 15 months. It was notable at the global investment summit in October last year that a further £9.7 billion-worth of deals was announced. Foreign investment is particularly eager to help to finance our way to net zero. But I have to state that foreign investment must not come at the expense of our national security. That is precisely why the National Security and Investment Act 2021 was introduced to safeguard our key strategic industries.
+
+The final issue that we have debated is the necessity of ensuring that there is adequate protection for consumers. With this approach, private investors will be given greater certainty through a lower and more reliable rate of return, but that will, in turn, lower the cost of financing projects and ultimately, in the medium term, help sharply to reduce consumer electricity bills. To protect consumers, the Government will of course put any potential projects through a rigorous due diligence process, allowing detailed scrutiny of a project’s cost along with its delivery plans. The RAB regime will be designed to incentivise the company to deliver the project to time and to budget.
+
+Britain once led the world with our civil nuclear industry, and we fully intend to clear a path to leadership and innovation in this critically important piece of infrastructure.
+
+Alan Brown
+If there is such a desire for investment, why was £1.7 billion allocated in the last Budget just to develop this project to final investment stage? What are we getting for that £1.7 billion of taxpayers’ money?
+
+Kwasi Kwarteng
+We all know that the hon. Gentleman’s party is against nuclear, but we also appreciate that the comprehensive spending review that he alluded to was all about ensuring our commitment in the 10-point plan to at least one further final investment decision before the end of the Parliament, and that is the sum of money that we have allocated to ensuring that that happens.
+
+I look forward to following the progress of this Bill and pursuing our plan for greater nuclear investment, greater resilience and greater affordability in our energy mix. On that basis, I commend the Bill to the House.
+
+19:39:00
+
+Dr Whitehead
+The Bill, as its title suggests, is about how to finance nuclear power. We know that the Climate Change Committee has indicated that some nuclear power is needed in the future as part of an overwhelmingly renewable energy mix. The Bill is therefore important in ensuring that we get at least the next, and only, nuclear power plant that can generate power by the early 2030s in place and developing, as the prospects of a new plant elsewhere seem bleak.
+
+We welcome the arrangements that the Bill will make for financing nuclear power. We need to remember that there has been a 10-year hiatus, during a time of Conservative Government, in bringing forward any nuclear power, so the Bill is welcome, but overdue. We hope that with the RAB model in place, Sizewell C will be able to reach financial closure and go ahead.
+
+We ought to understand both the advantages and possible problems of a RAB model, in the context of the people who will fund it from their bills. Although RAB has been used for other projects, a RAB model of the size and scale needed for Sizewell C has never been attempted. We urge the Government to be very careful about how they deploy the RAB model in terms of the customer interest, to not just regard customers as a milch cow for overruns or time delays in nuclear power for the future, and to ensure that the customer contribution is properly regarded as far as nuclear power development is concerned. We think the Government should pay closer attention to customer involvement in RAB, particularly because, on this occasion, the customer is funding the nuclear plant before, and not after, it develops. Careful stewardship and close custody of how that RAB model is used is vital.
+
+The question of ownership of plant is important for UK national security. Although the Government have rejected our amendments about foreign influenced or owned investment in nuclear power in the future, we all know what that is actually about—the role of China and the Chinese state nuclear corporation, the China General Nuclear Power Corporation, in Sizewell C, and the possibility of them owning the nuclear power plant at Bradwell in the future. Despite the Government’s bluster, we know the arrangement is now in place for that development to succeed. Is that a wise way to go with nuclear power in the future, we ask?
+
+We consider it imperative that the Government are clear about what they think about Chinese involvement in the very near future, and that they plot a clear course whereby this RAB investment is not the vehicle for the realisation of China’s developing and owning a nuclear plant in the UK, with all the security implications that has. I urge the Government to come forward at an early stage with clarity on what they consider to be the future for that arrangement. As the Secretary of State knows, that was not arranged on his watch, but in 2013 to 2016, before he was a Minister. I hope he will be able to cast an eye over the arrangement, with a view to the future that he has set out today.
+
+With my party being in favour of nuclear power, I repeat the question asked by the hon. Member for Kilmarnock and Loudoun (Alan Brown) about the £1.7 billion in the Red Book at the last Budget for the completion of the project. Is it about buying off China? Is it about developing this project? Is it about funding further nuclear power for the future? We have no clarity at all, as we have only one line on that investment, which is not good enough. We need much more clarity for the future.
+
+The health and welfare of Springfields is vital to this development, as it could be and should be supplying nuclear fuel rods to the new plant, and we hope the Government will look carefully and sympathetically at the future of that company, because the delivery of British fuel rods to a British nuclear reactor is very important for the future. It is vital that the Government do not allow the company to slip away under their watch when its contribution could be so important to the future of nuclear power in the UK.
+
+Overall, we see much to support in this Bill and believe that, properly executed, its provisions will be able to establish a viable way forward for UK nuclear power. We therefore wish to support its Third Reading.
+
+19:46:00
+
+David Morris (Morecambe and Lunesdale) (Con)
+We have two nuclear power stations in my constituency. I cannot say how glad I am to hear the news that the Bill will proceed, and I am elated that the shadow Minister has endorsed it. I have been talking about it for many years, and this is a great day.
+
+I remember the coalition era, when private enterprise had to fund nuclear power, and now we are taking steps to safeguard our own energy supply and, more to the point, to safeguard jobs in my constituency, because we have two nuclear power stations that are due to cease production within the next decade. This is £40 million to my local economy and jobs—nuclear is the largest employer in my constituency. I wholeheartedly back this Bill.
+
+19:47:00
+
+Alan Brown
+Unlike the hon. Member for Morecambe and Lunesdale (David Morris), I do not support the Bill, which may come as a surprise to some.
+
+The basis of the Bill, as outlined by the Secretary of State, is that the Government recognise market failure in nuclear power, with Hitachi and Toshiba walking away from the sites they were developing. It is interesting that the Government now admit what we have said all along, which is that Hinkley Point C is a bad deal for bill payers. The Secretary of State dresses it up as being the right deal at the right time but, if we look at the impact assessment, it says the new RAB model could save up to £80 billion. By default, the impact assessment is telling us that the Government believe the model for Hinkley Point C cost bill payers an additional £30 billion to £80 billion.
+
+Looking at the 35-year contract for Hinkley Point C, this means the Government are now telling us that bill payers will pay an additional £1 billion to £2 billion every year of that 35-year contract if Hinkley Point C starts generating electricity. That is a disgraceful waste of money.
+
+Alison Thewliss (Glasgow Central) (SNP)
+My hon. Friend is making a good point about the waste of money. It sounds like he agrees with my constituent Maureen from Kelvingrove, who says she believes
+
+“the money being poured into this would be better spent on smaller scale more local solutions such as tide, wind, solar, hydro…and of course the key to it all, energy storage.”
+
+Does my hon. Friend agree?
+
+Alan Brown
+I agree wholeheartedly, and I said earlier that the £1.7 billion allocated for the final investment stage of Sizewell C could deliver two pumped-storage hydro schemes in Scotland—two schemes that provide dispatchable energy when it is required.
+
+My other big concern about the Bill and the RAB model itself is that the savings will not accrue and, worse, bill payers will carry too much of the construction risk. We keep hearing how successful the RAB model has been for other infrastructure projects, but nobody can demonstrate that it is proven to work for delivering nuclear power stations. As we discussed earlier, the examples from the United States suggest otherwise. Abandoned projects are costing bill payers billions of dollars, including $9 billion for the abandoned South Carolina project.
+
+At the present time, in the here and now, we have a cost of living crisis, so it is absolutely scandalous to commit an estimated £50 billion to £60 billion in capital and finance costs and pass those on to bill payers. The Government tell us that is only £10 per household over the construction period, but what they do not tell us is how much more it will be when the 60-year RAB model contract kicks in.
+
+We are in a bizarre situation where the trade body Energy UK supports the RAB model while arguing that consideration needs to be given to the removal of levies from our existing electricity bills due to the impact on the cost of living crisis. That is contradictory. Why support a payment mechanism with contractual payments of some 70 to 75 years being added to our bills during the current energy price crisis? E.ON has confirmed that it opposes such a move, and particularly the concept of bill payers starting to foot the bill as soon as construction commences.
+
+Instead, if we retrofitted 11 million homes with energy efficiency measures, it is estimated that peak heat demand could fall by 40%. That is where the Government should start the targeted investment. We do need to consider whether we need new nuclear at all, and therefore whether we need this Bill or alternative funding mechanisms. Of the eight existing power stations, Dungeness went offline last year, seven years early; Hunterston B has now stopped production; Hinkley Point B will stop later this year; and Heysham and Hartlepool will stop in 2024. So five of the existing eight stations will be down by 2024, way before Hinkley will be up and running.
+
+If nuclear is so critical to baseload, how will we live without it for these years? It actually undermines the Government’s own argument, particularly when we realise how often nuclear power stations go down and outages need to be managed. The wind might not be blowing and the power stations might go down as well, so what is the answer then? That is why we need investment in alternative renewables.
+
+Worse still, the proposed EPR model developed at Hinkley looks set to be used at Sizewell. There is no functioning EPR model anywhere in the world. Taishan in China is still shut down, and according to a French whistleblower more fuel rods are damaged than China has acknowledged. Indeed, at Flamanville in France, which is already predicted to be 12 years behind, construction has stopped again because the French nuclear authorities are investigating a possible flaw in the EPR design. Surely this Government would not be so daft as to sign a new nuclear contract with an EPR design that has still not been shown to work.
+
+This Bill represents the wrong priorities for the Government. Instead of mitigating the cost of living crisis and the cost of energy crisis, they are looking to compound the misery by adding further burdens on bill payers. I know that the Labour party has said that it will support the Bill, but I strongly recommend that it reconsiders its position, given the commitment of £50 billion to £60 billion in capital and finance costs being added for bill payers. We do not require another Tory white elephant nuclear project. I will certainly be voting against it.
+
+19:53:00
+
+John Redwood
+I wish the Secretary of State, the Minister and the Bill every success. I think we might call this Secretary of State brave, because experience tells us that it is extremely difficult to land one of these really big projects and keep it to time and budget, and it is extremely difficult to get agreement to cheaper power. I am delighted that Ministers are motivated by the wish to have both more reliable generating capacity and more affordable power. Those are two excellent objectives of energy policy.
+
+However, I fear that what I have learned from this debate, and from previous debates like it, are these things. First, we are going to have less nuclear power in 2030 than we have today, whatever Ministers do—they are prisoners of their inheritance. Secondly, it will be difficult signing up big projects in particular, or getting smaller projects that are available and working in good time so that there is more nuclear, rather than less, in the decade that follows, and it will be difficult securing that at prices that customers think are good.
+
+In the meantime, we have the problem that, on a typical day, we are already 10% import dependent for our electricity—I think it should all be generated in the UK—and that we are very dependent on the sun shining and the wind blowing, but the wind not blowing too much. When those things did not happen towards the end of last year, we had to reopen three old coal plants. People would rather not have to burn coal, but coal stations were reliable and actually worked when the wind did not blow and the sun did not shine. If the plan is to close them down and make them unavailable in future before we have anything else as a good stand-by, we will be trying the patience of the international community and trying our own luck rather too far.
+
+I urge the Secretary of State, on the back of this Bill, to consider ways of increasing reliable power for this coming decade—the decade that we are living in and that we will be battling over in immediate elections to come—because that is what will matter to our voters. We should have in mind security of supply, availability of supply and affordability as the crucial things that we need to take care of so that we do not have a self-imposed energy crisis. Linking us into the European system is not a secure thing to do, because those countries are chronically short of reliable green power. Poland and Germany are in the middle of trying to phase out coal and lignite. Germany is in the middle of phasing out nuclear altogether. France needs to think about replacements for its ageing nuclear fleet and it is chronically short of gas, which is a sensible transition fuel, so it needs to rely on Putin and Russia.
+
+Wera Hobhouse
+We talk again and again in this House about Britain being a global leader. Does the right hon. Gentleman agree that Britain could be a global leader in renewable energy? We are not making the most of the areas in which we could be a global leader, which are renewable energy from tidal, wave and offshore and onshore wind power.
+
+John Redwood
+I would be delighted to see a mixture of renewables, so that the reliability issue is taken care of. The problem with wind is that it is erratic. In the industrial revolution, people tended to prefer water power over wind power because it was a bit more reliable. The hon. Lady must understand that, like me, she is answerable to constituents who will expect the lights to stay on throughout this decade and will expect electricity and gas and other main energy sources to be affordable and available. The danger is that, if we do not do more to expand our capacity of the transition fuels as well as working on improving and increasing renewables, we will not be able to guarantee the crucial features of a good energy policy: availability and affordability. So, yes, fine to the Bill, but it is about the 2030s. We need also to think about the 2020s.
+
+Mark Jenkinson
+We have heard a lot today about offshore wind and how it could be the saviour of our energy system. Is my right hon. Friend aware that the levelised cost of energy of our largest offshore wind farm last year was £140 per megawatt-hour, which is twice the price of nuclear energy, if not more?
+
+John Redwood
+I have learned enough about energy to know that people produce figures that suit their case. I agree with my hon. Friend that we can say that wind energy is a lot dearer than its advocates suggest. It depends on whether we cost out the back-up power and the back-up arrangements. Obviously, once the windmills are turning they deliver very cheap power, but there is a lot of sunk cost to take care of, and we do need to account somehow for the cost of the alternative when the wind does not blow. We would need to do quite a lot of homework, and probably not in a Third Reading debate, to crack what exactly is the true cost of wind power.
+
+I urge Ministers to think again about availability and affordability now as well as their nuclear ideas.
+
+19:58:00
+
+Mark Menzies (Fylde) (Con)
+I rise tonight to put on record my sincere thanks to the Secretary of State and to the Minister for Energy, Clean Growth and Climate Change, my right hon. Friend the Member for Chelsea and Fulham (Greg Hands) for the support they have shown to Springfields nuclear fuels, which is located in my constituency. I did a Westminster Hall debate a few months ago to highlight the importance of Springfields. It is the only nuclear fuel manufacturer in the UK, and it contains some of the most highly skilled people in the world when it comes to nuclear fuel design and manufacture. Part of that site is also the National Nuclear Laboratory. This is integral to the future of UK energy security and the next generation in the UK nuclear story.
+
+I really want to thank the Government for everything they are doing and continuing to do. I know how hard they are working to secure the future of that plant and its workforce and to ensure that Springfields has an incredibly important part to play in the future. Let us be in no doubt that those of us on the Government Benches have always been committed to nuclear. We have not always pushed it as far forward as I would have liked, but no one can doubt the efforts the Government are making to ensure that nuclear plays an incredibly important part in Britain’s industrial renaissance and in our low carbon journey. I will support this Bill on Third Reading.
+
+Question put, That the Bill be now read the Third time.
+
+Division 155
+10/01/2022 20:00:00
+The House divided:
+Ayes: 458
+Noes: 53
+Question accordingly agreed to.
+
+Bill read the Third time and passed.
+
+Business of the House (Today)
+
+Ordered,
+
+That, at this day’s sitting, notwithstanding Standing Order No. 16 (Proceedings under an Act or on European Union documents), the Speaker shall put the Questions necessary to dispose of proceedings on the motions in the name of the Chancellor of the Exchequer relating to (a) the Charter for Budget Responsibility and (b) the welfare cap not later than two hours after the commencement of proceedings on the motion for this Order; such Questions shall include the Questions on any Amendments selected by the Speaker to the motion relating to the welfare cap which may then be moved; proceedings may continue, though opposed, until any hour, and may be entered upon after the moment of interruption; and Standing Order No. 41A (Deferred divisions) shall not apply.—(Rebecca Harris.)
+

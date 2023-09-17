@@ -1,0 +1,790 @@
+National Insurance (Contributions) Bill
+
+Consideration of Bill, not amended in the Public Bill Committee.
+
+New Clause 3
+
+Reduction of secondary Class 1 contributions for certain age groups
+
+‘(1) SSCBA 1992 is amended as follows.
+
+(2) In section 9 (calculation of secondary Class 1 contributions)—
+
+(a) in subsection (1) for “the secondary percentage” substitute “the relevant percentage”, and
+
+(b) after subsection (1) insert—
+
+“(1A) For the purposes of subsection (1) “the relevant percentage” is—
+
+(a) if section 9A below applies to the earnings, the age-related secondary percentage;
+
+(b) otherwise, the secondary percentage.”
+
+(3) After section 9 insert—
+
+“9A The age-related secondary percentage
+
+(1) Where a secondary Class 1 contribution is payable as mentioned in section 6(1)(b) above, this section applies to the earnings paid in the tax week, in respect of the employment in question, if the earner falls within an age group specified in column 1 of the table in subsection (3).
+
+(2) For the purposes of section 9(1A)(a) above, the age-related secondary percentage is the percentage for the earner’s age group specified in column 2 of the table.
+
+(3) Here is the table—
+
+--------------------------------------------
+|Age group|Age-related secondary percentage|
+--------------------------------------------
+|Under 21 |0%                              |
+--------------------------------------------
+
+(4) The Treasury may by regulations amend the table—
+
+(a) so as to add an age group in column 1 and to specify the percentage in column 2 for that age group;
+
+(b) so as to reduce (or further reduce) the percentage specified in column 2 for an age group already specified in column 1 (whether for the whole of the age group or only part of it).
+
+(5) A percentage specified under subsection (4)(a) must be lower than the secondary percentage.
+
+(6) For the purposes of this Act a person is still to be regarded as being liable to pay a secondary Class 1 contribution even though the amount of the contribution is £0 because the age-related secondary percentage is 0%.
+
+(7) The Treasury may by regulations provide that, in relation to an age group specified in the table, there is to be for every tax year an upper secondary threshold for secondary Class 1 contributions.
+
+That threshold is to be the amount specified for that year by regulations made by the Treasury.
+
+(8) Subsections (4) and (5) of section 5 above (which confer power to prescribe an equivalent of a secondary threshold in relation to earners paid otherwise than weekly), and subsection (6) of that section as it applies for the purposes of those subsections, apply for the purposes of an upper secondary threshold in relation to an age group as they apply for the purposes of a secondary threshold.
+
+(9) Where—
+
+(a) a secondary Class 1 contribution is payable as mentioned in section 6(1)(b) above,
+
+(b) the earner falls within an age group in relation to which provision has been made under subsection (7), and
+
+(c) the earnings paid in the tax week, in respect of the employment in question, exceed the current upper secondary threshold (or the prescribed equivalent) in relation to the age group,
+
+this section is not to apply to the earnings so far as they exceed that threshold (or the prescribed equivalent); and for the purposes of section 9(1) above the relevant percentage in respect of the earnings so far as they exceed that threshold (or the prescribed equivalent) is, accordingly, to be the secondary percentage.
+
+(10) In subsections (7) to (9) references to an age group include a part of an age group.”
+
+(4) In section 122(1) (interpretation of Parts 1 to 6), at the appropriate place insert—
+
+““age-related secondary percentage” is to be construed in accordance with section 9A(2) above;”.
+
+(5) In section 176(1)(a) (parliamentary control: instruments subject to affirmative procedure) after “section 4C;” insert—
+
+“section 9A(7);”.
+
+(6) SSCB(NI)A 1992 is amended as follows.
+
+(7) In section 9 (calculation of secondary Class 1 contributions)—
+
+(a) in subsection (1) for “the secondary percentage” substitute “the relevant percentage”, and
+
+(b) after subsection (1) insert—
+
+“(1A) For the purposes of subsection (1) “the relevant percentage” is—
+
+(a) if section 9A below applies to the earnings, the age-related secondary percentage;
+
+(b) otherwise, the secondary percentage.”
+
+(8) After section 9 insert—
+
+“9A The age-related secondary percentage
+
+(1) Where a secondary Class 1 contribution is payable as mentioned in section 6(1)(b) above, this section applies to the earnings paid in the tax week, in respect of the employment in question, if the earner falls within an age group specified in column 1 of the table in subsection (3).
+
+(2) For the purposes of section 9(1A)(a) above, the age-related secondary percentage is the percentage for the earner’s age group specified in column 2 of the table.
+
+(3) Here is the table—
+
+--------------------------------------------
+|Age group|Age-related secondary percentage|
+--------------------------------------------
+|Under 21 |0%                              |
+--------------------------------------------
+
+(4) The Treasury may by regulations amend the table—
+
+(a) so as to add an age group in column 1 and to specify the percentage in column 2 for that age group;
+
+(b) so as to reduce (or further reduce) the percentage specified in column 2 for an age group already specified in column 1 (whether for the whole of the age group or only part of it).
+
+(5) A percentage specified under subsection (4)(a) must be lower than the secondary percentage.
+
+(6) For the purposes of this Act a person is still to be regarded as being liable to pay a secondary Class 1 contribution even though the amount of the contribution is £0 because the age-related secondary percentage is 0%.
+
+(7) The Treasury may by regulations provide that, in relation to an age group specified in the table, there is to be for every tax year an upper secondary threshold for secondary Class 1 contributions.
+
+That threshold is to be the amount specified for that year by regulations made by the Treasury.
+
+(8) Subsections (4) and (5) of section 5 above (which confer power to prescribe an equivalent of a secondary threshold in relation to earners paid otherwise than weekly), and subsection (6) of that section as it applies for the purposes of those subsections, apply for the purposes of an upper secondary threshold in relation to an age group as they apply for the purposes of a secondary threshold.
+
+(9) Where—
+
+(a) a secondary Class 1 contribution is payable as mentioned in section 6(1)(b) above,
+
+(b) the earner falls within an age group in relation to which provision has been made under subsection (7), and
+
+(c) the earnings paid in the tax week, in respect of the employment in question, exceed the current upper secondary threshold (or the prescribed equivalent) in relation to the age group,
+
+this section is not to apply to the earnings so far as they exceed that threshold (or the prescribed equivalent); and for the purposes of section 9(1) above the relevant percentage in respect of the earnings so far as they exceed that threshold (or the prescribed equivalent) is, accordingly, to be the secondary percentage.
+
+(10) In subsections (7) to (9) references to an age group include a part of an age group.”
+
+(9) In section 121(1) (interpretation of Parts 1 to 6), at the appropriate place insert—
+
+““age-related secondary percentage” is to be construed in accordance with section 9A(2) above;”.
+
+(10) In section 172(11A) (parliamentary control: instruments subject to affirmative procedure) after “4C,” insert “9A(7),”.
+
+(11) The following come into force at the end of the period of 2 months beginning with the day on which this Act is passed—
+
+(a) any power conferred on the Treasury by virtue of this section to make regulations, and
+
+(b) the amendments made by subsections (5) and (10).
+
+(12) So far as not already brought into force by subsection (11), the amendments made by this section come into force on 6 April 2015.’.—(Mr Gauke.)
+
+Brought up, and read the First time.
+
+14:36:00
+
+The Exchequer Secretary to the Treasury (Mr David Gauke)
+I beg to move, That the clause be read a Second time.
+
+Madam Deputy Speaker (Dawn Primarolo)
+With this it will be convenient to discuss amendment (a), at end insert—
+
+‘(13) The Treasury shall publish a review of the level of youth unemployment as at December 2013 and the effect on the level of youth unemployment if the amendments made in this section were required to be brought into force on 6 April 2014.’.
+
+Mr Gauke
+New clause 3 brings forward an important initiative announced by my right hon. Friend the Chancellor of the Exchequer in his autumn statement of last week. He announced that employers employing workers under the age of 21 would no longer have to pay employers’ class 1 national insurance contributions. Proposed new section 9A of the Social Security Contributions and Benefits Act 1992 and its Northern Ireland equivalent bring this into effect by introducing a zero rate of secondary class 1 NICs for all employers on the earnings of employees under the age of 21. As my right hon. Friend the Chancellor made clear, the Government believe this measure will, alongside other initiatives on apprenticeships and work experience placements, help to address the problem of youth unemployment in the United Kingdom. The measure will apply both to new and existing employees aged under 21 and is not time limited.
+
+Mr Philip Hollobone (Kettering) (Con)
+I congratulate my hon. Friend on introducing this proposal. How much will it cost and how many young people will it help?
+
+Mr Gauke
+I am grateful to my hon. Friend for his question. The details of the costings can be seen in the autumn statement document published last week. The initial cost is £460 million and that then increases beyond that. All those working who are under the age of 21 will be able to benefit from it, although there is one caveat that I wish to make in a few moments.
+
+This is a step in the right direction. It is striking that this Government came to office inheriting an increase in NICs and we have not only increased the thresholds for paying employers’ NICs, but we have introduced the employment allowance which gives £2,000 off for businesses in respect of employers’ NICs, and now we are exempting those under the age of 21. All this will help to create employment.
+
+Ian Swales (Redcar) (LD)
+Will the Minister clarify whether the years in which employers do not pay contributions for people under 21 will still qualify under the pension arrangements as years worked?
+
+Mr Gauke
+Yes; this will not make any change in that regard. It is worth bearing in mind that the changes relate to employers’ national insurance contributions, and that employees’ contributions will remain unchanged. There is no change in terms of contributory benefits.
+
+The new clause contains regulation-making powers to vary the age group and the rate of secondary class 1 NICs for that group, and to reduce the rate of secondary class 1 contributions for a previously specified age group. For example, the Government could allow for an increase in the age bracket of employees falling into the zero-rate band of secondary class 1 contributions. I want to reassure hon. Members that that power is capable of placing an employee only in a lower percentage bracket, and that it is therefore a relieving power only.
+
+There is also a regulation-making power to ensure that the benefit of the zero rate or reduced rate of secondary class 1 NICs will be enjoyed only in respect of earnings below a certain level. In other words, the power will provide a means of introducing an earnings limit. As the Chancellor announced in the autumn statement, this will be set initially at the level of the upper earnings limit, which is expected to be the equivalent of about £42,000 a year in 2015-16. I would be happy to take the House through the new clause, subsection by subsection, although all that information is provided in the explanatory notes. Perhaps, instead, I will respond to any questions on those subsections that arise during the debate.
+
+Let me turn to the Opposition’s amendment (a) to the new clause. It proposes:
+
+“The Treasury shall publish a review of the level of youth unemployment as at December 2013 and the effect on the level of youth unemployment if the amendments made in this section were required to be brought into force on 6 April 2014”—
+
+rather than in April 2015. I hope that the hon. Member for Birmingham, Ladywood (Shabana Mahmood) will not mind my anticipating some of her remarks, but I want to take this opportunity to explain why the amendment is unnecessary.
+
+The Government are committed to increasing employment levels for all, and employment is now at its highest ever level, while unemployment is lower than when we came to power. I recognise the challenges posed by youth unemployment, and dealing with them has long been a priority for the Government. For example, about 370,000 young people have been supported through the Work programme since June 2011. Furthermore, the Youth Contract provides almost £1 billion in funding to support up to 500,000 young people into employment and education opportunities. The autumn statement announcement on abolishing employer NICs for under-21s builds on those policies and has been widely welcomed by industry. Indeed, the director-general of the CBI, John Cridland, has said that the policy
+
+“will make a real difference and help tackle the scourge of youth unemployment.”
+
+Sheila Gilmore (Edinburgh East) (Lab)
+There has been considerable criticism that there has not been a significant take-up of the wage incentive attached to the Youth Contract. To what degree has that influenced this decision to try to achieve the same thing through national insurance measures?
+
+Mr Gauke
+Our motivation—and, I am sure, that of any sensible Government—is to do everything we can to address the issue of youth unemployment. That means trying a number of approaches and adopting a number of policies. It is difficult to quantify the number of jobs that will be created as a consequence of the measure, because many factors will come into play, but we believe that it will be helpful none the less. As I said, the director-general of the CBI also believes that it will make a real difference in tackling the scourge of youth unemployment.
+
+Mr Brooks Newmark (Braintree) (Con)
+It is probably worth considering the fact that a lot of businesses, particularly retail businesses, work on very small margins. Does my hon. Friend agree that the extra money that they will receive through not having to pay this jobs tax will probably encourage them to hire a young person rather than someone who is over 21?
+
+14:45:00
+
+Mr Gauke
+My hon. Friend makes an important point. We have to set this in the context of a range of Government measures, including the introduction of the employment allowance and the measures on business rates that we announced last week, which I am sure he will be the first to acknowledge will help retailers and small businesses in particular. All those measures will help to put in place the conditions that will encourage firms to take people on and to increase employment and wages. This is all about achieving sustainable growth in living standards. There is no short-cut to achieving that, but measures such as these will help us to ensure that the economy is on a strong footing and that we are in a position to improve the living standards of the British public.
+
+Ian Swales
+This might be a trivial drafting point, but will the Minister explain exactly what age he is talking about? The new clause refers to people “under 21”, which suggests that it would apply to people before they reach their 21st birthday. Is that correct?
+
+Mr Gauke
+The exemption is available up to, but not including, the month in which the employee turns 21. I hope that that makes the matter clear to my hon. Friend.
+
+Returning to the Opposition’s amendment, I see little point in the Treasury publishing a review of the level of youth unemployment. The Office for National Statistics is responsible for publishing statistics on employment, and those regular releases are available to the public through the ONS website. There is a limited case for the Treasury intervening and also publishing a review.
+
+In addition, I do not think that there is much value in attempting to estimate the impact of a policy being introduced on a theoretical date. We announced in the autumn statement that employer NICs would be abolished for those under 21 years of age from April 2015. I can understand why the hon. Lady raises the question, but attempting to deliver that a year earlier, in 2014, would increase the administrative costs to business, and rushing the measure through in that way would be likely to lead to cost confusion and the failure of many employers to take it up. Such a tight time frame would not give employers, payroll software developers and Her Majesty’s Revenue and Customs enough time to update their IT systems. It would also not give HMRC enough time to ensure that the policy could be implemented in a way that did not disrupt its other important IT systems. Given that the policy cannot be delivered in April 2014, it would not be a good use of Government time and resources to attempt to estimate the impact of something that we do not intend to do and that cannot be delivered.
+
+I dare say that I shall return to this matter later, but in the light of those comments, I hope that the hon. Lady will not press her amendment to a vote. I also hope that the new clause will be able to stand part of the Bill. It is an excellent measure that will help many of our constituents by increasing employment.
+
+Shabana Mahmood (Birmingham, Ladywood) (Lab)
+I wish to speak to amendment (a) to new clause 3. I welcome the Minister’s explanation of the thinking behind the new clause and his clarification of how the age limit will be interpreted. His clarification of the measure’s impact on pensions was also helpful, given that we did not have these proposals before us when the Committee considered the Bill.
+
+In general, the Government’s new proposal, announced in the autumn statement last week, will hopefully encourage employers to take on more young people under the age of 21. With youth unemployment so high—it is nearly 1 million—and long-term youth unemployment a real concern, some action is welcome but, as the Minister has anticipated and as our amendment suggests, we have some concerns about how the Government are going about dealing with the issue.
+
+I will deal first with some practical points relating to new clause 3 before moving on to our more substantive concerns about the Government’s approach. I have briefly discussed the impact of the measures with various stakeholders who have been scrutinising the new clause since the Government tabled it. Given that we were unable to scrutinise it in Committee, because of when it was tabled, it would be helpful if the Minister at least gave the House the benefit of his thoughts on the issues  I am about to raise. Members of the other place can then take forward some of our concerns if there is more in them.
+
+What impact does the Minister think the new measure will have on young people who are employed part time? As he will know, we have seen a huge rise in part-time employment and insecure employment, for example through the growth of zero-hours contracts, something the House has debated a great deal in this Parliament. My understanding is that many young people who work part time will not be caught by the measure because they earn far beneath the primary threshold. What consideration has he given to the impact on young people who are employed part time, given that for so many of them their first job is part time? As many Members will know, it is now not unusual for young people on the Work programme to be offered only part-time employment of zero-hours contracts, so it would be helpful if he explained the Government’s thinking on that.
+
+I would also welcome the Minister’s view on how the measure might interact with the willingness of employers to take on graduates and the impact it might have on graduate employment. That is not about passing a value judgment on whether someone is taken on when they are 18 or whether employers decide to employ a graduate, but the Minister knows that the other announcements made in the autumn statement in relation to young people were about an increase in student numbers of 30,000 and a removal of student number controls to enable universities to take on as many students as they like. The number of 18-year-olds, in particular, participating in higher education is likely to increase.
+
+It would therefore be helpful if the Minister outlined the Government’s thinking on how those two changes will interact and how they will ensure that they work in a complementary way, rather than skewing one type of recruitment practice ahead of another. Those issues are worthy of much greater deliberation than we will have the opportunity for today, so we might need to return to them, depending on what happens as the Bill makes progress.
+
+I have two other points to make on the practicalities of new clause 3. First, we need to ensure that it is promoted properly to employers, particularly micro-businesses and even one-man bands, which might be encouraged to take on a young person, perhaps a family member. How will we ensure that they know exactly how that will operate and how it will interact with the employment allowance? That is important to ensure that micro-businesses, in particular, are well aware of how the two things align and that there is no confusion that could lead to a decrease in take-up. Secondly, my understanding is that no new funding has been announced to pay for the proposal, so it would be helpful if the Minister set out where the money will come from and how the costs are expected to increase, and not only in the first or second years, but in future years.
+
+There are two main points of difference between the Opposition and the Government in relation to the new proposal. First, it is not bold enough. The Minister will know, because we have discussed it before, about the scale of the challenge we face and what the Government could and should have done to tackle the scourge of youth unemployment.
+
+Jenny Chapman (Darlington) (Lab)
+Welcome though the measure surely is, does my hon. Friend not feel, as I do, that with almost 1 million young people unemployed, it might be too little, too late?
+
+Shabana Mahmood
+I am grateful to my hon. Friend for her intervention and agree with her entirely. I was going to move on to that point. We disagree with the Government’s approach because we do not think that the proposal is bold enough, but we are also concerned about the timing—I will return to this later—because it has a direct impact on our proposed amendment to the new clause.
+
+Youth unemployment is nearly 1 million—around 940,000 young people are unemployed—and the most recent figures, published in November, show that long-term youth unemployment has increased. Given the scale of the problem and the impact that every single day of unemployment has on a young person’s overall life chances, I believe that the Government should have come back with a much bolder offer in the autumn statement. It was a missed opportunity to go further and faster.
+
+The Minister will not be surprised to hear that I think the Government should have adopted our alternative proposal for a compulsory jobs guarantee for every young person under the age of 25 who is out of work, funded by a tax on bank bonuses. [Interruption.] It has been spent only once—Government Members should look at the detail. The young person would have to take up the job or risk losing their benefits.
+
+Sheila Gilmore
+I am sure that my hon. Friend will agree that the idea of a jobs guarantee has been proposed not only by the Labour party; it was also a recommendation of the Government’s recent social mobility commission, which criticised the impact of the Youth Contract and suggested that a jobs guarantee would be a much better approach.
+
+Shabana Mahmood
+My hon. Friend is absolutely right. The Government’s Youth Contract has been branded a failure by their own advisers. It is also worth noting that the Work programme is finding work for only one in six long-term unemployed people. The House heard earlier, when the Secretary of State for Work and Pensions was called to answer an urgent question, about the other difficulties with the Work programme.
+
+The scale of the problem we face in relation to youth unemployment is stark. I speak as the Member who represents the constituency with the highest rate of unemployment in the country. I meet many young people every day in my constituency who are themselves the children of people who found themselves unemployed in the last great recession in the 1980s. They are having the same problems that their parents’ generation had. Every day that a young person tries hard but fails to get a job increases their desperation and depression. I recently held a youth jobs fair in my constituency, along with my right hon. Friend the Member for Birmingham, Hodge Hill (Mr Byrne) and my hon. Friend the Member for Birmingham, Erdington (Jack Dromey). More than 2,000 young people attended, and every one of them spoke of their desperation and their desire to find work and the difficulties of finding work in the current climate.
+
+In those circumstances, knowing how much of a knock a young person’s life chances take when they find themselves unemployed for a long period, I think that it is right for the Government to consider taking much  bolder action. The fact that they have failed to do so shows that they have failed to meet the scale of the challenge of our times. I fear that we are storing up a much bigger problem for the future.
+
+In the absence of such action, my point to the Minister is that we hope the new clause will stimulate more employment for young people and encourage employers to consider taking on a young person, and that it therefore helps to get to grips with some of the problems. It is a good proposal. It does not go as far as we would like and perhaps it will not have the impact that a compulsory jobs guarantee would have, but on its own terms it is a good proposal, so why not do it now? Nothing the Minister mentioned seemed to be an insurmountable problem. He said that the IT situation would be a little difficult, but we should not let IT difficulties at HMRC stop us getting to grips with the scourge of youth unemployment. He has failed to introduce the employment allowance as soon as we believe it should have been introduced. He also decided not to scrap the regional national insurance employers holiday, so letting it run for three years, yet he knows that it fell far short of the targets that were set for it at the beginning.
+
+The Minister said that the problem with the April 2014 date is that the Government wanted to wait until real-time information was all online and working properly. However, I have interrogated others on this point, and it was apparently not impossible or too difficult for the Government to amend the IT situation so as to enable the employment allowance to be brought in earlier than April next year. I am afraid that the same point applies to the proposal on national insurance for under-21s. The Minister has said nothing that suggests that it should not be brought in as early as possible, April 2014 being the best date on offer.
+
+15:00:00
+
+Richard Fuller (Bedford) (Con)
+If I heard the hon. Lady correctly, she said that she wanted the cut in the jobs tax to be brought in sooner, yet in 2010 she said in Committee that she was proud to stand on a record of increasing the jobs tax. Does that represent a flip-flop?
+
+Shabana Mahmood
+It does not represent a flip-flop, as the hon. Gentleman well knows. It would not be a debate on this issue if he did not make the point that he has made on a number of occasions. I would have felt as though I had missed out on something if he had not made that intervention, so I am grateful to him. He will not be surprised if I repeat my previous answers to him in relation to national insurance. I was very proud to stand for election on the Labour party manifesto at the 2010 general election and proud that the Labour Government had got the recovery under way at the time of that election—a recovery that was choked off by this Government as soon as they came into power. [Interruption.] Government Members might not like to hear it, but I am afraid that that does not stop it being true.
+
+Let me clarify my point about the employment allowance. From the moment it was announced in the Budget, our immediate critique was not that it should not be introduced —we supported its introduction from the beginning—but to say, as we have continued to say, “Bring it in as soon as possible—why wait?” If there were compelling reasons  for the wait, it would be understandable, but I am afraid that I find nothing compelling in anything the Minister has ever said about the delay in bringing these proposals forward. All the issues relating to IT and systems and getting software up and running could be sorted out, with a bit of will.
+
+I understand that software developers are still waiting on HMRC to give them the full guidelines on what software they will need to produce to make sure that take-up of the employment allowance goes ahead with relative ease. I hope that the Minister has had sight of the submission by Mr Holloway of the Learn Centre to the National Insurance Contributions Bill Committee, which was submitted after the Committee had disbanded but was still made available to all its members, because it contains concerns about the delay in getting proper clarification and explanation to software developers on what they need to do in relation to the employment allowance. Given that it is December and they have to get ready for the employment allowance to come online in April 2014, they will not have a huge amount of time to get everything in place and ready. If that is the position on the employment allowance, then why not add in the proposal on NICs for under-21s and deal with both issues at the same time?
+
+Given that we are speaking from the Opposition Benches—unfortunately—our amendment does not propose that the measure should be introduced immediately in 2014; otherwise Government Members would no doubt have shouted at us about the cost of doing so and the spending commitment entailed. However, we have asked for a review that would look at the level of youth unemployment now and the impact that introducing the measure in April 2014 would have had on the level of youth unemployment as it stands today. That is because the Government should not escape scrutiny for the impact that this measure may have had compared with what it will have, I hope, when it comes into force in 2015. If it is found that the measure would have had a significant impact, as we believe it would, that is an important bit of information and the Government would be put under pressure to introduce it sooner than they intended.
+
+This Government found money in the autumn statement for the married couples allowance. They have always said that the recognition of marriage in the tax system is symbolic. However, government is about choices and priorities, and if money can be found immediately to do something that is symbolic and sends a message, then surely it should be found for a practical Government measure that helps to prioritise our young people who need jobs today and not on a date far from now. The choices and priorities of this Government are wrong and they should think again. The emergency presented to this country by the current rate of youth unemployment cannot wait to be dealt with on some future date. The Government should reconsider the start date of this proposal. We therefore intend to press our amendment to a vote.
+
+Mr Brooks Newmark (Braintree) (Con)
+I am someone who looks at a glass of milk as being half full, not half empty, and I think that the Government have done much to help young people back into work. The hon. Member for Birmingham, Ladywood (Shabana Mahmood) may wish to mock the Youth Contract, but it has  encouraged businesses to offer over 21,000 jobs to people at risk of long-term unemployment. Those 21,000 people appreciate the youth contract and want the job that it has enabled them to have.
+
+We have over 1 million young people in apprenticeships, which are also getting young people back on to the jobs ladder. Indeed, the latest Office for National Statistics labour statistics indicate a significant rise—of about 50,000 in the past three months alone—in the number of young people in work. The number of young people seeking jobseeker’s allowance has fallen by 13,000—the 17th consecutive monthly fall. That is good news indeed. Many constituencies, of Members throughout the House, have benefited, as has Braintree, which has seen a fall in long-term unemployment, regular unemployment and youth unemployment.
+
+On top of all that, I was absolutely delighted to hear the Chancellor supporting the Million Jobs campaign manifesto, which, I hasten to add, I helped to draft, by abolishing the jobs tax for under-21s. It is extremely important that if we are cutting taxes we do it to help those in society we really want to help. As a father of five children between the ages of 16 and 25, I am extremely sensitive to that age group. It is important that we get young people into work, and the new Government initiative does just that. It will enable even more young people to get a foothold on the employment ladder by providing a highly attractive incentive for businesses to hire a young person under 21. I thank Lottie Dexter, the director of the Million Jobs campaign, who has worked extremely hard not only in running it but ensuring that the draft manifesto that we put out only six weeks ago caught the Chancellor’s attention so much that he decided to support it in his autumn statement. I am delighted to support the new clause.
+
+Sheila Gilmore
+Our debate in Committee on the wider aspects of the Bill made it clear that employers may well use the allowance, which was originally the major part of the Bill, in a number of ways and that job creation would not necessarily be the only result. Some employers, for example, might choose to provide higher wages, while others might choose to provide more training for the upskilling of their work force.
+
+The Minister did not touch on this, but I presume the same might be said for the current proposal, because it is not, as I understand it, tied to taking on a new employee; rather, it relates to anyone who employs a young person, which, obviously, simplifies the issue in many ways. It would be useful to consider and, indeed, encourage not just the take-up of new jobs—although that is very important—but the issue of upskilling.
+
+As Members of all parties have said—Government Members often throw this at us—structural issues relating to youth unemployment have been around for some considerable time. Many things have been written about the causes, including whether there is a problem with a lack of entry-level jobs and whether people are skilled enough.
+
+Mr Newmark
+Would the hon. Lady at least like to join me in welcoming the fact that youth unemployment in her constituency over the past year has dropped by 19.8%?
+
+Sheila Gilmore
+I believe that relates to the claimant count, which is not always the same as youth unemployment, because some people in the 18-to-25 age group will have run out of contributory benefits and fallen off the claimant count. I still see an issue when I look around me, even in a city that, in comparison with the rest of Scotland, has always done better with regard to employment.
+
+Of course, it is a good thing. [Hon. Members: “Hear, hear!”] No one is going to say that it is a bad thing. That would be ridiculous.
+
+Mr Newmark
+Just give the Government some credit.
+
+Sheila Gilmore
+I have two things to say to that. Is it a good thing that youth unemployment—or the claimant count at least—has fallen in my constituency? Yes, it is. Do I give the Government credit for that? Well, I am not sure whether it is down to the Government or not, so we should put that to one side.
+
+We would not be debating the proposal, and it would not have been included in the autumn statement, if the Government did not believe that youth unemployment is still an issue and a problem. Many statements are being made about how wonderful it is that youth unemployment is coming down, but the Government clearly believe, like us, that there is still a problem. If there was no problem, I doubt the proposal would have been made.
+
+Although many young people are not necessarily unemployed for long periods, there are groups of young people who find themselves unemployed for a year or even two years, which, as we know, is of huge consequence to people’s future life, health, well-being and income.
+
+Mr Newmark
+I am sorry to hear that the hon. Lady’s approach to what the Government are doing is one of, “Bah, humbug!” Given that it is Christmas, will she at least acknowledge, first, that the Government are doing a good job by bringing youth unemployment down in her constituency and throughout the country and, secondly, that this particular initiative of abolishing the jobs tax for under-21s is a good one? It is Christmas.
+
+Sheila Gilmore
+It is indeed Christmas and, given that many families up and down this country will be struggling through Christmas, I do not think the Government will receive much thanks. For example, a rising number of people are having to resort to food banks this Christmas and, indeed, throughout the year. We could trade these issues backwards and forwards.
+
+The point I was making was about giving young people who are in employment the opportunity to be trained and to upskill because, while it is very important to get a first job, being able to progress is also extremely important. Will the Minister consider monitoring—in future or even when the proposal is implemented—what happens in practice? Perhaps the Government should tie the proposal to certain beneficial outcomes, such as making the provision available to employers who agree to use it either for the creation of a job or for the upskilling of an existing worker. It would be highly desirable not to encourage practices such as zero-hours contracts, which Members on both sides of the House said were bad when we debated them, so perhaps the allowance should be tied to employers who do not provide young people with zero-hours contracts.
+
+15:15:00
+
+Mr Gauke
+First, I thank hon. Members for welcoming the proposal. I am grateful to the hon. Member for Birmingham, Ladywood (Shabana Mahmood) for describing it as a good one. I will respond to some of her specific questions and then deal, as she did, with the area of contention, to the extent that one exists.
+
+On part-time workers, it is right to say that employers of staff earning below the secondary threshold of £148 per week—which applies to a lot of part-time staff—will not be affected directly by this change. It is worth pointing out, however, that some employers may at present be discouraged from increasing the hours of an under 21-year-old because they may then have to pay employers’ national insurance contributions. To that extent, the proposal may well help those part-time workers who want to extend their hours, because it will increase the incentives for their employers to do so. That will also enable an employer with both part-time and full-time employees to connect the work of the two groups.
+
+Similarly, there is no direct interaction with the employment allowance. Obviously, the measure will reduce the national insurance contributions bill of a number of employers, which may allow the employer’s allowance to spread further: the £2,000 would be just as valuable to the employer, but it would contribute more to reducing their total NICs bill. I think that is a fair point to make.
+
+The hon. Lady asked about the interaction with university numbers, which we have said we will increase. Again, I do not think there is a direct interaction. The Government are trying to do everything we can for young people with regard to increasing choices, providing more university places and creating a good environment with more jobs for them. If the hon. Lady is worried about graduates over the age of 21 hitting the labour market, the point I would make is that extending the policy to those under 22 or 23 would be significantly more expensive, which must be taken into consideration in the light of the pressures on the public finances. Overall, we think the package is a good one.
+
+On youth unemployment generally, I touched on a number of measures earlier, and my hon. Friend the Member for Braintree (Mr Newmark) mentioned some that we are taking, such as the Work programme, and which should be recognised. In case it has escaped the notice of the hon. Member for Birmingham, Ladywood, youth unemployment in her constituency has fallen by 15.6% in the past 12 months, and we have ambitions to take it down even further.
+
+I thank my hon. Friend the Member for Braintree for his work on the Million Jobs campaign and, indeed, on this policy. He certainly contributed to the policy process for the autumn statement, and I thank him for all his efforts.
+
+To turn to the areas of contention, my hon. Friend the Member for Bedford (Richard Fuller) referred to a certain pattern: first, the Labour party goes into the general election advocating an increase in employer’s national insurance contributions and then, following the election, every time this Government come forward with policies to reduce employer’s national insurance contributions, it complains that we are not bold enough  and that we should go further and faster. I must say that his characterisation of that as a flip-flop is entirely accurate.
+
+In relation to our not making the change now, I have set out the reasons for that. Attempting to deliver it a year earlier, in April 2014, would increase the administrative cost not just to HMRC, but to business. Rushing the measure through in that manner would be likely to lead to cost, confusion and the failure of many employers to take it up. Payroll companies need time to update their software and employers need time to download it, and such a time frame would put the policy at risk. Does the hon. Member for Birmingham, Ladywood really think that, with 18 months to run in this Parliament, the Government prefer to introduce the measure in April 2015, rather than in April 2014? If we could possibly introduce it safely in April 2014, we would, but we can do it in April 2015. That is absolutely the right thing to do, and we will not jeopardise that policy.
+
+Finally, the hon. Lady asked about progress on the employment allowance. HMRC has been in discussions with various interested parties over many months. There is ongoing engagement with relevant groups, including software providers, on the draft employer guidance, with a view to making it available on the HMRC website in the new year. HMRC will also target communications to key interested groups, and use its publications and products to build further awareness in February and March. We believe that that is all on track.
+
+I welcome the support for the policy. I understand why the hon. Lady asks why we should not make the change in April 2014, although given that her party has at no point advocated getting rid of employer’s NICs for under-21s, it would be slightly strange for her to push the matter to a vote. There are good practical reasons why we cannot do it, much though we would like to, so I will be disappointed if she presses her amendment to a Division. None the less, I welcome the support given to the measure, and I am proud that the Government are taking real steps to deal with youth unemployment.
+
+Question put and agreed to.
+
+Clause accordingly read a Second time.
+
+Amendment proposed to new clause 3: (a) at end insert—
+
+‘(13) The Treasury shall publish a review of the level of youth unemployment as at December 2013 and the effect on the level of youth unemployment if the amendments made in this section were required to be brought into force on 6 April 2014.’.—(Shabana Mahmood.)
+
+Question put, That the amendment be made.
+
+Division 156
+10/12/2013 15:23:00
+The House divided:
+Ayes: 225
+Noes: 294
+Question accordingly negatived.
+
+New clause 3 added to the Bill.
+
+New Clause 4
+
+Class 4 contributions: partnerships
+
+‘(1) SSCBA 1992 is amended as follows.
+
+(2) After section 18 insert—
+
+“18A Class 4 contributions: partnerships
+
+(1) The Treasury may by regulations—
+
+(a) modify the way in which liabilities for Class 4 contributions of a partner in a firm are determined, or
+
+(b) otherwise modify the law relating to Class 4 contributions,
+
+as they consider appropriate to take account of the passing or making of a provision of the Income Tax Acts relating to firms or partners in firms.
+
+(2) “Firm” has the same meaning as in the Income Tax (Trading and Other Income) Act 2005 (and includes a limited liability partnership in relation to which section 863(1) of that Act applies); and “partner” is to be read accordingly and includes a former partner.
+
+(3) Regulations under this section may have retrospective effect; but they may not have effect before the beginning of the tax year in which they are made.”
+
+(3) In section 176(1)(a) (parliamentary control: instruments subject to affirmative procedure), after “section 18;” insert—
+
+“section 18A;”.
+
+(4) SSCB(NI)A 1992 is amended as follows.
+
+(5) After section 18 insert—
+
+“18A Class 4 contributions: partnerships
+
+(1) The Treasury may by regulations—
+
+(a) modify the way in which liabilities for Class 4 contributions of a partner in a firm are determined, or
+
+(b) otherwise modify the law relating to Class 4 contributions,
+
+as they consider appropriate to take account of the passing or making of a provision of the Income Tax Acts relating to firms or partners in firms.
+
+(2) “Firm” has the same meaning as in the Income Tax (Trading and Other Income) Act 2005 (and includes a limited liability partnership in relation to which section 863(1) of that Act applies); and “partner” is to be read accordingly and includes a former partner.
+
+(3) Regulations under this section may have retrospective effect; but they may not have effect before the beginning of the tax year in which they are made.”
+
+(6) In section 172(11A) (parliamentary control: instruments subject to affirmative procedure), after “18,” insert “18A,”.
+
+(7) The amendments made by this section come into force at the end of the period of 2 months beginning with the day on which this Act is passed.’.—(Mr Gauke.)
+
+Brought up, and read the First time.
+
+Mr Gauke
+I beg to move, That the clause be read a Second time.
+
+Mr Deputy Speaker (Mr Lindsay Hoyle)
+With this it will be convenient to discuss the following:
+
+Government new clause 5—Limited liability partnerships.
+
+Government amendments 1 and 2
+
+Mr Gauke
+New clause 4 is needed as it addresses a tax issue arising under existing partnership tax rules where the immediate entitlement to partnership profits is restricted by the alternative investment fund managers directive—AIFMD. HMRC received further information about this during the partnerships review consultation. Following their discussions with the funds sector representatives and the Financial Conduct Authority with responsibility for the AIFMD implementation in the United Kingdom, the Government intend to put in place a statutory mechanism to address the issue, subject to parliamentary approval.
+
+It is important to note that the vast majority of fund managers would not be affected; only those who operate through a partnership would be affected. Under existing partnership tax rules, tax is charged on profits as they are earned, rather than when they are received. An unfunded tax charge can therefore arise on profits that are allocated to an individual partner of an AIFM partnership and which are then deferred in line with the regulatory requirements of the AIFMD. That is because the partner cannot access the deferred profits in the year when they arise.
+
+The new mechanism that the Government propose is designed in such a way as to meet the Government objective of a partnership review to achieve fairer taxation by stopping tax-motivated allocation of profits in mixed membership partnerships that typically include individual and corporate members. The new power introduced under new clause 4 will support the introduction of the mechanism and will be used to change the relevant national insurance contributions legislation by regulation, once the related Finance Bill 2014 legislation becomes  law. It will also allow NICs legislation to be amended in future to reflect any subsequent changes to income tax legislation in that area, to maintain symmetry between tax and NICs positions.
+
+New clause 5 and amendment 2 replace clause 13, which would have removed limits on the Treasury categorising members of limited liability partnerships who satisfy certain conditions as employed earners for the purposes of NICs, rather than self-employed earners. New clause 2 provides an express power to treat LLP members who meet certain conditions as employed earners for NICs purposes. Those conditions will be set out in regulations and will follow income tax legislation introduced in the Finance Bill 2014. Broadly, it will mean that the individual member of the LLP has no or little real economic interest or risk in the LLP, and instead will be rewarded by a fixed salary. Those conditions will be based on proposals on which HMRC has consulted, as part of the public consultation on changes to partnership tax and NICs rules. HMRC has been advised that in response to those proposals, structures with only corporate members were being promoted as a way around the proposed legislation. The schemes involved the individual establishing a personal service company or other intermediary, with that intermediary becoming a member of the LLP in place of the individual in order to avoid those provisions.
+
+New clause 5 provides power to make regulations to achieve the policy objective of the measure, and counteract the artificial imposition of a company or intermediary to avoid the impact of the measure. Regulations will follow new income tax legislation in the Finance Bill 2014. That power will enable the reclassification by regulation of certain LLP members as employed earners for NICs purposes, even when they hide behind a company or intermediary.
+
+The treatment of members of LLPs as self-employed was designed to replicate the position of traditional partnerships. The new clause will ensure that those tax rules are not used to create a tax advantage, and it creates a level playing field between partnerships that have not sought to misuse tax rules for LLPs and those that have done so. I appreciate that that was a rather technical explanation for rather technical new clauses, but I hope it was of use and that the House will agree that new clauses 4 and 5 be added to the Bill, instead of clauses 12 and 13.
+
+Shabana Mahmood
+I am grateful to the Minister for that helpful explanation of new clauses 4 and 5, and particularly the technical points and why the Government are no longer proceeding with clauses 12 and 13. I had some concerns in Committee about the impact of clause 13 in disapplying section 4(4) of the Social Security Contributions and Benefits Act 1992. That seemed to be possibly going too far and was ripe for lawyers to have fun with—I was one in my former life. I note that the Government have got rid of that problem and clarified their intention for LLPs by tabling new clause 5.
+
+New clauses 4 and 5 both state that the Government can bring forward regulations to deal with their more technical aspects. Will there be an opportunity for consultation on those draft statutory instruments when they are ready, so we can ensure that no further issues arise as the Government try to implement the objectives that new clauses 4 and 5 are trying to achieve?
+
+Mr Gauke
+I thank the hon. Lady for her support for these measures. Detailed proposals in the form of draft regulations will be published early in the new year, and they will tie in with measures in next year’s Finance Bill. There will therefore be plenty of opportunity to consult on those regulations, and I look forward to debating with her measures on partnerships in next year’s Finance Bill. In that sense, I assure the hon. Lady that the measures will receive an appropriate amount of scrutiny, and I hope that the new clauses will stand part of the Bill.
+
+Question put and agreed to.
+
+New clause 4 accordingly read a Second time, and added to the Bill.
+
+New Clause 5
+
+Limited liability partnerships
+
+‘(1) SSCBA 1992 is amended as follows.
+
+(2) After section 4A insert—
+
+“4AA Limited liability partnerships
+
+(1) The Treasury may, for the purposes of this Act, by regulations—
+
+(a) provide that, in prescribed circumstances—
+
+(i) a person (“E”) is to be treated as employed in employed earner’s employment by a limited liability partnership (including where E is a member of the partnership), and
+
+(ii) the limited liability partnership is to be treated as the secondary contributor in relation to any payment of earnings to or for the benefit of E as the employed earner;
+
+(b) prescribe how earnings in respect of E’s employed earner employment with the limited liability partnership are to be determined (including what constitutes such earnings);
+
+(c) provide that such earnings are to be treated as being paid to or for the benefit of E at prescribed times.
+
+(2) Regulations under subsection (1) may modify the definition of “employee” or “employer” in section 163, 171, 171ZJ or 171ZS below as the Treasury consider appropriate to take account of any provision falling within subsection (1)(a) to (c).
+
+(3) If—
+
+(a) a provision of the Income Tax Acts relating to limited liability partnerships or members of limited liability partnerships is passed or made, and
+
+(b) in consequence, the Treasury consider it appropriate for provision to be made for the purpose of assimilating to any extent the law relating to income tax and the law relating to contributions under this Part,
+
+the Treasury may by regulations make that provision.
+
+(4) The provision that may be made under subsection (3) includes provision modifying any provision made by or under this Act.
+
+(5) Regulations under this section are to be made with the concurrence of the Secretary of State.
+
+(6) Section 4(4) of the Limited Liability Partnerships Act 2000 does not limit the provision that may be made by regulations under this section.”
+
+(3) In section 4B (power to make retrospective provision in consequence of retrospective tax legislation), in subsection (3), after paragraph (c) insert—
+
+“(d) section 4AA (power to make provision in relation to limited liability partnerships)”.
+
+(4) In section 10 (Class 1A contributions: benefits in kind etc), at the end, insert—
+
+“(11) The Treasury may by regulations modify the law relating to Class 1A contributions in the case of an employed earner’s employment which is treated as existing by virtue of regulations under section 4AA.”
+
+(5) SSCB(NI)A 1992 is amended as follows.
+
+(6) After section 4A insert—
+
+“4AA Limited liability partnerships
+
+(1) The Treasury may, for the purposes of this Act, by regulations—
+
+(a) provide that, in prescribed circumstances—
+
+(i) a person (“E”) is to be treated as employed in employed earner’s employment by a limited liability partnership (including where E is a member of the partnership), and
+
+(ii) the limited liability partnership is to be treated as the secondary contributor in relation to any payment of earnings to or for the benefit of E as the employed earner;
+
+(b) prescribe how earnings in respect of E’s employed earner employment with the limited liability partnership are to be determined (including what constitutes such earnings);
+
+(c) provide that such earnings are to be treated as being paid to or for the benefit of E at prescribed times.
+
+(2) Regulations under subsection (1) may modify the definition of “employee” or “employer” in section 159, 167, 167ZJ or 167ZS below as the Treasury consider appropriate to take account of any provision falling within subsection (1)(a) to (c).
+
+(3) If—
+
+(a) a provision of the Income Tax Acts relating to limited liability partnerships or members of limited liability partnerships is passed or made, and
+
+(b) in consequence, the Treasury consider it appropriate for provision to be made for the purpose of assimilating to any extent the law relating to income tax and the law relating to contributions under this Part,
+
+the Treasury may by regulations make that provision.
+
+(4) The provision that may be made under subsection (3) includes provision modifying any provision made by or under this Act.
+
+(5) Regulations under this section are to be made with the concurrence of the Department.
+
+(6) Section 4(4) of the Limited Liability Partnerships Act 2000 does not limit the provision that may be made by regulations under this section.”
+
+(7) In section 4B (power to make retrospective provision in consequence of retrospective tax legislation), in subsection (3), after paragraph (c) insert—
+
+“(d) section 4AA (power to make provision in relation to limited liability partnerships)”.
+
+(8) In section 10 (Class 1A contributions: benefits in kind etc), at the end, insert—
+
+“(11) The Treasury may by regulations modify the law relating to Class 1A contributions in the case of an employed earner’s employment which is treated as existing by virtue of regulations under section 4AA.”’.—(Mr Gauke.)
+
+Brought up, read the First and Second time, and added to the Bill.
+
+
+
+New Clause 1
+
+Post implementation review
+
+‘(1) Her Majesty’s Revenue and Customs must, after one year, prepare a post implementation review of the employment allowance which the Minister shall lay before Parliament.
+
+(2) The review must consider—
+
+(a) what impact the employment allowance has had on the number of jobs;
+
+(b) what impact the employment allowance has had on wage levels;
+
+(c) overall take-up of the employment allowance;
+
+(d) the geographical spread of businesses, charities and sports clubs taking up the employment allowance; and
+
+(e) the effectiveness of Her Majesty’s Revenue and Customs’ strategy to promote the employment allowance.’.—(Shabana Mahmood.)
+
+Brought up, and read the First time.
+
+Shabana Mahmood
+I beg to move, That the clause be read a Second time.
+
+Mr Speaker
+With this it will be convenient to discuss
+
+New clause 2—Administrative and compliance costs review
+
+‘(1) Her Majesty’s Revenue and Customs must, after six months of the Act coming into force, prepare a review which the Minister shall lay before Parliament.
+
+(2) The review must consider—
+
+(a) whether there are any administrative or compliance costs associated with the employment allowance being reported by those applying for it; and
+
+(b) whether businesses, charities and sports clubs are having any problems in claiming the employment allowance.’.
+
+15:45:00
+
+Shabana Mahmood
+Given that I am still relatively new to my shadow Treasury brief, I am not yet—as hon. Members who served in Committee will no doubt be pleased to note—suffering from review fatigue. Both of the new clauses seek further reviews from the Government. New clause 1 envisages a post-implementation review, which was the subject of some debate in Committee, and I felt it was worth having a further discussion to push the Government a little more in relation to the impact that the employment allowance will have on jobs and wage rates, and the effectiveness of the promotion of the employment allowance to all those who are eligible for it.
+
+New clause 2 envisages an administrative and compliance cost review—a one-off review to take place six months after the employment allowance comes into force. It was prompted by the evidence of Mr Holloway, which I mentioned earlier, and I shall go into more detail shortly.
+
+In Committee, the Minister helpfully indicated that he would publish information on two of the elements that I have included in new clause 1—the overall take-up of the employment allowance and its geographical spread. I understand from his comments in Committee that the information on the geographical location of those taking up the employment allowance will probably be available on a regional basis. I hope that he will clarify that point when he responds to the debate. The Minister said that he would put information on both elements in the Library so that Members can raise questions about the effectiveness of the employment allowance and its take-up levels. We have in mind the previous regional national insurance employers’ holiday, which had difficulties from the start. We have made the point that those difficulties should have been dealt with sooner, and it is in that context that we think the Government should have a formal post-implementation review of the take-up of the employment allowance.
+
+Richard Fuller
+The hon. Lady earlier made the breathtaking assertion that although the Labour party was proudly in favour of increasing the jobs tax in 2010,  its attempt now to reduce it was not a flip-flop. With the proposal of an annual review, businesses will be concerned that the Labour party is not committed to the employment allowance, as we are. The hon. Lady said in Committee that she could not commit the Labour party to supporting the employment allowance at the next election, so will she therefore admit that Labour’s support for employment allowance is at risk in their shuffle of policies before that election?
+
+Shabana Mahmood
+I will repeat exactly what I said to the hon. Gentleman when we had this debate in Committee: we have been unequivocal in our support for employment allowance since it was introduced in the Budget earlier this year. We have taken every opportunity to say to the Minister and his colleagues in the Treasury team that it should be introduced sooner. We could not have been more unequivocal in our support.
+
+The purpose of the review is not to put the employment allowance at risk. The regional national insurance employers’ holiday scheme had problems with take-up from the start. They were raised with Ministers in this House at every available opportunity—in oral and written questions—yet we had to wait for the full three years of the scheme to run before the Government brought forward a proposal without the same problems. That is the context for tabling new clause 1. We want employment allowance to succeed and not suffer from low take-up—we want it to be taken up. The Government say that it will be taken up by 90% of eligible employers. I am sure that all Members want to see 100% take-up, and there seems to be no real reason why 10% should be missed off. We want to ensure that take-up is not affected by any unforeseen issues during roll-out.
+
+Ian Swales
+Does the hon. Lady accept that she can comment on the previous scheme precisely because the Government keep all such schemes under review? Neither scheme needs a review to be in the Bill.
+
+Shabana Mahmood
+It would be helpful for the review to be in the Bill, as it would concentrate the Government’s mind in ensuring that it works. We had to wait the full three years for the previous scheme to finish before we had a change of course towards something that will not suffer the same problems. Both points are good reasons to include a review in the Bill.
+
+In Committee, the Minister remarked on take-up and geographical location. I am sure all Members want the scheme to be taken up nationally, and for it not to be skewed by region because promotion is not good enough in some parts of the country and employers do not find out about it. We had a good debate on whether the review should consider the impact on the overall number of jobs and wage levels. I included both in the new clause because they are worth considering.
+
+The Minister and other members of the Committee said that they hoped the £2,000 made available to employers through employment allowance will be passed on to employees, either by increasing wages or taking on more employees. There was also the hope that employers would be encouraged to reinvest that money in the business, in research or innovative practices to help productivity. It is worth trying to measure the impact of employment allowance on job levels and wage levels. I take on board the point made in Committee by the  Minister, and by members of the Committee on both sides of the House, that the decision to either increase wages or take on new workers is, for any business owner, based on a number of factors, and that employment allowance may be one of them. The policy is not being introduced in a vacuum. There is a clear intent and desire for it to stimulate employment and, hopefully, an increase in wages.
+
+It seems sensible at least to consider the relationship between the employment allowance and job and wage levels. The new clause does not envisage a methodology, but I remind the Minister and hon. Members that when the Bill was introduced, the Federation of Small Businesses carried out a survey asking its members what they expected to do with the £2,000 allowance, and many said that they would increase job or wage levels or reinvest in their business. Employer surveys and other stakeholder engagement methods would be useful means of interrogating the impact of the employment allowance on job and wage levels. It is worth putting that in the Bill.
+
+Ian Swales
+The hon. Lady makes an interesting argument, but who would be responsible for carrying out such a survey? Would the FSB, for example, be the best people to carry it out or does she envisage some kind of Government process?
+
+Shabana Mahmood
+In evidence to the Committee, the FSB said it would survey its members again anyway. The Government could look at that survey and work with the FSB to see how it surveys its members. They might want to take a representative cohort of people who have taken up the employment allowance; discuss with them its impact on their businesses; and then extrapolate lessons for national take-up. I do not seek to prescribe exactly how they should carry out the review—I am sure there are clever bods in the Treasury whose job it is to think of these things—but given what has happened already in this Parliament on national insurance, it is important that we concentrate the mind of the Government. The House expects and wants this policy to succeed and not to suffer the problems of the previous policy. It also wishes to continue pressing the Government on this point.
+
+The last element of new clause 1 concerns the effective promotion of the employment allowance to all who are eligible. In particular, I have in mind the FSB’s evidence to the Committee about the effectiveness of that communication. It is worth considering that in a review, particularly if there is a problem, such as a geographical inequality, with overall levels of take-up. How the allowance is promoted will clearly have an effect. Charities and sports clubs are rightly eligible for this £2,000 reduction in their national insurance bill, but there is a risk that they might miss out and that we promote the allowance to businesses more effectively just because they have more stakeholders and larger bodies getting the message out. The new clause seeks to ensure that we keep across that concern and that not only eligible businesses but other groups that rightly fall within its scope take up the employment allowance.
+
+New clause 2 seeks a short administrative and compliance costs review six months after the Bill comes into force. It is motivated by two things in particular. First, as I mentioned earlier, the Government expect 90% of those  eligible to claim the employment allowance. The Institute for Fiscal Studies and others—we heard this in the Committee evidence session—have asked about the other 10%. The system for claiming the employment allowance is straightforward and everybody expects the running of it to be smooth. However, one wonders why 10 per cent. are always assumed to miss out.
+
+16:00:00
+
+The other driver behind the new clause was the evidence from Mr Holloway, which was received after the Committee concluded its deliberations. I thought it illuminating none the less, partly because it gave me an opportunity to get to grips with the details of payroll software—an expertise that I have not previously had the pleasure of enjoying in this House. Mr Holloway’s evidence, which was made available to the Committee and to the Minister, suggested that there were problems about the guidance not being available in sufficient time for developers to get their software ready. He indicated that, normally, three to six months is required for systems to be developed, including time for specification and documentation of the changes, development, testing and release to clients.
+
+On new clause 3, the Minister said that the guidance was going to be available in January, which seems to put at risk the availability of the software being ready or, at least, software developers will be up against it in getting everything tested and working on time before the employment allowance comes into force. The purpose of the new clause is that, six months in, we will have an opportunity to make sure that software-type issues have been ironed out and that businesses are not reporting compliance or other administrative costs that we will not know about until it is rolled out. If they are, that gives an opportunity for MPs and the Government very early in the life of the allowance to consider what changes might be made to remove those issues.
+
+Both clauses are designed to assist the Government from a perspective of support for the employment allowance, a desire to see it work effectively, a desire to make sure that every business that is eligible for it is able to take it up, and a desire to see that it has a positive impact on job levels and wage rates.
+
+Mr Gauke
+The hon. Member for Birmingham, Ladywood (Shabana Mahmood) said that she is not yet suffering from review fatigue; I wish I could say the same. I note that much of this debate also took place in Committee and I am tempted simply to refer the House to my speech on 21 November. However, I think that that would not be quite the appropriate thing to do, so let me address the points on the new clauses.
+
+Let me make the case, as I did in Committee, for why new clause 1 is unnecessary. The tax information impact note already commits the Government to keep the scheme under review through ongoing communication with taxpayers’ groups affected by the measure. Moreover, in Committee on 21 November, I agreed that the Government should publish information twice a year about the overall take-up of the employment allowance, including by geographical location. I am happy to repeat that commitment today.
+
+Nevertheless, as with the hon. Lady’s previous amendment in Committee, this new clause focuses in particular on the number of jobs created by the employment  allowance. As I made clear on Second Reading on 4 November, and in the evidence session on 19 November, although the employment allowance will clearly reduce the cost of taking on new staff for small businesses and charities, it will be up to those businesses and charities to decide how they use the resulting national insurance contribution savings.
+
+The hon. Lady will also recall the comments made by both the Institute for Fiscal Studies and the Federation of Small Businesses at the evidence session on 19 November that it is impossible to get precise numbers. We cannot conduct the equivalent of a randomised trial of tax policy to determine the number of jobs created because of the allowance because, as the IFS pointed out, there is no counterfactual, as there are a number of factors in the economy influencing the number of jobs at the same time. The Government have not set a target for the number of jobs we expect to be created, although as we have previously noted, survey evidence from the Federation of Small Businesses suggests that 28% of such businesses will use the savings to employ additional staff. Therefore, as I made clear in Committee, it would not be possible to provide information about the number of jobs created as a direct result of this measure.
+
+Sammy Wilson (East Antrim) (DUP)
+Although I understand the Minister’s position, given all the variables that will determine the number of people employed as a result of any change, it will nevertheless result in about £1.75 billion left with employers and not coming into the Exchequer as tax. Does he not feel, therefore, that there is at least some need to judge the effectiveness of a policy that will release a substantial amount of money?
+
+Mr Gauke
+The hon. Gentleman is absolutely right: the measure will release substantial amounts of money and a considerable amount of revenue will be forgone. We believe that taking less from employers is likely to have an impact on employment, wages or investment, or a combination of the three, all of which will be welcomed. However, tempting though it might be to call for a particular number of jobs to be created from the measure, I do not believe, for the reasons I have outlined—because there are so many factors in play—that we could give such a number with the necessary degree of robustness. Some 28% of the businesses surveyed by the FSB said they would use the savings to employ additional staff, while 29% would use the NICs savings to boost staff wages. Again, it would be difficult to quantify the precise effect, given that wage levels are subject to many different pressures, which vary from business to business.
+
+The new clause also seeks an assessment of HMRC’s strategy to promote the employment allowance. HMRC has already been proactive in promoting the allowance, having spoken to various interested parties over the summer, including representatives of software providers, charities and small and medium-sized enterprises about the design and operation of the measure. There is continuing engagement between HMRC and those interested parties on guidance for employers and publicity. As a result of those discussions, communications to raise awareness of the employment allowance will begin more widely in February and March 2014, to maximise the impact in  the crucial period running up to the introduction of the allowance next April, using a range of HMRC publications and products and the Department’s national network of local “working together” groups. As a result, we are confident that employers across the UK will be ready to claim the allowance next April, and those efforts to support take-up will continue after April.
+
+Sammy Wilson
+Does the Minister accept that there is at least some value both in looking at the geographical take-up, especially given how patchy the national insurance holiday has been across the United Kingdom—indeed, take-up in Northern Ireland was quite disappointing—and in monitoring how effective the promotion of the scheme has been in different parts of the United Kingdom?
+
+Mr Gauke
+Let me return to my earlier remarks and the commitment I made in Committee, which I have repeated this afternoon, that we will publish take-up numbers twice-yearly. That information will be provided on a regional basis, which I hope reassures the hon. Gentleman that he will be able to monitor take-up in Northern Ireland.
+
+The other point I would make—again, it is a point I made in Committee and on Second Reading—is that there are a number of distinctions between the employment allowance and the NICs holiday that we had in place earlier in this Parliament and, indeed, the Opposition’s proposals for a NICs holiday. What we are proposing is a much easier policy for employers to implement; in fact, it is largely automatic. Those with an up-to-date payroll—that essentially applies to nearly every employer—will find that the employment allowance is automatically applied. Those employers essentially just need to click on a box and then it should work.
+
+Given those reassurances and in the light of my existing agreement to make information about take-up available twice yearly, I hope that the hon. Member for Birmingham, Ladywood will withdraw her new clause.
+
+Let me deal with the hon. Lady’s new clause 2, which seeks to require HMRC
+
+“after six months of the Act coming into force”
+
+to “prepare a review” to be published in Parliament. Such a review should consider
+
+“whether there are any administrative or compliance costs”
+
+reported by employers claiming the employment allowance, and
+
+“whether businesses, charities and sports clubs are having any problems in claiming the…allowance.”
+
+The new clause is unnecessary for two reasons. As I have pointed out, the tax information impact note already commits the Government to keep the scheme under review through the communication of stakeholders affected by the measure. As part of this review, HMRC will speak to interested parties to gauge their view of the employment allowance and to ascertain the ways it has been used.
+
+As I said, HMRC talked over the summer to various interested parties, including software developers, charities and small and medium-sized businesses, about the design and operation of the allowance, including the claims process. There are continuing discussions between HMRC and these groups around the guidance and publicity, and they will continue after the launch of the employment allowance next April. These contacts between HMRC  and relevant representative groups will provide the basis for a continuous review of the way in which the allowance is working. I acknowledged in Committee that hon. Members will relay any concerns or thoughts about the allowance on behalf of employers in their own constituency. Hon. Members will also recall the commitment I gave in Committee to publish the information twice yearly, as I mentioned. That in itself will provide an indication of the ease with which employers are able to claim the benefit of this relief.
+
+As I pointed out earlier this afternoon, the employment allowance will be very easy to claim. Employers will receive it through the routine operation of PAYE—pay as you earn. Employers will simply need to confirm their eligibility by their regular payroll processes. Enabling the employment allowance to be claimed by employers through the payroll software will ensure that it is straightforward to claim. Employers simply have to indicate yes once in their EPS—employer payment summary—and the claim will continue from tax year to tax year.
+
+After making the claim, employers will not need to pay their first £2,000 of secondary class 1 national insurance contributions if their liability is lower than £2,000 in the first month or quarter—depending on whether the employer pays his PAYE liabilities monthly or quarterly—and any unused allowance will be carried forward to the next month or quarter until it is exhausted. If an employer does not have an employer payment summary on their software, the free HMRC basic PAYE tools package can be used. For the small number—about 2,000—of eligible employers who still submit their returns to HMRC on paper, there will be a paper process to mirror the IT process.
+
+With those reassurances, I hope that the hon. Lady will withdraw her new clause.
+
+Shabana Mahmood
+I am grateful to the Minister for his comments on my new clauses 1 and 2, particularly for the additional information he made available on the issues raised by new clause 2. Given his explanation, I am happy to withdraw the motion.
+
+Clause, by leave, withdrawn.
+
+Clause 12
+
+Alternative Investment Fund Mangers
+
+Amendment made: 1, line 2, leave out Clause 12.—(Mr Gauke.)
+
+Clause 13
+
+Members of Limited Liability Partnerships
+
+Amendment made: 2, page 11, line 8, leave out Clause 13.—(Mr Gauke.)
+
+
+
+
+
+Third Reading
+
+16:14:00
+
+Mr Gauke
+I beg to move, That the Bill be now read the Third time.
+
+I thank all Members for the valuable insight that they have provided throughout the Bill’s passage so far. Their expert scrutiny has gone a long way towards ensuring that it reaches the statute book in good shape.  Indeed, my officials suggested that I describe it as being “in good NIC”—[Hon. Members: “Oh dear!”]—but I thought better of it.
+
+Such has been the level of scrutiny and insight contributed by Members that I shall give the House only a brief reminder of the five main measures in the Bill. The first is a measure to help both to remove barriers to growth for businesses and to equip the United Kingdom to compete in the global race. In this year’s Budget, my right hon. Friend the Chancellor of the Exchequer announced the creation of a new £2,000 employment allowance, which will come into effect on 6 April 2014. The objective is to help businesses with the cost of employing their staff. The allowance will help thousands of small businesses that aspire to grow, and is set to benefit more than 1 million employers.
+
+The second measure was introduced this afternoon. In last week’s autumn statement, the Chancellor announced our proposal, in effect, to abolish employers’ secondary class 1 national insurance contributions on the earnings of any employee under the age of 21 up to the level of the upper earnings limit on 6 April 2015. That will substantially reduce the fiscal burden of secondary class 1 NICs, and thus support youth employment. As the figures in the autumn statement made clear, we estimate that about 340,000 employers could benefit to the tune of more than £450 million in 2015-16, and that the figure could rise to about £530 million in 2018-19. This is another measure that will make it cheaper and easier for businesses to employ young people, and I am sure that it will be welcomed, as a latecomer, by Members in all parts of the House. I appreciate the support that it has received this afternoon.
+
+Thirdly, we have introduced provisions relating to the general anti-abuse rule, or GAAR. We announced in last year’s Budget that we had accepted the recommendations of the Aaronson review, and would introduce a GAAR targeted at abusive tax avoidance schemes. The GAAR was introduced in part 5 of the Finance Act 2013, and has been in force since July. The Bill ensures that it will apply to NICs. While the extension to NICs is a relatively simple measure, it is an important step because it makes it harder for individuals and businesses to avoid paying what they owe.
+
+The fourth main provision concerns oil and gas workers on the UK continental shelf. In this year’s Budget, the Chancellor announced that the Government would strengthen legislation in respect of offshore employment intermediaries. The measure, which has been subject to consultation, is specifically intended to address the non-payment of employers’ national insurance in the oil and gas industry, involving the placement of employers of oil and gas workers who are working on the UK continental shelf outside the United Kingdom.
+
+Fifth and finally, the Bill contains provisions relating to HMRC’s partnership review. The Government propose two sets of changes. The first is intended to address an issue that can arise from the interaction of the alternative investment fund managers directive and the existing partnership tax rules. The second reclassifies certain limited liability partnership members as employed earners for tax and national insurance purposes to tackle the disguising of employment relationships through LLPs. Together, those changes will ensure that the correct NIC consequences follow the planned changes in the taxation of partnerships.
+
+The Bill is both important and necessary. I am sure that all Members will recognise that every one of the measures that I have described will either make employing people easier, or will make avoiding taxes harder. The Bill will be good for growth, good for jobs, and hence good for the United Kingdom. On that basis, I commend it wholeheartedly to the House.
+
+16:19:00
+
+Shabana Mahmood
+First, may I join the Minister in paying tribute to all the members of our Bill Committee, who helped to scrutinise the Bill and provided valuable insight into its measures? If there was the occasional predictable question, it was always asked with good humour and good grace.
+
+We have supported the employment allowance from the moment it was announced in the Chancellor’s last Budget. Our bone of contention with the Government has not been about the detail of the EA or who it applies to; rather, it has been about the time scales for its introduction. We believe that the Government should have changed course much earlier, particularly given what happened with the previous regional national insurance holiday scheme. Although that helped a lot of businesses, the number certainly fell far short of the 400,000 it was supposed to assist.
+
+The Government say this Bill is about helping our country compete in the global race, but if we are going to compete in the global race, we will have to start getting out of the starting-blocks more quickly. I therefore say to the Minister that the Government should have acted more swiftly on national insurance. If the Government had changed course sooner, we may have been well into the take-up of the EA by now instead of having to wait for it finally to be introduced in April next year, and the country might already be enjoying all the good effects that all of us across the House hope will flow from it.
+
+In last week’s autumn statement the Government introduced a new measure that we have also supported today: the abolition of employers’ NICs for all employees under 21 years of age. I repeat what I said to the Minister in our earlier debate, however: we would have liked bolder action from the Government in their autumn statement to help deal with the problems of youth unemployment. We do not think this measure, which will come into force only in 2015, goes far enough, nor will it stimulate higher levels of youth employment as quickly as we would like. The real bone of contention, which I fear we will continue to debate until this measure finally comes into force in 2015, is the delay. None of the reasons the Minister gave in his winding-up of the debate on new clause 3 for waiting until 2015 sounded sensible to me. He said that if the Government could have done so, they would, of course, have wanted to bring the measure forward in 2014. But the Government could also have got rid of the regional national insurance employers’ holiday scheme earlier when it was clearly failing, but they did not do so. I do not understand why it is impossible to introduce this measure earlier. I am sure we will examine that issue further when the Bill is debated in the other place and through oral and written parliamentary questions. The Minister and I will continue to debate the merits of the introduction of that measure in 2015, as opposed to the introduction of the new clause, which is what we would have liked.
+
+We have supported the EA in the Bill and we consider that the extension of the GAAR to apply to national insurance contributions is sensible, although we continue to have very real concerns about the extent of the GAAR.
+
+Julian Smith (Skipton and Ripon) (Con)
+Does the hon. Lady wish to put on record in this Chamber that she regrets that Labour did not bring an anti-avoidance rule into law during its 13 years in government?
+
+Shabana Mahmood
+As the hon. Gentleman knows, we had exactly the same line of questioning in the Bill Committee and I remind him that the Labour Government brought in the disclosure of tax avoidance schemes, which has raised a hell of a lot more money than the Government believe the GAAR will. We have a proud and strong record on tax avoidance. Also, that does not get the Government off the hook in respect of their GAAR, which will not make quite the impact on the tax gap that everybody would like.
+
+The measures relating to oil and gas workers and to limited liability partnerships have changed in order to clarify the Government’s intentions in the new clauses and the removal of old clauses 12 and 13, but they are both sensible measures that we are happy to support. So, although we have real concerns about the pace at which the Government are moving to deal with the challenges that this country faces—especially youth unemployment, which we are debating today as a result of the measure in the autumn statement—we support the measures themselves and will support the Bill’s Third Reading.
+
+16:25:00
+
+Richard Fuller
+I start by thanking the hon. Member for Birmingham, Ladywood (Shabana Mahmood), if I may, for her grace and courtesy in responding to my persistent and somewhat repetitive questions about her party’s commitment to the proposals on employment allowance, and on its continuing commitment to it in the lead-up to the next election. The reason for my persistence is that I think it is an absolutely fantastic measure. It will have a positive impact on employment, on wages and on the economy, and it should be embraced by all parties across the House, now and in the lead-up to 2015. I wish the hon. Lady every courage in talking to her colleagues to ensure that their support for it is maintained in the Labour party’s next manifesto. I wish her every success in that regard.
+
+This small measure is so important because it has shone a light on a much broader and deeper issue—namely, the extent of Government intervention in the wages and living standards of people on low incomes. I should like to give the House some figures. Let us take the example of someone on the minimum wage earning £13,000 a year, and assume that they are the only earner in the household and have two children. Taking into account the impact of the tax and national insurance paid and the benefits received, that person’s take-home pay will be £25,000. Their wages will be £13,000, but their take-home pay including benefits will be £25,000, which is nearly twice as much. The difference will not be so significant for people without children, but even someone who is single and earning the minimum wage will see an increase on the £13,000 being paid by their employer to a total of £17,600 in pay and benefits.
+
+I do not want to question the level of Government intervention in the labour market, other than to say that a better outcome could be achieved if it were the employers who were paying the higher levels of wages that people need to achieve an adequate living standard. That outcome can be achieved in a number of ways. There will be uplift in the economy thanks to the measures that this Government are taking to encourage growth and boost the economy, and wages should increase over time as a result. It can be achieved through measures to increase the skills of our employees, to ensure that people can aspire to take on more complex tasks and earn higher wages as a result. It can also be achieved through innovation among our entrepreneurs as they create new higher sector employment, and through action on the minimum wage. I hope that all the political parties will think carefully about their policies on each of those points, so that we can make progress.
+
+In the proposals in the Bill for the employment allowance, the Government have found a tool to tackle the additional costs that we place on labour. The chart on page 18 of the autumn statement shows that, since early 2001, employers’ social contributions as a share of total employee compensation have increased from 13% to 17%. The employment allowance will start to make a change in that regard, and I encourage the Minister to see it as a first step, with more still to come.
+
+16:29:00
+
+Sammy Wilson
+I want to make a short contribution to the debate, because I think that the Government are introducing an important measure. In this House we often discuss the macro-economic steps that can be taken, such as huge injections of money for infrastructure development and so on, but often—we have certainly found this in Northern Ireland—micro-interventions can be very effective in creating employment, improving conditions for employers and giving them greater confidence to invest. I believe that the measure will have that impact.
+
+I, too, am a little disappointed that the measure’s full impact will be delayed until 2015, because I believe that unemployment among young people, especially in Northern Ireland, is a huge problem that we are trying to tackle. Once the measure is fully in place by 2015, I think that it will have a dramatic impact and will provide a big incentive for employers to take on younger people.
+
+We must not underestimate the importance of even small amounts of money—£2,000, for instance—in influencing the decisions of some employers. One measure that was introduced back home in Northern Ireland was a 20% business rate relief for employers with a net annual value of less that £15,000. The maximum amount of money any one business received was probably £3,000, yet the feedback from employers on the impact was quite encouraging. Therefore, although some people might say that it is a small amount of money per employer initially, nevertheless I think that it will have that positive impact.
+
+I take the Minister’s point about the difficulty in measuring how many extra jobs and how many new businesses the measure will create, but it is bound to encourage employers to hold on to existing employees, to take on an extra employee, to have a better cash flow situation, which might get them over a particular difficulty, or to invest some more money in improving their business. That is the important point.
+
+There is one thing I am concerned about, because the national insurance holiday did not have the impact we had expected, certainly in Northern Ireland. Indeed, uptake was very low. I take the point that at least the process has now been simplified, which means that it will be much easier for employers to access it. Of course, the more universal we make these things, the wider their impact. However, I hope that the measure’s effectiveness will be monitored constantly and that, if it is seen not to have had the impact that the Government had hoped, there will be a willingness to look at what could be done to improve it.
+
+I congratulate the Government on the measure, which I believe is another important tool in the economic toolbox. I believe that it will have a positive impact.
+
+16:33:00
+
+David Rutley (Macclesfield) (Con)
+I, too, congratulate the Government on bringing forward this important Bill. It was a pleasure to serve on the Bill Committee. I believe that the measures it contains will make a vital contribution to helping a cause that I believe in passionately: helping more people take on employees for the first time.
+
+We have to get more of the growing band of self-employed people in this country to want to take on an extra employee and we have to overcome the barriers to that. Some 4.2 million people in this country are self-employed, which is 14% of the population, up from 12% at the turn of the century. The good news is that part-time self-employment is down and full-time self-employment is up, which is a good thing, because people are finding that it is a worthwhile form of employment and are making a contribution to the economy. The push factors in driving people to that form of employment are on the way down and the pull factors are clearly on the way up, and more young people want to get involved in self-employment.
+
+However, the real challenge and opportunity that the Bill addresses is that of encouraging more of the self-employed to want to take on their first employee and helping people to see the benefits of working in that environment. Sadly, the pace of improvement in that area is not keeping up with the increase in self-employment. We need to help the self-employed to nudge open the barriers to becoming first-time employers and feel confident to take on employees, whether they are tangible barriers in IT, legal matters or human resources, or perceived, more psychological barriers such as their concerns about dealing with HMRC or about getting rules wrong in employing somebody.
+
+In the Adjournment debate I held on this subject at the beginning of November, I talked through a whole series of options that we could consider to help address this challenge, but the most important thing to do today is to acknowledge that this Bill takes some vitally important steps in doing so. It will be a boost to first-time employees, whether they are apprentices, long-term unemployed, those who are economically inactive, or those who are looking for their second, third, fourth or even fifth careers.
+
+Ian Swales
+The hon. Gentleman is making a good point. Does he agree that the businesses he is describing find it difficult to find the time to apply for complex reliefs, and does he therefore join me in welcoming the simplicity of these proposals?
+
+David Rutley
+The hon. Gentleman makes a vital point. The great thing about this initiative is that it is very simple. The hon. Member for East Antrim (Sammy Wilson) also made the important point that we need to make every effort to communicate that to small businesses. I know that the Minister is working hard in that direction as we move the Bill forward.
+
+We need to help smaller businesses—micro-businesses —in the task of taking on employees because they are often better at taking on the long-term unemployed or those who are difficult to employ. That is another reason to welcome the Bill. I am pleased that the autumn statement went further in scrapping employers’ national insurance for under-21s completely, as in new clause 3. That is a vital step. As many Members on both sides of the House have said, it is one of the ways in which we will be able to tackle youth unemployment more comprehensively in the longer term.
+
+This Bill is not just about improving economic growth but about tackling youth unemployment and social mobility. I congratulate my hon. Friend the Minister on bringing it to the House, helping it to progress so speedily, and doing it all with his characteristic charm, wit and dexterity. I support it because of what it will do for employment in helping more people to take on employees for the first time, and what it will do to tackle youth unemployment and drive forward sustainable economic growth that is grounded in private sector employment rather than in the public sector that was so much a focus of the previous Government and that we need to move on from. As my hon. Friend the Member for Bedford (Richard Fuller) pointed out, the hon. Member for Birmingham, Ladywood (Shabana Mahmood) might want to consider not taking her flip-flops on holiday next summer. This might be a nasty reminder of where the Labour party once stood with its jobs tax. We need to move on from that, and this Bill takes us to a better place. I commend it to the House.
+
+16:38:00
+
+Julian Smith (Skipton and Ripon) (Con)
+New clause 3 was a fantastic Christmas present to members of the Bill Committee and a big boost for youth employment across the UK, particularly in North Yorkshire, where I represent a very rural set of communities and where, although we have very low unemployment figures, young people still want jobs. This will be a big boost for them.
+
+During small business Saturday, Government Members and, I hope, Members across the House, were out seeing small businesses across the areas we represent. In the town of Settle in the Yorkshire dales, people were clamouring for more information on the Government’s policy on the employment allowance and their new policy on employing under-21s without paying tax. That makes a huge difference, as other hon. Members have said, to businesses with a small profit margin that have just been set up.
+
+Such businesses include JW Garnett, which managed to sell me a toaster on small business Saturday; 3 Peaks Cycles, which is revving up for the Tour de France in Yorkshire, which the Government have backed with £10 million; the Talbot Arms, which is being funded by a parent of the publican who is anxious to get moving and employ more people; and the Three Peaks Gallery, which is run by Hazel, who lost her husband at the end of last year, has this year been trying to keep the business moving and is now planning to use the Government’s measures to expand and employ people.
+
+The employment allowance and the removal of employers’ NICs for under-21s, along with the business rate announcement in the autumn statement, mean that this Government now have a bumper range of policies to ensure that we are the party of business. The policies also include start-up loans, apprenticeships, the boost to the funding for lending scheme and a tax reduction whereby we will have one of the lowest rates of corporation tax in the world and thereby one of the best places in the world in which to do business and invest. My hon. Friend the Member for Macclesfield (David Rutley) has mentioned how difficult it is to employ people, but our moderate measures on employment—which faced stiff opposition from the Labour party—will make it easier for businesses to take on people.
+
+All those measures mean that the Conservative party is the party of business. We will ram that message home as we approach the next election, because anyone who wants to start a business, who is an entrepreneur, who is thinking about being self-employed, who wants to take a risk or who thinks it might be worth investing in an initiative, market or product has only one choice in 2015, and that is this party.
+
+Question put and agreed to.
+
+Bill accordingly read the Third time and passed.
+

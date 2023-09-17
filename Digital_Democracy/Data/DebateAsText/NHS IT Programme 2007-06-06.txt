@@ -1,0 +1,1058 @@
+NHS IT Programme
+
+Mr. Speaker
+I inform the House that I have selected the amendment in the name of the Prime Minister.
+
+12:43:00
+
+Mr. Stephen O'Brien (Eddisbury) (Con)
+I beg to move,
+
+That this House acknowledges the aims of the NHS National Programme for Information Technology (IT) and supports them in principle, recognising the potential benefits IT can bring to patients and NHS staff if implemented correctly; deplores the hasty conception of the National Programme under the noble Lord, Lord Hunt of Kings Heath, and the failure to consult adequately with service users; regrets the parallel failure by the Department of Health to implement successfully the Medical Training Application process; expresses concern about the impact of the Care Records Service on patient confidentiality; notes in particular the concerns of the Committee of Public Accounts, in the context of its criticisms of the Government’s mismanagement of IT projects at large about the cost, delays in the Care Records System, the lack of a firm timetable for delivery, the struggles faced by suppliers to the programme, and the lack of engagement with frontline NHS professionals; regrets the opportunity cost to patient care and the disillusionment caused by the Programme amongst NHS staff; seeks assurances on the supply chain, particularly regarding iSOFT and an explanation for the delays in Choose and Book; and therefore calls for a full and independent review of the NHS IT programme.
+
+I draw attention to my entry in the Register of Members’ Interests.
+
+Let me be clear from the outset: Conservative Members believe in ensuring that all patients in our NHS will get better care in future, from the expertise, dedication and wonderful work of NHS doctors, nurses, therapists and, yes, NHS managers, by harnessing information technology to improve the processes for patients’ treatments and their clinical outcomes. So, yes, we endorse the aims of the NHS national programme for IT, known as NPfIT and succeeded by Connecting for Health, which we support in principle, but—it is a big “but”—the reason for the debate, in Opposition time and in the absence of the Government bringing such an important and costly programme for debate on the Floor of the House, is to highlight, sadly, the woeful shortcomings of the way in which the Government have first designed and then sought to implement this vital programme.
+
+The fact that the shortcomings were identified and predicted by us and many others over the past five years puts the onus on the Government not only to account for their delays, design U-turns and serial incompetence, but to accept that it is the official Opposition who now offer a constructive way forward in the interests of NHS patients—a constructive approach that is consistent with all that my hon. Friend the Member for South Cambridgeshire (Mr. Lansley) so expertly epitomises at all times in wanting to make our NHS better for all.
+
+Members should not expect a speech from me focusing on which ministerial heads should roll. Nor should those so disillusioned by the Government’s amateurish cackhandedness in implementing their own policy through this IT programme that they would stop it in its tracks expect me to call for even an audit. That would imply, as audits do, that we want to look back at something that has stopped—finished. We do not. Rather, it is because we believe in the positive potential benefits of IT in the NHS, implemented correctly, for the good of patients and the morale and professionalism of all staff, that we now call for a full and independent zero-based review. We want to see a contrast with the Government’s performance to date: we want to see the programme put right, because that is the right thing to do.
+
+The review—and this is the difference between a review and an audit—can and must be carried out while work on the programme is in progress, to prevent even more lost time and, potentially, lost lives. If the Government do not agree to a full and independent review today as a result of our call, we will, as a matter of urgency, set one up ourselves.
+
+Why is the need for a review so urgent? It is because this is some remote, geeky, abstract topic, with IT experts arguing about the best platforms, protocols and data-sharing mechanisms and employing all the gobbledegook jargon that passes for language in the ethereal IT world, but because the Department of Health itself claims that the care records service—only one part of the programme—will prevent “thousands of unnecessary deaths”. As the programme is already at least two years late, by the Government’s own admission the consequences of its incompetent implementation must be those very thousands of unnecessary deaths. That is the real cost of the delays, the incompetence and the lost opportunity—let alone the estimated financial opportunity cost of £1.4 billion of taxpayers’ money. According to the National Audit Office, that was the cost last year, and it is rising.
+
+Andrew Miller (Ellesmere Port and Neston) (Lab)
+I thank the hon. Gentleman, my constituency neighbour, for allowing me to intervene. Given that he does not want the system to be scrapped—and given that there are now 19,778 instances of IT deployment, the 250 millionth picture archiving and communication system record is now in existence, and the 22 millionth prescription since the last Conservative-initiated debate has been issued; the number has risen from 237 million to nearly 250 million—he must recognise that real progress is being made. Is not the motion merely a diversion? Is this not just political opportunism on the hon. Gentleman’s part?
+
+Mr. O'Brien
+On the contrary. The hon. Gentleman has made something of a speciality of trying to understand this issue. He has read out some of the statistics in the Government amendment, but if he looks at the measures that the Government have set themselves, he will realise that the statistics in the amendment are irrelevant even to those. Furthermore, the electronic prescriptions account for only 5 per cent. of all prescriptions, which is way below the Government’s own target. Those statistics are, in fact, a mark of the Government’s lack of progress. Although they may indicate the progress that the hon. Gentleman would like to see, they are woefully short of what was promised or what could be achieved.
+
+Mr. Richard Bacon (South Norfolk) (Con)
+I welcome my hon. Friend’s answer to the hon. Member for Ellesmere Port and Neston (Andrew Miller), but I caution him against the hon. Gentleman’s “Soviet tractor production statistics” approach. After all, what matters is not the total number of deployments, but the total number of deployment of facilities of major importance such as patient administration systems for acute hospitals. Will my hon. Friend confirm that in four years British Telecom has not managed to install a single one of those systems in its local service provider area, London?
+
+Mr. O'Brien
+Evidence does not support the progress that the Government and many others would claim. The evidence from my hon. Friend, who has conducted a dedicated study of the issue, is much more reliable.
+
+Labour Members are wrong to regard our motion as smacking of anything other than a genuine wish to make the programme work. We are calling for a review, not an audit. The Government have never presented their case on the Floor of the House: they have never put themselves up for scrutiny.
+
+David Taylor (North-West Leicestershire) (Lab/Co-op)
+The hon. Gentleman asks for a review. Does he think that the outcomes of various reviews conducted by the Office of Government Commerce at various stages of this mega-programme would help bring to public attention any flaws that it might contain? If an article in this week’s Computer Weekly is correct, the reports are being shredded rather than being brought into the public domain. That cannot be right, can it?
+
+Mr. O'Brien
+I also saw those reports, and I was distressed to read them. If that is what is happening, it must be wrong. I hope that those who are doing that are brought to account and to book.
+
+There is another cost. Today we hear doctors formally declaring that they have lost confidence in the Government. Despite the fact that NHS professionals showed themselves to be open to the use of IT as soon as it became applicable to the health care setting decades ago, the Government have, according to the Labour-dominated Public Accounts Committee,
+
+“failed to carry an important body of clinical opinion with it”.
+
+According to a Medix survey, in 2002, 67 per cent. of general practitioners said that the IT programme was an important priority for the NHS. By November 2006, only 35 per cent. did.
+
+I grant the Minister's boss, the Secretary of State for Health, one accurate prediction about the NHS IT programme. In September 2003, as Secretary of State for Trade and Industry, she said of ID cards:
+
+“The principle, the civil liberties and the practicalities of great big IT projects and databases have a horrible habit of going wrong”.
+
+Why she did not heed her own advice and act on her own predictions once she got to the Department of Health two years later, to preside over the Government's biggest IT project, I do not know.
+
+Norman Lamb (North Norfolk) (LD)
+I return to the intervention by the hon. Member for North-West Leicestershire (David Taylor). We understand that reviews have been conducted internally and by the Office of Government Commerce. Should not they be published now?
+
+Mr. O'Brien
+I agree. All reviews should be published. It must be nice to see them, but we are calling for a zero-based, full and independent review because that is the only thing that is likely to carry the authority and respect that will win the day and help the professionals to get the thing right. I hope that we will see the hon. Gentleman join us in the Lobby to make such an endorsement.
+
+As one newspaper leader yesterday put it, commenting on the most recent and excellent authoritative work of the Public Accounts Committee on the Government's ability to deliver IT projects generally,
+
+“the Government's chronic inability to manage costly IT schemes effectively…has become one of new Labour's trademarks…At the heart of the problem is the slapdash approach to the management of high value projects that would not be tolerated in the private sector”.
+
+Whether we are looking at the multi-billion pound fiasco of the Chancellor’s tax credit system, the potential ID card system or NHS IT, this is crass and amateur procurement on an industrial scale.
+
+Mr. Jeremy Hunt (South-West Surrey) (Con)
+My hon. Friend is making an excellent case. Does he agree that confidence in NHS IT projects in my constituency has been fundamentally shaken by two failures in the past six months? First, because of an IT failure, ambulances were diverted from taking patients to Royal Surrey county hospital and took them to Frimley Park hospital. Secondly, a failure in the choose and book system made it difficult for GPs to book people into appointments at Royal Surrey county hospital, as opposed to neighbouring hospitals. What did they both have in common? They took patients away from Royal Surrey county hospital, which is currently threatened with closure.
+
+Mr. O'Brien
+I am grateful to my hon. Friend for making sure that the House is aware of those incidents, which caused concern, most importantly, for the patients themselves at the time. There is a lack of accountability and the lack of an explanation of why those incidents took place.
+
+It is important to ensure that there is no misunderstanding among various Labour Members. To be constructive and to move forward, we must understand how we came to be here. Therefore, let us briefly track back. In 1998 the Government published their own information for health strategy. February 2002 saw the Prime Minister hold
+
+“a seminar in information technology”,
+
+another great headline-grabbing initiative, but how many clinicians were present at the meeting? Perhaps we shall soon learn, as the outgoing Prime Minister rushes his memoirs to the printers, but do not hold your breath, Mr. Speaker.
+
+April 2002 brought the Wanless report, which recommended that IT funding should be doubled and ring-fenced. By June, the national programme for IT was launched by Ministers with the title “Delivering 21st century IT support for the NHS”. The published version of that omitted both the high-risk scoring and the costs estimate included in the draft—then £5 billion, a figure brilliantly unearthed by my hon. Friend the Member for South Norfolk (Mr. Bacon), whose forensic and relentless work in that area has been, and remains, parliamentary scrutiny of the highest order. I pay tribute to him. Can the Minister tell us why that £5 billion cost estimate was left out of the document? I look forward to the answer.
+
+In December 2005, the problems really began.
+
+Mr. Mark Todd (South Derbyshire) (Lab)
+Will the hon. Gentleman give way?
+
+Mr. O'Brien
+I will in one second.
+
+The 100 per cent. choose and book target, and the original deadline on patient records were missed. By March 2006, as the recent National Audit Office review reported
+
+“actual expenditure at £654 million (estimated outturn) spent against expected expenditure of £1,448 million, reflecting the slower than planned delivery”.
+
+In April 2006 problems began at supplier iSOFT. In September, Accenture pulled out of the NHS IT programme, booking a £240 million provision for expected losses from the work. In March 2007, even the downgraded 90 per cent. choose and book target was missed, just as the electronic patient record pilots began. Pilots for care records were due to be in place by 2005.
+
+Mr. Todd
+I thank the hon. Gentleman for belatedly giving way. He has moved on from the point that I wanted to ask him about. If you allow me, Mr. Speaker, to catch your eye later, I will expand on some of the issues relating to proper management of information technology in both the public and private sectors, but I was concerned at the hon. Gentleman's rather naive view that the private sector is innocent in the matter. Has not he represented any constituents who use British Gas services and who are currently plagued by some of the difficulties arising from its change programme?
+
+Mr. O'Brien
+No doubt we look forward to the speech that the hon. Gentleman will make, if he catches your eye, Mr. Speaker, but this debate focuses on proper procurement and delivery, with the use of taxpayers’ funds, in the public sector of something that is really important: the health of our constituents and health care services. We must understand how the problem came about.
+
+The only consultation to take place after the publication of “Delivering 21st century IT support for the NHS” in June 2002 looked at the care records element of the programme, and that was a consultation not on the substance of the programme, but on the technicalities of care records. There was no consultation on the other elements of the programme, namely choose and book, the electronic prescriptions service, the N3 broadband network, smartcard access, telecare, and the picture archiving and communications system, known as PACS. The latter and the N3 broadband network are the only bits so far that have been successful, so let us give credit where it is due. [Interruption.] As I have just said, PACS has been successful, if the hon. Member for Ellesmere Port and Neston (Andrew Miller) will listen for once. As Professor Peter Hutton said to the Public Accounts Committee during its review:
+
+“key decisions were taken in the early period without proper clinical input”.
+
+The seeds of the Department's failure to engage clinicians, condemned by the PAC, were sown at that time.
+
+Dr. John Pugh (Southport) (LD)
+I think that we would all accept that PACS is successful, but that project went on for some time before NHS Connecting for Health got going. Therefore, it is a pre-existent project.
+
+Mr. O'Brien
+The hon. Gentleman makes a valid point. It has often been confirmed by our local expert, the surgeon commander on my right, my hon. Friend the Member for Westbury (Dr. Murrison), that that system was working perfectly satisfactorily and did not need to be hugely improved under the current system. However, there are still other systems that must be brought up to standard.
+
+One of the major concerns with the NHS IT programme, and one which an independent review must address, is the seeming lack of an evidence base for it. In a recent British Medical Journal article on the subject, one trust director was quoted as saying
+
+“One of the things they haven't done very well is to clarify some of the benefits...I haven't seen a good list of benefits”.
+
+Cost-benefit analysis is basic to any capital project, let alone one of this scale, costing billions, and especially when it is taxpayers' money. The paucity of the evidence base testifies to the hurried planning and procurement of the programmes. With at least £12.4 billion of taxpayers’ money being committed, some cost-benefit analysis should have been done, and a robust business case established.
+
+The growing cost of the programme has been the inevitable and wholly avoidable consequence. The programme was launched with the putative cost, as we know, of £5 billion, which was excised from the document. Once the contracts were signed, the ministerial line was that it would cost £6.2 billion over 10 years, although Lord Warner admitted on “Newsnight” that
+
+“the full cost of the programme was likely to be nearer £20 billion”.
+
+The NAO put the figure of £12.4 billion on the programme, and the PAC has suggested that even that massive sum may be surpassed. To October 2006, only £918.2 million-worth of that sum had been delivered.
+
+Despite the highest paid civil servant being in charge of Connecting for Health, the programme has suffered from a lack of leadership. In two years, there were no fewer than six “senior responsible owners” of the NHS IT programme at Richmond House. Lack of leadership was one of the key themes of this week’s PAC report into Government IT. It highlighted the failure of Ministers across Government to meet the senior responsible owners of mission-critical and high-risk IT programmes, or to take a grip by meeting them sufficiently regularly. It also highlighted the low profile and high turnover of chief information officers and the lack of clarity about their roles.
+
+To all of that we must add that one of the design flaws of the NHS IT programme has been its massive centralisation. The programme structure has, in effect, established several regional monopolies through local service providers. From the original four, there are now three providers serving five regions: the CSC Alliance in the north-west and west midlands, the north-east and the eastern clusters; Fujitsu Alliance in the southern cluster; and the Capital Care Alliance—CCA—in the London cluster. CSC took on two clusters from Accenture when it pulled out of the programme in September 2006.
+
+Hospitals have been forced to accept the IT imposed on them by those local service providers, or in some cases have had to invest in costly interim solutions due to delays in the programme. A recent BMJ study into the implementation of the programme suggested that the Connecting for Health software is more expensive than software on the open market. One medical director said:
+
+“A lot of things are being sold to us at a much higher price than we would have been able to get if we’d been in a real market situation, so the total costs to the NHS have been very high indeed”.
+
+Those regional monopolies have caused serious supply-chain concerns. The exit of Accenture—at an estimated loss to it of £250 million—was a big blow to the credibility of the programme. The supplier that has been most in the public eye is iSOFT. Its share price has plummeted twice—that is public information—and on 6 April the shares fell a further 40 per cent. It appears that iSOFT’s previous accounting policy, which it has now had to abandon, was based on its receipt of letters of credit, centred around advance payments from NHS Connecting for Health. In evidence to the PAC on 26 June, Richard Granger of Connecting for Health stated that it would make an advance payment only when covered by a letter of credit from a bank. That is nice work if you can get it. [Interruption.] That completely undermines the Department’s claim that suppliers get paid only when they deliver. [Interruption.] But as the Minister cannot be bothered to listen, she will not understand that.
+
+iSOFT is now looking for a buyer. Its main customer, CSC or Computer Sciences Corporation, has opposed a bid by an Australian firm. [Interruption.] The Minister says from a sedentary position that she finds what I am saying boring. The trouble is that she is so bored by IT that she has not bothered to have regular meetings, or to supervise or take a grip of the process. She needs to listen to a proper critique of where the Government are wasting taxpayers’ money, and to take control for once of a programme for which the Government are deeply responsible.
+
+Mr. Stewart Jackson (Peterborough) (Con)
+My hon. Friend is making a strong case. Is not the real issue that on a day-to-day, week-to-week basis Ministers do not know what they are doing? In May 2006, the Minister advised us that the programme was
+
+“already the focus of regular and routine audit, scrutiny and review.”—[Official Report, 24 May 2006; Vol. 446, c. 1877W.]
+
+In the same month, her colleague, Lord Warner, said that the likely costs of the project would be not £2.3 billion as originally envisaged, but £20 billion. Does that not sum up the Government’s mismanagement of the programme?
+
+Mr. O'Brien
+Absolutely. My hon. Friend makes a valid point, although the Minister would no doubt immediately say that the £20 billion was meant to encompass the total expenditure on IT across the NHS and not only the Connecting for Health programme. Either way, it is monumental incompetence to double one’s costs in a short period.
+
+As I have said, iSOFT is now looking for a buyer. Its main customer, CSC, has opposed a bid by an Australian firm, IBA Health. It was announced yesterday that iSOFT is beginning legal proceedings against CSC; and CSC today said it was continuing to review its options
+
+“and does not exclude the possibility of making an offer for iSOFT”.
+
+I have tabled written questions to the Secretary of State asking what responsibility she has for the matter; typically, she has said that she has none.
+
+The programme has been a masterclass in how not to do procurement. I expect that the Minister will stand up and crow about the speed of the procurement, which was begun in February 2003 and completed by February 2004, but what has it led to? Suppliers are leaving or collapsing, and the system is both dysfunctional and late, with costs burgeoning against minuscule delivery—despite the statistics in the Government amendment, which are, in any event, not measured against their own targets, showing that they dare not do that.
+
+Rob Marris (Wolverhampton, South-West) (Lab)
+The hon. Gentleman mentioned iSOFT and the role of the private sector. Following on from the remarks of my hon. Friend the Member for South Derbyshire (Mr. Todd), may I caution the hon. Gentleman about IT projects in the private sector? IT projects across the piece—in both the private and public sectors—are notoriously difficult. This project comprises several programmes and we are all aware that it has not gone smoothly. However, it is wrong to have a rose-tinted view that things go smoothly in the private sector. The difference is that the private sector hides things. Moreover, when iSOFT was booking revenues and declaring them against future revenues, which is very dodgy accountancy practice—it has been caught doing that—the chair of its audit committee was that private sector champion, Sir Digby Jones.
+
+Mr. O'Brien
+Whether or not things were hidden or inefficient in the private sector, at least scrutiny was exercised by both competition and shareholders. It appears in the public sector that the Government have also been seeking to hide things. Why else have they not had a debate on this subject on the Floor of the House? The Opposition have had to secure this debate. Furthermore, taxpayers’ money has been used and the Government have created a series of monopolies for delivery, and they are not exposing that to the true test, which is competition. Competition is one of the best ways of making sure that things are not inefficient and not hidden.
+
+The two most controversial elements of the programme are the care records service and choose and book. Under the care records service, the patient record was supposed to have been fully rolled out by December 2005. The first pilots went live only in March this year, and we are still awaiting a timetable for full roll-out. Above all, widespread and deep-seated anxiety about patient confidentiality has troubled many as they come to appreciate the Government’s design for their private and personal information.
+
+The Government made a notable U-turn when they decided in December last year to allow individuals to opt out of the summary care record: we welcome that option. However, serious concerns remain. The Government insist on saying that
+
+“only basic data will be held on the summary care record”.
+
+However, that includes information about prescriptions, from which, as any doctor will confirm, any illness or range of illnesses being treated can be fairly easily extrapolated. Will the Minister remove prescription data from the summary care record, or at least stop using the word “basic”, which is deceptive in this context?
+
+Moreover, when the Government announced the opt-out, they failed to make it clear that it is still not a full opt-out. Patients can opt out of having their medical details uploaded to the spine, but they still cannot opt out of having their demographic information updated, such as name, address, date of birth and NHS number. Will the Secretary of State come to the House to state that that will be made clear in the literature going out to patients at the pilot sites? Furthermore, the Government have not yet come clean on whether they intend to join up their identity cards programme with the NHS IT programme; this debate gives the Minister the opportunity to clear that up, and I hope that she will do so.
+
+Finally, we have not yet received the assurances we need about the security of the system. The Minister might stand up and rehearse arguments about “legitimate relationships”, “role-based access”, smart cards and audit trails, but we know that smartcards are shared in hospitals, and an audit trail—if it works—merely tries to shut the door after the horse has bolted.
+
+Andrew Miller
+Will the hon. Gentleman give way?
+
+Mr. O'Brien
+I shall not give way to the hon. Gentleman; he has already had a go, and it did not work last time.
+
+We must also not lose sight of the fact that the vast majority of people who go to hospital are at least lightly conscious even if they are very ill or seriously injured, and even if they are unconscious, doctors will still follow proper professional diagnostic procedures, rather than tap away at a laptop next to the patient to find out what has been wrong with them in the past. There seems to have been no consideration of that reality. If a proper business case had been submitted and consultation with front-line staff had taken place, the fundamental need for this type of IT base might have been reconsidered.
+
+The choose and book service was supposed to be 100 per cent. delivered by the end of December 2005. When the Government missed that, they set a target of 90 per cent. delivery by March this year—a target they have missed by miles. A mere 38 per cent. of bookings are being made through choose and book, with some primary care trusts achieving rates as low as 8 per cent.
+
+In an interview on “Newsnight” about the national programme for IT, broadcast a year ago, Lord Warner, the former Minister responsible for NHS IT, said that he would resign if choose and book was not delivered by this March. He got out well in advance—last December. So no Minister has taken responsibility for the delay, and—surprise, surprise—to replace Lord Warner the Government have re-appointed Lord Hunt, who designed the thing in the first place.
+
+In addition, it transpires that half these bookings are done by patients themselves on the phone. Their doctor gives them a list of hospitals and their telephone numbers, and it is up to them to go home, choose their preferred hospital and try to make the booking, instead of its being done at the doctor’s surgery, as it should be. Choose and book, where it is working, is rarely working properly.
+
+Mr. Hunt
+Does my hon. Friend agree that choose and book might have been a lot more successful had there been proper consultation with key stakeholders—namely, the GPs who use the system? They complain frequently that one of the main problems with choose and book is that they can book appointments only at particular hospitals and not with individual consultants. However, many GPs want to book an appointment with a consultant whom they know is particularly good at a given task.
+
+Mr. O'Brien
+My hon. Friend is absolutely spot on—such consultation is precisely the issue. Moreover, patients want choice as part of their freedoms and opportunities. At the same time, they want to continue to engage the expertise of those upon whom they rely.
+
+So we have to ask, is choose and book, which is not yet working fully—far from it—as currently designed really the improvement in services that patients are crying out for? When will the Government give a proper timetable for choose and book, if it can be delivered? If it cannot, when will they abandon it?
+
+Margaret Moran (Luton, South) (Lab)
+To hear the hon. Gentleman speak, one would think that choose and book is a complete disaster. However, are not nearly 98 per cent. of GPs using live choose and book? Moreover, and as the hon. Gentleman has just indicated, surely the issue is whether the service to patients is effective. For example, are not hospital records, which were previously turned around in two to three weeks, now turned around in two to three days? Does the hon. Gentleman not count that as a success?
+
+Mr. O'Brien
+I am surprised to discover that the hon. Lady has not been listening, because that is certainly not what I said. Anybody relying on that 98 per cent. figure will discover on examination that even a doctor who has used choose and book once and found it to be totally useless has been included in that figure. The true figure—as shown in a parliamentary answer given by one of the Minister’s own colleagues—is about 38 per cent., although it might have gone up by one or two points since that answer was given. So the hon. Lady should rely on facts, rather than on the Whips’ handout.
+
+I turn briefly to electronic prescriptions. In 2004, the Department of Health set an overall aim of “implementing a national service” of e-prescribing
+
+“by 2005 for 50 per cent. of all transactions, with full implementation by 2007.”
+
+However, just 0.1 per cent. of all prescriptions issued in the NHS in December 2005 were issued by that method. Although the latest available figures show that in the week to 28 May 2007, 5 per cent. of all prescriptions were issued using the electronic prescriptions service—that is a better measure than the one paraded in an earlier intervention and in the Government’s amendment—figures uncovered by us show that less than 2 per cent. of those prescriptions were downloaded by pharmacists for dispensing. So much for the boast in the Government’s amendment! Despite even this very low take-up rate, NHS Connecting for Health still insists that,
+
+“By 2007, every GP surgery (for use by the GPs, nurses and other prescribers working from the surgery) and community pharmacy and other dispensers will have access to the service.”
+
+We witnessed the sight in Woolwich as recently as 25 May of the incoming Prime Minister saying in his campaign—against nobody—to head the Labour party that
+
+“we need prescriptions to be translated to people, directly to the chemist, in a way that you don’t have to queue up at the doctor’s for a repeat prescription”.
+
+However, this is the very Chancellor who presided over a Treasury that explicitly provided the money, which he announced in his Budgets, to be spent to achieve all this by 2005. What monumental incompetence caused him not to know where that money had gone and that it had failed to achieve its stated goal—so much so that he had to announce that goal as the very first of his new ideas? The system was meant to have been in place for more than 18 months now.
+
+Speaking of monumental incompetence, I shall leave the subject of the parallel scandalous failure of the Department to implement successfully the medical training application scheme for junior doctors to my expert colleague who will wind up for us today—the surgeon commander, my hon. Friend the Member for Westbury. [Interruption.] Yes, surgeon commander, and to be respected.
+
+Today we are calling for a full zero-based independent review of the programme. To date, rather chippily, that has been ruled out by Ministers and by the chief executive of the NHS, yet the latter has acknowledged the “clash” between a national programme and the need for it to be delivered locally. He described the programme as
+
+“too much, on far too big a waterfront”,
+
+and referred to the “bunker mentality” that Connecting for Health has built around it. I cannot argue with his critique of the programme as far as it goes, but when are the Government going to make the necessary U-turn and devolve complete power to local hospitals? One of the original architects, Lord Hunt, who is now back in post, said just last month—[Interruption.] Ministers might like to listen to this. Their own colleague who is now back in post and in charge, said that now is the right time
+
+“to make the shift towards local ownership”.
+
+That is what we have called for all along—local contracting, with nationally set interoperability standards.
+
+Mr. Andrew Lansley (South Cambridgeshire) (Con)
+We said that five years ago.
+
+Mr. O'Brien
+Indeed, and look what has happened in the interim. The Government have failed on the job. Above all, that is what the users—doctors, be they consultants or GPs, nurses, therapists and managers—really want. Then, they will buy into this and use IT to improve health care for patients. Only a full, zero-based independent review can bring us to that point, and the Minister should now have the grace to accede to having one.
+
+It is in the interests of patients and our constituents, and of the morale and professionalism of the wonderful and dedicated staff in our NHS, that I urge the House to vote for the motion.
+
+13:16:00
+
+The Minister of State, Department of Health (Caroline Flint)
+I beg to move, To leave out from “House” to the end of the Question, and to add instead thereof:
+
+‘recognises that a modern IT system is vital for delivering good healthcare; welcomes the NHS IT Programme which provides safer, faster and better healthcare for NHS patients, giving them more choice and control over their care; supports the objectives of modernising medical careers; further supports the aim of connecting over 30,000 GPs in England to almost 300 hospitals and giving patients access to their personal health and care information; congratulates the NHS on having already delivered 93 Picture Archiving and Communications Systems across the country including a 100 per cent. achievement in London, delivering faster results for patients; further congratulates the NHS for sending over 21 million electronic prescriptions so far, reducing inefficiencies and errors; welcomes the fact that over 85 per cent. of all GP practices have used Choose and Book to refer their patients to hospital and that almost 3.8 million Choose and Book bookings have been made so far, allowing patients to choose appointments that are at convenient times to fit in with their lives; and welcomes the news that approximately 1.2 million NHS employees now have access to the new broadband network N3.’.
+
+It is laudable that the Opposition support, as the hon. Member for Eddisbury (Mr. O'Brien) acknowledged today, the aims of the national programme for IT. However, it is deplorable that they continue to condemn the delivery of this programme and the necessary investment to achieve the aims that they so loftily support. It is noteworthy that when the Conservatives were last in government, the NHS was one of the last bastions of garage-built computer and paper systems. Despite the Labour Government’s inheriting from the Conservatives in 1997 an NHS that was spending approximately 2 per cent. of its overall budget on computer systems, the one thing that unified almost all the systems bought for the NHS by that Conservative Government was their incompatibility and their inability to pass information from one site to another.
+
+It should be noted that, despite our having led the world in the computerisation of GP practices, the one thing that we could guarantee patients was that their electronic records within a GP practice could not be transferred electronically to another practice—even between systems bought from the same vendor. That lamentable state of affairs is now viewed with a quaint 1950s nostalgia by Opposition Members as being more desirable than the successes delivered by this Government through the national programme for IT.
+
+Far from being a “hasty conception”, the NHS’s national programme for IT learned from the mistakes that a Tory Government made. In 1998, we launched a well thought through four-year programme to develop pilots of electronic records. The electronic record development and implementation programme, known as ERDIP, led to a number of small-scale yet successful local installations. The key issues that contributed to this programme’s not being sustainable in itself were the need for it to be taken up on a national basis and to deal with the unaffordability created by this local development. Such affordability issues were driven by significant cost inefficiencies as a consequence of small-scale local procurements and a high degree of variability in the software from one NHS location to another. During 2001 and 2002, it was with these lessons in mind from the preceding three years that we established a strategy group under the auspices of Professor Sir John Pattison, then director of research analysis and information at the Department of Health, in order to pull together a strategy that we published in 2000, entitled “21st Century IT for the NHS”. It is therefore an act of gross revisionism to suggest that the Government hastily conceived the national programme under my noble Friend and Minister, Lord Hunt.
+
+Mr. Todd
+Bearing in mind what the Minister has said, I doubt she will be surprised that the mental health trust in Derbyshire has, certainly until recently, operated with 19 separate information systems and that it is virtually impossible to obtain appropriate management information in such a fragmented systems environment.
+
+Caroline Flint
+My hon. Friend is right. We are trying to catch up with the fragmented communications in the NHS, large as it is, and the essential requirement behind change is patient safety and better services. That might mean some inconvenience for staff, but that has to be faced if we are to put patients at the heart of our health service.
+
+Dr. Pugh
+Will the Minister give a guarantee that software provided by the various local service providers—quite a few of which are still left—is all interoperable?
+
+Caroline Flint
+We are obviously trying to ensure that. I am happy to write to the hon. Gentleman to clarify that point, but we need to achieve step-by-step change. I shall come to how we have had to take stock of development and its timetable to ensure that we get it right.
+
+The Opposition’s failure to recall the extreme difficulties that they experienced in government in specifying systems, many of which never went live and were a gross misuse of public money, contrasts sharply with this programme, which has been tightly managed—as endorsed by the National Audit Office. I will concede that there are unavoidably a number of users who have not been consulted, but during the four-year pilot process the NHS Information Authority, and predecessor organisations such as the information management group, undertook extensive consultation with end-users about the content of the national strategy. We now have a system in place through a rolling programme of service implementation, led by a veteran NHS manager, Richard Jeavons, to ensure that before the implementation of systems all users, especially those on the front line, are satisfied with what they are receiving and how it will be implemented.
+
+Unfortunately, I have to tell the hon. Member for Eddisbury and his supporters that the Opposition’s activities in fuelling negative media coverage often prejudice the opinions of end-users prior to their receipt of systems. Connecting for Health and the Government have had to answer misinformation provided by the Conservatives and others. Day by day, however, more and more staff are recognising the value of the new system and putting it into practice.
+
+Mr. Stewart Jackson
+Opticians must be doing well because the Minister is wearing rose-tinted spectacles. What unique insight into the programme has been missed by the Health Service Journal, the BMA, GPs, 23 eminent IT specialists and parties in this House? It is not only the Opposition who question the implementation and efficacy of the programme; it is all those experts, who have all been disregarded by the Minister and her colleagues.
+
+Caroline Flint
+Nobody is being disregarded. We recognise that there have been delays because we need to be sure that what we are trying to achieve and the practical implementation of the programme are understood. I make no apology for that. I would rather spend a little time getting it right than do it wrongly. There is a difference between constructive engagement and that based on no real evidence but on speculation and misinformation put into the public arena. I will give specific examples on particular groups later.
+
+The national programme for IT in the NHS has established a number of well respected national clinical leads, and recently appointed a full-time clinical director. It has also established user forums for live systems and continues to improve these systems in line with feedback from users. Perhaps the greatest example of the way in which the national programme for IT does listen to its end-users relates to the picture archiving and communication systems, or PACS. Today in London, every NHS hospital is now equipped with that type of system. That means that patients wait significantly less time for reports and follow-up consultations, that films are no longer lost and that care is delivered more safely and efficiently. Picture archiving was not part of the programme when the contracts were let in 2003. Those systems were added to the contracts in 2004 in direct response to feedback from front-line clinicians and groups representing patients, so the system has been updated and remains as flexible as possible to take account of new IT developments.
+
+Meg Hillier (Hackney, South and Shoreditch) (Lab/Co-op)
+I have seen PACS in operation in the Homerton hospital. It had its teething problems, but it is now very welcome in London hospitals. I have a more personal point to make, which is that patients in Hackney who have an appointment with a hospital or a community service now receive a text message to remind them of their appointment. If we are to bring health care into the modern world, that is an improvement that should be welcomed on both sides of the House.
+
+Caroline Flint
+I agree. Would it not be wonderful if the media and other commentators talked more about where the system is working well for people? Then people in other parts of the country could ask their health chiefs and officials for the same service. That would be community engagement and patient engagement, which is what we want for people all over the country.
+
+Andrew Miller
+My hon. Friend correctly referred to the way in which PACS was added on the basis of consultation with end-users and clinicians. Will she also confirm—to correct misinformation from the Opposition—that the technology involved in PACS is such that it could not have been rolled out on a mass scale under the previous Administration or indeed before we did it?
+
+Caroline Flint
+Absolutely. We had to have national oversight and direction, as well as the resources to make that wonderful development happen. Money is really important. It is interesting to hear from the Opposition about how they want to stall the national programme—
+
+Mr. Stephen O'Brien
+On the contrary.
+
+Caroline Flint
+Well, another inquiry would bring progress into question. The Opposition have never told us what they would have been prepared to spend to provide the service that is benefiting patients and assisting NHS staff. There is a difference between talking the talk and walking the walk and making the services that we should expect as a matter of course in the 21st century something that everyone can experience.
+
+I acknowledge that in some cases we have had to take stock, delay implementation or adjust our thinking based on what we have been told by those on the front line. I am also willing to acknowledge that some of the systems that have been implemented under the programme have not proved popular with end-users as they introduce benefits to patients that may not be to the convenience of NHS staff on all occasions. One such example is the choose and book system. It benefits a patient nearly every second of any day. However, the additional work required by GPs to deliver this improved service to patients has been controversial and I recognise that the early versions of the software have been improved as a consequence of direct feedback from doctors.
+
+Several hon. Members were present at an event hosted by Computer Sciences Corporation—CSC—last night in Portcullis House. They would have heard from Dr. Angela Rowland that far from the systems being unresponsive to the needs of end-users, her work environment as a doctor has now been radically improved as a consequence of the delivery of these new systems.
+
+Andrew Miller
+I stayed at the CSC event throughout because I am interested in the work that it has done on picture archiving at the Countess of Chester hospital and I was concerned to note that, despite invitation, not a single Conservative Member turned up.
+
+Caroline Flint
+That is an interesting piece of information. The Conservatives obviously like to listen to people only if they are saying what they want to hear.
+
+Angela Watkinson (Upminster) (Con)
+What advice can the Minister offer my constituent, Mr. Pegler, whose GP decided that he needs an urgent appointment as he has a family history of cancer? He was advised to use the choose and book system and given the telephone numbers of four hospitals, yet it has proved impossible to get an appointment from any of them. He subsequently contacted the patient advice and liaison service, but is still waiting for a response. Mr. Pegler has been trying to get an appointment for nine weeks. I do not know whether Hackney hospital was one of the four to which he was directed, but I should be grateful for any advice the Minister can give him.
+
+Caroline Flint
+I am very concerned to hear about that situation. If it had happened to one of my constituents, I should have been knocking at the GP’s door to ask what was going on. I shall be happy to take the information away and look into the matter because we know, and I hope the hon. Lady acknowledges, that the access times for diagnosis and treatment of cancer have improved enormously over the past 10 years. However, I am happy to talk to her about how best to represent her constituents.
+
+It is the case that in some aspects of the programme extended consultation with end-users has led to some delays from the original timetable, which was established in 2002. One such example is the summary care record, where an extended consultation exercise with members of the public and professions working in the NHS was led by Harry Cayton, the national director for patient involvement at the Department of Health. It resulted in modifications both to the requirements and the consent model from what was proposed in 2002. Far from regretting that aspect of delay in the programme, I think it was a prudent course of action. In our opinion, to have proceeded hastily with the delivery of the system, in the absence of consensus for the consent model and the content of the summary care record, would have been ill advised.
+
+With regard to front-line clinician support for the summary care record, I refer the House to coverage on BBC Radio Manchester on 31 March, when Dr. Natha of Kearsley medical centre in Bolton stated that patients would benefit greatly from the summary care record. For example, any doctor outside a GP practice who makes an emergency visit to a patient in the middle of the night would have an up-to-date and accurate summary of the patient record in front of them without having to put questions to an elderly patient who may or may not know the answers, or even be in a position to give them.
+
+A point was made about the medical training application system. My right hon. Friend the Secretary of State for Health has already answered questions about MTAS and we have expressed our regret for the difficulties with the system. However, it should be noted that the security and end-user assurance arrangements within the systems deployed by the national programme for IT—at this point, about 19,500 systems used by more than 350,000 front-line NHS staff—have to date prevented such difficulties from occurring. We have avoided hostages to fortune through the provision of cast-iron guarantees in that respect.
+
+We take patients’ concerns about the confidentiality of their records extremely seriously. We have established a consent model in the NHS in England that respects the wishes of patients to control the flow of their information, while establishing an arrangement that is administratively efficient and pragmatic. Although much may be heard within the confines of Westminster about the public’s concerns about confidentiality, it is the case that less than 0.2 per cent. of patients in the early adopter communities for the summary care record have so far expressed a wish to opt out of the summary care record as it is launched.
+
+It would be wrong for Opposition Members to suggest that arrangements they oversaw in the NHS, which relied on post, faxes and phone calls, were something that a 21st-century Government would want to perpetuate. It is a necessity on the grounds of efficiency and safety that the NHS move from those islands of electronic information and a dependency on paper into the 21st century, with information moving on a secure basis to support patients as they are cared for in numerous locations.
+
+Meg Hillier
+My hon. Friend will acknowledge the excellence of the City and Hackney primary care trust, one of the top seven of the 32 in London. However, although that excellent PCT welcomes the community support system—the RiO system—which will, for example, track childhood immunisation and is vital in tackling public health, it says that it is “a massive task” and that we shall have to find lots of extra resources to support it. Can my hon. Friend expand—if not now, perhaps in writing—on how NHS IT services can help PCTs that are already as good as mine to ensure that we have decent public health IT systems as well as the acute systems that she has been describing?
+
+Caroline Flint
+I thank my hon. Friend for that contribution. As the Minister responsible for vaccination programmes and public health, I am concerned to ensure that we have joined-up systems in terms of vaccination. There are clearly real issues in London in respect of the movement of families from one side of the city to another. I have taken them up by holding meetings with Connecting for Health and Department of Health officials responsible for immunisation so that we can tackle some of the problems and make sure that the systems are fit for purpose. The issue is complex and it is a challenge tracking the movements of families with children, especially those who may be vulnerable and not in a steady residential situation. If my hon. Friend wants to talk to me further about the circumstances in her neighbourhood, I shall be happy to meet her.
+
+We have put in place security standards known as e-GIF—electronic Government information framework—level 3, which provide the highest level of civilian security around users accessing systems. Furthermore, all staff in the NHS are bound by professional codes of conduct, and the wide area networks being used between NHS sites are, by civilian standards, secure. Clearly, it would be misleading of me to offer the House an absolute, cast-iron guarantee that there will never be leaks of information, but we have taken all reasonable precautions to ensure the security of information being stored and transmitted within the system. We take it very seriously if any member of NHS staff makes inappropriate use of their access to information.
+
+Mr. Todd
+Given the existing Lloyd George record system, which despite the incredible professionalism of NHS staff can only be described as extraordinarily vulnerable in security terms, it is worth bearing in mind the different context. In that system, the exposure to risk is within a relatively limited environment, whereas once information is placed on a network the exposure to risk is much wider. Can my hon. Friend expand on how that problem will be tackled?
+
+Caroline Flint
+We are of course looking at exposure risks in the networks—at issues relating to access, PINs and smartcards—as well as the offences that are appropriate if individual members of staff misuse their security access and clearance. Any organisation, whether in the public or private sector, faces such challenges when dealing with information about customers, patients or users, but I am pleased to say that we are operating at the highest standard of civilian security in terms of data—probably the highest anywhere in the public sector. In many respects, the national IT programme has learned from previous Government IT programmes; that is acknowledged and the system is being driven forward in a way from which other public and private sector systems could learn.
+
+I am sure that Opposition Members will join me in congratulating NHS Connecting for Health, which was commended even in the recent Public Accounts Committee report on IT projects. The outgoing chief executive of the Office of Government Commerce, John Oughton, said:
+
+“I think the procurement process for Connecting for Health was an exemplary example of procurement. It was run to a very tight and rapid time scale; it started when it was intended and completed when it was intended; and it produced a very good result. I do not think any of the suppliers were disadvantaged in that process.”
+
+Furthermore, I am sure that Opposition Members will also join me in commending NHS Connecting for Health for what was described by the NAO at the conclusion of its 18-month investigation into the national programme as
+
+“a very positive report, which confirms that the programme to modernise the NHS computer systems is…much needed…well managed…based on excellent contracts…delivering major savings…on budget…has made substantial progress”.
+
+Far from being badly run and over budget, the national programme for IT has been independently reviewed already by the NAO, which found that the
+
+“previous model of IT procurement was haphazard”
+
+and that this
+
+“programme has the potential to deliver substantial financial, safety and service benefits for patients and the NHS”.
+
+I am sure that Members of the Conservative Opposition are familiar with the content of the report because it was laid before Parliament on 16 June 2006. I am sure that they do not rely only on the opinions of such people as Tony Collins of Computer Weekly, who has, I understand, provided briefings solely to members of the Conservative party and produced material for publication by Conservative party think-tanks.
+
+Mr. Bacon
+It is interesting that the hon. Lady says that Mr. Tony Collins of Computer Weekly has provided briefings solely to the Conservative party. I happen to know that David Nicholson, the chief executive of the NHS, invited Tony Collins to a seminar, which he agreed to attend. How can that be consistent with what the Minister just said?
+
+Caroline Flint
+Does that not demonstrate that we are open to listening to all voices in the debate? We do not approach this from a narrow, partisan point of view. I suggest to the hon. Gentleman that it is useful if people are transparent about who they are providing advice to and the parties for which they are writing IT policy.
+
+In our opinion, it is lamentable that a programme that is focused on the delivery of safer and more efficient health care in the NHS in England has been politicised and attacked for short-term partisan gain when, in fact, it is to the benefit of everyone using the NHS in England that the programme is provided with the necessary resources and support to achieve the aims that Conservative Members have acknowledged that they agree with.
+
+Owing to delays in some areas of the programme, far from it being overspent, there is an underspend, which is perhaps unique for a large IT programme. The contracts that were ably put in place in 2003 mean that committed payments are not made to suppliers until delivery has been accepted 45 days after “go live” by end-users. We have made advance payments to a number of suppliers to provide efficient financing mechanisms for their work in progress. However, it should be noted that the financing risk has remained with the suppliers and that guarantees for any advance payments have been made by the suppliers to the Government. That contrasts sharply with the policy of the Conservatives when they launched the now abandoned policy of financing IT projects through the private finance initiative. The national programme for IT in the NHS has successfully transferred the financing and completion risk to its suppliers.
+
+It is untrue that there is not a firm timetable for delivery. It is sadly the case that extended consultation and a knock-on effect regarding delays in specification led to two years’ delay in the delivery of the summary care record functionality. However, each software delivery from BT, the contractor concerned, has been on time for more than 12 months. Similarly, the quality management analysis system for GP payments was delivered on time. The picture archiving system is on time. The core software for choose and book and the electronic prescription service has been delivered on time, and the network underpinning all those applications was delivered—[Hon. Members: “On time?”]—early.
+
+I find it perplexing that Conservative Members have suddenly developed a deep relationship with some struggling IT suppliers. Are they suggesting that the Government should indulge in a little bit of dodgy state aid, or perhaps bung a few tens of millions of pounds to failing suppliers as a consequence of a supplier’s failure to fulfil its obligations? It would be interesting to hear what the Public Accounts Committee would think about such a policy.
+
+Rob Marris
+My hon. Friend is absolutely right and underscores the fact that the official Opposition do not really understand the computer industry. I do not claim to be an expert on it, but I spent some of the previous Parliament as a member of the Work and Pensions Committee, which produced a report on computers. The Conservative motion calls for a “full and independent review”, but the NAO has already carried out a review. Given that the nature of the industry is such that there are few suppliers, where on earth would the Conservatives get an independent body to conduct such a review? It does not exist. If there were a big enough body with sufficient expertise to carry out a review, it would certainly be in the system of government already.
+
+Caroline Flint
+I agree with my hon. Friend. The review is a red herring and part of the attempt constantly to undermine the good progress that is being made under the national programme. The Conservatives are trying to build in more stalling mechanisms, instead of constructively engaging on delivery.
+
+When the Department of Health published the principles of the procurement arrangements for the national programme in January 2003, it stated clearly that it intended to transfer financing and completion risk to the supplier community. All suppliers bid voluntarily for the delivery of services to the NHS under those contracts, and in a small number of cases there have been significant supplier failures. While that is unfortunate in itself, it is fortunate that the costs of those failures have not been borne by the taxpayer. Simply pouring further funds into inefficient and often paper-based administrative processes might be what is recommended by the experts advising Conservative Members, but the Labour Government believe that a properly supported and financed national programme for systems in the NHS is absolutely essential to how we deliver health services in the 21st century.
+
+There is strong evidence pointing to the fact that the chaotic and ad hoc procurement of local systems delivers poorer care as a consequence of tests being unnecessarily repeated, patients’ treatments being delayed and appointments having to be rebooked when information is not available. Properly networked systems operating across multiple locations with a high degree of standardisation are the common-sense solution.
+
+Far from there being a significant opportunity cost to patient care, efficiencies are delivering significantly better patient care as a consequence of the NHS having a universal wide-area network, an online demographic service that is accessible from more than 7,000 locations and used by more than 50,000 front-line staff each day, and a picture archiving system, the deployment of which throughout the whole country is nearing completion. It would be naive to imagine that the implementation of such long overdue and complex systems would not be without disruption. Many end-users are far from disillusioned; they are delighted to have modern tools available. That is especially the case in community settings, where staff, especially nurses, were frequently dependent on paper and often needed to visit offices to obtain notes and details of further visits.
+
+The NHS IT programme has already been subjected to a number of reviews, including an 18-month full and independent review by the NAO. I note with some sadness that 23 individuals, some of whom are well respected academics, have called for a review of the programme. As was mentioned earlier, I understand that representatives of the group met David Nicholson, the chief executive of the NHS. Unfortunately, Professors Ross Anderson and Martyn Thomas were unable to articulate any firm grounds to substantiate an independent review, other than the existence of a large volume of negative media coverage—I have seen it—some of which they generated. Is that really a basis for a review when so many of our patients are already benefiting from a better NHS? We, the Government, think not.
+
+Thousands of NHS staff and many thousands more patients are already benefiting from the national programme for IT. In the trusts covering the constituency of the hon. Member for Eddisbury, Connecting for Health systems are already used by 645 GPs and 335 pharmacists. To date, more than 20,000 direct bookings have been made through choose and book in his area, which is already benefiting from the picture archiving and communications system. Our ambition is that all NHS staff and the public throughout England will gain from the enormous benefits that the national programme for IT is enabling. With pride and confidence, I commend the Government amendment to the House.
+
+13:47:00
+
+Norman Lamb (North Norfolk) (LD)
+It is extraordinary to listen to Ministers talking about this subject because there seems to be a complete disconnection between the world that they inhabit and that inhabited by most people working in the NHS whom I meet. If one talks to a room full of doctors, whether they are GPs or consultants, one hears a universal groan when one mentions Connecting for Health and the national programme.
+
+Rob Marris
+indicated dissent.
+
+Norman Lamb
+The hon. Gentleman’s experience must be completely different from mine because I have noted a remarkable loss of confidence in the system among NHS professionals. The same mindset that we have seen regarding MTAS seems to exist for this system. The hon. Gentleman at least acknowledged that there had been problems with the programme. Indeed, he went a little further than the Minister’s tentative acknowledgement of some sort of discontent. He has been forthright in his concerns about MTAS. I suggest that he listens more to the many health professionals with genuine concerns about aspects of the programme that we are considering. I fully understand and acknowledge that many of the constituent parts of the programme have real merit. However, several of its aspects cause genuine concern.
+
+Andrew Miller
+Does the hon. Gentleman agree that the underlying problem is that any large-scale change management programme brings out the conservative—with a small “c”—nature in people, and that it is very difficult to carry 100 per cent. of the staff with it?
+
+Norman Lamb
+Of course, I accept that change brings about resistance, and that that is sometimes because of a conservative refusal to move on—[Hon. Members: “With a small “c”.] I readily acknowledge that I meant a small “c”. However, everything that I have read and that I have heard from the clinicians to whom I have spoken shows that people’s concerns go beyond that. My plea to Ministers and to Labour Back Benchers is that they should acknowledge that there are genuine anxieties and problems. What winds up health professionals most is Ministers simply refusing to acknowledge that there is a problem. The Minister did tentatively acknowledge that there were concerns among some health professionals, but with very carefully chosen words. That is exactly what happened with MTAS. There should be a greater willingness to recognise people’s concerns.
+
+Mr. Stewart Jackson
+Is not the more fundamental problem the lack of information that is available to Ministers in the Department of Health in making decisions? I refer the hon. Gentleman to the hon. Member for St. Ives (Andrew George), who, when he challenged the Minister on 24 April, elicited from her the answer that the Department did not collect data on the local efficacy or otherwise of choose and book. If that sort of information is not collected, how can we possibly know whether it is working?
+
+Norman Lamb
+That is a fair point. This is far too centrally imposed and grandiose a scheme. If one goes for a centrally imposed, grandiose scheme, of course one has to collect data from everywhere, which makes the whole thing rather unworkable. A better approach would have been to go for something much simpler and more locally based, as has happened in other European countries and the United States.
+
+Margaret Moran
+Does the hon. Gentleman accept that Ministers and Labour Back Benchers have acknowledged that things have not necessarily gone according to plan in a major IT operation of this scale? Does he also accept, however, that there are examples of progress to be applauded in areas such as mine? Luton and Dunstable hospital was having to hire taxis to take X-rays and scans down to Harefield hospital, but those imaging facilities are now available within Luton and Dunstable hospital, infinitely improving in-patients’ quality of service and life.
+
+Norman Lamb
+I am pleased that we have yet another acknowledgement from a Government Member that there have been problems—we are making progress. I accept that there is a powerful case for investment in appropriate IT. I also accept the Minister’s assertion that there had been a failure adequately to invest prior to this. However, that does not make the whole package right.
+
+Let me deal quickly with the motion itself. Liberal Democrat Members agree with most of its content, particularly its call for an independent review. In fact, we called for an independent review in March. I will return to the case that we made then and the aspects that we think should be included in it. However, I have concerns, which I think may be shared by the hon. Member for South Norfolk (Mr. Bacon), about the opening assertion of the motion. It says that the aims of the programme are supported in principle. That prompts the question of what the aims are, because they have not been clearly articulated and have changed as time has gone on. The National Audit Office itself was pretty vague about defining them in the section of its report that dealt with the objectives. It made one wonderful assertion:
+
+“The Programme is intended to enable the NHS to become more effective in treating patients.”
+
+I suspect that we can all agree with that. If that is the aim of the project that the Conservatives support in principle, I am fully with them on that. However, one begins to have a problem when one gets into greater detail. The Public Accounts Committee said:
+
+“The central vision of the Programme is…to introduce an integrated system called NHS Care Records Service”—
+
+or the national spine. That is where we have a problem. We do not believe that the case has been made to demonstrate that the benefits of a national spine outweigh either the costs to the NHS, given all the other priorities in the service, or the civil liberties and privacy concerns that have been expressed by many people, including the Information Commissioner. I will come back to the concerns that he raised within the past few months in his written evidence to the Select Committee on Health.
+
+The Government reject the call for a review out of hand, but I fail to understand why. They are keen to quote independent reviews when they are positive about the Government. Reviews that say that 90 per cent. of patients are satisfied are great, but when a review is suggested that they find uncomfortable, they resist the proposition. However, given the scale of the concerns that have been expressed by a wide range of people, it would be in their long-term interests to agree to an independent review in order to work out properly where the whole project is going and how best to adjust it given the problems that have occurred.
+
+Mr. Todd
+Perhaps I should have challenged the Conservative spokesman, who is the hon. Gentleman’s friend in this matter. What exactly is this independent review? Who is supposed to do it and with what brief, what is its scope, and how is it empowered?
+
+Norman Lamb
+I am grateful for that intervention; I intend to deal specifically with what the review should cover.
+
+Let me first explain why I reached the conclusion that a review was necessary. One of the leading people centrally involved on the private sector side of the project made two assertions to me, which were equally horrifying given that this is the biggest ever IT health care project anywhere in the world. First, he asserted that when the project was launched, there were insufficient numbers of adequately skilled people to implement it, and that that is still the case. Secondly, he asserted—
+
+Mr. Kevin Barron (Rother Valley) (Lab)
+Who was it?
+
+Norman Lamb
+I cannot say who it was, because the discussion was on Chatham House rules and it would be wrong for me to do so, but he is a very senior person who is heavily involved in the project.
+
+His second assertion was equally shocking—that there has never been a thorough systems review. The Minister said that end users are now being consulted all over the place, but that is supposed to happen at the start, not much later on.
+
+Mr. Todd
+indicated assent.
+
+Norman Lamb
+I am pleased to see the hon. Gentleman nodding; I assume that he is agreeing with me.
+
+The person told me that it is necessary to bring together at the start the builders of the system, the purchasers of the system—the people who will be spending the money—and the users of the system to ensure that there is a common understanding of what it is supposed to achieve. It was remarkable to hear that there had never been an adequate process of that sort. It is absolutely scandalous to embark on the biggest IT health care project in the world without it. I suspect that the hon. Member for Wolverhampton, South-West (Rob Marris), who is remaining remarkably still and not demonstrating any body language at all, is quietly agreeing with me.
+
+In April 2006, some 23 computer academics—experts in IT—sent an open letter to the Health Committee. The Minister referred to that submission, and she accepted that some of those people—she said some, not all—were highly respected. They called for an independent technical assessment of the project, and they said:
+
+“the programme appears to be building systems that may not work adequately and—even if they worked—may not meet the needs of many health trusts.”
+
+That is precisely why we need a thorough systems review at the start. We are building systems that may not work, or that may not be what is wanted, and that is of concern.
+
+We are struggling with an unacceptable degree of secrecy, too. We have heard that reviews have been undertaken, both internally by the Department, and by the Office of Government Commerce. Why can we not see them? Why not publish them?
+
+Mr. Todd
+They never do.
+
+Norman Lamb
+That is not a reason not to do so. There is a powerful case for those internal reviews to be published, so that we can all see what they have to say.
+
+Mr. Todd
+rose—
+
+Norman Lamb
+I will not give way at this moment.
+
+Mr. Todd
+The hon. Gentleman is possibly too well informed to give way.
+
+Norman Lamb
+I am happy to give way, just to demonstrate that that is not the case.
+
+Mr. Todd
+I have raised the issue of the availability of OGC gateway reviews in the House on many occasions. The standard answer, which I do not entirely accept, is that if they were published, it would ruin the confidentiality of the process and make it difficult for suppliers and other participants in a project to communicate frankly about it. I do not entirely accept that argument, but it does at least deserve recognition.
+
+Norman Lamb
+That was a fair intervention, and I was right to allow it.
+
+Dr. Pugh
+Noble, even.
+
+Norman Lamb
+Indeed, it was noble. I note that the hon. Member for South Derbyshire (Mr. Todd) does not entirely accept the argument for secrecy. Earlier, he asked what the proposed review should cover. In March, we put it that first there should be an assessment of whether it is still possible to achieve the original stated objectives, and if so, within what time scale. I shall return to this point later, but given that many IT experts state clearly that it is not possible to achieve those objectives, there is a powerful case for including that consideration in the review. Secondly, the review should consider the impact on health trusts and on general practitioners’ surgeries of the delays in completing delivery of the project. The hon. Member for Eddisbury (Mr. O'Brien) made the point that hospital trusts are having to acquire interim solutions because they cannot wait any longer. That is pretty crazy, and it is an extraordinary waste of resources.
+
+Margaret Moran
+Will the hon. Gentleman give way?
+
+Norman Lamb
+Let me complete the points about what should be included in the review. Thirdly, there should, for the first time, be a proper cost-benefit analysis to determine whether the scale of the project can be justified. To my knowledge, that has not properly been undertaken; if it has, it certainly has not been made public. Fourthly, there should be a full assessment of the civil liberties implications of the national spine. I hope that Labour Members share our concern about ensuring that people’s rights are not undermined or compromised because of the risk, even with summary records, of very sensitive information getting into the wrong hands.
+
+Andrew Miller
+I agree with the hon. Gentleman’s observation—it is important that records are properly protected, but conversely, does he accept that in years to come, when the system is fully flowing, if the No. 73 bus hit him, it would be rather a good idea for the first responder instantly to blood-match him, identify his allergies and so on? There are costs and benefits to be traded off, and we need to work carefully on that.
+
+Norman Lamb
+The hon. Gentleman proves my point: a cost-benefit analysis has to be done, so that we can balance the potential benefits. On the example that he gives, when I talk to clinicians, they are somewhat resistant to the idea that it would be valuable for them, if I got knocked over by a bus in Cornwall, readily to access my records on-screen in Cornwall. They say that there are protocols that they would follow in those circumstances, and that if there was any error in the national records, mistakes could be made. I repeat that the hon. Gentleman makes the case for me that a cost-benefit analysis needs to be conducted.
+
+Finally on the review, there should be a proper and thorough consideration of where we go from here. If there are genuine concerns about whether the programme can achieve its original objectives, surely we should determine together how best to move the project forward so that we can achieve the objectives that are achievable. An enlightened Government would announce a review in response to this debate. Alongside that review, the Secretary of State, or the Minister, should acknowledge the scale of the problems, rather than seek to deny them.
+
+Margaret Moran
+On the hon. Gentleman’s complaint about delays with the project, is not one of the problems with his proposal the fact that it will cause injury to patients, as his review would further lengthen the time needed for the implementation of valuable projects? Reviews have taken place, not only at the gateway stage but throughout the project, and that has indeed caused delay. On the gateway reviews, is it not important that there be a degree of confidentiality, so that consumers, end-users and suppliers can be honest in any dialogue about what works and what does not? Surely that is more important than the hon. Gentleman being able to read gateway reviews, if he so chooses.
+
+Norman Lamb
+I pray in aid the Minister’s comments: she said in her speech that it was better to get it right than to rush ahead. That is precisely what she said in justifying the delays that had occurred. The experts whose opinion I have read who have argued the case for review say that it would be possible to conduct a review quite quickly; it would be a matter of weeks, and not months. Surely it is in the Government’s long-term interests to conduct such a review, and to make sure that wherever we go from here, we have the backing of clinicians and, hopefully, everyone in the House. That would be better than the Government simply pressing on, with their head in the sand, without acknowledging the scale of the problems.
+
+Rob Marris
+Will the hon. Gentleman give way?
+
+Norman Lamb
+If the hon. Gentleman does not mind, I would like to make a little progress. I am sure that he planned to make a helpful intervention, so I shall be happy to return to him later.
+
+In arguing the case for a review, I want to deal with three key areas: technical concerns, costs and delays, and the civil liberties implications. On the technical side, I refer again to the 23 IT academics who raised concerns. I refer, too, to the written evidence of Tom Brooks, who submitted a paper to the Health Committee. He has substantial experience in the NHS and with the national programme, so we should take his evidence seriously, as I am sure that Labour Members will agree. He focuses on the central infrastructure for the national patient data, and he highlights the fact that Connecting for Health has not published any details of the calculations that it made to demonstrate that implementation on the scale envisaged is technically achievable. He says that Connecting for Health has not presented that evidence to us. He asks what records clinicians should rely on if there is a difference between the records on the national register and those held locally. It is quite possible that there may be a difference between the two because of inputting errors. Who is accountable for clinical or care errors resulting from reliance on the national summary record? He has direct experience of the national programme, and his conclusion is that the Government should acknowledge that the original goal is unattainable. He says that work on the national records system should be suspended, because that is his particular area of concern. I am not an expert, but I take the concerns of someone with that experience extremely seriously, and I hope that the Government do so, too.
+
+Turning to the history of the problems that have occurred, Queen Mary’s hospital in Sidcup was one of the first to introduce a patient records system, but it found that it was frequently unavailable. In November last year, E-Health Insider reported hospital plans to replace the patient administration system just 18 months after it had been introduced. The Nuffield orthopaedic centre reported problems with the installation of Cerner software, with patient records disappearing. We cannot be happy about such experiences. An insider described the system as a “white knuckle ride”. Is that something that should give us confidence? In September last year, Computer Weekly, which has already received a fair airing in our debate, referred to the fact that there had been 110 major incidents—incidentally, Tony Collins has spoken to me, too, so it is not just the Conservatives to whom he is talking—that impacted on patient care. In July last year, the Computer Sciences Corporation data centre broke down, leaving 80 trusts without admin systems for several days.
+
+Caroline Flint
+Does the hon. Gentleman agree that under previous systems, particularly before 1997, there were numerous examples of systems breaking down, not for days but for weeks? The paper system, as well as a system in which computers could not even communicate from one GP practice to another or from one hospital to another, left much to be desired in terms of patient safety. I acknowledge the fact that there have been some breakdowns, but it is wrong to distort the problem by failing to compare it with the systems that the NHS operated in the past, both electronic and paper.
+
+Norman Lamb
+I fully accept there were many problems, but that is no reason for failing to be concerned about the situation or failing to acknowledge the concerns of people working in the system about the problems that are occurring here and now. In April this year, 79 doctors and admin staff in Milton Keynes hospital wrote that the patient administration system was “not fit for purpose”. It was reported in May this year that the Royal United hospital in Bath had still not had its Cerner software installed. The system was supposed to go live in November 2005, but the hospital was still waiting in May. In the same month Manchester reported hundreds of inaccurate patient records in the online booking system. The Minister ought to be concerned that those problems are still occurring.
+
+All those technical problems have led to extra costs and delays. Reference has been made to the fact that many of the costs arising from the problems have been incurred by the private sector—I acknowledge that that has been a feature of the contractual arrangements—but it would be naive to believe that that does not have an impact on the delivery of the system. The private sector appears to be in a mess financially: Accenture is in all sorts of financial difficulty, and it has withdrawn from the system. Those problems have an impact on the delivery of the system, and I am pleased that the Government acknowledge that.
+
+The plan was hatched in February 2003. Despite Government claims, there was no proper analysis of need or of the purpose of the whole scheme. The original budget was £2.3 billion, but it was adjusted to £6 billion, and the National Audit Office referred to £12.4 billion. We have heard estimates from insiders of a total budget of £20 billion to £40 billion—the figure keeps going up. Targets have been missed. The Minister referred to all the targets that had been hit, but what about the fact that 155 of the 176 acute trusts, according to Connecting for Health, should have been operating systems by the end of 2006-07? Only 16 of the 155 got there. We heard about the problems with iSOFT and the fact that it is under investigation by the Financial Services Authority. That is fine—we can say that it is iSOFT’s problem, but iSOFT was a key player in this whole thing, and it has an impact on the delivery of systems, so we ought to be concerned.
+
+The Foundation for Information Policy Research says that the reason for the delay in the care records service is that it is the wrong system to build in the first place. It says that it is not how the rest of the world works. It says:
+
+“Connecting for health is watched with appalled fascination by colleagues overseas”.
+
+Finally, may I deal with civil liberties and privacy issues?
+
+Rob Marris
+Will the hon. Gentleman give way?
+
+Norman Lamb
+Yes, I shall do so now, as the hon. Gentleman has been patient.
+
+Rob Marris
+I am grateful to the hon. Gentleman for his usual generosity. I should like to take him back to the review, because the tenor of his remarks suggests that he has overlooked the fact that this is not one IT programme, which would complicate any review that were carried out. There is the spine, the picture archiving and communications system, the care records service, choose and book, the electronic prescriptions service, NHS mail, a quality management and analysis system, and GP to GP transfer. There are eight or nine different systems, so given what the hon. Gentleman said about iSOFT and so on, as well as the fact that there are a limited number of experts, who would carry out the review, or reviews? From where he is coming from, we would need a review of eight or nine systems, and perhaps a review of the reviews, even though he is talking about delay.
+
+Norman Lamb
+I am sure that the 23 IT academics could come up with some names to carry out the review. To suggest that it may be difficult to find appropriate people to conduct such a review is no argument at all against the need for proper analysis of where the system is and where we should go from here. 
+
+May I deal with civil liberties issues, starting with the opt-out point? The plan is that individuals receive a letter from their local PCT telling them that they have a period of time in which to opt out. If they do not do so within that time their consent is implied. I am seriously concerned about that—I do not know whether other hon. Members share my concern—because we are dealing with elderly and vulnerable people, as well as people with learning difficulties. Should we assume their consent, as sensitive information could be shared on a national basis? The more widely such information is shared, the greater the risks involved. The House may be interested to know that, this week, Pulse reported that in Bolton, which is the site of the trial, GPs are falling out over the project. A group of GPs has sent a letter expressing concern, particularly about the issue of implied consent. They say:
+
+“Much can be gleaned from knowing what drugs a patient is taking, so why does the first stage not require ‘explicit’ consent? Nationally 67 per cent. of GPs oppose implied consent.”
+
+The Minister’s notion that a tiny number of people have objected is no reason to be complacent or to believe that there are not legitimate concerns about the confidentiality of patient information.
+
+The Parliamentary Under-Secretary of State for Health (Mr. Ivan Lewis)
+May I ask the hon. Gentleman a simple question? Considering the benefits of making the system work, would he opt out from it, or would he want his own family to do so?
+
+Norman Lamb
+That is an interesting point. My sister is a GP. I talked to her last night, and she said, “I wouldn’t, for one moment, agree to my personal medical information going on to the spine.” That was a very simple assertion, and she has a genuine ethical dilemma. If, as a doctor, she would not agree to that, how can she recommend that her patients go on to the spine?
+
+It is interesting that in a survey conducted by Pulse only a third of GPs—[Interruption.] This is an example of the disconnection between the Minister and what people in the NHS think. According to the latest survey by Pulse, only a third of GPs would advise their patients to have their information go on to the national spine. That is not one person. That is a representative sample of GPs. If one talks to GPs, one finds that that view is representative of the concerns across the country. The Government would do well to take them seriously.
+
+Mr. Barron
+The hon. Gentleman can speak about his sister as a GP, or about the views of over 63 per cent. of GPs. Can he tell us why I, as a patient, cannot opt out of my personal record being on my GP’s computer? I must be on his computer, or I cannot be a patient there. That goes for millions of people throughout the country.
+
+Norman Lamb
+I am not entirely sure of the point that the right hon. Gentleman is making.
+
+Some 80 per cent. of GPs believe that patient confidentiality is threatened by the national spine. The Government and the Chair of the Select Committee ought to take those concerns seriously. Dr. Fiona Underhill, a London doctor—not my sister, but another independent doctor—was quoted as saying that she could not recommend her patients going on to the system
+
+“because we have no guarantees as to who can have access to it.”
+
+I spoke to two GPs in Norfolk a few weeks ago who pointed out to me that across the practice all staff had their cards, personal identification numbers were shared around, and there was no proper security to control access to information.
+
+Caroline Flint
+Is the hon. Gentleman against the concept of electronic transfer, or is he in favour of finding a system that can meet the concerns that he, I and every Member of the House share about confidentiality and tackling abuses of the system? If he supports that, he should work with us to make sure that the system works. His arguments go in the direction of defending the existing system which does not offer the safeguards that some GPs suggest and does not engage the public in the information that is carried on their behalf on systems, whether paper or electronic, in various parts of the NHS.
+
+Norman Lamb
+The answer to that is that I have strong objections to the national spine. I do not object to local sharing of information, provided that the principles are in place to ensure security of information.
+
+A doctor told me this week that doctors have no advice on the storing of PINs. No advice has been received from the Department of Health about how to store PINs. The doctor told me that the PCT has a store of all the PINs. No guidance has been issued about the security of those. No principles have been issued about the care of smartcards. There are concerns about viewing online and the potential for exploitation of vulnerable elderly people by relatives who might want sensitive information about their health. In her speech the Minister acknowledged that she was considering the penalties that would apply. I am pleased to hear that, but it is rather late in the day. The principles should have been in place much earlier.
+
+Andrew Miller
+Will the hon. Gentleman give way?
+
+Norman Lamb
+No. I shall make progress.
+
+Labour Members dismiss concerns about patient confidentiality, but have they read the Information Commissioner’s written evidence to the Health Committee? He writes that he is
+
+“conscious that these plans inevitably pose significant data protection risks”,
+
+including confidentiality and accuracy. He refers to challenges posed by policing, consistency and security of access. He is concerned about potential abuses. In a letter to me referring to MTAS the Information Commissioner writes:
+
+“I have no doubt that the experience serves as a stark illustration”—
+
+the hon. Member for Wolverhampton, South-West will sympathise with this—
+
+“of the issues which arise where security of sensitive data is not treated with the utmost seriousness”.
+
+That is why the Government should take greater note of the concerns expressed in the House and outside.
+
+The Information Commissioner reserves judgment on whether controls over access will work. He says that it is too early to tell. He has listened to the assurances, but that is not to say that they will work. He refers to a particular case where smartcards had been shared among a group of consultants in accident and emergency. He says that that increased the risk of breaches of security and confidentiality. He also expresses concern about the potential for enforced access to HealthSpace, potentially as a condition for securing employment. These issues have not yet been dealt with.
+
+It is remarkable that we have a system that poses such potential risks to individual confidentiality without these matters having been properly resolved. The Information Commissioner speaks of the whole system being vulnerable to the unlawful obtaining, procurement and disclosure of personal data—blagging, as I am told it is called. He raises a host of concerns. The Minister should be taking the concerns of the Information Commissioner, if not of the Opposition parties, extremely seriously.
+
+The written evidence to the Select Committee makes fascinating reading. The NHS Confederation has a number of serious reservations, as do Patient Concern, the Renal Association, and Londonwide LMCs representing 5,000 GPs in London. Many individuals who made submissions to the Health Committee raise serious concerns about the way in which the project is developing.
+
+My message to the Government is that they should learn the lesson from MTAS. They should learn what happened when they did not listen to all the concerns that were being expressed, and stop digging when they know they are already in a hole. They should acknowledge the problems and agree to an independent review.
+
+Madam Deputy Speaker (Sylvia Heal)
+Order. Several Members are hoping to catch my eye. The time left for Back-Bench contributions is somewhat limited, so I hope contributions will be brief.
+
+14:27:00
+
+Mr. Kevin Barron (Rother Valley) (Lab)
+I apologise for my late arrival for the debate. With other members of the Health Committee, I went to see the IT system at Homerton hospital in Hackney this morning, as part of our evidence gathering for our inquiry into electronic patient records. I apologise for being late and missing some of the speech of the hon. Member for Eddisbury (Mr. O'Brien).
+
+The hon. Member for North Norfolk (Norman Lamb) read out a litany of concerns. I wonder how many of the doctors whom he quoted are involved in the national programme.
+
+Norman Lamb
+All of them.
+
+Mr. Barron
+Part of the criticism is that the programme has been a long time coming. There are difficulties with the programme, some of which are dealt with in the report, such as the engagement of staff, clinicians and others involved in various aspects of the national health service. That is one of the reasons for the delay, so let us not say that the delay shows that there is a weakness in the programme. The delay has been caused in part by what the motion calls for—engagement with clinical staff in the development of IT programmes.
+
+The Opposition Front-Bench team say that they support the national IT programme. The press releases and the debates that we have had in the House over the past six months seem to contradict that—unless, as has been said, we are to interpret the word “support” in the same sense as the rope supports the hanged man. For months we have heard criticism from the Opposition Front Bench about aspects of the programme. As Chair of the Health Committee, I can say that we will report our findings in relation to electronic patient records in due course. The Opposition have gone far wider, and have been extremely negative in their interpretation of what has taken place.
+
+The Opposition motion mentions
+
+“the hasty conception of the National Programme”.
+
+I shall provide an example from out in the field relevant to that, which happened quite a long time ago. When Labour was in opposition I was shadow health spokesman for a while, and I went to my local hospital to look at the patient administration scheme. That hospital, Rotherham district general hospital, is now famous for its work with Gerry Robinson, which was on BBC television earlier this year.
+
+When I visited the hospital, it had just introduced a pass scheme. I watched the nurse fill in a discharge sheet for a patient. The discharge sheet was typed up wonderfully well. I said, “What happens to that?” The nurse said, “On the night shift, it’s printed out and sent in the post to the GP.” I said, “What happens if the patient needs some attention, such as an injection from a district nurse or some aftercare, having just got out of the acute sector?” The nurse replied, “We would phone the district nurse or the GP surgery to make sure about that aftercare.”
+
+What upsets me more than anything else is that, like everybody else in this Chamber, I am a taxpayer. We have been paying for electronic patient systems in the primary and acute sectors for decades. Those sectors have had the choice to buy what they believed to be right for their little part of the national health service. We have allowed patients, some of whom have ongoing medical needs, to be discharged from the acute sector without anybody asking the question, “Why can’t we contact the primary care sector electronically, so that the ongoing care that this patient needs is provided?” I am not saying that that is happening today, but that is one of the major issues behind the national programme. As someone who is concerned about health care and the use of taxpayers’ money, I say that something should have been done decades ago. There should have been some choice about what was put into surgeries or hospitals, but such bodies should at least have had the ability to talk to their immediate health family neighbours about the needs of the patient. That did not happen, and that is what the national programme is about.
+
+The national programme has been criticised by some health professionals, because they believe that their choice will be eroded if they are told that they must introduce one of seven systems in their GP surgery. As Members of this House, we should talk about not only clinicians’ choice in how they spend our money, but patients. Where does the patient come in all this? In Homerton hospital today I saw a great system, and other members of the Health Committee saw it, too. It allows appointments to be booked electronically in clinics before discharge. It does not allow the hospital to talk to the local GP practice, but the system is a bit better than that used at Rotherham district general hospital a few years ago; for example, the discharge report is printed out and handed to the patient on discharge.
+
+The hon. Member for Eddisbury said that there was no evidence about how good the system is now. I say that hon. Members should visit their local GP surgeries. My local GP surgery has had choose and book since the middle of last year, and the system works. Hon. Members should go to the Homerton hospital and see the system, which is being improved by clinicians. The introduction of that system has taken a long time and there have been delays, but it is likely to be in all London hospitals in a few years’ time.
+
+The hon. Member for North Norfolk has mentioned the medical training application service—MTAS—which, as I have said before, is a separate issue. What happened to medical training had nothing to do with the national programme. Opposition Front Benchers are agitated, but I think it wholly wrong to bring those issues together. There are clearly issues about MTAS, but it should not have been included in the Opposition motion, because it has nothing to do with this system. I have said that that is scaremongering by backwoodsmen and luddites, and I do not resile from that description of Opposition Front Benchers in that area.
+
+Norman Lamb
+rose—
+
+Mr. Barron
+We have been asked to be brief, and I am going to be. The hon. Gentleman has had a bit more time than Back Benchers have, so I will not give way. I normally give way, which gets me into trouble with timing.
+
+On care records and patient confidentiality, hon. Members will have seen the Public Accounts Committee report on the national IT programme. I shall refer to evidence taken in response to a question asked by the hon. Member for South Norfolk (Mr. Bacon) on confidentiality. The man from Fujitsu was the only person to give evidence to the PAC, and according to my information, things have moved on dramatically in the national programme since June last year, when the evidence was taken. He said that we should not return to the old myriad of systems. Computer Weekly magazine described him as a critic, and, following its article, he had been suspended by the time he gave evidence to the Public Accounts Committee. On data confidentiality, he said:
+
+“Personally, I see no concern around data confidentiality because a lot of effort is going into making sure that is dealt with adequately.”
+
+The Health Committee report is ongoing, and we have been looking at other systems. The biggest single database of health records in the world is American veterinary records. We have spoken to the people who run that database and visited Canada to look at databases. The issues will be covered in our report. I do not want to second-guess the report, but people in America and Canada looked quizzical when we discussed confidentiality and security of systems.
+
+Although I was an engineer, I am not technically capable of giving a view on the security system, but if the Health Committee’s information is correct, the security used for national patient records is similar to that used by banks. Although there are often security breaches involving people’s credit cards, those breaches are not due to the system itself, but occur because credit cards have been copied.
+
+We took evidence on the independent review. I questioned one of the 23 academics in some detail about the independent review. The academics initially said that they wanted a technical review. In my view, any type of review that slows down the implementation of the national programme would not be in the interests of the NHS. Hon. Members should go to Homerton hospital, where health professionals do not have to wait for X-rays. X-rays appear on a screen, which allows different parts of the hospital to discuss them. Clinicians do not even need to be brought together when they conduct a diagnosis.
+
+When I asked Professor Martyn Thomas about the review, he went on and on. Eventually, I told him—I do not think that this was an unkind comment, and hon. Members can read the transcript—that he wanted an inquest rather than a review. There is no doubt that a number of the 23 academics are against the programme, and some of them are against all public sector national IT programmes.
+
+I hope that when the Health Committee considers the electronic patient record, we will make recommendations and contribute serious points to the debate so that we can look after patients’ interests and ensure that we use IT in the 21st century to improve their quality of life and care.
+
+14:39:00
+
+Mr. Richard Bacon (South Norfolk) (Con)
+I am grateful for the opportunity to speak in the debate. I have followed the national programme for IT in the health service for several years, principally because of my membership of the Public Accounts Committee and that Committee’s interest in value for money, delivery, effectiveness, efficiency and economy. Of course, IT projects are notorious, across Governments of different political persuasions, for failure to deliver. The national programme for IT in the health service is the largest civilian IT project in the world. For that reason alone, I have been following its progress with great interest.
+
+I am not a specialist in health matters or in IT, but I am greatly interested in value for money. The hon. Member for South Derbyshire (Mr. Todd), who is a former member of the PAC, will confirm that serving on that Committee makes one put on spectacles that are primarily non-party-political, because one is considering value for money. That is what we do. I say in parenthesis that I agreed with the hon. Gentleman’s point about private sector IT contractors. Of course, things go wrong with such contractors and they are better at hiding it. I hold no brief for any national or local IT contractors or any specific supplier.
+
+It is extraordinary and regrettable that the important national programme for IT has become party political. I can think of nothing less party political than a computer system. There are legitimate matters for political debate—perhaps fewer than existed 30 years ago, but many remain, including housing and—dare I mention it?—schooling. However, computer systems are not among them. There are computer systems that work and computer systems that do not work. We should all want the former—and that should be it.
+
+Serious technical problems remain with the system, which needs to be put back on track. However, the Department of Health’s current proposal for the local ownership programme is not the right way to do it. The right answer involves more choice for trusts and more competition between suppliers to get the confidence and business of the trusts. One gets ownership through choice and successful delivery through ownership.
+
+Where needed, the Government should review the operational performance of the local service providers against their original contractual obligations and examine how they have accounted financially for their actions. I believe that forensic accountants would reveal some interesting facts about millions of pounds of losses being hidden. I also want to comment briefly on the Computer Sciences Corporation and iSOFT; we learned this morning that CSC is considering a bid for iSOFT.
+
+It is indisputable that the programme is not working properly technically. I was surprised to note in the presentation made to the Prime Minister on 19 February the sentence:
+
+“The key challenges and risks to delivery are now not about technology to support the NPfIT but about attitudes and behaviours which need to be the focus of senior management and ministerial attention as we move forward”.
+
+Of course, getting the right attitudes and behaviours to support the programme—and, indeed, any IT programme—are central. That is why experts say that many problems are not about IT but getting human beings, especially well-paid, intelligent and independent-minded human beings, to operate in the right way. Of course, change management must happen, but the idea that no serious technical problem remains is nonsense. The fact that the Prime Minister is being told that there is no serious technical problem is worrying, because it suggests that Ministers have not always been told all the facts that they need to know.
+
+One need look no further than the visit that took place on 14 May by David Nicholson, chief executive of the NHS, and Richard Granger, director general of IT, to Milton Keynes to examine the problems there. One IT contact of mine charitably described the visit as a catastrophe. It followed a letter, to which the hon. Member for North Norfolk (Norman Lamb) referred, from 79 doctors, nurses and secretaries at Milton Keynes general hospital, which said:
+
+“We are doctors, nurses and secretaries at Milton Keynes General Hospital. From our early experience of the new Care Records Service computer system it is not fit for purpose.
+
+In spite of heroic efforts from our IT staff and from the installing company, start-up glitches have been unacceptable and particularly bad in outpatient clinics. More seriously the software is so clunky, awkward and unaccommodating that we cannot foresee the system working adequately in a clinical context.
+
+In our opinion it should not be installed in any further hospitals.
+
+If it is not already too late there is a strong argument for withdrawing the Care Records Service system from this hospital.”
+
+Milton Keynes is in the southern cluster, where Fujitsu is installing the product from Cerner Millennium. The staff say that it does not work, is not fit for purpose and should be withdrawn.
+
+Let us consider the position of the other clusters—the north-east, eastern, north-west and west midlands—where CSC, following the withdrawal of Accenture, has control of three clusters and is installing iSOFT Lorenzo. The only problem is that iSOFT’s Lorenzo product has not yet been written. It is therefore nonsensical to claim that there are no technical problems. It is worrying that the Prime Minister has been told otherwise.
+
+When David Nicholson and Richard Granger visited Milton Keynes, they acknowledged the scale of the problems. Yesterday they were cited in E-Health Insider, which stated that a spokesman had said:
+
+“Mr. Granger and Mr. Nicholson gave the Trust their full support resolving issues related to CRS. The Trust is committed to working with CfH to improve CRS”.
+
+However, big problems remain.
+
+I now turn to iSOFT—and I note that the hon. Member for Newcastle-under-Lyme (Paul Farrelly), who has done much work in this area, is now in his place. The funny thing is that page 6 of the iSOFT Group plc’s 2005 annual report and accounts says:
+
+“Available from early 2004 LORENZO was the first solution on the market targeted to meet the demanding requirements of healthcare providers around the world.”
+
+I stress, “available from early 2004”. Yet when CSC and Accenture, which was still involved at that point, wrote a review of Lorenzo in February 2006—some considerable time after the statement about its availability—they concluded:
+
+“There is no mapping of features to release, nor detailed plans. In other words, there is no well-defined scope and therefore no believable plan for releases beyond Lorenzo GP.”
+
+Lorenzo GP is a basic version for GPs. The review continues:
+
+“There is a significant risk that an evaluation of the ‘gap’ between the needs of CfH and the capability of the generic solution will require significant re-work of product and platform layers. This will likely lead to schedule slippage. Additionally, there is a risk that the generic solution will contain features that are not required by CfH, lengthening the time taken to deliver the CfH solution.”
+
+When iSOFT’s financial results were published—rather late—it said:
+
+“We intend to begin delivering LORENZO functionality to users within the NPfIT before the end of 2007, and for individual solution modules to become available on a phased basis through 2008.”
+
+How can a firm begin to deliver functionality to users in the NPfIT before the end of 2007, and individual solution modules on a phased basis through 2008, for something that its 2005 annual report claimed was already available in 2004? Perhaps that is why it has been under investigation by the Financial Services Authority. It appears that in the past it has been making statements to the stock market that are not justified by the facts. Those statements probably caused the share price to be higher than it otherwise would have been. Many directors subsequently sold their shares. However, that is a matter for the Department of Trade and Industry, and probably outside the scope of the debate.
+
+Mr. Stephen O'Brien
+My hon. Friend’s expertise is invaluable. In evaluating the risks to the programme’s progress, we want to be constructive about the Government’s difficulties. What is valuable in iSOFT at the moment if there is no developed product? Is it simply that it happens to have the Government contract?
+
+Mr. Bacon
+That is a good question. The company has a range of other products. Many experts would say that some of them, especially some GP systems, work well. However, what people would be paying for if they bought iSOFT is a moot point. It is especially worrying that CSC announced this morning that it might consider a bid for iSOFT. The idea of having a vertically integrated model under which the local service provider actually owns its main software subcontractor is very worrying at a time when the Government, the Department of Health and the NHS are only just beginning to acknowledge the need for more choice locally.
+
+In that environment, if CSC actually owns iSOFT and the area is controlled by CSC, it is hard to see how, if that bid went through, other suppliers of competitive products for mental health and other aspects, such as primary care, would get a look-in. It was an odd reflection on customer relations when iSOFT sought last week to improve its relationship with CSC, which must be one of its biggest customers, by saying that it was probably going to take legal action against it. That is not what one normally thinks of as a way of improving relations with one’s biggest customer. The company seems to have come to its senses yesterday, saying that it was probably going to suspend the legal action for the time being.
+
+Paul Farrelly (Newcastle-under-Lyme) (Lab)
+The hon. Gentleman rightly saw me rummaging through my notes on iSOFT, whose affairs I have followed since July 2004, with my old investigative journalist’s hat on. I note that the hon. Gentleman is not criticising the Government for putting investment into IT, but is making some good points about the way in which they are doing it, which I believe the Government should listen to. Clearly, it is not the Government’s fault that iSOFT is a thoroughly dodgy company, but does the hon. Gentleman agree that it would instil more confidence in the programme and the regulatory environment if the City authorities speeded up their investigation into iSOFT—and, indeed, if the DTI also took up the case?
+
+Mr. Bacon
+I very much agree with that, as these investigations take far too long. The hon. Gentleman referred to his previous role as an investigative journalist, and I commend him for the work that he has done. I also commend the excellent work of Simon Bowers on the financial pages of The Guardian. Yes, the DTI should get involved and the current investigation by the Financial Services Authority should be speeded up. No, it is not the Government’s fault if iSOFT is a dodgy company, but it may be their fault if, not having exercised sufficient and due diligence, they continue to make advance payments through the local service provider and in effect prop up a dodgy company that has failed to deliver, has made false statements about the availability of its products to the stock market, and has misled investors, the public and the NHS.
+
+The way forward—clearly, there must be one—proposed by David Nicholson, the chief executive, is to put greater emphasis on the local side through the local ownership programme. It sounds good in theory, but I fear that what it means is something different. I quote a piece from E-Health Insider of 25 May, which pointed out that the chief executive said that the aim of the local ownership programme was
+
+“‘to reinvigorate the programme.’ This includes ‘giving the SHAs, with their trusts and PCTs, greater participation in the choice of NPfIT products and in the planning and timing of deployments.’”
+
+That sounds fine, but does it mean that if people do not want to, they will not have to install Cerner Millennium? No. Does it mean that if they do not want to, they will not have to install iSOFT’s Lorenzo—apart from the fact that it has not been written yet? No, it does not, so they do not really have choice. I fear this is all about not real localisation, but the decentralisation of blame. It is about handing over to others the responsibility for implementing the unimplementable, and then being in a position later to blame them when they cannot do it. I thus have my doubts about the national local ownership programme.
+
+Mr. Stewart Jackson
+Does my hon. Friend agree that if iSOFT is unsuccessful in refinancing its business in November, it will be the fourth IT company to bail out of this particular IT programme?
+
+Mr. Bacon
+It probably will, which is one of the reasons why I suspect that CSC has been sniffing around with iSOFT’s banks. By the way, iSOFT was not aware of this until after it had happened, but CSC—the local service provider for three fifths of the programme—has been talking to its main software subcontractor’s banks about buying iSOFT’s debt, presumably because that would put it in pole position for a bid, should it wish to make one. I believe that it is incumbent on the Government to state their view of local service providers owning a main software subcontractor and the potential impact on competition and choice, which are essential if we are to get out of this mess. Greater choice, I believe, is essential.
+
+If the notes to the Prime Minister may not have been completely accurate in saying that technology was not a problem, it remains true—as I mentioned earlier, and I saw the hon. Member for South Derbyshire nodding in agreement—that a lot of the problem is about human behaviour, changing attitudes and so forth. In order to do that, we have to have ownership. The question is how we get ownership, and the answer is through choice, and by making local trusts accountable for choosing what they want, and then accountable for delivering it. That, rather than having systems foisted on them that they do not want and will not use, is what is needed. We must have more choice.
+
+Some hon. Members have referred to the Public Accounts Committee report, which I had some hand in. I want to draw the Minister’s attention to two particular paragraphs: one a recommendation, the other a rather worrying conclusion, which the Government should reflect on far more than they have so far. The first is recommendation 4 on page 5 of the report, which says:
+
+“In view of the slippage in the deployment of local systems, the Department should also commission an urgent independent review of the performance of Local Service Providers against their contractual obligations.”
+
+My belief is that such a review of the performance of LSPs against their contractual obligations would strengthen the Government’s arm in the negotiations that would be necessary if the value of the contracts were reduced. Let us look at what has been going on with British Telecom in London, for example. BT employed the software firm IDX for a considerable period, and my best estimate is that about £200 million was spent before it sacked the firm and moved over to the Cerner product. The effect is akin to owning a Ford transit van, getting rid of it, then buying a Mercedes van, but still trying to do the maintenance with the old Ford transit manual; it does not work.
+
+The money is completely wasted, yet neither BT in London nor CSC in its areas—not to mention Fujitsu in the south—has done anything to try to account for the losses that must have been made. At least Accenture had the honesty to come up front and say that it was making provision for $450 million. I am certain that the other local service providers are hiding millions of pounds—probably hundreds of millions—of losses. The Government ought to be aware of that now, because it has consequences for the behaviour of the LSPs in trying to claw back money because they did not make any on the contracts.
+
+Finally, I want to say a quick word about CSC and iSOFT. I have already mentioned them in passing and in response to interventions. We cannot overstate the importance of the fact that three fifths of the national programme for IT in the health service depends on this relationship between CSC and iSOFT, so it is of considerable interest that the president of European business development, the president of the northern region of the UK and the Netherlands, the senior vice-president of global infrastructure services for Europe, the middle east and Africa, the vice-president of service delivery for Europe, the middle east and Africa, the service delivery director of the NHS for the original contract in the north-west region, the vice-president for new NHS accounts, the chief operating officer for Europe, the middle east and Africa, the vice-president for service delivery to BAE Systems, the president for CSC southern region, and the director of services for global accounts have all resigned quite recently. I therefore wonder in what fit state this company is, in terms of its senior management, to continue to be a local service provider, let alone to bid for one of the main software subcontractors.
+
+It is interesting to note that CSC in Europe, the middle east and Africa has recently announced a continuation of the two-year freeze on all training. What does that mean for the NHS? Contrary to what the Minister said earlier, I do not think that Opposition Members have any interest in protecting local service providers or IT suppliers. We want to see competition and choice and things working. It is not obvious to me from the available evidence that CSC is in a particularly healthy position.
+
+Dr. Pugh
+Might not the company become heavily dependent on the expertise provided by local hospitals rather than use its own—with costs to local hospitals?
+
+Mr. Bacon
+In so far as I have understood the hon. Gentleman’s question—it is important to have expertise locally in hospitals. As the hon. Member for North Norfolk mentioned, one of the great problems has been a whole incubus of a central layer trying to impose what happens locally from a great distance. Plainly, one size does not fit all.
+
+I shall now conclude, as other Members wish to speak. I hope that the Government will acknowledge that the criticisms of the programme are not made in a party political spirit, at least not by me. I would like to see the programme work. If it is to work, however, serious problems need to be overcome.
+
+14:59:00
+
+Mr. Mark Todd (South Derbyshire) (Lab)
+To give my background briefly, I was an IT director before coming to this place. At one time in the distant past, about 15 years ago—which shows how easy it was to conceive of such things—I did an acquisition study of a small company that sold systems to general practitioners, in which I dismissed the original purpose of the acquisition and instead set out an argument for a network in information provision in the NHS. At that time, my company did not choose to buy into that—it was correct in thinking of the huge risks that lay ahead. Nevertheless, it was possible some years ago to conceive of many of the things discussed today in relation to the NHS IT programme.
+
+To be honest, any IT programme is misunderstood in this place; we are talking about business change programmes facilitated by technology. Some key preconditions exist for success in that area. First, the project must be rooted clearly in a business strategy. Challenging targets must be set by the business that wishes to run the project. A clear understanding is needed of the environment in which the project will operate. There also needs to be an understanding of the politics of the organisation, any professional constraints that might be in the way, protectionism—which is almost inevitable, and on which other Members have touched briefly—where the accountabilities lie for delivery of the project, and the balance between local and central decision making in delivering outcomes.
+
+As the hon. Member for South Norfolk (Mr. Bacon) said, any project is largely about people, not technologies. More than 10 years ago—given that I have been in the House for 10 years—I used to advise my company that its task was to conceive of the business that it wished to run, and that by and large we would find the technologies to deliver what it conceived of. In relation to people, the critical issues to be resolved are normally their motivation, their engagement with the goals of the project, and how to retain them through a process of disruption and change, which many might find unwelcome. The project needs clear organisational leadership, both professionally and at board level—and, in the context, at political and ministerial level—to ensure a clear direction for the project. That leadership needs to be focused on delivering the benefits identified in the first place, and on resisting creep and diversion, which are all too readily put forward as the directions that any project should take. I shall return to that issue.
+
+A robust risk analysis and approach to managing the risks identified is needed. There are some obvious risks in the collection of projects under discussion, and there are problems inherent in working within the NHS. One is a lack of what most people in the private sector would regard as corporate accountability. General practitioners are effectively small businesses, with their own IT choices and a history of making such choices. Consultants are not actually employees, but carry out duties within a defined contract. There is also a huge problem of scale.
+
+There are also problems inherent in working in a political environment, such as the likelihood of high-profile opposition to what is being attempted, and changes in political leadership—not changes of Government, but the reshuffling of Ministers, once they get some grasp of a subject, into another job in double quick time. A learning process is involved, and the management of projects of such a scale and complexity takes time.
+
+Other problems have been introduced from outside. One of those is the restructuring of primary care trusts and other trusts through the project, so that partners established at local level to deliver certain parts of the programme have changed, and have had to reapply for their jobs and reconsider their futures, which is certainly a risk that would have to be taken into account. I was surprised by the view expressed by some Opposition Members that there is no local process, and that everything is centrally driven. In fact, each trust must produce its own business case for implementing substantial parts of the programme. Bearing in mind that skills and enthusiasm are differential, passing that task on to those trusts has also introduced significant risks to the project. Most suppliers would have started by thinking that the project was likely to be a bed of nails.
+
+Many of the people involved in working in the NHS would have had dissenting opinions. However long we consulted, we would not have consulted all those who wished to have an opinion on the matter. I genuinely accept the view, which I have heard expressed by Richard Granger, that the consultation was at great length. It would not have covered everyone who had an opinion, however, because opinions are numerous in that organisation. The consultation could be going on now and still leave many unsatisfied. I am not therefore surprised at the dissenting voices.
+
+Bearing in mind the very tough purchasing model used, which has transferred risk to suppliers, there have also been supplier problems. Too many suppliers were tempted by the scale of the opportunity and the potential for sell-ons of technologies developed under the contract into other environments. I attended a briefing with CSC yesterday, and it was reasonably clear that that was its view, and it was certainly its interpretation of Fujitsu’s view of how it participated in the programme in the first place. In spite of my repeated question as to whether CSC were making money, it was extremely careful about what it said in response.
+
+I say robustly to Opposition Members that it is surely better that suppliers bear some of the damage of failure to analyse risk appropriately, rather than the taxpayer, as is normally the case in major IT programmes. I congratulate Richard Granger and his team—a view shared by the National Audit Office—on the robust purchasing process now. I accept the point of the hon. Member for South Norfolk that taking too hard a line with one’s suppliers will eventually lead to a position in which one might face failure to deliver and failure to maintain. As the project continues, we will face the challenge of how to strike that balance correctly.
+
+Any major project or collection of projects of this kind should be under constant review, but within a robust environment—I mentioned project creep—in which changes introduced at late stages to meet whims of individual partisan forces within the customer base are resisted. I have been involved in cancelling a major IT project, and there are points at which one must simply say, “We are not achieving what we set out to do, and we should be brave enough to own that.” I assume that there is a proper review process within the project; certainly, there is a process through the Office of Government Commerce gateway mechanism to examine how the project works. The NAO has also produced its report.
+
+I am not averse to a properly qualified, objective, external input to that process. I cannot believe, however, that a full-blown external review—as I have understood it from the extraordinarily limited information given by the Opposition as to what in heaven’s name they mean by the process—would be of great assistance. Inevitably, it would distract resources and encourage delay.
+
+Mr. Bacon
+The review in which I am interested is outlined in the recommendation in paragraph 4 of the PAC report—a review of the contractual obligations into which local service providers originally entered. My contention is that that would strengthen hugely the arm of the Government and release resources, as it would show that LSPs have in many ways failed to meet those obligations.
+
+Mr. Todd
+If the hon. Gentleman is interpreting the motion, and if that is what it means, I would accept that that is a helpful step. That has not been explained, however, in the vague and sometimes naive remarks made on the subject by those on either Opposition Front Bench.
+
+There certainly needs to be further robust engagement on the care record, its design and security. I say that partly because I have a concern myself, but also because we have an opportunity to reassure the profession and re-engage them in the project. The argument for sharing the care record was extraordinarily well made by the appalling incident of the woman who repeatedly contacted an out-of-hours service but there was no inherited memory of her previous contacts with it and what had been said. As a result, she received no proper treatment for her condition. Obviously, having a decent care record even within one organisation would have been a huge benefit in that example, and the case for it to be shared on a wider scale is clear.
+
+We need to keep the project under continuous review, and an external input into that process should be welcomed but qualified. Incidentally, I have corresponded with a group of academics on the subject and found it difficult to define their goals. As I looked through their compendium of information, I saw that it was essentially a collection of press cuttings. I was looking for a much more technical and robust approach to what they were saying than simply a reiteration of various press remarks.
+
+Dr. Pugh
+Will the hon. Gentleman give way?
+
+Mr. Todd
+I am conscious of the time and that other people wish to speak, so I shall not.
+
+I would welcome the group of academics being clearer on their agenda. However we should welcome some external input. We need to re-engage with stakeholders, and looking at the care record and some of the choices that are delivered at a local level would help us to do that. With those qualifications, we should hold our nerve.
+
+15:12:00
+
+Mr. Stewart Jackson (Peterborough) (Con)
+I pay tribute to the knowledge and experience of the hon. Member for South Derbyshire (Mr. Todd), who is at the very least smooth, and almost plausible, in his defence of the Government’s position.
+
+At times like these it is clear that we have a poverty of ambition as a Parliament in holding the Executive to account. Frankly, that would not be the case were we in the House of Representatives in the United States. The Government have criticised the Opposition for bringing to the attention of the House the fact that an IT programme initially mooted to cost £2.6 billion is now likely to cost £35 billion or perhaps £50 billion. As you will have seen yesterday, Mr. Deputy Speaker, The Daily Telegraph reported the bizarre and appalling situation, especially given the warm words of our new Prime Minister un-elect that he is open and listening, of civil servants, under the auspices of the Office of Government Commerce, being encouraged to shred documents, in particular reports that are critical of the mismanagement of the NHS IT programme. How we can be lectured by the Government that it is inappropriate that we should draw that to the attention of the House and the electorate is perverse.
+
+As my hon. Friend the Member for South Norfolk (Mr. Bacon) said, we are dealing with a huge programme involving 30,000 general practitioners and 300 hospitals, and which has risen exponentially. The last official figure was in June 2006, when the National Audit Office put the cost at £12.4 billion, but in May last year, Lord Warner no less said that it may be £20 billion or more.
+
+The Public Accounts Committee has on several occasions drawn attention to the shortcomings of the IT projects undertaken by the Government. It said in July 2005 that Government IT projects are characterised by
+
+“delay, overspends, poor performance and…abandonment.”—[Official Report, 26 January 2006; Vol. 441, c. 1594.]
+
+I notice that the Minister did not quote that in her remarks. The Government have generally sought to disregard the PAC’s report, published in April 2007, but its remarks need repeating. Being critical of the Government and the way in which the programme has been handled is not to say that we inherently disagree with the programme. Of course we believe that it is right to proceed in that way, but individual Members of Parliament with an interest—I have the honour and privilege to serve on the Select Committee on Health under the chairmanship of the right hon. Member for Rother Valley (Mr. Barron)—have a right, duty and responsibility to draw failings to the attention of the House, and there have been many failings.
+
+The report says specifically that the pilot schemes are two years late, especially in relation to the care record service, and that no fall-back date is in place, although Ministers disagree with that. Cost estimates are opaque and have not been fully quantified. There has hitherto been no proper cost-benefit analysis on what will have been delivered to the NHS when the contract ends in 2014. We have heard that Accenture has pulled out of the project at a loss of anything between £240 million to £385 million, along with other IT providers, IDX and ComMedica. Other companies with the skills and experience have not come on board for the programme. We learned earlier that iSOFT faces an uncertain financial future, and we will see whether it manages to stay afloat after its refinancing later this year.
+
+The key point is that despite protestations from the Government, health care professionals up and down the country have not voted to support the programme with their opinions and have voted with their feet. I said that it is all very well for Ministers to say that choose and book is working, but if they do not collate the figures properly, there is no way they can fully understand the efficacy of that particular record system.
+
+As we heard from my hon. Friend the Member for Eddisbury (Mr. O'Brien), the number of GPs that support the programme has plummeted from about 55 per cent. a year or so ago to the most recent figure of only 26 per cent. We have a North Korean-style thumbs down from readers of the Health Service Journal. In a poll of its readers, 97 per cent. said that they did not believe that the choose and book target could be met by March 2008. Incidentally, that is the third target; the other two were missed. We now have approximately 38 per cent. take-up of choose and book, although we do not have the raw data to confirm that.
+
+The Government often quote the NHS Confederation and pray in aid its opinions to support their viewpoint. It has said:
+
+“The IT changes being proposed are individually technically feasible but they have not been integrated, so as to provide comprehensive solutions anywhere else in the world.”
+
+It is reasonable for people who make their living as professionals and experts in information technology in the academic world to express a value judgment on the success or otherwise of the programme. It is right to draw attention to the fact that core software has not yet been delivered, as my hon. Friend the Member for South Norfolk said. There are issues about technical architecture, project planning and detailed design, and about the estimate of the amount of data and the traffic in the programme when it is fully operational. That is a fair point to make.
+
+There is a degree of complacency. I draw the House’s attention to the Minister’s comments last year, when she said:
+
+“The National programme is already the focus of regular and routine audit, scrutiny and review.”—[Official Report, 24 May 2006; Vol. 446, c. 1877W.]
+
+That patently is not the case. The Chairman of the PAC said:
+
+“This is the biggest IT project in the world and it is turning into the biggest disaster.”
+
+That is hardly a ringing endorsement of progress. As at February 2007, only 18 hospitals had the patient administration system. Incidentally, the Department of Health promised a year before that 35 acute trusts would have it in place.
+
+I have some key questions for Ministers. Before I ask them, however, I want to deal with the questions asked by the hon. Member for North Norfolk (Norman Lamb) about privacy.
+
+I was present when the Health Committee heard evidence from the Patients Association and others recently, and I must respectfully tell the hon. Gentleman that I think he over-egged the pudding slightly in describing the dangers involved in privacy issues. It is incumbent on him, and on others, to prove that the changeover would have a significant negative impact on most or all patients. However, he made an important point about accountability. At present patients benefit from a degree of accountability through their local primary care practices and local trust, but that accountability will be removed if all data are transferred to a national system. We are talking not about articulate, intelligent, well-read middle-class people but about the most vulnerable, those who are least able to say: “I do not want my medical records to be online.”
+
+These are my questions to Ministers. When will they engage properly with health care professionals to win their support for the implementation of a system that has demonstrably failed so far? Will they ring-fence primary care trust funds for expenditure on opt-out information? Will they concede that there has been a systemic failure as a result of the dichotomy between national contracts for procurement and the local delivery of those contracts?
+
+We need action now. I strongly agree with my hon. Friend the Member for Eddisbury that we need a full, zero-based review as well as an audit. We need an annual statement of where we are now and where we will be in 2014. As one or two Members have said, we need to disaggregate local delivery to local trusts where appropriate, with a wider range of suppliers in the IT market. We need to review current performance, and we need to communicate the importance of the programme to all health care professionals more effectively. I agree with the hon. Member for South Derbyshire in that respect.
+
+The consequence of failure is massive. The expenditure of £50 billion of public money should give us all pause for thought. As my hon. Friend the Member for Eddisbury said, this is not just a “techie” issue; it is about the importance of reforming the NHS through choose and book, about electronic prescriptions, and about the care records service. If mistakes are made, people may die.
+
+As the right hon. Member for Rother Valley observed, patients should be at the very heart of our considerations. The Government must get a grip on the situation. They owe it to patients, they owe it to my constituents, and they owe it to the whole country. It is right and proper for us to call the Government to account today, and for the Government to explain why this has happened and how we can adopt a bipartisan approach to ensure that we deliver the results that patients expect.
+
+15:23:00
+
+Andrew Miller (Ellesmere Port and Neston) (Lab)
+The Opposition argued that nothing had been published about the purpose of the project and the safety case for it. That is manifestly untrue. The introduction to a document entitled “Supporting the Patient Safety Agenda” clearly explains the purpose of the scheme. It tells us:
+
+“Every day more than a million people are treated safely and successfully in the NHS. However, despite the dedication and professionalism of staff, evidence tells us that in complex healthcare systems things will and do go wrong.
+
+Improving the quality… of patient care therefore lies at the very core of the National Programme for IT… which has its origins in the vision articulated by the Department of Health in ‘Delivering 21st Century IT Support for the NHS National Strategic Programme’.”
+
+That, then, is the core reason for the programme’s existence. I shall say more in a moment about the work undertaken thus far—enormous strides have been made—but I am glad to see that the shadow Secretary of State, the hon. Member for South Cambridgeshire (Mr. Lansley), has arrived, as I am about to refer to him. He wrote the foreword to a document called “Computerising the Chinese Army—Information Systems in the NHS”, which has been mentioned tangentially by a number of Opposition Members. That is not surprising, because it originated from a Conservative think-tank. Contributors include Tony Collins of Computer Weekly, the shadow Secretary of State and Dr. Simon Moores of the Conservative Technology Forum.
+
+Having read the document closely—particularly chapter 10 on the proposed action plan—I can see the genesis of the Opposition motion. It is the result of people thinking very carefully about how to exploit what is, after all, a complex change management programme, described in some detail by my hon. Friend the Member for South Derbyshire (Mr. Todd). In a sense, it is pushing at an open door.
+
+I have experience of dealing with change management programmes, having been both poacher and gamekeeper. As was acknowledged by the hon. Member for North Norfolk (Norman Lamb), people have been put on the spot. They do not like having change imposed on them. The net consequence is a potential for what could be described as insubordination in the ranks. In one company with which I dealt, a senior director fed shop stewards information to undermine what he saw as the damaging impact on his bailiwick of the change management programme.
+
+If I have any criticism of Ministers, it relates not to the superb work being done by Richard Granger and his team, but to the management of people in the process. In preparing for the debate, I noted how successful the roll-out has been—contrary to what one would believe from some assertions, and contrary to what I must tell my colleagues on the Public Accounts Committee was a very out-of-date PAC report. As I said earlier, there have now been more than 250 PACS records: as of this week, 25.981 million digital images have been stored. That is a fantastic success. The roll-out has made enormous progress, complex though it may be.
+
+Mr. Bacon
+Will the hon. Gentleman give way?
+
+Andrew Miller
+No. The hon. Gentleman spoke for 20 minutes, although I thought that there was an agreement between the parties.
+
+We are dealing with some interesting relationships. Many people who are getting puffed up about the programme have vested interests. Let us look first at the Big Opt Out organisation, or bigoptout.org. Professor Ross Anderson from Cambridge university is in that organisation. He is now one of the advisers to the Select Committee on Health, and I will refer in a moment to an exchange involving him. Also in that organisation is Councillor Helen Wilkinson, who is involved with the Conservative party. There are interesting links with NHS IT 23, which is where Ross Anderson appears again.
+
+Also in NHS IT 23 is Professor Geoffrey Sampson. I do not want to do a disservice to the Conservative party—I am not sure whether it threw him out of the party because of his extreme views on racism. I have a feeling it threw him out, but I might be being totally unfair—[Interruption.] I have the cuttings here if hon. Members want to have a look. I am referring to Professor Geoffrey Sampson, who is a Conservative member of NHS IT 23 and was a Conservative councillor.
+
+Anne Main (St. Albans) (Con)
+Will the hon. Gentleman give way?
+
+Andrew Miller
+No. The hon. Lady has only just turned up.
+
+Dr. Andrew Murrison (Westbury) (Con)
+Will the hon. Gentleman give way?
+
+Andrew Miller
+No. The simple fact is that those links are fascinating. The Foundation for Information Policy Research, which was referred to earlier, recently received an e-mail from Ross Anderson saying:
+
+“I’ve been asked, much to my surprise, to be one of the Health Select Committee’s special advisors for their enquiry into the Electronic Patient Record. I pointed out to them that I have ‘form’”.
+
+Well, he has. He continues:
+
+“I’m a member of the Gang of 23”,
+
+along with Professor Sampson who Conservative Members seem never to have heard of. Professor Anderson continued:
+
+“I support TheBigOptOut.”
+
+In response to a subsequent exchange, he says:
+
+“I hope that Archrights will write to the committee”—
+
+the Health Committee—
+
+“expressing its view on the ethics, legality and operational desirability of having all English children's medical records sitting on half a dozen big server farms, linked in to all sorts of interesting database apps for everything from cancer research (sob sob) to the prediction of antisocial behaviour (identify Tory voters at birth and ASBO them)”,
+
+and a smiley is tagged on at the end. It is no wonder the Tories do not like this: these are the kind of people they are taking advice from and who have fundamentalist views about the opt-out. [Interruption.] I do not criticise my right hon. Friend the Member for Rother Valley (Mr. Barron) for, as Chairman of the Select Committee, taking a balanced view and having special advisers from both sides, but it is important that we understand that there is a link between the Big Opt Out organisation, the No2ID people, the NHS IT 23 team and the other people to whom I have referred.
+
+Conservative Members seem to think that that issue is not relevant. On 24 April, those same hon. Members who think it is a big joke and who appear never to have heard of the people I mentioned, would have read Professor Sampson's letter in The Daily Telegraph, in which he fundamentally criticises the NHS IT programme. Those hon. Members say that they have never heard of him—perhaps they do not read The Daily Telegraph. Professor Sampson is at the university of Sussex. He has been fundamentally critical of the work of the project, and here we have a complex interaction between people who may not be members of the Conservative party—I am not sure where they fit in—but who are heavily engaged in some outside bodies that are seeking to influence Conservative party thinking.
+
+Against that background, we look at the reality of what is happening in the NHS IT programme. That is where it becomes mission-critical. We should dismiss the motion out of hand as it is ridiculous. There are, of course, ongoing reviews within the management of the process. As my hon. Friend the Member for South Derbyshire said, reviews took place in both the industry and the Department, and there is an argument for such reviews being more transparent. However, the facts cannot be refuted: there are now some 354,559 users of the NHS IT system within the NHS and among prescribing pharmacists and others.
+
+I agree that there are issues to do with security of data. The hon. Member for North Norfolk (Norman Lamb) expressed concerns about that, and it is inevitable that there will be security issues. However, it is not unreasonable to state that the vast majority of those who manage our NHS on a day-to-day basis—the doctors, clinicians, pharmacists and administrators—are fantastic and fundamentally honest people who work their socks off for the benefit of the NHS. Having said that, there will of course be the odd rogue among them who will sell data, as there is among police forces and in any other organisation that holds data, and we should rigorously apply data protection rules. I would make further recommendations if I had more time.
+
+The system is growing. This week alone, almost 7 million picture-archiving and communication records were added to it. This year, a further 307,000 new studies were added, taking the overall figure to more than 11 million. As the system is growing effectively and consistently at a great pace, it does not require an immediate review. The Tory party wishes to force that on it because it wants to make cheap, opportunist attacks on the Government. What the system needs is firm management to take it through some of the difficulties that it has faced, so that we can make sure that we have a world-class and world-beating IT system that leads to the improvement of the health of all citizens.
+
+15:37:00
+
+Adam Afriyie (Windsor) (Con)
+Considering the time, I shall keep my comments brief. Over the past 20 or 30 years, the world of technology has changed rapidly. There has been the move from mainframe computers to desktop personal computers, and there have been distributed systems, centralised systems and the internet. In any major IT project—the one we are discussing is the largest in the world—account must be taken of the technologies that are developed and those that are under-developed.
+
+I spent about 20 years in the IT industry; other Members, including the hon. Member for South Derbyshire (Mr. Todd), have also spent a long time in industry and have had dealings with the IT sector. Anyone who has worked in and around the IT industry comes to learn bitter and painful lessons about the implementation of IT systems. One thing that we learn fairly early on is that if we choose a brand new, bespoke system—one that has never been used before and is created specifically for one purpose—we are bound to come a cropper. We in the IT industry use the term “bleeding edge”—rather than leading edge—technology. That is where the purchaser and the person responsible for a project endure a lot of pain in the attempt to deliver something that ends up not being delivered.
+
+There is also a point to be made about automating inefficiency. If the system currently in service in the NHS does not work efficiently, by automating it we simply make the inefficiency even more part of the system, which is not good. In letting large IT service contracts from the public sector, we must also consider motivation. If a civil servant or a Secretary of State is not accountable for the failure of an IT project, their motivation is to play safe—to get in consultants to make the points that they wish to hear from them, so that ultimately they can say it was the supplier’s fault or the consultant’s fault. I fear that in this case, that is what has been going on.
+
+We must bear in mind the fact that if one is paying a consultant by the hour, their motivation is no doubt to prolong matters for as long as possible—unlike my speech, which I shall end now by saying that it would be far better if patients were able to choose whether to be part of the national patient record system. It would also be far better if GPs could choose from various systems, and if the Government now chose to accept a review, which would highlight some of the deficiencies in their approach.
+
+15:40:00
+
+Dr. Andrew Murrison (Westbury) (Con)
+It is a pleasure to follow my hon. Friend the Member for Windsor (Adam Afriyie) and his expert remarks. [Interruption.] The Under-Secretary of State for Health, the hon. Member for Bury, South (Mr. Lewis) scoffs, but if some of his hon. Friends had been a little briefer, we might have heard more from my hon. Friend.
+
+I begin with the comments of the Minister of State, Department of Health, the hon. Member for Don Valley (Caroline Flint)—or rather, the lack of them. She accused the previous Conservative Government of spending less than 2 per cent. on IT, but she did not know how much she has spent. She touted our figure of 2 per cent., but she should have known that in 2005-06, she spent 1.92 per cent.—revenue and capital—which is rather less than the 4 per cent. that Wanless recommended. So let us kill that one at the outset.
+
+If the Government cannot guarantee the security of records on 30,000 doctors, what hope is there for 50 million patients?
+
+The right hon. Member for Rother Valley (Mr. Barron), whose remarks I usually value, did not want to draw parallels between MTAS and the national programme for IT. I say to him in all respect—dream on. The MTAS debacle has lost the confidence of a generation of junior doctors. The very people whom the Government need to operate NPfIT have seen how the Department of Health mishandles its own confidential material.
+
+In gentler times, last month’s High Court judgment, which described MTAS as “flawed” and “unreliable”, and said that it had “disastrous consequences”, “did not work”, and that its victims
+
+“have an entirely justifiable sense of grievance”,
+
+would have secured the resignation of a Minister. Apparently, however, these Ministers do not think this matter serious enough. It is hardly surprising that the Medix polling organisation found that 79 per cent. of GPs feel that the national electronic care record service will damage confidentiality, and that 51 per cent. would not upload records on to it without explicit consent. The remarks of the hon. Member for North Norfolk (Norman Lamb) about GPs’ reluctance in the Bolton pilot in that respect were very relevant.
+
+A cohort of doctors will grow up bruised by the experience of having their addresses, phone numbers, sexuality, faith and criminal records displayed for all to see, with nobody apparently responsible. We know that nobody was prepared to take charge, because when “Channel 4 News” asked a Minister to respond to the MTAS security breach in April, nobody was available. However, the Health Secretary did eventually pop up to reassure the House that only a couple of dozen or so unauthorised users had found the relevant MTAS URL. Unfortunately, one of them just happened to be “Channel 4 News”.
+
+The Health Secretary hinted darkly at that time that criminals might be involved. Was this a smokescreen to prevent further discussion? If not, six weeks on, how many charges have been brought, what involvement has the Criminal Records Bureau had, and what disciplinary action has she taken? Given the monumental scale of this disaster and the inevitable contempt in which doctors will now hold Department of Health IT systems, it is vital that appropriate action be taken if there is to be any NPfIT buy-in by the health care professionals whom the Health Secretary expects to operate this system.
+
+It is not as if the Department of Health was not warned. Emily Rigby of the British Medical Association medical students committee said in April:
+
+“We raised concerns about online security for medical students’ applications last year after the system was hacked into. We were given explicit assurances it wouldn’t happen again.”
+
+The British Orthopaedic Trainees Association, representatives of which we have met on a number of occasions, raised similar concerns with the Department months before the data ended up in the public domain. The Public Accounts Committee report that has been cited today, to which my hon. Friend the Member for South Norfolk (Mr. Bacon) and the hon. Member for Southport (Dr. Pugh) contributed, concluded:
+
+“The Department has much still to do to win hearts and minds in the NHS, especially among clinicians.”
+
+It went on to say:
+
+“The Department has failed to carry an important body of clinical opinion with it.”
+
+That was before the MTAS debacle. Ministers must now start from scratch in engaging health care professionals.
+
+How typical of this Government that their interpretation of the IT needs of the NHS should be centralist. They have produced a lumbering expensive creature that will allow a bewildering and expanding array of public and private sector inquisitors to tap into our most intimate affairs. Our Government are going it alone. Why do Ministers suppose that other health care economies have rejected grand designs of the sort on which they are intent? The hon. Member for North Norfolk referred to the appalled fascination with which other countries regard NPfIT, and rightly so.
+
+How will patients benefit from having their medical records so freely available?
+
+Paul Farrelly
+Will the hon. Gentleman give way?
+
+Dr. Murrison
+No, I will not.
+
+Ministers say that it will be handy in an emergency to have medical records freely available in the way that they wish. I have to say that that is pure supposition without a shred of evidence to support it. If Ministers were genuinely exercised about the need for transportable medical records, why have they not been promoting more vigorously the simple devices that already exist for people at risk? If Ministers imagine that doctors will spend time bashing away on computers trying to download the details of—they hope—the patient in front of them, Ministers need to get out more. I am struggling to recall times when I was a casualty officer and the absence of the sort of data that Ministers assure us is so critical genuinely affected the outcome for my patients.
+
+As a patient, I may well opt out of the unquantified benefits of being on the national spine, because based on the Department’s form I have no confidence that my records will not end up on Channel 4 news. What elements of NPfIT will patients be able to refuse? Can the Minister assure me and my hon. Friend the Member for Peterborough (Mr. Jackson) that the option to opt out will be fully explained to patients? Can he say—[Interruption.] I hope that the Minister is paying attention, because my last question is very important and I would like a specific answer to it. What back-pedalling will be necessary, given the divergence that emerged last month between Europe’s data protection commissioners and the Government in respect of the electronic patient record?
+
+Ministers believe that NPfIT will help patients get treatment right across the country, but the great majority of us will only really be interested in accessing care within our local health community. Why then, in a system with finite resources, are ministers obsessed with the need to exchange data with geographically remote providers with all that that implies in terms of capacity for mishandling records?
+
+There are signs that Ministers have at least begun to look around them and seen that their grand scheme is unique in the western world. Belatedly, they have developed an enthusiasm for what they are pleased to call “local ownership” and in March they issued a tender for bids to become “additional systems suppliers” from which individual trusts will be able to buy. Given NPfIT’s sheer scale and its extraordinary cost, why has the Minister not come here of his own volition to explain an apparently significant change of tack? Is it because he would have to admit that his troglodyte stateist solution has caused good local systems that were working effectively to be dumped? Is it because he would have to admit to having alienated the very people that he now invites to make the national programme work—our long-suffering health care professionals? Or is the Minister’s apparent enthusiasm for localism a ruse to decentralise blame from the Department of Health to health authorities and trusts?
+
+We know that the Department has been reviewing NPfIT, as well it might. But the Government are appealing an order to publish information on gateway reviews. In the meantime, it transpires that Treasury officials have ordered the destruction—the shredding—of relevant documents. That is a serious matter. Will the Minister explain how the public interest—not his political interest—is served by withholding the gateway reviews that the hon. Member for South Derbyshire (Mr. Todd) suggested should be published? If that was his suggestion, I would certainly agree with him. Better still, given the Department’s appalling track record, let us have a full and independent review of the whole of its IT circus.
+
+15:49:00
+
+The Parliamentary Under-Secretary of State for Health (Mr. Ivan Lewis)
+The Opposition are against electronic patient records—against sharing data that can save lives: they are stuck in the past and not fit to govern. The Labour Government made a bold decision in 2002: to undertake a 10-year programme to computerise the national health service. That was right then and it is right now.
+
+Although thousands of localised systems were implemented in the 1990s, few of them were joined up, as people acknowledged. To have delivered so many systems in so many locations over the past three years is a testament to the success and direction of the Government’s strategy. Of course we continue to review and examine what we are doing, but there is absolutely nothing to suggest that we have made a fundamental or structural error in adopting a strategy of ring-fencing central funding for a number of standardised systems delivered by major contractors.
+
+Opposition Members should be frank about the conclusions of the National Audit Office in its report on the project published in June 2006. The conclusions were
+
+“much needed…well managed…based on excellent contracts…delivering major savings…on budget…has made substantial progress”.
+
+That was an independent objective review.
+
+It is essential that we hold our nerve in the implementation of the systems. Although we do not deny that there are difficulties, the majority of the programme has gone well. Considering the programme on a 10-year basis, there are no significant time-scale issues; the difficulties experienced by suppliers were predicted and the costs were not borne by the taxpayer. As a Government we will continue to support the delivery of the national programme for IT in the NHS.
+
+Paul Farrelly
+Will my hon. Friend give way?
+
+Mr. Lewis
+I cannot give way.
+
+We shall of course continue to apply best project management practice, including ongoing evaluation and review.
+
+The hon. Member for Westbury (Dr. Murrison) referred to the relative proportion of spending on IT by his Government and by our Government. In 2005-06, the Government invested more than 3 per cent., rising to 4 per cent. in 2008—the level predicted by Wanless and twice the amount spent by the previous Government. The hon. Gentleman accuses us of an over-centralised system, but in fact the systems are implemented locally and efficiently procured centrally; in short, wherever patients are treated, they will receive much safer care. He implied that such systems were frowned on internationally, yet other countries such as Canada and Australia are adopting our practice. We are leading the definition of international standards in the field.
+
+The hon. Member for North Norfolk (Norman Lamb) wants more than anything an independent review, but the programme has been reviewed repeatedly—by the National Audit Office, the Public Accounts Committee and other bodies, including the august Select Committee on Health. At this stage, another review would add nothing to the interests of patient care. The hon. Gentleman raised legitimate issues about patient confidentiality, but the question that must be asked of a responsible Government is: have they done absolutely everything in the design of the scheme to protect patient confidentiality and private information? The answer is that the Government have done everything possible to protect confidentiality and the individual rights of patients. The hon. Gentleman referred to PINs. All primary care trusts have been sent advice about best practice for the storage of PINs.
+
+In an extremely practical way, my right hon. Friend the Member for Rother Valley (Mr. Barron) talked about the reality for a patient in his local hospital. He described the outdated, luddite handling of a discharge, which would have led to the patient not receiving the care that we would expect a modern health and social care system to provide. Use of the technology is about making a reality of our aspiration to a patient-centred national health service, as well as empowering front-line professionals to do the job as they want to do it.
+
+The hon. Member for South Norfolk (Mr. Bacon) is not exactly an objective observer on these matters. He refuses to acknowledge the system’s benefits of archiving, networking and core infrastructure. He selectively marshals evidence that does not represent a true or balanced picture of the benefits of the system. He referred to Milton Keynes, but the local organisation in Milton Keynes refused help from both the strategic health authority and Connecting for Health. Since our intervention, many of the problems have been resolved and significant progress is now being made. The hon. Gentleman also referred to questions about the iSoft group. The press statement on that issue that was released today is readily available.
+
+My hon. Friend the Member for South Derbyshire (Mr. Todd) is an expert specialist in this area. He defined the characteristics and components that represent a good approach on the project management of the system. His main message was that he believed that best practice was being applied on the whole. He made it clear that he thought that the key was for the Government to hold their nerve. At this stage, it would be wrong to go into reverse on the project because that would have a damaging impact on the NHS and patient care.
+
+The hon. Member for Peterborough (Mr. Jackson) raised the question of the disposal of documents by the Office of Government Commerce. Of course, that has nothing to do with the Department of Health. Connecting for Health was fully submitted to the OGC’s process of gateway rating and was given a green rating virtually every time. The hon. Gentleman also talked about escalating costs, but every time that the programme has been examined independently and objectively, it has been acknowledged that, on the whole, the programme is on budget and not in overspend. I would have thought that he would welcome that.
+
+My hon. Friend the Member for Ellesmere Port and Neston (Andrew Miller) talked about the vested interests that sometimes apply when opposition is articulated against the project. He also referred to the motivation of some individuals with a common view about the use of technology to improve public services. That view is out of date. If we truly want to provide responsive, modernised and person-centred public services in a modern world, advanced technology and the sharing of information and data are absolutely crucial.
+
+Paul Farrelly
+I welcome the investment in the NHS, not least because I hope that the Department will sign off on a new £400 million hospital for north Staffordshire in the next few days. However, I have by no means been uncritical of the IT system, and I have followed iSoft along with Ian Griffiths, a former colleague who has investigated its affairs. Does my hon. Friend agree that it is a shame that the contributions from official Opposition Front Benchers were not as thoughtful as that of a Conservative Back Bencher, although he was critical, namely the hon. Member for South Norfolk (Mr. Bacon)?
+
+Mr. Lewis
+I do not agree with my hon. Friend.
+
+The Government have saved and repaired the national health service. However, our challenge is now its transformation. To achieve that, we need to use the full potential of modern scientific and technological advances so that we can make people better and save lives; provide health care closer to patients’ homes in a way that is tailored to individual needs; give patients maximum information, choice and control; empower doctors, nurses and other professionals so that they can offer world-class patient care; and tackle the health inequalities that are an affront to a civilised society. We need advance and progress that are rooted in the Government’s principle that the NHS should be free at the point of use, irrespective of ability to pay, and funded through general taxation. That principle is not negotiable with the Conservative party or any faction in the British Medical Association.
+
+In contrast, the Conservative party uses every opportunity to run down the NHS, its staff, its ethos and its progress. I quote:
+
+“It is time to get rid of this Stalinist system and provide everybody in this country with access to the same level of high-quality health care, when they need it at no huge additional cost.
+
+The way forward is compulsory insurance. It is up to the Conservative Party to think innovatively and radically about a health shake-up that will benefit all.”
+
+That is not the view of one, two, three or four Tory MPs, but of at least 28 Tory MPs known as the Cornerstone group. Perhaps it is not a case of a grammar school in every town but of a private insurance policy for every family. We look forward once again to the smack of firm leadership from the right hon. Member for Witney (Mr. Cameron) in dealing with his colleagues.
+
+I urge the House to reject the motion and support the amendment standing in the name of my right hon. Friend the Prime Minister.
+
+Question put, That the original words stand part of the Question:—
+
+Division 133
+06/06/2007 16:00:00
+The House divided:
+Ayes: 226
+Noes: 282
+Question accordingly negatived.
+
+Question, That the proposed words be there added, put forthwith, pursuant to Standing Order No. 31 (Questions on amendments), and agreed to.
+
+Madam Deputy Speaker forthwith declared the main Question, as amended, to be agreed to.
+
+Resolved,
+
+That this House recognises that a modern IT system is vital for delivering good healthcare; welcomes the NHS IT Programme which provides safer, faster and better healthcare for NHS patients, giving them more choice and control over their care; supports the objectives of modernising medical careers; further supports the aim of connecting over 30,000 GPs in England to almost 300 hospitals and giving patients access to their personal health and care information; congratulates the NHS on having already delivered 93 Picture Archiving and Communications Systems across the country including a 100 per cent. achievement in London, delivering faster results for patients; further congratulates the NHS for sending over 21 million electronic prescriptions so far, reducing inefficiencies and errors; welcomes the fact that over 85 per cent. of all GP practices have used Choose and Book to refer their patients to hospital and that almost 3.8 million Choose and Book bookings have been made so far, allowing patients to choose appointments that are at convenient times to fit in with their lives; and welcomes the news that approximately 1.2 million NHS employees now have access to the new broadband network N3.
+

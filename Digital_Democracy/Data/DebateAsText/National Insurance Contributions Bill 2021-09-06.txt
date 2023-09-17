@@ -1,0 +1,375 @@
+ National Insurance Contributions Bill
+
+Consideration of Bill, not amended in the Public Bill Committee
+
+19:07:00
+
+Madam Deputy Speaker (Dame Rosie Winterton)
+Before we begin debating the new clauses and amendments to the Bill that have been selected, I want to remind the House that the scope of this debate is limited to whether or not the Bill should be altered or added to by any or all of those amendments and new clauses. This is not an opportunity to debate the Bill as a whole or the national insurance fund in general, and still less to discuss how to fund the NHS or adult social care. I expect that the House will have the chance later in the week to hear from Ministers, if and when they have any new policies to announce with regard to what I have talked about.
+
+New Clause 1
+
+Zero-rate contributions for employees of green manufacturing companies
+
+‘(1) This section applies where—
+
+(a) a secondary Class 1 contribution is payable as mentioned in section 6(1)(b) of the 1992 Act in respect of earnings paid in a tax week in respect of an employment,
+
+(b) the green manufacturing condition is met (see section [Green manufacturing condition]), and
+
+(c) the employer (or, if different, the secondary contributor) elects that this section is to apply in relation to the contribution for the purposes of section 9(1) of the 1992 Act instead of section 9(1A) of that Act or section 1 of this Act.
+
+(2) For the purposes of section 9(1) of whichever of the 1992 Acts would otherwise apply—
+
+(a) the relevant percentage in respect of any earnings paid in the tax week up to or at the upper secondary threshold is 0%, and
+
+(b) the relevant percentage in respect of any earnings paid in the tax week above that threshold is the secondary percentage.
+
+(3) The upper secondary threshold (or the prescribed equivalent in relation to earners paid otherwise than weekly) is the amount specified in regulations under section 8.
+
+(4) For the purposes of the 1992 Acts a person is still to be regarded as being liable to pay a secondary Class 1 contribution even if the amount of the contribution is £0 as a result of this section.
+
+(5) The Treasury may by regulations make provision about cases in which subsection (2) is to be treated as applying in relation to contributions payable in respect of a tax week in a given tax year only when—
+
+(a) that tax year has ended, and
+
+(b) all contributions payable in respect of a tax week in that tax year have been paid.’—(Richard Thomson.)
+
+This new clause provides National Insurance contributions relief for businesses engaged in green manufacturing
+
+Brought up, and read the First time.
+
+Richard Thomson (Gordon) (SNP)
+I beg to move, That the clause be read a Second time.
+
+Madam Deputy Speaker (Dame Rosie Winterton)
+With this it will be convenient to discuss the following:
+
+New clause 2—Green manufacturing condition—
+
+‘(1) The green manufacturing condition is that the employer is engaged in the manufacture of products within the categories designated under subsection (2).
+
+(2) For the purposes of subsection (1), the Secretary of State must by regulations designate categories of products that in the opinion of the Secretary of State are manufactured with the aim of increasing environmental standards.
+
+(3) The categories of products designated must include—
+
+(a) wind turbines, and
+
+(b) electric vehicles.’
+
+This new clause is linked to NC1.
+
+New clause 3—Scottish Government Covid payments: exemption from primary Class 1 contributions—
+
+‘(1) A primary Class 1 contribution is not to be payable in respect of any Scottish Government Covid payment.
+
+(2) For the purposes of subsection (1), a “Scottish Government Covid payment” means a payment of £500 pro rata to any NHS Scotland or social care worker in accordance with the announcement made by the Scottish Government on 30 November 2020.’
+
+This new clause provides exemptions for Scottish Government Covid payments to NHS Scotland and social care workers.
+
+New clause 4—Employment allowance for national insurance contributions—
+
+‘(1) In section 1(2)(a)(1) of the National Insurance Contributions Act 2014 (employment allowance for national insurance contributions), for “£4,000” substitute “£16,000”.
+
+(2) The provisions of subsection (1) will remain in force until 30 September 2023 and will then expire unless continued in force by an order under subsection (3).
+
+(3) The Chancellor of the Exchequer may by order made by statutory instrument provide that the provisions which are in force will continue in force for a period not exceeding two years from the coming into operation of the order.
+
+(4) No order will be made under subsection (3) unless a draft of the order has been laid before and approved by a resolution of both Houses of Parliament.
+
+(5) The Chancellor of the Exchequer must lay before Parliament a review of the effects of the provisions in subsection (1) on employment, the performance of small businesses and GDP growth no later than 30 September 2023.’
+
+This new clause would quadruple the employment allowance from £4,000 to £16,000 for two years. At the end of the period, the Chancellor of the Exchequer would be required to assess its effects and would be able to seek parliamentary approval for the policy to continue for up to a further two years.
+
+Amendment 1, in clause 2, page 2, line 26, at end insert—
+
+“(e) the employer pays, as a minimum, a living wage to all staff it employs, and
+
+(f) the businesses operating in the freeport in which the employer has business premises have collectively—
+
+(i) put in place a strategy setting out how the freeport will contribute to the target for net UK emissions of greenhouse gases in 2050 as set out in the Climate Change Act 2008 as amended by the Climate Change Act (2050 Target Amendment) Order 2019,
+
+(ii) put in place a strategy setting out how the businesses will ensure that no goods passing through the freeport are the products of slave labour, and
+
+(iii) carried out an environmental impact assessment of the operation of the freeport.”
+
+This amendment provides conditions to businesses in freeports. These include a strategy on how the freeport will contribute to the target for net UK greenhouse gases emissions, a strategy ensuring no goods passing through the freeport are products of slave labour, and an environmental impact assessment of the freeport.
+
+Amendment 2, page 3, line 11, at end insert—
+
+‘(4A) For the purposes of subsection (1)(e), the living wage per hour—
+
+(a) for the financial year 2021-22 is—
+
+(i) £9.50 outside of London, and
+
+(ii) £10.85 inside London; and
+
+(b) for each year after the financial year 2021-22 is to be determined by the Living Wage Foundation.’
+
+This amendment defines the living wage, payment of which is one of the conditions businesses would have to meet under Amendment 1.
+
+Government amendment 3.
+
+Richard Thomson
+I rise to support amendments 1 and 2 and new clauses 1 to 3 in my name.
+
+I went over the reasoning for these amendments in some detail on Second Reading and in Committee, so I am sure the House will be relieved to hear that I do not intend to go into quite that level of detail again. The arguments I made then still stand, that the Government should not forgo tax revenues or give advantages to some businesses that are not available to others in terms of national insurance exemptions without securing meaningful commitments in return and in advance.
+
+For that reason, we believe reciprocal benefits should be baked in from the start, both in the strategic economic objectives that we presume are being sought and in ensuring the very best employer behaviour, so that we are incentivising the kind of corporate behaviour that we want to see and encouraging future manufacturing to develop in that way.
+
+We particularly wish to see greenports evolve—greenports are the Scottish Government’s model for freeports—to help tackle the climate crisis and to ensure the protection of workers’ rights. SNP amendments 1 and 2 would help to ensure that freeports and greenports do not end up contributing to a race to the bottom on workers’ rights and broader standards.
+
+New clauses 1 and 2 get to the heart of the matter, by ensuring that employers within the designated freeports pay, as a minimum, a living wage to all staff they employ; by setting out how businesses can ensure that no goods passing through freeports are in any way the product of, or have benefited from the contribution of, slave labour; by setting out how freeports can contribute towards achieving legally binding climate change commitments; and by ensuring that the environmental impact of freeports is properly considered in each case, so that they can be seen as an exemplar, rather than simply being compliant with existing legislation.
+
+We believe firmly that if national insurance exemptions are to be made available, they should be for enterprises that are helping us to transition towards a low-carbon economy. In those new clauses, we have specified two categories of manufacture—wind turbines and electric vehicles—that we consider should be covered. The opportunity is inherent within new clause 2 for the Secretary of State to designate a much wider range of products that also can contribute towards that objective.
+
+We have a choice here: we can grant these incentives and hope—this depends on one’s political taste—that we let 1,000 flowers bloom or that the invisible hand of the market will somehow deliver the economic and social objectives being sought; or, with some judicious framing of the Bill, we can help to increase the likelihood of achieving a set of positive outcomes from those objectives.
+
+Kevin Hollinrake (Thirsk and Malton) (Con)
+I understand the purpose behind the new clause, but new clause 1 refers to “green manufacturing companies”, whereas new clause 2 talks about manufacturing products that “include” wind turbines and electric vehicles. So could those companies not undertake all kinds of very polluting activities within their business but still qualify for the exemption for all their employees if they make some wind turbines and electric vehicles? That is how this seems to be drafted.
+
+Richard Thomson
+I thank the hon. Gentleman for that intervention, but I do not believe that is the outcome. If we are looking to incentivise, these are a substantial set of incentives, and they have to be for the promotion of what I have described. A phrase that may be familiar in his Thirsk and Malton constituency is, “You shouldn’t get owt for nowt”. That is simply the intention here: to make sure we are getting these objectives that are being sought.
+
+Kevin Hollinrake
+They say that the road to hell is paved with good intentions. The intention may be something different, but the way the new clauses are drafted and the fact that new clause 2 says “include” means that so long as a company does some of those things, it could burn coal to produce electricity and still qualify under the new clause. That is the position as far as I can ascertain, but the hon. Gentleman may be able to explain the difference.
+
+Richard Thomson
+As I say, the hon. Gentleman and I will have to agree to disagree on that. If the Minister or the Government do not believe the new clause can meet the objectives in the way I have set out, it is open to them to try to achieve those objectives in some other way. I have no huge expectation of this new clause making it into the Bill, but the intention is clear, the new clause is clear and the Government should be using this incentive to drive exactly the sort of outcome I have set out.
+
+On new clause 3, the Scottish Government are to be commended for the way in which they have sought to recognise the contribution of our health and social care heroes and how they have responded magnificently throughout the pandemic. It remains a source of great disappointment that the UK Government have not followed suit or supported that by allowing one-off payments to be made free of tax and national insurance, instead treating them as a top-up to wages rather than as a bonus. Rather than having the Scottish Government gross up those payments, as the Minister has previously argued should happen, surely it would be better if the UK Government were simply to exempt the payments from NI. I am certain that if that power was devolved to the Scottish Government to exercise, that is exactly what the Scottish Government would do. This shows the limitations of the current devolved fiscal settlement and the requirement to operate within what are, in essence, fixed budgets, which would make it impossible for the Scottish Government to make those payments net without impacting on other spending lines.
+
+19:15:00
+
+That sets out clearly the intentions of our provisions. As I say, I do not intend to go on overly long about them, but they are worthy of support. I have no huge expectation that the Government will change their mind, having listened to those arguments and rejected them at previous stages. Nevertheless, they are important arguments of principle as to what we should be trying to get out of this to match the good intentions, which are clearly there on freeports, in order to achieve positive social and economic outcomes.
+
+As a final plea, I encourage the Minister, once again, as I have at previous stages, to ensure that the UK Government are working at all stages with the Scottish Government to make sure that we can bring forward a form of freeports in Scotland that meets these objectives.
+
+Sarah Olney (Richmond Park) (LD)
+I rise to speak to my new clause 4, which would quadruple the employment allowance from £4,000 to £16,000 for two years. I tabled it for several reasons. The Government’s Bill rightly identifies that changes to national insurance contributions for both employees and employers have a role to play in stimulating economic activity. That is why they wish to have special NI provisions for freeports and, elsewhere in the Bill, for veterans, to help them back into work and stimulate economic activity in freeports. Interestingly, the Government are indicating in this Bill that they see a role that national insurance contributions can play in stimulating economic activity. I will not labour the point, because Madam Deputy Speaker has made the rules clear on that, but we expect to see further announcements later in the week on NICs, which I think will contradict what this Bill is seeking to do.
+
+NICs have an important role to play in stimulating economic activity, and I wish to speak particularly about our small and medium-sized enterprises. So many of them have been hit badly by the pandemic, especially those in our retail, hospitality and tourism sectors. One thing that many of us here can agree on is that as we come out of the pandemic we expect to see some big changes to the way business operates. We expect possibly to see more online working and more working from home, and we may well see new businesses come in to replace old businesses that did not survive the pandemic to deliver the new services that will support new ways of working and perhaps new ways of living. People will live further away from town centres. What new opportunities will there be in suburban constituencies such as mine, and even rural constituencies, to deliver services for people who would not previously have spent as much time there? So this is an interesting time, but I believe the Government should, above all, be prioritising economic growth and most particularly employment at this stage.
+
+Mike Wood (Dudley South) (Con)
+What assessment has the hon. Lady made of the cost to the Exchequer of her new clause?
+
+Sarah Olney
+I have not made an assessment of the cost, but that is partly because it would be difficult to manage that against the extent to which my proposal could, as I said just a minute ago, stimulate the economy, which is what we should prioritise at this time, particularly for small and medium-sized enterprises. If we can, we should stimulate SME growth, particularly in new sectors that may well benefit from changes in the way we do business in this country. The hon. Member for Gordon (Richard Thomson) commented in particular on businesses that pursue carbon-free ways to deliver goods and services, which are such a priority. These are big areas for growth and we should be pursuing them.
+
+In particular, we should support employment in new industries. In the past few weeks we have seen a great deal about skills shortages. We really need to improve skills development in existing industries—we have seen massive skills shortages in respect of drivers of heavy goods vehicle and care workers—but there are also lots of opportunities in the new industries and particularly in the green economy. We really need to support employment and encourage people to develop the skills they need to take their place in what I think will be the new, future economy.
+
+Mike Wood
+rose—
+
+Sarah Olney
+I would like to make some progress, if that is okay.
+
+We should at this time pursue economic growth and job creation above all other concerns, because we face an uncertain few months in our economy. We could face a wave of closures and redundancies as the various support schemes that the Government introduced to get us through the pandemic come to an end. There could well be lots of redundancies as the furlough scheme closes. Business rates exemptions and deferred VAT payments are coming to an end, so if we can reduce the pressure on businesses by relieving them of some of their national insurance payments, that will help them to ride out the coming period when they will need to repay some of the costs. VAT on hospitality is going back to 12.5% from the end of this month. All such financial pressures are coming at a time when we think prices will rise and the universal credit cut may well hit household incomes and supress demand.
+
+I propose new clause 4 because instead of a selected NICs cut for companies in freeports, I would prefer that we target the cut at SMEs, at this urgent time when we want to stimulate economic growth and support employment.
+
+James Murray (Ealing North) (Lab/Co-op)
+I am grateful for the opportunity to speak on Report on behalf of the Opposition. As we have made clear throughout the passage of this legislation through the House, we will not oppose the Bill. We have, however, used the opportunity of the debates we have had so far to raise important questions with Ministers about some of the approaches they have decided to take.
+
+As we know, clauses 1 to 5 introduce a new zero rate of secondary class 1 national insurance contributions for employers who take on employees in a freeport. The zero rate will apply from April 2022 and allow employers to claim relief on the earnings of eligible employees of up to £25,000 per year for three years. Clauses 6 and 7 also introduce a new zero rate of secondary class 1 national insurance contributions, in this case for employers of armed forces veterans.
+
+Madam Deputy Speaker (Dame Rosie Winterton)
+Order. It is important to address the amendments before the House at this point. We will have the Third Reading debate later.
+
+James Murray
+Thank you, Madam Deputy Speaker. I shall briefly address the amendments we have been discussing as they relate to veterans’ employers’ national insurance relief. As we made clear on Second Reading and in Committee, this is a vital issue. Veterans deserve the Government’s full support as they seek civilian employment after their service to our country. The Minister may remember that on Second Reading and in Committee I asked him and his colleagues to explain why the employers’ relief for veterans is for 12 months—much less than the three years of relief for employers in freeports that the Bill also introduces.
+
+Mike Wood
+I wonder whether the shadow Minister could help me: which amendment is he currently speaking to that addresses employers’ relief for veterans?
+
+James Murray
+If the House would rather I did not address the issue of veterans’ employers’ relief, I am happy to move on, but it is an important one to address. I would welcome your guidance, Mr Deputy Speaker.
+
+Mr Deputy Speaker (Mr Nigel Evans)
+We are considering just the amendments before the House. You will have an opportunity to talk much more widely on the whole Bill when we come to Third Reading, which will follow immediately after the votes.
+
+James Murray
+Thank you for that clarification, Mr Deputy Speaker. In that case, let me decide where in my speech to pick up. Forgive me for the slight procedural difficulty—if it is okay, I shall reserve my right to speak later.
+
+The Financial Secretary to the Treasury (Jesse Norman)
+I am sorry that the hon. Member for Ealing North (James Murray) was not able to revisit his greatest hits from Committee or other previous stages of the Bill, but unfortunately he is required to speak to the new clauses and amendments before us, which is what I will do.
+
+The Scottish National party has tabled new clauses that would create a new zero rate of secondary class 1 NICs for employers classed as “green manufacturing companies”, including those that produce wind turbines and electric vehicles. As the House will know, the Government take support for the green economy extremely seriously. For example, since 2013 the Government have provided £150 million per annum to the Aerospace Technology Institute—investment match-funded by industry—including £84.6 million of investment to develop zero-emission flights and further support for other potential zero-emission aircraft concepts.
+
+In addition, the Government are to spend nearly £500 million in the next four years to support the UK’s electric vehicle manufacturing industry as part of our commitment to provide up to £1 billion for the development and mass production of electric vehicle batteries and the associated supply chains. The funding is available UK-wide and will boost investment in the UK’s strong manufacturing base.
+
+Of course, the Government have also stated their ambition to deploy 40 GW of offshore wind capacity by 2030, alongside a commitment to invest £160 million in ports and manufacturing infrastructure. The goal of that investment will be to encourage up to £20 billion of much-needed private investment in coastal areas and to support up to 60,000 green manufacturing jobs by 2030. The Government’s commitment to support green manufacturing is therefore quite clear.
+
+Unfortunately, new clause 1 would introduce a major change to the tax system of a magnitude that would require the careful consideration of costs and benefits and, in fact, goes far beyond what should be included via amendment in a Bill such as this one. The design of a sector-focused tax relief is not straightforward and would add complexity to the tax system. By contrast, there has been no consultation on, costing of or impact assessment made in relation to the measure proposed in new clause 1. For those reasons, I urge the House to reject it.
+
+On new clause 3, covid-19 has proven to be the biggest health and economic threat faced by the UK in decades. Key workers, including NHS staff and social care workers, have done extraordinary things, as the House recognises, to keep the public safe in the continuing fight against the virus. For their part, the Government hugely value and appreciate such important contributions to the covid-19 response. However, as I will explain, the Government do not believe that the new clause is appropriate or necessary. Under long-standing rules, any payments made in connection with an employment incur income tax and national insurance contributions. Such payments also count as income for the purposes of calculating entitlement to certain benefits.
+
+Jim Shannon (Strangford) (DUP)
+In Northern Ireland, we have done something just a wee bit different. It is a £500 bonus, and if the 20% of tax and the national insurance at 12% are added in, that means that the Northern Ireland Executive is paying £735 per individual. Is the Minister aware of that, and would he replicate it in the rest of the UK?
+
+Jesse Norman
+I think the hon. Gentleman knows that the £500 payment has been offered across devolved Administrations. It is important that he has made that point, and I recognise it, but that does not really affect the point at issue in relation to the new clause, which is about the £500 payments that the Scottish Government are making to health and social care workers, which they are using to function as a top-up to wages. We therefore consider that these payments are taxable as earnings under the normal rules.
+
+19:30:00
+
+I will also, if I may, highlight the fact that the UK Government have provided more than £5.9 billion of additional funding for the Scottish Government this year through the Barnett formula. If the Scottish Government had intended health and social care workers to benefit by at least £500, they were entirely free to gross up the payments perhaps to £735, as has been done in Wales, in order to take into account the tax and NICs liabilities. Indeed, the Scottish Government remain able to do so if they really believe that the higher figure is appropriate.
+
+New clause 4 has been proposed by the Liberal Democrats and would increase the employment allowance from £4,000 to £16,000 for two years and would also require the Chancellor of the Exchequer to lay before Parliament a review of the effect of this policy on employment, on the performance of small businesses, and on GDP growth by September 2023. Very surprisingly for a Liberal Democrat amendment, there is no mention on how this increase would be paid for. Such a policy change would be expensive and unnecessary. The Government have already taken significant actions to support small businesses through the employment allowance in its current form. In fact, businesses and charities up and down this country have benefited from the allowance since it was introduced in 2014. As a result, more than 1 million employers are reducing their annual national insurance contributions bills, and around 650,000 have been taken out of NICs altogether.
+
+The new clause talks about further increasing the allowance. On that point, let me remind the House that the Government only recently raised the allowance from £3,000 to £4,000 in April of last year in order to help small businesses and boost employment levels. Members should also not forget the NICs reliefs that have been included elsewhere in this Bill. There is also the question of affordability. The current cost of the employment allowance is estimated to stand at around £2.3 billion a year. There is significant support for businesses within the NICs system already. Increasing the employment allowance in this way would be an extremely costly use of taxpayers’ money and, again, a measure wholly out of keeping with the Report stage of this Bill, let alone that it is not consulted on, costed, or accompanied by any impact assessment. For all those reasons, the new clause should be resisted.
+
+The SNP has already tabled amendments, but not spoken to them, in respect of clause 2, which places additional eligibility criteria on freeports in relation to employment rights, equalities and the environment. [Interruption.] I am sorry, the hon. Member for Gordon (Richard Thomson) has spoken to them. These criteria would add complexity and potential delay. By singling out freeports for these measures, they would also be burdening an important source of business growth. Let us take greenhouse gas emissions for example. The Government are already committed to reducing carbon emissions. That is why this country became the first major economy to implement a legally binding net zero greenhouse gas emissions target by 2050. That target is reflected in the UK’s high regulatory standards—standards that apply across the economy including for businesses operating in freeports. Indeed, the bidding prospectus for freeports in England embedded net zero ambitions as part of the assessment of bids.
+
+As regards amendment 1 on the living wage, the Government are already committed to supporting that in employment, which is precisely why they introduced the national living wage in 2016. It is of course vital to ensure that no goods passing through freeports are the product of slave labour. Slavery is a global problem, which is why employers in freeports will need to meet the same high regulatory standards on slave labour as other businesses in the UK. For all these reasons, I urge the House to resist this amendment.
+
+Finally, I turn to Government amendment 3. The policy intent here is that the veterans’ measure should apply to the whole United Kingdom. This amendment corrects a small drafting error by replacing reference to the Social Security Contributions and Benefits Act 1992 with a reference to that Act and the Social Security Contributions and Benefits (Northern Ireland) Act 1992, reflecting the original policy intent. I trust that Members will agree that this is a minor and technical amendment and should be included as part of the Bill.
+
+Mr Deputy Speaker (Mr Nigel Evans)
+Mr Thomson, do you intend to withdraw new clause 1?
+
+Richard Thomson
+I beg to ask leave to withdraw the motion clause.
+
+Clause, by leave, withdrawn.
+
+New Clause 4
+
+Employment allowance for national insurance contributions
+
+‘(1) In section 1(2)(a)(1) of the National Insurance Contributions Act 2014 (employment allowance for national insurance contributions), for “£4,000” substitute “£16,000”.
+
+(2) The provisions of subsection (1) will remain in force until 30 September 2023 and will then expire unless continued in force by an order under subsection (3).
+
+(3) The Chancellor of the Exchequer may by order made by statutory instrument provide that the provisions which are in force will continue in force for a period not exceeding two years from the coming into operation of the order.
+
+(4) No order will be made under subsection (3) unless a draft of the order has been laid before and approved by a resolution of both Houses of Parliament.
+
+(5) The Chancellor of the Exchequer must lay before Parliament a review of the effects of the provisions in subsection (1) on employment, the performance of small businesses and GDP growth no later than 30 September 2023.”—(Sarah Olney.)
+
+This new clause would quadruple the employment allowance from £4,000 to £16,000 for two years. At the end of the period, the Chancellor of the Exchequer would be required to assess its effects and would be able to seek parliamentary approval for the policy to continue for up to a further two years.
+
+Brought up, and read the First time.
+
+Question put, That the clause be read a Second time:—
+
+Division 59
+06/09/2021 19:34:00
+The House divided:
+Ayes: 15
+Noes: 309
+Question accordingly negatived.
+
+Mr Deputy Speaker (Mr Nigel Evans)
+It is good to get the voting back to normal, isn’t it? [Hon. Members: “Hear, hear.”] We have missed it.
+
+Clause 6
+
+Zero-rate contributions for armed forces veterans
+
+Amendment made: 3, page 4, line 25, leave out “the 1992 Act” and insert
+
+“whichever of the 1992 Acts would otherwise apply”.—(Jesse Norman.)
+
+This amendment corrects an error by replacing a reference to the Social Security Contributions and Benefits Act 1992 with a reference to that Act and the Social Security Contributions and Benefits (Northern Ireland) Act 1992.
+
+Third Reading
+
+19:48:00
+
+Jesse Norman
+I beg to move, That the Bill be now read the Third time.
+
+Mr Deputy Speaker, I must say that I too am delighted that this Bill has been the occasion for our return to proper voting procedures in this House.
+
+I am very grateful to all hon. and right hon. Members who have participated in the passage of this legislation, particularly in Committee. I also thank the Committee’s Chairs, my right hon. Friend the Member for Romsey and Southampton North (Caroline Nokes) and the hon. Member for Makerfield (Yvonne Fovargue), for helping the Committee to take the Bill through its scrutiny so effectively.
+
+I begin by reminding the House of the Bill’s provisions and overarching goals. It contains four measures: an employer NICs relief for employees in freeports; an employer NICs relief for employers of veterans; an exemption for Test and Trace support payments from self-employed NICs; and changes to disclosure of tax avoidance schemes legislation with regard to NICs. In addition to those measures, the Government tabled a minor technical amendment to ensure that the policy intent is met in the Bill.
+
+As you will be aware from your intimate scrutiny of the Bill, Mr Deputy Speaker, the employer NICs relief applies to employees in freeports. The measure will support the delivery of the Government’s freeports programme. In so doing, it will help to attract new businesses to freeports and regenerate communities by creating jobs, boosting investment and spreading prosperity. It is the Government’s intention to designate freeports in all four devolved nations. Therefore, while the legislation currently provides for a relief in England, Wales and Scotland, it is the Government’s intention to legislate for this relief in Northern Ireland as soon as it is practicable. In fact, the Bill gives the Government the power to set out the detail of the employer NICs relief in Northern Ireland in secondary legislation once engagement with the Northern Ireland Executive is complete.
+
+Secondly, the Bill contains an employer NICs relief for employers of veterans. I do not need to tell you, Mr Deputy Speaker, that our veterans provide an extraordinary national service, as recent events have reminded us, but we know that some of them face difficulties in obtaining secure and fulfilling employment. It is only right that we do all we can to change this situation. This measure provides full employer NICs relief on earnings up to £50,270 in a veteran’s first full year of civilian employment. It amounts to a saving of up to £5,500 per hired veteran and it will constitute a real boost to their employment prospects.
+
+Thirdly, there is the exemption for test and trace support payments for self-employed NICs. As Members will recall, and as we have recapitulated already, last September the Government announced a £500 support payment for low-income individuals told to self-isolate but who could not work from home and would lose income as a result. Shortly afterwards, the Scottish and Welsh Governments announced similar schemes. Last year we introduced regulations to exempt payments under support schemes from employee and employer class 1 and class 1A NICs. This Bill will extend the exemption to the self-employed. It will ensure that these workers are treated consistently with their employed counterparts and that they do not have to pay NICs on support payments. It will retrospectively exempt test and trace support payments from class 2 and class 4 NICs to the 2021-22 tax year and it will ensure that in future these test and trace support payments will not be included in profits liable to class 2 and class 4 NICs.
+
+Finally, the Bill includes a measure that makes changes to the disclosure of tax avoidance schemes regime for NICs. Legislation in the Finance Act 2021 enhanced the operation of the DOTAS regime, and the Bill includes changes to an existing regulation-making power in the Social Security Administration Act 1992. This will ensure that HMRC can act decisively when promoters fail to provide information on suspected avoidance schemes. It will also enable HMRC to warn taxpayers about suspected avoidance schemes at an earlier stage than at present.
+
+As I have outlined, this Bill contains a range of relatively small yet significant measures that will advance this Government’s policy objectives. It supports the levelling-up agenda and regional growth, it boosts the prospects of our armed services veterans, and it strengthens the Government’s powers to tackle promoters of avoidance schemes. I reiterate my very strong and sincere thanks to Members who have engaged in the series of stimulating discussions and debates that we have had on these measures over the past few weeks. On that note, I commend the Bill to the House.
+
+19:52:00
+
+James Murray
+I am grateful for the opportunity to speak on this Bill’s Third Reading on behalf of the Opposition. As I have made clear several times, we are not going to oppose the Bill, but we have used the various debates on it to raise important questions about some of the approaches that Ministers have decided to take. I would like to use the opportunity of Third Reading to reiterate some of the sticking points where we do not feel that we have had enough clarity.
+
+I spoke earlier about clauses 1 to 5 and then moved on to discuss clauses 6 and 7, which introduce a new zero rate of secondary class 1 national insurance contributions for the employers of armed forces veterans. As I made clear on Second Reading and in Committee, we believe that this is a vital issue. Veterans deserve the Government’s full support as they seek civilian employment after their service to our country. Other Members may remember that both on Second Reading and in Committee I asked the Minister and his colleagues to explain why the employers’ relief for veterans is for 12 months—much less than the relief for employers in freeports, also introduced by the Bill, which is three years.
+
+In Committee, I made it clear that I felt that the Exchequer Secretary’s response during Second Reading had failed to address my question about why the Government had chosen to make veterans’ employers’ relief available for only one year. The Financial Secretary responded by expanding on the Government’s position. In relation to the relief for freeport employers, he said that the intention was
+
+“to create circumstances in which they can have long-term secure employment, in particular with all the employment rights that come with more durable employment.”––[Official Report, National Insurance Contributions Public Bill Committee, 22 June 2021; c. 18.]
+
+At another point in Committee, the Minister said about the Government’s plans for freeport employers:
+
+“The way in which this measure has been structured is focused towards longer-term employment, as the relief runs for three years…From that point of view, it reflects a commitment by the Government to create high-quality and stable longer-term employment.”––[Official Report, National Insurance Contributions Public Bill Committee, 22 June 2021; c. 6.]
+
+What my colleagues and I find hard to understand is why the Government, despite what the Minister has said throughout the passage of the Bill, do not seem to want to design a system for veterans that both supports transition into civilian life and, at the same time, like the scheme in freeports, seeks to create long-term employment with employment rights.
+
+Sir Mike Penning (Hemel Hempstead) (Con)
+I am sorry that I was not party to those discussions, but perhaps I can contribute as an ex-serviceman and a former armed services Minister. It is in the first 12 months out of the armed forces when a serviceman finds themselves in a completely different arena. I understand this. In my first six months, I re-joined the armed forces because I could not settle and I could not find the right sort of employment. That was the sort of help our veterans needed then and that is exactly what this part of the Bill does today.
+
+James Murray
+I thank the right hon. Gentleman for his intervention and for adding to the debate. I certainly recognise what he says about the importance of supporting veterans into civilian employment in the first six months and the first year. The question from the Opposition to which we did not have a satisfactory response is why, in addition to that, there is not a consideration or an option of support for long-term durable employment with employment rights. As that point was made several times by the Minister in relation to the relief for employers in freeports, why does the same support for longer-term employment not apply to veterans as well?
+
+During discussions in Committee, the Minister pointed to a consultation with interested parties about how to design the scheme and mentioned how different parties had been “well sighted” on the options, so I looked at the Government’s consultation to understand what different parties had said. I was expecting to see questions about the length of the relief and whether 12 months or longer would be appropriate, but all I could find was a statement saying:
+
+“The Government has announced that this relief will be available for the first 12 months of a veteran’s civilian employment.”
+
+There did not seem to be any option or question about whether a longer relief would be appropriate.
+
+Moving on to other measures we debated during the passage of the Bill, clause 10 provides a national insurance contributions exemption for payments made under a self-isolation support scheme. As we have heard, that ensures that these payments are not taken into account for the purposes of computing profits liable to class 4 NICs or for the purposes of class 2 NICs. As I set out on Second Reading and in Committee, we welcome this exemption from national insurance contributions for payments made under a self-isolation support scheme. It is crucial that people who need support to self-isolate receive it, so we welcome any steps that make the system for self-isolation payments more effective and less subject to administrative burden.
+
+The Minister may recall that during the debate in Committee there was a brief discussion about why the exemption for class 2 and class 4 contributions was not implemented earlier. We discussed the comments that the Exchequer Secretary made on that point on Second Reading, and in Committee I asked the Minister to confirm exactly when the Treasury announced, by way of ministerial statement or other appropriate means, that the exemption for national insurance contributions would be extended to class 2 and class 4 contributions for payments made under a self-isolation support scheme. The Minister responded by saying:
+
+“I do not have the date that he describes at hand, and I am happy to write to him on that.”––[Official Report, National Insurance Contributions Public Bill Committee, 22 June 2021; c. 22.]
+
+I am sure he will forgive me if I have missed his letter on this matter, but my office and I cannot find a record of its having been received, so perhaps he could write to me this week, for the first time or again, to confirm that point.
+
+We also debated clause 11, which widens existing regulation-making powers so that regulations can be made for national insurance to mirror the amendments to the disclosure of tax avoidance schemes procedures—DOTAS—that are included in the Finance Act 2021. As I made clear in earlier debates, we welcome any measures that help HMRC to tackle tax avoidance. In earlier debates I also took the opportunity to draw Ministers’ attention to a point made by the Chartered Institute of Taxation: that it believes there is a hard core of between 20 and 30 promoters of tax avoidance schemes, identified by HMRC, who clearly do not play by the rules. I asked the Minister whether he recognised this number, and, as he may recall, welcomed his confirmation that HMRC recognises the number of 20 to 30 hardcore promoters. He said, however, that he did
+
+“not think that it would be prudent to make an estimate or assessment of what the appropriate number of promoters is or could be.”
+
+It is therefore important that we have a better understanding of what progress we have actually made. The Minister said that
+
+“over the past six years, more than 20 promoters have left the market.”––[Official Report, National Insurance Contributions Public Bill Committee, 22 June 2021; c. 24.]
+
+However, he did not sign up to a commitment or a target for the coming years. I would welcome him writing to me in the coming days to explain what the number of hardcore promoters was six years ago, so that I can understand whether those who have left the market have been replaced by new promoters.
+
+Finally, to conclude—I am very conscious, Mr Deputy Speaker, of your and Madam Deputy Speaker’s steer about what not to focus on in this debate—it is frustrating to rely only on newspaper briefings to know what is going on. I had hoped, as the Treasury Minister is the first to address the House of Commons since we first heard that the Government might be considering a national insurance rise, that we could have heard the position from him directly today. I leave the thought in his head that we would like to know why the Government’s plan for social care is one that hits hardest low earners, young people and businesses creating new jobs.
+
+20:00:00
+
+Richard Thomson (Gordon) (SNP)
+On Third Reading, allow me to place on record, as I believe is customary, my grateful thanks to the Clerks for their support throughout and my thanks to my party’s researchers, Scott Taylor and, in particular, Salma Saade, for the assistance they have given me throughout the passage and scrutiny of this Bill.
+
+This Bill could have done a great deal more, and we regret very much that it does not. There is some irony, as the hon. Member for Ealing North (James Murray) said from the Opposition Front Bench, that while there is a discussion raging outside this House about national insurance, that is not what we have been touching on in the debate this evening. We should recognise that national insurance is a tax that affects the young and the lowest paid disproportionately. Exemptions that are targeted effectively, as I have tried to draw out through the passage of the Bill, can achieve much, but blanket increases simply increase and exacerbate existing inequalities in our society. It is not a burden for the Minister to carry solely by himself, but I hope very much that in the coming hours and days the Government will reflect carefully on that.
+
+In drawing my remarks to a close, I thank the Minister for his engagement throughout. I hope that that engagement continues with the Scottish Government as we proceed to deliver the outcomes that this Bill on its own perhaps now will not.
+
+20:01:00
+
+Jim Shannon (Strangford) (DUP)
+First, I put on record my thanks to the Minister and the Government for bringing forward the Bill. It is good to see the finished article. On behalf of my party, and given where we stand and what we want to put forward, may I say that we were very happy to support the Government tonight.
+
+I will make a couple of very quick comments. The Minister and I had an exchange earlier about new clause 3, but I was dismayed and shocked to hear from a Marie Curie nurse that her covid thanks package was subject to tax and national insurance. The central office was administering that in Scotland. In Northern Ireland, we understood that the bonus was an income, yet the Northern Ireland Executive made the decision to make payments of up to £735 an individual. That meant that those who qualify for the full award, which many do, pay tax at 20% and national insurance at 12% and still receive approximately £500 in their pay packet at the end of the month. We very clearly made that decision, and I think the Government have recognised that, because it is a recognition that these public service staff deserve a substantial boost and need it.
+
+I very much welcome the Minister’s comments about freeports. I know that the final decision lies with the Northern Ireland Assembly, and he has referred to that already. I very much look forward to us in Northern Ireland playing our part and taking advantage of what the Government have brought forward here tonight.
+
+The right hon. Member for Hemel Hempstead (Sir Mike Penning) was right in his intervention that the first 12 months for any veteran are really important, because that is the time they need support most. I am therefore very pleased to see that measure. I also welcome the Minister’s decision to ensure that there is no ambiguity with regard to the Northern Ireland aspect of the Bill, as amendment 3 replaces a reference to the Social Security Contributions and Benefits Act 1992 with a reference to that Act and the Social Security Contributions and Benefits (Northern Ireland) Act 1992.
+
+As I highlighted in my previous contribution on the Bill, it seems that we have to remind Europe almost daily in this House that Northern Ireland is an integral part of the UK. It is determined to treat us as a third nation when it suits for duty free and taxation, but not when it does not suit for representation and European healthcare. If I may, Mr Deputy Speaker, I put on record that this week, my party leader, my right hon. Friend the Member for Lagan Valley (Sir Jeffrey M. Donaldson) will be making a major statement on this issue. I hope that the Government will take note of what we are doing and what we are saying, because it has some effect on the future and where we are in relation to the Northern Ireland protocol.
+
+I believe that the capacity is here to work together for all of the United Kingdom of Great Britain and Northern Ireland. It is always my hope that we do that, and I hope that that is what the Minister has put forward today will do. I look forward to working with the Minister through the Northern Ireland Assembly if that is possible and if it is still in place. We will wait to see what happens.
+
+Question put and agreed to.
+
+Bill accordingly read the Third time and passed.
+

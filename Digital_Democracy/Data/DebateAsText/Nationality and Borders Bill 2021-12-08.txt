@@ -1,0 +1,1305 @@
+ Nationality and Borders Bill
+
+[2nd Allocated Day]
+
+[Relevant documents: Oral evidence taken before the Home Affairs Committee on 17 November 2021, on Channel crossings, migration and asylum-seeking routes through the EU, HC 194; Seventh Report of the Joint Committee on Human Rights, Legislative Scrutiny: Nationality and Borders Bill (Part 1) – Nationality, HC 764 / HL 90; Ninth Report of the Joint Committee on Human Rights, Legislative Scrutiny: Nationality and Borders Bill (Part 3) – Immigration offences and enforcement, HC 885 / HL 112; Letter from the Chair of the Joint Committee on Human Rights to Tom Pursglove MP relating to Part 2 (Asylum) and Part 5 (Modern Slavery) of the Nationality and Borders Bill, HC 588, dated 17 November; Letter from Tom Pursglove MP to the Chair of the Joint Committee on Human Rights relating to Part 2 (Asylum) and Part 5 (Modern Slavery) of the Nationality and Borders Bill, HC 588, dated 25 November.]
+
+Further consideration of Bill, as amended in the Public Bill Committee
+
+New Clause 3
+
+Offence of human trafficking for sexual exploitation
+
+‘(1) A person commits an offence if the person arranges or facilitates the travel of another person (“V”) to the United Kingdom with a view to V being sexually exploited in the United Kingdom.
+
+(2) It is irrelevant whether V consents to the travel (whether V is an adult or a child).
+
+(3) A person may in particular arrange or facilitate V‘s travel to the United Kingdom by recruiting V, transporting or transferring V, harbouring or receiving V, or transferring or exchanging control over V.
+
+(4) A person arranges or facilitates V‘s travel to the United Kingdom with a view to V being sexually exploited in the United Kingdom only if—
+
+(a) the person intends to sexually exploit V in the United Kingdom during or after the travel, or
+
+(b) the person knows or ought to know that another person is likely to sexually exploit V in the United Kingdom during or after the travel.
+
+(5) “Travel” means—
+
+(a) arriving in, or entering, the United Kingdom,
+
+(b) departing from any country outside the United Kingdom in circumstances where the person arranging or facilitating V’s travel intends that the destination will be the United Kingdom.
+
+(6) A person who is a UK national commits an offence under this section regardless of—
+
+(a) where the arranging or facilitating takes place, or
+
+(b) where the travel takes place.
+
+(7) A person who is not a UK national commits an offence under this section if—
+
+(a) any part of the arranging or facilitating takes place in the United Kingdom, or
+
+(b) the travel consists of arrival in or entry into, departure from, or travel within, the United Kingdom.
+
+(8) A person who commits an offence under this section is liable—
+
+(a) on conviction on indictment, to imprisonment for life;
+
+(b) on summary conviction, to imprisonment for a term not exceeding 12 months or a fine or both.’—(Dame Diana Johnson.)
+
+Brought up, and read the First time.
+
+13:00:00
+
+Dame Diana Johnson (Kingston upon Hull North) (Lab)
+I beg to move, That the clause be read a Second time.
+
+Mr Speaker
+With this it will be convenient to discuss the following:
+
+New clause 6—Exemption for child victims of modern slavery, exploitation or trafficking—
+
+‘(1) The Secretary of State may not serve a slavery or trafficking information notice on a person in respect of an incident or incidents which occurred when the person was aged under 18 years.
+
+(2) Section 61 of this Act does not apply in cases where either of the positive reasonable grounds decisions related to an incident or incidents which occurred when the person was aged under 18 years.
+
+(3) Section 62 of this Act does not apply in cases where the positive reasonable grounds decision related to an incident or incidents which occurred when the person was aged under 18 years.
+
+(4) Sections 64(3) and 64(6) of this Act do not apply in cases where the positive conclusive grounds decision related to an incident or incidents which occurred when the person was aged under 18 years.’
+
+This new clause would exempt victims of modern slavery, exploitation or trafficking from many of the provisions in Part 5 of the Bill if they were under 18 when they became a victim.
+
+New clause 30—Victim Navigators—
+
+‘(1) The Secretary of State must, within six months of the date of Royal Assent to this Act, make provisions for each police force in England and Wales to have one or more Independent Victim Navigators to liaise between the relevant police force and potential victims of slavery or human trafficking and to assist in the procurement of specialist advice for both the police force and the potential victim.
+
+(2) Regulations under this section—
+
+(a) shall be made by statutory instrument, and
+
+(b) may not be made unless a draft has been laid before and approved by resolution of each House of Parliament.’
+
+This new clause seeks to introduce provisions for Independent Victim Navigators to be in operation on a national level, acting as a liaison between the police and potential victim of slavery or human trafficking in accessing the appropriate support.
+
+New clause 39—Identified potential victims etc: disqualification from protection—
+
+‘(1) This section applies to the construction and application of Article 13 of the Trafficking Convention.
+
+(2) The competent authority may determine that it is not bound to observe the minimum recovery period under section 60(2) of this Act in respect of a person in relation to whom a positive reasonable grounds decision has been made, if the authority is satisfied that it is prevented from doing so—
+
+(a) as a result of an immediate, genuine, present and serious threat to public order; or
+
+(b) the person is claiming to be a victim of modern slavery improperly.
+
+(3) Any determination made under subsection (2) must only be made—
+
+(a) in exceptional circumstances;
+
+(b) where necessary and proportionate to the threat posed; and
+
+(c) following an assessment of all the circumstances of the case.
+
+(4) A determination made under subsection (2) must not be made where it would breach—
+
+(a) a person’s Human Rights Convention rights;
+
+(b) the United Kingdom’s obligations under the Trafficking Convention; or
+
+(c) the United Kingdom’s obligations under the Refugee Convention.
+
+(5) For the purposes of a determination under subsection 2(b), victim status is being claimed improperly if the person knowingly and dishonestly makes a false statement without good reason, and intends by making the false statement to make a gain for themselves.
+
+(6) A good reason for making a false statement includes, but is not limited to, circumstances where—
+
+(a) the false statement is attributable to the person being or having been a victim of modern slavery; or
+
+(b) where any means of trafficking were used to compel the person into making a false statement.
+
+(7) This section does not apply where the person is under 18.
+
+(8) Nothing in this section shall affect the application of section 60(3) of this Act.’
+
+This new clause is an alternative to clause 62. It ensures that the power currently provided for in clause 62 is exercised in line with the UK’s obligations under Article 13 of the Trafficking Convention. This amendment also protects child victims of modern slavery from disqualification from protection.
+
+New clause 43—Civil legal aid under section 9 of LASPO: add-on services in relation to the national referral mechanism—
+
+‘(1) Part 1 of Schedule 1 to the Legal Aid, Sentencing and Punishment of Offenders Act 2012 (civil legal services qualifying for legal aid) is amended as follows.
+
+(2) After paragraph 32A (Victims of slavery, servitude or forced or compulsory labour) insert—
+
+“Pre-National Referral Mechanism advice
+
+32B (1) Civil legal services provided to an individual in relation to referral into the national referral mechanism and connected immigration advice.
+
+General exclusions
+
+(3) Sub-paragraph (1) is subject to the exclusions in Part 2 of this Schedule.
+
+Specific exclusions
+
+(4) The civil legal services described in sub-paragraph (1) do not include—
+
+(a) advocacy, or
+
+(b) attendance at an interview conducted by the competent authority under the national referral mechanism for the purposes of a reasonable grounds decision or a conclusive grounds decision.
+
+(5) In regulation 5(1) of the Civil Legal Aid (Financial Resources and Payment for Services) Regulations 2013 (S.I. 2013/480) (exceptions from requirement to make a determination in respect of an individual’s financial resources), after paragraph (l), insert—
+
+“(m) civil legal services described in paragraph 32B of Part 1 of Schedule 1 to the Act (Civil legal services provided to an individual in relation to referral into the national referral mechanism).”’
+
+New clause 47—Support and leave to remain for confirmed victims of slavery or human trafficking—
+
+‘This section applies if a positive conclusive grounds decision is made in respect of a person.
+
+(1) This subsection applies if the person has received support under section 50A of the Modern Slavery Act 2015—
+
+(a) assistance and support must be provided for at least 12 months beginning on the day on which support provided under section 50A ends,
+
+(b) where assistance and support is provided to a person under this subsection the Secretary of State must consider whether it is necessary for the victim’s physical, psychological and social recovery or to prevent re-trafficking to provide assistance and support after the end of the period in subsection (2)(a) for as long as they think appropriate,
+
+(c) a decision whether to provide assistance and support in accordance with subsection (2)(b) must be made at least four weeks before the end of the assistance and support provided under subsection (2)(a),
+
+(d) a reference in this subsection to assistance and support has the same meaning as in section 50A(7) of the Modern Slavery Act 2015.
+
+(2) This subsection applies if the person is not a British citizen—
+
+(a) the Secretary of State must give the person leave to remain in the United Kingdom if subsection (2) or (4) or (5) applies,
+
+(b) leave to remain provided under this subsection shall be provided from the day on which the positive conclusive grounds decision is communicated to a person for either—
+
+(i) the amount of time support and assistance will be provided under either subsection (2) or one of the measures listed in subsection (4), or
+
+(ii) at least 12 months if the person meets one or more of the criteria in subsection (5).
+
+(3) This subsection applies if the person receives support and assistance under one of the following—
+
+(a) section 18(9) of the Human Trafficking and Exploitation (Criminal Justice and Support for Victims) Act (Northern Ireland) 2015 (c. 2 (N.I.)),
+
+(b) section 9(3)(c) of the Human Trafficking and Exploitation (Scotland) Act 2015 (asp 12), or
+
+(c) regulation 3(4)(c) of the Human Trafficking and Exploitation (Scotland) Act 2015 (Support for Victims) Regulations 2018 (S.S.I 2018/90).
+
+(4) This subsection applies if the person meets one or more of the following criteria—
+
+(a) leave is necessary due to the person’s circumstances, including but not restricted to—
+
+(i) the needs of that person for safety and protection from harm including protection from re-trafficking,
+
+(ii) the needs of that person for medical and psychological treatment,
+
+(b) the person is participating as a witness in criminal proceedings,
+
+(c) the person is bringing any civil proceedings including pursuing compensation.
+
+(5) Where the person is receiving assistance from a support worker the recommendations of the support worker must be considered in assessing that person’s circumstances under subsection (5)(a).
+
+(6) The Secretary of State must provide for persons granted leave to remain in accordance with this section to have recourse to public funds for the duration of the period of leave.
+
+(7) The Secretary of State must allow a grant of leave to remain under subsection (3) to be extended subject to the requirements of subsection (9).
+
+(8) In determining whether to extend a grant of leave to remain under subsection (8), and the period of time for which such extended leave should be provided, the person’s individual circumstances must be considered, and whether that person—
+
+(a) is receiving on-going support and assistance under the measures set out in either subsection (2) or subsection (4), or
+
+(b) meets one or more of the criteria in subsection (5).
+
+(9) If the Secretary of State is satisfied that the person is a threat to public order—
+
+(a) the Secretary of State is not required to give the person leave under this section, and
+
+(b) if such leave has already been given to the person, it may be revoked.
+
+(10) In this section, if the person is aged below 18 years of age, the best interests of the child must be taken into consideration in accordance with section 55 of the Borders, Citizenship and Immigration Act 2009.
+
+(11) In this section—
+
+“positive conclusive grounds decision” means a decision made by a competent authority that a person is a victim of slavery or human trafficking;
+
+“threat to public order” has the same meaning as subsections (3) to (7) of section 62.
+
+(12) This section is to be treated for the purposes of section 3 of the Immigration Act 1971 as if it were provision made by that Act.’
+
+This new clause would provide new statutory support for victims in England and Wales after a conclusive grounds decisions. It would provide leave to remain for all victims with a positive conclusive grounds decision for at least 12 months to receive support, assist police with their enquiries or seek compensation.
+
+Amendment 127, page 57, line 3 leave out clause 57.
+
+Amendment 128, page 57, line 25 leave out clause 58.
+
+Amendment 5, in clause 58, page 57, line 41, at end insert—
+
+‘(5) The provision of relevant status information identifying a person as a likely victim of human trafficking for sexual services shall constitute a “good reason” for the purposes of this section.’
+
+This amendment would mean that the credibility of victims of human trafficking for sexual services would not be called into question by reason of the late provision of information relating to that fact.
+
+Amendment 6, in clause 58, page 57, line 41, at end insert—
+
+‘(5) Subsection (2) does not apply where the person is a victim of trafficking for the purposes of forced prostitution.
+
+(6) For the purposes of subsection (5) the person may be considered a victim of trafficking for the purposes of forced prostitution if there is evidence that the person—
+
+(a) has been transported from one location to another on a daily basis;
+
+(b) bears signs of physical abuse including but not limited to—
+
+(i) branding;
+
+(ii) bruising;
+
+(iii) scarring;
+
+(iv) burns; or
+
+(v) tattoos indicating gang membership;
+
+(c) lacks access to their own earnings, such as by having no bank account in their own name;
+
+(d) has limited to no English language skills, or only such language skills as pertain to sexualised acts;
+
+(e) lives or stays at the same address as person(s) meeting the criteria in paragraphs (a) to (d);
+
+(f) sleeps in the premises in which they work.’
+
+Under this amendment, late provision of relevant status information would not be taken as damaging the credibility of the person providing the information if that person were a victim of trafficking for the purposes of forced prostitution.
+
+Amendment 7, in clause 59, page 58, line 5, at end insert—
+
+‘(za) at the end of paragraph (a) insert—
+
+“(aa) the sorts of things which indicate that a person may be a victim of human trafficking for sexual services;”.’
+
+This amendment would require the Secretary of State to issue specific guidance on the sorts of things which indicate that a person may be a victim of human trafficking for sexual services.
+
+Government amendments 64 to 69.
+
+Amendment 3, page 59, line 39, leave out clause 62.
+
+This amendment would remove clause 62, which excludes potential modern slavery victims from protection in certain circumstances.
+
+Government amendments 70 to 75.
+
+Amendment 149, page 62, line 18, leave out clause 64.
+
+This amendment is consequential on NC47.
+
+Government amendments 78, 76, 77 and 79 to 83.
+
+Amendment 130, page 63, line 26, leave out clause 65.
+
+This amendment is consequential on NC43.
+
+Amendment 131, page 66, line 1, leave out clause 66.
+
+This amendment is contingent on NC43, Clause 66 would no longer be required if NC43 is agreed to.
+
+Amendment 148, page 66, line 33, leave out clause 67.
+
+Government amendment 84.
+
+Amendment 129, in clause 81, page 79, line 15, at end insert—
+
+‘(6) Part 4 (age assessments) and part 5 (modern slavery) only extend to Scotland to the extent that a motion has been approved by the Scottish Parliament, bringing them into force in Scotland.’
+
+Under this amendment, Parts 4 and 5 of the Bill would not enter into force in Scotland until the Scottish Parliament had given its consent.
+
+Government amendments 85 to 90.
+
+Amendment 16, in clause 82, page 80, line 3, at end insert—
+
+‘(5) Sections [Time limit on immigration detention], [Initial detention: criteria and duration] and [Bail hearings] come into force six months after the day on which this Act is passed.’
+
+This amendment would bring NC15-NC17 into force six months after the day on which the Bill is passed.
+
+Dame Diana Johnson
+I rise to speak to new clause 3, which would put into law a specific offence for trafficking for the purposes of sexual exploitation. We know that serious organised crime networks are deeply involved in this trade in human misery. I thank Kat Banyard at UK Feminista and Tom Farr at CEASE—the Centre to End All Sexual Exploitation—UK, who have helped to draft new clause 3, and the Humber Modern Slavery Partnership at the Wilberforce Institute in Hull for all its help.
+
+Although the Modern Slavery Act 2015 covers exploitation broadly, the catastrophically high number of women and girls trafficked into the UK for the sex industry means that it merits a specific offence. The latest figures from the national referral mechanism show that 60% of women and girls who were identified as potential victims in the past year were trafficked for purposes including sexual exploitation. In 2020, 94 women and 624 girls were trafficked and sexually exploited. These women need specific and targeted protection.
+
+New clause 3 would ensure that the link between human trafficking and sexual exploitation is acknowledged. It would aid efforts to combat the scourge of human trafficking and broader violence against women and girls by providing a framework that would ensure that the authorities respond to individuals who may have been previously viewed as criminals as though they are, in fact, victims of sexual exploitation.
+
+I also want to speak to amendments 5 to 7, which focus on stopping late disclosure affecting credibility and providing guidance to help the relevant authorities to identify victims. Andrew Smith of the Humber Modern Slavery Partnership, an experienced practitioner, told me:
+
+“We know there are various reasons why we might see late disclosure by victims of sexual exploitation and trafficking. Victims may not identify as victims first and foremost, it can be only when a person is removed from the exploitative environment that they understand they were in fact being abused and exploited.”
+
+And yet, the Bill proposes a time limit on disclosure.
+
+The Modern Slavery Policy Unit, co-led by Justice and Care UK and the Centre for Social Justice, stated:
+
+“Presuming late disclosure of modern slavery damages credibility will create barriers to effective identification and engagement with victims.”
+
+The Bill, as it stands, will make identifying and assisting victims of human trafficking more difficult.
+
+Amendment 5 would stop late disclosure affecting the credibility of a claim of being trafficked for the purpose of sexual exploitation. The Home Office’s modern slavery statutory guidance states:
+
+“Victims’ early accounts may be affected by the impact of trauma. This can result in delayed disclosure, difficulty recalling facts, or symptoms of post-traumatic stress disorder. Victims may also be reluctant to self-identify for a number of other reasons that can make understanding their experiences challenging.”
+
+This amendment acknowledges Home Office guidance by ensuring that late disclosure does not damage credibility.
+
+Amendment 6 sets out how a person who makes a late disclosure might be better identified by any relevant authority.
+
+Mrs Theresa May (Maidenhead) (Con)
+I am very interested in what the right hon. Lady is saying. If we are to stop modern slavery, we must ensure that we catch the perpetrators, which requires victims to be able to come forward with evidence. She is outlining certain elements of the Bill that she fears will restrict victims’ ability to come forward, and I am concerned that the public order disqualification threshold and the time period on slavery and trafficking information notices will also have that effect. Does she share my concerns about those aspects and hope that the Minister will address them specifically today?
+
+Dame Diana Johnson
+I thank the right hon. Lady for that intervention and pay tribute to her for, as Home Secretary, bringing in the Modern Slavery Act. I sat on the Bill Committee for that Act and I remember well the debates that we had. She should be very proud of her work on this issue, and I absolutely agree with her comments on what the Bill will lead to.
+
+To return to amendment 6, I want to make it clear that putting these guiding factors in the Bill would provide a deeper understanding for the authorities of what they should be aware of and how to identify victims.
+
+Amendment 7 would require the Secretary of State to issue guidance on the specific factors that may indicate that somebody is a victim of human trafficking for the purposes of sexual exploitation. That would provide a framework for the relevant authorities to refer to when trying to discern the type of exploitation that has taken place.
+
+The Under-Secretary of State for the Home Department, the hon. Member for Corby (Tom Pursglove), argued against these amendments in the Bill Committee, stating that the Government did not want to create a “two-tiered system” based on the exploitation that a victim had faced. I think that is simply wrong. Acknowledging the distinct features of trafficking for the purposes of sexual exploitation, as opposed to, for example, forced labour, would improve the authorities’ response and the ability to prosecute and find the perpetrators. Recognising and identifying difference would not create a hierarchy; rather, it would make the system more effective and accurate. The Minister also stated that delineating between trafficking for sexual exploitation and trafficking for other purposes would motivate individuals to put forward falsified referrals. However, all the evidence shows that victims of trafficking for sexual exploitation need more encouragement to come forward, not less.
+
+Finally, I want to speak in support of new clause 47 and the supporting amendment 149, which was tabled by the right hon. Member for Chingford and Woodford Green (Sir Iain Duncan Smith). He has worked assiduously on protections for victims of human trafficking and modern slavery for many years. The new clause would provide all victims who receive a conclusive grounds decision with 12 months’ leave to remain to either recover, claim compensation or assist the police. The Government need to do more to protect people who have suffered from these horrendous crimes.
+
+Sir Iain Duncan Smith (Chingford and Woodford Green) (Con)
+I am grateful to be called so early in the debate. Mr Speaker. I will speak to my new clause 47, which has been signed by Members on both sides of the House. The aims of the new clause, which the right hon. Member for Kingston upon Hull North (Dame Diana Johnson) kindly referred to, are very simple. It is not a soft option, but a decent and reasonable one that does two things.
+
+First, it deals with the issue of giving people who have gone through the national referral mechanism, who are therefore rightly in the system, longer to be able to settle and to be properly helped and supported. That is a humanitarian position, having already decided that such people have suffered as a result of modern-day slavery. That was the purpose of the Modern Slavery Act, which was brought in by my right hon. Friend the Member for Maidenhead (Mrs May), and this proposal will make that even better as we go forward and learn from it.
+
+The second aspect is very important. The police keep telling us that, if they had more time to help those people to give testimony, we would get many more prosecutions and we would, ironically, shut down more of the ghastly criminal channels that are bringing these people in. This is about being strong in both prosecution and humanitarian terms, and that is the purpose of the new clause. I remind everybody that when the Centre for Social Justice wrote the first big paper about modern-day slavery, my right hon. Friend—we were both in Government at the time—was moved and decent enough to be able to push this point in government and put the legislation through, which meant that we were the first country in the world to acknowledge modern-day slavery and legislate for it. We should be proud of that. It is one of those things on which the British Parliament historically will be spotted for having led the way worldwide. Other Parliaments have followed suit—not all of them, but many have—with their own versions of that legislation.
+
+We should be proud that a Parliament can work to do right by people who have too often been abused. I also remind those here today, and others who may or may not be watching, that the National Crime Agency figures now show that between 6,000 and 8,000 modern slavery offenders are in the UK, but there were just 331 prosecutions in 2020 under the Modern Slavery Act and only 49 convictions. Does that not tell us a story? It tells us that, good as we think we are, we are not winning this battle, and the police know it.
+
+Tahir Ali (Birmingham, Hall Green) (Lab)
+On that point about convictions and the police, does the right hon. Gentleman agree that the police need more resources to tackle and eradicate modern slavery?
+
+Sir Iain Duncan Smith
+I agree, in principle, that if we are to get more prosecutions it is vital that those who are pursuing these characters should be well-funded. Although that is not part of this particular new clause, it is certainly within the wider scope of the Bill.
+
+Jeremy Corbyn (Islington North) (Ind)
+The right hon. Gentleman is making a very strong point. Is it not one of the problems that victims of any kind of slavery are inevitably isolated, frightened and often unable even to leave the property, factory or home where they are working? They do not necessarily know where to go and, if the local police are not attuned to the problem, they get no help there. They are then completely stuck and in a very dangerous and vulnerable situation. Is there not an issue of both police training and convincing local authorities and all other public services that they have to be attuned to the desperation these people face, rather than the danger of prosecution for what could be—
+
+Mr Speaker
+Order. All I can say is that I have the greatest respect for the right hon. Gentleman, and if he wants to speak I have plenty of room on the list. Save your speech to read shortly, if you want to.
+
+Sir Iain Duncan Smith
+I am grateful to you for clarifying, Mr Speaker.
+
+I will just say to the right hon. Gentleman that of course he is right, and it is important for us to understand that this is an issue not of asylum or migration but decency. He will know—even if he does not, I am going to say it to the House—that a significant chunk of those who are now part of the modern-day slavery ghastliness emanate from the UK. It is important that local authorities and others understand that they are looking not just for people who are trafficked in, but for those being trafficked within the UK. That is an important point. I agree with him, and the point of today’s debate is to try to raise that issue.
+
+Mr Peter Bone (Wellingborough) (Con)
+The right hon. Member for Islington North (Jeremy Corbyn) makes a pertinent point, but is not Justice and Care—and its navigators who help victims of trafficking with the criminal justice system—one of the success stories? We get more prosecutions because of that charity and the work it does.
+
+Sir Iain Duncan Smith
+I thank my hon. Friend for signing the new clause, and he is absolutely right. Justice and Care has done a phenomenal amount of work; I am enormously grateful for its guidance and we have worked together on this matter. He is quite right to congratulate the organisation; without it, I suspect this would have been very difficult.
+
+Let me bring in two examples that illustrate the problem. First, a Home Office local authority pilot found that all 62 adult survivors receiving support through the project in 2018-19 supported a criminal investigation, which makes my point that, with the right support, people do the right thing. They lose their fear, they understand that they are protected and they will give evidence. Secondly, Justice and Care found that 89% of victims supported by victim navigator support workers chose subsequently to engage with the police.
+
+I say to my right hon. and hon. Friends on the Treasury Bench that it is important that we understand and separate this question out from all the other arguments that go on about migration and asylum. This is ultimately about helping ourselves and helping the victims. The two go together, and that is the important issue.
+
+It is also worth reminding ourselves of the cost of modern slavery right now, without the resolution that we require and that this new clause would bring. The Home Office estimates the cost at £328,000 per modern slavery victim—a total of £32 billion using 2020 estimates of 100,000 victims from the Centre for Social Justice. I will just repeat that figure: £32 billion is the overall cost. That does not include court, prison and probation costs, or the costs of failed or aborted prosecutions due to insufficient evidence. So the case becomes stronger and stronger that this Bill offers the opportunity to do the right thing here.
+
+13:15:00
+
+Some objections have been raised by my friends on the Government Bench. They have talked about foreign criminals making fraudulent claims to avoid immigration removal. I want to deal with that issue here. I am clear that in this clause we want help and support, but we also want a minimum of 12 months leave to remain after victims clear the NRM. That is vital.
+
+There are issues. People say, “Oh, hang on, that’s a pull factor.” They say that more people will immediately claim “on the steps of the aircraft”—I think that is the phrase used—that they are modern slavery victims and therefore they will get into the system. No, is the answer. No one will claim that because they have heard that they will get more than six months if they get through and they might get 12 months.
+
+People might claim, if they are not modern slavery victims, to get into the process at the gateway of the NRM. If we think there is a pull factor, that if anywhere is where it would be. Giving people who are through the NRM longer is a genuinely decent thing to do and a powerful thing to do in prosecutions. If there is a problem and the Government perceive there to be a problem, I suggest with all humility that they need to look at the gateway, which is the NRM, not at what we do to the people who have got through.
+
+Sure, if every now and then somebody who is completely messing around with the system gets through—no system is perfect—the Government can reserve the right to deal with them separately; but please, please let us understand that we should not be in the business of cracking down on those we believe have got through justifiably. We should be in the business of supporting and helping them for their own sake, with the by-product that they will help us in due course to crack down on those gangs. I would have thought that must be a priority for any Government. The new clause allows victims to be excluded if they pose a threat to public order, and it has no significant impact, I believe, on immigration levels.
+
+The problem right now is that clause 64 as it stands is too narrow; it is narrower even than the existing policy, which is a problem. I think the right hon. Member for Kingston upon Hull North also raised that point. Linking leave to remain to needs arising from exploitation leaves victims unsure whether they will qualify. That is a major problem for them and will leave them even less likely to co-operate in due course.
+
+It is almost impossible to separate needs that arise directly from exploitation from those arising from pre-existing vulnerabilities. It is really difficult—all the evidence makes that very clear. The criteria do not consider the risk of re-exploitation, another important point. What is the fear someone has if they have been exploited and they go into the system? It is that they will be out and they will be back into the hands of the very same people—only now those people will believe they were ready to give evidence against them, so the exploitation will be even worse.
+
+On leave conditional on engagement with the police, there would be a problem if the Government were to say, “No, no, we can in guidance make it clear that they could have 12 months, or even more, if they were co-operating with the police.” I will just say that if I were a human rights lawyer, I would bring a judicial review against the Government every single day on that one. That is now coercion. They are saying, “You might have rights and we might want to help you, but, first of all, where’s the money? Let’s see what you’re doing before we act decently and give you anything.”
+
+I simply say to my colleagues on the Front Bench that that would be a wrong move. If they start down that road, they will end up in court on almost every single case, justifying whether they gave someone three months, 12 months or 14 months. It will end up in court. As all Members will know, including my right hon. Friend the Member for Maidenhead, the last thing Governments want is to do is give themselves an opportunity to be in court under a judicial review. I see my right hon. Friend smiling at that one. Anyone who has served as Home Secretary will know that every day you come into the office someone tells you how many times you are about to be “JRd”. So being decent and straight and doing what we have asked in new clause 47 will help the Government as well, because they will not have to end up spending vast sums on defending—sometimes—the indefensible in the courts.
+
+Mr Alistair Carmichael (Orkney and Shetland) (LD)
+The right hon. Gentleman is making a very good point, which illustrates the importance of the availability of judicial review. Looking towards what might be coming down the line in this regard, should I make an assumption about having his support on that occasion?
+
+Sir Iain Duncan Smith
+You would call me out straightaway, Mr Speaker, if I went so far as to enter into another debate. Tempting though the offer is from my right hon. Friend—I call him that because of the time we spent in government together, and because we agree on so many issues—he will, I am sure, forgive me if I say that I am not yet aware of any Bill that is due to come before us. I will leave it there.
+
+The Government have recognised victims’ need for stability and consistency in the support that they receive. That is a good move, and I thank them for it. I welcome the intention to provide a guaranteed 12-month minimum period of tailored support for all confirmed victims; that is particularly important. I ask the Under-Secretary of State for the Home Department, my hon. Friend the Member for Redditch (Rachel Maclean), to bear in mind, when she rises to sum up the debate, that—as I have already said to you, Mr Speaker—I intend to press the new clause to a Division unless the Government make it clear that they have listened very carefully to this and other debates on the subject. The minimum guarantee will serve as a major stabiliser. If the Government are prepared to accept that, and perhaps table an amendment in another place, I shall be prepared to wait and see what happens.
+
+I also welcome the Government’s commitment to considering how best to support victims through the criminal justice process. They need to be serious about that, and I hope to hear a clear statement that modification and improvement are required. There remain concerns about the current restriction of support to
+
+“needs arising from exploitation criteria”,
+
+and the Government will need to deal with that as well.
+
+Let me end by saying that we must separate the concept of modern day slavery from the rows about asylum seeking. Many people come over here with good cause; I personally do not blame those who are fleeing for economic reasons when things are desperate. I accept that we must have rules and restrictions, but I ask the Government to consider those who have been trafficked, those who are being persecuted, and those who are being used for the purpose of sexual or any other exploitation.
+
+When I was at the Department for Work and Pensions, we knew that gangs were getting women in particular over here, giving in their names to claim benefit, and then pushing them into brothels and other places. That is what we want to stop. We want to stamp out the exploitation of women, and men, against their will, both at home and as a result of their being trafficked into the UK. If the Minister can give me, and the House, an assurance that she gets this, and that the Government—my Government—are prepared to make the 12 months a de minimis and to look carefully at how the support can be given and how people can be protected through this process after they go through the NRM, I may feel inclined not to press the new clause.
+
+Mr Speaker
+I call the shadow Minister, Holly Lynch.
+
+Holly Lynch (Halifax) (Lab)
+Thank you, Mr Speaker.
+
+It is a genuine pleasure to follow the powerful contribution from the right hon. Member for Chingford and Woodford Green (Sir Iain Duncan Smith). I will come to the merits of his new clause, but let me start by congratulating my right hon. Friend the Member for Kingston upon Hull North (Dame Diana Johnson) not just on the new clause and amendments that she has tabled, but on receiving her damehood at Windsor Castle yesterday. There could be no more fitting tribute in recognition of her services to politics and her community, and I was delighted to see her collect that recognition yesterday.
+
+We have grave concerns about part 5 of the Bill, which would introduce detrimental changes in modern slavery provisions and the national referral mechanism. New clause 3, tabled by my right hon. Friend, has our backing for all the reasons that she outlined. I would struggle to find a more heinous crime than moving another human being across borders, or across the country, in order to force them to have sex and for their abuser to make a profit. Given the utterly depressing rises in this type of criminality and exploitation, my right hon. Friend will have our full support if she is minded to press the new clause to a vote.
+
+Provisions in part 5 will make it harder to identify, safeguard and support victims of modern slavery in securing prosecutions against their abusers. Our new clause 6 will ensure that no child victim of trafficking or modern slavery is denied protection because of those provisions. The new clause follows the many battles that we had in Committee in calling on the Government to hear the pleas of organisations such as The Children’s Society and Every Child Protected Against Trafficking, and those of the Independent Anti-Slavery Commissioner, Dame Sara Thornton, and to recognise the vulnerability of child victims of trafficking and modern slavery, something that they have failed to do throughout the Bill’s passage so far.
+
+The Government have sought to suggest that a fear of the national referral mechanism being abused warrants the introduction of barriers to accessing it. I remind them that the Home Office’s own statistics show that, of the 10,613 potential victims of modern slavery referred to the NRM last year, 47% were children. There was a 10% increase in the number of child referrals last year, and the single biggest type of exploitation was criminal exploitation. The Home Office’s own publication states:
+
+“For those exploited as children, an increase in the identification of ‘county lines’ cases has partially driven the rise in the number of cases categorised within the ‘criminal exploitation’ category, with 40% of all child referrals for criminal exploitation being flagged as county lines.”
+
+It is clear that children who are the victims of vicious county lines gangs will be among those most detrimentally affected by these changes. Just this week, we heard that the Government were getting tough on county lines gangs, but if they pass these proposals today unamended, child victims trapped by those gangs will be met with unnecessary barriers to both freedom and justice.
+
+Mr Bone
+The hon. Lady is talking about an exceptionally important issue, the trafficking of children. While we in this country probably lead the world in looking after adult victims, we fail our child victims. Do the hon. Lady and her party support a revision of that situation, so we can protect children in the same way that we protect adults?
+
+Holly Lynch
+As the Minister will recall, we pushed for that time and again in Committee. The Bill makes no distinction between adults and children who are victims of trafficking and slavery. That failure to recognise the age-related vulnerability of a child constitutes a glaring omission, and I welcome the hon. Gentleman’s support for seeing what else we can do to press the issue during the Bill’s subsequent stages.
+
+If the Government require any further persuading, the legislation in its current form contravenes their own existing statutory guidance, which states:
+
+“Whatever form it takes, modern slavery and child trafficking is child abuse and relevant child protection procedures must be followed if modern slavery or trafficking is suspected.”
+
+The changes introduced in the Bill mean that a child can only access protection from abuse if they disclose details of their trauma, against a Home Office-mandated timeline, or else have their credibility as a victim discredited, and can only access NRM support if they are not deemed to be a threat to public order as outlined in clause 62. The Government’s own guidance rightly says that a child who has been trafficked must be protected—no ifs, no buts, which means no clause 57, no clause 58 and no clause 62. I urge the Government to rethink all the modern slavery provisions, but as a minimum, in order merely to deliver on their own commitment to the general public this week, to adopt our new clause to prevent changes that would leave children more vulnerable to criminals and traffickers.
+
+I want to make clear our support for independent victim navigators, who have already been mentioned by other Members. New clause 30 seeks to build upon the successful pilot programme launched by Justice and Care in 2018, which has now been extended, with eight victim navigators currently in post in five different police forces. I recently had the opportunity to visit the modern slavery team at West Yorkshire police with Justice and Care to gain a better understanding of the incredibly impressive work undertaken by those navigators in providing vital support to victims to rebuild their lives, which is what then facilitates prosecutions. An interim report has shown that, up to June 2021, the programme has provided strategic advice to 392 modern slavery investigations and given intensive support to 202 victims. Significantly, 89% of the victims supported by those navigators have chosen to engage with police investigations, compared with just 33% nationally, and 120 suspected exploiters have been arrested in cases supported by victim navigators. I know this is something we can all celebrate.
+
+13:30:00
+
+The most recent data from the Crown Prosecution Service shows that completed prosecutions for offences flagged as modern slavery have decreased from 349 in 2019 to 267 in 2020, which is a fall of 23%. This was despite the fact that the number of cases referred by the police to the CPS increased from 275 to 331, so it is clear that this programme represents some of the best practice in supporting victims and securing prosecutions—something that the current stats tell us needs to improve. We are aware that the Government are looking at this programme, and I very much hope that the Minister will provide confirmation of their support for this approach. Areas of consensus on this Bill have been sparse, but we can all agree that securing prosecutions against the perpetrators of trafficking and modern slavery has to be a priority, and this new clause would help us to make that a reality.
+
+In the time I have left I want to speak in support of new clause 39, tabled in the name of the hon. Member for North East Bedfordshire (Richard Fuller), which reflects the concerns raised by the Independent Anti-Slavery Commissioner, particularly regarding clause 62. I know  that it has support across this House and in the other place. Similarly, we very much welcome the right hon. Member for Chingford and Woodford Green’s new clause 47. I know that this is an issue he cares deeply about, and that he has done valued work with Justice and Care and others on the Modern Slavery (Victim Support) Bill with Lord McColl in the other place. The right hon. Gentleman raised concerns about this section of the Bill on Second Reading, and we echo the need for support for victims in relation to their care and their immigration status to be extended and enhanced, not only because that is the right thing to do in light of the exploitation they have had to endure but in order to bring abusers before the courts. The proposals are in line with the Work and Pensions Committee’s 2017 recommendations, and have once again won support from across Parliament.
+
+We are very supportive of amendments 127 and 128, tabled by the Scottish National party to remove clauses 57 and 58, having voted against those clauses standing part of the Bill in Committee. The clauses introduce trafficking information notices that would force victims to provide details about the abuse and trauma that they had been subjected to, before a Home Office deadline. Otherwise, their credibility as a victim would be damaged due to late disclosure. As we have already argued, that delayed disclosure would be almost inevitable for those who had been subjected to the worst possible trauma.
+
+Clause 57 seeks to mandate, rather than encourage, early disclosure by survivors of human trafficking and modern slavery, with the Minister confirming in Committee that information notices could be used prior to a reasonable grounds decision being made. Such a decision needs to be made within hours of a referral being made. As my right hon. Friend the Member for Kingston upon Hull North has pointed out, the Home Office’s statutory guidance states:
+
+“Victims’ early accounts may be affected by the impact of trauma. This can result in delayed disclosure, difficulty recalling facts, or symptoms of post-traumatic stress disorder. It is vital for decision makers to have an understanding of the mitigating reasons why a potential victim of modern slavery is incoherent, inconsistent or delays giving details of material facts. Throughout this process it is important to remember that victims of modern slavery have been through trauma”.
+
+That is the Government’s own statutory guidance, so if that guidance is to mean anything, these clauses should have no place in the Bill.
+
+Government amendment 80 makes provisions for a survivor of trafficking to be removed to a country that is not a signatory to the Council of Europe convention on action against trafficking in human beings, if the UK has made an agreement with that country. This is one of around 80 amendments tabled after the line-by-line scrutiny of the Bill in Committee and days before Report that have potentially massive implications. This is quite frankly an outrage. I have written to the Procedure Committee to express my concern at the disregard for parliamentary scrutiny we have seen with this Bill. I simply ask the Minister to outline what, if any, agreements have been made, and with which countries. What are the details of those agreements? We should have had this detail on Second Reading and in Committee, and we wish to put strongly on record our opposition to this amendment, as I suspect the Minister cannot begin to answer my questions.
+
+The fact that by far the greatest number of referrals to the NRM last year were of British nationals raises the question of why these provisions are in a Bill about immigration at all. The way part 5 has been drafted means that some of the most vulnerable people, who have been subject to the worst possible trauma, will face the greatest barriers to support, protection and justice, and I hope that hon. Members have heard our concerns and will support our amendments.
+
+Richard Fuller (North East Bedfordshire) (Con)
+I rise to speak to new clause 39, standing in my name and the names of the Chairs of the Procedure Committee, the International Development Committee and the Business, Energy and Industrial Strategy Committee. For a variety of reasons, none of those colleagues can be with us today, and I feel that I am a poor substitute for them in making these points—
+
+Sir Iain Duncan Smith
+Will my hon. Friend give way?
+
+Richard Fuller
+With great modesty, I shall.
+
+Sir Iain Duncan Smith
+Can I just reassure my hon. Friend that, by the very fact that he is speaking to this new clause, he is more than a substitute and that he is on the side of right?
+
+Richard Fuller
+I am grateful to my right hon. Friend. One other aspect of this is that it has given me the opportunity to have a fresh look at an area of legislation that I have not been as deeply involved in as he has. I might therefore raise some concerns that the Minister might not get from other quarters, with a keen focus on the legislation dealing with modern-day slavery.
+
+I wish also speak in support of amendment 3, tabled in the name of the right hon. Member for Orkney and Shetland (Mr Carmichael). I will be pleased to hear him later expressing his support for my new clause, as I also hope the SNP will. I am grateful to the hon. Member for Halifax (Holly Lynch) for her indication of support. The reason I say that is that my new clause has not been selected for separate Division, and it is therefore important that this House sends a clear and unequivocal cross-party message to the other House, where this issue can perhaps be looked at anew.
+
+Mr Carmichael
+I am sure that the House will be on tenterhooks to know, so I can put it out of its misery and tell the hon. Member that I will be more than happy to support his new clause.
+
+Richard Fuller
+I am very pleased to be off those tenterhooks, although I am never very sure what tenterhooks are. They do not sound very comfortable.
+
+New clause 39 provides the Government with an opportunity to achieve their objectives but on a more considerably secure legal footing than their current proposals would permit. The new clause has been informed by the concerns raised by the Independent Anti-Slavery Commissioner, Dame Sara Thornton. Clause 62 currently seeks to disqualify potential victims of trafficking from the protections afforded under the national referral mechanism. Those protections are important not just as a manifestation of the mercy of our country towards those whose lives have been made wretched by the exploitations of others but to enable more effective prosecution of the perpetrators of such trafficking. Consideration of exclusion from these protections therefore requires careful assessment of the consequences for both those factors. Moreover, as my right hon. Friend the Member for Chingford and Woodford Green (Sir Iain Duncan Smith) mentioned, it should be considered in the context of our country’s leading position in international law on human trafficking. That is a position that we should not give up at all lightly.
+
+My first concern with clause 62 as proposed is to ask: where is the evidence? Where is the evidence that access to the national referral mechanism is being abused, and where is the evidence from the Government on the impact of their proposal? My second concern with clause 62 is that it does not appear to address vexatious or unwarranted claims regarding access to the national referral mechanism. That point was also made by my right hon. Friend the Member for Chingford and Woodford Green when he was speaking to his new clause. This is the wrong piece of legislation to do what the Government hope is the right thing, but which many of us fear will make the situation worse rather than better. In the absence of evidence for why this is a logical measure to adopt, I am perplexed as to why clause 62 has been drafted in this way.
+
+My concern is also that subsections (3)(b) and (3)(f) provide a very low bar for disqualification based on criminal sentencing. For those, like me, who are not familiar with modern slavery, it may sound odd that there is public interest in supporting people who have committed crimes either here or, more likely, overseas that carry a 12-month sentence—that is the bar—but that public interest is the same public interest as we have in trying to reach the main perpetrators in county lines drug gangs or serious fraud cases.
+
+The public interest is in enabling sufficient evidence to be collated to bring successful prosecutions against the co-ordinators of those crimes, which is where I fear this clause falls short in subsections (3)(b) and (3)(f). I see good reasons in the other subsections and paragraphs for why clause 62 makes sense, but subsections (3)(b) and (3)(f) are clearly very different. I am interested in understanding the Minister’s logic.
+
+Although this is an immigration Bill, clause 62 will largely apply to people already here, including British citizens, who currently make up the majority of victims. Because it refers to the national referral mechanism, most British victims will fall foul of this clause. The data suggests that the vast majority of British victims would fail under the Bill’s disqualifying remit, as the majority of cases involving British victims involve criminal exploitation. Even those who fall under labour or sexual exploitation often participate in criminal activities as part of their exploitation and so may end up being “unworthy” of support. I fear that is not what we are trying to do, and it should not be in an immigration Bill.
+
+Another concern that has been raised with me is that there are currently significant difficulties in bringing prosecutions for modern slavery. As previous speakers have mentioned, with approximately 10,000 potential victims of modern slavery identified in the UK last year and only 238 convictions, it is clear that the process is at risk of being overloaded.
+
+How does it help for there to be new additional legal requirements to investigate the criminal history of each and every potential victim who is seeking access to the national referral mechanism? How on earth will that help? Have we not been here before, more than a decade ago? I do not like to refer back to the bad old days of immigration under Labour, but what a complete mess Labour made of it. The lives of many of my former constituents in Bedford, and the constituents of many hon. and right hon. Members here, were ruined by the Home Office’s processes, and those processes are still not where they need to be. With this new provision on access to the national referral mechanism, the Home Office is at it again, making it more complicated, making it more difficult and, ultimately, making a rod for its own back.
+
+New clause 39 would remove children from the scope of clause 62, which is important. We do not want children to fall foul of other rules and regulations, certainly when it comes to their criminal record or otherwise. Will the Minister address that directly?
+
+The new clause preserves the Government’s power to remove individuals from the UK who pose
+
+“an immediate, genuine, present and serious threat to public order”.
+
+We understand the Government want to make these changes, and there may be good reason for doing so, but let us set the bar higher and let us make it more pertinent so that we do not block the whole system and unduly use immigration law to address modern slavery. That seems a sensible change to make.
+
+New clause 39 would change the wording of the Bill so that a person who claims to have been trafficked improperly will not be treated as having acted in bad faith, which is more in line with the trafficking convention. When a Government seek to conflate effective modern slavery legislation a little too much with immigration law, it is important that we refer to the founding principles of that first set of legislation. Let us not be wishy-washy by saying we can make it up as we go along. Let us not import one schedule from one Act and say it will work fine in this Bill, which seems sloppy. It seems much better to place it more firmly and resolutely in international conventions and other aspects of international law.
+
+13:45:00
+
+New clause 39 will ensure that the most vulnerable victims of modern slavery, including children, are able to come forward without fear of punishment to be identified, to access safeguarding and support, and to have the opportunity to engage and support criminal justice processes—that is the point raised by my right hon. Friend the Member for Maidenhead (Mrs May) earlier in the debate.
+
+Coming at this anew, I fear the Government have tried too closely to conflate effective legislation on human trafficking with legislation on immigration. New clause 39 seeks to help them by securing their objectives more solidly in the law on modern slavery, rather than on the more perilous aspects of immigration law that they are currently pursuing. It seeks to avoid some of the unfair excesses, particularly regarding children, that will cause upset to many. Ultimately, it seeks to be more effective in the prosecution of the Government’s immigration aims by avoiding the Home Office building up huge backlogs and chasing its tail on pieces of information that have no due regard in our law.
+
+Stuart C. McDonald (Cumbernauld, Kilsyth and Kirkintilloch East) (SNP)
+It is a pleasure to take part in this debate and to follow the hon. Member for North East Bedfordshire (Richard Fuller).
+
+Yesterday we badly damaged the UK’s reputation for upholding the refugee convention and the rights of refugees, and today’s clauses risk undermining the protection offered to victims of trafficking and modern slavery. That is particularly frustrating because a lot of good work has been undertaken in Stormont, Westminster and Holyrood to put in place legislative frameworks for tackling trafficking and modern slavery.
+
+Just as yesterday’s clauses failed to address the real failings in the asylum system, the clauses we are debating today do not address the real and significant problems we all face in our efforts to tackle trafficking. They will not lay a glove on traffickers and, in some cases, they will give traffickers extra power and ammunition over their victims and will discourage victims from reaching out for support and assisting prosecutions.
+
+The problems we all face include: the fact we almost certainly identify only a small fraction of trafficking victims and prosecute only a small number of traffickers; the massive delays in the national referral mechanism that see victims sitting in limbo for months and years as they wait for a decision; and the failure to give so many people the stability of the decent period of leave to remain that they need to recover. None of that is addressed in part 5. Instead, it reinforces the impression that efforts to protect victims of trafficking play second fiddle to immigration enforcement, just as decent treatment of asylum seekers and refugees played second fiddle yesterday.
+
+On that note, although I absolutely agree that what we are debating today is distinct and separate from what we debated yesterday—in fact, they should be in separate Bills—it is important that we recognise there is an overlap. Importantly, some of the provisions this House approved yesterday will apply to certain victims of trafficking, including the new criminal offences in relation to arrival in the UK and the discriminatory two-tier asylum system that many trafficking victims will now enter. If I correctly recall our debates in Committee, the offence we put into law yesterday of entering or arriving without permission could result in trafficking victims being excluded from protection.
+
+In particular, I spoke yesterday about this place’s awful habit of passing legislation that tells decision makers how to assess the evidence that they will obviously have in front of them but which we do not have in front of us and that we will never know anything about. Instructing decision makers to make adverse credibility findings in relation to trafficking victims because the evidence or information was provided late is especially pernicious and dangerous. As Members on both sides of the House have pointed out, both today and on Second Reading, it takes time for many victims of modern slavery to identify themselves as a victim, let alone to present the evidence required to establish that fact. As we have heard, there are numerous reasons for that: fear of reprisals, shame, instructions or coaching from traffickers, the impact of trauma and mental health issues, as the right hon. Member for Kingston upon Hull North (Dame Diana Johnson) set out earlier. All the clauses that we debated yesterday requiring negative credibility findings to be made will impact on trafficking survivors who enter the asylum system, and clauses 57 and 58, which we are debating today, will impact on all who seek support as trafficking survivors.
+
+As we argued in Committee, such a trafficking notice might serve a useful purpose if it was just that—a notice that information should be provided. Speaking from personal experience, it could focus the mind of solicitors who might be reasonably well practised in making claims on behalf of clients in relation to the refugee convention, or for immigration status, but who might have had significantly less experience of identifying and taking forward trafficking cases. I am sure lots of colleagues in the legal profession would identify with that.
+
+In Committee, we argued to keep the notices but ditch the threat of sanctions. That approach was rejected by the Government, so we have tabled amendments 127 and 128, which would ditch the scheme altogether. In short, we cannot support a statutory scheme that threatens to punish trafficking victims for late provision of information. Most fundamentally, there can be no doubt that with such a scheme, there is a risk that survivors of trafficking who miss a mandatory deadline will simply withdraw from the whole process. The Bill requires that their credibility be treated as damaged, and all the talk of good reasons as an excuse will make a limited difference. In fact, the whole process risks becoming a vicious circle. I could provide evidence that was late because of the trauma of trafficking, but I would not be able to establish that I had been trafficked because my credibility would be damaged by providing that information late. That is a mess of a provision.
+
+Going further, the scope of the provision is also bizarre, covering as it does not just statements made by the trafficking victim but statements made on their behalf. That could include evidence from their doctor, a counsellor or a social worker. Such reports should be considered on their own merits, not automatically discredited by utterly misguided provisions such as those we are discussing. A victim of trafficking could be in a position of needing to submit more evidence to strengthen their case, but by providing that evidence after a deadline set by the Home Office, they risk having their credibility damaged. They can be disbelieved either for providing not enough evidence, or for providing evidence late. What a Hobson’s choice that is for incredibly vulnerable people. The shadow Minister posed practical questions about the timing. We say, “Let’s take out the punishment through amendment 128,” or, at the very least, support the shadow Minister’s bid to disapply these dangerous provisions to children.
+
+Our third amendment is 148, which probes the Government on the vague and broad provisions in clause 67 to disapply retained EU law deriving from the trafficking directive. In their modern slavery strategy of 2014, the then Conservative Government said that opting into that directive
+
+“demonstrated our commitment to working with other countries in Europe to drive up standards across the continent in tackling trafficking”
+
+and showed
+
+“the UK’s commitment to tackling human trafficking and providing support to victims.”
+
+The Government said that the directive
+
+“paves the way for further engagement with EU-wide organisations and governments to share our prosecution and investigation expertise.”
+
+Clause 67 disapplies that directive, in so far as it would be incompatible with the Bill and any subordinate legislation made under it. Given that the directive is so crucial to prevention, victim identification, protection and support, this proposal is concerning. We should be fully implementing the directive, not moving away from it.
+
+Nothing is said about that provision in the equality impact assessment or the human rights memorandum, so we have no information about which parts of the directive the Home Office considers to be incompatible with this Bill, or which parts would cease to apply. How are anti-trafficking organisations and those who provide support and advice to survivors supposed to know what the law is? Can the Minister spell some of that out today? What other provisions of the directive might the Government want to ditch through subordinate legislation?
+
+Before I address our last amendment, let me express support for amendment 3, which was tabled by the right hon. Member for Orkney and Shetland (Mr Carmichael), to remove the disqualification provisions of clause 62. As all Opposition Members argued in Committee, those provisions are far too wide. For the same reasons, we support the alternative new clause 39, in the name of the hon. Member for North East Bedfordshire, to secure compliance with the trafficking convention and protect children from disqualification. Rather than fixing the clause, the Government seem intent on making it worse through amendment 71, meaning that survivors who are identified as needing leave to remain to seek compensation, or to co-operate with investigations and prosecutions, will not get it.
+
+We give our support to new clause 47, tabled by the right hon. Member for Chingford and Woodford Green (Sir Iain Duncan Smith), and in particular to the provisions requiring a grant of leave for 12 months, or longer if required because of personal circumstances.
+
+Tommy Sheppard (Edinburgh East) (SNP)
+My hon. Friend is making an excellent humanitarian case against aspects of the Bill. Does he agree that when the Government reject that argument, it will fuel the case for Scotland to become a politically independent country so that it can build a different immigration system on the basis of fairness and international solidarity, rather than prejudice and paranoia?
+
+Stuart C. McDonald
+I fully endorse what my hon. Friend says. We will continue to make the case against this Bill, although we all know that that case will be rejected. People who are watching will see our alternative proposals, and they are a strong argument for independence indeed.
+
+In addition to saying yes to new clause 47, we support new clause 3 from the right hon. Member for Kingston upon Hull North. I mentioned at the start of my speech that Stormont, Westminster and Holyrood had all passed important legislation in this area, and that brings me to the key point that we have just touched on. Large parts of this issue are a devolved matter, and that is only partially recognised in the Bill. The same is true of the age assessment provisions in part 4. There are very good arguments for saying that legislative consent motions should be required from the Scottish Parliament for various provisions in parts 4 and 5, and that is why we have tabled amendment 129.
+
+The whole disreputable scheme of trafficking notices, plus most law in relation to the recovery period, is surely within devolved competence, but clause 49 also sees the Secretary of State interfering in how local authorities go about discharging their duties in relation to devolved children’s legislation. I would be happy to share with the Minister a legal opinion by Christine O’Neill QC that has been published by the Scottish Refugee Council and JustRight Scotland, and that makes similar points. I am sure that devolved Administrations in Northern Ireland and Wales will also want to look closely at these points.
+
+Our view is that this is a disaster of a Bill and, as the shadow Minister said, the whole legislative process leading up to it has been a disaster as well. The consequences for many vulnerable people will also be disastrous. That is as true of the provisions in relation to trafficking survivors as it is for asylum seekers and refugees. Although we have tried to ameliorate the worst aspects of the Bill, the whole rotten lot of it needs to be canned.
+
+Mr Bone
+It is a great pleasure to follow the hon. Member for Cumbernauld, Kilsyth and Kirkintilloch East (Stuart C. McDonald). He supports new clause 74, which is the main thrust of what I want to talk about today.
+
+Across the House, we have seen support for measures to fight modern-day slavery and human trafficking, but I think we should start at the beginning. Only a few years ago, this House did not even recognise human trafficking. I can remember when I came into the House and Tony Blair was Prime Minister, the great Anthony Steen tried every week from the Opposition Benches to persuade the Government that human trafficking existed. The Council of Europe brought forward proposals about human trafficking, and, to the great credit of former Prime Ministers David Cameron and my right hon. Friend the Member for Maidenhead (Mrs May), we produced Europe’s leading anti-slavery legislation.
+
+We should start by congratulating the Government on doing that, but we are here today to see how we can improve on that legislation. I will briefly mention my dissatisfaction with the way child victims of human trafficking are dealt with. As I have said on many occasions, we should follow the methods that we use for adults; we should not just put children into the care of local government, where they are routinely re-trafficked. That is not particularly to do with the clauses that we are debating today, but it is something that we need to look at.
+
+My right hon. Friend the Member for Chingford and Woodford Green (Sir Iain Duncan Smith) made the very fair point that we are not talking about asylum, and we are not talking about economic migrants. With economic migrants—people coming here who should not be—the victim is this country. Human trafficking victims are people who have been tricked or coerced into coming to this country, mainly with the thought that they will get a job or a career.
+
+Let me give an example. Somebody from Hungary came into this country thinking they were going to get a job in Belfast. Instead, they were locked up in a terraced house in Belfast. The locks were on the outside of the bedroom and that girl was repeatedly raped. She was rescued by the police and looked after. That is human trafficking, and it is completely different from people coming across the channel in small boats.
+
+14:00:00
+
+I very much welcome the meetings I have had with the Minister on this issue and the tremendous work that my right hon. Friend the Member for Chingford and Woodford Green does. I also welcome the work of Justice and Care and, in particular, of Tatiana Gren-Jardan, who used to work for me when I was part of the all-party parliamentary group on human trafficking, and who has made this issue her passion and done so much to help the situation.
+
+Sir Iain Duncan Smith
+While we are talking about Tatiana—she has been phenomenal in bringing cases forward and I pay tribute to her—it is worth reminding the House that she cannot be with us at the moment because she is about to give birth. We congratulate her on that.
+
+Mr Bone
+I can give the House an update: birth has not yet occurred and she is watching today’s proceedings. I wish her very well with the new baby.
+
+Let me go back to the national referral mechanism. One thing that people misunderstand about new clause 47 is that they think it refers to when people go into the NRN, but it does not. It would apply for people who have “conclusive grounds”—people the Government agree are real victims of human trafficking. The difference between me and the Government is about what happens next. We have always looked after victims of human trafficking—it has been a really sensible process, with overall control given to the Salvation Army and then distributed through all the different charities and voluntary and religious groups that help to look after victims. But I want there not to be any victims in the first place. I want these evil gangs stopped. By the way, this is organised crime: they are ruthless and horrible and they do not care about people. They are quite happy to murder people. If we can shut them down, we will not have the victims, which is why the prosecution of these gangs is so important.
+
+When we have discussed the failure to secure prosecutions in the past, it was argued, “Well, we prosecute on lesser offences so that we get convictions,” but these people are put away for only a small amount of time. We want to nail the people at the top and put them away for a very long time, to make it a dangerous thing to be involved in. If it is dangerous and they are likely to get caught and put away for a long time, they will not carry out this evil trade and will try something else.
+
+The difference between me and the Government in respect of leave to remain, which is the crux of new clause 47, is that I think it should be given as a right to people who are confirmed as victims of trafficking if their immigration status is irregular. I say that for two reasons: first, they are much more likely to help to prosecute the evil gangs if they know that their immigration status is secure for a year; and secondly, if we do it not that way but on a piecemeal basis, there is a possibility, to which my right hon. Friend the Member for Chingford and Woodford Green referred, that the lawyers will go to the court and say, “The only reason why this person is saying that is because it is the only way she could have got leave to remain,” whereas if it is a right, they cannot use that argument at all.
+
+I will listen with great interest to what the Minister says in response to the debate. If my right hon. Friend the Member for Chingford and Woodford Green pushes new clause 47 to a Division, I will indeed support it. I know that the Minister and the Government share my desire to get these evil gangs; we just have a little difference on this point. Why doesn’t the Minister accept the new clause and perhaps add a sunset clause in the other place? Put two years on it, and if in two years nobody extra is prosecuted, we were clearly wrong. But if a lot more people are prosecuted, as I believe they would be, the Government could renew the sunset clause.
+
+Everybody is trying to do the right thing here; we are just discussing the best way forward. I go back to the start and say well done to Anthony Steen and to all the Governments who have moved forward and made our country the best place to prosecute modern-day slavery. But we can do better, and we can and must do better with children. New clause 47 would help us to prosecute more evil gangs, so I very much support it and hope that the Government will accept at least its principle.
+
+Margaret Greenwood (Wirral West) (Lab)
+Numerous constituents have written to me with their concerns about the Bill. They fear that it will harm refugees and victims of trafficking and slavery and that it undermines our international commitment to human rights and the right to asylum. I share their concerns.
+
+The Children’s Society has said that it is
+
+“concerned that the provisions of the bill will have a significant impact on all child victims of trafficking”.
+
+Notably, the charity has expressed support for Labour’s new clause 6, which would exempt victims of modern slavery, exploitation or trafficking from many of the provisions in part 5 of the Bill if they were under 18 when they became a victim. Statistics show that 3,140 potential victims of modern slavery were referred to the Home Office in the second quarter of 2021—the second highest number of referrals since the national referral mechanism began in 2009—and 43% of them claimed exploitation as children.
+
+Serious concerns have also been raised about, and many Members have referred to, the proposals in the Bill to allow the Secretary of State to serve trafficking information notices on potential victims of modern slavery and expect a response within a fixed timescale. Dame Sara Thornton, the Independent Anti-Slavery Commissioner, has said that
+
+“will make it harder to identify those who have been exploited… Traumatised victims cannot disclose their suffering to order—it takes time to build trust and confidence.”
+
+That is absolutely right.
+
+The Government’s own statutory guidance on modern slavery states:
+
+“Victims’ early accounts may be affected by the impact of trauma. This can result in delayed disclosure, difficulty recalling facts, or symptoms of post-traumatic stress disorder.”
+
+Why do the provisions in the Bill run contrary to the evidence in the Government’s own guidance? This point relates to amendments 5, 6 and 7, which were tabled by my right hon. Friend the Member for Kingston upon Hull North (Dame Diana Johnson) and have cross-party support. I also support my right hon. Friend’s incredibly important new clause 3, which would create an offence for arranging or facilitating the travel of another person with a view to that person being sexually exploited in the UK.
+
+We debate the Bill less than two weeks after the tragic loss of 27 lives in the English channel, yet the Government are intent on pushing ahead with their cruel pushbacks plan, despite Border Force officials saying privately that it is dangerous and unworkable, and despite the Joint Committee on Human Rights having said that pushbacks would
+
+“create a situation where state actors were actively placing individuals in situations that would increase the risk”
+
+On behalf of my constituent, who has more than 10 years’ experience in maritime rescue, I ask the Minister how the Government expect Her Majesty’s Coastguard to operate in a situation that it deems to be search and rescue but that the Home Office considers to be a pushback situation? He wants to know who will have the veto authority in such situations?
+
+As Families Together has pointed out:
+
+“No one chooses to cross the channel…unless they have no other option.”
+
+Amnesty International has said that the Bill
+
+“will cost not save lives. It will enable and empower ruthless criminal gangs not break them. It closes safe routes and opens none. It will harm women and girls along with the men seeking asylum, to whom Ministers appear to take such exception”.
+
+I urge members from all parties to vote against the Bill on Third Reading.
+
+Mr Carmichael
+I am grateful for the opportunity to make a few remarks about the amendments and new clause tabled in my name and the names of my right hon. and hon. Friends and others. I put on the record my support for the amendments tabled by the right hon. Member for Kingston upon Hull North (Dame Diana Johnson), by the hon. Member for North East Bedfordshire (Richard Fuller), by the official Opposition, by the Scottish National party, and by the right hon. Member for Chingford and Woodford Green (Sir Iain Duncan Smith). I think you can take it from that selection, Madam Deputy Speaker, that the view of many of us here is that part 5 of the Bill requires some fairly urgent and radical surgery. In general terms, that is something to be regretted.
+
+The hon. Member for Wellingborough (Mr Bone) was absolutely right to remind us of the history in relation to human trafficking in this House. He mentioned Anthony Steen, who ploughed a lonely furrow in the early days but was dogged in pursuit of that. I fear that it may not always be what he is remembered for, but ultimately he did a great deal of good in relation to this matter.
+
+I also pay tribute to the right hon. Member for Maidenhead (Mrs May), who, as Home Secretary, drove this with an unquestionable commitment—I saw that for myself in government. The fact that we now find the salami slicer starting to work and that, piece by piece, the provisions and protections that we have brought into operation to protect the victims of modern slavery are being taken away is, I think, a matter of regret.
+
+I do not often tell tales from outside the Chamber, but I went up in the lift in Portcullis House with the right hon. Member for Maidenhead yesterday—I hope that she will not mind me referencing this—and apropos the House’s consideration of the Bill yesterday, she asked what sort of a debate it had been. I replied, “Suffice it to say that I don’t think anybody would refer to it as being the House at its best.” It is to be welcomed that the temperature of debate today is perhaps a bit more measured. It also illustrates that, on a matter such as this, if one looks around the Chamber and sees the range of interests that have brought forward amendments, it is very easy still to build a consensus around this. The fact that the Government show no inclination or enthusiasm for building or maintaining that consensus is a matter of deep regret.
+
+The hon. Member for Cumbernauld, Kilsyth and Kirkintilloch East (Stuart C. McDonald) referred to the credibility provisions. He is absolutely right. The idea that legislation should interfere with the assessment of something around credibility is fundamentally obnoxious. If any right hon. and hon. Members have ever spent any time in the Appeal Court, they will have seen advocates being pulled up occasionally for trying to reopen questions of credibility. The Appeal Court always says, “We are not interested. That was heard by the judge at first instance, and he or she alone can be the judge of these matters.” Trying to set out parameters around credibility in the way that is sought here is dangerous to say the very least.
+
+I will touch on the matters that stand in my name. Amendment 3 seeks to leave out clause 62. The hon. Member for North East Bedfordshire made an excellent dissection of the effect of clause 62. He said that it was the wrong measure in the wrong place, and he is absolutely right. What we have brought here is more of a scalpel to the Bill, to remove the clause completely. It does sit with other measures in clause 5 in restricting the protections that are available to victims of modern slavery. In our view, this breaks our obligations to support the victims of human trafficking and undermines the fight against slavery and human trafficking. It will make victims less likely to come forward and to co-operate with law enforcement. Ultimately, the effect of it will be to strengthen the hand of the slavers.
+
+Clause 62 works to exclude potential victims of slavery or human trafficking from protections on the grounds that they are a threat to public order or have claimed to be a victim in bad faith. I can put the concerns about this clause no better than Dame Sara Thornton, the Independent Anti-Slavery Commissioner, who, in a letter to the Home Secretary, warned:
+
+“I have grave concerns about this clause because it casts a wide net with the potential to prevent a considerable number of potential victims of modern slavery from being able to access the recovery and reflection period granted through the NRM. Without such support prosecution witnesses will be unable to provide witness evidence and this will severely limit our ability to convict perpetrators and dismantle organised crime groups.”
+
+Those are the concerns of the Government’s own Independent Anti-Slavery Commissioner. We have to wonder why we have people in such positions if their advice is to be disregarded in this way.
+
+In promoting new clause 43 and amendments 130 and 131, I fully declare that I am something of a cipher for the Immigration Law Practitioners’ Association—a declaration I make with absolutely no shame or embarrassment. ILPA has a long and distinguished record in this area and it comprises people whose views should be listened to.
+
+14:15:00
+
+Clause 65 brings legal advice and referral to the national referral mechanism for potential victims of modern slavery and human trafficking within scope of legal aid funding, but only if it is attached to an existing immigration or asylum matter. New clause 43 would expand that test to legal advice by removing that requirement. It would also remove the requirement to assess the financial means of a person who requires advice on a referral to the NRM. The means test acts as a significant barrier to justice for people who are not eligible, as even the receipt of subsistence payments can be enough to exclude a person from accessing a lawyer.
+
+The view of ILPA is that bringing this work within the scope of legal aid is particularly important for cases where there is no asylum claim but there is an immigration claim—for example, where the person may be eligible for a grant of discretionary leave to remain or leave as an overseas domestic worker if they were recognised as a victim of trafficking. These victims may be too scared to come forward to the authorities, or may not know what immigration options are available. The lack of access to independent advice is a powerful deterrent to people coming forward when they are escaping exploitation. The current position is that they would be unable to access legal advice easily as immigration advice on this issue is not in scope for legal aid. This means that an application for exceptional case funding would need to be made and granted before the person could see a lawyer.
+
+I think I made the point yesterday that so much of our immigration system has now become so complex that, for anyone who is not legally qualified to try to plot their own way through it without assistance, let alone somebody who may be working through issues such as using English as a second language or a foreign language, is virtually impossible.
+
+I observe in passing that provisions in this part of the Bill that refer to unreasonable moves being taken in tribunal by applicants is something on which the Government should proceed with great caution. We have all seen through our own constituency case loads the way that the immigration services operate, and I suspect strongly that if the same test were ever applied to the Home Office as the Home Office seeks to apply in this case to applicants, it would find itself in some significant difficulty.
+
+Alison Thewliss (Glasgow Central) (SNP)
+I rise to support the amendments in the name of my colleagues. I also speak in my capacity as chair of the all-party parliamentary group on immigration detention. We have many concerns about the Bill. As my hon. Friend the Member for Cumbernauld, Kilsyth and Kirkintilloch East (Stuart C. McDonald) mentioned, there is a degree of overlap between what I wish to say today and some of the measures that we addressed yesterday.
+
+The UK Government propose a quasi-detention system for new arrivals. The all-party parliamentary group on immigration detention has taken a great deal of evidence on the harm that such facilities cause. We looked at Napier and Penally barracks, and others such as Tinsley House and Yarl’s wood, which were used for quasi-detention. We found, very much so, that these facilities undermined the health of vulnerable people, dehumanised them and also made vulnerable those who did not consider themselves that vulnerable to begin with.
+
+Those facilities featured: physical and social isolation; prison-like conditions with people feeling under surveillance 24/7; and shared facilities, meaning a lack of dignity and privacy, and, of course, during the period of covid, the risk of covid, which the Government failed to take into account, basically facilitating an outbreak among those unlucky enough to be living there. Due to their very nature, the facilities also ended up being targeted by the far right, further making those who happened to be living there very, very vulnerable.
+
+The evidence that we received in our inquiry found a lack of safeguarding, healthcare and access to legal advice. The Home Office equality impact assessment on the facilities set out that people seeking asylum were not analogous to British citizens and other permanent residents in need of welfare assistance. As we heard yesterday, facilities such as these and offshoring facilities were tried, and failed, in Australia.
+
+The implication of what we are discussing today was discovered by the Jesuit Refugee Service, which in the course of its work encountered residents at Napier barracks whose asylum screening interviews had revealed clear indications of trafficking, yet individuals had been transferred to those sites when they should never have been there in the first place. This happened initially, which could perhaps be accepted as a mistake or oversight, but also as late as June 2021, when such issues should not still have been going on, and people should have been identified as victims of trafficking. Solicitors engaged in the site found similar circumstances, where people who had been trafficked ended up in this inappropriate accommodation.
+
+The provisions are concerning in a number of ways, because such facilities are difficult for people to be in. I had a conversation with somebody earlier in the week who suggested that the UK Government and the Home Office have not thought this through. I disagree with that in some respects, because to me this is a very deliberate policy of removing people from legal support—their opportunity to make the best case of putting themselves before the immigration system—and from communities, where they could build links, settle in, make friends and engage with people who had perhaps come from their own countries. It is a deliberate policy of removing people from the healthcare and support they need to get well and recover from trauma. All those things make it easier for the Government to send these people away—and that is not done in the name of my constituents or my party. We do not agree with the proposals and this ideological pandering to the lowest common denominator, because the people we are speaking about are very vulnerable.
+
+I fully support amendment 6 on late disclosure, because the provisions place people, such as those who ended up in this quasi-detention system, in a trap. I see people in my surgeries week in, week out who are already disbelieved by the Home Office. It puts people at risk to say that if they do not disclose everything at the point where they are being told that they must disclose, the case will be stacked against them.
+
+Chris Stephens (Glasgow South West) (SNP)
+Is this provision not of huge concern to constituents in Glasgow South West and Glasgow Central—women, in particular, who have been subjected to sexual violence and would not necessarily disclose that at the first interview?
+
+Alison Thewliss
+Indeed; they may take a long time, and may not have the language, to disclose that very traumatic experience. Those who were held in this quasi-detention system were not necessarily even provided with notice of their substantive interview. It was sprung on them, in many cases with very little notice. Let us imagine someone being woken up in the morning by somebody saying, “Today’s the big day—your substantive interview. Spill your guts”, and their not having the capacity to explain what happened to them, having not processed the trauma that they have been through, yet if they do not do so there and then, their case may fall apart completely. That is a brutal system, but not only do the Government have that system just now, they want to roll it out yet further.
+
+David Linden (Glasgow East) (SNP)
+I am grateful to my constituency neighbour for giving way. She is absolutely right, as is my hon. Friend the Member for Glasgow South West (Chris Stephens), to place on record the fact that many women, for example, who have experienced sexual violence, will not feel comfortable declaring that in the first interview. Does she agree—we see this in our cases in Glasgow—that one of the common concerns that we get from constituents is that quite often when they go to these interviews, the person interviewing them does not have any qualifications or knowledge on these matters, and that therefore these constituents of ours, who she is right to say are incredibly vulnerable, pick up very quickly that even if they try to explain the situation to somebody, that person will not actually understand?
+
+Alison Thewliss
+Yes. I am sure that like me my hon. Friend has read through the transcripts of people’s substantive interviews, including some of the ludicrous questions that people have been asked by Home Office officials. There is just a lack of understanding of the trauma that people have been through. There is no way by which people are understood; rather, the Home Office is trying to catch people out at every turn. It is a game that people are not equipped to participate in.
+
+The Government are failing victims of trafficking, both male and female. As difficult as it is for many women to explain how they have been trafficked, men who have been trafficked for sexual purposes will also find that very difficult to explain, particularly those who have been housed in mass accommodation such as Napier barracks; they will find it difficult to live among other men and to deal with that trauma there as well.
+
+There was no privacy in Napier, Penally and the other facilities. Those men were asked to give their substantive interview and to speak to their lawyers without any privacy whatever, in common spaces such as kitchens. To explain their cases in earshot of other people, without having the privacy and the dignity that they should have, retraumatises people all over again. The Government should be ashamed of treating people this way. It is inhumane.
+
+I want briefly to mention the work of the Trafficking Awareness Raising Alliance, based in my constituency in Glasgow, which does amazing work to support women who have been trafficked. In my experience, the Home Office is not doing its bit. A woman came to speak to me at a surgery in 2017. She had limited English and had clearly been through traumatic experiences. She had first been encountered by the police in 2014, three years prior to coming to me, but did not receive her substantive interview until 2017, and my office was still working on her case two years after that. How is somebody supposed to get on with their lives, heal, move on and make a new life for themselves away from trauma, when they are reminded of that trauma every day when they wake up in the morning—if they manage to wake up in the morning, because many also suffer lack of sleep and other symptoms of trauma?
+
+The Home Office is not doing its bit. Although people should not be rushed into making disclosures, once they have done so and the case is under way, the Home Office should ensure that it is not delayed by petty bureaucracy. A lot of the bureaucracy in the case that I mentioned was as simple as getting the woman’s name and date of birth right, but we were going back and forth for months. The Home Office comes to lecture all of us on the asylum system being broken in this country, and I agree that it is certainly broken, but what the Government are proposing is certainly not the way to fix it.
+
+Madam Deputy Speaker (Dame Eleanor Laing)
+I call Jeremy Corbyn, although just before the right hon. Gentleman rises, let me say that I know that he is usually very brief, but it seemed like we had a lot of time for this business and we are now running out of time, so would people just be a bit sharper? It is not a general conversation, but a debate. Let us just get on with it.
+
+Jeremy Corbyn
+Sharpness is the order of the day; I will be very brief and very sharp.
+
+This Bill is appalling in so many ways. I will come to that in just a moment. In this set of amendments, we are dealing with people who are suffering the most grotesque exploitation of almost anyone in the world—people who have been trafficked into sexual slavery, and into working illegally in factories and agriculture, and who have no recourse to any support anywhere. They are living in dangerous conditions. They are often isolated and have no one to turn to. While I appreciate that all the amendments are trying to provide better support and better protection for them, these people are the victims of slavery in every form imaginable.
+
+Although I support the amendment tabled by the right hon. Member for Chingford and Woodford Green (Sir Iain Duncan Smith), I do not quite understand why he limits the right to remain to 12 months, because if, at the end of that 12-month period, the person concerned is then faced with deportation, I would ask: deportation to where and under what circumstances? Would they not then be in danger in the country they have originally come from, or from the very gangs that have been called out, because of their seeking safety in this country?
+
+14:30:00
+
+Sir Iain Duncan Smith
+For clarification, we argued for the period as a de minimis, to give greater scope and time for the person’s case to be resolved fairly and reasonably. That was all. We could go further and further, but it is a compromise. I fully accept the right hon. Gentleman’s point, but I simply say to my colleagues that it is a minimum that they can take further and extend further, and they should be encouraged to do so if they wish.
+
+Jeremy Corbyn
+I thank the right hon. Gentleman for that explanation. Clearly his amendment is better than no amendment, but I would want us to go a lot further, because if we do not give support to people who are complete victims, they will suffer in the most abominable circumstances. I therefore hope that the Bill can be strengthened.
+
+This Bill is an appalling piece of legislation. It does not bring safety or humanity to people around the world. It will result in more people being put in danger. It will create a more draconian attitude towards refugees. There are 70 million refugees around the world. They are victims of war, human rights abuse and poverty. Some of them are victims of wars that we ourselves have been involved in. We need to reset the dial and work globally towards reducing the need for people to seek refuge or asylum by dealing with the issues at source. That is a more positive method than the incredibly draconian measures included in the Bill.
+
+There are many victims around the world in refugee camps and many other places. Having met many people in refugee camps and those who are victims of trafficking and modern slavery, I know they have a thirst to live a life and make a contribution to our world and our society. This Bill does not give them those chances. It further criminalises people who, out of desperation, put themselves in the most terrible danger. Sadly, 27 died in the channel, while thousands have died in the Mediterranean, and many more around the world. We need a global call for humanity, not repression.
+
+David Linden
+It is a pleasure to follow the right hon. Member for Islington North (Jeremy Corbyn). I remarked to my hon. Friend the Member for Glasgow North East (Anne McLaughlin) at the beginning of the debate that it was significant that both a former Leader of the Opposition and a former Prime Minister were still in the Chamber. We owe them a huge amount of respect for sticking around and informing the debate, even if our politics often differ from theirs and we do not agree with absolutely everything they say.
+
+The Bill is hostile towards refugees, flies in the face of the refugee convention, and goes against the advice of the UN High Commissioner for Refugees, non-governmental organisations and human rights lawyers. Put simply, the Bill takes some of the most vulnerable people in the world and exacerbates their risk of poverty, exploitation, and family separation. In speaking to this group of amendments and new clauses, I wish to offer my support for amendment 128, which would remove clause 58, and a number of other amendments and new clauses, but in the interests of brevity I will focus on part 5 of the Bill, which deals with modem slavery.
+
+Slavery is not yet a thing of the past. For so many people, slavery does not exist simply in the history books but is the horrific reality they face every day. From human trafficking victims to those undertaking involuntary labour and those in forced marriage, modern slavery impacts countless lives, and it is a sad but inescapable reality that it happens in many of our constituencies. Its scale is unknown, but the International Labour Organisation has estimated that more than 40 million people worldwide are victims of modern slavery.
+
+I pay tribute to Restore Glasgow in my constituency and the great work that it does to raise awareness of human trafficking, particularly teaching people to spot the signs of trafficking. Many of us wrongly assume that human trafficking and slavery occurs behind closed doors, but in some cases—indeed, far too many—it is hiding in plain sight on our high streets and in our shop fronts. I want to particularly raise this form of exploitation and highlight the forced labour of people who work in industries that are less regulated, such as car washes and nail bars. Many of us will walk past these shops every day and think nothing of the low prices or the long hours worked. I am asking not just hon. Members in this House but everyone watching this debate to really consider their purchasing power. We need to stop and think about that £5 car wash and that £10 set of nails. Bluntly, if four or five guys in flip-flops are washing your car for a few quid, then the alarm bells should be ringing loud and clear.
+
+There should be greater regulation in these industries to help prevent cases of human trafficking and slavery occurring in the first place, and that is where I would challenge governments both local and national, and all across these islands, to go further. In 2020, the chief executive of the British Beauty Council, Millie Kendall, said of the nail salon industry that
+
+“we are very under regulated and that’s a real problem for us.”
+
+Ms Kendall asked the British Government to move to license the industry. As far as I can see, there is very little provision in legislation to deal with that aspect of modern slavery. The situation for so many victims and survivors is desperate, which only makes the Government’s failure on this worse. Figures released in 2020 highlight that any efforts to crack down on slavery have been weak and slow, with only 42 convictions on slavery and human trafficking in 2018, down from 59 in 2017 and 69 in 2016.
+
+I have outlined aspects of modern slavery that I feel need to be further addressed, and I hope that the Minister will address some of those points in the wind-ups. However, I also ask the Minister and the Home Office to reflect on the fact that at least four Members representing the seven seats in the city of Glasgow have taken part in this debate. We so often hear from Conservative Members about their views on immigration and asylum. However, I would be willing to wager a safe amount of money that the amount of cases that I, my hon. Friend the Member for Glasgow North East and my hon. Friend the Member for Glasgow Central (Alison Thewliss) have ongoing at the moment is probably more than every single Conservative Member has dealt with in the course of this year. That is because, as MPs who rightly welcome people to our city and take up asylum casework, we far too often see the significant failings of an asylum and immigration system that is utterly broken, making it so difficult for those we represent.
+
+This Bill and much of what it represents is not what Scotland wants or voted for. Scotland is a welcoming country to refugees and asylum seekers. They are part of the rich tartan tapestry that makes up our communities. Indeed, they are our friends and our families with whom we break bread at community meals in places such as my native Cranhill. Earlier this year, my home city united and sent a clear message to the Home Office with the Kenmure Street protest, proving that once again all people, including refugees and asylum seekers, make Glasgow. Glasgow rejects this Bill and looks forward to a day when Westminster’s right-wing immigration policies and dangerous anti-refugee rhetoric has no territorial application on our citizens, and instead we can form borders and nationality policy that is based on dignity, not on dog-whistle politics.
+
+Anne McLaughlin (Glasgow North East) (SNP)
+It is an absolute pleasure to follow my hon. Friend, and neighbour, the Member for Glasgow East (David Linden).
+
+I have said repeatedly how disgusted I am with this Bill in its entirety, so I will not go over that again, and I am sure, Madam Deputy Speaker, that you would not let me. It is hard not to do it, but it is all on the record. In any case, whatever I say today is unlikely to change anybody’s vote, and that is what is so depressing about this. Today I will focus on what you want me to focus on, Madam Deputy Speaker, which is modern slavery and human trafficking. I will highlight two aspects of the many that I find greatly disturbing.
+
+First, there is late disclosure. I am deeply concerned by the measures in the Bill that aim to damage the credibility of victims of modern slavery or human trafficking. Using late disclosure as a reason to damage their credibility only serves to create barriers to effective and vital identification and engagement with those victims. The Government, of course, in their usual, cynical way, believe that claimants are abusing the system and attempting to frustrate removal. They point to the rise in the number of trafficking claims, but that is down to a range of factors, including greater awareness of modern slavery among detention workers and others and an improved ability to recognise vulnerability, as a leading Hibiscus report highlighted. All the awareness-raising campaigns, supported by all the Governments on these islands, including this Government, were always going to increase those numbers—that is what we were looking for, surely. To use that increase as a reason to now cynically attack people is just despicable.
+
+Mr Bone
+The hon. Lady seems to be welcoming what Governments have done against slavery, and she says that raising awareness and encouraging people to report has created more victims. Does she support what this Government and previous Governments have done to make this country the leader in the fight against modern-day slavery?
+
+Anne McLaughlin
+I support any attempts to help people who are victims of modern slavery, of course I do. Some good measures have been taken—of course they have—but it depresses me that this Government continually assume that anyone displaying signs of vulnerability, who for a number of reasons might not be able to come forward and present their story to the authorities immediately, is somehow acting in bad faith or gaming the system. There is a distinct lack of compassion and understanding in equal measure regarding the severe trauma suffered by some victims and its impact on their testimony.
+
+There are reasons why people are late in coming forward. I want to read something from the guidance for this Parliament’s Modern Slavery Act 2015. It states:
+
+“Victims’ early accounts may be affected by the impact of trauma. This can result in delayed disclosure”—
+
+the thing that we are now saying damages their credibility—
+
+“difficulty recalling facts, or symptoms of post-traumatic stress disorder…Victims may also be reluctant to self identify for a number of other reasons that can make understanding their experiences challenging”.
+
+Who wrote that? This Government did, so they know, yet they seek to punish victims by accusing anyone who fails to recount their traumatic experiences in time.
+
+To state that someone has experienced exploitation is in many ways similar to domestic violence in terms of how complicated it is. Exploitation is often committed by someone the victim knows or is close to, and it can happen very gradually over a long time. Some victims of exploitation are unaware there is even a crime being committed against them until it is too late, which this Bill will only prove to exacerbate.
+
+Some victims might not want to admit they have been exploited, particularly in cases of sexual abuse, where cultural sensitivities could mean a victim feels ashamed—shame that they should not feel, but do feel anyway. As my hon. Friend the Member for Glasgow Central (Alison Thewliss) pointed out, men who are exploited may feel ashamed or degraded by their lack of agency. Let us not forget that a lot of victims are terrified that if they reveal information, they or their family, here or wherever they have come from, might be punished by the traffickers. That is how they get them. The Met police said recently that it takes two years on average to get a west African victim of juju-induced slavery to reveal what happened to them.
+
+Then there are those who simply block it out. They do not consciously block it out; their unconscious mind cannot cope with it any longer. I had a friend many years ago who I used to visit every six months or so. One time I went to stay with her for the weekend. She worked as a cleaner in a local primary school. She had a normal life. She built a life for herself. She had a family and everything and this job. She was cleaning, and suddenly she had a flashback—for anyone who does not know, a flashback is not a memory; it is reliving the moment—to when she was eight years old and her stepfather was raping her. It was the most terrifying thing, clearly, but she was then in her 40s, and she only remembered it all those years later. She had the courage to speak to her siblings, one of whom had remembered it and had not told anybody. Sometimes it is simply that it is gone from someone’s memory, but it can come back, and we should not be punishing people in those cases.
+
+These measures will not prevent false claims. Instead, they will create an even deeper mistrust and suspicion of the authorities, and the only people who will gain from that are, as others have said, those who are seeking to exploit and extort these vulnerable victims. Traffickers use the fear of the authorities as a means of control, and this Bill will just give them, as my hon. Friend the Member for Cumbernauld, Kilsyth and Kirkintilloch East (Stuart C. McDonald) said, a broader set of tools. I cannot work out whether those supporting these measures do not realise that, or just do not care. It is increasingly looking like the latter, particularly over the past couple of days and throughout Committee.
+
+14:45:00
+
+If I have time, I would not mind saying a little about public order disqualifications. Do I have time for that?
+
+Madam Deputy Speaker (Dame Eleanor Laing)
+It is at the hon. Lady’s discretion, but I think everyone wants the Minister to answer the questions that have been asked this afternoon. If the hon. Lady goes on for very much longer, there will not be an opportunity for that. I am not stopping her, but I hope she will not take too much longer.
+
+Anne McLaughlin
+I will take your advice on that, Madam Deputy Speaker, although I am little unsure whether we will get answers, because we have not any other time we have been asking for them.
+
+Any disqualification from protection must be reserved for the most serious of offenders—those who pose a serious risk to the public or to national security. A public order disqualification for victims with prior convictions of 12 months or more is too wide, as others have said. There is a real danger that genuine victims who could give vital evidence against slavery networks, and who pose absolutely no risk to the public, will be excluded from that support.
+
+The actual figures for referrals of offenders in immigration detention to the NRM are low, as was said earlier, and the Government have published no data to back up the sensationalist claims made in support of these measures. It is another theme running through every part of this Bill. There is nothing to back up their scaremongering claims. The hon. Member for North East Bedfordshire (Richard Fuller) was also asking for evidence. I very much doubt the Minister is going to give us any, but let us wait and see.
+
+I will move on, finally, to say that I fail to see why all of this is part of an immigration Bill. We are not talking about immigrants; we are talking about victims of criminal offences. In 2016, I sat on the Immigration Bill Committee, and a Government Member, who is not present and whose name I will not reveal, told me, “If people do not want to be trafficked, they should simply say no.” That demonstrated a crass misunderstanding of what trafficking is. These are people who are not trying to migrate to this country; they are simply caught up in exploitation and they end up here.
+
+I will end by saying that I would love to hear what the Minister has to say. I have zero faith that we will hear anything. I have never ever been so ashamed as I am today, because I know that Members will vote for this Bill that will damage, exploit and kill vulnerable people, who they claim to care about. It is absolutely a disgrace.
+
+The Parliamentary Under-Secretary of State for the Home Department (Rachel Maclean)
+We have had an excellent debate. Despite some of the comments I have just heard from the previous speaker, the hon. Member for Glasgow North East (Anne McLaughlin), there is more agreement across the House on the seriousness of these crimes and our determination to tackle them than there is disagreement.
+
+The aims of the modern slavery elements of the Bill are twofold: to provide clarity on victims’ rights and entitlements, supporting effective recovery from this awful crime, and to increase prosecutions of perpetrators of the despicable crime of modern slavery. That is why we make clear for the first time in legislation that where a public authority, such as the police, is pursuing an investigation or criminal proceeding, confirmed victims who are co-operating and need to remain in the UK to do so will be granted temporary leave to remain. Our core principle is that the entitlements provided to victims are based on their needs, delivering a firm but fair approach. The Nationality and Borders Bill will go further than ever before in putting modern slavery victims’ rights into law. At the same time, we will put in place safeguards to ensure that these important protections are provided to those who most need them.
+
+I will begin by addressing the Government amendments. I will attempt to come on to the Opposition amendments, but I do not have very much time. Government amendments 64, 71 and 73 to 75, which will make changes to clauses 60 to 63, are technical amendments that seek to provide greater clarity on the protections provided to possible victims through the recovery period and on when those rights can be withheld, and to ensure that we have flexibility in decision making. Specifically, they enable the conclusive grounds decision to be made in the recovery period, while still providing for a minimum recovery period of 30 days, which is effectively 45 days in guidance. The second part makes clear our position that, in specific circumstances, as set out in clauses 61 and 62, we can withhold the recovery period and the protection from removal that it provides. Those changes allow us to respond to modern slavery as an evolving crime.
+
+On Government amendments 72 and 76 to 83, which all relate to modern slavery specific temporary leave to remain for confirmed victims of modern slavery, the aim is to clarify our international obligations with regard to the provision of temporary leave to remain for confirmed victims. Government amendments 78 and 81 to 83 are minor technical drafting amendments that provide consistency with similar provisions on the statute book. Similarly, Government amendment 79 updates the wording of the clause to reflect amendment 56, which we considered yesterday.
+
+Government amendments 76 and 77 remove the wording “social well-being” from subsection (2)(a) of clause 64 on the temporary leave to remain. That phrase was an over-broad concept that lacked clarity and left the eligibility criteria for a grant of leave under the clause unclear for victims and decision makers, which undermined the aim of the clause.
+
+I reassure hon. Members that we remain in line with our international obligations. We will continue to support, via a grant of temporary leave to remain, those who have a need to be in the UK to recover from physical and psychological harm caused by their exploitation. In the same vein, Government amendment 72 amends the wording in clause 63 from “social well-being” to “social harm”. I reassure hon. Members that the clause will be underpinned by the immigration rules, which will provide more guidance on the issue for decision makers.
+
+Government amendment 80 extends the current policy in the Bill that temporary leave will be provided where needs cannot be met in another country of which the individual is a national or citizen, another Council of Europe convention on action against trafficking in human beings signatory country, or any country with which we have an appropriate bilateral agreement. Decision makers will assess potential returns on a case-by-case basis following an individualised assessment in line with guidance and available country information.
+
+Stuart C. McDonald
+Will the Minister give way?
+
+Rachel Maclean
+If the hon. Gentleman will forgive me, I have a huge amount to put on the record. I may take interventions later in my speech, but I have a number of things that I need to address.
+
+I commend the Government amendments to the House and turn to the non-Government amendments. I will attempt to address the points of the hon. Member for Cumbernauld, Kilsyth and Kirkintilloch East (Stuart C. McDonald). As I have said, the Government are committed to tackling the heinous crime of modern slavery. I will first turn to some of the points made by the hon. Member for Halifax (Holly Lynch) and the right hon. Member for Kingston upon Hull North (Dame Diana Johnson).
+
+I thank the right hon. Member for Kingston upon Hull North and the organisations that she works with for meeting me. I commend her for her extensive work on this important point. I say again that we are committed to tackling all forms of modern slavery. We recognise the specific and horrific circumstances that victims of sexual exploitation have gone through. We believe that we have the right tools and a compassionate approach to those traumatised victims. Our people are fully trained to take a trauma-informed approach to advocate for them with compassion to help them to rebuild their lives and to reintegrate in their communities.
+
+The hon. Member for Halifax referenced the issue of child victims of modern slavery. I repeat to her and other hon. Members who raised the issue that safeguards are built into the measures and that decisions will be made on a case-by-case basis with appropriate levels of care. It is the clear duty of the Government to safeguard and protect child victims of that appalling exploitation.
+
+The people who are dealing with those victims are professionals who will use their discretion and, again, a trauma-informed approach. They fully understand and appreciate the experience of those children—those vulnerable victims—and will ensure that they get the right support and approach to rebuild their lives. I have much more to say about all the work that we are doing with regard to that, victim navigators and independent child trafficking guardians, and some of the other work that we are doing across police forces, but I am afraid that time will not allow me to expand on those issues.
+
+New clause 47, which was tabled by my right hon. Friend the Member for Chingford and Woodford Green (Sir Iain Duncan Smith) and signed by several other hon. Members, including my hon. Friend the Member for Wellingborough (Mr Bone), relates to support and leave to remain for confirmed victims. It is clear that we share common aims of bringing the perpetrators of that horrendous crime to justice and of supporting victims to rebuild their lives.
+
+I put on record my appreciation of my right hon. Friend the Member for Chingford and Woodford Green, my hon. Friend the Member for Wellingborough and many other hon. Members who have advocated for many years to ensure that we support the victims of that awful crime. A number of organisations, such as the Centre for Social Justice, have been instrumental in that; I want to continue to work with them. We are absolutely committed to ensuring that those victims of modern slavery have the support that they need to assist their recovery and the support that they need when they are engaging with the police and through the criminal justice process.
+
+It is a priority to increase prosecutions of perpetrators of modern slavery. My hon. Friend the Member for Wellingborough is absolutely right that we do not want to see any victims in the system, which is why we are making it clear for the first time that, where a public authority such as the police is pursuing an investigation, those victims who are co-operating and need to remain will be granted temporary leave to remain. Our legislation also makes it clear that leave will be granted where it is necessary to assist an individual in their recovery from any physical or psychological harm arising from the relevant exploitation or where it is necessary to seek compensation from their perpetrators. It is right that leave is granted to those who need it—that is firm but fair.
+
+That is but one element of our work to strengthen the criminal justice response to modern slavery. Since 2016, we have invested £15 million to support the police’s response to modern slavery, led by the modern slavery and organised immigration crime programme. Through that programme, the Home Office has provided funding for specialist training for police victim liaison officers, who build trust with victims to facilitate engagement with the process using a victim-centred approach.
+
+My right hon. Friend the Member for Chingford and Woodford Green spoke about the critical role that victim navigators play to help those traumatised individuals to engage with the system to ensure that we bring those despicable criminals to justice. To reflect the need for that specialist expertise, the Home Office funding provides a bespoke modern slavery intelligence hub with regional analysts, operational co-ordinators and improved training to support police forces and increase prosecutions. We are constantly ramping up that work so that we can best get to the source of those awful crimes.
+
+I assure my right hon. Friend that all those who receive a positive conclusive grounds decision and are in need of tailored support will receive appropriate individualised support for a minimum of 12 months. We will set out further details in relevant guidance.
+
+I add a note of appreciation for the hon. Member for Glasgow East (David Linden), who raised the issue of us all being aware of where modern slavery may be happening under our noses. I fully agree with those words and bring them to the attention of everybody in the House.
+
+Sir Iain Duncan Smith
+I am grateful that my hon. Friend has given the commitment to 12 months, but there are other elements in the new clause. It is not my intention to press it to a vote but, if such amendments are not tabled in the other place, others will table an amendment and we will bring it back to this House for a vote.
+
+Rachel Maclean
+I thank my right hon. Friend for his words. We will of course watch the progress of the Bill through the other place with interest, and I am happy to work with him and any others as we do so.
+
+Amendments 127 and 128, to which a number of Members have referred, seek to remove clauses 57 and 58 on the one-stop process as it relates to information relevant to modern slavery. These clauses are crucial to the Bill to enable us to appropriately identify victims at the earliest opportunity and make sure that they get support to rebuild their lives.
+
+Finally, on new clause 39 and amendment 3, I appreciate the concerns about clause 62, but it is right that we should be able to withhold protection from serious criminals and those who pose a national security threat to the UK. I would like to reassure hon. Members such as my hon. Friend the Member for North East Bedfordshire (Richard Fuller) that our approach is not to have a blanket disqualification based on public order, but to take a case-by-case approach to decisions and consider the individual’s circumstances.
+
+I would like to restate that our approach is to stamp out this evil and inhuman trade. The Bill is firm and fair, and it is in line with the overall objectives of our new plan for immigration. For those reasons, I hope that hon. Members will be content not to press their amendments.
+
+Question put, That the clause be read a Second time.
+
+The House proceeded to a Division.
+
+Madam Deputy Speaker (Dame Eleanor Laing)
+Order. Would the Serjeant at Arms please investigate the delay in the Aye Lobby? This is not acceptable: this Division should have been concluded by now. There is a lot of business to be done this afternoon, and taking too long to vote is taking time out of the next item of business.
+
+The House continued to divide.
+
+Madam Deputy Speaker
+Order. There is an unacceptable delay in the Aye Lobby. It is simply wrong if people are taking too long to vote, deliberately obstructing the Tellers when coming through and remaining in the Lobby when there is no need for them to be remaining in the Lobby in order to stop other business taking place in this House this afternoon. That is unacceptable. There is deliberate action occurring in the Aye Lobby, and it is unacceptable.
+
+Division 140
+08/12/2021 14:59:00
+The House having divided:
+Ayes: 236
+Noes: 288
+Question accordingly negatived.
+
+3.18 pm
+
+More than two hours having elapsed since the commencement of proceedings on consideration, the proceedings were interrupted (Programme Order, 7 December).
+
+The Deputy Speaker put forthwith the Questions necessary for the disposal of the business to be concluded at that time (Standing Order No. 83E).
+
+Madam Deputy Speaker (Dame Eleanor Laing)
+This Division will be conducted in a timely fashion. I will not have it obstructed deliberately.
+
+New Clause 6
+
+Exemption for child victims of modern slavery, exploitation or trafficking
+
+(1) The Secretary of State may not serve a slavery or trafficking information
+
+notice on a person in respect of an incident or incidents which occurred when the person was aged under 18 years.
+
+(2) Section 61 of this Act does not apply in cases where either of the positive reasonable grounds decisions related to an incident or incidents which occurred when the person was aged under 18 years.
+
+(3) Section 62 of this Act does not apply in cases where the positive reasonable grounds decision related to an incident or incidents which occurred when the person was aged under 18 years.
+
+(4) Sections 64(3) and 64(6) of this Act do not apply in cases where the positive conclusive grounds decision related to an incident or incidents which occurred when the person was aged under 18 years.—[Holly Lynch.]
+
+Brought up,
+
+Question put, That the clause be added Bill.
+
+The House proceeded to a Division.
+
+Madam Deputy Speaker
+I ask the Serjeant at Arms to investigate, once again, the delay in the Lobbies. This is an anti-democratic practice. It may not be obvious to the House, or to those who observe our proceedings, that the effect of delaying these Divisions is to deprive the Home Secretary and the shadow Home Secretary of the ability to speak on Third Reading of the Bill. That is unacceptable. It is right that this House should hear from the Home Secretary, the shadow Home Secretary, and others on Third Reading. The delaying tactics, if one can use that term, that appear to be being used are unacceptable and contrary to good democratic practice.
+
+Mr David Davis (Haltemprice and Howden) (Con)
+On a point of order, Madam Deputy Speaker.
+
+Madam Deputy Speaker
+Is it about the Division?
+
+Mr Davis
+It is.
+
+Madam Deputy Speaker
+Then I can accept the right hon. Gentleman’s point of order.
+
+Mr Davis
+Thank you, Madam Deputy Speaker. In view of the anti-democratic nature of the obstruction, is it possible to name the people who are causing it?
+
+Madam Deputy Speaker
+The right hon. Gentleman asks a perfectly reasonable question. I am considering the answer. At present, I have no proof of the identity of those who are obstructing these Divisions. I will endeavour to obtain that information, and then I will consider what to do with it.
+
+Division 141
+08/12/2021 15:19:00
+The House divided:
+Ayes: 234
+Noes: 293
+Question accordingly negatived.
+
+Madam Deputy Speaker (Dame Eleanor Laing)
+New clause 47 has been selected for a separate decision. I call Sir Iain Duncan Smith to move the new clause formally.
+
+Sir Iain Duncan Smith
+Not moved.
+
+Clause 58
+
+Late compliance with slavery or trafficking information notice: damage to credibility
+
+Amendment proposed: 128, page 57, line 25, leave out clause 58.—(Stuart C. McDonald.)
+
+Question put, That the amendment be made.
+
+The House proceeded to a Division.
+
+Madam Deputy Speaker (Dame Eleanor Laing)
+Will the Serjeant at Arms please go and clear the Lobby?
+
+David Linden
+On a point of order, Madam Deputy Speaker.
+
+Madam Deputy Speaker
+Does the hon. Gentleman’s point of order relate to the Division?
+
+David Linden
+It does, Madam Deputy Speaker. Given that it is taking quite a lot of time to get through the votes, I wonder whether it might be possible to investigate the idea of introducing this thing called electronic voting, which would speed things up a little bit.
+
+Madam Deputy Speaker
+If the hon. Gentleman had been behaving properly, I might have taken his point of order seriously. I have to say to him and to the House that a very serious piece of legislation is going through the House today. There has been genuine debate and disagreement about it, but it is legislation that will affect a lot of people in this country and it deserves to be properly considered. The antics that have been reported to me—the way in which certain Members have behaved, very obviously delaying and lengthening the time that the Divisions are taking—are, as I said a few moments ago, contrary to good democratic practice. I deplore the actions of those people who have delayed the Divisions, and who indeed are doing so now. Will they please cast their votes, come back into the Chamber and allow the Third Reading to take place?
+
+Division 142
+08/12/2021 15:35:00
+The House having divided:
+Ayes: 231
+Noes: 300
+Question accordingly negatived.
+
+Stephen Flynn (Aberdeen South) (SNP)
+On a point of order, Madam Deputy Speaker—
+
+Madam Deputy Speaker (Dame Eleanor Laing)
+I am not taking your point of order. Sit down—[Interruption.] Sit down! I am not taking any points of order—
+
+Stephen Flynn
+rose—
+
+Madam Deputy Speaker
+Sit down! I am not taking a point of order. It would have to be about the Division that we have just had—[Interruption.] Sit down!
+
+Clause 60
+
+Identified potential victims of slavery or human trafficking: recovery period
+
+Amendments made: 64, page 59, line 1, leave out subsection (2).
+
+This amendment removes the requirement that there must be at least 30 days between the making of a positive reasonable grounds decision in relation to an identified potential victim of slavery or human trafficking and the making of a conclusive grounds decision.
+
+Amendment 65, page 59, line 4, at beginning insert “Subject to section 62(2),”.
+
+This is a drafting amendment to make it clear that the prohibition on removal of an identified potential victim does not apply where they are disqualified from protection under clause 62 as a threat to public order or for having acted in bad faith.
+
+Amendment 66, page 59, line 10, leave out paragraph (b) and insert—
+
+“(b) ending with whichever of the following is the later—
+
+(i) the day on which the conclusive grounds decision is made in relation to the identified potential victim;
+
+(ii) the end of the period of 30 days beginning with the day mentioned in paragraph (a).”—(Rachel Maclean.)
+
+This amendment is consequential on Amendment 64. It ensures that an identified potential victim is entitled to a recovery period (giving protection from removal) of at least 30 days even where a conclusive grounds decision is made within 30 days of the positive reasonable grounds decision.
+
+Clause 61
+
+No entitlement to additional recovery period etc
+
+Amendments made: 67, page 59, line 17, after “person” insert
+
+“, in a case where the reasonable grounds for believing that the person is a victim of slavery or human trafficking arise from things done wholly before the first RG decision was made”.
+
+This amendment corrects a drafting error in the definition of “further RG decision”.
+
+Amendment 68, page 59, line 18, leave out paragraph (c).
+
+This amendment is consequential on Amendment 67.
+
+Amendment 69, page 59, line 21, leave out subsections (2) to (4) and insert—
+
+“(2) If the competent authority considers it appropriate in the circumstances of a particular case, the authority may determine that the person may not be removed from, or required to leave, the United Kingdom during the period—
+
+(a) beginning with the day on which the further RG decision is made, and
+
+(b) ending with whichever of the following is the later—
+
+(i) the day on which the conclusive grounds decision is made in relation to the further RG decision;
+
+(ii) the end of the period of 30 days beginning with the day mentioned in paragraph (a).
+
+This is subject to section 62(2).”—(Rachel Maclean.)
+
+This amendment removes the disapplication of a requirement to make a conclusive grounds decision following a “further RG decision” and instead provides that, although an identified potential victim is not automatically entitled to protection from removal following a further RG decision, the competent authority may decide that it is appropriate to give them that protection.
+
+Clause 62
+
+Identified potential victims etc: disqualification from protection
+
+Amendments made: 70, page 60, line 1, leave out paragraph (a).
+
+This amendment is consequential on Amendments 64 and 69.
+
+Amendment 71, page 60, line 4, at end insert “, and
+
+(c) any requirement under section 64 to grant the person limited leave to remain in the United Kingdom.”—(Rachel Maclean.)
+
+This amendment provides that if an identified potential victim is disqualified from protection (on the grounds of public order or acting in bad faith) but goes on to receive a positive conclusive grounds decision, any requirement to grant them leave to remain in the United Kingdom that would otherwise arise under clause 64 ceases to apply.
+
+Clause 63
+
+Identified potential victims etc in England and Wales: assistance and support
+
+Amendments made: 72, page 61, line 28, leave out from “any” to “arising” in line 29 and insert
+
+“physical, psychological or social harm”.
+
+This amendment changes the reference to “social well-being” to “social harm” to follow more closely the language of the Council of Europe Convention on Action against Trafficking in Human Beings.
+
+Amendment 73, page 61, line 35, leave out paragraph (b).
+
+This amendment is consequential on Amendment 69.
+
+Amendment 74, page 61, line 43, leave out paragraph (b) and insert—
+
+“(b) ending with whichever of the following is the later—
+
+(i) the day on which the conclusive grounds decision is made in relation to the further RG decision;
+
+(ii) the end of the period of 30 days beginning with the day mentioned in paragraph (a).”
+
+This amendment is consequential on Amendment 64.
+
+Amendment 75, page 61, line 45, leave out subsection (5).—(Rachel Maclean.)
+
+This amendment is consequential on Amendment 73.
+
+Clause 64
+
+Leave to remain for victims of slavery or human trafficking
+
+Amendments made: 78, page 62, line 23, leave out “give” and insert “grant”.
+
+This amendment and Amendments 81 to 83 make minor drafting changes for consistency with related provisions on the statute book.
+
+Amendment 76, page 62, line 26, after “any” insert “physical or psychological”.
+
+This amendment removes assisting a victim of slavery or human trafficking in their recovery from harm to their social well-being from the list of purposes for which the Secretary of State is required to give a victim limited leave to remain the United Kingdom.
+
+Amendment 77, page 62, line 27, leave out from “exploitation” to end of line 28.
+
+This amendment is consequential on Amendment 76.
+
+Amendment 79, page 62, line 33, at end insert—
+
+“(2A) Subsection (2) is subject to section 62(2).”
+
+This amendment is consequential on Amendment 71.
+
+Amendment 80, page 63, line 3, leave out “as” and insert
+
+“which may be, but does not need to be, an agreement”.
+
+This amendment makes it clear that a trafficking victim may be removed to a country which is not a signatory to the Council of Europe Convention on Action against Trafficking in Human Beings, if the UK has made an agreement with that country.
+
+Amendment 81, page 63, line 9, leave out “give” and insert “grant”.
+
+See the explanatory statement for Amendment 78.
+
+Amendment 82, page 63, line 11, leave out “given” and insert “granted”.
+
+See the explanatory statement for Amendment 78.
+
+Amendment 83, page 63, line 12, leave out “given” and insert “granted”.—(Rachel Maclean.)
+
+See the explanatory statement for Amendment 78.
+
+Clause 81
+
+Extent
+
+Amendment made: 84, page 79, line 4, leave out subsections (4) and (5) and insert—
+
+“(4) Her Majesty may by Order in Council provide for any of the provisions of this Act to extend, with or without modifications, to any of the Channel Islands or the Isle of Man.
+
+(5) A power under any provision listed in subsection (6) may be exercised so as to extend (with or without modification) to any of the Channel Islands or the Isle of Man any amendment or repeal made by or under this Act of any part of an Act to which the provision listed in subsection (6) relates.
+
+(6) Those provisions are—
+
+(a) section 36 of the Immigration Act 1971,
+
+(b) section 15(1) of the Asylum and Immigration Appeals Act 1993,
+
+(c) section 13(5) of the Asylum and Immigration Act 1996,
+
+(d) section 9(3) of the Special Immigration Appeals Commission Act 1997,
+
+(e) section 170(7) of the Immigration and Asylum Act 1999,
+
+(f) section 163(4) of the Nationality, Immigration and Asylum Act 2002,
+
+(g) section 338 of the Criminal Justice Act 2003,
+
+(h) section 49(3) of the Asylum and Immigration (Treatment of Claimants etc) Act 2004,
+
+(i) section 63(3) of the Immigration, Asylum and Nationality Act 2006,
+
+(j) section 60(4) of the UK Borders Act 2007,
+
+(k) section 57(5) of the Borders, Citizenship and Immigration Act 2009,
+
+(l) section 76(6) of the Immigration Act 2014,
+
+(m) section 60(6) of the Modern Slavery Act 2015,
+
+(n) section 95(5) of the Immigration Act 2016, and
+
+(o) section 8(2) of the Immigration and Social Security (EU Withdrawal) Act 2020”.—(Rachel Maclean.)
+
+This amendment will enable the provisions of the Bill to be extended, by Order in Council, the Channel Islands and the Isle of Man.
+
+Clause 82
+
+Commencement
+
+Amendments made: 85, page 79, line 21, leave out “This Part and”.
+
+This amendment, and Amendment 86, make minor drafting changes needed as a result of Amendment 87.
+
+Amendment 86, page 79, line 25, leave out paragraph (b) and insert—
+
+“(b) this Part.”
+
+See statement for Amendment 85.
+
+Amendment 87, page 79, line 26, at end insert—
+
+“(3A) The following provisions come into force on the day on which this Act is passed for the purposes of making (and, where required, consulting on) regulations—
+
+(a) section 13 (requirement to make asylum claim at “designated place”);
+
+(b) section 26 (accelerated detained appeals);
+
+(c) section 41 and Schedule 4 (penalty for failure to secure goods vehicle etc);
+
+(d) section 42 (working in United Kingdom waters: arrival and entry);
+
+(e) section 49 (persons subject to immigration control: referral or age assessment by local authority);
+
+(f) section 51 (regulations about use of scientific methods in age assessments);
+
+(g) section 52 (regulations about age assessments);
+
+(h) section 68 (interpretation of Part 5);
+
+(i) section 77 (pre-consolidation amendments of immigration legislation).”
+
+This amendment brings powers in the Bill to make regulations into force on Royal Assent, so that the regulations can be prepared in advance of the substantive provisions being commenced. The regulations themselves will not be commenced for at least two months after Royal Assent.
+
+Amendment 88, page 79, line 38, leave out paragraph (g).
+
+This amendment is consequential on Amendment 87.
+
+Amendment 89, page 79, line 42, leave out paragraphs (j) and (k).
+
+This amendment is consequential on Amendment 87.
+
+Amendment 90, page 80, line 3, leave out paragraph (n).—(Rachel Maclean.)
+
+This amendment is consequential on Amendment 87.
+
+Third Reading
+
+15:51:00
+
+The Secretary of State for the Home Department (Priti Patel)
+I beg to move, That the Bill be now read the Third time.
+
+Madam Deputy Speaker, may I echo your remarks—
+
+Stephen Flynn
+On a point of order—
+
+Madam Deputy Speaker
+Order. No points of order!
+
+Priti Patel
+Thank you, Madam Deputy Speaker. May I echo your remarks—[Interruption.]
+
+Madam Deputy Speaker (Dame Eleanor Laing)
+Order. If the hon. Gentleman rises again, I will require him to leave the Chamber.
+
+Priti Patel
+Thank you, Madam Deputy Speaker. It is appalling that we have seen these delaying tactics today.
+
+This Bill introduces the most significant overhaul of our asylum system in over two decades, and it is a shame that Members of this House have brought in these delaying tactics today to prevent this debate. Our Bill will bring in a new, comprehensive, fair but firm long-term plan that seeks to address the challenge of illegal migration head on. Illegal immigration is facilitated by serious organised criminals exploiting people and profiting from human misery.
+
+Lee Anderson (Ashfield) (Con)
+I am sure my right hon. Friend will agree that this is the most important piece of legislation to be passed since I was elected in 2019. Does she also agree that the disgraceful tactic of hiding in the toilets used by the rabble opposite to delay democracy is an attack on democracy? You should be ashamed, the lot of you!
+
+Hon. Members
+Hear, hear!
+
+Madam Deputy Speaker
+Order. We will now hear the Home Secretary and the shadow Home Secretary.
+
+Priti Patel
+Thank you, Madam Deputy Speaker. I will not give way further, so that the right hon. Member for Normanton, Pontefract and Castleford (Yvette Cooper) can have some time. The Back Benchers have debated this Bill already.
+
+Pete Wishart (Perth and North Perthshire) (SNP)
+Will the Minister give way?
+
+Priti Patel
+No I will not, because I want to give the right hon. Lady a chance to speak in the debate and quite frankly, other Members on the Opposition Benches have already delayed the debate.
+
+Illegal immigration is facilitated by serious organised criminals exploiting people and profiting from human misery. Illegal migration is counter to our national interests, because those criminal gangs and networks are also responsible for other illicit activity including those involving drugs, firearms and serious violence. If left unchecked, it is a risk to our country and our national interests. Illegal migration is counter to our moral interests, because it means that people are put into the hands of ruthless criminals, which we want to stop because it endangers lives. By facilitating illegal entry via unsafe means such as boats, lorries and sealed shipping containers—
+
+Pete Wishart
+Will the Minister give way?
+
+Priti Patel
+I will not give way, because I want to leave some time for the right hon. Member for Normanton, Pontefract and Castleford. The hon. Gentleman would have had time to contribute from the Back Benches during the debate on Report.
+
+Families and young children have lost their lives at sea and in lorries and containers because they put their trust in the people traffickers. The challenge is not unique to the United Kingdom, but we as a Government are seeking to address these issues in a responsible way, because they have been neglected for far too long. Let us not forget that the British public are angered by what they see. The British people are fair and generous when it comes to helping those in need—[Interruption.]
+
+If I may, hon. Members have had hours to debate this Bill. They are screaming and using delaying tactics because they lack the solutions to these problems, and we are going to put fundamental reforms into statute.
+
+The reality is that the system is broken. It has been open to gaming and criminal exploitation, and we are compelled to act with the simple principle of fairness. We are the only Government who will bring forward a balanced Bill. We are bringing forward a legislative framework that is firm and fair, prioritising those in genuine need. We will have powers to stop illegal entry and to break the business model of the evil people smugglers, who will face life in prison, which is something all Opposition Members have opposed completely.
+
+We will bring in tough new sentences—maximum life sentences—for people smugglers and facilitators. There will be new rules to stop unscrupulous people posing as children, and there will be stronger enforcement powers for Border Force. Importantly, those who travel through a safe country should claim asylum in that safe country, rather than asylum shopping in the way we see right now.
+
+David Linden
+Will the right hon. Lady give way?
+
+Madam Deputy Speaker (Dame Eleanor Laing)
+Order. Sit down. The Home Secretary does not have time to take interventions, neither will the shadow Home Secretary, because time has been wasted by the Members on the SNP Benches. Stay in your seat.
+
+Priti Patel
+They do not like hearing the fact that this Government will seek to rapidly remove those with no legal right to be in the UK. We are establishing a fast-track appeal process and streamlining the appeal system, making it quicker to remove failed asylum seekers and dangerous foreign criminals, the very people they would like to keep in this country. We will tackle the practice of meritless last-minute claims and appeals that clog up the courts, which is a fundamental unfairness that, by the way, even the legal profession says has been frustrating it for too long because the justice system has been gamed. We will protect the rights of modern-day slavery victims, too.
+
+On that basis, we will bring in a fundamental change. The Opposition have had a chance to back the Bill, and they have chosen not to back the Bill. They want open borders, and they would encourage more people smuggling and more dangerous crossings that would compromise our national interest and our public safety. Our opponents have no answers to this Bill, and we are the ones who want to control illegal migration. We want to take back control of our borders. Many Opposition Members have written letters opposing the deportation of murderers and rapists. [Interruption.] They can say they have not, but they have.
+
+This Bill will bring in fundamental reform, and I commend it to the House.
+
+15:58:00
+
+Yvette Cooper (Normanton, Pontefract and Castleford) (Lab)
+Unfortunately, what we have just had is a lot of rhetoric and slogans, not solutions, on such a serious issue. Two years ago, the Home Secretary promised she had a plan to halve within three months the number of boats crossing the channel. Instead, the number has gone up tenfold since then, as criminal gangs have switched to using flimsy boats instead. She said she was confident that her plan would lead to a considerable reduction in illegal activity. Instead, those smugglers and traffickers are making more and more profit as lives are being lost.
+
+Far from cracking down on the criminal gangs and the smugglers, this Bill makes things worse. The Independent Anti-Slavery Commissioner and former top police chief, Sara Thornton, has warned the Government repeatedly that the policies in this Bill will severely limit our ability to convict perpetrators and dismantle organised crime groups. I can tell the Home Secretary that the Labour party will not support letting vile people traffickers and criminal gangs off the hook in the way that she is prepared to do.
+
+In November, 27 people died in the cold English channel. We need solutions and co-operation to try to tackle the smuggler gangs who are making a profit from people losing their lives. We need the safe and legal routes that the Home Secretary has promised and not delivered. The Afghan soldier who worked with our armed forces and arrived by boat with his family just a few weeks ago to claim asylum should never have ended up in a dinghy on the channel. The security co-operation just is not happening. The Home Secretary has failed to go to the heart of the criminal gangs’ business model, which is all around social media, and she has failed to back the measures that we proposed yesterday.
+
+Question put, That the Bill be now read the Third time.
+
+Division 143
+08/12/2021 16:00:00
+The House divided:
+Ayes: 298
+Noes: 231
+Question accordingly agreed to.
+
+Bill read the Third time and passed.
+

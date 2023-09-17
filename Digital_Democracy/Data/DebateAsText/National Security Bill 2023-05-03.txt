@@ -1,0 +1,560 @@
+ National Security Bill
+
+Consideration of Lords amendments
+
+King’s and Prince of Wales’s consent signified.
+
+Madam Deputy Speaker (Dame Rosie Winterton)
+I must draw the House’s attention to the fact that financial privilege is engaged by Lords amendments 33 and 34. If they are agreed to, I will cause the customary entry waiving Commons financial privilege to be entered in the Journal.
+
+Clause 28
+
+00:00:00
+
+12:52:00
+
+The Minister for Security (Tom Tugendhat)
+I beg to move amendment (a) to Lords amendment 26.
+
+Madam Deputy Speaker (Dame Rosie Winterton)
+With this it will be convenient to discuss the following:
+
+Lords amendment 26, and amendment (c) and Government amendment (b).
+
+Lords amendment 153, and Government amendment (a).
+
+Lords amendment 22, and Government motion to disagree.
+
+Lords amendment 122, and Government motion to disagree.
+
+Lords amendments 1 to 21, 23 to 25, 27 to 121, 123 to 152 and 154 to 174.
+
+Tom Tugendhat
+Let me start on a personal note by thanking the Clerk who is sitting in his place and congratulating him on becoming Clerk of the House. It is the first time that he has been in his place when I have spoken from the Despatch Box. He has been a friend for many years, so I am glad to have the opportunity to put on record that the Clerks keep us all on the straight and narrow, and in some cases get us out of rather a lot of trouble. I thank them very much indeed.
+
+It is a pleasure to bring the National Security Bill back to this House. A number of changes have been made in the other place to improve it. The House will know the importance of the Bill: it gives our intelligence and security services, as well as law enforcement, a new toolkit to tackle state actors who threaten the safety and security of the United Kingdom. It also takes steps to prevent public funds from being given to those who could use them to support terror. As always, this Government have listened. I pay tribute to Lord Anderson and Lord Carlile for their work to improve the Bill—[Interruption.] I am glad to hear the acknowledgement from the Opposition Benches. That has improved the Bill for all sides.
+
+We have heard the views of the other place, of industry and of many others, and we have focused the foreign influence registration scheme into a more targeted weapon against those who would do us harm. Arrangements to carry out political influence activity will now be registerable only when directed by a foreign power. Receiving funding from a foreign power, absent a direction, will not trigger a requirement to register under the scheme. For example, cultural institutes that make an important contribution to life in the United Kingdom will not be required to register simply because they receive funding from a foreign power. That is in line with the original intention of the scheme.
+
+Only where organisations or individuals are directed by a foreign power to carry out political activities will that arrangement need to be routinely registered. We will publish guidance to support understanding of the scheme and circumstances in which arrangements will need to be registered. It remains the case that criminal offences will be attached to failures to register.
+
+The Government made a number of changes in the other place following concerns expressed about the Bill’s potential impact on journalistic freedoms and other legitimate activity. I pay enormous tribute to Lord Black for his contribution to the debate. The Government are clear that the Bill’s focus is on protecting the United Kingdom from threats from those acting against the UK’s interests, not interfering with press freedom. The Lords amendments clarify the scope of offences and requirements in part 1. That includes amending the language in the phrase
+
+“knows, or ought reasonably to know”
+
+to put beyond doubt that it would need to be proved what an individual knew rather than capturing individuals acting unwittingly. That applies in every instance when the phrase appears in the Bill, including in the foreign power condition.
+
+Further drafting changes have been made, including to clarify the scope of the offence of assisting a foreign intelligence service and the meaning of foreign power threat activity.
+
+Martin Docherty-Hughes (West Dunbartonshire) (SNP)
+Does the Minister agree that we must exclude assistance in torture from the scope of defence, to protect people such as my constituent Jagtar Singh Johal, who was repeatedly electrocuted and threatened with being set alight by the Government of India?
+
+Tom Tugendhat
+The hon. Member will know that that is a matter for the Foreign Office in its dealings with other states. The Bill does not in any way erode any of the protections under the European convention on human rights, including the right not to be tortured.
+
+We are pleased that the chief executive officer of the News Media Association Owen Meredith said in response to the Government’s changes that he welcomed
+
+“the government’s reassurances that journalism will not be criminalised under this new national security regime.”
+
+That is absolutely correct. It will not be, and it is not the Government’s intention that it should be. The media sector recognises the balance that the Government have struck between protecting press freedoms and safeguarding national security.
+
+We have also taken on board the concerns of the Intelligence and Security Committee of Parliament, which I thank for the incredibly constructive and supportive manner in which it has engaged on the Bill. In response, the Government have changed the Serious Crime Act 2007 amendment from non-application of the offences to a defence. We believe that the amendment strikes the right balance. It ensures that the dedicated individuals in the intelligence and security services can carry out activities to support our foreign partners, but that there can be proper legal consideration of any potential wrongdoing.
+
+The Bill is now in a strong position. We have effective tools and powers to tackle hostile activity on British soil or that is against the UK’s interest, done for or on behalf of, or with the intention to benefit, foreign states. We have a thorough transparency scheme designed to ensure that we know who is influencing our politics. Under the enhanced tier of the foreign influence registration scheme, we have the ability to specify states and entities and thereby require the registration of activities to protect the safety or interests of the United Kingdom. We also have the means to prevent the exploitation of the UK’s civil legal aid and civil damage systems by convicted terrorists.
+
+Stephen Doughty (Cardiff South and Penarth) (Lab/Co-op)
+I have raised on a number of occasions in debates and Committees the use of cryptocurrencies, and cryptocurrency mixers in particular, to facilitate the activities of hostile state-sponsored activities in a number of countries. The US Treasury acted against a number of the so-called mixers back in August last year. Despite raising that on a number of occasions, I am yet to receive clarification on what we are doing to ensure that cryptocurrency is not used to facilitate hostile state activities, as has been done in sums of billions.
+
+Tom Tugendhat
+The hon. Gentleman, who is a friend, is right to highlight this issue as it is true that cryptocurrency can be used in such ways. I urge him to look at the Economic Crime and Corporate Transparency Bill, which we are taking through the House. Naturally, the National Security Bill does not cover every element that we are using to ensure the protection of the United Kingdom; there are many other Bills, which work together as a woven fabric of defence. Cryptocurrency is one aspect of the Economic Crime and Corporate Transparency Bill, which my hon. Friend the Member for Thirsk and Malton (Kevin Hollinrake) is leading on. That Bill is making its way through the House and will address some of the hon. Gentleman’s concerns.
+
+Turning to amendments 22 and 122, the Government have set out clear reasons why we will not accept either amendment. I know that my right hon. Friend the Member for New Forest East (Sir Julian Lewis) will be making an intervention about this later in the debate. We have set out the reasons why we will not accept the amendments, which were made clear in the other place.
+
+Amendment 22 would introduce a requirement for political parties to
+
+“publish a policy statement to ensure the identification of donations from a foreign power”.
+
+Upon receipt of a donation, political parties are already required by law to verify whether they are or are not from a political source. Donations that do not meet the permissibility tests or are unidentifiable must be returned and reported to the Electoral Commission. If political parties fail to do that, their treasurers face being sent to jail. They risk the reputations of their staff and their elected representatives being shredded. There is already a strong incentive for parties to ensure that donations come only from permissible donors.
+
+Sir Chris Bryant (Rhondda) (Lab)
+But earlier the Minister was praying in aid Lord Carlile, saying what a wonderful job he had done in helping the Government to bring forward wonderful amendments. This is one of his amendments, so it seems a bit odd to turn against this one.
+
+On the point the Minister just made about permissible donors, all that has to be checked is whether the person is on the electoral register. The Elections Act 2022 has added to the register 3.5 million people who do not even live in this country. All that political parties presently have to do is check whether somebody is on the electoral register. I do not think that safeguards our elections from interference from those who would wish us ill.
+
+Tom Tugendhat
+The hon. Member has formerly been very kind about the work that we have done together, such as on the Foreign Affairs Committee and on other appointments. He has agreed with me on some areas and disagreed on others. It cannot be an enormous surprise to him that I agree with Lord Carlile on some areas and disagree with him on others. Frankly, that is the nature of parliamentary work, as the hon. Gentleman knows better than anyone.
+
+As for the hon. Gentleman’s point about foreign registrations, those are of British citizens living abroad. Those are the only terms on which people are registered to vote on our electoral register. It is not right to say that those are a random 3.5 million people; that is certainly not true. They are British citizens and therefore their donations are as valid as their votes.
+
+The Government recognise that there are risks. That is why it is already an offence to attempt to make a donation by concealing information, giving false information or knowingly facilitating the making of an impermissible donation. Where the foreign power condition is met in relation to a relevant electoral offence, as set out in schedule 1 to the Bill, clause 16 provides for a substantially increased maximum penalty: where a one-year sentence previously applied, that has been increased to four years; and two-year sentences have been increased to seven years. These relevant electoral offences include offences of undue influence, for which the maximum sentence has been increased to seven years, and making a false declaration about the source of a donation, for which the maximum sentence has been increased to four years.
+
+Indeed, the Government have already taken action. The Elections Act 2022 tightened the law to close loopholes on foreign spending. The Electoral Commission is also being given more powers to access Companies House information, through measures under the Economic Crime and Corporate Transparency Bill. That will allow the Electoral Commission to undertake the proper targeted and proportionate checks.
+
+For absolute clarity, donations to political parties from foreign powers, made directly or indirectly, are not permissible. The amendment places new requirements on minor parties, who are not subject to any other financial reporting requirements at this time, as they can contest only local and parish elections. The amendment would therefore place huge administrative burdens on small, grassroots political campaigning and would punish grassroots democracy.
+
+It is not clear how the proposals would work in practice. Political parties are not banks; rightly, they do not have access to individuals’ financial records. They are not His Majesty’s Revenue and Customs; they do not have access to tax records. They do have access to the electoral roll and to Companies House, which they are already obliged to check. The Electoral Commission already publishes guidance on these legal duties. Indeed, political parties must already report all larger donations to the Electoral Commission, which are then published online for public scrutiny.
+
+Martin Docherty-Hughes
+Is the Minister saying that small grassroots organisations, many of them associational organisations that may be registered charities in England and Wales, Scotland or Northern Ireland, are not capable of filling out an extra form to make sure that they are not being utilised by foreign states?
+
+Tom Tugendhat
+The hon. Member underplays what the amendment would do. It would be much more than simply filling in a form and would place a greater burden of a need to check, which would be a major requirement for small political parties and grassroots organisations. I am surprised that he, as a champion of local democracy, would require smaller parties to do that.
+
+As I have said, Lords amendment 22 is not needed. The law already makes robust provision in relation to donations to political parties. Foreign donations are banned. It is an offence to accept them and there are strong rules safeguarding against impermissible donations via the backdoor. Parties can accept donations only from permissible donors. As such, the Government will not accept the amendment.
+
+Amendment 122 imposes a duty on the Prime Minister to amend the memorandum of understanding between the Prime Minister and the Intelligence and Security Committee to account for changes to intelligence or security activities
+
+“as a result of this Act”.
+
+It also requires engagement on these revisions to begin within six months of the Act coming into force.
+
+The power to make revisions to the MOU between the Prime Minister and the ISC is not limited to changes resulting from a specific piece of legislation. Adding the amendment risks creating the erroneous impression that explicit legislative provision is required in order for the ISC to propose amendments to the MOU. Further, the power to amend the MOU is already included in the Justice and Security Act 2013. I would be happy to meet with the chair of the ISC, my right hon. Friend the Member for New Forest East, on this matter. Indeed, we have spoken about that in the past.
+
+Sir Julian Lewis (New Forest East) (Con)
+I am grateful to my right hon. Friend—and he is a friend—who I know is saying what he has to say. We know that the memorandum of understanding can be amended as developments in the organisation of Government require it to be amended, but the trouble is that the Prime Minister has been reluctant to amend it and it is not being amended. The reason this amendment was introduced in the other place is to force the Government to do what they should be doing voluntarily.
+
+Tom Tugendhat
+As usual, my right hon. Friend makes his point cogently. In reality, the MOU requires amendment because the nature of the Government has changed. He is absolutely right that we need to ensure that the House is able to scrutinise the Government on areas where intelligence and security information is required. I agree that that update needs to be made, but I disagree that this is the place to do it or that it should be done in legislation, for the reasons of flexibility that we have already discussed. I know that he will be making his case powerfully to the Prime Minister, and no doubt to other Ministers, to make sure that the updates required to make sure scrutiny is observed are followed through.
+
+Finally, I turn to the amendment to the Serious Crime Act 2007 tabled today, which largely speaks for itself. It clarifies the application of the new defence, which will apply to
+
+“the proper exercise of a function of the armed forces”
+
+only when relating to intelligence. This addresses concerns raised in the other place about the scope of armed forces activities that may have been covered by the defence. It builds upon the amendment tabled by Lord Anderson on Report in the Lords and the commitment made in the other place to bring forward a similar amendment. I am glad that we can bring it forward today.
+
+The ISC has heard and accepted the operational problems caused by the application of the SCA offences. I believe the new SCA defence, and today’s amendment to it, satisfy the concerns of the United Kingdom intelligence community, the armed forces, the other place and this House. I therefore ask the House to support the Government amendment. Let me again thank the Intelligence and Security Committee for its co-operation and help in improving the Bill.
+
+As the House will know, the Government have also tabled a minor amendment to the foreign influence registration scheme, designed to ensure parity across the devolved Administrations in respect of the public officials covered within the meaning of political influence activity.
+
+This Bill is a groundbreaking piece of legislation that will revolutionise the tools and powers available to the police and our intelligence agencies, so that they are equipped to keep us safe.
+
+Stephen Doughty
+Will the Minister give way again?
+
+Tom Tugendhat
+I will, because the hon. Gentleman is an old friend.
+
+Stephen Doughty
+The Minister will be aware of Lords amendment 130, which relates to the sovereign base areas of Akrotiri and Dhekelia. He will also be aware of the concern that has been expressed about the possible unintended consequences of the Bill. Those bases are critical to UK national security, as is our relationship with the Republic of Cyprus, which a close friend of many in the House. Will he say a little about where the discussions have got to, and whether there will be a good conclusion?
+
+Tom Tugendhat
+The hon. Gentleman has tempted me to approach the issue a little early in my speech, but let me put this firmly on the record. I have met the high commissioner of Cyprus, and my right hon. Friend the Foreign Secretary has spoken to its Foreign Secretary. I want to make it clear that any references in the Bill to the sovereign base areas of Akrotiri and Dhekelia shall be in accordance with the 1960 treaty concerning the establishment of the Republic of Cyprus, shall not affect the status of the sovereign base areas as defined in the treaty, and will not in any way undermine its provisions. References to the sovereign base areas in the Bill in no way indicate a change in UK policy towards their governance. I hope that is extremely clear.
+
+If we had these powers now, I would already be encouraging the police to use them against those who side with our enemies. As always, I want to share my admiration and appreciation for the services, their work and all their efforts that so often go unseen, although the impact does not go unnoticed. I hope that right hon. and hon. Members will support the Government’s changes, and our opposition to the amendments relating to the ISC and political party donations.
+
+Madam Deputy Speaker (Dame Rosie Winterton)
+I call the shadow Minister.
+
+Holly Lynch (Halifax) (Lab)
+We on the Labour Benches are in no doubt about the importance of the Bill. Transnational repression and interference from hostile state actors and their proxies are testing the UK’s defences as never before. As the global landscape continues to change at a staggering pace, interference from countries that do not share our values is nothing new. However, the breadth and enduring nature of the threats we are now facing is a contemporary challenge, combined with the technology and methods used by those seeking to undermine us, which are new and enhanced.
+
+Today is World Press Freedom Day, giving us a chance to recommit ourselves to defending press freedom, but also to acknowledge that many of the threats to which our security services and counter-terrorism police are responding here in the UK relate to the protection of journalists, from the—thankfully disrupted—assassination and kidnap plots against UK residents who are perceived as enemies of Iran owing to their coverage of the protests and the regime’s brutal crackdown, to the unacceptable harassment reported by Caoilfhionn Gallagher KC and her colleagues acting on behalf of the British national Jimmy Lai, the pro-democracy newspaper owner currently detained in Hong Kong. We must challenge that overseas and refuse to tolerate it here.
+
+We have always understood that we need the new provisions in the Bill, but the Minister will understand where I am coming from when I say that this has been far from a shining example of best practice in passing legislation. The churn in the Government since the Bill was tabled in May last year, coupled with the late and lengthy additions to it, has meant that scrutiny has been truncated on occasion, but it is all the more crucial as a result. It is unusual for a Bill to come back from the other place with—if I am not mistaken—no fewer than 117 Government amendments, but that is why I, like the Minister, am particularly grateful to our colleagues at the other end of the building, where operational expertise in particular has had a positive impact in shaping and sharpening these measures to ensure that they deliver the protections we need and the safeguards we can all trust.
+
+13:15:00
+
+Let me begin by discussing the Government amendments, secured in the House of Lords, that amend the foreign influence registration scheme, which is a case in point. It constitutes a comprehensive section of the Bill, but provisions on it were not tabled until the final stages of the Bill Committee in the House of Commons. It was a recommendation in the Intelligence and Security Committee’s Russia report, and it is something that we have consistently supported in principle. As the Minister knows, however, it will require a degree of fine tuning to get the balance right. We are broadly supportive of the plethora of Government amendments, given that scrutiny in the House of Lords has brought about some of that fine tuning. We look forward to further guidance on this, and will work with the Government to ensure that we capture what we need to capture without impeding genuine activity and interactions that are benign to national security.
+
+I welcome the fact that the Government have listened to journalists’ concerns by clarifying the scope of offences in part 1, and the fact that part 1 will be subject to oversight as a consequence of Lords amendments 33 and 34, which was an ongoing ask from the Labour party throughout the Bill’s passage in the House of Commons.
+
+As the Minister knows, we also had serious concerns about the Bill’s changes to the Serious Crime Act 2015, outlining our reasons in detail at this Dispatch Box and in Committee and voting to remove that clause on Report having been unable to shift the Government’s position. I am therefore pleased that Lords amendment 26 means that clause 28 has been significantly reshaped with, I understand, some assistance from the Intelligence and Security Committee. We pleaded with the Government to engage in that dialogue, and I thank all those, in this place and outside, who helped to bring clause 28 to a much better place. However, I understand the points raised by the right hon. Member for Orkney and Shetland (Mr Carmichael) in his amendments. I therefore invite the Minister to put on record once more the Government’s commitment to the Fulford principles, and to stress that
+
+“The UK Government does not participate in, solicit, encourage or condone unlawful killing, the use of torture or cruel, inhuman or degrading treatment...or extraordinary rendition. In no circumstance will UK personnel ever take action amounting to torture, unlawful killing, extraordinary rendition, or CIDT.”
+
+Lords amendment 122, tabled by Lord Coaker, will introduce a duty to update the Intelligence and Security Committee’s memorandum of understanding to reflect the provisions in the Bill. This follows a recommendation made by the ISC in its 2021-22 annual report. As noted in the report, during the passage of what became the Justice and Security Act 2013, the then Security Minister told Parliament that it was
+
+“the intention of the Government that the ISC should have oversight of substantively all of central Government’s intelligence and security activities to be realised now and in the future.”––[Official Report, Justice and Security Public Bill Committee, 31 March 2013; c. 98.]
+
+Ten years on, intelligence and security activities have continued to fall under the remit of different policy Departments, yet those Departments have not been added to the ISC’s memorandum of understanding. I think it fair to say that as a result, the ISC is not functioning as originally intended. Indeed, one of the starkest revelations from the report is that although, in the 20 years following the ISC’s establishment in 1994, the ISC met the Prime Minister annually to discuss its work, the ISC has not been able to secure a meeting with a Prime Minister since December 2014. There have been five Prime Ministers in the intervening time.
+
+Sir Julian Lewis
+For the record, I think I should say that during her very short tenure the current Prime Minister’s immediate predecessor, my right hon. Friend the Member for South West Norfolk (Elizabeth Truss), did offer to come and meet the ISC. I hope that is an example that her successor will follow soon, but we are waiting for a similar commitment to be made.
+
+Holly Lynch
+I am grateful to the Chair of the ISC for that clarification. It was indeed a short tenure, and we will never know whether that meeting would have come to fruition, but I hope the spirit was there then and is continued. Beyond the spirit, however, let us hope that we can nail down some of this today.
+
+It has been argued that Select Committees should instead have primacy in fulfilling the role. Pages 42 and 43 of the annual report list numerous Departments that have various security and intelligence functions that they are expected to oversee. However, these Committees, while no doubt providing robust scrutiny, simply do not have the same powers and security clearance as the ISC members and so cannot fulfil that duty to the same level. The Minister might well say that this amendment is not required, but the problem remains, as we have already discussed, and there is a need to address the issues raised by the ISC’s most recent report, so I look forward to the Minister reflecting once again on his position on that in his closing remarks.
+
+Lords amendment 22, tabled by Lord Carlile, to whom we have already paid tribute today, enjoyed broad support in the other place. The amendment would require UK political parties to publish a policy statement to identify donations from foreign powers, either directly or indirectly. Moreover, the amendment would bind political parties to making an annual statement of risk management to the Electoral Commission and create a duty for the Secretary of State to publish guidelines on these provisions. In the most recent annual threat update, the director general of MI5, Ken McCallum, said:
+
+“We see the Chinese authorities playing the long game in cultivating contacts to manipulate opinion in China’s favour—seeking to co-opt and influence not just prominent Parliamentarians from across the political landscape, but people much earlier in their careers in public life, gradually building a debt of obligation.”
+
+We know that offering donations to individuals and political parties is unfortunately a tried and tested approach used by hostile state actors. That is not in doubt. The Minister might tell me that Lords amendment 22 is unnecessary and that it is covered by other provisions, but can he tell me that those other provisions are effective and that dirty money, with a price attached, is not finding its way into our system and our democracy? The need for such provisions is both pertinent and serious. In 2020, a report by the Intelligence and Security Committee found that members of the Russian elite linked to Putin had donated to UK political parties.
+
+This amendment would also guard against undue Chinese influence. The Minister was in Belfast when we had an urgent question in the House in April on Chinese police stations in the UK—the second urgent question on that issue. The shadow Home Secretary, my right hon. Friend the Member for Normanton, Pontefract and Castleford (Yvette Cooper), stated that it had been reported in The Times that
+
+“a Chinese businessman linked to an alleged Chinese secret police station in London has attended Chinese Communist party political conferences, is linked to the united front work department and has organised Tory party fundraising dinners and attended events with Conservative Prime Ministers.”—[Official Report, 19 April 2023; Vol. 731, c. 248.]
+
+Just last month, the Good Law Project published damning revelations that since the start of Russia’s invasion of Ukraine in 2022 the Conservatives had accepted at least £243,000 from Russian-associated donors, some of whom were linked to sanctioned businesses and organisations.
+
+The Electoral Commission has produced a helpful briefing on Lords amendment 22. It states:
+
+“Enhanced due diligence and risk assessment processes would help campaigners identify foreign money, identify potential proceeds of crime, and establish a culture of ‘know your donor’ within parties—similar to the ‘know your customer’ approach, encouraged through Anti-Money Laundering regulations for the financial sector.”
+
+It goes on to stress:
+
+“These requirements could be introduced in a way that recognises the need for proportionality”—
+
+this speaks to the Minister’s concerns—
+
+“with different requirements depending on the size of a regulated entity’s financial infrastructure, or the size of a donation, to prevent the checks becoming a disproportionate burden on smaller parties and campaigners.”
+
+Spotlight on Corruption argues:
+
+“The rules that are supposed to prohibit foreign donations—in the Political Parties, Elections and Referendums Act 2000—are riddled with loopholes which enable foreign money to be channelled to political parties and MPs through lawful donors.”
+
+The Committee on Standards of Public Life, in its 2021 “Regulating Election Finance” report, recommended that laws should be updated and that
+
+“parties and non-party campaigners should have appropriate procedures in place to determine the true source of donations. Parties and campaigners should develop a risk-based policy for managing donations, proportionate to the levels of risk to which they are exposed”.
+
+There is an evidence base for such action. We know that the risk is there, and this is a rational and proportionate response to that risk. If the Minister and the Government reject these proposals, the electorate will draw their own conclusions as to why.
+
+I have set out the case for the Lords amendments before us today. Before closing, I want to join the Minister in paying tribute to the incredible work that our security services and police forces do every day. We very much recognise that the additional tools in the Bill will assist them in that important work. We have not agreed with every detail of the Bill, but I am pleased that we have made a great deal of progress in the areas where we have had differences. We are in no doubt that many of the new powers within it are necessary and needed urgently. I hope that the Minister will be persuaded by the arguments he has yet to hear in the Chamber today, and that he will reflect again on the merits of Lords amendments 22 and 122.
+
+Madam Deputy Speaker (Dame Rosie Winterton)
+I call the Chair of the Intelligence and Security Committee.
+
+Sir Julian Lewis
+It is clear from the opening contributions of both Front Benchers that there is a considerable degree of common ground on this legislation, and I would like to congratulate both of them on the way they have made their presentations. The Intelligence and Security Committee strongly welcomes the National Security Bill. The Committee has long called for reform of the Official Secrets Acts regime and highlighted the grave dangers posed by hostile state actors to the UK’s national security. Most recently, as we have heard, the ISC’s Russia report of 2020 made it clear that the Official Secrets Acts regime was outdated and not fit for purpose. It recommended that new legislation be urgently introduced to provide new tools to help our law enforcement and intelligence community, who work tirelessly to defend the UK’s national security.
+
+The Bill modernises the Official Secrets Acts espionage regime and creates important new offences such as sabotage, foreign interference and assisting a foreign intelligence service. As recommended in the ISC’s Russia report, the Bill also creates the long-awaited foreign influence registration scheme. That must be a cause of particular satisfaction to the Minister for Security, my right hon. Friend the Member for Tonbridge and Malling (Tom Tugendhat), who strongly promoted that policy during his very successful term as Chair of the Foreign Affairs Committee.
+
+Together, these changes will increase the transparency of those threats and help to make the UK a more difficult operating environment for foreign intelligence services to act. They will help to deter hostile foreign powers from undertaking harmful activities and disrupt them at a much earlier stage. There have been several justified concerns about the way in which the Bill was handled, but after considerable scrutiny, especially in Committee and in the upper House, it has been greatly improved.
+
+Theresa Villiers (Chipping Barnet) (Con)
+I very much agree with everything my right hon. Friend has said. Does he agree that we will need to look at further reform of the Official Secrets Act 1989 in order to complete the excellent reform process in this Bill?
+
+Sir Julian Lewis
+I am extremely grateful to my right hon. Friend, a fellow member of the Committee, because that is one of the points I am about to come to and it is good to have it reinforced by someone with her status and experience.
+
+We were very engaged in the legislation and three members of the Committee formed part of the Commons Bill Committee. Since then, the Committee has considered classified information on behalf of Parliament from the Government and held constructive sessions with the intelligence community to explain the rationale behind important parts of the Bill, such as clause 31 as it now is—it was previously clause 28. We have focused on ensuring that the Bill is as effective as possible in providing the intelligence community and law enforcement with the required tools while incorporating the necessary safeguards.
+
+Martin Docherty-Hughes
+The right hon. Gentleman is highlighting what he sees as benefits, but does he agree that clauses 85 to 88 will mean any British Government could avoid paying damages in cases where the secret intelligence services have arbitrarily handed a UK citizen into the detention of a friendly state that goes on to torture them? Surely being liable for playing a part in the torture of a UK citizen is not a good way to do intelligence.
+
+13:30:00
+
+Sir Julian Lewis
+My understanding of the legislation—someone from the Intelligence and Security Committee is due to speak after me who has a better perspective of the detail of this than I have—is that there are safeguards against anything that could possibly be used to justify or facilitate torture. This was debated in considerable detail in Committee, and I am concerned that the hon. Gentleman, for whom I have a great deal of respect from our time together on the Select Committee on Defence, still feels that the safeguards may not be strong enough. Perhaps we will hear from him later.
+
+We are pleased to see that the Government have incorporated various changes recommended by members of the Intelligence and Security Committee, including on strengthening the Bill’s independent oversight provisions and replacing the “exemption” under clause 21 with an improved “defence”, with stronger safeguards and accountability provisions.
+
+As my right hon. Friend the Member for Chipping Barnet (Theresa Villiers) flagged a moment ago, there has been a missed opportunity, namely the failure to reform the 1989 Act. As the ISC has said since the Bill’s introduction, it does not go far enough, despite reforming the espionage regime under the OSA, because it fails to reform the 1989 Act, as both we and the Law Commission recommended. That is despite a previous Government commitment that reforming the 1989 Act would be a key part of the Bill. This means the problems with the 1989 Act, which the Government have already acknowledged, will persist. Among those problems is the requirement to prove that damage has been done by unauthorised disclosures, which acts as a barrier to prosecution because showing that disclosures have done damage risks increasing the damage.
+
+The recommendations include increasing the two-year maximum sentence, which we feel is clearly insufficient to deter or to respond to the most serious unauthorised disclosures. Will the Minister commit to introducing legislation to reform the 1989 Act in this or the next parliamentary Session? I would like an answer either now or at the end.
+
+Bob Stewart (Beckenham) (Con)
+The problem is that classified information sometimes has to be used to prove something like this, and it is just not acceptable to use classified information in an open court.
+
+Sir Julian Lewis
+My right hon. and gallant Friend underlines my point, which is that, in proving damage has been done, the mere fact of displaying why something has been damaging can increase the damage and adverse impact by many multiples.
+
+Both Front Benchers focused on Lords amendment 22, on foreign interference in elections, and Lords amendment 122, on the duty to update the MOU of the ISC. Like Admiral Lord West, who spoke in favour of Lords amendment 22 on the ISC’s behalf, I firmly support the introduction of the proposed new clause, which would help to increase the transparency and accountability of our political system. The ISC’s Russia report of 2020 recognised that the UK has clearly welcomed Russian money, including in the political sphere. It found that several members of the Russian elite with close links to Putin have been identified as being involved with political organisations in the UK, including by making large donations to political parties. That clause would require a UK-registered political party to create a policy statement, and to provide the Electoral Commission with an annual statement of risk management, identifying how risks relating to donations from a foreign power are being managed to ensure such donations are properly identified. This should not be controversial, and it is still not clear, despite the Minister’s best efforts, why the Government would wish to oppose that clause. Indeed, the Government said in the other place that the current electoral finance legislation is sufficient.
+
+Several Lords also noted that, unlike companies or charities, political parties do not have to examine the source of the funds they receive. As those Lords explained, that means it is perfectly possible for companies to make significant donations to political parties despite clearly not making operating profits—so with limited explanation of how they can afford such donations or where the money comes from. That means that, unlike companies and charities, there is no enhanced due diligence even when a donor is operating from a high-risk country listed in terrorism-financing or money-laundering legislation.
+
+As was also suggested in the other place, incorporating this modest amendment would mean that political parties develop a culture of knowing their donor, just as companies, particularly financial and legal entities, are required to know their customer. It is entirely appropriate for political parties to do more to determine the source of donations. The additional measures proposed would not be over-onerous. Lords amendment 22 is eminently reasonable, and it should not be controversial for political parties to want to ensure the transparency of their foreign political donations. We must protect against covert, foreign state-backed financial donations if we are to defend our democratic institutions from harmful interference and influence.
+
+Alison Thewliss (Glasgow Central) (SNP)
+I absolutely agree that we should be guarding against this. Does the right hon. Gentleman agree there is also a problem with incorporated associations that donate money? It is very difficult to trace where the money has come from, despite the efforts of organisations such as openDemocracy.
+
+Sir Julian Lewis
+I agree that it will always be difficult to man the defences sufficiently against people who apply great ingenuity and unscrupulousness in finding their way around such defences. Perhaps we should bear in mind—I say this in the context of British politics, rather than anywhere else—that, so long as we have an adversarial political system, parties that accept what we might dub “dirty donations” will be found out if their opponents are doing their job properly; or if they are not absolutely proven to have accepted money from unacceptable sources, they will still suffer general reputational damage that will not do them any favours when people cast their vote. It is very much in the interest of political parties to make sure their funds come from clean and acceptable sources.
+
+In turning to Lords amendment 122, on the duty to update the Intelligence and Security Committee’s memorandum of understanding, I can almost hear an under-the-radar groan in the Chamber because this subject keeps coming back in one Bill after another. It featured prominently during our consideration of the National Security and Investment Act 2021, and I fear this will continue until the matter is resolved. People might be forgiven for saying, “Isn’t this all a bit unimportant, a bit introspective and a bit self-regarding of the Intelligence and Security Committee?” In our defence in insisting that the matter needs to be sorted out, I quote none other than Lord Butler of Brockwell, who, as Robin Butler, was one of the most revered Cabinet Secretaries in recent political history. In the debate on the matter in the House of Lords, he said that “the consequence” of the way the Government have been behaving
+
+“is that in recent times the Intelligence and Security Committee of Parliament has not been used for the purpose for which it was set up.
+
+If the Government are not going to use the Intelligence and Security Committee properly, they should save money and abolish it. But, of course, they will not do that because Parliament set it up, Parliament thinks it is important that this House and the House of Commons should have some insight into intelligence operations, and it would be unacceptable for the Government to abolish it. But they must choose either to abolish it or to use it properly. If they are to use it properly, they must update the memorandum of understanding and, as the noble Lord, Lord West, said, use it for the purpose for which Parliament intended: to give oversight by people who are fully screened within the ring of secrecy to report to Parliament. I think this is a much more important amendment than the face of it suggests.”—[Official Report, House of Lords, 7 March 2023; Vol. 828, c. 745-46.]
+
+When someone of Lord Butler’s stature makes those remarks, we can be justified in continuing to focus attention on this matter.
+
+Sir Jeremy Wright (Kenilworth and Southam) (Con)
+Does my right hon. Friend agree that one curiosity of this debate is that earlier this afternoon the Minister referred with approval, as did the shadow Minister, to the ISC’s work in attempting to seek a resolution of the problems we all found with clause 28? Does that not demonstrate that the ISC’s remit matters because, if nothing else, the Government sometimes find it a useful institution to help to resolve this kind of problem?
+
+Sir Julian Lewis
+Absolutely. My right hon. and learned Friend is far too modest to say that his input, as a former senior Law Officer of this country, to the changes that were made was of extreme importance and assistance to the Government.
+
+Bob Stewart
+In short, we have to revise the MOU because at the moment we on the ISC cannot do our job properly and it is a job that everybody in this Chamber wants us to do.
+
+Sir Julian Lewis
+I am grateful for that strong support. It should not have been necessary for people in the upper House to bring forward a legal requirement to update the MOU. For the benefit of people not buried in the intricacies of these arrangements, let me say that the MOU means that at any one time an exchange of letters between me, as the Chairman of the ISC, and the Prime Minister can modify the range of organisations that the ISC has the right to scrutinise. As we will be hearing in a few moments, that is because when that arrangement was initiated, it was recognised that from time to time changes in the structure of Departments mean that different parts involving classified intelligence-related activities would pop up here and there in different Ministries, so we would need an ability to adjust the MOU to approve our scrutinising the classified parts of those activities. That is precisely because ordinary—I know that my colleague on the Front Bench does not like my using that word—departmental Select Committees are not able effectively to scrutinise highly classified material in any systematic way. If they were, it would not have been necessary to set up the ISC in the first place.
+
+Owen Thompson (Midlothian) (SNP)
+As a relatively new member of the ISC, I am finding it extremely perplexing to try to understand why the Government have such a resistance to updating the MOU. Does our Chair agree that it would be particularly useful if the Minister gave his commitment to backing the Committee’s calls to update the MOU, using his good offices, and to trying to move that forward as quickly as possible? Like others, I can find little understanding of why the Government would be so resistant to doing that.
+
+Sir Julian Lewis
+I am very grateful for the hon. Gentleman’s support and I take this opportunity to pay tribute to both him and his predecessor for making an extremely valuable and valued contribution to the Committee. We draw such authority as we have from the fact that party politics does not enter into our work. I think I heard the Security Minister say that he accepted that the MOU needs to be updated—
+
+Tom Tugendhat
+indicated assent.
+
+Sir Julian Lewis
+I see that he is nodding. Should he wish to elaborate on that a little more, that would be even more welcome.
+
+13:45:00
+
+I had better move on, because we are in a time-limited debate and I still have a little way to go. Let me set out the background by saying that the new clause proposed by Lords amendment 122 would update the ISC’s remit to ensure that it has the power effectively to scrutinise intelligence and security activity that takes place across Government under the new national security regime, not just in the seven organisations already listed in our MOU. The MOU sits under the Justice and Security Act 2013, and it outlines our remit and the organisations that we oversee. That encompasses the expenditure, administration, policy and operations of the agencies and four other organisations that currently form part of the UK’s intelligence community.
+
+Given the national security focus of the Bill, the ISC already has the power to oversee much of the intelligence and security activity that will take place under the new regime through its oversight of those seven organisations. However, as we have made clear in our most recent annual reports, which were cited by the shadow Security Minister, intelligence and security activities are increasingly being undertaken by a wider collection of policy Departments, including those that generally do not carry out national security- related activity, such as the Department for Business, Energy and Industrial Strategy, the Department for Digital, Culture, Media and Sport, and the Department for Transport. Those teams are not currently listed in our MOU, simply because at the time it was drafted, in 2013, they were not responsible for any intelligence and security work. Had they been, Parliament would have included them in the ISC’s remit, as is clearly indicated by the commitments given to the House during the passage of the 2013 Act by the late and much-missed James Brokenshire, the then Security Minister.
+
+All this means that the ISC’s MOU needs urgent updating. In the meantime, effective parliamentary oversight of intelligence and security matters is being eroded. Lords amendment 122 is therefore essential, as it will help to reverse the increasingly large gap that has emerged in Parliament’s ability effectively to oversee intelligence and security activity.
+
+Effective oversight of intelligence and security matters can be undertaken only by the ISC. Select Committees do an excellent job scrutinising their Departments, and we have no wish to duplicate any of their work, but only we have the security infrastructure effectively to scrutinise those aspects where classified material, such as intelligence, underpins decisions on national security. The importance of this difference is obvious. For example, during the passage of this Bill, when the Government were unable to provide publicly the detailed rationale and case studies underpinning clause 31 to Parliament, due to its classified nature, the material was provided instead to those on the ISC, who were then able to scrutinise it on Parliament’s behalf. That enabled us to understand the problem and make recommendations for change, leading to a much improved “defence”, with the necessary safeguards, in place of the previous unsatisfactory “exemption.”
+
+I have almost concluded, so I will just make the following few additional remarks. This could not have been achieved without the ISC, because Select Committees cannot provide effective oversight of classified matters. This is no reflection on the ability of Select Committees, which provide robust oversight on all other matters. The Government provided a clear undertaking to Parliament during the passage of the Justice and Security Act 2013, when the then Security Minister told Parliament that it was
+
+“the intention of the Government that the ISC should have oversight of…all of central Government’s intelligence and security activities to be realised now”—
+
+which was then—
+
+“and in the future”—[Official Report, Justice and Security Public Bill Committee, 31 January 2013; c. 98.]
+
+which is now.
+
+It was clear that the MOU was designed to be a living document that could be updated to reflect any changes to the security and intelligence activities being undertaken by the Government. Yet the Government have repeatedly failed to meet this commitment, which indicates a worrying lack of appreciation of the importance of comprehensive oversight of intelligence and security matters. As the ISC set out in our annual report, the then National Security Adviser relayed the Government’s position that they did not feel bound by statements made by the then Security Minister in 2013 during the passage of the Justice and Security Act.
+
+To conclude, if the Government will not ensure that the ISC’s memorandum of understanding is kept updated —and they have not been ensuring that—each piece of new legislation devolving intelligence and security matters away from the bodies already overseen by the ISC must come with a commensurate expansion to that MOU. I know that this is not the Minister’s fault. I speak to Minister after Minister—I am not saying anything about this particular one—but Ministers do not seem to understand why this keeps happening. I just wonder where exactly in the Government machine this necessary change that was always envisaged in the ISC system is being blocked.
+
+Madam Deputy Speaker (Dame Rosie Winterton)
+Before I call the SNP spokesperson, let me say that, obviously, this debate is time limited, and I am sure that hon. Members will want to leave some time for the Minister to conclude.
+
+Stuart C. McDonald (Cumbernauld, Kilsyth and Kirkintilloch East) (SNP)
+Once again, it is a pleasure to have the opportunity to scrutinise what we recognise as an extremely important piece of legislation. Like both the Minister and the shadow Minister, I wish to start by paying tribute to all those who are involved in protecting us and our security.
+
+The National Security Bill has had SNP support from the outset, but we have also highlighted significant problems with it: things that were not in the Bill that should have been; things that were in the Bill that needed fixing; and things that were in the Bill that had no place in there at all. I welcome that many of those concerns were also raised in the House of Lords, and recognise that the Government have responded positively to several of them.
+
+We welcome the amendments that have added clarity to the scope of some of the offences in the Bill, particularly around the state of knowledge required before offences are committed. In general, we welcome the changes to the registration schemes, which will make them more targeted. We also welcome the broadening of the oversight provisions to ensure that the measures in part 1 of the Bill are properly scrutinised.
+
+On omissions, we continue to think that the failure to reform the Official Secrets Act 1989 is a major opportunity missed, and we regret that there has been no addition of a public interest defence, which is something to which a number of Members have alluded. That is an issue that will have to be returned to urgently.
+
+Some improvements have been made to the Ministry of Justice’s clauses in the Bill relating to legal aid. However, we remain of the view that the legal aid provisions should have been taken out altogether. In relation to the award of damages in clause 83, improvements have been made, but, yet again, not enough. It is welcome that reductions in awards of damages now can happen only where there is a direct link between the alleged act of terrorism and the claim for damages. However, there is still concern about how this will operate when foreign Governments—Governments who have carried out torture based on UK intelligence—simply use the smear of an unproven terrorism allegation to justify or defend their actions.
+
+Martin Docherty-Hughes
+I wish to go back to the point that I made to the Chair of the ISC, who is a very good friend and who must be commended for everything that he does in relation to that Committee. Again, clauses 85 to 88 seem to allow any British Government to avoid paying damages if the intelligence services have participated in the torture of a UK national, such as my constituent Jagtar Singh Johal, by an ally, especially if they are found not guilty and let go.
+
+Stuart C. McDonald
+I am grateful to my hon. Friend for intervening. His constituent’s case is one that I had in mind when drafting this part of my speech. We do not need to look too far to think of other possible examples. I hope the provisions that he is referring to do not have those implications, but more could have been done to make that absolutely clear. What would be useful today at least would be to have assurances from the Minister that mere assertions by foreign Governments will not be enough to allow that clause to apply. It must be for the courts to interrogate whether assertions that somebody was involved in torture are made out.
+
+Let me turn to the amendments under discussion today. Lords amendment 22 would place additional duties on political parties in relation to risks of donations from foreign powers. In the interests of transparency, I should declare an interest: I have recently had the great honour of being appointed the national treasurer of the Scottish National party, so this amendment would add to my already rather full in-tray. Notwithstanding that, we must acknowledge the serious dangers posed by such donations to our democratic political systems and indeed to our security.
+
+We have been warned by the Intelligence and Security Committee in its Russia report, by MI5 and by various other bodies about the dangers of foreign influence being sought through donation. Yes, we do have the Political Parties, Elections and Referendums Act 2000, but we cannot seriously think that we are remotely in a position to say that the risk has been dealt with. Far from it, the repeated and significant circumvention of those rules is precisely why we continue to receive the warnings that I have just referred to. We need to think about going beyond basic status checks on donors to investigating—where an assessment of risk requires it—the real source of donations. There is support for that type of approach from the Electoral Commission and the Committee on Standards in Public Life.
+
+We welcome this amendment by Lord Carlile, a former independent reviewer of terrorism legislation, with support from the former head of MI5, Lord Evans, and others. As the Chair of the Intelligence and Security Committee has said, this is a modest rather than revolutionary proposal, but it is definitely a step in the right direction. Frankly, opposition to the amendment seems rather fishy indeed.
+
+On Lords amendment 122 and the role of the Intelligence and Security Committee, my general approach is to give colleagues on the ISC all the support that they request. The job that they do is utterly crucial, and I have never had any reason to doubt how seriously and assiduously they go about their task. Their annual report highlighted the need for an updated memorandum of understanding, particularly given the outsourcing of intelligence and security activities to different policy Departments, but there is no sign of that update happening. The support of ISC colleagues for Lords amendment 122 therefore attracts significant deference and weight. Frankly, if nothing else, the Government need a metaphorical kick up the backside in their approach to the ISC—an approach exemplified by the failure of any Prime Minister to meet the ISC since 2014. Therefore, we support Lords amendment 122.
+
+Finally, we welcome the significant change in approach to the offences under part 2 of the Serious Crime Act 2015, and thank all involved in the drafting of the new clause. In particular, it is welcome that the provision now takes the form of a defence rather than an exemption or a carve-out. However, we do remain concerned that there is no specific exclusion in relation to serious harms, such as torture, cruel, inhuman and degrading treatment and sexual offences. If anything, we are even more concerned now than before. Obviously, the Government have spent a lot of time redrafting the Bill in the light of the concerns that have been raised, yet they have still decided to exclude such serious harms from the scope of the defence. It seems a very deliberate and conscious choice that they have made and the Fulford principles do not provide sufficient safeguards on their own.
+
+We therefore support amendment (c) to Lords amendment 26, tabled by the right hon. Members for Orkney and Shetland (Mr Carmichael) and for Haltemprice and Howden (Mr Davis). At the least, it would be very useful to have the Minister say at the Dispatch Box that the Government do not see any circumstances in which such activities could be deemed necessary for the purposes of an intelligence function. On that note, we welcome amendment (c).
+
+We do support the Bill, but we still think there is further to go to get it to where it needs to be.
+
+Sir Jeremy Wright
+I am grateful for the opportunity to speak in this debate, and also grateful to my right hon. Friend the Member for New Forest East (Sir Julian Lewis) for setting out so clearly the position of the Intelligence and Security Committee, of which I am also a member. He made many points with which I agree and which I do not need to repeat, but I do want to say something very briefly about Lords amendments 22 and 122 in slightly more detail. Both amendments have something in common, which is that they highlight a significant problem and put forward, perhaps, an imperfect solution to those problems. The Government’s saying that they are imperfect solutions has validity, but it would have more validity if the Government were prepared to come forward with solutions to those problems that were less imperfect, which we could all then support.
+
+14:00:00
+
+It is certainly true that amendment 122 reflects a significant problem. As my right hon. Friend said earlier, the situation is that the remit of the Intelligence and Security Committee has fallen substantially behind the reality of today’s intelligence and security architecture. The bits of Government now making decisions with intelligence material are no longer limited to the bits of Government covered by the ISC’s remit as set out in the Justice and Security Act 2013 and the memorandum of understanding set out under it.
+
+That is not an esoteric technical issue. It is a problem not because it affects empire-building of particular parliamentary Committees, but rather because it affects the quality of parliamentary scrutiny that can be delivered. As my right hon. Friend the Member for New Forest East said, the ISC was set up as the only Committee that could look fully at sensitive intelligence material and it only exists, or needs to exist, because other Committees, including Select Committees, cannot do so in the same way.
+
+It may be worth looking at what that memorandum of understanding for the ISC says in paragraph 8:
+
+“The ISC is the only committee of Parliament that has regular access to protectively marked information that is sensitive for national security reasons: this means that only the ISC is in a position to scrutinise effectively the work of the Agencies and of those parts of Departments whose work is directly concerned with intelligence and security matters.”
+
+In the interest of fairness, I should also read out the footnote following that sentence, which says:
+
+“This will not affect the wider scrutiny of departments such as the Home Office, FCO and MOD by other parliamentary committees. The ISC will aim to avoid any unnecessary duplication with the work of those Committees.”
+
+That is a point that my right hon. Friend made earlier.
+
+The burden of that text is obvious. There is a reason why the ISC exists—it does work that other Committees cannot do—but there is plenty for those other Committees to do that does not have an intelligence or security bent to it. As more and more units of the type that the Government have already set up once—amendment 122 envisages that that may be done further—deal with intelligence material but remain outside the remit of the ISC, the gap in scrutiny becomes ever greater.
+
+That is not a fanciful concern. As I say, it has been done once already with the Investment Security Unit, which is an instructive example. Despite what some might think was the obvious overlay of intelligence and security material over commercial considerations—the whole point of the unit, it would probably be argued—the Government considered that none the less the Business, Energy and Industrial Strategy Committee could scrutinise it effectively. I do not seek to relitigate that question, and I certainly make no reflection on the ability of the BEIS Committee or its Chairman to do a good job, as they clearly do and will continue to do. In the absence of an updated memorandum of understanding for the ISC, however, it is an example of the Government not being open to extending the work of the ISC where such new units come to be established.
+
+The Government have said in relation to the ISU that the ISC can look at the input to the ISU’s decision making from the intelligence community, but that gives rise to a different problem: the ISC could come to a different conclusion from the BEIS Committee on the wisdom or appropriateness of the very same decision by the unit. That is clearly unsatisfactory and it is a problem that must be fixed.
+
+The Government are perfectly entitled to say that they can fix that problem without the legislative change that amendment 122 proposes, and they are absolutely right to say that the memorandum of understanding for the ISC can be changed; anyone who wants to look it up can find it in section 2(5)(c) of the Justice and Security Act 2013. However, as has been said, that can be done only with the agreement of both the ISC and the Prime Minister, and there is no such agreement so far. The ISC cannot do it unilaterally.
+
+The Minister made an argument, which I noticed he did not rely on from the Dispatch Box earlier, in a letter to all Members of this House on 27 April, referring to section 3 of the 2013 Act in that letter, which says that the ISC can make reports on
+
+“any aspect of its functions”.
+
+He presumably did so to make the point that the ISC, if it wishes, can range widely. The problem is that that is a slightly circular argument.
+
+Section 3 refers to the ISC’s capacity to make reports on any aspect of its functions, but its functions are set out in section 2 of the 2013 Act, which says that the ISC oversees the activities of three specified agencies and of others set out in the memorandum of understanding. If it is not in the memorandum of understanding, the ISC cannot oversee it. That underlines the need for the memorandum of understanding to be up to date.
+
+We have a real problem of the ISC remit’s being out of date. If the Government argue that the solution that amendment 122 proposes to that problem is imperfect, I might be prepared to agree with them, but it will become increasingly difficult to resist imperfect solutions to this problem if the Government continue to resist and to refuse finding a more perfect one.
+
+Mr Alistair Carmichael (Orkney and Shetland) (LD)
+I will speak to amendment (c) in my name and in those of the right hon. Member for Haltemprice and Howden (Mr Davis) and—though it came too late to be printed on the amendment paper—the hon. Member for Barnsley Central (Dan Jarvis) . Amendment (c) would, as it states, disapply subsection (2) of proposed new section 50A of the Serious Crime Act 2007,
+
+“in relation to an alleged offence that relates to conduct involving—
+
+(a) torture or inhuman, cruel or degrading treatment or punishment, or
+
+(b) the violation of a person’s sexual integrity.”
+
+It is worth saying that the Bill that has come back from the other place is significantly improved on that which was sent to it. I posit the thought that, had the Bill started out as it stands today, an amendment such as mine would probably feature. It sits more logically with the structure of the Bill now, and it would avoid some of the unintended consequences. That is the disadvantage of starting a piece of legislation—a Bill of this nature should always have the maximum cross-party agreement and political consensus behind it—in a way that was, in the early days, quite divisive. The issues could perhaps have been better interrogated further upstream before the legislation came to the House.
+
+The points that I wish to pray in aid of the amendment relate to the way in which clause 31, as it stands, would have effect. There are a number of points, which I will cover as briefly as possible because I do not want to filibuster the opportunity to put my own amendment to a vote; I have seen that done too many times in the past.
+
+One concern, on which I would be interested to hear the Minister’s view, is that the International Criminal Court has warned that clause 31 as it stands would open the jurisdiction of the court to look at the actions of UK personnel. To the right hon. Member for Haltemprice and Howden, the ICC’s chief prosecutor wrote that cases could now be
+
+“potentially admissible before the ICC”—
+
+a fairly strong statement in these circumstances—citing the risk of creating gaps in the domestic prosecution mechanisms for war crimes and crimes against humanity under the Rome statute. The prosecutor said that the Bill would be clear if it clearly excluded serious human rights abuses from its remit. I do not know if it is the Government’s wish and intention that the International Criminal Court be given jurisdiction in that way, but should that ultimately turn out to be the case, neither the Minister nor his successors will be able to say that they were not warned.
+
+Clause 31 could also give Ministers and officials a statutory defence for involvement in crimes such as targeted killing and torture. That could include sending information from the UK overseas to be used in a torture interrogation, assisting the offense of torture under section 134 of the Criminal Justice Act 1988. Under the clause, a statutory defence would be available if the action were deemed necessary for the proper exercise of a function of an intelligence service or for the proper exercise of a function of the armed forces. In the Lords, that point was interrogated at length in Committee. The Minister in the Lords said that he would revert to Lord Pannick, but he never did. Instead, the Government chose to proceed in the way that is presented to the House today.
+
+Clause 31 almost appears designed to protect politicians and officials in the UK rather than British personnel operating overseas. The clause would provide a legal defence for encouraging or assisting crimes overseas, such as giving a tip-off that leads to someone’s torture, as opposed to the direct commission of the crime itself. This is not fanciful; we know what was done by Jack Straw and senior officials of the day in relation to the Belhaj and Boudchar cases. Although we have never really seen a proper conclusion to those cases, such an operational defence would put that comprehensively beyond reach.
+
+The clause could also discourage the Crown Prosecution Service, the Crown Office and Procurator Fiscal Service, and the Director of Public Prosecutions or the Lord Advocate from bringing cases. Where decisions are made about bringing prosecutions on individual cases, including those against Ministers and officials, the availability of a statutory defence for any conduct deemed “necessary” would likely discourage the prosecution authority from bringing a prosecution relating to criminal activities—or what would otherwise be criminal activities—that Ministers and officials assist or encourage others to do overseas.
+
+In its simplest form, the Bill would still undermine an important and long-standing legal prohibition in this country on torture and related abuses. We have a long and distinguished history in this area. Conservative Members will be aware of the landmark changes made under the Government of the late Baroness Thatcher to create a specific criminal offence of torture. If the Government seek to undermine Baroness Thatcher’s legacy, I am quite prepared, on this one limited occasion, to take up cudgels and defend it.
+
+The Bill also raises the question of our country’s moral authority. What right do we have to criticise other countries—for example, Saudi Arabia for the murder of journalist Jamal Khashoggi, or Vladimir Putin’s Russia for its extraterritorial offences—if we authorise the conduct of our own Ministers, politicians and personnel in relation to such activities? This is about our moral authority. I would like to think that the Government will look kindly on the amendments, if not today, then perhaps when the Bill returns to the other place.
+
+John McDonnell (Hayes and Harlington) (Lab)
+I offer my support to the right hon. Member for Orkney and Shetland (Mr Carmichael) for his amendment (c) and his speech.
+
+I will speak as the secretary of the National Union of Journalists parliamentary group, which is the cross-party group that speaks on behalf of journalists in the House. The union formed a coalition with the Index on Censorship and openDemocracy. Our objectives were to clarify and narrow the definitions of offences in the Bill to protect journalists, to seek a statutory public interest defence in the Bill, and to have an element of independent review and commissioning to review the operation of the Bill when implemented. We have successfully narrowed—as the Minister said—and defined the offences more clearly to protect journalists, which is helpful. An element of independent scrutiny has been introduced, which is helpful. There is no general public interest defence in the Bill, but that may well be developed in case law over time.
+
+14:15:00
+
+On that point, I impress upon the Minister that it is critical that the implementation of the legislation be monitored closely and that the Government stand ready to revise it if evidence mounts that there are any impositions placed on journalists that will impede them in their profession. I hope that a working relationship can be established between the NUJ and the Government as we go forward.
+
+On Lords amendment 22 in particular, I have listened to various concerns that have been raised over the last decade, including by the shadow Minister, my hon. Friend the Member for Halifax (Holly Lynch), by the right hon. Member for New Forest East (Sir Julian Lewis), and by the SNP spokesperson, the hon. Member for Cumbernauld, Kilsyth and Kirkintilloch East (Stuart C. McDonald). They listed the bodies that have expressed concerns and identified instances in which foreign money has permeated our political system and, unfortunately, individual parties, and the various expressions by numerous bodies about the need to strengthen our protections against that. I have worked on issues related to money laundering, and the lesson is that we need to go beyond just the registration of the status of the individual, company or organisation. The principles we have learned from the cross-party approach that we have taken on money laundering are to do with risk management. It goes beyond checking status and into creating greater responsibility to ensure that there is clarity about the source of funds.
+
+To be frank, I expected the Government to give more weight to Lords amendment 22, particularly because it was sponsored by Lord Carlile, former independent reviewer of terrorism legislation, and by Lord Evans, former head of MI5. I am not sure that we could get more authoritative recommendations on an amendment than that, so I am concerned. As my hon. Friend the shadow Minister mentioned, the Secretary of State is charged with bringing forward the provisions to ensure the effective operation of the amendment, so they can take into the account the need for proportionality with regard to smaller parties.
+
+Having listened to the debate, I cannot for the life of me understand why the Government are not backing Lords amendment 22. We might come to it again at a later stage—although I am not sure whether any ping-pong will take place—but if we do not do it in this Bill, we will have to address the implementation of a risk management approach at some stage in the coming period.
+
+Sir Chris Bryant
+I start where my right hon. Friend the Member for Hayes and Harlington (John McDonnell) finished. I am completely perplexed about why the Minister is holding out against Lords amendment 22, not least because he told Insider last year that it was “perfectly legitimate” to criticise political parties for accepting donations “that are not clear”. He made it absolutely clear at the time that he supported the idea of legislation to require political parties to be clear about where their funding was coming from. To be fair to him, that was obviously not when he was a Government Minister, and he has now fallen among thieves. I preferred the old version of the Minister, and I hope that, in our discussions over the next few minutes, we can manage to persuade him to return to proper form.
+
+The pedigree for Lords amendment 22 is phenomenally strong, as has been said. Not only have Lord Carlile and Lord Evans—the chair of the Committee on Standards in Public Life and a former head of MI5—called directly for such provisions, but as I understand from her comments, Baroness Manningham-Buller also supported Lords amendment 22, as did Lord West, all the members of the ISC, Spotlight on Corruption, the Committee on Standards in Public Life, and, of course, the Electoral Commission.
+
+The Electoral Commission wrote directly to the Minister last year to say that it would surely be wrong not to change the law so that political parties can accept donations from companies that have made enough money in the UK to fund the amount of their donation. One would think that that stands to reason. One would also think that it stands to reason, as the commission also argued, that political parties should be required to check not just whether someone is a permissible donor in the sense of being on the electoral register, but whether they have enough money of their own to be able to fund the political party to the extent proposed. That is just due diligence, but there are phenomenal loopholes in the law.
+
+The Minister is normally a very polite and generous man, but I understand that he has still not replied to the Electoral Commission on this matter, and the commission has complained about this. In this area, as he knows perfectly well from our work on the Foreign Affairs Committee, complacency serves us ill. One need only look at the sad trajectory of the tier 1 visa system—the golden visa. When the report was finally produced it showed that we had given visas to live in the UK and make their permanent residence here to people we ended up sanctioning because they were so closely related to the Putin regime. The 2020 Russia report from the ISC—it should have been the 2019 Russia report, but the then Prime Minister did not allow it to be published before the general election—made it very clear that Russia and perhaps other state actors had been intent on affecting elections and referendums in this country, and urged us not to be complacent.
+
+There are authoritarian state actors who wish us ill. They rely on the openness of our political system, on our open system of governance in the City, on the fact that contracts can be enforced, and on our open judicial system. They rely on all of that and, I would argue, on our complacency to be able to do their nefarious work in the UK. There is a flaw in the Political Parties, Elections and Referendums Act 2000: the concept of “permissible donor” is too tightly drawn. Surely any political party and any person trying to secure donations from a third party would want to ensure that the money they received was not tainted by human rights abuses in another country, by authoritarian acts from another country or, frankly, by malign influence by a third party state actor.
+
+The position is made worse by the Elections Act 2022 adding to the registers 3.5 million overseas voters who pay, or who may pay, no tax in the UK, and who may have next to no relationship with the authorities in this country—it is necessarily very difficult to track that information down. What should a party do if it is offered a donation of, let us say, £50,000 by somebody who lives and works in Moscow today? The law says the party need not do anything, as long as the individual is on the electoral register. Surely, though, we do not think that that is right or appropriate. I want further checks to be in place. The provisions in the amendment are so minimal—absolutely the minimum that we have to do to make sure that political parties in this country do the basics.
+
+I said there is a flaw—perhaps a fissure—in PPERA, but I am starting to worry that the Government want that loophole to exist. If they do not, I simply do not understand why the Minister is holding out on this point. I hope the Minister will change his mind on this minimal requirement and support Lords amendment 22. If we end up voting it down, I hope their lordships will throw it back to us. For more than a decade now, we have left the door wide open to political interference in our system in this country. It is time we slammed it shut.
+
+Tom Tugendhat
+First, I thank the hon. Member for Halifax (Holly Lynch) for the contribution she made and the spirit in which she has approached these debates. She is absolutely right to talk about Caoilfhionn Gallagher and Jimmy Lai and to highlight the many issues that she did. Such matters unite us; another is the fact that this Government, like every Member of this House, I am sure, remain absolutely committed to the UN convention against torture and other cruel, inhuman or degrading treatment or punishment. There is absolutely nothing in this Bill, or in any other Bill that this Government are bringing forward, that would in any way undermine our obligations or the seriousness with which we treat torture as it is practised, sadly too frequently, around the world. Although I hear what the right hon. Member for Orkney and Shetland (Mr Carmichael), my right hon. Friend the Member for Haltemprice and Howden (Mr Davis) and the hon. and gallant Member for Barnsley Central (Dan Jarvis) say, there is quite literally nothing in the Bill that would give rise to the need for amendment (c) to Lords amendment.
+
+The point made by the right hon. Member for Orkney and Shetland about Lord Pannick, however, was entirely fair. A letter should have gone back to him. In fact, the point was made and the answer given in the form of amendments to clause 3 that address his concern about the carve-out for lawyers. Although I agree that I should have written, the reality is that I addressed the points Lord Pannick raised in the Bill itself.
+
+The matter of foreign donations has been raised again. The reality is that we have to treat British citizens like British citizens. The idea that we can treat British citizens differently depending on how we feel about them seems to me to be rather a bad way of making law, but that does not mean that political parties have to treat British citizens exactly alike. Surely the rule here is: just because you can does not mean you should. There are many donations, and perhaps many individuals making them, that many of us would not wish to accept. The point about politics is that it is about decisions, judgment and choices, and while the law has to apply to everyone equally, we as politicians and as political parties are not so obliged. We have to make judgments and decisions, and we have to carry our reputations and the reputations of our organisations with us when we make those calls.
+
+On the changes to the MOU that the ISC suggested, my right hon. Friend the Member for New Forest East (Sir Julian Lewis) had the opportunity to give me the power to make those changes, but I am not the Prime Minister, so I cannot do so. The Prime Minister will have to make that decision, but I will raise the matter again with his office, because my right hon. Friend’s points were well made.
+
+I have heard many comments about the Official Secrets Act 1989. The nature of this reform is complex and there are many and various arguments because this piece of legislation ties into so many others. I will not give my right hon. Friend the Member for Beckenham (Bob Stewart) a commitment to act in this Parliament—he will understand that more work is required. As for my ability to make commitments into the next Session, he tempts me too far.
+
+I am glad to hear that the hon. Member for Cumbernauld, Kilsyth and Kirkintilloch East (Stuart C. McDonald) has achieved the great honour of being treasurer of the Scottish National party. I hope it comes with a caravan and that he is enjoying the touring that that affords him.
+
+My right hon. and learned Friend the Member for Kenilworth and Southam (Sir Jeremy Wright) raises many good points. The reality is that these challenges must be addressed as a whole and require further discussion, so I am very grateful for his time.
+
+Bob Stewart
+I accept the Minister’s points on the Official Secrets Act 1989 and the fact that it is complicated, but do the Government recognise that, complicated though it is, it must be addressed?
+
+Tom Tugendhat
+My right hon. Friend tempts me in a direction I would love to go in, but in the minutes I have left, I shall not be lured. An awful lot of legislation would require work if we were to amend the Act, so a huge amount of drafting work would be required before I could express an opinion. I see other right hon. and hon. Members nodding in agreement.
+
+The hon. Member for Rhondda (Sir Chris Bryant) made a fair point on the Electoral Commission. I shall follow up with the Department for Levelling Up, Housing and Communities, which is responsible for electoral law and which will be responding to the commission on that issue.
+
+If I may, I will finish by simply saying that tomorrow is polling day, and while this Bill addresses many different aspects of our national security, the single best thing that all of us as citizens can do to defend our country and our future is to vote. As such, I urge everybody who has the opportunity to do so—in England and Wales, in our local government areas—to please get out and vote, and of course, to vote Conservative.
+
+Amendment (a) made to Lords amendment 26.
+
+Amendment (c) proposed to Lords amendment 26.—(Mr Carmichael.)
+
+Question put, That the amendment be made.
+
+Division 227
+03/05/2023 14:30:00
+The House divided:
+Ayes: 132
+Noes: 252
+Question accordingly negatived.
+
+Amendment (b) made to Lords amendment 26.
+
+Lords amendment 26, as amended, agreed to.
+
+Amendment (a) made to Lords amendment 153.
+
+Lords amendment 153, as amended, agreed to.
+
+After Clause 14
+
+Foreign interference in elections: duties on political parties
+
+Motion made, and Question put, That this House disagrees with Lords amendment 22.—(Tom Tugendhat.)
+
+Division 228
+03/05/2023 14:45:00
+The House divided:
+Ayes: 254
+Noes: 134
+Question accordingly agreed to.
+
+Lords amendment 22 disagreed to.
+
+14:56:00
+
+More than two hours having elapsed since the commencement of proceedings on the Lords amendments, the proceedings were interrupted (Programme Order, this day).
+
+The Deputy Speaker then put forthwith the Questions necessary for the disposal of the business to be concluded at that time (Standing Order No. 83F).
+
+After Clause 89
+
+Duty to update the Intelligence and Security Committee of Parliament’s memorandum of understanding
+
+Motion made, and Question put, That this House disagrees with Lords amendment 122.—(Tom Tugendhat.)
+
+Division 229
+03/05/2023 14:57:00
+The House divided:
+Ayes: 254
+Noes: 136
+Question accordingly agreed to.
+
+Lords amendment 122 disagreed to.
+
+Lords amendments 1 to 21, 23 to 25, 27 to 121, 123 to 152 and 154 to 174 agreed to, with Commons financial privilege waived in respect of Lords amendments 33 and 34.
+
+Motion made, and Question put forthwith (Standing Order No. 83H(2)), That a Committee be appointed to draw up Reasons to be assigned to the Lords for disagreeing to their amendments 22 and 122;
+
+That Tom Tugendhat, Scott Mann, James Sunderland, Chris Clarkson, Gerald Jones, Holly Lynch and Stuart C. McDonald be members of the Committee;
+
+That Tom Tugendhat be the Chair of the Committee;
+
+That three be the quorum of the Committee.
+
+That the Committee do withdraw immediately.—(Andrew Stephenson.)
+
+Question agreed to.
+
+Committee to withdraw immediately; reasons to be reported and communicated to the Lords.
+
+Lifelong Learning (Higher Education Fee Limits) Bill (Programme) (No. 2)
+
+Ordered,
+
+That the Order of 27 February 2023 (Lifelong Learning (Higher Education Fee Limits) Bill: Programme) be varied as follows:
+
+(1) Paragraphs (4) and (5) of the Order shall be omitted.
+
+(2) Proceedings on Consideration shall (so far as not previously concluded) be brought to a conclusion two hours after the commencement of proceedings on the Motion for this Order.
+
+(3) Proceedings on Third Reading shall (so far as not previously concluded) be brought to a conclusion three hours after the commencement of proceedings on the Motion for this Order.—(Andrew Stephenson.)
+
