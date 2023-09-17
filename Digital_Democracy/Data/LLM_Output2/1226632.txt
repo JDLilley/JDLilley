@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I have reviewed the text file open in your current webpage and here is my response:
+
+Summary - The text file is a transcript of a debate in the UK Parliament on the Trade Bill, which aims to implement trade agreements after Brexit. The debate covers various amendments and new clauses proposed by MPs on different aspects of trade policy.
+
+For - Voting for New Clause 4 means supporting parliamentary approval of trade agreements and consultation with devolved authorities. It also means requiring a report on the differences between the new agreements and the existing ones with the EU[1][2].
+
+Against - Voting against New Clause 4 means opposing parliamentary approval of trade agreements and consultation with devolved authorities. It also means rejecting a report on the differences between the new agreements and the existing ones with the EU[2][1].
+
+Decision - Voting for New Clause 4 is associated with more regulation and scrutiny of trade policy, as it would give Parliament and devolved authorities more power and information to influence trade negotiations and outcomes.
+
+Sentiment - B

@@ -1,0 +1,11 @@
+## Bing
+
+Summary - The text file is a transcript of a parliamentary debate on a bill that ends free movement of EU citizens to the UK and introduces a points-based immigration system. The debate covers various amendments proposed by the House of Lords.
+
+For - The government argues that the amendment is unnecessary because there are already independent reports on the impact of ending free movement on the social care sector. They also say that immigration policy should not be an alternative to investing in and rewarding the domestic workforce.
+
+Against - The opposition argues that the amendment is essential to understand the consequences of the bill for the social care sector, which relies on migrant workers and has been under immense pressure during the pandemic. They also say that the government's intransigence is disrespectful and shameful to those who work on the frontline.
+
+Decision - The motion to disagree with Lords amendment 1 would tighten immigration and borders, as it would reject the need for an independent assessment of the effects of ending free movement on the social care sector, and would potentially reduce the supply of migrant workers for this sector[1].
+
+Sentiment - A

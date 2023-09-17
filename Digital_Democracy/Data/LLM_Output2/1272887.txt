@@ -1,0 +1,13 @@
+## Bing
+
+Here is my review of the text file open in your current webpage:
+
+Summary - The text file is a transcript of a parliamentary debate on the European Union (Future Relationship) Bill, which ratifies the UK-EU trade deal. The Bill was passed by a large majority, with some opposition from Scottish and Irish parties.
+
+For - Voting 'Ayes' in the division means supporting the UK-EU trade deal, which the Government claims will protect jobs, sovereignty, and security. It also means ending the Brexit transition period and avoiding a no-deal scenario.
+
+Against - Voting 'Noes' in the division means rejecting the UK-EU trade deal, which some parties argue will harm the economy, environment, and human rights. It also means risking a no-deal Brexit, which could cause disruption and uncertainty.
+
+Decision - Voting 'Aye' in the division is associated with protectionism and independence from the European Union and other Foreign Affairs. The UK-EU trade deal creates new barriers and restrictions on trade, travel, and cooperation. It also allows the UK to diverge from EU standards and regulations.
+
+Sentiment - B

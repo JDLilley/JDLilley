@@ -1,0 +1,11 @@
+## Bing
+
+Summary - The text file contains a debate on the Trade Bill, which aims to implement trade agreements after Brexit. The debate covers various amendments and new clauses proposed by MPs, such as those related to import standards, health services, environmental goals, and animal welfare.
+
+For - Voting for new clause 11 means supporting a requirement for imported agricultural goods to meet animal health and welfare, environmental, plant health, food safety and other standards which are at least as high as those which apply to UK produced agricultural goods[1][2].
+
+Against - Voting against new clause 11 means opposing such a requirement and allowing the government to negotiate trade agreements that may lower the standards for imported agricultural goods or create unfair competition for UK producers.
+
+Decision - Voting for new clause 11 is associated with regulation, as it imposes restrictions on trade based on certain criteria and aims to protect domestic standards and producers. Voting against new clause 11 is associated with the free market, as it favours more flexibility and openness in trade negotiations and agreements.
+
+Sentiment - B

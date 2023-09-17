@@ -1,0 +1,11 @@
+## Bing
+
+Summary - The text file is a transcript of a debate in the UK Parliament on the Agriculture Bill, which aims to reform the farming sector after Brexit. The main issue is whether to protect UK food standards in law and how to scrutinise future trade deals.
+
+For - Voting 'Ayes' means rejecting Lords amendment 16B, which would require imported food products to meet UK standards of animal welfare, environmental protection and food safety. The Government argues that this amendment is unnecessary, impractical and would undermine trade negotiations.
+
+Against - Voting 'Noes' means supporting Lords amendment 16B, which would safeguard UK food standards and prevent lower-quality imports from undercutting British farmers. The Opposition and some cross-party MPs argue that this amendment is essential, popular and would promote fair trade.
+
+Decision - Voting 'Aye' in the division: Lords Amendment 16B Motion to disagree is associated with prioritising economic growth and development in the context of Environment & Energy. This is because it would allow the Government to pursue trade deals with countries that have lower standards of production and potentially lower environmental regulations, which could have negative impacts on the UK's climate goals and biodiversity.
+
+Sentiment - B

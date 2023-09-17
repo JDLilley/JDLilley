@@ -1,0 +1,11 @@
+## Bing
+
+Summary - The text file is a transcript of a parliamentary debate on the Financial Services Bill, which aims to regulate the UK financial sector after Brexit. The debate covers various amendments and new clauses proposed by MPs from different parties.
+
+For - Voting for New Clause 21 means supporting the introduction of a duty of care for financial services providers to act in the best interests of all consumers[1]. This would enhance consumer protection and prevent mis-selling and exploitation.
+
+Against - Voting against New Clause 21 means opposing the imposition of a duty of care for financial services providers, which could be seen as unnecessary, burdensome or ineffective. This could reflect a preference for market-based solutions and self-regulation.
+
+Decision - Voting for New Clause 21 is associated with austerity and regulation, as it would impose more obligations and restrictions on financial services providers, and potentially reduce their profits and competitiveness.
+
+Sentiment - B

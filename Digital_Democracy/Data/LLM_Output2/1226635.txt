@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I have reviewed the text file open in your current webpage and generated the following response based on your instructions:
+
+Summary - The text file contains a transcript of a debate in the UK Parliament on the Trade Bill, which aims to implement trade agreements after Brexit. The debate covers various aspects of trade policy, such as standards, transparency, devolution and dispute resolution.
+
+For - Voting for the Trade Bill at the third reading means supporting the Government's approach to trade negotiations and agreements, which includes maintaining high standards, ensuring parliamentary scrutiny, respecting devolved competences and protecting public services.
+
+Against - Voting against the Trade Bill at the third reading means opposing the Government's approach to trade negotiations and agreements, which is seen as inadequate, unaccountable, centralised and risky for public services, environmental protection, human rights and animal welfare.
+
+Decision - Voting for the Trade Bill at the third reading is associated with stimulus and the free market, because it enables the UK to pursue new trade opportunities with other countries and regions, and to adopt its own regulatory framework for trade policy.
+
+Sentiment - A

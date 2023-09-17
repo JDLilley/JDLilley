@@ -1,0 +1,11 @@
+## Bing
+
+Summary - The text file is a transcript of a parliamentary debate on the Financial Services Bill, which aims to regulate the UK financial sector after Brexit. The debate covers various amendments and new clauses proposed by MPs from different parties.
+
+For - Voting for Amendment 1 means supporting the establishment of a public inquiry into the standards of conduct and ethics in the UK financial services industry, under the Inquiries Act 2005. The inquiry would examine the prevalence of unlawful and unethical practices in the sector.
+
+Against - Voting against Amendment 1 means opposing the establishment of a public inquiry into the standards of conduct and ethics in the UK financial services industry. The opposition argues that such an inquiry is unnecessary, costly and would undermine the existing regulatory framework and reforms.
+
+Decision - Voting for Amendment 1 is associated with austerity and regulation, as it implies a lack of trust and confidence in the UK financial services industry and a need for more oversight and accountability.
+
+Sentiment - B

@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I have reviewed the text file open in your current webpage and here is my response:
+
+Summary - The text file is a transcript of a debate in the UK Parliament on the Trade Bill, which aims to implement trade agreements after Brexit. The debate covers various amendments and new clauses proposed by MPs on different aspects of trade policy.
+
+For - Voting for New Clause 17 means supporting the protection of the NHS and publicly funded health and care services from any negative effects of trade agreements. It would prevent any provisions that would undermine or restrict the public provision, regulation and quality of health or care services.
+
+Against - Voting against New Clause 17 means opposing the restrictions on trade agreements that could affect health or care services. It would allow more flexibility and market access for foreign investors, providers and products in the health or care sectors.
+
+Decision - Voting for New Clause 17 is associated with austerity and regulation, as it would limit the scope and opportunities for trade liberalisation and private sector involvement in health or care services. It would also maintain the existing standards and safeguards for public health and welfare.
+
+Sentiment - B

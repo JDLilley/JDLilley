@@ -1,0 +1,11 @@
+## Bing
+
+Summary - The text file is a transcript of a parliamentary debate on the Trade Bill, which covers various aspects of UK trade policy after leaving the EU. The debate focuses on several amendments proposed by the House of Lords, such as those related to human rights, NHS data, online harms, standards, and parliamentary scrutiny.
+
+For - Voting for the motion to disagree to Lords amendment 1 means rejecting the proposal to give Parliament more power and oversight over trade agreements. It means supporting the Government's position that the existing arrangements are sufficient and appropriate for a Westminster-style democracy.
+
+Against - Voting against the motion to disagree to Lords amendment 1 means supporting the proposal to give Parliament more power and oversight over trade agreements. It means challenging the Government's position that the existing arrangements are sufficient and appropriate for a Westminster-style democracy.
+
+Decision - Voting for the motion to disagree to Lords amendment 1 is associated with austerity and regulation, because it implies that trade policy should be controlled by the executive branch and not subject to parliamentary scrutiny or democratic accountability. It also suggests that trade agreements should not be constrained by human rights, environmental, or public health standards.
+
+Sentiment - B

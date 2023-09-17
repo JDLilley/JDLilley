@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I have reviewed the text file open in your current webpage and here is my response:
+
+Summary - The text file is a transcript of a debate in the UK Parliament on the Finance Bill, which includes a digital services tax. MPs discuss the merits and drawbacks of the tax and propose amendments and new clauses.
+
+For - Voting for New Clause 1 means supporting a review of the impact of the digital services tax on small businesses and consumers. The supporters argue that the tax may harm UK competitiveness and innovation, and that it should be aligned with international standards.
+
+Against - Voting against New Clause 1 means opposing a review of the impact of the digital services tax on small businesses and consumers. The opponents argue that the tax is necessary to ensure that large online platforms pay their fair share of tax, and that it is designed to be temporary and proportionate.
+
+Decision - Voting for New Clause 1 is associated with stimulus and the free market, because it implies a preference for lower taxes and less regulation on digital businesses, and a concern for the potential negative effects of the tax on economic growth and consumer choice.
+
+Sentiment - A

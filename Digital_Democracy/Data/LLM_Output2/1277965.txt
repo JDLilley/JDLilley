@@ -1,0 +1,11 @@
+## Bing
+
+Summary - The text file is a transcript of a parliamentary debate on the Trade Bill, which covers various aspects of UK trade policy after leaving the EU. The debate focuses on several amendments proposed by the House of Lords, such as human rights, NHS data, online harms, standards and Northern Ireland.
+
+For - Voting for the motion to disagree with Lords amendment 7 means rejecting the proposal to prevent the UK from signing trade agreements that are not compliant with international and domestic obligations on protecting children online[1]. The Government argues that this amendment is unnecessary and that online harms protection belongs in online harms legislation.
+
+Against - Voting against the motion to disagree with Lords amendment 7 means supporting the proposal to prevent the UK from signing trade agreements that are not compliant with international and domestic obligations on protecting children online[1]. The Opposition argues that this amendment is important and that major US internet companies have sought to use trade deals to exempt themselves from liability and access user data, including that of children[2].
+
+Decision - Voting for the motion to disagree with Lords amendment 7 is associated with stimulus and the free market, because it implies a preference for less regulation and more flexibility in trade negotiations, as well as a trust in the market forces to ensure online safety.
+
+Sentiment - A

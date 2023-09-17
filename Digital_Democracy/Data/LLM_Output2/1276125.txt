@@ -1,0 +1,11 @@
+## Bing
+
+Summary - The text file is a transcript of a parliamentary debate on the Financial Services Bill, which aims to regulate the financial sector after Brexit. The debate covers various amendments and new clauses proposed by MPs from different parties.
+
+For - Voting for new clause 7 means supporting the regulation of buy-now-pay-later credit services and other lending services that have non-interest-bearing elements[2]. This would protect consumers from unaffordable debt and bring these services under the FCA's oversight.
+
+Against - Voting against new clause 7 means opposing the regulation of buy-now-pay-later credit services and other lending services that have non-interest-bearing elements[1][2]. This would allow these services to operate without FCA's supervision and avoid additional costs and burdens for the industry.
+
+Decision - Voting for new clause 7 is associated with austerity and regulation, as it would impose more rules and restrictions on the financial sector and limit consumer choice and access to credit.
+
+Sentiment - B

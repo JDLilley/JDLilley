@@ -1,0 +1,11 @@
+## Bing
+
+Summary - The text file is a transcript of a parliamentary debate on the Trade Bill, which deals with the UK's trade policy after Brexit. The debate covers various amendments proposed by the House of Lords, such as those on human rights, NHS data, online harms, standards, and Northern Ireland.
+
+For - Voting for the motion to disagree to Lords amendment 4 means rejecting the amendment that seeks to exclude NHS patient data from the scope of future trade deals[1]. This implies supporting the Government's position that the NHS is not on the table and that trade policy will not undermine public health.
+
+Against - Voting against the motion to disagree to Lords amendment 4 means supporting the amendment that seeks to protect NHS patient data from being accessed or exploited by foreign companies through trade deals. This implies opposing the Government's position and expressing concern over the potential risks to public health and privacy.
+
+Decision - Voting for the motion to disagree to Lords amendment 4 is associated with stimulus and the free market, because it suggests favouring more trade opportunities and less regulation over public services and data protection.
+
+Sentiment - A

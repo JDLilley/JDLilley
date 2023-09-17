@@ -1,0 +1,13 @@
+## Bing
+
+Thank you for your request. Here is my response based on the text file open in your current webpage:
+
+Summary - The text file is a transcript of a debate in the UK Parliament on the Covert Human Intelligence Sources (Criminal Conduct) Bill, which aims to provide a legal framework for the use of undercover agents who may engage in criminal activities. The debate covers various amendments proposed by different MPs to limit or regulate the scope and oversight of such authorisations.
+
+For - Voting 'Ayes' in the division: Amendment 16 means supporting the restriction of the authorities that can grant criminal conduct authorisations to police forces, the National Crime Agency, the Serious Fraud Office and the intelligence services. This would exclude other bodies such as the Food Standards Agency, the Gambling Commission, and the Department of Health and Social Care.
+
+Against - Voting 'Noes' in the division: Amendment 16 means opposing the restriction of the authorities that can grant criminal conduct authorisations and maintaining the current list of 13 public authorities that are deemed to have a legitimate need to use covert human intelligence sources for preventing or detecting crime or disorder.
+
+Decision - Voting 'Aye' in the division: Amendment 16 is associated with increased accountability and limiting powers of Defence & Armed Forces, as it would reduce the number of public authorities that can authorise criminal conduct by undercover agents, and potentially limit the range of crimes that can be authorised.
+
+Sentiment - B
