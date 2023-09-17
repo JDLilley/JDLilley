@@ -1,0 +1,537 @@
+ Product Security and Telecommunications Infrastructure Bill
+
+Consideration of Bill, as amended in the Public Bill Committee
+
+New Clause 1
+
+Persons able to confer code rights on operators in exclusive occupation
+
+“(1) The electronic communications code is amended as follows.
+
+(2) In paragraph 9 (persons who may confer code rights)—
+
+(a) the existing wording becomes sub-paragraph (1);
+
+(b) after that sub-paragraph insert—
+
+‘(2) But where land is occupied exclusively by an operator, a code right in respect of the land may be conferred on the operator by an agreement between the operator and—
+
+(a) any person other than the operator who for the time being exercises powers of management or control over the land, or
+
+(b) if there is no person within paragraph (a), any person other than the operator whose interest in the land would be prejudicially affected by the exercise of the code right.’
+
+(3) In paragraph 10 (persons bound by code rights), in sub-paragraph (1), omit the words from ‘who’ to the end.”—(Julia Lopez.)
+
+This new clause ensures that an operator in exclusive occupation of land may apply to a person mentioned in new paragraph 9(2)(a) or (b) of the electronic communications code for code rights in respect of the land.
+
+Brought up, and read the First time.
+
+14:05:00
+
+The Minister for Media, Data and Digital Infrastructure (Julia Lopez)
+I beg to move, That the clause be read a Second time.
+
+Madam Deputy Speaker (Dame Rosie Winterton)
+With this it will be convenient to discuss the following:
+
+Government new clause 2—Jurisdiction of First-tier Tribunal in relation to code proceedings in Wales.
+
+Government amendments 1 to 3.
+
+Amendment 14, in clause 59, page 42, line 11, after “agreement”, insert
+
+“other than with a private landlord”.
+
+This amendment, together with Amendments 15, 16 and 17, would apply a different regime under the Electronic Communications Code to private landlords, giving automatic upgrade rights for operators to properties owned by private landlords subject to the condition that the upgrading imposes no additional burden on the other party to the agreement.
+
+Amendment 15, page 43, line 39, at end insert—
+
+“(5B) Paragraph 17 of the new code (power for operator to upgrade or share apparatus) applies in relation to an operator who is a party to a subsisting agreement with a private landlord, but as if for sub-paragraphs (1) to (6) there were substituted—
+
+‘(1) This paragraph applies where—
+
+(a) an operator (“the main operator”) keeps electronic communications apparatus installed on, under or over land, and
+
+(b) the main operator is a party to a subsisting agreement in relation to the electronic communications apparatus.
+
+(2) If the conditions in sub-paragraphs (3), (4) and (6) are met, the main operator may—
+
+(a) upgrade the electronic communications apparatus, or
+
+(b) share the use of the electronic communications apparatus with another operator.
+
+(3) The first condition is that any changes as a result of the upgrading or sharing to the electronic communications apparatus to which the agreement relates have no adverse impact, or no more than a minimal adverse impact, on its appearance.
+
+(4) The second condition is that the upgrading or sharing imposes no additional burden on the other party to the agreement.
+
+(5) For the purposes of sub-paragraph (4) a burden includes anything that—
+
+(a) has an adverse effect on the person’s enjoyment of the land, or
+
+(b) causes loss, damage or expense to the person.
+
+(6) The third condition is that, before the beginning of the period of 21 days ending with the day on which the main operator begins to upgrade the electronic communications apparatus or (as the case may be) share its use, the main operator attaches a notice, in a secure and durable manner, to a conspicuous object on the relevant land.
+
+(7) A notice attached for the purposes of sub-paragraph (6) must—
+
+(a) be attached in a position where it is reasonably legible,
+
+(b) state that the main operator intends to upgrade the electronic communications apparatus or (as the case may be) share its use with another operator,
+
+(c) state the date on which the main operator intends to begin to upgrade the electronic communications apparatus or (as the case may be) share its use with another operator,
+
+(d) state, in a case where the main operator intends to share the use of the electronic communications apparatus with another operator, the name of the other operator, and
+
+(e) give the name of the main operator and an address in the United Kingdom at which the main operator may be contacted about the upgrading or sharing.
+
+(8) Any person giving a notice at that address in respect of that electronic communications apparatus is to be treated as having been given that address for the purposes of paragraph 91(2).
+
+(9) Any agreement under Part 2 of this code is void to the extent that—
+
+(a) it prevents or limits the upgrading or sharing, in a case where the conditions mentioned in sub-paragraphs (3), (4) and (6) are met, of any electronic communications apparatus to which the agreement relates that is installed on, over or under land, or
+
+(b) it makes upgrading or sharing of such electronic communications apparatus subject to conditions to be met by the operator (including a condition requiring the payment of money).
+
+(10) Nothing in this paragraph is to be read as conferring a right on the main operator to enter the land which the main operator would not otherwise have, when upgrading or sharing the use of the electronic communications apparatus.
+
+(11) References in this paragraph to sharing electronic communications apparatus include carrying out works to the electronic communications apparatus to enable such sharing to take place.
+
+(12) In this paragraph—
+
+“the relevant land” means—
+
+(a) in a case where the main operator has a right to enter the land, that land;
+
+(b) in any other case, the land on which works will be carried out to enable the upgrading or sharing to take place or, where there is more than one set of works, the land on which each set of works will be carried out;
+
+“subsisting agreement” has the meaning given by paragraph 1(4) of Schedule 2 to the Digital Economy Act 2017.’”
+
+This amendment, together with Amendments 14, 16 and 17, would apply a different regime under the Electronic Communications Code to private landlords, giving automatic upgrade rights for operators to properties owned by private landlords subject to the condition that the upgrading imposes no additional burden on the other party to the agreement.
+
+Amendment 16, in clause 60, page 44, line 4, after “land”, insert
+
+“not owned by a private landlord”.
+
+This amendment, together with Amendments 14, 15 and 17, would apply a different regime under the Electronic Communications Code to private landlords, giving automatic upgrade rights for operators to properties owned by private landlords subject to the condition that the upgrading imposes no additional burden on the other party to the agreement.
+
+Amendment 17, page 45, line 14, at end insert—
+
+“17B (1) This paragraph applies where—
+
+(a) an operator (‘the main operator’) keeps electronic communications apparatus installed on, under or over land owned by a private landlord,
+
+(b) the main operator is not a party to an agreement under Part 2 of this code in relation to the electronic communications apparatus, and
+
+(c) the electronic communications apparatus was installed before 29 December 2003.
+
+(2) If the conditions in sub-paragraphs (3), (4) and (6) are met, the main operator may—
+
+(a) upgrade the electronic communications apparatus, or
+
+(b) share the use of the electronic communications apparatus with another operator.
+
+(3) The first condition is that any changes as a result of the upgrading or sharing to the electronic communications apparatus to which any existing agreement between the operator and the landlord relates have no adverse impact, or no more than a minimal adverse impact, on its appearance.
+
+(4) The second condition is that the upgrading or sharing imposes no additional burden on the landlord.
+
+(5) For the purposes of sub-paragraph (4) a burden includes anything that—
+
+(a) has an adverse effect on the person’s enjoyment of the land, or
+
+(b) causes loss, damage or expense to the person.
+
+(6) The third condition is that, before the beginning of the period of 21 days ending with the day on which the main operator begins to upgrade the electronic communications apparatus or (as the case may be) share its use, the main operator attaches a notice, in a secure and durable manner, to a conspicuous object on the relevant land.
+
+(7) A notice attached for the purposes of sub-paragraph (6) must—
+
+(a) be attached in a position where it is reasonably legible,
+
+(b) state that the main operator intends to upgrade the electronic communications apparatus or (as the case may be) share its use with another operator,
+
+(c) state the date on which the main operator intends to begin to upgrade the electronic communications apparatus or (as the case may be) share its use with another operator,
+
+(d) state, in a case where the main operator intends to share the use of the electronic communications apparatus with another operator, the name of the other operator, and
+
+(e) give the name of the main operator and an address in the United Kingdom at which the main operator may be contacted about the upgrading or sharing.
+
+(8) Any person giving a notice at that address in respect of that electronic communications apparatus is to be treated as having been given that address for the purposes of paragraph 91(2).
+
+(9) Nothing in this paragraph is to be read as conferring a right on the main operator to enter the land which the main operator would not otherwise have, when upgrading or sharing the use of the electronic communications apparatus.
+
+(10) References in this paragraph to sharing electronic communications apparatus include carrying out works to the electronic communications apparatus to enable such sharing to take place.
+
+(11) In this paragraph ‘the relevant land’ means—
+
+(a) in a case where the main operator has a right to enter the land, that land;
+
+(b) in any other case, the land on which works will be carried out to enable the upgrading or sharing to take place or, where there is more than one set of works, the land on which each set of works will be carried out.”
+
+This amendment, together with Amendments 14, 15 and 16, would apply a different regime under the Electronic Communications Code to private landlords, giving automatic upgrade rights for operators to properties owned by private landlords subject to the condition that the upgrading imposes no additional burden on the other party to the agreement.
+
+Amendment 12, page 45, line 18, leave out clause 61.
+
+This amendment removes clause 61 of the Bill, which gives operators the ability to calculate rent based on ‘land value’ rather than ‘market value’ when renewing tenancies to host digital infrastructure on private land.
+
+Amendment 13, page 46, line 42, leave out clause 62.
+
+This amendment removes clause 62 of the Bill, which gives operators the ability to calculate rent based on ‘land value’ rather than ‘market value’ when renewing tenancies to host digital infrastructure on private land in Northern Ireland.
+
+Amendment 9, in clause 68, page 58, line 38, leave out from “must” to “one” in line 39 and insert “use”.
+
+This amendment, along with Amendments 10 and 11, seeks to ensure that operators engage in the alternative dispute resolution process by making it mandatory.
+
+Government amendments 4 to 7.
+
+Amendment 10, in clause 68, page 59, line 12, leave out from “must” to “one” in line 13 and insert “use”.
+
+This amendment, along with Amendments 9 and 11, seeks to ensure that operators engage in the alternative dispute resolution process by making it mandatory.
+
+Amendment 11, page 59, line 34, leave out from “must” to “one” in line 35 and insert “use”.
+
+This amendment, along with Amendments 9 and 10, seeks to ensure that operators engage in the alternative dispute resolution process by making it mandatory.
+
+Government amendment 8.
+
+Julia Lopez
+It is a pleasure to be making such good progress on this Bill, which seeks to deliver world-class connectivity to our constituents and to improve the security of the devices that we all rely on. I will start by explaining the need for the Government amendments tabled in the name of the Secretary of State, as those amendments are relatively straightforward. I will then move on to the more substantial matter of the remaining amendments, which I suspect right hon. and hon. Members are keener to discuss.
+
+Beginning with new clause 1, as I explained on Second Reading, some operators with apparatus on land are currently unable to follow an existing statutory process to renew their agreement once it comes to an end. These operators also cannot use the code to get an entirely new agreement, because only the occupier of land can grant code rights. An operator already occupying land clearly cannot enter into an agreement with itself. Clause 57 was intended to ensure that operators could obtain code rights from another party in these circumstances, but subsequent engagement with stakeholders has made it clear that the clause as drafted would not cover all scenarios and that a more focused approach is required. Some operators would still find themselves effectively stuck once their agreements ended, with no means of renewing their agreement and no reasonable or practical means of obtaining a new code agreement. This can have negative consequences for consumers, and as such it is unacceptable. New clause 1 therefore replaces clause 57.
+
+The new clause will ensure that all operators in exclusive occupation of land who do not have a statutory renewal option can still seek a code agreement. The person who can grant those code rights will usually be the owner of the land, although the new drafting makes provision for less straightforward situations. As well as resolving the problem of “stuck” operators, new clause 1 also assists operators with an existing, ongoing agreement. Where such operators need additional code rights that are not already provided by their current agreement, the new clause ensures they can seek such rights. Currently, some such operators are unable to do so because they are in occupation of the land.
+
+John Redwood (Wokingham) (Con)
+Will my hon. Friend confirm that operators still need to get the agreement of the landowner or someone else who is empowered to grant that right, so that there is no muddle or confusion?
+
+Julia Lopez
+Yes. They will be allowed to take out a new agreements, but they still have to be under the existing regime.
+
+To be clear, this will not let an operator unilaterally change, or ask the court to impose a change to, the terms or duration of their current agreement. It allows an additional code right to be conferred on the operator via a new, separate code agreement.
+
+Dave Doogan (Angus) (SNP)
+I think we all accept the need to be able to protect continuity of service, but my constituent, Mr Ramsay, is on the receiving end of some very strong tactics by Telefonica, which is looking to reduce the value of his lease agreement by about 90%, by £5,000 from about £7,000. What does the Minister suggest my constituent do under the weight of that corporate might? It is a David and Goliath situation.
+
+Julia Lopez
+I thank the hon. Gentleman for raising the case of his constituent. I would be grateful if he took it up with my officials, as I am keen to look into it. Throughout the passage of the Bill, individuals have raised cases with me. It is fair to say that the number of cases has declined substantially as the Bill has progressed through the House, so I am content that the position is getting much better, but if there are outstanding cases of situations that any MP feels is unfair, I will be grateful if they are brought to my attention.
+
+To return to the case I was making for new clause 1, as with an initial agreement, if a consensual agreement cannot be reached about the additional right needed, operators will be able to ask the court to impose an additional agreement conferring the additional right. Of course, in those circumstances an operator would still have to satisfy the court that its application meets the requirements of part 4 of the code, including the public interest test.
+
+Let me give an example of how the Government intend this to work. An operator may have an existing agreement which contains a code right to install a 3 metre high mast. Subsequently, the operator realises that it needs to install a 5-metre high mast on the same piece of land. That could enable the operator to install 5G technology or to improve or expand its network. The original agreement allowing the 3-metre mast will continue to run for its remaining term, and the operator will ask the site provider to enter into a second agreement, which contains a code right allowing it to install the 5-metre high mast.
+
+Advances in technology occur at pace, whereas a code agreement can last for a number of years. If an operator has to wait until the term of its code agreement is about to expire before being able to obtain additional code rights, it will be unable to install the latest technology on its apparatus, meaning our constituents will be deprived of faster, more reliable services such as 5G and, in time, 6G. We think that the new clause is also vital to give UK businesses access to the technology they need, enabling our economy to thrive. I hope Members will therefore agree that it must be made.
+
+Turning to new clause 2, we want to ensure that disputes relating to the electronic communications code can be dealt with as quickly and efficiently as possible. Currently, paragraph 95 of the code allows the Secretary of State to make regulations that confer jurisdiction on either the first-tier tribunal or upper tribunal in relation to England, but only the upper tribunal in relation to Wales. The current regulations made under paragraph 95 state that all code disputes must commence in the upper tribunal, although in England, appropriate cases may then be handed down to the first-tier tribunal. The first-tier tribunal has greater administrative resources and more judges than the upper tribunal, meaning that code disputes can be processed and heard more quickly.
+
+Moving forward, the Government are therefore considering a greater role for the first-tier tribunal in hearing code disputes, including making further regulations using the power in paragraph 95 of the code where appropriate. The new clause provides the necessary powers so that we can do just that. In future, the Secretary of State will be able to make regulations conferring jurisdiction on both the upper tribunal and the first-tier tribunal in Wales.
+
+The final set of Government amendments is amendments 4 to 7. They have been tabled to make a minor clarification to the text of clause 68 to avoid any unintended interpretation of the legislation. Clause 68 currently makes it clear that an operator can, at any time, give notice in writing to a person from whom they are seeking code rights, stating that the operator wishes to engage in alternative dispute resolution, often known as ADR. However, nowhere is it set out that such a notice can be sent from that person to the operator. The amendments clarify that when an operator seeks code rights from a person, either the operator or that person may give notice to the other expressing a wish to engage in ADR at any time.
+
+Sir Desmond Swayne (New Forest West) (Con)
+I certainly welcome the movement that the Minister has made. I went to table exactly those amendments and was pleased to find that she had beaten me to it. Can I tempt her to go further with respect to my amendment and amendment 4 and require the operator, which has such disproportionate power against the landowner, to engage as a requirement in the alternative dispute procedure from the outset?
+
+Julia Lopez
+I am afraid that my right hon. Friend cannot tempt me, and I will say why shortly.
+
+I thank the hon. Member for Hackney South and Shoreditch (Dame Meg Hillier) for bringing forward amendments 14 to 17 to clauses 59 and 60. They would expand retrospective rights to upgrade and share apparatus in buildings owned by private landlords, such as blocks of flats, also known as multiple dwelling units or MDUs. I begin by saying that I have considered this issue carefully. I have been lobbied extremely heavily on it by one operator in particular, and I have tested the proposition with my officials, legal advisers and other operators.
+
+I would not like to pre-empt what the hon. Lady might say as to why she tabled the amendments and their perceived need. However, I reassure her, and any others considering supporting them, that as a fellow London MP with many MDUs in my seat I am concerned about the dangers of a digital divide emerging, and I am doing what I can to avoid that circumstance. If I thought that the amendments genuinely helped on that front, I would do all I could to incorporate them, but there is a glaring lack of consensus among the telecoms industry about their need. Indeed, only one operator has contacted me in support of them, while four separate operators and representative bodies have strongly opposed the amendments, arguing that they are anti-competitive. I will talk a little more about that in a minute.
+
+Andrew Percy (Brigg and Goole) (Con)
+I welcome the Minister’s rejection of those amendments. In my area, we have KCOM, which is a strong local performer. Had it not been for KCOM, most of my constituents, who are on the dual network, where it can be KCOM or Openreach, would not be anywhere near to getting gigabit broadband. We therefore do not want to see any changes that will give BT Openreach an advantage or preference over other providers, such as KCOM, which have got their acts together and got gigabit broadband delivered to our homes.
+
+14:15:00
+
+Julia Lopez
+I thank my hon. Friend for raising the great work of KCOM and the importance of competition and how it is driving roll-out. It is changing the dynamic in the market, very much for the better. I am mindful of how we drive extra competitiveness in this field, because that is what is getting us the roll-out and the digital connectivity that our constituents need and demand.
+
+Amendments 14 to 17 are, I think, identical to the proposals tabled in Committee. As I explained then, upgrading and sharing electronic communications apparatus offers substantial benefits. We specifically recognised that in our 2017 reforms and in the new upgrading and sharing rights that clauses 59 and 60 will create. However, as I also explained, any legislation concerning work affecting private land has to take careful care to strike the right balance between public benefit and individual rights. The automatic rights introduced in 2017 were developed to maintain that balance.
+
+Even more careful consideration is needed for legislation that applies retrospectively. It is for that reason that clauses 59 and 60, which have retrospective effect, include tighter restrictions on the rights they confer on operators. Under those clauses, operators will have automatic rights to carry out only limited activities that will not have adverse impacts on the land in question or impose any burden on anyone with an interest in the land. However, conferring these rights will facilitate activities such as crucial upgrading work on cables installed underneath land. Industry stakeholders have confirmed that this has significant potential to provide homes and communities with gigabit-capable connections at pace. The public benefits are therefore substantial, with little to no impact on private individuals.
+
+Further expanding these retrospective measures, as proposed by the amendments, would require us to revisit two fundamental points: first, what would the public benefit be, and, secondly, what would the impact be on individual landowners’ rights? We have considered that carefully, and we do not think that the case has been made for the changes that the amendments propose.
+
+Looking first at the impact on landowners’ rights, if apparatus can be upgraded or shared without material alteration to land or property—for example, if works are carried out solely on or within apparatus, such as a duct—impact on the land can be negligible. Upgrading equipment in a building almost always involves some direct impact, however small, on the building. We think that works that have an impact on property should require either agreement from the landlord or imposition by the courts through the processes provided for in the code.
+
+In any event, if an automatic right of the kind envisaged was introduced, operators would still have to successfully engage with the landlords for logistical purposes, such as to arrange access to the property or to discuss any potential health and safety issues or need for repairs. If these conversations must take place, and we think that they should, it seems sensible that the operator should at the same time ask permission to carry out the works. That brings us again to the question of whether the expanded automatic rights, as proposed by the amendments, would be proportionate. There are other ways that operators can upgrade equipment in multi-dwelling units. They can already ask for the rights to do so, and measures are being introduced that will enable them to resolve matters quickly and cheaply.
+
+Finally, what of the public benefit? Members made the point in Committee that residents in blocks of flats urgently need gigabit-capable connections, particularly if we are to meet our levelling-up ambitions in urban areas, as well as in rural communities. I have explained that the code already contains provisions that would enable operators to seek rights to upgrade apparatus in buildings. In contrast, an automatic right could have adverse impacts that have perhaps not been fully explored. Members suggest that there is consensus in industry that these changes are needed, but that is not the case. I have received direct representations from many fibre providers that strongly oppose these proposals. They say that the proposals would create an unfair advantage for operators with equipment inside buildings, with potentially anti-competitive effects.
+
+I hope that gives the hon. Member for Hackney South and Shoreditch assurance that the provisions in the Bill on retrospective rights to upgrade and share represent a balanced approach, and that there are substantial measures in place and under way to connect residents of multi-dwelling units. I therefore hope that she will not press her amendments to a Division.
+
+Finally, I will address the amendments tabled by my right hon. Friend the Member for New Forest West (Sir Desmond Swayne). First, amendments 12 and 13 seek to remove clauses 61 and 62 from the Bill. This is another matter that I am familiar with. Indeed, as I suggested in response to an intervention, I have had conversations with him and other hon. Members about particular cases, as well as with the campaign group that represents landowners on the issue.
+
+The Government recognise that, since 2017, there have been problems between some landowners and telecoms operators, and a level of discontent about the result of the valuation regime change, but we want to bring that regime more in line with that of other utilities, and we believe there are significant benefits to doing so. I must say that I have found little evidence in recent weeks and months to suggest that the regime requires a radical overhaul.
+
+I have encouraged more collaborative discussions between operators and landowners. I have looked into specific cases, and concluded that the measures that we are introducing to encourage more collaborative negotiations will help to tackle many of the problems that I have seen. Significant information about cases has not always been forthcoming when asked for, but if hon. Members would like to discuss constituency cases, I am always happy to receive the details. Fundamentally, we need a legislative framework that keeps costs low, so that we can encourage investment and protect consumers from price increases. The code valuation framework to calculate the sums payable to landowners by operators, which was introduced in 2017, aimed to achieve that. We maintain that the overall framework creates the right balance between the public need for fantastic digital infrastructure and making sure that landowners receive a fair payment for allowing their land to be used. The purpose of clauses 61 and 62 is to make sure that the valuation framework applies consistently across the UK and to all agreements the code applies to.
+
+John Redwood
+I certainly support the Minister in the belief that the more competitive the industry, the better the results that we will get. Has she had representations from people who would like to enter the market about whether the change would make them more likely to do so?
+
+Julia Lopez
+Most of the people I have spoken to are already in the market and believe that the change will make a big difference to how they roll out. It is a very competitive market with many new entrants. I am not aware of anybody who is just dipping their toe in the water; because it is so competitive, people are already aggressively in the market. We think that the change will really help to accelerate the roll-out to our constituents of fantastic digital infrastructure of the kind that we all understand is fundamental to driving productivity gains, and to reducing the divide between areas that do and do not have that connectivity.
+
+From the contribution of my right hon. Friend the Member for New Forest West on Second Reading, I understand that his concern relates to the effect of clauses 61 and 62 on landowners who already host telecoms apparatus on their land. I recognise that, ultimately, these changes are likely to lead to reductions in the rent received by landowners with a tenancy protected by the Landlord and Tenant Act 1954 or the Business Tenancies (Northern Ireland) Order 1996. I appreciate that that might not have been expected by those entering into such tenancies at the time they were created, but it is also fair to say that market values change over time, and there is never any guarantee that rents received by a landlord will remain constant or increase.
+
+We have also given careful consideration to the effect of clauses 61 and 62, and have balanced the impact that they might have on landowners with the wider, substantial public benefits that we are pursuing. It is also important to recognise that the changes will not happen until any ongoing agreement expires and comes to be renewed. Furthermore, clauses 63 and 64 introduce separate provisions allowing the landowner to recover compensation for any damage to their land, reduction in its value or reasonable expenses resulting from an operator exercising their code rights.
+
+Clauses 61 to 64 ensure that the 2017 framework will apply to all future agreements. It must be remembered that the code has an underlying purpose, which is to support the delivery of robust digital networks. Our constituents increasingly rely on those networks for critical digital services. Only recently, the National Farmers Union’s digital technology survey found that poor mobile signal and unreliable internet access are hampering farming businesses. We know that rural connectivity is a problem for many organisations, and addressing it is one of our priorities as a Government. The Bill, including clauses 61 and 62, aims to address those issues.
+
+I am sure that my right hon. Friend had only noble intentions when tabling his amendments, but although they may benefit some landowners, they have the potential to penalise entire communities by keeping network costs unacceptably high. Clauses 61 and 62 will help to reduce the digital divide between different parts of the country, as they will help to prevent deployment being cheaper in one area than another.
+
+Finally, I turn to amendments 9 to 11 tabled by my right hon. Friend, which would require a party to use alternative dispute resolution processes before making certain applications to a court under the electronic communications code, including where an agreement granting rights under the code is being sought. The provisions on ADR processes in the Bill aim to create more collaborative discussions between landowners and telecoms operators to ensure that litigation is used only as a last resort. I suspect that that is what the amendments seek to ensure as well. Although I sympathise with the intention behind these amendments, the Government oppose them—first, because they are unnecessary; secondly, because ADR is not appropriate in every situation; and thirdly, because they would be counterproductive to the amendments’ overall intentions.
+
+The Bill requires operators, when requesting rights under the code, to inform the landowners of the availability of ADR. Crucially, it also creates a requirement that if an application is made to a court, the court will be required to take into account any unreasonable refusal to engage in ADR when awarding costs. Those requirements strongly incentivise the use of ADR without the need to make it mandatory. The Government therefore believe the amendments to be unnecessary.
+
+It is also important to note that ADR may not be suitable in certain cases, such as where a disagreement is based on differing interpretations of the law. Such points of law must be resolved in the courts, and mandatory ADR would add cost and time to that process without offering any benefit.
+
+The Government also believe that the amendments would be counterproductive to their own goals. If ADR were compulsory, some parties would be compelled to participate in an ADR process they do not want to be involved in, and so would be less inclined to actively engage in the process. That would increase the risk that ADR would fail, which would mean that parties would have to go to court anyway. If that were the case, all that compulsory ADR would have achieved is to add an additional layer of time and costs for landowners, such as charities, sports clubs and farmers. It should also be noted that, when consulted, a clear majority of stakeholders were not in favour of compulsory ADR. I hope that I have given my right hon. Friend assurance that the provisions regarding ADR in the Bill already represent the most effective way of encouraging its use, and I hope that he will not press his amendments to a Division.
+
+Chris Elmore (Ogmore) (Lab)
+You will be aware, Madam Deputy Speaker, that I have spent at least the last five and a half years as an Opposition Whip encouraging brevity, so I do not intend to keep the House too long. I will keep my remarks short and hopefully to the point. As I said on Second Reading and in Committee, I will not pretend that the Opposition do not support the wider principles of the Bill. I thank the Minister for the constructive way in which she has engaged on it with me from the outset.
+
+I turn to the new clauses and amendments. New clause 1 is an improvement on the Government’s first attempt to change the definition of “occupier”, but the changes put forward are still not watertight when it comes to preventing unintended consequences. The new clause does not address the underlying issue that operators could theoretically use it in situations other than when existing agreements have expired, which could lead to financial consequences for small site providers who have been hard done by since the electronic communications code review in 2017. More work is needed when the Bill moves to the other place to ensure it does not unintentionally punish site providers further. We have no issue with the proposal in new clause 2 that grants the Secretary of State power to make regulations that provide for a function conferred by the code on the court to be exercisable in relation to Wales by the first-tier tribunal.
+
+I will speak to amendment 14 on behalf of my hon. Friend the Member for Hackney South and Shoreditch (Dame Meg Hillier). She sends her apologies to the House; she is chairing the Public Accounts Committee. We have checked with the Clerks and the Speaker’s Office to check that that is appropriate. That amendment, and the consequential amendments 15, 16 and 17, seek to apply a different regime under the electronic communications code to private landlords. They would give operators automatic upgrade rights in respect of properties owned by private landlords, subject to the strict condition that the upgrading imposes no additional burden on the other party to the agreement.
+
+The growing digital divide in our towns and cities has only been exacerbated by the pandemic. The Government’s broadband target has been downgraded twice, and the Digital, Culture, Media and Sport Committee doubts that the current 85% gigabit target will be met. The backlog is due to the difficulty in accessing a high number of properties, a disproportionate number of which are flats, whose absentee landlords have little to no incentive to respond to requests to upgrade and improve connectivity.
+
+Ruth Edwards (Rushcliffe) (Con)
+I have complete sympathy with the intention behind the amendments and with what the hon. Gentleman is trying to do, but many providers whom we have spoken to throughout the Bill’s passage oppose them on the grounds that they will give the incumbent provider an advantage. Is he concerned that an unintended consequence of his amendments might be to make it more difficult for new competitors to enter the market and provide our constituents with the services that they need?
+
+Chris Elmore
+I welcome competition in the market, but I would say to the hon. Lady that we now have broadband blackspots in parts of central London, and 15% of the constituency of the hon. Member for Hastings and Rye (Sally-Ann Hart) has these MDU blackspots. This is affecting constituents up and down the land, and the demand from all our constituencies, particularly because of the pandemic, is that we require the very best sector-leading broadband. It cannot simply be the case that some operators say this must happen and some say it should not happen, therefore nothing is resolved.
+
+14:30:00
+
+The firm view of the official Opposition is that the Government are not taking this seriously enough, and we want the Government to meet their targets. They have broken their promises twice already, and we would like this country to have sector-leading broadband delivery right across the UK. I therefore say to the hon. Lady that it is remarkably straightforward: our constituents deserve better than what the Government are providing. For example, Openreach is unable to access 620,000 MDU properties. This includes 65,000 properties alone since December 2021. The Government can wax lyrical about levelling up our infrastructure, but the reality is that a significant chunk of the population are being left behind and excluded from the Government’s fabled gigabit revolution.
+
+I assure Members that amendments 14 to 17 would not give operators carte blanche to do as they want when they want. The strict conditions mean that automatic upgrade rights can be granted only if the sharing and upgrading of apparatus have no adverse effect on a person’s enjoyment of the land and there is no loss, damage or expense incurred for the person receiving the upgrade. This point was emphasised in Committee. The amendments will make the process easier for MDUs to have access to upgraded broadband connectivity, which I am sure Members on both sides of the House would like to see.
+
+Amendments 12, 13 and 9, in the name of the right hon. Member for New Forest West (Sir Desmond Swayne), look to amend the Bill by removing operators’ ability to calculate the rent paid by landowners based on land value rather than market value. Prior to the 2017 reforms, the valuation of sites for digital infrastructure was carried out on a market value basis, and it functioned well. Landowners were paid a fair and competitive price for hosting telecommunications infrastructure. The 2017 ECC reforms changed the way new sites were valued. It stipulated that landowners would be paid on the basis of land value, not market value.
+
+The Law Commission voiced clear concerns at the time, arguing that it would lead to a fall in rent for landowners, and therefore a slowdown in the number of agreements being reached. As we heard in oral evidence, some landowners have seen their rents dwindle by as much as 90% in some cases, and as a consequence livelihoods have been turned upside down. These are welcome amendments, as they would mean that small tenant farmers, sports clubs and community organisations get a fairer deal for the land they are renting out.
+
+Sir Desmond Swayne
+May I take it therefore that, if Madam Deputy Speaker is minded to allow separate decisions on my amendments, the hon. Gentleman will support them?
+
+Chris Elmore
+I can tell the right hon. Gentleman that we supported this in Committee. Sadly, the Members on his own side did not. I would be very glad if he pushed the amendments, through your good offices, Madam Deputy Speaker, and if he did so, I am sure we would all row in behind him. What the Minister and the Government Whips do could be a different conversation altogether, but I do not think that worries him anymore.
+
+I now turn to Government amendments 4 to 7 and the right hon. Gentleman’s own amendments 10 and 11. We welcome amendments 4 to 7 to ensure that a person with whom an operator is seeking a code agreement may at any time give the operator notice that they wish to engage in alternative dispute resolution in relation to a prospective site-sharing agreement. While the pace of new agreements between landowners and operators has slowed down in recent years, small landowners have been unable to afford the cost of going to a tribunal to try to defend their property rights. When the Bill moves to the other place, we hope that a debate can continue on the possibility of making ADR mandatory, as suggested by amendments 10 and 11, for telecoms operators before threatening to take landowners to court for an agreement to be imposed.
+
+As I have said from the start and certainly many times in Committee, we are not against this Bill, which is a welcome step in the right direction. However, there are certain areas that need to be tightened and improved, and I hope their lordships will have a full debate and bring forward much-needed amendments to ensure that we deliver the very best broadband roll-out right across the United Kingdom.
+
+Sir Desmond Swayne
+My amendments 9 to 11 are designed to address what was made clear in the House on Second Reading, which is that there are examples of egregious bullying by the operators and that there is a complete disproportion of power between those operators and the landowners. The Minister has spoken of her demand for more collaborative working and collaborative negotiation, but we are asking for the process of alternative dispute resolution to be a requirement from the outset precisely because the operators know that they have the power to overawe and frighten landowners with the threat of legal action.
+
+The purpose of my amendments 11 and 12, which was spelt out very well by the Minister, is to return to the status quo ante 2017. Until 2017, compensation was based on market value, and in 2017 the new code changed it to land value, notwithstanding the explicit advice of the Law Commission not to do so. As was entirely predictable and as was predicted, the market dried up as a consequence and there were far fewer agreements. One of the purposes of this Bill is of course to address that problem of the reduction in agreements. Therefore, the obvious remedy is to restore the position as it was and return to market value, but far from doing that—far from seizing this opportunity to remedy the situation—the Government are compounding their error by wanting to make agreements previously made under the old regime renewable under land value, actually making the problem significantly worse as a consequence.
+
+I do not know why the Government appear to have adopted the anarchist principle that property is theft. On the contrary, these measures, by denying landowners proper compensation on the basis of market value—compensation arrived at by a free and open market—and coercing them accordingly to give up their property rights, strike me as theft. These provisions in the Bill are in effect a conspiracy to promote theft: it is stealing. I just cannot understand how a Conservative Government have brought themselves to bring this measure before the House, changing the law retrospectively and so damaging property rights. I just assume that Ministers simply have not realised the enormity of the change they are making. Accordingly, I believe these amendments are vitally necessary for the Bill.
+
+Madam Deputy Speaker (Dame Rosie Winterton)
+I call the SNP spokesperson.
+
+Owen Thompson (Midlothian) (SNP)
+It is worth saying from the start that this Bill certainly takes aim at some of the key gaps in how we regulate product security, so I am genuinely grateful that the Minister is seeking to address some of the issues that have been raised. I put on record my thanks to my hon. Friend the Member for Ochil and South Perthshire (John Nicolson) for leading on Second Reading and in Committee, as well as for getting the phrase “malevolent toaster” into Hansard.
+
+I have warned the Chamber a number of times about the various threats from technology and online spaces. For instance, I have campaigned for tougher action against so-called cyber-troops—organised malevolent forces that weaponise misinformation against our democracy. I definitely think that there has been major progress in building public awareness about the importance of cyber-security, and the experience of the botched Brexit referendum and Trump’s time in the White House was a crash course in taking online safety seriously.
+
+However, we do remain a bit behind when it comes to the so-called internet of things, which encompasses the many household objects we now connect to the internet, from security systems to smart fridges and, indeed, toasters. This is a real Achilles heel. Last year, there was a total of 1.5 billion attacks on the internet of things—up 100% in the first half of the year. When Which? set up a fake smart home, it found that it was exposed to 12,000 attacks a week, yet our slowness in recognising that threat has got us to a place where only one in five “internet of things” manufacturers are believed to embed strong security in their devices.
+
+Discussions around the Online Safety Bill have shown as clear as day that many companies, and especially those in the big tech sector, need to be dragged kicking and screaming to implement the bare minimum level of safety for users, whether that is to age-regulate graphic content or to stop scammers. Of course, there are some exceptions, but in any such situation where the private sector prioritises profit over protection, the Government need to step up to protect users with at least a bare minimum level of safety. The Government’s decision to do so by enshrining the principle of security design is therefore very welcome on the SNP Benches.
+
+It is also absolutely right that we embed the idea in the law that the onus should be on the manufacturers to provide security in the design of their products, bringing the UK framework into line with the Scottish Government’s cyber-resilience strategy, which has enshrined security by design as a foundational principle in Scotland’s cyber-landscape. And yet, oversights abound. I am sad to say that oversights were raised with the Government on Second Reading and in Committee, but a number still remain. Some of that points to the Government trying to push the Bill through at breakneck speed, but the Minister should caw canny about putting speed over consumer safety as that will only cause us all headaches further down the line.
+
+One such oversight on Second Reading was the requirement for manufacturers to declare publicly security flaws in their products without requiring that fixes are carried out when the flaw is announced. Nor is there a requirement for automatic fixes to be in place. One without the other essentially has the effect of drawing a big red circle around the product’s flaws for hackers without giving users the tools to shore up their defences. We cannot expect users to be skilled in product patching, so a laissez-faire approach would be a serious mistake. Nobody should be fixing those flaws but the manufacturers, and nobody but the Government can require them to do so.
+
+On Second Reading, the Minister was urged to implement a requirement for automatic patching or one for manufacturers to have a solution in place by the time that the product flaws are disclosed publicly. It is frustrating that no progress has been made on that front. I hope that the Minister can see that that is an urgent issue for public safety and that we all have to get it right. There has also been no progress in plugging the gaps in products left out of the Bill’s scope such as internet-connected ovens, medical devices, routers and second-hand products. On top of that, the Government have justified the exclusion of laptops and desktops by arguing that there is already a developed security software market. That may be the case, but only 58% of people in the UK use antivirus software. With home working on the rise, it is crucial that the Minister recognises the growing risk of laptops and desktops.
+
+The somewhat unclear definition of “distributors” in the Bill also means that online marketplaces such as Amazon and eBay could argue that they are platforms or services, which would leave them outwith the Bill’s scope. That is a major oversight considering the number of unsafe products found on those sites. Closing that loophole would be a simple case of tidying up the language and explicitly including online marketplaces.
+
+Although it is welcome that future regulations will require manufacturers to provide transparency on how their products receive security updates, leaving that up to the regulators feels like a bit of a cop-out. The Government have given no clarity on exactly what level of transparency will be required. Why not give us the details so that we can debate them fully in this place? Without those details, how can we expect enforcement to be in any way achievable?
+
+Which? has been campaigning heavily on those two points, and I applaud its efforts to keep consumer protection at the top of the Government’s agenda. I urge the Minister to heed Tech UK’s call for the Government to undertake work to communicate the new framework to consumers. We risk causing a surge in electronic waste if the Bill causes consumers to perceive that their old devices are obsolete, so an effective comms strategy is needed to prevent an adverse environmental impact.
+
+Before I wind up, I repeat the point made by my hon. Friend the Member for Ochil and South Perthshire on the Bill’s enforcement mechanisms. Clause 26(5) makes it clear that the Secretary of State will not be able to bring proceedings in Scotland, but the Bill will still establish enforcement mechanisms and a body to carry out enforcement. As the Scottish courts and legal system will have to manage enforcement action brought in Scotland, and as oversight of the Scottish legal system is devolved, it is only right that the Scottish Government should have a role in developing the enforcement mechanism. That is honestly just a bit of tidying up, and it is a bit tiring to have to remind the Government constantly not to treat Scotland as an afterthought, but sadly we are here again. What consideration has been given to the Scottish Government’s call for the inclusion of a duty to consult relevant Scottish Ministers when developing the enforcement mechanism and the security requirements to be enforced? On the topic of the devolved nations, I would appreciate it if the Minister set out what impact the Bill’s passage will have on the Scottish Government’s power to regulate products in Scotland, particularly in the light of the United Kingdom Internal Market Act 2020.
+
+14:45:00
+
+The Bill is taking aim at many of the right problems in product security, and the SNP welcomes its aims in good faith, but the Minister is not returning that good faith, because she is simply ignoring some of the simple tweaks that we have asked for and suggested in order to close those loopholes and oversights. I hope that she will reconsider.
+
+Andrew Percy
+It is interesting to follow the comments of the SNP spokesman, the hon. Member for Midlothian (Owen Thompson), particularly on disinformation and misinformation. If he wants to see some examples of excellent disinformation and misinformation, I refer him to some of the fake content that occasionally goes out from cybernats.
+
+My only interest in this legislation is in what it will do for my constituents in Brigg and Goole. Some hon. Members might remember me banging on, many times in previous Parliaments and over the last few years, about the poor mobile and broadband coverage in my constituency. I used to refer to our broadband speed as two megabits a fortnight. I therefore welcome the general principles and direction of the Bill, which are so important to speeding up the roll-out of proper gigabit broadband.
+
+In my intervention on the Minister, I highlighted my belief that it is competition that has delivered a massive increase in the roll-out of fibre-to-the-premise, gigabit-enabled broadband in my constituency. In East Yorkshire, we have a mixed network: large parts of East Yorkshire have no BT network at all and are entirely on the Kingston Communications system—now known as KCOM. That is why there are no red telephone boxes; we have white or cream telephone boxes locally. When I worked in America, someone bought me a postcard of red phone boxes to remind me of home, but of course they were entirely alien to me as I grew up in the piece of East Yorkshire where red phone boxes and BT did not exist.
+
+In parts of East Yorkshire, we have the KCOM network. In other parts, including the part that I live in and represent, we have the BT Openreach network and we also increasingly have the Kingston Communications network. That is why I am concerned about some of the amendments tabled by the hon. Member for Hackney South and Shoreditch (Dame Meg Hillier), to which the shadow Minister spoke on her behalf, and about anything that potentially gives an anti-competitive advantage to one provider over another.
+
+I do not have a particular problem with BT Openreach, which did a reasonably good job in the first fibre roll-out—the fibre-to-the-cabinet 24 megabit roll-out—across North Lincolnshire and my part of the East Riding of Yorkshire, which was generally delivered on time and in line with the contract. However, that is obviously not sufficient now, some years on. People increasingly demand and require proper full fibre to the premises, and I am afraid that that is where BT Openreach has not done its job. It has been left to Kingston Communications to roll out proper gigabit broadband to Goole, Broughton and, increasingly, Brigg and other communities in my constituency. We welcome that. As I said, it is purely competition and the work of Ofcom which has enabled us to have that.
+
+Despite my praise of KCOM, those works have not been without some difficulties locally. Some of its pavement and streetworks leave something to be desired, and it has occasionally set fire to a number of residents’ hedges, which is awkward for residents and KCOM. Those problems and troubles aside, we now have significant roll-out of gigabit broadband to the premises as a result of that competition. Indeed, that is why the UK, having languished at the bottom of the full fibre league tables for some time, has begun to rise to a more respectable position.
+
+As I said in my intervention on the Minister, I have some concerns about the amendments that seem to give preference to BT Openreach in some places. As I say, I have no problem with BT Openreach, but the Minister needs to look at some of its investment decisions. For years, it refused to provide full-fibre broadband to most parts of my constituency, including Goole. KCOM came along and did one part of it, leaving Old Goole. We put a town deal bid together to try to roll out full gigabit broadband to Old Goole, and then all of a sudden—I am sure it was entirely unconnected— BT Openreach gave notice that it planned to upgrade the exchange in Old Goole, but could not confirm whether it planned to roll out to premises. That leaves us in a quandary: should we proceed with our town deal, using public money on that project? I am sure it is all a coincidence, but it is important that the Minister looks at how many coincidences there are, where there is investment by one alternative provider and suddenly the behaviour of BT Openreach around that provider seems to take a certain pattern. As I say, I am sure it is all a complete and utter coincidence.
+
+Sir Greg Knight (East Yorkshire) (Con)
+My hon. Friend is making a very good speech. Does he accept that the point he is making about competition goes wider than Brigg and Goole? The more competition we see across the country, the better the provision will be.
+
+Andrew Percy
+Indeed, but as my right hon. Friend will know, Brigg and Goole is of course the most important place in this country, and I am therefore particularly exercised by what happens there. He is absolutely right, though: that competition, which is also seeing the KCOM network expanded and rolled out in his constituency in the northern bit of East Yorkshire, is really very important. That is not to say that BT Openreach does not have an incredibly important role to play—of course it does, and I praise it for its work in getting gigabit broadband expanded across the country, but some of its behaviour raises questions.
+
+The shadow Minister, the hon. Member for Ogmore (Chris Elmore), who moved amendment 14 and spoke to the group I am referring to, brushed aside concerns about private property rights and the claims that BT Openreach and others will potentially have greater powers than the police to enter private property. He said that that would all be on the basis of no loss or damage. Well, that is all fine, but it is a fairly high bar in loss of personal property rights—or a low bar, depending on how you want to think of it. I was not exactly comforted by his dismissal of people’s legitimate concerns around one provider having particular rights to access property that others would not have. On that basis, I urge the Government to reject and oppose those amendments.
+
+Julia Lopez
+I am grateful to all Members who have spoken in this debate, to the Opposition for their support for the Bill, and to the hon. Member for Ogmore (Chris Elmore) in particular for the very collaborative approach he has taken throughout and his acknowledgement of the improvements we have made. I shall test officials on the further points he makes. I am also grateful to the hon. Member for Midlothian (Owen Thompson) for highlighting the product security parts of the Bill. Some of the detail he seeks will be in secondary legislation. Goods sold in online marketplaces, for instance, are not out of scope, because manufacturers, importers and distributors are covered. I would be happy to come back to him on some of the other points he raised.
+
+On criticism of our roll-out, we are making substantial progress on our gigabit roll-out. We are now up to 68% coverage, up from 9% in 2019. I am open to any proposal to make roll-out go even faster. I have set out why competition is so important to that dynamic and why I think the amendments on MDUs are not the right way to go and could even slow the roll-out. I note the comments on BT Openreach. Other providers tell me that they have great teams negotiating wayleaves, that this is a straightforward process and that extra help on MDUs of the kind envisaged is simply not needed. I am grateful to my hon. Friend the Member for Brigg and Goole (Andrew Percy) for using KCOM as a great example of that, and for highlighting not only some of the good work that Openreach does, but the interesting example of his town deal, which I shall take away with me.
+
+My right hon. Friend the Member for New Forest West (Sir Desmond Swayne) made a typically fruity and passionate speech. We believe our legislation incentivises greater collaboration. I set out in detail earlier why that is the case. We believe that rents were too high. As the need for digital infrastructure increases, we think rents need to become more akin to those for utilities. I should never wish to be accused of seeing property as theft. Indeed, I confess to taking umbrage at my right hon. Friend’s assertion on Second Reading. That is why I have tested his proposition—
+
+Sir Desmond Swayne
+I withdraw.
+
+Julia Lopez
+I thank my right hon. Friend. I am glad that I have convinced him of the case. [Laughter.] As I say, I tested his proposition to death and concluded that there may be a case of creative hyperbole. I am glad he has also acknowledged that.
+
+Question put and agreed to.
+
+New clause 1 accordingly read a Second time, and added to the Bill.
+
+New Clause 2
+
+Jurisdiction of First-tier Tribunal in relation to code proceedings in Wales
+
+In paragraph 95(1) of the electronic communications code (power to confer jurisdiction on other tribunals)—
+
+(a) in paragraph (a), at the end insert “or the Upper Tribunal”;
+
+(b) in paragraph (aa), for the words from “, but only” to the end substitute “or the Upper Tribunal”;
+
+(c) omit paragraph (b).”—(Julia Lopez.)
+
+This new clause gives the Secretary of State power to make regulations providing for a function conferred by the code on the court to be exercisable in relation to Wales by the First-tier Tribunal.
+
+Brought up, read the First and Second time, and added to the Bill.
+
+Clause 57
+
+Meaning of “occupier” in relation to land occupied by an operator
+
+Amendment made: 1, page 40, line 11, leave out Clause 57.—(Julia Lopez.)
+
+This amendment is consequential on NC1.
+
+Clause 58
+
+Rights under the electronic communications code to share apparatus
+
+Amendments made: 2, page 41, leave out lines 23 to 25 and insert—
+
+‘(4) In paragraph 9 (conferral of code rights), after sub-paragraph (2) (as inserted by section (Persons able to confer code rights on operators in exclusive occupation)) insert—”
+
+This amendment is consequential on NC1.
+
+Amendment 3, page 41, line 26, leave out “But”—(Julia Lopez.)
+
+This amendment is consequential on NC1.
+
+Clause 59
+
+Upgrading and sharing of apparatus: subsisting agreements
+
+Amendment proposed: 14, page 42, line 11, after “agreement”, insert
+
+“other than with a private landlord”.—(Chris Elmore.)
+
+This amendment, together with amendments 15, 16 and 17, would apply a different regime under the Electronic Communications Code to private landlords, giving automatic upgrade rights for operators to properties owned by private landlords subject to the condition that the upgrading imposes no additional burden on the other party to the agreement.
+
+Question put, That the amendment be made.
+
+Division 9
+25/05/2022 14:57:00
+The House divided:
+Ayes: 163
+Noes: 280
+Question accordingly negatived.
+
+Clause 68
+
+Use of alternative dispute resolution
+
+Amendments made: 4, page 58, line 41, after “operator” insert “or the relevant person”.
+
+This amendment and Amendments 5, 6 and 7 ensure that a person from whom an operator is seeking a code agreement may, at any time, give the operator a notice stating that the person wishes to engage in alternative dispute resolution in relation to the prospective agreement.
+
+Amendment 5, page 58, line 41, leave out “relevant person” and insert “other”.
+
+See the explanatory statement for Amendment 4.
+
+Amendment 6, page 58, line 42, after “operator” insert “or the relevant person (as the case may be)”.
+
+See the explanatory statement for Amendment 4.
+
+Amendment 7, page 58, line 43 [Clause 68], leave out “relevant person” and insert “other”.—(Julia Lopez.)
+
+See the explanatory statement for Amendment 4.
+
+Schedule
+
+Unresponsive occupiers: consequential amendments
+
+Amendment made: 8, page 67, line 29, leave out sub-paragraph (11).—(Julia Lopez.)
+
+This amendment is consequential on NC2.
+
+Third Reading
+
+Queen’s consent signified.
+
+15:10:00
+
+Julia Lopez
+I beg to move, That the Bill be now read the Third time.
+
+The Romans built the roads, the Victorians built our canals and railways, and our generational challenge is to make sure that the UK has world-class digital infrastructure. That is not just about the needs of today, when we depend on reliable connections for online meetings, television streaming or calling friends and family. We are rolling out, at breakneck speed, full-fibre networks that will last for decades and cater for tomorrow’s needs, alongside more extensive wireless infrastructure to end the frustration of terrible signal and slow downloads.
+
+The Bill is one tool that we need to deliver great connectivity for everyone, and I am grateful for the cross-party recognition of the importance of our task. The Government also recognise that greater connectivity brings the greater threat of harm to individuals, organisations and networks through an increased risk of cyber-attack. If networks and devices are not secure or trusted, we undermine their potential benefit to people and businesses.
+
+I thank the consumer group, Which?, for its campaign that supported the development of our Bill. Not only are our measures important to protect people’s online security when enjoying the benefits of technology, but they will help to protect people’s personal safety. I particularly thank Jessica Eagleton of the domestic violence charity, Refuge, for her compelling evidence at the Public Bill Committee. The Bill is backed by industry experts and I thank them for their input. Other countries are already following suit, and with this Bill, the first domestic piece of legislation in the world to introduce security requirements of connected products, we are global leaders in the cyber-security landscape.
+
+In short, this Bill is vital to the success of our digital economy in the decades ahead. Once passed, its measures will make the UK a better connected place and more resilient against cyber-attacks. Before it moves to the other place, I extend my thanks to the departmental officials for their work preparing the Bill; to the Opposition for their pragmatic and collaborative approach; to the members of the Bill Committee and the witnesses for their commitment; to the parliamentary Clerks, without whose efforts we would not be attending this debate; and to Members from across the House, including my Parliamentary Private Secretary, my hon. Friend the Member for Clwyd South (Simon Baynes), for the scrutiny and support they have provided. I look forward to seeing this important piece of legislation come into force. I commend the Bill to the House.
+
+Madam Deputy Speaker (Dame Rosie Winterton)
+I call the shadow Minister, Chris Elmore.
+
+15:12:00
+
+Chris Elmore
+I do not intend to detain the House for long. Her Majesty’s Opposition recognise that the first duty of any Government is to keep their citizens safe. That is why we are supporting the security elements of the Bill, which were developed by the Department in conjunction with the National Cyber Security Centre. As the digital sphere becomes ever more integral to our lives and livelihoods, it is of the utmost importance that citizens across the United Kingdom are protected from malign actors. We believe that the Bill will make some significant progress in that regard.
+
+Although we think that measures in part 1, such as the ban on default passwords, are of paramount importance and will no doubt bring benefits, we have concerns about a number of other areas. The legislation establishes, through regulations, three core security requirements for “connectable products”. Rather than those three security requirements being left to be defined in future, we believe that they should be expressly set out in the Bill. That would speed up the entire process and ensure that consumers are protected sooner rather than later.
+
+Similarly, we would like the Secretary of State for Digital, Culture, Media and Sport—it is a pleasure to see her in her place—if she is not too busy trashing another one of our great British institutions, to prepare and publish a report on the security risks to UK connected products. During an oral evidence session on the Bill, Professor Madeline Carr, a cyber-security expert, told us that she would not have an Alexa in her house due to the security risks and that there is nothing in the Bill that would change her mind. Due to that statement by an industry expert, and the prominent role that cyber-warfare is playing throughout the conflict zones of the world, we think that it is very much in the national interest to know how secure our connected products are, and we call on the Government to go much, much further.
+
+The Prime Minister came into office promising “full-fibre” broadband by 2025. Due to a lack of application and grip from the Prime Minister and the Government that he leads, that target was quickly downgraded to full gigabit broadband by 2025. In what was a surprise to absolutely no one who follows this Administration closely, the target was downgraded again to 85% gigabit-capable broadband by 2025. There are still huge doubts—voiced by the Digital, Culture, Media and Sport Committee, the Public Accounts Committee and industry—that even that twice-reduced target will yet be achieved, selling Britain short at every opportunity.
+
+I take no pleasure whatever in pointing out those failures. Indeed, I believe that they are hugely damaging to the future economic potential of our country and to the UK’s social fabric. That is because a digital divide exists in our country and it is only getting worse. One such divide is the fact that, when it comes to digital connectivity, many communities in rural and semi-rural areas, including my Ogmore constituency, are being left behind completely. With the increase in working from home and schoolwork being done over the internet since the pandemic, the Government urgently need to get a grip on this critical issue.
+
+In detailing the Government’s failings when it comes to our telecommunications infrastructure, I think of our own Sir Tim Berners-Lee, who had a vision of the internet being “for everyone”. However, the Government’s inaction is ensuring that that is currently not the case. In 2010, the Labour party left behind a world-leading sector for communication and mobile phone roll-out. The Government have stagnated and stalled over the past 12 years and have failed to build on Labour’s success.
+
+I repeat what I have said throughout the passage of the Bill: I support the Bill’s aim of both increasing the security of our connected devices and speeding up the roll-out of our telecommunications infrastructure. Our point of contention is that the Bill, as currently constituted, does not do either as well as it could. It does not deliver what people in this country desperately need: improved broadband.
+
+As the Bill makes its passage to the other place, we hope that the issues raised about it can be taken up by their lordships to ensure that the improvements can be made and, hopefully, some amendments won. I echo what the Minister said about the constructive nature of our debates—I am not sure that we will be able to continue that with other Bills that she and I may spar over in the months ahead, but I am sure we will try.
+
+I thank the Clerks and all House staff who worked so diligently during the Bill Committee, including the evidence sessions. I thank the witnesses for their expert advice, which was truly valuable. I thank my staff, including Alex Williams and James Small-Edwards, who did an enormous amount of work—I do not have the luxury of civil servants, but perhaps one day soon—[Interruption.] The Secretary of State says “Dream on”. She has certainly been having a few dreams of her own of late that are not working very well, particularly for the Prime Minister. I pay tribute to my staff, who have worked diligently during this process, and I thank all the Members who have played such an integral part in ensuring that the Bill passes through the House with civility and good humour throughout.
+
+Madam Deputy Speaker (Dame Rosie Winterton)
+I call the Scottish National party spokesperson, Owen Thompson.
+
+15:18:00
+
+Owen Thompson
+I echo much of what the hon. Member for Ogmore (Chris Elmore) said. My comments on Second Reading remain. In particular, my points about enforcement will need further attention, but as I have said all the way through, we support the principles behind the Bill. Despite the requirement for tweaks—if I may put it that way—where we would like to see things go a bit further and done slightly differently, that does not take away from the principles behind the Bill, which we are happy to support.
+
+Question put and agreed to.
+
+Bill accordingly read the Third time and passed.
+

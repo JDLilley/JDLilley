@@ -1,0 +1,179 @@
+Product Security and Telecommunications Infrastructure Bill
+
+Consideration of Lords amendments
+
+Mr Deputy Speaker (Mr Nigel Evans)
+I must draw the House’s attention to the fact that financial privilege is engaged by Lords amendment 17. If Lords amendment 17 is agreed to, I will cause the customary entry waiving Commons financial privilege to be entered into the Journal.
+
+After Clause 74
+
+Independent review of the electronic communications code
+
+21:37:00
+
+The Minister of State, Department for Digital, Culture, Media and Sport (Julia Lopez)
+I beg to move, That this House disagrees with Lords amendment 17.
+
+Mr Deputy Speaker
+With this it will be convenient to discuss Lords amendments 1 to 16.
+
+Julia Lopez
+I am pleased to see the progress that the Bill has made since it left this House before the summer, and I am grateful to Members in the other place for their scrutiny of it. Fast, reliable and secure digital connections are the cornerstone of a competitive economy and thriving society, and the sooner the legislation comes into force, the better. As hon. Members will recall from earlier stages of the Bill, its objective is twofold: first, to speed up the roll-out of 5G and gigabit-capable broadband; and secondly, to protect and enhance the security of consumer connectable products, such as monitors, doorbells, connected kitchen appliances and so on, so that users can get their benefits without being exposed to risk. I am confident that the Bill will do just that.
+
+I will start by explaining the need for the relatively straightforward Government amendments tabled by my now former colleague, Lord Kamall, whom I thank and pay tribute to. I will then move on to Lords amendment 17, with which I hope the House will disagree.
+
+Lords amendments 1 to 11 seek to implement recommendations made by the Delegated Powers and Regulatory Reform Committee. Those recommendations relate only to part 1, on product security. The amendments change the parliamentary procedure for two delegated powers from the negative resolution procedure to the affirmative resolution procedure. Those are the powers in clause 3, the power to deem compliance with security requirements, and clause 9, the power to exempt manufacturers from needing to draw up a statement of compliance. The amendments will also ensure that the Secretary of State is able to authorise another person to exercise enforcement functions only by making regulations rather than by agreement. Those regulations will also be subject to the affirmative resolution procedure. We have carefully considered the Committee’s regulations and we are happy to accept those three.
+
+On part 2 of the Bill, on telecoms infrastructure, Lords amendments 12 to 14 would remove the clause formerly known as clause 57 and make relevant consequential amendments to the version of the Bill that this House sent to the other place. That clause was intended to address difficulties that had arisen following upper tribunal and Court of Appeal decisions on the meaning of “occupier”. However, a judgment of the Supreme Court on this very issue was made during the Bill’s journey through the other place, and the judgment resolves the policy concerns that clause 57 was designed to address. As a result, we think it is no longer necessary to retain that clause, and its removal will ensure clarity and certainty for all users of the code.
+
+Lords amendment 15 was made by the Government following a lot of debate and work by my team of officials, and I expect hon. Members on all sides will be pleased to see it realised in the Bill. It gives operators the rights to facilitate two things. First, the amendment makes it easier for a telegraph pole to be shared that is used by an operator other than the operator that owns the pole. Secondly, it makes it easier for the equipment on a pole to be upgraded—for example, by replacing an old copper line with a fibre-optic one.
+
+This amendment is something that many of my hon. Friends and hon. Members, and indeed the telecoms industry, were asking for. Overhead lines are used to provide a substantial proportion of network delivery across the country, and we think the amendment will therefore play a very important role in delivering better services to our constituents. We have listened carefully to stakeholders, and as well as meeting the needs of operators, I can assure hon. Members that we have included safeguards to protect the interests of private landowners and occupiers. For example, the legislation will not provide operators with an automatic right of entry on to private land. I hope that this amendment will therefore be welcomed.
+
+The final Government amendment, Lords amendment 16, concerns an issue that has not yet been discussed in this House, so I should spend a little more time explaining its rationale. The amendment is intended to protect the autonomy and integrity of our national security, defence and law enforcement sites across the country. As it stands, the electronic communications code allows telecoms operators to seek consensual agreements with landowners to install and maintain telecoms equipment on private and public land, including sensitive national security, defence and law enforcement sites. If an agreement cannot be reached, a telecoms operator may seek a court order imposing such an agreement, potentially giving the operator access to those sensitive sites without consent. The code works in this way to make sure that operators can deliver the 5G and gigabit-capable broadband roll-out at pace.
+
+However, this process does raise some national security concerns, including physical security, technical security and legal risks, which I shall go into a little further. On physical security, the presence of engineers and site surveyors on particularly sensitive sites, potentially without proper security clearance, could pose a national security risk. On technical security, the installation of 5G equipment on particularly sensitive Government sites could pose communications and information security risks.
+
+Finally, on legal risks, the courts that consider proceedings under the code are not able to undertake closed material proceedings. That means that classified national security concerns cannot be evidenced properly, which might lead to courts granting access to sensitive sites without a full awareness of the risks. Lords amendment 16 seeks to address those particular national security risks without undermining our ambitious gigabit-capable broadband and 5G roll-out plans. It will confer powers on the relevant Secretary of State to intervene and prevent a court from imposing an agreement sought by an operator.
+
+Jim Shannon (Strangford) (DUP)
+I thank the Minister very much for her presentation. In relation to personal data—my constituents contact me about it all the time, and probably hers do as well—can we be assured that, through this Bill, personal data will not be available to people who do not have the right to access it?
+
+Julia Lopez
+I think that is probably for other legislation, but if the hon. Member would like to discuss further with me, perhaps in relation to the Data Protection and Digital Information Bill, I would be very happy to do so.
+
+Turning back to Lords amendment 16, I have to emphasise that it is not a blanket national security exemption. It is a very specific power that will be deployed only rarely, on a case-by-case basis and only when all other routes to a mutually consensual solution have been exhausted.
+
+Finally, turning to the last amendment in the group, I hope the House will disagree with Lords amendment 17. The amendment adds a new clause to the Bill requiring the Secretary of State to commission an independent review of the effect of the electronic communications code and of the Telecommunications Infrastructure (Leasehold Property) Act 2021.
+
+Sir Desmond Swayne (New Forest West) (Con)
+It is the Minister’s belief that the Bill will be a remedy for the problems in the market. She will acknowledge that, while there are only a few of us in the House who do so, there is a rather larger number out there who believe that it will make a bad situation significantly worse. The Lords amendment at least gives the opportunity of finding out who is right about this—whether it is her belief that the situation will be better or mine that it will be worse. It will put some proof into the pudding. Why must she resist it?
+
+Julia Lopez
+I shall set out my reasons for resisting now, but I am afraid I am not of the same opinion as my right hon. Friend on this issue. I have looked at it at length: I have looked at casework and the numbers of renewals, and I believe a review would simply cause a great deal of delay, which would further stymie roll-out.
+
+21:45:00
+
+Selaine Saxby (North Devon) (Con)
+I thank the Minister for her intervention on this. Does she agree with me, as chair of the all-party group on broadband and digital communication, that the industry is desperately concerned that this review amendment will wreck the intentions of the Bill, and in constituencies like mine in North Devon will simply slow down the roll-out of this vital infrastructure further?
+
+Julia Lopez
+I agree and I thank my hon. Friend for making the point. It seems sensible and benign, but it would significantly delay roll-out and create a great deal of uncertainty.
+
+I understand why Members in the other place tabled this amendment. Its aims are noble, but it is impractical and unnecessary and would have a disastrous effect on investment in telecoms infrastructure, leading to a slow-down in getting great connectivity to the places that most need it, particularly rural constituencies. The Government and Ofcom already produce regular reports on coverage targets and competition, and to that extent the amendment is unnecessary and would duplicate effort.
+
+On the subject of coverage and targets, we are making great progress. We have listened at length to the concerns in both Houses and among stakeholders, and we of course understand that there are tensions between landowners and operators that must be resolved, albeit a lot of progress has been made since 2017. This Bill tries to resolve some of the challenges, particularly by introducing more collaborative negotiations and a greater use of alternative dispute resolutions.
+
+The prospect of another full-scale review of the code framework would have the opposite effect, exacerbating existing tensions by prolonging that debate about valuation. The result would be a cooling effect on the market, with landowners and operators reluctant to conclude agreements until the review was completed. That would seriously delay the delivery of digital services, including gigabit-capable connections and 5G coverage, which so many of our constituents tell us they need and which hon. Members hold me to account for every day because those things are important to economic growth and social wellbeing in their constituencies, particularly rural ones. I urge hon. Members not to stitch further delays into the process through the uncertainty created by a review. For these reasons, although amendment 17 is well-intentioned, it is disproportionate and unhelpful, and I hope the House will disagree to it.
+
+I am nearly at the end of my speech, but I want to thank all Members who have contributed to debates on this Bill, especially the hon. Member for Barnsley East (Stephanie Peacock) and her predecessor the hon. Member for Ogmore (Chris Elmore). Parliamentary scrutiny here and in the other place has provided the Government with much food for thought, allowing us to refine and improve the legislation, and I am pleased that Members on both sides of the House support the objectives of this much-needed Bill in recognition of the importance of digital connectivity to the people and communities we serve and the security of the products that will be increasingly present in their lives.
+
+Stephanie Peacock (Barnsley East) (Lab)
+Labour has always broadly welcomed the principles of this Bill and has supported amendments, whether Government or Opposition-led, that strike a sensible balance. That remains the case today, and as such I welcome the Government amendments before us. I will instead focus my remarks on amendment 17 on a review of the electronic communications code.
+
+Labour stands firmly behind the aim of improving roll-out. Digital connectivity is a necessity, not a luxury in this day and age. In order to participate in society—from banking to shopping, to education and using public services—access to the digital world is crucial for people of all ages and in every corner of the country. As such, it is vital that we facilitate the building, maintaining and upgrading of digital infrastructure that allows for this connectivity.
+
+The last Labour Government delivered on this belief, ensuring the creation of infrastructure that brought first-generation broadband to around 13 million households by 2009, but unfortunately over the last 12 years roll-out simply has not gone as far or as fast as we would like. Both broadband and 5G roll-out have been woefully slow, and the Government have repeatedly reduced their targets. We therefore support the aim of part 2 of this Bill, to speed up roll-out to the levels needed. The amendment that calls for a review of the electronic communication code is proposed with the firm intention of boosting rather than jeopardising roll-out. It would ensure that a balanced evidence base is built surrounding the changes made to regulation in the last five years so that concerns held by both landowners and operators can be addressed objectively and in the public interest.
+
+Selaine Saxby
+Will the hon. Member explain why the entire industry has asked me to speak this evening to say that the amendment would slow down the roll-out and do literally nothing to speed it up?
+
+Stephanie Peacock
+I understand that there are concerns in the industry, but there are also concerns on the other side of the argument among landowners. Indeed, in the consultation for the legislation, the most contentious parts of the 2017 regulations were considered, and that is why we are considering the amendment.
+
+Indeed, the electronic communications code, as hon. Members will be aware, is the legislation that underpins the use of land for mobile telecommunications infrastructure. It was reformed in 2017 and further changes are being made to it through the Bill. After a period of initial adjustment, many operators now cite the 2017 ECC reform as a welcome set of changes that has in time helped them to act quicker and invest more in the roll-out.
+
+Those who host masts, however, have seen their rents decrease by 63% on average as a result of those same changes and report that they have only caused them further problems, reducing their agency and disincentivising their involvement in facilitating the roll-out. That is a particular concern for smaller landowners—the likes of churches, sports clubs and community groups—whose rental income has been cut at a time when they are already suffering as a result of the cost of living, but whose land and involvement is vital for connecting hard-to-reach areas, some of which do not have 3G yet, let alone 5G.
+
+Ultimately, roll-out is dependent both on those who build and operate masts and on the willingness of site owners to host them. Where we rely on both to succeed, the needs of both must be taken into account, striking the right balance so that roll-out is not impeded at either end. At the moment, however, the objective information on whether the ECC strikes the right balance is simply not available. Will the Minister share any objective evidence held by the Department on the impact that changes to the ECC have had and will have on roll-out, particularly as its consultation, as I mentioned, did not include the most controversial elements of the code. A review would help fill the evidence gap. Put simply, it would seek to measure in a balanced way whether the ECC is increasing roll-out as it was intended to.
+
+To be clear, the amendment would not prevent the measures in the Bill from coming into force. It is designed to ensure that all the provisions that we hope make improvements to roll-out can still be enacted as soon as the Bill receives Royal Assent. Compliance would still be expected from both providers and landowners. The amendment has no agenda for reversing any hard-fought changes in particular. It is a neutral amendment that  seeks to put an end to years of constant disputes between providers and landowners and bring focus back to roll-out. The review would make recommendations only in areas that show clear evidential need for change and are currently stopping targets for connectivity from being met. If instead we choose to ignore the ways in which the ECC has been controversial, such disputes will only continue.
+
+I take this opportunity to put on record Labour’s thanks to all those who host digital infrastructure on their land or buildings and are helping to connect their neighbours and communities to our modern world. It is clear that hosting masts can be difficult at times, but we must remember how vital it is for our country’s future that we get the widest possible connectivity. We want more groups to step forward to host infrastructure, not less.
+
+Ultimately, Labour wants to see a fair settlement that supports small landowners in hosting digital infrastructure but allows providers to maximise roll-out. The amendment, which received cross-party support in the other place, provides an opportunity to ensure that the ECC is compatible with those aims and is supported by balanced evidence. All sides should be able to get behind that. We must be united behind the goal of boosting connectivity for those who need it so that our country can get on with harnessing the power of technology for good.
+
+John Nicolson (Ochil and South Perthshire) (SNP)
+Witnesses at the Digital, Culture, Media and Sport Committee have offered me, a history graduate and not the most technical of parliamentarians, a window into the world and advantages of connected tech. It is sometimes referred to as the “internet of things”: a world of possibilities and advantages for companies and consumers. The possibilities are wide-reaching and seemingly never-ending, but it is a brave new world that is already introducing us in Parliament, as well as those in the police service, healthcare and many workplaces, to new and unforeseen issues around our security.
+
+The Bill does much good work in improving the culture of security from the inception of the product right from the design stage. Improved security will be integral, and as customers we will have the benefit of security information provided at the point of sale. All of that, surely, is advantageous. We on these crowded SNP Benches behind me recognise the value of the Bill. It is, however, well past time for speedier legislative progress. The world of connected tech is already well developed and established in healthcare, courier services and a multiplicity of industries around the world. We should have had legislation in place long before now.
+
+As long ago as 2016 we saw a weaponised interconnection of connected tech devices used in a botnet to take down online titans such as Netflix, Amazon and others—2016. Countless Tory Prime Ministers and Chancellors have come and gone and, in one case, almost come again since then. Yet the Bill only hurtles into view as 2022 winds to a close. In that time, we have seen attacks on connected tech devices rising by hundreds of per cent. year on year.
+
+Sir Desmond Swayne
+On a point of order, Mr Deputy Speaker. I hate to interrupt this poetry, and it is indeed poetry, but what has it got to do with the amendments before us tonight?
+
+Mr Deputy Speaker (Mr Nigel Evans)
+I am sure Mr Nicolson will be getting to Lords amendment 17, and to Lords amendments 1 to 16 as well, but I am being generous because it is almost Christmas and I know he does not have many pages in front of him.
+
+John Nicolson
+Thank you, Mr Deputy Speaker. Indeed, I always stand in awe of the brevity of the right hon. Member for New Forest West (Sir Desmond Swayne) on these matters. I will try to emulate it.
+
+Homes and industries across these islands are riddled with insecure technology because this House and the Conservative Government have been too slow to act. On the SNP Benches, we recognise that part 2 of the Bill sets out welcome changes that will be made to reduce bottlenecks and barriers to the roll-out of 4G and 5G masts. Let me highlight in particular Lords amendment 17, which has been opposed by the UK Government and by certain pressure groups and companies. The amendment requires that a review of the functioning of the code be started three months after the passage of the Bill into law. The amendment simply provides greater independent oversight on the efficacy of legislation and ensures that we as parliamentarians have access to more reliable information. The Government’s opposition to Lords amendment 17 is, I believe, misjudged. The amendment reinforces the principles of independent oversight and accountability. The Government should concede on the amendment. It improves the Bill.
+
+Although the Bill is overdue, it is far from polished or complete. On the SNP Benches, we have been keen to work with the Government on a cross-party basis to resolve the deficiencies in the Bill highlighted by stakeholders and in expert evidence. It is imperative that these shortcomings are resolved as the Bill continues its passage. We will not oppose the Bill. Both here and as a Government in Holyrood, we will continue to push for co-operative engagement to produce a more polished and complete piece of legislation. We have waited this long, we had better get it right, Mr Deputy Speaker—and happy Christmas!
+
+Mr Deputy Speaker
+My first of the season.
+
+Jim Shannon
+I just want to make a couple of quick comments on Lords amendment 17—I can confirm to the right hon. Member for New Forest West (Sir Desmond Swayne) that that is exactly what I am going to speak to—and on telecommunications infrastructure, which was referred to by the shadow Minister, the hon. Member for Barnsley East (Stephanie Peacock).
+
+Many landowners back home in my constituency have put in a telecommunications mast, which is an integral part of the infrastructure. They find that their rental contracts have changed from what was potentially an income over a 10-year period to an income that has dropped down to about £200 or £300. The value for the landowners of having that infrastructure on their land is no longer a financial equation to their advantage.
+
+If the telecommunication giants, or whatever they may be, try to retract and change the agreement with the landowners, do the landowners have any rights? Can they put an end to the infrastructure that is on the land? Can they seek recompense from the telecommunication companies, and can telecommunication companies proceed without the consent of the landowners? It is important for my constituents back home, who are faced with these predicaments, to get answers on such matters. I seek guidance from the Minister and hope that she can give me those answers.
+
+22:00:00
+
+Julia Lopez
+I thank hon. Members for their contributions and for the wide-reaching support for the Bill, as that shows recognition of its importance.
+
+The 2017 reforms were introduced to drive roll-out and were designed to make rents more akin to those for a key utility. There were, no doubt, issues after 2017 that led to protracted negotiations and examples of poor practice by operators, some of which we heard in Committee, but I am confident that we are now reaching market equilibrium, and renewal numbers are increasing year on year.
+
+We believe that the Bill will lead to further progress, and we are making great progress on the roll-out. Our national gigabit coverage was 6% in 2019 and it is now more than 70%; 4G coverage is at 92%; and we met our 5G target five years early. We review the situation. We have monthly stakeholder meetings that have led to a new national connectivity alliance between operators and landlords. I assure the House that I am not on the side of either operators or landlords in the negotiations; I am on the side of people with poor connectivity. That is the lens through which I view the amendments and such people are our motivation, plain and simple.
+
+I thank the Bill team and all the officials across many Departments who have worked hard over the past couple of years to reach this stage. The Bill will help people up and down the country to access the digital services that they need, and to do so securely. If the hon. Member for Strangford (Jim Shannon) would like me to, I shall take up the issues in his constituency. Beyond that, I commend the Bill to the House.
+
+Question put, That this House disagrees with Lords amendment 17.
+
+Division 85
+31/10/2022 22:01:00
+The House divided:
+Ayes: 268
+Noes: 132
+Question accordingly agreed to.
+
+Lords amendment 17 disagreed to.
+
+Lords amendments 1 to 16 agreed to.
+
+Motion made, and Question put forthwith (Standing Order No. 83H), That a Committee be appointed to draw up a Reason to be assigned to the Lords for disagreeing to their amendment 17;
+
+That Julia Lopez, Mike Wood, Simon Baynes, Paul Bristow, Stephanie Peacock, Chris Elmore and John Nicolson be members of the Committee;
+
+That Julia Lopez be the Chair of the Committee;
+
+That four be the quorum of the Committee;
+
+That the Committee do withdraw immediately.—(Julie Marson.)
+
+Question agreed to.
+
+Committee to withdraw immediately; reason to be reported and communicated to the Lords.
+
+Deferred Divisions
+
+Motion made, and Question put forthwith (Standing Order No. 41A(3)),
+
+That, at this day’s sitting, Standing Order No. 41A (Deferred divisions) shall not apply to the Motion in the name of Andrew Griffith relating to the Protection from Redundancy (Pregnancy and Family Leave) Bill.—(Julie Marson.)
+
+Question agreed to.
+
+Protection from Redundancy (Pregnancy and Family Leave) Bill: Money
+
+King’s recommendation signified.
+
+Resolved,
+
+That, for the purposes of any Act resulting from the Protection from Redundancy (Pregnancy and Family Leave) Bill, it is expedient to authorise the payment out of money provided by Parliament of any increase attributable to the Act in the sums payable under any other Act out of money so provided.—(Julia Lopez.)
+
