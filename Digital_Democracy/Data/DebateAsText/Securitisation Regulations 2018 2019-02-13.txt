@@ -1,0 +1,210 @@
+ Securitisation Regulations 2018
+
+15:30:00
+
+Anneliese Dodds (Oxford East) (Lab/Co-op)
+I beg to move,
+
+That the Securitisation Regulations 2018 (S.I., 2018, No. 1288), dated 3 December 2018, a copy of which was laid before this House on 4 December 2018, be revoked.
+
+These regulations are not labelled as no-deal preparatory regulations, but they are being pushed through via a statutory instrument in the middle of a series of about 70 Brexit-related statutory instruments relating to financial services, including one relating specifically to the operation of the securitisation regime. The matters raised by this instrument require more debate and scrutiny than they have been afforded. It is for that reason that we asked for this debate on the Floor of the House.
+
+As the Minister will be aware, the official Opposition also requested a debate on the Floor of the House about the transposition of the markets in financial instruments directive no-deal regulations via an SI. Those regulations were so complex that they required the production of a Keeling schedule, yet they were pushed through as a negative SI without any broader debate. This SI may be less wide-ranging than the other one but, like it, it is focused on the aspects of the financial system that precipitated and amplified the 2008 financial crisis.
+
+Securitisation refers to the pooling of different kinds of loans or debts and their repackaging into a single financial product that is sold to investors. The use of complex, opaque securitisations—particularly those linked to the US sub-prime housing market—has been viewed as a key element in transporting the negative impact of the credit crunch through the financial system into the heart of major financial institutions. It is therefore essential that any legislation proposing changes to the regulation of securities be carefully reviewed.
+
+The regulations have three main causes of concern. First, schedule 1 amends primary legislation—the Financial Services and Markets Act 2000. Schedule 1(8) nullifies the effect of section 399 of the Financial Services and Markets Act and disapplies section 402. Delegated legislation generally should not be used to amend primary legislation. Otherwise, it would allow the exercise of what lawyers and judges have disparagingly described as Henry VIII clauses. Put simply, primary legislation that has been drafted and reviewed by Parliament as a whole should not generally be revoked through statutory instruments. It might be argued that these regulations are part of a broader package of delegated legislation bringing in a new regime, but any regime of financial regulation is best set out in primary legislation. The Opposition made that point only two days ago in the debate on the transposition of so-called in-flight EU financial services legislation.
+
+The EU securitisation regulations are wide-ranging. For example, they impose a number of requirements on institutional investors to carry out due diligence before investing in a securitisation position. They relate not only to individual decisions about specified positions, but to the creation of new procedures for monitoring compliance and stress-testing. They also introduce numerous requirements for transparency for securitisation, requiring the originator, the sponsor and the securitisation special purpose entity to designate one of their number to provide details of the securitisation, either to a repository or on a website. Finally, they provide preferential treatment to so-called simple, transparent and standardised securitisations, enabling them to be discounted for the purpose of allocating credit margins.
+
+A core element of STS securitisation is the retention by originators, sponsors and original lenders of a 5% stake in the securitisation, described colloquially as “skin in the game”. Those involved must also follow certain transparency and due diligence requirements. As such, although the regulation does to an extent consolidate existing legislation, it also significantly loosens the burden of capital retention for banks using STS securitisations compared with the previous situation. Some stakeholders felt that reigniting the use of securitisation through this legislation would help to promote liquidity and boost economic activity, given that it, in effect, allows higher levels of borrowing by the economic actors whose debt is repackaged in the securitisation. However, many others point to the potential dangers this poses for financial stability if unsafe, non-transparent and overly complex securitisations are allowed to fall within the STS bracket. This is especially the case given the reduced capital requirements to balance off the default risk from STS securitisations. I hardly need to remind this House of the problems caused to the sustainability of financial institutions and the subsequent calls made on the taxpayer due to insufficient margin being held by the banks against the risks they held.
+
+Secondly, these provisions amending primary legislation affect the criminal offences that are on the statute book. The legislation permits the use of sanctions for cases of negligence and intentional infringement, for example, fraudulent reporting of STS status. In addition, however, the provisions alter existing offences. The regulations appear to say that section 399 of the Financial Services and Markets Act 2000, which establishes an offence of misleading the Competition and Markets Authority, does not apply. In addition, paragraph 8 of schedule 1 prevents the Financial Conduct Authority from instituting proceedings for money laundering and insider dealing. It is not clear why, on the basis of this statutory instrument alone, this needs to follow from the parent legislation. Why, if we are reading this complex statutory instrument right, does it abolish the offence of misleading the CMA and prevent the FCA from instituting proceedings for money laundering and insider dealing? What problem are these provisions addressing? Why are these changes being achieved through this piece of secondary legislation? We hope that we can receive some clarification on these points. If we cannot, these provisions would appear to be troubling. Because of the impact on people’s liberties and the overall balance of offences on the statute book, which surely should be as public and accessible as possible, criminal offences should not be altered by delegated legislation in this manner.
+
+Thirdly, and finally, these regulations transfer significant powers to the FCA to supervise compliance. It might be said that the FCA is the orthodox body to develop financial regulation and to ensure compliance with it, but there is a need for full debate about the allocation of responsibility for supervision and compliance. The original EU regulation provides no obligation for the FCA to be designated as the competent authority, so this is a political choice. It is also not clear, on the basis of this statutory instrument, whether the FCA has sufficient resourcing and capacity to carry out these tasks. It is not optimal or desirable for these powers to be transferred via a statutory instrument.
+
+These powers are, of course, complicated by the interaction of this SI with the no-deal SI related to securitisation, which transfers the responsibility of the European Systemic Risk Board, for assessing and mitigating systemic risk, to the “competent authorities”. The latter are, as I understand it, here designated as the Prudential Regulation Authority, the FCA and the Bank, with systemic risk here identified as
+
+“a material risk to the financial stability of a financial institution or to the financial system as a whole”.
+
+Under this approach, the FCA would also be able to permit re-securitisation for specified legitimate purposes, an important exception to the general ban imposed from this legislation on re-securitisation. The general ban prevents the underlying assets of a securitisation from being themselves already securitised assets—this is one of many activities that produced the highly complex and opaque securitisations linked to contagion during the financial crisis. As part of these regulations, the FCA would be responsible for ensuring that those engaged in a securitisation complied with the relevant transparency requirements. It is especially important that these kinds of regulatory developments receive scrutiny, given the contention around elements of the securitisation package and, in particular, whether it is sufficiently stringent. What became known as “skin in the game” was set in the regulation at 5% of risk to be retained across each mode of risk retention, despite calls for a higher level from many quarters. Indeed, many actors within the EU questioned whether securitisation should be encouraged in the first place through the creation of the STS designation. Given that the resultant regulations were a balance between very polarised positions on this subject, it is essential that we properly scrutinise the transposition of these measures into UK law. For that reason, we have prayed against these measures being transferred purely through an SI process.
+
+15:40:00
+
+The Economic Secretary to the Treasury (John Glen)
+As part of our obligations while the UK remains a member of the EU, it is our responsibility to ensure that domestic law is compatible with EU legislation. That includes this statutory instrument, which will, as the hon. Member for Oxford East (Anneliese Dodds) said, ensure that the EU securitisation regulation is effective and enforceable in the UK. It is not an EU-exit statutory instrument through which functions are transferred from an EU authority to domestic authorities. The instrument that does that—the Securitisation (Amendment) (EU Exit) Regulations 2019—was laid on 23 January and will be debated in due course.
+
+It might be helpful if I gave the House some background information. The securitisation market’s slow recovery after the financial crisis reflects concerns among investors and prudential supervisors about risks associated with the securitisation process itself. The EU responded by proposing in 2015 legislative measures to promote a transparent and liquid market for securitisation. There were 120 responses to the 2015 consultation that gave rise to the regulations, which evolved over two years of EU discussions. They were then scrutinised in Parliament and were approved by the House of Lords scrutiny Committees in July 2017 and by the House of Commons European Scrutiny Committee in February 2017.
+
+Kirsty Blackman (Aberdeen North) (SNP)
+The Minister mentioned the number of consultation responses; were they from throughout the EU or just from companies and organisations in the UK?
+
+John Glen
+I am not certain, but I would imagine they were from the UK. It was an extensive consultation that led to the evolution of the regulations, which were then scrutinised at different intervals by the Lords and Commons Committees before their final approval in 2017.
+
+The UK voted in favour of the package of reforms in 2017 because it ensures high standards of process, legal certainty and comparability through a greater degree of standardisation of products. The new rules bear no relation to the securitisation of sub-prime mortgages created in the US that contributed so significantly to the financial crisis. Along with other legislation, including on the overhaul of the credit ratings agencies and more stringent rules for mortgage and credit granting, the proposals build on the lessons learned from the financial crisis by improving regulation and oversight, and they implement standards introduced by the international supervisory community.
+
+The EU regulation, which the instrument we are debating implements, is derived from the new international standards set by the Basel Committee on Banking Supervision and the International Organisation of Securities Commissions. These two bodies worked to create a new framework of high-quality securitisations to introduce the degree of assurance around the information on securitisation that was necessary in the markets. Their work seeks to restore an important funding channel for the EU economy while making the market less risky and supporting financial stability.
+
+At a time when bank lending is constrained, securitisation can boost credit and growth. It can help to free up banks’ balance sheets so that they can lend to households and businesses. The good functioning of and access to securitisation as a funding tool allows investors to diversify their investments and supports the real economy. It is for that purpose that effectively supervised securitisation is actively supported by the prudential authorities, including the Bank of England, which supported the EU initiative as playing
+
+“an essential role in de-stigmatising European securitisation, helping the market to develop on a sustainable track”.
+
+Let me turn now to the securitisation regulations. Although the EU rules themselves were agreed in 2017, the statutory instrument under consideration concerns empowering the regulators to effectively supervise the new securitisation rules that came into force at the start of the year. As the industry has prepared itself for the new regime, the Government are obliged to ensure that the new framework is operable. In essence, this SI simply gives effect to the directly applicable EU securitisation regulation and ensures that it is effective and enforceable in the UK.
+
+The supervisory, investigative and sanctioning powers that this instrument delegates to the relevant competent authorities give effect to the EU framework. The hon. Lady mentioned the resourcing of the Financial Conduct Authority and the Bank of England. Both have been instrumental in the development of these regulations and are primed and ready to take on responsibility for them. The instrument fulfils the necessary obligations of the EU regulation in designating roles to the domestic regulators and provides them with the powers that they require to effectively supervise the market.
+
+To summarise, the Government believe that this instrument is needed to ensure that the new securitisation regulatory regime works effectively. This will support a sound and transparent securitisation market in the UK, bringing real benefits to investment, jobs and growth while enhancing long-term financial stability. The whole purpose of the EU regulation is to address the challenges of the past and to ensure that mistakes prior to the financial crisis in respect of securitisation are not repeated by keeping the measures simple in form and more transparent. The proposal to revoke the instrument would only endanger that and disrupt the market as supervisors would not be able to enforce infringements to the rules that seek to better regulate the market.
+
+The hon. Lady raised a number of points. I have clarified that this measure is not related to a no-deal situation. A point was made about the amendment to primary legislation and the fact that criminal offences already on the statute book will be affected. Although the EU regulation is directly applicable, the Securitisation Regulations 2018 make changes to UK law to ensure that EU regulations are fully effective and enforceable in the UK. The power under section 2(2) of the European Communities Act 1972 makes it possible to give effect in national law to measures in EU law by secondary or delegated legislation such as statutory instruments. Importantly, such secondary legislation can amend an Act of Parliament—section 2(4)—as the delegated legislative power includes the power to make such provisions as might be made by an Act of Parliament. So the instrument applies and modifies certain provisions of the Financial Services and Markets Act 2000 and other UK legislation both to create the new supervisory, investigative and sanctioning powers required by the EU regulation and to ensure that UK legislation is compatible with EU regulation, including applying and/or modifying necessary offences pursuant to sections 398 and 177 of the 2000 Act. This instrument allows an approach consistent with existing enforcement regimes elsewhere in the sector and with other financial services implementing SIs.
+
+The hon. Lady referred to preferential treatment of capital for banks and risk retention and needing to have skin in the game. These rules are derived directly from international standards, which are set by the Basel Committee on Banking Supervision and by the International Organisation of Securities Commissions. There is no attempt to develop some bespoke UK regime. These measures are completely consistent, which has been acknowledged during the significant scrutiny process to which they have already been subject. The hon. Lady also mentioned the CMA. The CMA was not designated as it does not have a role to play under the EU regulation.
+
+I think that I have dealt with the points that have been raised. These are straightforward regulations that give effect to the directly applicable EU securitisation regulation. When Sub-Committee A of the Secondary Legislation Scrutiny Committee looked at these regulations on 17 December, it cleared them without comment. This is an attempt to update the regulations appropriately to give more confidence in the markets. I hope that the House will join together in support of the continued application of this instrument, and to oppose the motion to revoke it.
+
+15:50:00
+
+Kirsty Blackman (Aberdeen North) (SNP)
+This debate is so well subscribed that I was not sure whether I would be called, so I am delighted to have the opportunity to speak. It is excellent to have the opportunity to talk about a statutory instrument on the Floor of the House, given that we tend to be relegated to the Committee Corridor. It is also delightful to see two Government Ministers on the Front Bench, as we only have the pleasure of one in Delegated Legislation Committees.
+
+The case has been put excellently by the hon. Member for Oxford East (Anneliese Dodds) who spoke from the Opposition Front Bench. I want to talk about a few concerns that the Scottish National Party has about the regulations as drafted, and the reasons why the Labour party prayed against them. The hon. Member for Oxford East made the case that, although this is not an EU exit statutory instrument, its aims clash with the aims of the EU exit SI on securitisation. It is quite confusing for the House at this time to be dealing with the in-flight regulations coming from the EU, as well as the EU exit ones. The issues around Henry VIII powers are incredibly important and form the core of our concerns.
+
+The Minister mentioned the consultation. I would guess that the 150 submissions were from an EU-wide basis, rather than a UK-wide one. In fact, it seems unusual for there to be that number of submissions on pretty much anything. Given the number of SIs that receive no formal submissions, 150 seems like a significant number. However, if that is the case, I am quite happy to retract those comments.
+
+The Minister’s comments on the consultation and the responses to it were very useful, but it was unfortunate that this information was not included in the explanatory memorandum. The explanatory memorandums that we normally see for SIs, particularly those dealing with EU exit, generally do not say that there has been consultation—and we generally criticise the Government for that—but they do usually say that there has been consultation with the Financial Conduct Authority, the Prudential Regulation Authority, the Bank of England or whichever authorities are relevant. However, the explanatory memorandum for this SI does not even say that that has happened. It is particularly concerning that, even if there were consultation on how the legislation was written, there has not been one on the implementation of the legislation as it is written into UK law and how it will be taken forward in this place.
+
+My other concern is about the authority given to the FCA and the PRA. I have raised this concern recently, particularly in relation to the Bank of England. It seems that the Government are changing the powers that these organisations have, piece by piece, without any kind of overall strategy. It would be sensible for the Government to bring forward a White Paper or some sort of document on how they envisage the powers of the FCA and the Bank of England operating in future years. It seems that the Government are making policy changes by SI when they should actually be coming forward with an overarching position regarding how they see both the policy and the powers of the Bank of England, the FCA and the PRA in the future. When they make these piecemeal changes, we end up with organisations that have to deal with powers that are not joined up in any way because there is no joined-up approach.
+
+It seems to me, from conversations that I have had with the Minister, or possibly the Financial Secretary, on the amount of resource that the FCA has that this House has been giving it quite a lot of additional work and obligations in recent times. While I am not saying that that is necessarily a bad thing, the way that it has been done has not been helpful. My understanding, with regard to the FCA’s requirement for resource in terms of spend, is that it will come to this House and request additional money if it has additional duties that it needs to carry out. Given that the Government are increasing the scope of and requirements on the FCA in taking action to monitor things and to have obligations in various places, has the Minister had an overall look at what its budget and powers will look like in future years? If not, it will be very difficult for it to say to this House how much money it is going to require in order to adequately ensure that it is fulfilling all the obligations that have been given to it by this House.
+
+My main concerns were around the issue of consultation, particularly the fact that, as it says in the explanatory memorandum, consultation has not been undertaken on the implementation of this EU law within UK law, as well as the piecemeal nature of the way in which the Government are coming forward with this. It would be helpful if the Minister was able to clarify, or give us some idea of, the Government’s direction of travel and say that there will be some sort of policy paper on these powers. It was particularly concerning that the Bank of England’s powers were just extended without any sort of policy alongside that. We are regularly seeing the FCA’s powers being changed.
+
+It would be really helpful for this House, and we would be much less likely to raise concerns, if we had an idea of where the Government’s decision making was going. We might disagree, but we would be less likely to raise these concerns about every single SI. I am sure that the Minister is absolutely fed up with us raising exactly the same things on these occasions and having to give exactly the same answer, which generally does not help us. I have not generally taken part in SI debates on the Floor of the House, so I am not sure whether the Minister is going to wind up, as is normal. I hope that he does, so that he can answer some of these points.
+
+15:57:00
+
+Bambos Charalambous (Enfield, Southgate) (Lab)
+It is a pleasure to follow the hon. Member for Aberdeen North (Kirsty Blackman).
+
+Not everyone appreciates the role that securitisation of loans and debts played in the financial crash of 2008, but it was a substantial role, with devastating consequences. To give some context, in the years prior to 2008, a calamitous decision was taken by executives in large US-based international banks to securitise sub-prime mortgages, which were mortgages given to people who had virtually no way of paying them back. Because of predatory lending, the number of these sub-prime mortgages continued to rise. They were then pooled together with other loans and debts and packaged as a financial product in the form of mortgage-backed securities that received triple A ratings from the credit rating companies.
+
+Mr Ranil Jayawardena (North East Hampshire) (Con)
+The hon. Gentleman is surely arguing that sub-prime lending was mismanaged rather than securitisation itself. Do I understand him correctly, or is he suggesting that securitisation was the problem?
+
+Bambos Charalambous
+It was both. It was the sub-prime lending and it was also the packaging of these products into securitisation with other, better products that were then triple A rated.
+
+Mr Jayawardena
+But is it not true that securitisation is really helpful in recycling capital, thereby providing investors with a stream of income that is useful to them and allowing responsible financial institutions to direct their capital at new people who want, for example, to borrow money to buy a home?
+
+Bambos Charalambous
+If done properly, there is benefit in securitisation, but it was not done properly in the United States, and therefore we need to take extra precautions now to ensure that it is done properly.
+
+Mr Jayawardena
+The hon. Gentleman is very kind to give way again. I want to unpick that a little further, because it is helpful. Can he confirm that securitisation is a good way of managing risk across a portfolio of loans, so that those with worse credit ratings can be properly and openly matched up with those with better credit ratings, to ensure that investors have a blend that they can draw an income on in the long run and allow institutions to use the capital they have secured from investors to offer new products to new people?
+
+Bambos Charalambous
+But if credit rating companies do not give the correct ratings, as happened in the United States, it all falls apart. I am happy to carry on the conversation with the hon. Gentleman in Strangers’ afterwards.
+
+There was a big investment in mortgage-backed securities, with many financial institutions choosing to invest in them because of their promised high rate of return. When people started defaulting on sub-prime mortgages, the mortgage-backed securities lost their value, and the financial institutions that had invested heavily in them became exposed and suffered catastrophic losses. Since that time, steps have been taken to ensure that we never again experience the shockwaves of those failing giant financial institutions and the aftermath. We need a robust system of dealing with the risk of any such exposure due to securitisation, and that requires primary legislation.
+
+As the hon. Member for Aberdeen North said, what we have before us are ill-conceived regulations that do not address the whole picture, and these changes are being made without the House having a chance to properly scrutinise them. Let us be clear: these regulations are not required due to the fear of a no-deal Brexit. They have conveniently been slipped in by the Government, under not the European Union (Withdrawal) Act 2018 but other legislation.
+
+The regulations give responsibility to the Financial Conduct Authority to supervise the compliance of people involved in securitisation practices and allow it to impose  certain penalties and take other steps to monitor securitisation. Such changes should not be made via secondary legislation. The complexity of these measures needs proper scrutiny. The very fact that the regulations change provisions in criminal law by preventing the FCA from instituting criminal proceedings for money laundering and insider dealing is a serious matter that is worthy of proper debate and scrutiny, which cannot be done via this debate. The regulations are wrong-headed, as schedule 1 amends primary legislation and transfers significant powers to the Treasury, the Financial Conduct Authority, the Prudential Regulation Authority and the Bank of England.
+
+Mr Jayawardena
+I am enjoying the hon. Gentleman’s contribution, even if we come from different starting points. Does he support the FCA having such a role but object to the principle of how this is being arrived at, or does he object to the FCA having this role? If not the FCA, who should it be?
+
+Bambos Charalambous
+Those are exactly the sort of points that should be made via a debate on primary, not secondary, legislation.
+
+Mr Jayawardena
+Will the hon. Gentleman give way?
+
+Bambos Charalambous
+I will not give way again, as I am almost at the end of my contribution.
+
+These are important changes that Parliament needs to get right, due to the dire consequences of what went wrong in the past. These measures are opaque, unconstitutional and lacking in proper scrutiny. I invite the Government to withdraw the regulations and introduce primary legislation, to allow thorough and proper scrutiny to take place. Without such assurances, I will vote for the motion in the name of my right hon. Friend the Member for Islington North (Jeremy Corbyn) and against the Government.
+
+Madam Deputy Speaker (Dame Eleanor Laing)
+I call Anneliese Dodds.
+
+John Glen
+rose—
+
+Madam Deputy Speaker
+I beg your pardon. If the Minister would like to respond, and it is the wish of the House that he should do so, he may.
+
+16:03:00
+
+John Glen
+Thank you, Madam Deputy Speaker. I feel it is appropriate for me to respond to the remarks of the hon. Members for Enfield, Southgate (Bambos Charalambous) and for Aberdeen North (Kirsty Blackman).
+
+The Treasury has not undertaken a formal consultation on this SI, as the changes to domestic legislation required are minor, and the enforcement approach taken is in line with existing enforcement regimes in the financial services sector. We have worked closely with the FCA and the PRA throughout.
+
+The hon. Member for Aberdeen North made some remarks about the resourcing of the FCA. It has additional resources through the onshoring programme, but this SI has nothing to do with that. This is a business-as-usual SI that would have happened anyway. There was certainly no attempt to slip it in amidst all the others that were taken through Committee. It was a consequence of these regulations being taken through the scrutiny process. I can confirm that there were 120 responses from across the EU as a whole in 2015 to the Commission’s proposals, which were then iterated over the two years before they were approved.
+
+I agree with much of what the hon. Member for Enfield, Southgate said about the aspirations of the regulations underlying this SI. This will bring in more stringent underwriting criteria for mortgage and credit granting. It will overhaul the supervision of credit rating agencies. We have updated international standards on the amount of capital that banks need to hold against securitisations. It responds directly to the work of the Basel Committee on Banking Supervision and the International Organisation of Securities Commissions. The process of consultation that led to the regulations being agreed in this House and through the Commission has lasted two years, from 2015 to 2017, and this SI is simply implementing them.
+
+In conclusion, I believe that the securitisation regulations will enable the FCA and the PRA to supervise the new framework for securitisations agreed in the EU, which introduces stricter standards and makes securitisations simpler and more transparent.
+
+Kirsty Blackman
+On the point about the powers of the FCA and the changes that are being made to it—I am not suggesting that he is trying to slip out this particular one, but there do seem to have been various changes along the way—is it likely that the Government will come forward with something explaining how they expect the FCA to look in future and how we will get to that point?
+
+John Glen
+There are two or three things going on. There are 53 financial services SIs going through Committee in connection with no-deal preparations, which is certainly an additional burden on the FCA, and it has had the resources for that. The hon Lady asked about the Government’s holistic view of the role of the FCA. It is subject to a periodic review, having been formed under the legislation of five or six years ago, and that will happen in due course. We hope there will be more financial services legislation in future Sessions.
+
+This instrument is necessary to enable the regulations to take effect. I hope that the House has found this afternoon’s debate on this matter informative and will be able to join me in opposing the motion.
+
+16:07:00
+
+Anneliese Dodds
+If I may, I will start my remarks with a brief observation. Far too often in this House, I have heard hon. Members suggest that the financial crisis was somehow the result of the then Government’s policies. I am very pleased to have heard the opposite from the Minister today. In fact, it was the correct interpretation of what precipitated the global financial crisis, which did indeed, as he intimated, begin with the sub-prime mortgage collapses in the United States and then spread through the financial system, particularly through the use of complex financial instruments.
+
+John Glen
+rose—
+
+Anneliese Dodds
+I am very happy for the Minister to agree with what I am saying.
+
+John Glen
+I am very happy to draw the hon. Lady’s attention to the fact that the default rate for triple A rated bonds in the EU was 0.6%, while in the US it was 16%. The key point that the Conservatives have always wished to stress is that the spending profile from 2002 and 2007 massively compounded the difficulties we found ourselves in.
+
+Anneliese Dodds
+The Minister—[Interruption.]
+
+Madam Deputy Speaker (Dame Eleanor Laing)
+Order. A short while ago, this was a very well behaved debate on very specific issues, but since the speech of the hon. Member for Enfield, Southgate (Bambos Charalambous), it seems to have become a very general and exciting debate. I know that Members are anticipating a Division, and they will be trying very hard to make up their minds on which side of the House they are going to vote, but they must listen to the hon. Lady.
+
+Anneliese Dodds
+I will not strain the House’s patience, but I fear that the Minister, who is normally very clear in his remarks, is mixing apples and pears. He mentioned credit rating in relation to sub-prime mortgage-related securities in the United States. There was a relationship with the US state in that case, because of Fannie Mae and Freddie Mac, but there was not a connection between that process and the British state. I fear that there was a little bit of confusion there.
+
+Mr Jim Cunningham (Coventry South) (Lab)
+Perhaps we can clear up the mystery of whose fault it was, because the previous Chancellor said that it was not the fault of the Labour Government at all.
+
+Anneliese Dodds
+As ever, my hon. Friend makes an important, pertinent and brief point.
+
+Mr Jayawardena
+I wonder whether, on reflection, the hon. Lady thinks that the former regulatory structure under the Financial Services Authority was not fulfilling its duties, that it was right to break it up between the PRA and the FCA, and that that resulted in an improvement in regulation.
+
+Anneliese Dodds
+The overall regulatory structure for the financial services industry is surely not what we are talking about in this debate. We are talking specifically about the regulation of securitisation. [Interruption.] The hon. Gentleman appears to be suggesting that he was trying to make a point about the lack of stringent regulation at the time of the financial crisis. I remind all Members that it was, of course, the Conservatives who urged the then Government to deregulate further and to remove regulation.
+
+My hon. Friend the Member for Enfield, Southgate (Bambos Charalambous) set out the involvement of securitisation in the financial crisis very clearly. To respond briefly to the hon. Member for North East Hampshire (Mr Jayawardena), building on what my hon. Friend said, there has been a wide-ranging debate about whether it is appropriate to encourage additional securitisation, of which he may be aware. Of course, securitisation facilitates additional leverage, beyond what would already be there, because it makes liquid assets that are not already liquid. That may be appropriate in some contexts, but it can lead to inappropriate leveraging, particularly when it is conducted in a complex and opaque way, as arguably was the case during the financial crisis. It is surely appropriate, therefore, that we question any new regulations that apply to securitisation in this House, as we have done in this debate.
+
+I am grateful to the Minister for his opening remarks. However, I regret that he failed to respond to my detailed comments about the manner in which the EU regulation has been transposed. Our complaint is not necessarily with the overall framework, which, as he rightly intimated, came from the Basel framework through IOSCO and, latterly, the EU. The point is that the process has not been entirely without controversy. As a result, the decisions that the Government make about how to implement the framework are potentially delicate, as was underlined rightly by the hon. Member for Aberdeen North (Kirsty Blackman).
+
+The Minister said that the statutory instrument is a simple empowerment of the FCA. However, I referred in my remarks to how the regulations disapply elements of existing legislation, including those relating to offences under the purview of the Competition and Markets Authority and to insider dealing. He did not make it clear why that was necessary. He said that the measures would make our statute book consistent with offences in other countries in respect of complex securitisation and so on. He did not indicate whether they were consistent with existing offences on the UK statute book. That, surely, is what is at issue.
+
+For all those reasons, we will press the motion of revocation to a vote.
+
+Question put.
+
+Division 330
+13/02/2019 16:14:00
+The House divided:
+Ayes: 263
+Noes: 306
+Question accordingly negatived.
+

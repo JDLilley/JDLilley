@@ -1,0 +1,1331 @@
+Social Housing (Regulation)  Bill [Lords]
+
+Consideration of Bill, as amended in the Public Bill Committee
+
+[Relevant documents: The First Report of the Levelling Up, Housing and Communities Committee, The Regulation of Social Housing, HC 18; and oral evidence taken before the Levelling Up, Housing and Communities Committee on 6 February 2023, on The Regulation of Social Housing: Follow-up, HC 1127.]
+
+New Clause 1
+
+Social housing leases: remedying hazards
+
+‘After section 10 of the Landlord and Tenant Act 1985 insert—
+
+“Implied term as to remedying of hazards
+
+10A Remedying of hazards occurring in dwellings let on relevant social housing leases
+
+(1) This section applies to a lease of a dwelling if—
+
+(a) the dwelling is in England,
+
+(b) the lease is a relevant social housing lease, and
+
+(c) section 9A—
+
+(i) applies to the lease (see section 9B), or
+
+(ii) would apply to the lease if the provision in section 9B(3) did not exist.
+
+(2) There is implied in the lease a covenant by the lessor that the lessor will comply with all prescribed requirements that are applicable to that lease.
+
+(3) The Secretary of State must make regulations which require the lessor under a lease to which this section applies to take action, in relation to prescribed hazards which affect or may affect the leased dwelling, within the period or periods specified in the regulations.
+
+(4) Regulations under subsection (3) are enforceable against lessors only through actions for breach of the covenant that is implied by subsection (2).
+
+(5) In any proceedings for a breach of the covenant that is implied by subsection (2), it is a defence for the lessor to prove that the lessor used all reasonable endeavours to avoid that breach.
+
+(6) For the purposes of this section a lease is a “relevant social housing lease” at any time when—
+
+(a) the lessor under the lease is a registered provider of social housing, and
+
+(b) the dwelling leased under the lease—
+
+(i) is social housing, but
+
+(ii) is not low cost home ownership accommodation.
+
+(7) In this section and section 10B—
+
+“lease” , “lessor” and “lessee” have the same meanings as in section 9A (see section 9A(9));
+
+“low cost home ownership accommodation” has the meaning given in section 70 of the Housing and Regeneration Act 2008;
+
+“prescribed hazard” has the same meaning as in section 10 (see section 10(2) and (3));
+
+“prescribed requirement” means a requirement prescribed in regulations under subsection (3);
+
+“social housing” has the same meaning as in Part 2 of the Housing and Regeneration Act 2008 (see sections 68 and 72 of that Act).
+
+10B Regulations section 10A: supplementary provision
+
+(1) Regulations under section 10A(3) may apply to—
+
+(a) leases granted before the day when section (Social housing leases: remedying hazards) of the Social Housing (Regulation) Act 2023 came into force;
+
+(b) prescribed hazards which began before that day;
+
+(c) only some descriptions of prescribed hazards.
+
+(2) Regulations under section 10A(3) may—
+
+(a) specify a period that is not of a specific duration (for example a reasonable or appropriate period, including a period decided by the lessor or another person);
+
+(b) specify two (or more) periods in relation to particular action.
+
+(3) Regulations under section 10A(3) may (in particular)—
+
+(a) require the lessor to take particular action, or action that is intended to produce a particular outcome, in relation to a prescribed hazard;
+
+(b) require the lessor to take action in relation to a prescribed hazard that is not of itself intended to remedy the hazard, for example by requiring the lessor—
+
+(i) to investigate whether or how a prescribed hazard is affecting the leased dwelling, or
+
+(ii) to secure that the lessee and any other members of the lessee’s household are provided with alternative accommodation at no cost to them;
+
+(c) require the lessor to take action in relation to a prescribed hazard only—
+
+(i) in particular circumstances, or
+
+(ii) if particular conditions are met;
+
+(d) provide that the lessor is not required to take action in relation to a prescribed hazard—
+
+(i) in particular circumstances, or
+
+(ii) if particular conditions are met.
+
+(4) The Secretary of State may by regulations—
+
+(a) provide for section 10A not to apply to particular descriptions of leases;
+
+(b) make provision, in relation to the covenant that is implied by section 10A(2), which corresponds to any provision made by section 9A(4) to (8).
+
+(5) A power to make regulations under section 10A or this section includes power to make—
+
+(a) incidental, transitional or saving provision;
+
+(b) different provision for different purposes.
+
+(6) The power to make transitional or saving provision may (in particular) be used to make provision about situations where the covenant in section 10A(2)—
+
+(a) begins to be implied in a lease after its grant because it becomes a relevant social housing lease;
+
+(b) ceases to be implied in a lease because it ceases to be a relevant social housing lease (including provision to save the lessor’s liability for any breach of the covenant occurring before it ceases to be implied).
+
+(7) Regulations under section 10A or this section are to be made by statutory instrument.
+
+(8) A statutory instrument containing regulations under section 10A or this section may not be made unless a draft of it has been laid before and approved by resolution of each House of Parliament.”’
+
+This new clause would enable registered providers of social housing to be required to deal with hazards affecting leased dwellings of which they are the landlord.—(Michael Gove.)
+
+Brought up, and read the First time.
+
+14:53:00
+
+The Parliamentary Under-Secretary of State for Levelling Up, Housing and Communities (Dehenna Davison)
+I beg to move, That the clause be read a Second time.
+
+Madam Deputy Speaker (Dame Rosie Winterton)
+With this it will be convenient to discuss the following:
+
+Amendment (a) to new clause 1, after “Social housing leases:” insert “prescribing and”.
+
+Amendment (b) to new clause 1, after “comply with all the prescribed requirements” insert
+
+“under regulations made under this section and section 10B”.
+
+Amendment (c) to new clause 1, after “regulations under subsection (3) insert “or section 10B”.
+
+Amendment (d) to new clause 1, after “sections 68 and 72 of that Act).”, insert—
+
+“(8) Any provision of a lease or of any agreement relating to a lease (whether made before or after the grant or creation of the lease) is void to the extent that it purports—
+
+(a) to exclude or limit the obligations of the lessor under the covenant implied by section 10A(2), or
+
+(b) to authorise any forfeiture or impose on the lessee any penalty, disability or obligation in the event of the lessee enforcing or relying upon those obligations.
+
+(9) Where in any proceedings before a court it is alleged that a lessor is in breach of an obligation under the covenant implied by section 10A(2), the court may order specific performance of the obligation (regardless of any equitable rule restricting the scope of that remedy).
+
+(10) Where a lease to which this section applies of a dwelling in England forms part only of a building, the implied covenant has effect as if the reference to the dwelling in subsection (1) included a reference to any common parts of the building in which the lessor has an estate or interest.”
+
+Amendment (e) to new clause 1, leave out line 50.
+
+Amendment (f) to new clause 1, leave out lines 79 to 81.
+
+These amendments seek to strengthen Gov NC1 by clarifying the relevant prescribed requirements at 10A(2), making clear the extent of their application, inserting non-avoidance and non-penalisation provisions and detailing where courts may order specific performance of certain obligations.
+
+Government new clause 2—Power of housing ombudsman to issue guidance to scheme members.
+
+Government new clause 3—Action after inspection.
+
+Government new clause 4—Secretary of State’s duty to give direction about providing information to tenants.
+
+New clause 5—Persons engaged in the management of social housing to have relevant professional qualifications—
+
+‘After section 217 of the Housing and Regeneration Act 2008 (accreditation), insert—
+
+“217A Professional qualifications and other requirements
+
+(1) The Secretary of State may, by regulations, provide that a person may not engage in the management of social housing or in specified work in relation to the provision of social housing unless he or she—
+
+(a) as appropriate professional qualifications, or
+
+(b) satisfies specified requirements.
+
+(2) Regulations specifying work for the purpose of subsection (1) may make provision by reference to—
+
+(a) one or more specified activities, or
+
+(b) the circumstances in which activities are carried out.
+
+(3) Regulations made under this section may, in particular, require—
+
+(a) the possession of a specified qualification or experience of a specified kind,
+
+(b) participation in or completion of a specified programme or course of training, or
+
+(c) compliance with a specified condition.
+
+(4) Regulations may make provision for any of the following matters—
+
+(a) the establishment and continuance of a regulatory body;
+
+(b) the keeping of a register of qualified social housing practitioners;
+
+(c) requirements relating to education and training before and after qualification;
+
+(d) standards of conduct and performance;
+
+(e) discipline and fitness to practise;
+
+(f) removal or suspension from registration or the imposition of conditions on registration;
+
+(g) investigation and enforcement by or on behalf of the regulatory body, and appeals against the decisions or actions of the regulatory body.”’
+
+This new clause would require managers of social housing to have appropriate qualifications and expertise.
+
+New clause 6—Application of Freedom of Information Act 2000 to registered providers—
+
+‘Within six months of this Act receiving Royal Assent, the Secretary of State must by order designate registered providers of social housing as public authorities for the purposes of the Freedom of Information Act 2000.’
+
+This new clause would bring registered providers of social housing within the scope of the Freedom of Information Act 2000.
+
+New clause 7—Regulator duty to ensure continuity of secure and assured tenancy in cases of threat to safety—
+
+‘(1) The Housing and Regeneration Act 2008 is amended as follows.
+
+(2) After section 92K insert—
+
+“92KA A Duty to ensure continuity of secure and assured tenancy in cases of threat to safety
+
+(1) Duty to ensure continuity of secure and assured tenancy in cases of threat to safety
+
+(a) a registered provider of social housing has granted a secure tenancy or assured tenancy of a dwelling-house in England to a person (whether as the sole tenant or a joint tenant), and
+
+(b) the registered provider is satisfied that there is a threat to the personal safety of that person or of a member of that person’s household which means there is a risk to their personal safety unless they move.
+
+(2) When subsection (1) applies, the regulator must ensure that the registered provider grants the tenant a new secure tenancy which is—
+
+(a) on terms at least equivalent to the existing tenancy; and
+
+(b) a threat of targeted youth or gang violence.
+
+(3) In this section, a “threat to personal safety” means any threat of violence, including in circumstances of—
+
+(a) domestic abuse where the perpetrator does not live at the same address as the victim;
+
+(b) an escalating neighbour dispute;
+
+(c) a threat of targeted youth or gang violence.
+
+(4) In assessing the threat under subsection (1)(b), the registered provider must act in accordance with any relevant police advice provided to—
+
+(a) the registered provider,
+
+(b) the tenant, or
+
+(c) any member of the tenant’s household.
+
+(5) In the event that a registered provider is unable to ensure the provision of an appropriate new secure tenancy pursuant to subsection (2), the regulator must ensure that the registered provider concerned co-operates with other registered providers to ensure an appropriate new secure tenancy is provided in a timely manner.”’
+
+This new clause would require the regulator to ensure that tenants whose safety is threatened are granted alternative accommodation by their housing provider on equivalent terms to their existing  tenancy. It also requires the regulator to ensure that a provider which is unable to provide appropriate alternative accommodation co-operates with other providers to do so.
+
+New clause 8—Regulator duties relating to supported exempt and temporary accommodation—
+
+‘(1) The Housing and Regeneration Act 2008 is amended as follows.
+
+(2) In section 192 (Overview), in paragraph (a), after “social housing” insert “, supported exempt accommodation and temporary accommodation”.
+
+(3) In section 193 (Standards relating to consumer matters), in paragraph (a), after “social housing” insert “, supported exempt accommodation and temporary accommodation”.
+
+(4) After section 195 (Code of practice) insert—
+
+“195A Regulation of codes of guidance issued by the Secretary of State
+
+The regulator shall have a duty to inspect local housing authorities as to their compliance with any code of guidance issued by the Secretary of State under section 182 of the Housing Act 1996”’.
+
+This new clause would enable the regulator to set standards for the provision of supported and temporary accommodation, make the regulator responsible for enforcing any Code of Guidance issued by the Secretary of State relating to local authorities’ duty to provide temporary accommodation, and give the regulator the ability to inspect local authorities for compliance.
+
+New clause 9—Review of impact of this Act—
+
+‘(1) The Secretary of State must, within one year of the passing of this Act, carry out a review of the impact of this Act.
+
+(2) A review under this section must make an assessment as to whether the Act has improved the safety and quality of social housing both in its own terms, and in comparison to the safety and quality of housing in the private rented sector.’
+
+This new clause would require the Government to undertake a review of the impact of this Act.
+
+Amendment 41, in clause 1, page 1, line 10, at end insert—
+
+“(d) after paragraph (d) insert—
+
+‘(da) to safeguard and promote the interests of persons who are or who may become homeless in relation to the provision of social housing.”’
+
+This amendment would add to the regulator’s remit an additional objective of safeguarding and promoting the interests of persons who are or who may become homeless in the context of the provision of social housing.
+
+Amendment 42, page 1, line 10, at end insert—
+
+“(2) In section 92K of the Housing and Regeneration Act 2008 (fundamental objectives), after subsection (3) insert—
+
+‘(3A) In undertaking its objective under subsection (2)(b) the regulator must report to the Secretary of State at least every three years on whether the provision of social housing in England and Wales is sufficient to meet reasonable demands, and must make recommendations to the Secretary of State on how to ensure that the provision of social housing is so sufficient.
+
+(3B) The Secretary of State must lay before Parliament a copy of any reports prepared by virtue of subsection (3A).
+
+(3C) In undertaking its objective under subsection (3)(a) the regulator must report to the Secretary of State on the progress of the removal of unsafe cladding and the remediation of other fire safety defects in social housing, and may make recommendations to the Secretary of State on further action required.”’
+
+This amendment would include in the regulator’s objective a requirement to report to the Government on the removal of cladding. It would also require the regulator to report to the Government on the adequacy of the stock of social housing, and lay a copy of any such report before Parliament.
+
+Amendment 37, in clause 2, page 1, line 18, at end insert—
+
+“(2A) The Panel may provide information and advice to the Secretary of State about, or on matters connected with, the regulator’s functions and wider issues affecting the regulation of social housing (whether or not it is requested to do so by either the regulator or the Secretary of State).”
+
+This amendment would enable the Panel to provide information and advice and to proactively raise issues affecting social housing regulation more generally directly to the Secretary of State.
+
+Amendment 38, page 1, line 19, leave out “subsection (2)” and insert “subsections (2) and (2A)”.
+
+This amendment is consequential on Amendment 37.
+
+Amendment 36, page 2, line 17, at end insert—
+
+“(8) The Panel must be chaired by a tenant of social housing.
+
+(9) The Chair is responsible for setting Panel meeting agendas.
+
+(10) The majority of persons appointed to the Panel must be tenants of social housing.”
+
+This amendment would ensure that tenant representation on the advisory panel is mandatory and that tenants are able to influence effectively what information and advice is presented to the regulator in respect of issues affecting social housing regulation.
+
+Government amendments 4 to 10.
+
+Amendment 39, page 17, line 16, leave out clause 21.
+
+Government amendments 44 to 47, 11 and 12.
+
+Amendment 40, in clause 28, page 23, leave out lines 23 to 26 and insert—
+
+“(a) the inspection of every registered provider within four years of the commencement of this Act,
+
+(b) the inspection of every registered provider at intervals of no longer than four years thereafter, and”.
+
+This amendment would ensure that the regulator is required to carry out regular inspections of every registered provider.
+
+Amendment 43, in clause 30, page 28, line 39, leave out “24” and insert “48”.
+
+This amendment is intended to probe why an authorised person must only give 24 hours’ notice to tenants under this section, whereas providers are given 48 hours’ notice.
+
+Government amendments 13, 2, 15 to 34, 14, 35, 1 and 3.
+
+Dehenna Davison
+I am proud to be here today opening the Report stage of the Social Housing (Regulation) Bill. The Bill has been long awaited, but I hope we can all agree that the time we have taken to engage with tenants and stakeholders has helped us to ensure that the Bill is as robust as possible. I am grateful that Grenfell United, Shelter and others are able to join us today as the Bill reaches its Report stage. I must pay tribute to them for their steadfast campaigning on this crucial legislation. I am also grateful to Members from across the House for the incredibly constructive way in which they have approached this legislation. Thanks to the strength and breadth of engagement, we have tabled a number of amendments and new clauses to reinforce the Bill even further, and I will begin with new clause 1, on Awaab’s law.
+
+Chris Clarkson (Heywood and Middleton) (Con)
+As one of Rochdale borough’s two MPs, I thank the Minister’s Department for the speedy and sensitive way it has dealt with this, and I am sure that that would be echoed by the hon. Member for Rochdale (Tony Lloyd), who sadly cannot be here for this debate. Can I ask my hon. Friend to give an assurance that once this legislation is passed, social housing tenants can have confidence that the homes they are provided with are fit for habitation in a way that simply has not been the case up to now?
+
+Dehenna Davison
+I am grateful to my hon. Friend not just for his contribution today but for the way in which he engaged with us following this incredibly tragic case. This legislation is designed specifically to ensure that terrible cases like that faced not only by Awaab but by the Grenfell United community do not happen again, and that tenants have the protection and the respect they deserve from social housing providers.
+
+I know I am not alone in saying that I was deeply shocked by the tragic death of Awaab Ishak. The death of a child is always heartbreaking, and its having been entirely preventable makes it even more devastating. My thoughts remain with Awaab’s family in the difficult time that they have been going through. This terrible case has thrown into sharp relief the need for this Government to continue steadfastly in their mission to drive up the quality of this country’s social housing and, crucially, to rebalance the relationship between tenants and landlords. Within the Government we are well aware that, unfortunately, damp and mould are not the only hazards that can pose a threat to social residents’ health. For example, excessive cold and falls caused by disrepair in homes are among the top five hazards found in homes in England.
+
+That is why the Secretary of State has tabled the Government new clause for Awaab’s law, which not only addresses the concerns underpinning the Awaab’s law proposals but goes further by enabling the Government to introduce new requirements on landlords to act on a broader range of hazards. We will take a power for the Secretary of State to set out in secondary legislation requirements for landlords to rectify hazards or rehouse residents within a certain time. Our new clause will empower tenants to challenge their landlords for inaction. It inserts an implied covenant into tenancy agreements that landlords will comply with the requirements prescribed in regulations. This will empower landlords to deal with hazards such as damp and mould in a timely fashion, knowing that if they fail to do so they can face a legal challenge from residents.
+
+It is crucial that any new measures to address the issues of damp, mould and other hazards putting residents’ health at risk are proportionate and evidence-based and deliver the right outcomes for social residents in the long term. That is why we intend to consult on these new requirements, including time limits, within six months of Royal Assent and to lay the secondary legislation as soon as possible thereafter.
+
+We are also tabling new clause 4 and Government amendments 1 and 11 to 14, which will ensure that the Regulator of Social Housing sets standards for landlords and provides tenants with information about how to make complaints and about their rights as tenants. To demonstrate our commitment to this, we have included a duty for the Secretary of State to issue a direction to this effect within six months of the Bill receiving Royal Assent.
+
+I turn now to the important matter of professional standards in the sector. Grenfell United has long campaigned for mandatory qualifications to be introduced in the sector to ensure that professional standards are consistently high across the sector and to bring social housing into line with other frontline services such as social work, teaching and health and social care. At the earlier stages of the Bill I made it clear that we had to proceed cautiously on mandatory qualifications, as there was an identified risk that requirements could lead to housing associations being reclassified by the Office for National Statistics to the public sector, which in turn would hamper their ability to invest in improving the quality of existing homes and in building new stock.
+
+However, I have made it clear in this process that we are here to listen and take on board comments from stakeholders and Members from across the House. We took heed of the arguments made by Grenfell United and Shelter and by those who spoke so passionately in both Houses on this matter. The tragic death of Awaab Ishak also underlined how vital it is that we use every lever at our disposal to deliver the consistently high level of professional standards that tenants deserve. Since the Commons Committee stage, we have worked incredibly hard to find a solution. I am grateful to Grenfell United and Shelter for their ongoing work with us on this issue and to my right hon. Friend the Member for Maidenhead (Mrs May) and my noble Friend Baroness Sanderson. I am proud to stand here today having tabled Government amendments 44 to 47 to deliver qualification requirements to improve the experience of social housing tenants.
+
+Bob Blackman (Harrow East) (Con)
+I thank my hon. Friend for the consultative way in which she has guided the Bill through the House. Having gone through the Lords and now reached Report, the Government have tabled four new clauses and a substantial number of amendments. What consideration is she giving to the consultation that will be needed on those new clauses with the organisations involved, to make sure we get the regulations right when she brings forward the secondary legislation?
+
+15:00:00
+
+Dehenna Davison
+I am grateful to my hon. Friend not only for his intervention but for the constructiveness and diligence with which he conducted himself in Committee, which we can all agree was done with the best of intentions to get the best for social housing tenants. He is right that we need to make sure the process is done correctly, which is why we will be working with the sector and key stakeholders to get this absolutely right, while committing to ensuring that professional qualifications are required for the executives and managers of social housing providers to make sure that tenants get the experience they deserve.
+
+The qualification requirements will be delivered through the competence and conduct standards, for which we have already made provision in the Bill. The new provision will require housing managers and senior housing executives to have, or to be working towards, a housing management qualification at levels 4 and 5 respectively. Qualifications must be independently regulated by Ofqual or, in the case of senior housing executives, can be a foundation degree. Relevant staff who are not already qualified will have to enrol on and complete the appropriate qualification within a specified timescale, which will be set following consultation.
+
+We are setting qualification requirements for housing managers and executives because they are responsible for, and are best placed to drive, the delivery of high-quality professional services through their management of frontline housing officers, repairs and maintenance staff and customer service staff; through the day-to-day decisions they make about the delivery of services to tenants; and, crucially, through their ability to drive culture and change across their organisations. It was imperative that we found a way to introduce requirements that will not increase the risk of reclassification. By tightly defining the roles in scope and the qualifications that will be required, and by enabling staff to gain qualifications in post, we have been able to achieve that.
+
+Importantly, the new requirement for managers and senior executives will work in tandem with the competence and conduct standards, which already require that the standards will have a broad application, requiring landlords to take appropriate steps to ensure all their staff involved in the provision of housing management services, including housing officers and repairs and maintenance staff, have the skills, knowledge, experience and behaviours needed to deliver professional, high-quality services to tenants.
+
+The combination of competence and conduct standards for all staff and qualification requirements for all housing managers and senior executives will drive change throughout organisations. Together, they will deliver the transformation of the sector’s culture, staff professionalism and service standards that we all want to see.
+
+New clause 3 adds requirements relating to the production and publication of an inspector’s report following the completion of an inspection. Currently, following the completion of an inspection carried out under section 201 of the Housing and Regeneration Act 2008, the inspector is required to produce a report and the regulator is required to share that report with the registered provider. The new clause provides that, instead, the inspector must produce a summary of findings, as well as a report, on any matters specified by the regulator. The regulator will then be required to share the summary and any report with the provider, and it may also publish all or part of these documents.
+
+Crucially, new clause 3 gives the regulator the flexibility to decide, on a case-by-case basis, whether a full inspector’s report is necessary or whether a shorter summary of the inspector’s findings is sufficient. The changes also allow the regulator to specify matters for the inspector to report on, allowing it to use its expertise and understanding of a provider’s risks to determine the nature of inspections that should be carried out. The regulator continues to develop its approach to inspections and will work closely with the sector in this process.
+
+New clause 2 and Government amendments 2 and 3 will give the ombudsman explicit statutory power to issue and publish guidance on good practice, alongside the power to order landlords to complete a self-assessment if the ombudsman has received a relevant complaint about the landlord. We believe these amendments are necessary in the light of the recent tragic case of Awaab Ishak. The housing ombudsman can play an important role in raising awareness of the key issues it sees within the complaints it receives, such as on damp and mould. This power will enable the ombudsman, following a complaint, to challenge social landlords to consider and improve their service to residents by ordering them to complete a self-assessment against the good practice guidance. This provides greater weight to the good practice guidance and should prevent further issues from arising. It will also mean that a great number of issues should be resolved at an earlier stage.
+
+Government amendments 4 to 10 and 15 to 34 concern housing moratorium procedures, as set out in the 2008 Act, and restrictions on insolvency procedures imposed by the Housing and Planning Act 2016. The powers of the Regulator of Social Housing in the event of a provider experiencing financial difficulty offer important protections for the social housing sector and protect social housing tenants by helping to ensure they can remain in their home. The housing moratorium provides time for the regulator to work with a provider and secured creditors to produce the best outcome in such a scenario.
+
+It is essential that the legislation works as effectively as possible, and that we use this opportunity to make some technical changes that will help to ensure this. Amendment 4 will ensure there is no gap between the occurrence of an insolvency-related event and the beginning of a moratorium so that a provider cannot dispose of land. Amendments 6 and 8 make it clear that the regulator can both extend the moratorium and impose a further moratorium where it has made inquiries but has been unable to locate any secured creditors of the registered provider.
+
+Amendment 9 relates to the process by which proposals about the future management of a registered provider made during a moratorium are put in place. It clarifies how the process works in a scenario where the regulator is unable to locate any secured creditors to agree the proposals. Not every registered provider will have secured creditors and, as such, the amendments will ensure that legislation continues to work effectively and that processes are clear in those cases.
+
+Amendments 15 to 34 concern the giving of notices. They contain provisions on the signature and content of notices, and they provide powers for the regulator to deal with notices that have not been validly signed. Amendment 35 is a technical amendment relating to data protection, and it introduces a provision that clarifies the relationship between data protection legislation and part 2 of the 2008 Act.
+
+I hope hon. Members see the importance of all the Government amendments before the House today and will support them, because I firmly believe they will make the Bill even stronger to deliver the high standards that we are all looking for in social housing and that we know all tenants deserve.
+
+Madam Deputy Speaker (Dame Rosie Winterton)
+I call the shadow Minister.
+
+Matthew Pennycook (Greenwich and Woolwich) (Lab)
+I rise to speak to the new clauses and amendments in my name. I join the Minister in welcoming Grenfell United, Shelter and others to the Public Gallery.
+
+There is a shared recognition across the House that the lives of far too many social housing tenants are blighted by poor conditions and that, although there are good social landlords, too many still routinely fail their tenants. That shared understanding has underpinned the consensus across both sides of the House that the Bill is both necessary and urgently required.
+
+Since the moment the Bill was finally published in October 2022, the Opposition have been clear that we support it and that we wish to work constructively with the Government to see it make rapid progress. Yet at every stage, we have been at pains to convey our strong feeling that the Bill could be strengthened in a number of areas, and to urge Ministers to approach our suggested improvements with an open mind and in the constructive spirit in which they were offered. That was how we approached Committee, and it is why we worked with the Minister to secure the Bill’s speedy passage out of Committee.
+
+We pressed a range of amendments in Committee, including on three key objectives: the need to expedite the professionalisation of the sector; the need to ensure that the Bill provides, in practice, for the Ofsted-style inspections regime to which the Government are ostensibly committed to introducing; and the need to further empower social tenants. I shall take each in turn.
+
+On professionalisation, we welcome the concession made by the Government in the other place regarding professional training and qualifications, and the resulting addition of clause 21 to the Bill, but we pressed in Committee for that clause to be strengthened so that it not only provides the regulator with the ability to set standards on the competence and conduct of individuals involved in the management of social housing, but includes requirements to ensure social housing managers have appropriate objective qualifications and expertise. Our reasoning was simple: as a result of the progressive residualisation of social housing over the past 40 years, it is now overwhelmingly let to those most in need and often least able to challenge poor conditions, not least because the chronic shortage of social housing in England leaves most with few, if any, options to move if they receive an unprofessional service from their landlord.
+
+The circumstances leading up to the fire at Grenfell Tower in June 2017 and those surrounding the death of Awaab Ishak in December 2020, as well as countless other instances of negligence and neglect that will have gone unreported, make perfectly clear what can happen when staff do not listen to their tenants, do not treat them with respect, do not respond to their concerns with empathy and understanding, do not deal appropriately with their complaints, and in some instances actively discriminate against them. In our view, it is therefore essential that those managing the homes of social tenants are properly qualified to do so; that they have undergone the necessary training to ensure that they are treating tenants fairly and providing them with the necessary support; and that they undergo continuous professional development—just as we expect those in other key frontline services to do.
+
+In Committee, the Minister stressed the Government’s concern that giving the Secretary of State the power to stipulate mandatory qualifications for social housing managers through regulation could risk the Office for National Statistics reclassifying housing associations to the public sector. We never dismissed such a risk out of hand, but neither were we convinced it was an impediment to strengthening clause 21, not least because we have never seen any evidence that suggests that mandating qualifications would automatically trigger a reclassification. To underscore how strongly we felt about using the Bill to expedite the professionalisation of the sector, we tabled new clause 5. However, true to the commitment that the Minister gave in Committee to explore in good faith whether there was scope to go further without risking reclassification, the Government tabled amendment 47 and others just before the deadline on Friday afternoon.
+
+The Minister mentioned frontline social housing managers, unless I am mistaken. While we would welcome an assurance from the Minister that the definition of “relevant manager” in that amendment and others encompasses all those in frontline roles involving extensive resident engagement, such as neighbourhood housing, customer service and antisocial behaviour managers, and also a commitment that the Government will set out a timeline for implementation in the not too distant future and that the new burdens doctrine will apply in relation to local authorities, we are satisfied that amendment 47 and others address the concerns we raised in Committee. On that basis, we are happy to support them. I take the opportunity to once again praise Grenfell United and Shelter for helping to convince the Government to make the concession.
+
+Turning to the issue of inspections, we welcomed the concession made by the Government in the other place to impose a duty on the regulator to publish, and take appropriate steps to implement, a plan for regular inspections. I once again commend the efforts of Lord Best and Grenfell United in achieving that outcome. However, while recognising the need for the regulator to have a significant degree of discretion in formulating that inspections plan, we pressed in Committee for clause 29—which was then clause 28—to be made more prescriptive in two important respects. First, we believe it is essential that the Bill makes it clear that all registered providers, large or small, will be subject to inspections by the regulator. Secondly, we believe it is essential that the Bill ensures that every registered provider will be subject to routine inspections.
+
+In resisting our amendment in Committee, the Minister made two principal arguments: first, that it would be unreasonable to bind the regulator’s hands by specifying that the inspections plan must include those two minimum requirements; and, secondly, that basing the system of inspections on a provider risk profile determined principally by size will ensure those landlords at greatest risk of failing tenants are accorded greater oversight. In our view, both those arguments are flawed.
+
+On the argument that we should not bind the regulator’s hands, the Minister must surely appreciate that the Government cannot on the one hand commit to introducing an Ofsted-style inspections regime, and then resist specifying any minimum expectations as to how that regime should operate, however reasonable they might be. If the Government’s intention were to give the regulator unlimited operational flexibility in relation to the inspections plan, they should have been clear about that fact, rather than promising tenants that they would introduce an Ofsted-style regime, with the obvious connotations that that has in terms of universal coverage and a defined regularity of inspection.
+
+On the argument that a risk profile based on a size threshold will best ensure tenants are protected, the Government have not provided any evidence as to why they believe that landlords with a stock of 1,000 homes or more are at the greatest risk of failing in terms of standards. We appreciate entirely the case for prioritising larger landlords with a stock of over 1,000 units, given that that will cover the vast majority of social homes in England, but there is no evidence to suggest that landlords with fewer than 1,000 homes are less likely to fail their tenants; indeed there are cases listed right now on gov.uk of such smaller landlords having been served regulatory notices for breaches. Nor can we understand, given that these smaller landlords are responsible for just 4% of England’s social housing stock, what the Government believe are the benefits of allowing them to escape regular inspection, given that doing so is unlikely to significantly reduce the burden on the regulator and carries the obvious risk that one or more smaller providers will fail their tenants as a result of the lack of oversight.
+
+We agree with the Government that the regulator should retain a high degree of operational independence and flexibility in formulating and implementing the inspections plan now required by clause 28, but we believe the Government are making a mistake in refusing to mandate the two basic requirements that we have proposed: namely, an inspection for all landlords irrespective of size at least once every four years.
+
+15:15:00
+
+To ensure that every social landlord must be inspected within four years of the commencement of the Act, and then inspected by the regulator at intervals of no longer than four years thereafter, we have tabled amendment 40. I commend it to the House as the best possible means of giving tenants real confidence in the new inspections regime. If the Government are intent on resisting it today, the Minister could, at the very minimum, state clearly from the Dispatch Box that the Government will not rule out an inspection plan that includes smaller landlords and will listen to the arguments for including them carefully in the forthcoming consultation process.
+
+Finally, on tenant empowerment, we firmly believe that the empowerment of social tenants should be at the heart of the Bill, and we believe that a key test of its overall robustness is whether it ultimately includes mechanisms that will enable tenants to influence in practice the regulator’s approach to regulating standards, to shape any future changes to regulatory standards and codes of practice, and to proactively raise wider issues affecting social housing regulation and policy not just with the regulator but with Ministers.
+
+The Government ostensibly agree that tenants are at the heart of the Bill, and Ministers have repeatedly assured us that one of its primary objectives, largely owing to the fact that the warnings of Grenfell Tower tenants were repeatedly ignored before the fire, is both to give social housing tenants a voice and to ensure that voice is listened to. Yet when it comes to providing ways in which tenant representatives can exert a measure of influence over the work of the regulator, shape the future direction of the regulatory arrangements that the Bill establishes, and proactively influence national regulation and policy so as to shape the services that tenants receive from their landlords, the Bill lacks all ambition. We believe this is a serious omission.
+
+Since the abolition of National Tenant Voice in 2010, we have not had an independent body that is truly representative of tenants across the country and allows them to speak for themselves on a more equal footing  with other interests. The Bill cannot be the vehicle for establishing such a body, but it could do much more to ensure that tenants are influencing the making of national regulation and policy. In Committee, the Minister resisted several amendments we proposed for empowering tenants, on the basis that the social housing quality resident panel provided sufficient opportunity for tenants to share their views with Government, that measures to ensure sufficient tenant representation and influence on the advisory panel were too prescriptive, and that there was no need to bring providers of social housing within the scope of the Freedom of Information Act 2000 because the new access to information scheme enabled by clause 22 provides for the same right of access.
+
+We were not convinced by these arguments, and we remain concerned that the Bill, as drafted, will not meaningfully empower tenants. We have therefore tabled amendments 36 and 37 and new clause 6, which taken together would ensure that tenants are adequately represented on the advisory panel established by clause 2 and able to influence how it operates; that the panel would have the ability to provide information and advice directly to the Secretary of State in circumstances in which it feels that is necessary; and that tenants and others have the right to access information held by providers on a range of key issues of concern, including fire safety and health hazards, beyond what they might secure as a result of any information and transparency scheme that might be—I stress the word “might”—established under clause 22. I commend them to the House.
+
+Andy Slaughter (Hammersmith) (Lab)
+My hon. Friend is making a powerful speech. On new clause 6, he knows that I have an interest in freedom of information, and I introduced a private Member’s Bill to do just this. The Freedom of Information Act applies to housing associations in Scotland, the Information Commissioner supports that, and there were endless examples in what the Campaign for Freedom of Information gave us in preparation for this debate of housing associations just refusing or ignoring requests from tenants about fire safety, damp and mould and other issues. Why should they be treated differently from council tenants, and why will the Government not adopt the FIA, which is designed exactly for this purpose, rather than use their own scheme, which would do a pale reflection of that in trying to enable tenants can find out basic information about their own safety?
+
+Matthew Pennycook
+I thank my hon. Friend for that intervention; I could not have put it better. We are seriously concerned that clause 22 does not have the same effect as bringing providers within the scope of the Freedom of Information Act. We think that tenants, and tenant representatives and those acting on their behalf, should be able to enjoy those rights, so that they can get information of the kind that, as he rightly says, providers regularly refuse to give to tenants.
+
+Before turning to the Government amendments that have been tabled since the Bill left Committee, I wish to speak briefly to new clauses 7 and 8, which stand respectively in the names of my hon. Friends the Members for Dulwich and West Norwood (Helen Hayes) and for Mitcham and Morden (Siobhain McDonagh). I turn first to new clause 7, or “Georgia’s law”, as my hon. Friend the Member for Dulwich and West Norwood has named it, in reference to a constituent of hers who was forced into temporary accommodation for an extended period as a result of her teenage son being threatened by gang members at their family home.
+
+In our view, new clause 7 is a sensible and proportionate amendment that would make a real difference to a small but significant minority of tenants in England who find themselves in the exceptional circumstance—I must stress that fact—of a police referral as a result of being subject to the threat of serious violence. Its effect—the protection of existing tenancy rights in the case of a forced move linked to a threat of violence and greater co-operation between registered providers to rehouse those affected in a social home—is clearly not unduly onerous, and the Government’s argument that such a measure would cause insurmountable problems with local authority allocations policies is entirely unconvincing.
+
+The Minister gave a guarantee in Committee that the Government would work with my hon. Friend
+
+“to see what more can be done in this area to prevent any more cases like that of Georgia and her boys emerging.”––[Official Report, Social Housing (Regulation) Public Bill Committee, 29 November 2022; c. 66.]
+
+It is therefore incredibly disappointing that the Government have not been willing to bring forward an amendment of their own to ensure that others do not have to experience what my hon. Friend’s constituents were forced to go through. As such, if my hon. Friend pushes her new clause 7 to a vote, we will of course support it.
+
+We also support new clause 8, because while we recognise that the Government are taking steps to address the issue of unscrupulous providers of supported accommodation by means of the Supported Housing (Regulatory Oversight) Bill, promoted by the hon. Member for Harrow East (Bob Blackman), we are in full agreement with my hon. Friend the Member for Mitcham and Morden that the regulator should have the ability to inspect temporary accommodation. There is statutory guidance designed to ensure that existing minimum standards are met for all temporary accommodation, but we know that in practice bed and breakfasts, hotels and shared houses used by local authorities across the country to house homeless families are frequently substandard and often hazardous, because that guidance is rarely adhered to.
+
+The truth is that with almost 100,000 households, and now more than 125,000 children, living in temporary accommodation, according to the Department’s own figures, local authorities have little leverage when it comes to deciding what standards they are willing to accept. A huge amount needs to be done to decrease the demand for temporary accommodation across the country, most of which is well outside of the scope of this Bill. But in the short term, stronger regulation and inspections could make a real difference, and in the most extreme cases they could save lives. On that basis, we support new clause 8.
+
+Finally, I turn to the Government amendments that have been tabled in recent weeks. The bulk of them are uncontroversial and largely technical, and we support their incorporation into the Bill. I do, however, wish to touch upon Government new clause 1. Awaab Ishak’s untimely death from prolonged exposure to mould in the house his parents rented from Rochdale Boroughwide Housing should never have occurred and the fact that it did, frankly, shames our country. The coroner was right to call it a “defining moment”, but it falls to this House to ensure that it truly is. It is therefore essential that we legislate to compel landlords to act quickly to remedy hazards of the kind that ultimately killed Awaab.
+
+The regulator’s initial findings on damp and mould in social housing, published on 2 February, estimated that up to 160,000 social homes have notable problems with it, and a further 8,000 have hazards so severe that they pose a serious and immediate risk to health. Given the scale of the problem, landlords who fail to proactively review the homes and buildings they manage or lease for hazards, who deal with tenant complaints relating to such hazards ineffectively, or who blame damp and mould on lifestyle choices and myriad other factors, rather than taking responsibility, cannot be tolerated.
+
+Government new clause 1 is a laudable effort at amending the Bill to ensure that social housing providers are forced to investigate and deal promptly with hazards that are a danger to the health of tenants. As the Minister said, it would allow the Secretary of State, by regulation, to set timescales to which social landlords must adhere in respect of remedying hazards or be in breach of a tenancy agreement, as well as specify what kinds of action must be taken. Enforcement will, of course, depend on access to legal representation, and in many cases legal aid, Government new clause 1 nevertheless provides an enforceable right that enhances the provisions contained in the Homes (Fitness for Human Habitation) Act 2018, introduced by my hon. Friend the Member for Westminster North (Ms Buck). We commend the Government for tabling the new clause and we support it in principle.
+
+However, we are convinced that Government new clause 1 could be strengthened in several important respects, and to that end we have tabled amendments (a) to (f). Taken together, they would set out on the face of the Bill the location of the relevant prescribed requirements at proposed new section 10A(2); make clear the extent of their application; detail the circumstances in which any provision of a lease or any agreement relating to a lease is void; and clarify where courts may order specific performance of certain obligations. We believe those changes would improve the clarity and functionality of Government new clause 1 and thereby make it stronger, and we hope the Government will give serious consideration to accepting them.
+
+To conclude, this is without question an important and urgently needed piece of legislation, and we are extremely pleased it will complete its passage today. Everyone has a basic right to a decent, safe, secure and affordable home, and it is our sincere hope that by overhauling the regulation of social housing by means of this Bill, we will better protect the health, safety and wellbeing of social tenants across the country. We welcome the numerous concessions that the Government have made throughout the passage of the Bill, but we believe it is not yet the most robust piece of legislation that this House can possibly deliver, the achievement of which has been our objective from the outset. We will shortly have the opportunity to amend it further so that it is, and I urge the House to come together to that end.
+
+David Simmonds (Ruislip, Northwood and Pinner) (Con)
+May I start by drawing the House’s attention to my entry in the Register of Members’ Financial Interests and, in particular, my role as a vice-president of the Local Government Association? That is an important starting point for why I so strongly welcome this Bill and commend the Government team, especially for new clauses 1 and 2, which are going to be the main focus of my contribution this afternoon.
+
+It was immensely useful, and terrifying, having served as a London local authority councillor and as an office holder in the LGA, to see the things that we learnt about the regulation of our housing market following the Grenfell disaster. Local authorities across the country will welcome the fact that this Bill begins to bring a degree of definition to the situations where regulation that perhaps in the past had been vague could apply, and a greater degree of rigour, which enables a greater degree of accountability in respect of landlords who may be falling short in their responsibilities.
+
+I wish to flag up the fact that some issues remain to be addressed, because although the model of Ofsted as a regulatory framework is a good one, the weakness of Ofsted is that it focuses its inspections through the role of the local authority and the local authority’s powers in a diverse and complex education market are limited, just as they are in the context of a very diverse and complex housing market. I would simply say that, following the situation at Grenfell where large numbers of landlords suddenly realised that they would be required to address quite serious safety issues, we saw a number of examples around the country where private landlords with substantial blocks that were entirely occupied by tenants on social leases through the local authority essentially put those blocks into liquidation and walked away. Therefore, there was a need for a local authority in those kinds of situations to step in. How we deal with perhaps sharp business practices by landlords, who may seek, under a single brand, to register large numbers of individual properties or developments separately to try to evade—at least to some degree—the scope of regulation will be an ongoing challenge, and one that we already face in the buy-to-let market.
+
+15:30:00
+
+The Bill comes at a very helpful time given the rising diversity of different types of social tenure. I am referring in particular to the proliferation of different types of new housing associations, the development of local authority housing companies coming to this market, as well as the traditional housing revenue account social housing, which has been the bedrock of social tenancies for such a long time.
+
+I wish to share with the House an example from my constituency, which demonstrates why those elements of new clause 1 about the remedying of hazards and of new clause 2 about strengthening the powers of Government to issue guidance to providers can potentially make such a significant difference. I pay tribute to my constituent, Suzy Killip, a resident of Eastcote, who has worked extremely hard on behalf of neighbours, most of whom are social tenants, although not all, in a development that is managed by A2Dominion, a large housing association. My constituents have described their frustration at finding that complaints about substantial matters—including those relating to safety, the development of damp, the inappropriate or improper installation of equipment, for example ventilation in homes, the inadequate  installation of safety measures that were part of the planning consent on the development—are simply ignored. They feel this enormous sense of frustration that, under the current system where they, as residents of properties, are unable to bring these matters effectively to the attention of the landlord and get them remedied, they simply do not know where to turn. As a Member of Parliament representing them, I have experienced the same challenges when my letters have gone unanswered and ignored. I know that many of us in this House will have had similar issues relating to developments brought to our attention in our constituency surgeries.
+
+It is especially clear when some of the housing associations, some of the landlords, have close relationships with developers. There is often an incentive on the part of the management company not to address issues, particularly those that arise with new builds, because they are concerned about the impact that it may have on their longer-term relationship as a business with that organisation.
+
+Suzy Killip describes to me a situation where there has been a long-standing failure to address issues of damp, including in properties occupied by children and young people, as well as by people suffering from health problems, for whom the damp contributes to the seriousness of their ill-health. There are also issues with drainage that are causing unpleasant smells and the risk of foul water coming back into people’s homes. Then there is the community centre that was much praised as the flagship of the development, which is still not in use 13 years after Hillingdon Council granted consent on what was a former Ministry of Defence site for an intended model development. That is as a result of a landlord who is simply not willing to engage with the people who are stakeholders and who therefore needs to be held to account by strengthened guidance.
+
+We also see—I know that this is very common in planning departments in London local authorities—a greater enthusiasm for the “safer by design” theory. This is the idea that, by building in effective security measures into the structure of developments, we can reduce the impact of crime and antisocial behaviour. We have already heard Members talking about the impact that it may have on people needing to move home because of the risks that they experience. For those facing a situation where a landlord should have included those safer by design elements—perhaps they have been funded to, or have been granted planning consent on condition that those elements were included in the property but have not been—we need to ensure that there is a greater degree of rigour. In my view, new clauses 1 and 2, particularly that point about guidance—the detail of that guidance will be important—offers us a serious opportunity to make progress on that.
+
+Will the Minister give an assurance on the issue of the brands of landlord who separately register sites, including quite large sites, under separate ownership? That is something that we see across all types of different businesses, it is not an uncommon practice, and there are often perfectly legitimate and appropriate reasons for doing it. However, I can certainly see A2Dominion, which is a sole social housing provider and which gives rise to almost all the complaints that I receive about social housing in my constituency, beginning to pop up in other places. I want to be assured that, having implemented effective new guidance—codes that have teeth and effective powers for Government—we will not then find that, somehow, the rogue landlords are slipping out around the corners. I know that Ministers have been enormously keen to address that, and my constituents would be especially grateful to receive such an assurance, as it is at the forefront of their concerns.
+
+That said, this is an extremely welcome Bill. I understand that there is some debate to be had about amendments to and fro, but it moves us into a much stronger position. The inspection of local authorities envisaged in the Bill would bring a degree of focus and clarity to what their role is in respect of different types of housing tenure. From my experience as a councillor in a local authority, where we went through the process of acquiring properties with the intention of making them fit for purpose for social tenancies, I can certainly say that all sorts of issues will often emerge through that process. Historically, there has not been an effective framework against which to set a rigorous inspection or through which to seek effective redress where problems have arisen. So often in the past, it has simply been a matter of opinion rather than something that can be found in guidance or clearly in legislation.
+
+For all those reasons, I commend the Minister and the Secretary of State, who is now here, for the work that has been done on the Bill. It will be a big step forward in providing a much safer and more secure environment and the ability to remedy problems when they occur. Many tenants across the country would like to expect that as a right but sadly, in too many cases, it is still not provided by landlords, despite the fact that those landlords receive substantial amounts of money for the homes that they provide.
+
+Rebecca Long Bailey (Salford and Eccles) (Lab)
+Greater Manchester and, indeed, the rest of the country was shocked and horrified by the tragic death of Awaab Ishak in Rochdale. His little lungs had been exposed to deadly damp and mould in the flat that he lived in with his family. They battled against it for a number of years, and even filed disrepair claims against the housing association. I think we are united in this House that, in one of the richest economies in the world, that should never have happened. I cannot imagine the pain and heartache that Awaab’s family must feel every single day. Today, we embark on the first step towards making sure that no family should ever have to experience what they have experienced.
+
+My hon. Friend the Member for Rochdale (Tony Lloyd) cannot be with us in person owing to his ongoing treatment, but it should be noted that he has worked relentlessly with campaigners, with Government and with me and other colleagues across the House to ensure that the robust amendments needed to the legislation were made to honour Awaab’s name and ensure the health and safety of all social housing tenants.
+
+I also thank the amazing organisations that have been the ultimate driving force of the Awaab’s law campaign: the Ishak family, their legal team, the Manchester Evening News and change.org for spearheading the campaign, and Shelter and Grenfell United for committing such energy, compassion and knowledge.
+
+Very briefly, the campaign has four clear asks: to require social landlords to investigate the causes of damp and mould within 14 days of complaints being made, and report findings to tenants; to give social landlords seven days to begin work to repair a property where a medical professional has flagged a risk to health; to ensure bids for new social housing properties are treated as a high priority if a medical professional has recommended a move; and to mandate social landlords to provide all tenants with the information that they need, in simple English and other languages, on their rights, on how to make a complaint and on what standards they can expect.
+
+I thank the Secretary of State, the Minister and their team for speaking directly with the Ishak family, with campaigners and with my hon. Friend the Member for Rochdale and me, and for tabling new clauses 1 and 4, which help towards those key goals. Indeed, new clause 1 provides that the Secretary of State “must make regulations” that ensure that landlords have to remedy hazards such as mould and damp in a timely fashion. Although I appreciate that the Government want to consult on the final form of those regulations, I cannot stress enough that they must include provisions, as the Awaab’s law campaign set out, to set clear minimum safety standards, clear minimum timeframes for remedying any hazards, and an urgent priority move if the property is found to be unsafe. I am confident the Secretary of State will agree those are not unreasonable requests, and I hope that he will work hard throughout the consultation process to ensure that they are reflected in the final regulations.
+
+I also support the amendments tabled by the shadow Minister, my hon. Friend the Member for Greenwich and Woolwich (Matthew Pennycook), which seek to strengthen new clause 1 by protecting tenants from repercussions when calling on the new obligations, and by expanding court powers. I welcome, too, that Government new clause 4 gives direction that registered social housing providers must provide their tenants with information about their rights in making complaints. That is good, but it does not specifically commit to ensuring wider language accessibility. I trust that the Secretary of State and the Minister will address that point in the regulations.
+
+In complement to the Awaab’s law campaign, I also support new clause 6, which embodies Greater Manchester Law Centre’s calls to make social housing providers subject to freedom of information requests. Without that change, social housing providers can and have refused to be transparent about important elements of their business practices, even though they are receiving public money in rent and support.
+
+I also support new clause 5 and Government amendment 47 which detail that social housing managers must gain professional qualifications to protect residents and raise standards in the sector. That is a commitment that many have wanted to see since the Grenfell tragedy. I also support new clause 8, tabled by my hon. Friend the Member for Mitcham and Morden (Siobhain McDonagh) as chair of the all-party parliamentary group for households in temporary accommodation. The new clause would enable the regulator to set standards for supported and temporary accommodation. I know that my hon. Friend will speak at length about that in due course, but it is an important change. I am a member of the all-party group, and research that the group commissioned, led by Justlife and the Shared Health Foundation, found widespread and horrific examples of the conditions in which temporary accommodation residents were forced to live. In many cases, their accommodation was not fit for human habitation but they were frightened to say anything about it because of the risk of being made homeless. That is unacceptable.
+
+I hope that the House will support all those amendments today, continuing the productive cross-party ethos that has been embodied in the passage of the Bill. It is important to state, however, that this legislation is one small element in a national moment of reckoning on the state of rented housing in this country. Citizens Advice suggests that more than half of private renters in England are struggling with damp, mould, excessive cold or a combination of those factors. Some 1.6 million of those affected are children. Private renters do not have access to the housing ombudsman for their complaints to be investigated independently, so millions of suffering families have no voice. They are trapped in homes that will ultimately put their lives at risk. I ask the Government to urgently introduce an equivalent Awaab’s law for the private rented sector alongside an urgent, state-funded, national housing mission to build new social homes and bring existing ones up to a decent standard.
+
+Helen Hayes (Dulwich and West Norwood) (Lab)
+I rise to speak in support of new clause 7. First, I want to put on the record my role as a vice-president of the Local Government Association.
+
+New clause 7 would protect the tenancy rights of social housing tenants who have to make an emergency move from their home because they or a member of their household are threatened with violence. It would be a small change in the law, but it would make a big difference. Losing the right to a secure, affordable home is a price that no one should have to pay for being a victim of crime. Yet that is what happens to far too many people who have to make an emergency move because the police say that it is not safe for them to stay in their home.
+
+It is what happened to my constituent Georgia, an NHS employee, who had been very happy living in her housing association home with her children for nine years. One day, neighbours told Georgia that while she was at work, there had been loud banging on her door at home. She eventually coaxed her teenage son into telling her that he had been threatened by gang members. Georgia reported that to the police who told her that the matter was extremely serious, that they thought her son’s life was now at risk and that she needed to leave her home immediately. So Georgia approached her local council who provided temporary accommodation in another borough. At that point, Georgia effectively joined the bottom of the housing waiting list.
+
+The current priority needs system does not automatically award high priority for being a victim of a threat of violence. In the context of an intense shortage of social housing, that meant that Georgia effectively faced a wait of many years to be offered a new home comparable to the one she had been forced to leave. In the meantime, after she had been in temporary accommodation for six months, her housing association began the process of formally ending her tenancy.
+
+15:45:00
+
+Georgia’s whole life and the lives of her children were turned upside down—just because her son had been threatened, through no fault of the family. In the end, following my intervention, Georgia was offered another tenancy by her housing association, but not before she and her family had suffered devastating and long-lasting consequences as a result of the destabilisation of their lives.
+
+New clause 7 would protect the tenancy rights of social tenants who face circumstances similar to Georgia’s by requiring their council or housing association to offer an equivalent tenancy in an area that is safe for them, as soon as one becomes available. It would also create a duty for social housing landlords to co-operate in the event that a tenant’s current landlord did not own homes in an area in which it was safe for the tenant to live.
+
+Georgia’s law is supported by the National Housing Federation and Shelter. I am also grateful to MPs from the Labour, Conservative, Lib Dem and Green parties who have shown their support for the change since I first introduced it under the ten-minute rule a year ago. I am grateful to the Minister for giving consideration to Georgia’s law in Committee, but I am deeply disappointed that the Government are refusing to support it today.
+
+The Government’s main argument has been that Georgia’s law would interfere with the system of priority need and result in homes not being allocated to those in the greatest need, but that is based on a misunderstanding of how it would operate. The beneficiaries of Georgia’s law are already social housing tenants; they are not new tenants seeking to jump the housing queue. The homes that they have had to flee will be returned to their landlord to allocate to those in the greatest need on the housing waiting list.
+
+Far from increasing the burden on the social housing system, Georgia’s law would prevent a whole cohort of people from spending long periods of time on the housing waiting list. Temporary accommodation is extremely expensive, so by ensuring that a group of people who are already social tenants can remain in social housing, Georgia’s law would also save public money. It would not be a radical change in the law, because the best social landlords are already modelling good practice in this area.
+
+The chief executive of one large housing association recently contacted me proactively to support Georgia’s law in some detail. They said that
+
+“we have seen first-hand the devastating impact that violence, in particular violence affecting young people, can have on the families and communities that we serve.
+
+Our Empowering Futures Team works with partner organisations and the local community to help tackle the causes of violence that affect young people. However, as Georgia’s Law so importantly highlights, too many families are forced to flee their homes and local communities due to the threat of gang related violence...our internal transfer policy gives high priority to residents at risk of violence or abuse. Our local Housing Managers work with residents to support them through the transfer process and to ensure they receive the wrap around support they, and their families, require.
+
+We work with other social landlords to seek reciprocal arrangements if we do not have a home in the area best suited to the resident. We also work in partnership with Safer London, whose Pan London Housing Reciprocal supports Londoners who are at risk of abuse or violence in their borough. Since 2017 the programme has facilitated 227 moves, with 517 children and adults having moved to safe, secure homes.
+
+While we do as much as possible to ensure that any...resident forced to leave their home maintains their secure tenancy, we welcome the legislation you are proposing, which would implement legal protections and more formal processes. This would ensure local authorities and social landlords work in collaboration to ensure no social housing resident is made homeless due to the risk of violence to them or their families.”
+
+Georgia’s law simply proposes that that good practice should be required from all social landlords.
+
+Serious violence, and the threat of serious violence, is a scourge on those communities, particularly when it affects young people. We have a responsibility in this place to do everything possible to prevent serious violence, to limit its harms and to support those who are affected to recover and get their lives back on track. We must act to limit the harm whenever we have the opportunity to do so. Voting for Georgia’s law today is one such opportunity. It would help families who have suffered the significant trauma of having to flee their home to resettle and move on with the safety and security of a social housing tenancy. It would enable our housing system to be part of a public health approach to tackling serious violence. It would make a real difference to families such as Georgia’s, and it would stop a terrible injustice, because no one should become homeless because they or their child are threatened with violence.
+
+It is regrettable that the Government have chosen to not support Georgia’s law. I urge the Secretary of State and the Minister to think again today, and I commend new clause 7 to the House.
+
+Helen Morgan (North Shropshire) (LD)
+I apologise to you, Mr Deputy Speaker, and to the hon. Member for Dulwich and West Norwood (Helen Hayes) for mishearing the names earlier. I add my support for Georgia’s law, and draw the attention of the House to the fact that I have recently been appointed as a vice-president of the Local Government Association.
+
+I rise to speak to new clause 9 and amendments 41, 42 and 43, which stand in my name. On Second Reading, I put on record that my Liberal Democrat colleagues and I welcome the Bill. We will be supporting it, despite the fact that it has taken a long time to arrive, and we also broadly welcome the amendments tabled by the Government today. The amendments that I have tabled and will speak to today are intended to improve the legislation in the spirit of co-operation, and to ensure that there is fairness and accountability for people living in social housing and that, ultimately, everyone has a decent and safe home to return to at the end of each day.
+
+Data from Shelter estimates that there are over 270,000 homeless people in the UK, and that a significant cause of those cases is a lack of social housing provision. Tragically, many people who become homeless find that there are no available social homes, and are often placed on long waiting lists for safe, permanent accommodation. Sometimes, they have nowhere to turn to other than charities, relatives or, indeed, their local Member of Parliament. Housing issues are one of the biggest and, frankly, most upsetting topics in my casework, and I know that my experience is not unusual among colleagues.
+
+Amendment 41 would give the regulator the additional objective
+
+“to safeguard and promote the interests of persons who are or who may become homeless”
+
+due to a lack of social housing provision. On its own, that measure would not eradicate homelessness, but it would create an additional focus on finding a solution to what is an unacceptable situation. This country has a chronic shortage of social housing, which is forcing families to live in dangerous and unsuitable conditions. Just this week, while I was out canvassing in my constituency, I chatted on the doorstep to a lady whose daughter uses a wheelchair, but they do not have any level access to their house. Her need has been assessed and she is in the gold band, at the top of the list for an alternative, but there is simply nothing available in North Shropshire at the moment that meets her family’s requirements. I have been dealing with a similar situation in relation to a constituent with breathing difficulties whose flat has just been treated for mould. Again, she has been given the right priority for a move with her family, but no suitable alternatives are available.
+
+With nearly 1.2 million people on social housing waiting lists, it is not surprising that we all have examples in our casework such as those I have cited. I have spoken previously in this place about ensuring that when social housing is sold under the right to buy, the housing association or local authority receives 100% of the sale proceeds, in order to increase the likelihood of maintaining social housing stock at at least current levels. Such an amendment would be outside the scope of today’s Bill, but amendment 42 would require the regulator to provide a report to the Government about the adequacy of social housing stock, and to
+
+“make recommendations to the Secretary of State on how to ensure that the provision of social housing is…sufficient.”
+
+It would mean that this House has the opportunity to understand the state of our social housing stock, and to hold the Government of the day to account in ensuring that that stock is adequate.
+
+Amendment 42 would also require the regulator to report to Government on progress with the removal of cladding and, again, make recommendations to ensure that progress is finally being made on that critical issue for people living in social housing. The tireless campaigning by so many after the Grenfell tragedy is the reason we are all here today debating this Bill. In my view, the Bill is a good opportunity to make sure that the necessary steps are being taken to ensure that social housing is safe and that progress is properly scrutinised. I do not think that these measures are onerous in nature. They would provide valuable information to the Government, and I hope that the Minister will consider accepting amendment 42, which I intend to move formally later.
+
+Moving on to amendment 43, I note that in its current form, the Bill presents a discrepancy in notice periods before the Regulator of Social Housing conducts a survey. The registered provider of the premises is granted 48 hours, while the tenant is given a notice period of only 24 hours. Amendment 43 would ensure that registered providers and occupiers of the premises were treated equally. A similar amendment tabled by colleagues in the other place had cross-party support. The amendment would help to ensure parity in the relationship between tenant and housing provider and would not place an additional onerous requirement on any party, so I urge the Minister to consider adopting it.
+
+The Bill has been brought forward as a result of the terrible tragedies at Grenfell and, more recently, the harrowing death of Awaab Ishak. I welcome the Secretary of State’s intention to prevent a repeat of such incidents in the future. New clause 9 would allow the Government to ensure that the Bill achieves its objectives and improves the safety and quality of social housing both in its own terms and in comparison with the safety and quality of housing in the private rented sector. I echo the comments of the hon. Member for Salford and Eccles (Rebecca Long Bailey) on that point. The new clause provides an opportunity to identify areas for improvement and unforeseen consequences of a change in the regulatory environment.
+
+My Liberal Democrat colleagues and I welcome this legislation. We fully support the objective of empowering those living in social housing to ensure that their homes are decent and safe, and we have put on record our view that we would have liked to have seen the Bill sooner. I urge the Government to adopt new clause 9 and amendments 41, 42 and 43. It is my view that they would improve the legislation in a manageable way and ensure that we improve not only the condition, but the availability of social housing and that we hold the Government of the day to account in making these improvements happen in reality.
+
+Siobhain McDonagh (Mitcham and Morden) (Lab)
+I rise to support new clause 8, which stands in my name and that of a number of other Members. The amendment is simple. It would make the regulator responsible for ensuring that local authorities enforce the homelessness code of guidance for temporary accommodation. It proposes that local authority housing departments are inspected in the same way as schools and children’s social services departments are inspected by Ofsted to ensure that the standard required by the guidance is being met and that families who have been accepted as homeless, but cannot be placed in a permanent home due to shortage, are provided with suitable temporary homes.
+
+Temporary accommodation is defined formally as being provided to people who are either awaiting the outcome of a homelessness application under section 188 of the Housing Act 1996 or waiting for an offer of suitable permanent accommodation. I find it hard to believe that any Member of this House who represents a constituency in London, the south-east, Manchester, Birmingham or Newcastle is not aware of the sort of accommodation in which homeless families are often placed in an emergency. With access to permanent social housing and private rented properties at an all-time low, councils are under extreme pressure to find temporary accommodation. The best national estimates we have are that around 1.6 million households are waiting for social housing. Over the past 40 years, the overall social housing stock has declined by 1.4 million homes.
+
+In my authority of Merton—not known for being under the extreme pressure of other London boroughs—last year the council only had 72 two-beds, 34 three-beds and two four-bedroom units to offer all year. At the same time, the number of families in temporary accommodation has risen by 41% since April, from 243 to 343 households. Merton is not alone or unusual. Most London boroughs count their homeless families in temporary accommodation in the thousands. Tonight, there will be 99,270 families, including 125,760 children, sleeping in temporary accommodation at a massive cost of £1.6 billion. That is an increase of 71% between 2012 and 2018, and a further increase of 41% between 2018 and 2022. Hard-pressed local authorities are seeking out ever more temporary accommodation that is uninspected and further away. The code of guidance specifies the nature and location of temporary accommodation. We all know that those are laudable aims, but they are not being met.
+
+Throughout my speech, I will provide examples of where the code of guidance has specific standards that are not being met in practice. I want to make it clear that I do not blame councils for the situation they find themselves in. They are in a bind: they do not have access to enough social housing units, their funding has been consistently cut, they do not have access to the number of environmental health officers they need, and they have a never-ending list of homeless families that they are desperate to house. This is a toxic mix with tragic consequences.
+
+16:00:00
+
+What bigger reason to act could there be than the number of children who have died in temporary accommodation? The all-party parliamentary group on temporary accommodation, using data from the national child mortality database, found that between 2019 and 2021 temporary accommodation was a contributing factor in the deaths of 34 children. Most of the children who died were under one. The most likely cause is a lack of safe sleeping provision, such as cots. In the fifth largest economy in the world, children are dying due to a lack of access to cots.
+
+Other explanations were damp and mould growth or overcrowding. These conditions are prohibited under paragraph 17.17 of the homelessness code of guidance, which states:
+
+“Attention should be paid to signs of damp or mould”.
+
+How can signs of damp or mould be detected when the premises that homeless families are put in are not inspected?
+
+Those tragic statistics are a conservative estimate. Of the child deaths reported between 1 April 2019 and 31 March 2022, there are at least 200 individual records where homelessness or living in temporary accommodation was recorded as present for the child, their mother or in their family life at some stage. These deaths were preventable, and they are unacceptable.
+
+In fact, the Children’s Commissioner for England has described much of the temporary accommodation into which children are placed as
+
+“simply inappropriate places for a child to be growing up.”
+
+That is the reality for 125,760 children living in temporary accommodation. For example, one mother stated:
+
+“I was discharged from hospital having given birth the day before into a hostel where I was the only woman. I was there with a new born baby, no cot, no nappies, and surrounded by men who had their own issues. It was very scary. I had left a relationship because of violence to keep my baby safe and I was in a really unsafe place.”
+
+That is a clear breach of the code of guidance, which states in paragraph 17.6 that considerations should be given to the “risk of violence”.
+
+Beyond the unacceptable conditions that we are housing children in, a general state of disrepair is widespread in temporary accommodation. For instance, one resident said:
+
+“It’s worse [than] a nightmare. The house is almost 50 staircases without lifts, cockroaches, and mice. I fell severely when I was pregnant. Leaking, damp, roof touching our head, tiny rooms, we sleep on the ground.”
+
+That is a breach of multiple parts of the code of guidance. Another resident said:
+
+“We have had three fires since I’ve lived here. All related to dodgy wiring.”
+
+Needless to say, electrical equipment that does not meet the requirements is prohibited under paragraph 17.14 of the guidance. The resident also says that they
+
+“cannot get repairs done through Council as it is out of borough”.
+
+That leads me to my next point. One of the biggest problems with temporary accommodation, aside from the poor conditions and the disrepair, is the location. People are often sent miles away from home, without the new local authority even being notified of their arrival. At the end of June 2022, 26,130 households were in temporary accommodation in a different local authority area from the one to which they had applied. Those 26,130 households are further away from their family, friends, schools, jobs, church, synagogue or mosque—everything that keeps them safe.
+
+The impact is particularly bad for children who are about to take exams. Imagine if your son or daughter were in year 11 or year 13, about to take their GCSEs or A-levels, and you could not get them to school because you were hundreds of miles away from home. No local school would accept your child at that stage in their education. That is another breach of the code of guidance, paragraph 17.53 of which states that councils should be
+
+“minimising the disruption to the education of children and young people…at critical points in time such as leading up to taking GCSE (or their equivalent) examinations.”
+
+That is clearly not happening in practice.
+
+I do not mean to criticise local authorities for these failures. In nearly all cases, councils are doing their best, but they are in a bind because they are under incredible pressure. Children experiencing housing instability are seeing their social relationships broken. Their academic performance is poor, their access to healthcare is limited and they are more likely to be psychologically distressed.
+
+David Simmonds
+The hon. Lady refers to securing children’s education during a move. I have constituents who have moved into the area, often after fleeing violence in other places, for whom that has been an issue. Does she agree that the proposed regulation of multi-academy trusts might be able to address that? At present, local authorities do not have any powers to direct an academy to take a child in order that they can sit examinations. If we restored that power to local authorities or introduced such a requirement on academies as an element of inspection, it would at least guarantee that parents who have to move could find a school in the new area at which their child could sit their GCSEs or A-levels.
+
+Siobhain McDonagh
+I would have no problem with changing the rules for multi-academy trusts, but I do not think that that alone would resolve the difficulty. Most schools would be loth to take a child in year 11 or year 13 because they would be in the second year of their exams and the curriculums would not match. Schools of all statuses are concerned about their performance.
+
+The 26,000 families I described are forced to travel an estimated 400,000 miles each year to access temporary accommodation—the equivalent of going 16 times around the globe. On one day at the civic centre in my constituency, the only temporary accommodation that could be offered to families was in Telford, 170 miles away from their home borough, and that is not unique. How can someone possibly start putting their life back together when they are 170 miles away from the borough they have been living in? And that was in Merton, which does not have the same problems as other London boroughs.
+
+Across the UK, as I said, the total temporary accommodation expenditure has reached £1.6 billion, of which three quarters was funded by housing benefit. That is not money well spent. If we moved each family out of temporary accommodation and into social rented housing, we would save £572 million a year. As the Public Accounts Committee put it, not only is temporary accommodation
+
+“often of a poor standard”,
+
+but it
+
+“does not offer value for money.”
+
+I am aware that the Government have supported the Bill promoted by the hon. Member for Harrow East (Bob Blackman), which would try to raise standards in exempt accommodation, but it is important to note that exempt accommodation is distinct from temporary accommodation. Exempt accommodation provides accommodation with extra support for more marginalised groups such as recent prison leavers, care leavers, those fleeing domestic violence and homeless people with substance dependence or mental health issues. Exempt accommodation is a problem of its own, with landlords exploiting the housing benefit system to profit from vulnerable people, but it should be noted that temporary accommodation is different. It represents people who are either awaiting the outcome of a homelessness application under the 1996 Act, or awaiting an offer of suitable accommodation.
+
+I will finish by saying that, after nearly 30 years of Ofsted, we know that unless a school knows that Ofsted is coming, problems begin. A substantial proportion of outstanding schools that were not inspected for five years have recently been graded as needing improvement. Organisations—the best organisations—need to know that somebody is coming, and in a reasonable time. The same is true of councils that are meant to be ensuring that the standards and code of guidance are met. The Government clearly think that schools and children’s social services departments should be independently inspected. What is different about temporary accommodation for homeless families? The Government provide a national curriculum for schools. They do not just say, “That’s okay—I’m sure the curriculum is being followed.” They actually check to see that it is happening. We can talk about what we are going to introduce, such as different pieces of guidance for councils, but unless local authority housing departments are inspected in the same way that schools and children’s social services departments are, we can never expect the standards in temporary accommodation to be safe.
+
+Mike Amesbury (Weaver Vale) (Lab)
+I welcome the opportunity to speak again on this important Bill. I do so as a vice-president of the Local Government Association, and as a former shadow Housing Minister.
+
+I would like to focus my remarks on the amendments relating to inspections. I also want to reiterate the importance of tenant empowerment, on which the shadow Minister, my hon. Friend the Member for Greenwich and Woolwich (Matthew Pennycook), and the Minister spoke eloquently. I think it is clear that, across the House, this legislation is considered to be highly significant, highly needed and certainly long overdue.
+
+I welcome, as do other Members across the House, the constructive approach to the Bill, which will address the issues that matter to local authorities, housing associations, residents and, vitally, tenants. It will improve their access to swift and fair redress through stronger and more proactive consumer and citizen regulations. I hope that the cross-party work with key stakeholders will ensure that the Bill is effective and addresses the real issues of tenants, including through the professionalisation of housing management in the social housing sector. A number of new clauses and amendments in that regard have cross-party support.
+
+I have said throughout the progress of this Bill that it is the voices of tenants and residents that should take centre stage. It is vital that we have a system of social housing regulation that puts the rights and interests of residents at its heart, and that deals with the historical stigma that social tenants have faced for years, as was highlighted by Grenfell United, by Shelter and, in tragic circumstances recently, by Awaab’s family.
+
+Like the shadow Minister, my hon. Friend the Member for Greenwich and Woolwich, I would like matters to go further, to empower tenants and ensure that their voices will never again go unheard. I was disappointed, as was my hon. Friend, that the Government rejected a number of amendments in Committee. I therefore strongly support amendments 36 and 37 and new clause 6, tabled by my hon. Friend, which would ensure that much-needed representation of tenants on the advisory panel.
+
+16:15:00
+
+On the need for regular inspections, although I am pleased with the intentions of the Bill, it is another aspect that needs to go further to ensure that we do not fail tenants and residents. Residents are at risk of being failed whether their landlord is a provider of more than 10,000 houses or fewer than 1,000. Therefore, it is essential that the Bill ensures that every registered provider will be subject to routine inspections, as has been argued across the Chamber, particularly on the Opposition Benches.
+
+Mr Clive Betts (Sheffield South East) (Lab)
+The Levelling Up, Housing and Communities Committee held an inquiry into social housing regulation. I think we are waiting for a Government response to our report from several months ago, although we have had one from the housing ombudsman and the regulator. It was far from clear whether inspections by the regulator will go further than simply inspecting the framework of the organisations, instead going into properties and looking at what is done. The regulator had not quite taken that step in its response.
+
+Mike Amesbury
+As always, I have the utmost respect for the Chair of the Select Committee, and I look forward to the Minister’s reply on that powerful and informed point.
+
+We are in a social housing crisis. Tenants deserve so much better—the very best public housing that this country could provide. That is where we should be going, whether the Government of today or a Labour Government in the not-too-distant future. Tenants deserve so much better. We should not hold back when it comes to the safety, health and wellbeing of tenants and residents. We must make the most of the Bill and act collectively with key stakeholders so that we do not have a repetition of the disasters of the not-too-distant past, such as the 72 people who lost their lives in the Grenfell tragedy and the most recent tragic death of Awaab, which has been referred to across this Chamber—my heart goes out to his family.
+
+Everyone should feel safe in their home. It should be a place of sanctuary, not anxiety and worry. Let us not waste this opportunity as the Bill goes through its passage in the House. Let us be bold. Let us work together in this place.
+
+Dehenna Davison
+With the leave of the House, I will try to address the concerns raised by Members across the House. First, I thank hon. Members with all sincerity for their thoughtful and considered debate, not just today but throughout the passage of the Bill. We have dealt with things in a constructive manner, ultimately to try to strengthen the Bill to its fullest extent and provide the maximum protection for social housing residents.
+
+I will seek to answer as many questions as I can, starting with Awaab’s law. I am grateful to the hon. Member for Salford and Eccles (Rebecca Long Bailey), my hon. Friend the Member for Heywood and Middleton (Chris Clarkson), and the hon. Member for Rochdale (Tony Lloyd), who is not here today, for their constructive engagement following the devastating case of Awaab, which touched them and many of us in this House incredibly personally.
+
+I thank the hon. Member for Greenwich and Woolwich (Matthew Pennycook) for amendments (a) to (f) to Government new clause 1 relating to Awaab’s law. However, we are clear that our current proposals already sufficiently achieve what the hon. Member is seeking to do. Prescribed requirements are already defined in new clause 1 and therefore do not need to be defined in the alternative way proposed. Moreover, new clause 1 already gives us the power to make provision ensuring that social housing providers’ duty to meet requirements cannot be overridden or circumvented by the terms of the lease. We also think it important to be able to make provision enabling the landlord to inspect the property to ascertain whether there are any hazards present, provided reasonable notice is given if it is to be under an obligation to rectify prescribed hazards.
+
+As I have made clear, we will consult on Awaab’s law within six months of the Bill achieving Royal Assent. The consultation will inform the detail of the regulations that the Secretary of State will set for Awaab’s law, including timescales and details on the prescribed hazards themselves. I hope that will reassure the hon. Member for Salford and Eccles, who raised concerns on that point. I reiterate the importance of setting requirements that deliver the best outcomes for residents, while being achievable, proportionate and evidence-based. I assure the House that with new clause 1, landlords will have no choice but to comply with new regulations and to take action to ensure homes are free of hazards that pose health risks to their residents. I therefore hope the hon. Member for Greenwich and Woolwich will withdraw his amendment.
+
+On professionalisation, on which many Members expressed their concerns and passion, I am incredibly grateful for the broad support across the House for our amendment. I believe our approach is the right way to drive up professional standards in the sector, but we will of course carry out further engagement with the sector, including landlords, tenants and professional bodies, as we develop our approach to implementation. I hope that will reassure my hon. Friend the Member for Harrow East (Bob Blackman), who is no longer in his place but who raised that point earlier.
+
+New clause 6, tabled by the hon. Member for Greenwich and Woolwich, seeks to extend the Freedom of Information Act 2000 to registered providers of social housing. I am grateful to him, and to the hon. Members for Hammersmith (Andy Slaughter) and for Salford and Eccles for raising their concerns. I think we can all agree that increasing transparency in the sector is hugely important, but I do not believe that new clause 6 is necessary or advisable at this stage. Development of the access to information scheme, one of the Government’s commitments in the social housing White Paper, is already well under way. Through the scheme, private registered providers will have similar obligations as they would under the Freedom of Information Act. The tenants of providers, and their representatives, will be able to request information from their landlords in much the same way. I am also concerned—I am sorry to raise this point on another issue—that extending FOI to registered providers would increase the level of Government control exercised over the sector and may lead to the Office for National Statistics reclassifying housing associations. That is something we are incredibly concerned about.
+
+On new clause 7, relating to Georgia’s law, I want to put on the record my thanks to the hon. Member for Dulwich and West Norwood (Helen Hayes) for campaigning on this matter and for raising the really sad case of Georgia and her family. I am grateful to her for engaging with me in a really constructive fashion as we sought to find a middle road that the Government could accept in line with the new clause she is proposing. Unfortunately, we are unable to support it today, and I will explain why that is the case. I note the hon. Lady’s additions to bring assured tenancies within the scope of her new clause, but I reiterate my concern, raised in Committee, about the new clause itself—if not its intent, which I think we can all agree is incredibly admirable. I remain concerned that binding housing providers with policies that remove flexibility to choose who they give tenancies to is not the right course of action. Those decisions are devolved for good reason.
+
+Helen Hayes
+Does the Minister accept the facts of the situation, which are as follows: the tenants who would benefit from this provision remain social housing tenants for the first six months that they are in temporary accommodation? We really are not talking about a shifting of priority among people who are on the housing waiting list; we are talking about rehousing existing tenants. The home that they vacate would then become available much more quickly precisely for those people who are genuinely on the housing waiting list.
+
+Dehenna Davison
+The hon. Lady raises a really strong point. As I outlined, our concern is about removing flexibility from social housing providers. Every social housing provider and every area faces very different challenges. We want to ensure that they have the maximum flexibility to deal with those challenges. That is why, unfortunately, we cannot support new clause 7, but I thank her again for campaigning on this issue.
+
+New clause 8 was tabled by the hon. Member for Mitcham and Morden (Siobhain McDonagh), and I am grateful to her for meeting me to discuss her proposal further following Committee. I know how passionate she is about this issue, and her expertise has certainly brought a great deal to my knowledge and understanding of some of the problems faced by residents of temporary accommodation. She is right to say that we must drive up standards for all tenants, but what concerns me, as it did in Committee, is that this measure would be outside the scope of the Bill. We will certainly explore it with her to make sure that we drive up standards in temporary accommodation as well, but this Bill deals specifically with social housing, and we want to keep it tight to ensure that it achieves its desired aims.
+
+Amendments 36, 37 and 38 deal with the advisory panel that will advise the regulator on a wide range of matters relating to social housing. As I said in Committee, I do want to see tenants at the heart of the changes we are delivering through the Bill—I am firmly committed to that—but I do not necessarily think the amendments are the best way to achieve that. The purpose of the advisory panel is to provide independent and unbiased advice to the regulator. I believe the separate resident panel that we have established is better placed to share views directly with the Government and Ministers. Its members have been asked to tell us what they think about our approach to improving the quality of social housing, and whether our interventions will deliver the changes that they want to see. We think that our approach is the right one.
+
+A number of Members spoke about inspections, including the hon. Member for Weaver Vale (Mike Amesbury) and the shadow Minister, the hon. Member for Greenwich and Woolwich. The introduction of regular consumer inspections will be a key part of the proactive consumer regulation regime. It will strengthen the regulator’s oversight of the sector, ensuring that he or she can identify issues early and take effective action when necessary. The system that we propose will be based on a robust risk profile, ensuring that when landlords are at the greatest risk of failure, or when such failure would have the greatest impact on tenants, they are subject to greater oversight. As the shadow Minister knows, we have already amended the Bill to require the regulator to publish, and take reasonable steps to implement, a plan for regular inspections. When developing the plan, the regulator will engage closely with the sector, including tenants, and it is right that we do not pre-empt that process.
+
+Let me turn briefly to amendment 41, tabled by the hon. Member for North Shropshire (Helen Morgan). The Government are absolutely committed to preventing homelessness. Significant work has already been done to address this important issue, including the publication of the Government’s bold new strategy “Ending rough sleeping for good”. We are investing £2 billion in measures to deal with homelessness and rough sleeping over the next three years, and our work in this area is already making an impact. Since the introduction of the Homelessness Reduction Act 2017, more than half a million households have been helped to move into secure accommodation. I cannot accept the amendment, as I believe that the existing legislation can achieve the outcome that the hon. Lady is seeking.
+
+Mr Betts
+In an earlier intervention I mentioned the Select Committee’s report and the fact that we are still waiting for a Government response, several months later. One of the issues that arose was the need to address problems such as damp and mould in properties. Some housing associations and councils will need to regenerate whole estates substantially and probably rebuild them, but in doing so they will be hit by Homes England’s “no net additionality” rule. Homes England cannot fund any scheme that replaces poor homes with good ones if more homes are not provided. Will the Minister agree to look into that? It can be an obstacle to many important ways of addressing these problems.
+
+Dehenna Davison
+I am grateful to the hon. Gentleman for raising this issue, and for bringing his intense expertise to the debate. I will certainly do that, and I will chase up the response to the Select Committee’s report as well.
+
+My hon. Friend the Member for Ruislip, Northwood and Pinner (David Simmonds) also brought considerable expertise to the debate, and I thank him for his support for the Bill. He asked about unscrupulous providers seeking loopholes. I hope I can reassure him by saying that we have deliberately designed the Bill to tighten the existing economic regulatory regime in order to prevent new types of provider from taking advantage of possible loopholes in the system and to ensure that we are future-proofing it against such issues.
+
+I would like to thank hon. Members across the House who have spoken here today and particularly those who have been involved in the earlier stages of the Bill. Cross-party, this shows that we are all committed to driving up standards in social housing and to empowering tenants to ensure that we never again see an incident like the tragedies of Grenfell and Awaab Ishak. Together we have strengthened the Bill substantially, and with our amendments today will do so even further.
+
+Question put and agreed to.
+
+New clause 1 accordingly read a Second time, and added to the Bill.
+
+New Clause 2
+
+Power of housing ombudsman to issue guidance to scheme members
+
+“(1) The Housing Act 1996 is amended as follows.
+
+(2) In the italic heading before section 51, for ‘complaints’ substitute ‘ombudsman’.
+
+(3) After section 51 insert—
+
+‘51ZA Power of housing ombudsman to issue guidance to scheme members
+
+(1) This section applies where a scheme is approved by the Secretary of State under Schedule 2.
+
+(2) The housing ombudsman may issue to the members of the scheme guidance as to good practice in the carrying on of housing activities covered by the scheme.
+
+(3) Before issuing, revising or replacing guidance under this section, the housing ombudsman must consult—
+
+(a) the Regulator of Social Housing,
+
+(b) members of the scheme, and
+
+(c) individuals who may make complaints under the scheme.
+
+(4) If the housing ombudsman issues, revises or replaces guidance under this section, the housing ombudsman must publish the guidance, the revised guidance or (as the case may be) the replacement guidance.
+
+(5) Subsection (7) applies if—
+
+(a) an individual makes a complaint against a member of the scheme,
+
+(b) the complaint is made under the scheme or the conditions in subsection (6) are met in relation to the complaint, and
+
+(c) it appears to the housing ombudsman that the complaint relates to a matter to which guidance issued by the ombudsman under this section relates.
+
+(6) The conditions referred to in subsection (5)(b) are that—
+
+(a) the complaint is made to the member of the scheme,
+
+(b) the complaint is one that the individual could subsequently make under the scheme, and
+
+(c) the individual has notified the ombudsman about the complaint.
+
+(7) The housing ombudsman may order the member of the scheme to—
+
+(a) assess whether the member’s policies and practices in relation to the matter mentioned in subsection (5)(c) are consistent with the guidance issued by the ombudsman under this section in relation to that matter, and
+
+(b) within a period specified in the order, submit to the ombudsman a written statement of the results of the assessment.
+
+(8) If a member of the scheme fails to comply with an order under subsection (7) within the period specified in the order, the housing ombudsman may order the member to publish in such manner as the ombudsman sees fit a statement that the member has failed to comply with the order.
+
+(9) If a member of the scheme fails to comply with an order under subsection (8), the housing ombudsman may—
+
+(a) take such steps as the ombudsman considers appropriate to publish what the member ought to have published, and
+
+(b) recover from the member the costs of doing so.
+
+(10) In this section, “the housing ombudsman” means the housing ombudsman appointed in accordance with the scheme.’”—(Dehenna Davison.)
+
+This new clause confers a power on a housing ombudsman to issue to scheme members guidance as to good practice in the carrying on of housing activities. The new clause also provides that in certain circumstances where a complaint is made against a scheme member the housing ombudsman may order the scheme member to assess whether its policies and practices in relation to a matter to which the complaint relates are consistent with the guidance.
+
+Brought up, read the First and Second time, and added to the Bill.
+
+New Clause 3
+
+Action after inspection
+
+“(1) The Housing and Regeneration Act 2008 is amended as follows.
+
+(2) In section 202 (inspections: supplemental), omit subsections (1) to (3).
+
+(3) In section 203(12) (definition of ‘inspector’), after ‘this section’ insert ‘and section 203A’.
+
+(4) After section 203 insert—
+
+‘203A Action after inspection
+
+(1) After an inspection of a registered provider is carried out by an inspector under section 201, the inspector must produce—
+
+(a) a written summary of the inspector’s findings, and
+
+(b) a written report about any matters specified by the regulator.
+
+(2) The summary and any report must be in the form specified by the regulator.
+
+(3) The regulator may specify matters, or the form of a summary or report, for the purposes of inspections generally or for the purposes of a particular inspection or description of inspection.
+
+(4) The regulator must give the registered provider a copy of the summary of the inspector’s findings.
+
+(5) The regulator must also give the registered provider—
+
+(a) a copy of the inspector’s report, or
+
+(b) a notice confirming that no matters were specified for the purposes of subsection (1)(b).
+
+(6) The regulator may publish—
+
+(a) all or part of the summary of the inspector’s findings,
+
+(b) (where relevant) all or part of the inspector’s report, and
+
+(c) related information.’”—(Dehenna Davison.)
+
+This new clause replaces and changes provision about what the inspector and the regulator must do after an inspection. It enables the regulator to determine whether the inspector must produce a report (rather than just a summary of findings) and, if so, what matters the report must cover.
+
+Brought up, read the First and Second time, and added to the Bill.
+
+New Clause 4
+
+Secretary of State’s duty to give direction about providing information to tenants
+
+“(1) The Secretary of State must give a direction to the Regulator of Social Housing under section 197(2A) of the Housing and Regeneration Act 2008 about setting a standard under section 194B of that Act (standards relating to information and transparency) for the purpose of securing that registered providers of social housing are required to provide their tenants of low cost rental accommodation with information about—
+
+(a) their tenants’ rights in connection with the low cost rental accommodation and with facilities or services provided in connection with that accommodation, and
+
+(b) how their tenants can make a complaint against them.
+
+(2) The Secretary of State must give the direction before the end of the period of six months beginning with the day on which this Act is passed.
+
+(3) In this section—
+
+‘low cost rental accommodation’ means accommodation which—
+
+(a) is low cost rental accommodation (as defined in section 69 of the Housing and Regeneration Act 2008) provided by a registered provider of social housing, and
+
+(b) is not low cost home ownership accommodation (as defined in section 70 of that Act);
+
+‘tenant’, in relation to low cost rental accommodation, includes other occupiers.”—(Dehenna Davison.)
+
+This new clause requires the Secretary of State, within 6 months of Royal Assent, to give a direction to the regulator for the purpose of securing that registered providers of social housing are required to provide their tenants of low cost rental accommodation with information about the tenants’ rights and about making complaints against their landlord.
+
+Brought up, read the First and Second time, and added to the Bill.
+
+New Clause 7
+
+Regulator duty to ensure continuity of secure and assured tenancy in cases of threat to safety
+
+‘(1) The Housing and Regeneration Act 2008 is amended as follows.
+
+(2) After section 92K insert—
+
+“92KA A Duty to ensure continuity of secure and assured tenancy in cases of threat to safety
+
+(1) Duty to ensure continuity of secure and assured tenancy in cases of threat to safety
+
+(a) a registered provider of social housing has granted a secure tenancy or assured tenancy of a dwelling-house in England to a person (whether as the sole tenant or a joint tenant), and
+
+(b) the registered provider is satisfied that there is a threat to the personal safety of that person or of a member of that person’s household which means there is a risk to their personal safety unless they move.
+
+(2) When subsection (1) applies, the regulator must ensure that the registered provider grants the tenant a new secure tenancy which is—
+
+(a) on terms at least equivalent to the existing tenancy; and
+
+(b) a threat of targeted youth or gang violence.
+
+(3) In this section, a “threat to personal safety” means any threat of violence, including in circumstances of—
+
+(a) domestic abuse where the perpetrator does not live at the same address as the victim;
+
+(b) an escalating neighbour dispute;
+
+(c) a threat of targeted youth or gang violence.
+
+(4) In assessing the threat under subsection (1)(b), the registered provider must act in accordance with any relevant police advice provided to—
+
+(a) the registered provider,
+
+(b) the tenant, or
+
+(c) any member of the tenant’s household.
+
+(5) In the event that a registered provider is unable to ensure the provision of an appropriate new secure tenancy pursuant to subsection (2), the regulator must ensure that the registered provider concerned co-operates with other registered providers to ensure an appropriate new secure tenancy is provided in a timely manner.”’—(Helen Hayes.)
+
+This new clause would require the regulator to ensure that tenants whose safety is threatened are granted alternative accommodation by their housing provider on equivalent terms to their existing tenancy. It also requires the regulator to ensure that a provider which is unable to provide appropriate alternative accommodation co-operates with other providers to do so.
+
+Brought up, and read the First time.
+
+Question put, That the clause be read a Second time.
+
+Division 180
+01/03/2023 16:32:00
+The House divided:
+Ayes: 179
+Noes: 273
+Question accordingly negatived.
+
+Clause 1
+
+Fundamental objectives
+
+Amendment proposed: 42, page 1, line 10, at end insert—
+
+“(2) In section 92K of the Housing and Regeneration Act 2008 (fundamental objectives), after subsection (3) insert—
+
+‘(3A) In undertaking its objective under subsection (2)(b) the regulator must report to the Secretary of State at least every three years on whether the provision of social housing in England and Wales is sufficient to meet reasonable demands, and must make recommendations to the Secretary of State on how to ensure that the provision of social housing is so sufficient.
+
+(3B) The Secretary of State must lay before Parliament a copy of any reports prepared by virtue of subsection (3A).
+
+(3C) In undertaking its objective under subsection (3)(a) the regulator must report to the Secretary of State on the progress of the removal of unsafe cladding and the remediation of other fire safety defects in social housing, and may make recommendations to the Secretary of State on further action required.’”—(Helen Morgan.)
+
+This amendment would include in the regulator’s objective a requirement to report to the Government on the removal of cladding. It would also require the regulator to report to the Government on the adequacy of the stock of social housing, and lay a copy of any such report before Parliament.
+
+Question put, That the amendment be made.
+
+Division 181
+01/03/2023 16:46:00
+The House divided:
+Ayes: 180
+Noes: 273
+Question accordingly negatived.
+
+Clause 12
+
+Moratorium on disposal of land
+
+Amendments made: 4, page 11, line 30, leave out
+
+“with the day after the day on which”
+
+and insert “when”.
+
+This amendment changes the starting point of the moratorium so it begins when an insolvency event occurs, as opposed to the day after the event occurs.
+
+Amendment 5, page 12, leave out lines 5 and 6 and insert—
+
+“(d) a notice of the appointment of an administrator of the provider under paragraph 14 or 22 of Schedule B1 to the Insolvency Act 1986 is filed with the court under paragraph 18 or 29 of that Schedule;”.
+
+Where there is an appointment of an administrator of a private registered provider, this amendment provides for the moratorium to start when the notice of appointment of the administrator is filed with the court (as opposed to when the appointment is made).
+
+Amendment 6, page 12, line 41, at end insert—
+
+“(eb) in subsection (3), for the words from ‘period,’ to the end substitute ‘period if—
+
+(a) the regulator has made reasonable enquiries with a view to locating secured creditors of the registered provider, and
+
+(b) where the regulator located one or more such creditors, each of them has consented to the extension.’;”.
+
+This amendment amends the provision which enables the regulator to extend a moratorium to make it clear that the regulator can do so where the regulator has made enquiries but has been unable to locate any secured creditors of the registered provider (as well as where secured creditors have been located and agreed to the extension).
+
+Amendment 7, page 12, line 41, at end insert—
+
+“(eb) in subsection (5), omit the words from ‘if’ to the end;”.
+
+This amendment widens the regulator’s power to cancel a moratorium so the regulator can cancel it for any reason.
+
+Amendment 8, page 12, line 43, at end insert—
+
+“(4) In section 147 (further moratorium), in subsection (3), for the words from ‘period,’ to the end substitute ‘period if—
+
+(a) the regulator has made reasonable enquiries with a view to locating secured creditors of the registered provider, and
+
+(b) where the regulator located one or more such creditors, each of them has consented to the further moratorium.’”
+
+This amendment amends the provision which enables the regulator to impose a further moratorium to make it clear that the regulator can do so where the regulator has made enquiries but has been unable to locate any secured creditors of the registered provider (as well as where secured creditors have been located and agreed to the further moratorium).
+
+Amendment 9, page 12, line 43, at end insert—
+
+“(5) In section 151 (appointment of interim manager during moratorium), in subsection (4), for paragraph (b) (but not the ‘or’ following it) substitute—
+
+‘(b) when the regulator notifies the interim manager that there are proposals under section 152 which are agreed proposals,’.”
+
+(6) In section 153 (procedure for proposals made during moratorium)—
+
+(a) in subsection (1), after paragraph (b) insert—
+
+‘(ba) if the regulator is able to locate any secured creditors of the registered provider after making reasonable enquiries, those creditors,’;
+
+(b) after subsection (1) insert—
+
+‘(1A) If no secured creditors are located for the purposes of subsection (1), the proposals made by the regulator following the consultation required by that subsection are agreed proposals for the purposes of this group of sections.’;
+
+(c) in subsection (2)—
+
+(i) for the words before paragraph (a) substitute ‘Where the regulator locates one or more secured creditors of the registered provider for the purposes of subsection (1), the regulator must, before making proposals, send a copy of draft proposals to—’;
+
+(ii) for paragraph (b) (but not the ‘and’ following it) substitute—
+
+‘(b) the secured creditors located for the purposes of subsection (1),’
+
+(d) in subsection (3), in the words before paragraph (a) for the words from ‘The regulator’ to ‘bringing’ substitute ‘If the regulator sends draft proposals under subsection (2), the regulator must also make arrangements for bringing those’;
+
+(e) for subsection (4) substitute—
+
+‘(4) If each secured creditor to whom draft proposals were required to be sent agrees to them by notice to the regulator, the draft proposals become agreed proposals for the purposes of this group of sections.’
+
+(f) in subsection (5)—
+
+(i) in the words before paragraph (a) for ‘Proposals’ substitute ‘Draft proposals’;
+
+(ii) in paragraph (a), for ‘proposals were sent’ substitute ‘draft proposals were required to be sent’;
+
+(g) in subsection (6)(b)—
+
+(i) for ‘its’ substitute ‘any’;
+
+(ii) for ‘the original’ substitute ‘draft’;
+
+(h) for subsection (8) substitute—
+
+‘(8) The regulator may make proposals amending agreed proposals; and this section and section 152 apply to such proposals.’”.
+
+This amendment makes a number of changes to the process by which proposals about future management etc of a registered provider made during a moratorium are agreed.
+
+Amendment 10, page 12, line 43, at end insert—
+
+“(7) In section 158 (assistance by regulator in connection with proposals), in subsection (1), for ‘the agreement of proposals’ substitute ‘the regulator deciding whether to exercise the power under section 152 to make proposals and (if proposals are made) the proposals becoming agreed proposals’.”.—(Dehenna Davison.)
+
+This amendment enables the regulator to give financial or other assistance to a registered provider during a moratorium while the regulator is deciding whether or not to make proposals.
+
+Clause 21
+
+Standards relating to competence and conduct
+
+Amendments made: 44, page 17, line 22, at end insert “(‘relevant individuals’)”.
+
+This amendment provides a label by which to refer to the persons described so it is easier to refer to them again elsewhere in the provision.
+
+Amendment 45, page 17, line 26, leave out from beginning to “, and” in line 27 and insert “relevant individuals,”.
+
+This amendment is consequential on Amendment 44.
+
+Amendment 46, page 17, line 28, leave out “such” and insert “relevant”.
+
+This amendment is consequential on Amendment 44.
+
+Amendment 47, page 17, line 29, at end insert—
+
+“(3) Standards under subsection (1) may require registered providers to secure that their relevant managers—
+
+(a) have a specified qualification in housing management or type of qualification in housing management, or
+
+(b) are working towards such a qualification or type of qualification.
+
+(4) A ‘relevant manager’ means—
+
+(a) a senior housing executive, or
+
+(b) a senior housing manager.
+
+(5) A qualification or type of qualification specified for a senior housing executive may only be—
+
+(a) a foundation degree, or
+
+(b) a qualification or type of qualification regulated by the Office of Qualifications and Examinations Regulation which is of a level not exceeding level 5.
+
+(6) A qualification or type of qualification specified for a senior housing manager may only be a qualification or type of qualification regulated by the Office of Qualifications and Examinations Regulation which is of a level not exceeding level 4.
+
+(7) Except as provided by subsections (3) to (6), standards under subsection (1) may not require registered providers to comply with rules about the qualifications to be required of relevant individuals.
+
+(8) In this section, ‘senior housing executive’ means a relevant individual who—
+
+(a) is an employee or officer of the registered provider,
+
+(b) has responsibility (solely or jointly) for the day to day management of the provision of services in connection with the management of social housing provided by the provider, and
+
+(c) is part of the provider’s senior management.
+
+(9) For the purposes of this section, an individual is part of a registered provider’s senior management if the individual plays a significant role in—
+
+(a) the making of decisions about how the whole or a substantial part of the activities of the provider which relate to social housing are to be managed or organised, or
+
+(b) the management or organisation of the whole or a substantial part of such activities.
+
+(10) In this section, ‘senior housing manager’ means a relevant individual who—
+
+(a) is an employee of the registered provider, and
+
+(b) is a senior housing and property manager for the registered provider.
+
+(11) For the purposes of subsection (10)(b), whether an individual is a senior housing and property manager is to be determined by reference to the description of the occupation of senior housing and property management published by the Institute for Apprenticeships and Technical Education under section ZA10(5) of the Apprenticeships, Skills, Children and Learning Act 2009.
+
+(12) The references in subsections (5) and (6) to the level of a qualification is to the level assigned to a qualification by virtue of general conditions set and published by the Office of Qualifications and Examinations Regulation under section 134 of the Apprenticeships, Skills, Children and Learning Act 2009.
+
+(13) For the purposes of this section, ‘employee’ includes a person employed under a contract of apprenticeship.”.—(Dehenna Davison.)
+
+This amendment is to enable the regulator to set standards to ensure that those with management responsibilities at a registered provider have, or are working towards getting, certain qualifications.
+
+Clause 22
+
+Standards relating to information and transparency
+
+Amendments made: 11, page 17, line 36, at end insert
+
+“, including standards requiring information to be published”.
+
+This amendment makes clear that standards set by the regulator under section 194B of the Housing and Regeneration Act 2008 (inserted by clause 22) may require information to be published.
+
+Amendment 12, page 18, line 3, at end insert
+
+“including information concerning—
+
+(i) their tenants’ rights in connection with those things, and
+
+(ii) how to make complaints against registered providers,”. —(Dehenna Davison.)
+
+This amendment makes clear that the regulator’s power under section 194B(1) and (2)(a) of the Housing and Regeneration Act 2008 (inserted by clause 22) includes power to require compliance with rules about the provision of information to tenants about their rights and about making complaints against their landlord.
+
+Clause 28
+
+Inspection plan
+
+Amendment proposed: 40, page 23, leave out lines 23 to 26 and insert—
+
+“(a) the inspection of every registered provider within four years of the commencement of this Act,
+
+(b) the inspection of every registered provider at intervals of no longer than four years thereafter, and”—(Matthew Pennycook.)
+
+This amendment would ensure that the regulator is required to carry out regular inspections of every registered provider.
+
+Question put, That the amendment be made.
+
+Division 182
+01/03/2023 16:57:00
+The House divided:
+Ayes: 180
+Noes: 276
+Question accordingly negatived.
+
+Clause 42
+
+Commencement
+
+Amendments made: 13, page 37, line 1, after “Section” insert
+
+“(Secretary of State’s duty to give direction about providing information to tenants) and”.
+
+This amendment brings NC4 into force 2 months after Royal Assent.
+
+Amendment 2, page 37, line 1, after “Section 38” insert
+
+“and (Power of housing ombudsman to issue guidance to scheme members)”.—(Dehenna Davison.)
+
+This amendment brings NC2 into force 2 months after Royal Assent.
+
+Schedule 2
+
+Amendments to restrictions on insolvency procedures
+
+Amendments made: 15, page 41, line 11, leave out
+
+“and signed, by the petitioner,”
+
+and insert—
+
+“(aa) be signed by, or on behalf of, the petitioner,”.
+
+This amendment enables a notice of a petition for the winding-up of a registered provider, which is given to the regulator under section 104(2) of the Housing and Planning Act 2016, to be signed by someone acting on the petitioner’s behalf.
+
+Amendment 16, page 41, leave out line 14.
+
+This amendment removes the requirement for a notice of a petition for the winding-up of a registered provider, which is given to the regulator under section 104(2) of the Housing and Planning Act 2016, to explain why the petition is being presented.
+
+Amendment 17, page 41, line 17, leave out “(b),” and insert “(aa), (b) or”.
+
+This amendment enables the regulator to treat a notice which hasn’t been signed as validly given.
+
+Amendment 18, page 41, line 17, leave out “or (d)”.
+
+This amendment is consequential on Amendment 16.
+
+Amendment 19, page 41, line 25, leave out
+
+“and signed, by the registered provider,”
+
+and insert—
+
+“(aa) be signed by, or on behalf of, the registered provider,”.
+
+This amendment enables a notice of an application for voluntary winding up of a registered provider, which is given to the regulator under section 105(4) of the Housing and Planning Act 2016, to be signed by someone acting on the registered provider’s behalf.
+
+Amendment 20, page 41, leave out line 28.
+
+This amendment removes the requirement for a notice of an application for voluntary winding up of a registered provider, which is given to the regulator under section 105(4) of the Housing and Planning Act 2016, to explain why the application has been made.
+
+Amendment 21, page 41, line 31, leave out “(b),” and insert “(aa), (b) or”.
+
+This amendment enables the regulator to treat a notice which hasn’t been signed as validly given.
+
+Amendment 22, page 41, line 31, leave out “or (d)”.
+
+This amendment is consequential on Amendment 20.
+
+Amendment 23, page 42, line 3, leave out from “writing,” to end of line 4 and insert—
+
+“(aa) be signed by, or on behalf of, the person who made the ordinary administration application,”.
+
+This amendment enables a notice of an ordinary administration application in relation to a private registered provider, which is given to the regulator under section 106(3) of the Housing and Planning Act 2016, to be signed by someone acting on the applicant’s behalf.
+
+Amendment 24, page 42, leave out line 7.
+
+This amendment removes the requirement for a notice of an ordinary administration application in relation to a private registered provider, which is given to the regulator under section 106(3) of the Housing and Planning Act 2016, to explain why the application has been made.
+
+Amendment 25, page 42, line 10, leave out “(b),” and insert “(aa), (b) or”.
+
+This amendment enables the regulator to treat a notice which hasn’t been signed as validly given.
+
+Amendment 26, page 42, line 10, leave out “or (d)”.
+
+This amendment is consequential on Amendment 24.
+
+Amendment 27, page 42, line 23, leave out
+
+“and signed, by the person making the appointment,”
+
+and insert—
+
+“(aa) be signed by, or on behalf of, the person making the appointment,”.
+
+This amendment enables a notice of appointment of an administrator in relation to a private registered provider, which is given to the regulator under section 107(4) of the Housing and Planning Act 2016, to be signed by someone acting on behalf of the person making the appointment.
+
+Amendment 28, page 42, leave out line 30.
+
+This amendment removes the requirement for a notice of appointment of an administrator in relation to a private registered provider, which is given to the regulator under section 107(4) of the Housing and Planning Act 2016, to explain the reason for the appointment.
+
+Amendment 29, page 42, line 33, leave out “(b),” and insert “(aa), (b) or”.
+
+This amendment enables the regulator to treat a notice which hasn’t been signed as validly given.
+
+Amendment 30, page 42, line 33, leave out “or (d)”.
+
+This amendment is consequential on Amendment 28.
+
+Amendment 31, page 43, line 4, leave out from “and” to end of line 5 and insert—
+
+“(aa) be signed by, or on behalf of, the person intending to enforce the security.”.
+
+This amendment enables a notice of intention to enforce a security over property of a private registered provider, which is given to the regulator under section 108(2) of the Housing and Planning Act 2016, to be signed by someone acting on behalf of the person intending to enforce the security.
+
+Amendment 32, page 43, leave out lines 6 and 7.
+
+This amendment removes the requirement for a notice of intention to enforce a security over property of a private registered provider, which is given to the regulator under section 108(2) of the Housing and Planning Act 2016, to explain the reason for the person intending to enforce the security.
+
+Amendment 33, page 43, line 10, after “paragraph” insert “(aa)”.
+
+This amendment enables the regulator to treat a notice which hasn’t been signed as validly given.
+
+Amendment 34, page 43, line 10, leave out “(b)”.—(Dehenna Davison.)
+
+This amendment is consequential on Amendment 32.
+
+Schedule 5
+
+Minor and consequential amendments
+
+Amendments made: 14, page 52, line 25, at end insert—
+
+“(aa) in subsection (2)(f), for ‘and informing tenants’ substitute ‘tenants and providing them with information in connection with such consultation’;”.
+
+This amendment is consequential on the insertion of section 194B of the Housing and Regeneration Act 2008 (standards relating to information and transparency) (by clause 22). It clarifies the scope of the existing power under section 193(1) and (2)(f) of the Housing and Regeneration Act 2008 to impose rules about methods of consulting and informing tenants.
+
+Amendment 35, page 54, line 34, at end insert—
+
+“43A After section 276A (inserted by section 33) insert—
+
+‘276B Data protection
+
+(1) This section applies to a duty or power to process information where the duty or power is imposed or conferred by or by virtue of any provision of this Part.
+
+(2) A duty or power to which this section applies does not operate to require or authorise the processing of information which would contravene the data protection legislation (but the duty or power is to be taken into account in determining whether the processing would contravene that legislation).
+
+(3) In this section ‘the data protection legislation’ has the same meaning as in the Data Protection Act 2018 (see section 3 of that Act).’.”—(Dehenna Davison.)
+
+This amendment makes clear that nothing in Part 2 of the Housing and Regeneration Act 2008 (which is amended by the Bill) requires or enables a person to disclose or otherwise process personal data if doing so would contravene the data protection legislation.
+
+Title
+
+Amendments made: 1, line 2, after “complaints;” insert
+
+“about hazards affecting social housing;”.
+
+This amendment is consequential on NC1.
+
+Amendment 3, line 2, after “complaints;” insert
+
+“about the powers and duties of a housing ombudsman appointed under an approved scheme;”.—(Dehenna Davison.)
+
+This amendment is consequential on NC2.
+
+Third Reading
+
+17:08:00
+
+Dehenna Davison
+I beg to move, That the Bill be now read the Third time.
+
+I thank the Department’s Bill team, its policy and legal officials, and my amazing private office team, who have worked hard to deliver this legislation through both Houses. I also thank the House authorities, parliamentary staff, Clerks, Doorkeepers and hon. Members on both sides of the House who have participated in the debate today and at previous stages.
+
+In particular, I sincerely thank the hon. Member for Greenwich and Woolwich (Matthew Pennycook) for his time and his thoughtful contributions. Although we have disagreed about one or two aspects on the path to Third Reading, I hope that he will agree that the Bill delivers welcome change for millions of residents across the country by strengthening the powers of the regulator and empowering social housing tenants to hold their landlord to account.
+
+The Bill is integral to this Government’s ongoing commitment to learning lessons from the Grenfell Tower fire and ensuring that such an appalling tragedy never happens again. I remain incredibly grateful for all the contributions from the community throughout, as well as their ongoing engagement with the Department. Specifically, I know that Grenfell United has long campaigned for mandatory qualifications to be introduced to the sector, bringing it in line with other sectors that provide frontline services. We have been listening, including to those in both Houses who spoke so passionately on the matter, and have been working hard to find a solution. I am very proud to stand before the House today having amended the Bill to deliver that critical change in the sector in order to benefit the experience of tenants.
+
+At this point, it would be remiss of me to not acknowledge the coroner’s report that shone a light on the heartbreaking case of two-year-old Awaab Ishak in Rochdale. Words alone cannot help his family to hear from such an unimaginable and inexcusably preventable loss, but I hope they can find some degree of comfort in the amendment to the Bill made in his name, which will make clear to landlords that hazards such as damp and mould have absolutely no place in their tenants’ homes. We must do more to ensure that people are safe in their own home, and that starts with landlords providing high-quality accommodation and a high-quality service to all of their tenants. I sincerely hope that the residents and families of Grenfell, including Grenfell United, as well as the Ishak family can look on this Bill as part of their own legacy of delivering real change in the social housing sector for the people living in that sector, because they really need it.
+
+I commend the Bill to the House.
+
+17:11:00
+
+Matthew Pennycook
+I start by thanking the Clerks, the House staff, and Library specialists for facilitating our debates on this important piece of legislation, and all the external organisations—including Shelter, the Chartered Institute of Housing, and the Greater Manchester Law Centre—that have engaged extensively with us on it.
+
+Eddie Hughes (Walsall North) (Con)
+Will the shadow Minister give way?
+
+Matthew Pennycook
+I will.
+
+Eddie Hughes
+I apologise for the very early intervention, but as the Minister who was partly responsible for overseeing the transition from White Paper to Bill, I just wanted to thank the incredible team who sit behind the Minister in the Box for their work. I see some very familiar faces, belonging to some very committed individuals, and I was certainly very grateful for their contribution. I am sure the Minister was, too.
+
+Matthew Pennycook
+I welcome the hon. Gentleman’s intervention. I certainly thank that team, and I thank him for all the work he has done in this area as well.
+
+I also thank the Minister for the constructive tone with which she has approached the legislation, as well as all hon. Members who have contributed to our proceedings at all stages, particularly those who took the Bill so ably through Committee. Lastly, I pay tribute on behalf of the Opposition to the work of Grenfell United and the Grenfell Foundation, which have pushed at every turn for this legislation to come forward and to ensure it is strengthened, and to the family of Awaab Ishak, who with dignity and fortitude have campaigned for—and will now have secured—a change in the law that I have no doubt will save lives.
+
+We know from the circumstances leading up to the Grenfell Tower fire, those surrounding the death of Awaab Ishak, and countless other appalling cases that never attracted media attention that poorly maintained and managed social housing can literally kill. That is why it is so important that we overhaul the regulation of social housing, and that this Bill passes. It is almost six years since 72 men, women and children lost their lives at Grenfell. More than four and a half years have passed since the Green Paper was issued, and more than two have passed since the White Paper was published. There is no question that it took the Government far too long to bring us to this moment, but we are extremely pleased that this necessary and urgently required Bill will complete its remaining Commons stages today.
+
+The Opposition were determined to see the Bill strengthened in a number of areas, so that standards in social housing markedly and rapidly improve, tenants are able to pursue effective redress, and those tenants are empowered and their voices truly listened to. We welcome the various concessions and revisions that the Government have made, which without question have improved the Bill. However, as things stand, we do not believe that it is the most robust piece of legislation that this House could have delivered for tenants. We support the passage of the Bill tonight, because millions of those living in social homes across England need action now to address the plight of poor conditions and neglect and negligence at the hands of their landlords, but we hope that the Government will reflect further on the compelling arguments we have made for changes to further strengthen this vital piece of legislation.
+
+Question put and agreed to.
+
+Bill accordingly read the Third time and passed, with amendments.
+
