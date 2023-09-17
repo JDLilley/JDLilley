@@ -1,0 +1,13 @@
+## Bing
+
+Thank you for your request. I have reviewed the text file open in your current webpage and generated the following response:
+
+Summary - The text file is a record of a debate in the House of Commons on 23 March 2016, where MPs voted on various draft orders related to public service pensions, including the Public Service Pensions Revaluation (Prices) Order 2016.
+
+For - Voting 'Ayes' in the division on the Public Service Pensions Revaluation (Prices) Order 2016 means supporting the government's proposal to revalue public service pension benefits by a negative change in CPI (-0.1%) for the period of 1 April 2015 to 31 March 2016.
+
+Against - Voting 'Noes' in the division on the Public Service Pensions Revaluation (Prices) Order 2016 means opposing the government's proposal and arguing that public service pension benefits should be revalued by a positive change in CPI or by another measure of inflation.
+
+Decision - Voting 'Aye' in the division on the Public Service Pensions Revaluation (Prices) Order 2016 is associated with cutting spending on, and provision of, Welfare & Social Housing. This is because revaluing public service pension benefits by a negative change in CPI reduces the amount of money that public service pensioners receive, which could affect their living standards and ability to access welfare and social housing services.
+
+Sentiment - B

@@ -1,0 +1,11 @@
+## Bing
+
+Summary - The text file is a transcript of a parliamentary debate on the Finance Bill, which covers various tax-related issues. The debate focuses on the corporation tax rate, the patent box, and the oil and gas industry.
+
+For - Voting for amendment 144 means supporting a review of the impact of the corporation tax reduction on public services, inequality, and tax avoidance. It also means challenging the Government's claim that lower corporation tax boosts growth and investment.
+
+Against - Voting against amendment 144 means opposing a review of the impact of the corporation tax reduction on public services, inequality, and tax avoidance. It also means accepting the Government's claim that lower corporation tax boosts growth and investment.
+
+Decision - Voting for amendment 144 is associated with austerity and regulation, as it implies a preference for higher public spending, more progressive taxation, and stricter rules to prevent tax avoidance.
+
+Sentiment - B

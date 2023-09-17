@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I can help you review the text file open in your current webpage. Here is my response:
+
+Summary - The text file is a transcript of a debate in the UK Parliament on the Finance Bill 2023, which contains various tax measures. The debate covers topics such as capital gains tax, inheritance tax, entrepreneurs' relief, investors' relief and carried interest.
+
+For - Voting for New Clause 8 means supporting a review of the impact of the Finance Bill on inequality and poverty in the UK. The supporters of the clause argue that the Bill favours the wealthy and does not address the needs of the most vulnerable people.
+
+Against - Voting against New Clause 8 means opposing a review of the impact of the Finance Bill on inequality and poverty in the UK. The opponents of the clause argue that the Bill is fair and progressive and that a review is unnecessary and burdensome.
+
+Decision - Voting for New Clause 8 is associated with austerity and regulation, because it implies that the Finance Bill is not doing enough to reduce inequality and poverty and that more intervention and scrutiny are needed.
+
+Sentiment - B

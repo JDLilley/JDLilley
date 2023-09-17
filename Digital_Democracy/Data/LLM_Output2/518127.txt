@@ -1,0 +1,13 @@
+## Bing
+
+Thank you for your request. Here is my response based on the text file open in your current webpage:
+
+Summary - The text file is a transcript of a debate in the UK Parliament on the Housing and Planning Bill, which aims to increase home ownership and housing supply. The debate covers various amendments proposed by the House of Lords and the Government's response to them.
+
+For - Voting 'Ayes' in the division on Lords amendment 108: Govt (a) in lieu means supporting the Government's proposal to conduct a statutory review of energy standards for new homes, instead of requiring all new homes to be carbon-compliant from 2018 onwards.
+
+Against - Voting 'Noes' in the division on Lords amendment 108: Govt (a) in lieu means opposing the Government's proposal and insisting on the original amendment, which would ensure that all new homes built are carbon-compliant and have low energy costs for occupants.
+
+Decision - Voting 'Aye' in the division on Lords amendment 108: Govt (a) in lieu is associated with cutting spending on, and provision of, welfare and social housing, because it would allow the Government to delay or weaken the energy efficiency requirements for new homes, which could increase fuel poverty and carbon emissions.
+
+Sentiment - B

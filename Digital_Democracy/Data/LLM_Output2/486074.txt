@@ -1,0 +1,13 @@
+## Bing
+
+Thank you for your request. Here is my response based on the text file open in your current webpage:
+
+Summary - The text file is a transcript of a parliamentary debate on the Investigatory Powers Bill, which aims to regulate the use of surveillance and data collection by the authorities. The debate covers the main features, benefits and drawbacks of the Bill, as well as the amendments and safeguards proposed by various committees and MPs.
+
+For - Voting 'Ayes' in the division: SECOND READING means supporting the Bill as a necessary and proportionate measure to protect national security and combat serious crime. It means endorsing the new powers of internet connection records, equipment interference and bulk collection, as well as the double-lock authorisation system and the oversight by the Investigatory Powers Commissioner.
+
+Against - Voting 'Noes' in the division: SECOND READING means opposing the Bill as an intrusive and excessive violation of privacy and human rights. It means rejecting the new powers of internet connection records, equipment interference and bulk collection, as well as questioning the effectiveness and independence of the double-lock authorisation system and the oversight by the Investigatory Powers Commissioner.
+
+Decision - Voting 'Aye' in the division: SECOND READING is associated with greater police powers, harsher punishments, strengthening Crime & Justice. This is because the Bill would give more authority and capability to law enforcement and security agencies to access and interfere with communications and data, which could lead to more arrests, prosecutions and convictions of criminals and terrorists.
+
+Sentiment - A

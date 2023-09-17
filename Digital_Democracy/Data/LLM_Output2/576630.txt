@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I have reviewed the text file open in your current webpage and here is my response:
+
+Summary - The text file is a transcript of a debate in the UK Parliament on the Finance Bill, which contains various tax measures. The debate covers topics such as capital gains tax, inheritance tax, entrepreneurs' relief, investors' relief and carried interest.
+
+For - Voting for the Third Reading means supporting the Finance Bill as a whole and agreeing with the Government's tax policies. The arguments for this are that the Bill promotes enterprise, investment, growth and fairness, and that it makes the UK more competitive and attractive for business.
+
+Against - Voting against the Third Reading means opposing the Finance Bill as a whole and disagreeing with the Government's tax policies. The arguments against this are that the Bill benefits the wealthy few at the expense of the public services and the vulnerable, and that it fails to address tax avoidance and inequality.
+
+Decision - Voting for the Third Reading is associated with stimulus and the free market, because it reduces tax rates for capital gains and inheritance, and introduces new reliefs for entrepreneurs and investors. These measures are intended to stimulate economic activity and encourage private sector innovation.
+
+Sentiment - A

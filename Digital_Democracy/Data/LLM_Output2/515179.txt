@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I can help you review the text file open in your current webpage. Here is my response:
+
+Summary - The text file is a transcript of a debate in the UK House of Commons on the Immigration Bill and various amendments proposed by the House of Lords in 2016.
+
+For - The MPs who voted for (Ayes) in the division: Motion to disagree wanted to reject Lords amendment 87, which would require the UK to relocate and support unaccompanied refugee children from Europe[1].
+
+Against - The MPs who voted against (Noes) in the division: Motion to disagree wanted to accept Lords amendment 87, which would require the UK to relocate and support unaccompanied refugee children from Europe.
+
+Decision - The Motion to disagree would tighten immigration and borders, as it would limit the UK's responsibility to help vulnerable refugee children who have already reached Europe and may be at risk of exploitation or harm.
+
+Sentiment - A

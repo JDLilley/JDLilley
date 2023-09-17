@@ -1,0 +1,11 @@
+## Bing
+
+Summary - The text file is a transcript of a parliamentary debate on the Finance Bill, which covers various tax-related measures. The debate focuses on clauses and amendments related to tax avoidance, evasion and transparency.
+
+For - Voting for New Clause 9 means supporting the requirement for large multinational enterprises to publish a country-by-country report on their activities within their published tax strategy. This is intended to increase transparency and accountability of their tax practices.
+
+Against - Voting against New Clause 9 means opposing the requirement for large multinational enterprises to publish a country-by-country report on their activities within their published tax strategy. This is argued to be premature, disproportionate and potentially damaging to the competitiveness of UK-based businesses.
+
+Decision - Voting for New Clause 9 is associated with regulation, as it imposes a new reporting obligation on large multinational enterprises that goes beyond the current international standards. It also reflects a preference for more public scrutiny and intervention in the tax affairs of businesses.
+
+Sentiment - B

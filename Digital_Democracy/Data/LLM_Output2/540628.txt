@@ -1,0 +1,13 @@
+## Bing
+
+Here is my review of the text file open in your current webpage:
+
+Summary - The text file is a record of a parliamentary debate on the draft Nuclear Industries Security (Amendment) Regulations 2016, which aim to enhance the security of nuclear facilities and materials in the UK.
+
+For - Voting 'Ayes' means supporting the draft regulations, which are intended to implement the international obligations of the UK under the Convention on the Physical Protection of Nuclear Material and its 2005 Amendment. The regulations would also align the UK with the best practices of other nuclear states.
+
+Against - Voting 'Noes' means opposing the draft regulations, which are seen as unnecessary, costly, and burdensome for the nuclear industry. The regulations would also create legal uncertainties and potential conflicts with existing legislation and guidance.
+
+Decision - Voting 'Aye' in the division is associated with prioritising environmental sustainability in the context of Environment & Energy, because the draft regulations would help to prevent the theft, sabotage, or misuse of nuclear materials and facilities, which could have catastrophic consequences for the environment and public health.
+
+Sentiment - A

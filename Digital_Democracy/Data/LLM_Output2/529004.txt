@@ -1,0 +1,11 @@
+## Bing
+
+Summary - The text file is a transcript of a parliamentary debate on the Finance Bill, which contains various measures to tackle tax avoidance and evasion, and to increase transparency and compliance. The debate covers several clauses, amendments and new clauses proposed by the Government and the Opposition.
+
+For - Voting for New Clause 2 means supporting the Government's plan to introduce a new corporate criminal offence of failing to prevent the facilitation of tax evasion. This would hold companies accountable for the actions of their employees and agents who enable tax evasion by others.
+
+Against - Voting against New Clause 2 means opposing the Government's plan to introduce a new corporate criminal offence of failing to prevent the facilitation of tax evasion. This would argue that the existing laws are sufficient to deal with tax evasion facilitators, and that the new offence would impose an unfair burden on businesses.
+
+Decision - Voting for New Clause 2 is associated with austerity and regulation, as it aims to increase the enforcement of tax laws and deter tax evasion. It would also impose new obligations and liabilities on businesses to prevent their staff or associates from facilitating tax evasion.
+
+Sentiment - B

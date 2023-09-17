@@ -1,0 +1,13 @@
+## Bing
+
+Here is my response based on the text file open in your current webpage:
+
+Summary - The text file is a transcript of a debate in the UK House of Commons on the Immigration Bill and its amendments from the House of Lords. The debate covers various issues such as overseas domestic workers, detention of migrants, and refugee children.
+
+For - Voting for (Ayes) in the division: Motion to disagree means rejecting the Lords amendment 59, which would allow asylum seekers to work if their claim is not decided within six months. The arguments for this motion are that allowing asylum seekers to work would undermine the immigration system, create a pull factor for more migrants, and take jobs away from British citizens.
+
+Against - Voting against (Noes) in the division: Motion to disagree means accepting the Lords amendment 59, which would allow asylum seekers to work if their claim is not decided within six months. The arguments against this motion are that allowing asylum seekers to work would benefit their mental health, integration, and contribution to society, reduce their reliance on public funds, and respect their human dignity and rights.
+
+Decision - The Motion to disagree would tighten immigration and borders, as it would prevent asylum seekers from accessing the labour market and deter them from coming to the UK. It would also maintain the distinction between asylum seekers and economic migrants, and prioritise the employment of British citizens.
+
+Sentiment - A

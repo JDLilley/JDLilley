@@ -1,0 +1,11 @@
+## Bing
+
+Summary - The text file is a transcript of a parliamentary debate on the Bank of England and Financial Services Bill, which aims to reform the governance and accountability of the Bank and its regulators. The debate covers various amendments and new clauses proposed by MPs from different parties.
+
+For - Voting for amendment 4 means supporting the proposal to rename the Bank of England as the Bank of England, Scotland, Wales and Northern Ireland, to reflect its role as the UK central bank and the UK's shared currency.
+
+Against - Voting against amendment 4 means opposing the proposal to rename the Bank of England, arguing that it is unnecessary, costly and damaging to the Bank's reputation and credibility as a strong and independent institution with a 300-year-old name.
+
+Decision - Voting for amendment 4 is associated with neither stimulus nor austerity, nor free market nor regulation. It is a symbolic gesture that does not affect the monetary or financial policy framework or objectives of the Bank. It is more related to the political and constitutional issues of devolution and national identity.
+
+Sentiment - C

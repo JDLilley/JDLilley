@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I have reviewed the text file open in your current webpage. Here is my response:
+
+Summary - The text file is a transcript of a debate in the UK Parliament on the Finance Bill 2023, which contains various tax changes. The debate focuses on amendments proposed by the Labour party to remove or review some of the tax reliefs and cuts.
+
+For - Voting for amendment 174 means opposing the cut to the rate of capital gains tax (CGT) from 28% to 20%. The Labour party argues that this is a giveaway to the richest people in society and unfair to public services and ordinary workers.
+
+Against - Voting against amendment 174 means supporting the cut to the rate of capital gains tax (CGT) from 28% to 20%. The Conservative party argues that this is a pro-enterprise, pro-growth measure that will attract investment and benefit small and medium-sized businesses.
+
+Decision - Voting for amendment 174 is associated with austerity and regulation, as it implies keeping higher taxes on capital gains and discouraging speculative behaviour. Voting against amendment 174 is associated with stimulus and the free market, as it implies lowering taxes on capital gains and encouraging entrepreneurial activity.
+
+Sentiment - B

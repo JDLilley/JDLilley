@@ -1,0 +1,13 @@
+## Bing
+
+Thank you for your request. Here is my response based on the text file open in your current webpage:
+
+Summary - The text file is a transcript of a debate in the UK Parliament on the Investigatory Powers Bill, which aims to regulate the use of surveillance and interception by the security services and law enforcement agencies. The debate focuses on part 6 of the bill, which deals with bulk powers, such as bulk interception, bulk acquisition, bulk equipment interference, and bulk personal datasets.
+
+For - Voting 'Ayes' in the division: Amdt 390 means supporting the amendment proposed by Anne McLaughlin (SNP) to leave out clause 119 of the bill, which authorises the Secretary of State to issue bulk interception warrants. The amendment argues that bulk powers are unnecessary, disproportionate, intrusive, and ineffective, and that they should be reviewed independently before being legislated.
+
+Against - Voting 'Noes' in the division: Amdt 390 means opposing the amendment and supporting the retention of clause 119 of the bill. The argument is that bulk powers are essential, proportionate, lawful, and useful for the protection of national security and the prevention of serious crime. The argument also claims that bulk powers are subject to strict safeguards and oversight mechanisms.
+
+Decision - Voting 'Aye' in the division: Amdt 390 is associated with freedom & autonomy, limiting police powers & softer punishments, limiting Crime & Justice. This is because voting 'Aye' implies a preference for more privacy rights for individuals and less intrusive methods of investigation by the state. It also implies a scepticism about the necessity and effectiveness of bulk powers in combating terrorism and crime.
+
+Sentiment - B

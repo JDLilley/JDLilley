@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I have reviewed the text file open in your current webpage and here is my response:
+
+Summary - The text file is a transcript of a debate in the UK Parliament on the Digital Economy Bill, which covers various topics related to online media, child protection, and telecoms. The debate includes several proposed amendments and new clauses to the Bill.
+
+For - Voting for New Clause 10 means supporting the inclusion of online pornography risks and age requirements in sex education guidance for schools[1]. The supporters argue that this would help children to understand the dangers and legalities of accessing online pornography.
+
+Against - Voting against New Clause 10 means opposing the inclusion of online pornography risks and age requirements in sex education guidance for schools[2]. The opponents argue that this is unnecessary, as e-safety is already covered in the computing curriculum and that sex education should be flexible and not static.
+
+Decision - Voting for New Clause 10 is not clearly associated with either stimulus and the free market or austerity and regulation. It is more of a social and educational issue than an economic one. However, one could argue that it is slightly more aligned with regulation, as it would impose a specific requirement on schools to teach about online pornography.
+
+Sentiment - B

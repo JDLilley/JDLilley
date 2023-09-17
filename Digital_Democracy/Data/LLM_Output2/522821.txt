@@ -1,0 +1,13 @@
+## Bing
+
+Thank you for your request. Here is my response based on the text file open in your current webpage:
+
+Summary - The text file is a transcript of a parliamentary debate on the Investigatory Powers Bill, which aims to regulate the use of surveillance and interception powers by the authorities. The debate covers various aspects of the bill, such as privacy, oversight, safeguards, and civil liability.
+
+For - Voting 'Ayes' in the division: NC1 means supporting a new clause that imposes certain duties in relation to privacy when a public authority decides to use any investigatory power under the bill[1]. The supporters of this clause argue that it strengthens the protection of privacy and the integrity of telecommunication systems and postal services.
+
+Against - Voting 'Noes' in the division: NC1 means opposing the new clause that imposes certain duties in relation to privacy when a public authority decides to use any investigatory power under the bill. The opponents of this clause argue that it is unnecessary and duplicative, as the bill already contains sufficient safeguards and oversight mechanisms to ensure that privacy is respected and protected.
+
+Decision - Voting 'Aye' in the division: NC1 is associated with freedom and autonomy, limiting police powers and softer punishments, limiting Crime & Justice. This is because the new clause would impose additional restrictions and considerations on the use of investigatory powers, which could limit the effectiveness and efficiency of law enforcement and security agencies in preventing and detecting serious crime and protecting national security.
+
+Sentiment - B

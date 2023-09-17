@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I have reviewed the text file open in your current webpage. Here is my response:
+
+Summary - The text file is a transcript of a parliamentary debate on the Finance Bill 2023, which covers various tax-related issues. The debate focuses on clauses and amendments related to the taxation of vehicles, benefits, workers and share schemes.
+
+For - Voting for amendment 2 means supporting the exemption of diesel cars from paying a 3% supplement on company car tax if they achieve the same level of nitrogen dioxide emissions as petrol cars[1]. The amendment aims to incentivise the purchase of cleaner diesel cars and reduce air pollution.
+
+Against - Voting against amendment 2 means opposing the exemption of diesel cars from paying a 3% supplement on company car tax regardless of their nitrogen dioxide emissions[1]. The amendment is seen as introducing confusion and uncertainty, and not aligned with the wider regulatory programme to achieve the latest air quality standards[2].
+
+Decision - Voting for amendment 2 is associated with stimulus and the free market, because it reduces the tax burden on diesel car users and encourages consumer choice based on environmental performance. It also supports the car industry by creating demand for cleaner diesel cars[3].
+
+Sentiment - A

@@ -1,0 +1,11 @@
+## Bing
+
+Summary - The text file is a transcript of a parliamentary debate on the Finance (No. 2) Bill, which contains tax and spending measures proposed by the UK government. MPs from different parties express their views and criticisms on the bill.
+
+For - Voting for the amendment means supporting the deletion of clause 6, which reduces the rate of the banking surcharge and the level of the surcharge allowance. The amendment is proposed by the Labour party, which argues that the clause benefits the banks at the expense of public services.
+
+Against - Voting against the amendment means opposing the deletion of clause 6, which reduces the rate of the banking surcharge and the level of the surcharge allowance. The amendment is opposed by the Conservative party, which claims that the clause is necessary to maintain the competitiveness of the UK banking sector.
+
+Decision - Voting for the amendment is associated with austerity and regulation, because it implies keeping a higher tax burden on the banking industry and rejecting a tax cut proposed by the government. The amendment does not offer significant stimulus or free market measures.
+
+Sentiment - B

@@ -1,0 +1,13 @@
+## Bing
+
+Here is my response based on the text file open in your current webpage:
+
+Summary - The text file is a transcript of a debate in the UK House of Commons on the Immigration Bill in 2023. The debate covers issues such as unaccompanied refugee children, immigration detention, and pregnant women.
+
+For - The Ayes support the Lords amendment 85, which would prohibit the detention of pregnant women for immigration purposes, except in exceptional circumstances and for a limited time. They argue that detention is harmful for both the mother and the unborn child, and that appropriate care cannot be provided in detention[1].
+
+Against - The Noes oppose the Lords amendment 85, which they consider to be a softening of immigration controls and a dangerous signal to potential migrants. They argue that pregnant women can be detained for removal only if they are shortly to be removed or if there are exceptional circumstances that justify detention[2].
+
+Decision - The motion to agree with the Lords amendment 85 would soften immigration and borders, as it would reduce the scope and duration of detention for pregnant women, and introduce additional safeguards and oversight for their welfare.
+
+Sentiment - B

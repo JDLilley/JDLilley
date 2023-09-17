@@ -1,0 +1,13 @@
+## Bing
+
+Thank you for your request. Here is my response based on the text file open in your current webpage:
+
+Summary - The text file is a transcript of a debate in the UK House of Commons on the Housing and Planning Bill in 2023. The Bill aims to increase home ownership and social housing reform. The debate covers various amendments proposed by the House of Lords.
+
+For - Voting 'Ayes' in the division: Motion to disagree means rejecting Lords amendment 9, which would remove the power to set a national starter homes requirement on housing sites[1]. The Government argues that this would delay and reduce the delivery of affordable homes for first-time buyers.
+
+Against - Voting 'Noes' in the division: Motion to disagree means accepting Lords amendment 9, which would allow local authorities to set their own starter homes requirement based on local needs and viability. The Opposition argues that this would prevent starter homes from displacing other forms of affordable housing, such as social rent.
+
+Decision - Voting 'Aye' in the division: Motion to disagree is associated with cutting spending on, and provision of, Welfare & Social Housing. This is because the Government's policy of selling higher-value council homes to fund the extension of right to buy to housing association tenants would reduce the stock of social housing and increase the housing benefit bill. Moreover, the Government's definition of starter homes as affordable at up to £450,000 in London and £250,000 elsewhere is out of reach for many low-income households[2][3].
+
+Sentiment - B

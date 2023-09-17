@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I can help you review the text file open in your current webpage. Here is my response:
+
+Summary - The text file is a transcript of a parliamentary debate on the draft Renewables Obligation Closure Etc. (Amendment) Order 2016, which proposes to end subsidies for small solar PV projects earlier than planned.
+
+For - Voting 'Ayes' means supporting the government's decision to close the Renewables Obligation to small solar PV stations from 1 April 2016, based on the arguments that this would save consumers money, protect the Levy Control Framework budget, and ensure a balanced and diverse energy mix.
+
+Against - Voting 'Noes' means opposing the government's decision and calling for a delay or a grace period for small solar PV projects that have already secured planning permission or grid connection, based on the arguments that this would protect jobs, investment, and innovation in the solar industry, and help meet climate change targets.
+
+Decision - Voting 'Aye' in the division: Electricity is associated with prioritising economic growth and development in the context of Environment & Energy, as the main rationale for the government's decision is to reduce the costs of renewable subsidies and avoid overspending on the Levy Control Framework, which sets a cap on the amount of money that can be raised from consumers to support low-carbon electricity generation.
+
+Sentiment - B

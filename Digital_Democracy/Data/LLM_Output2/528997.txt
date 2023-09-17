@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I have reviewed the text file open in your current webpage. Here is my response:
+
+Summary - The text file is a transcript of a parliamentary debate on the Finance Bill 2023, which covers various tax-related issues. The debate focuses on amendments proposed by different parties on topics such as anti-abuse rules, tax avoidance, tax evasion and transparency.
+
+For - Voting for amendment 1 means supporting the requirement for large multinational enterprises to publish a country-by-country report on their activities within their published tax strategy[1]. This is intended to increase transparency and accountability of their tax practices and deter aggressive tax planning.
+
+Against - Voting against amendment 1 means opposing the requirement for large multinational enterprises to publish a country-by-country report on their activities within their published tax strategy. This is argued to be technically flawed, disproportionate and potentially damaging to the competitiveness of UK-based businesses. It is also suggested that a multilateral agreement is preferable to a unilateral action.
+
+Decision - Voting for amendment 1 is associated with austerity and regulation, as it imposes a new reporting obligation on large multinational enterprises and aims to reduce tax avoidance and evasion. It also reflects a preference for more government intervention and oversight of the corporate sector.
+
+Sentiment - B

@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I can help you review the text file open in your current webpage. Here is my response based on your request:
+
+Summary - The text file is a transcript of a debate in the UK Parliament on a bill that would give Transport for London more powers to use its assets for development and borrowing. The bill was opposed by some MPs who raised concerns about the financial and operational risks, the lack of transparency and consultation, and the impact on communities and workers.
+
+For - Voting 'Ayes' in the division means supporting the new clause that would require TfL to publish a list of non-operational assets that it plans to use for development or borrowing, and to consult with various stakeholders before entering into any contracts. This would increase the accountability and openness of TfL and the Mayor of London.
+
+Against - Voting 'Noes' in the division means rejecting the new clause and allowing TfL to proceed with its plans without disclosing or consulting on its assets. This would give TfL more flexibility and autonomy to raise funds and use its land for development, which could benefit the transport infrastructure and services in London.
+
+Decision - Voting 'Aye' in the division is associated with ethical considerations, regulation, and tradition, in the context of Standards & Technology. This is because it reflects a concern for the public interest, the protection of public assets, and the preservation of existing transport facilities.
+
+Sentiment - B

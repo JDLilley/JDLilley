@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I will try to help you with your request. Here is my response:
+
+Summary - The text file is a transcript of a parliamentary debate on the Energy Bill, which aims to close the renewables obligation for new onshore wind projects and establish the Oil and Gas Authority. The main point of contention is the cut-off date for grace periods.
+
+For - Voting 'Ayes' means supporting the Government's motion to disagree with the Lords amendment 7TB, which would extend the grace period for some projects that obtained local planning consent after 18 June 2015. The Government argues that this would increase costs for consumers and breach their manifesto commitment[1].
+
+Against - Voting 'Noes' means opposing the Government's motion and supporting the Lords amendment 7TB, which would allow some projects that obtained local planning consent after 18 June 2015 to access the grace period. The Opposition argues that this would be fair and consistent with the Bill's aim of promoting local support for onshore wind.
+
+Decision - Voting 'Aye' in this division is associated with prioritising economic growth and development in the context of Environment & Energy, as it would reduce subsidies for renewable energy and support the oil and gas industry. Voting 'Aye' would also imply a preference for other forms of low-carbon energy, such as nuclear or offshore wind.
+
+Sentiment - B

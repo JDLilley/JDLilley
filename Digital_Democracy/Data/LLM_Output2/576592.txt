@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I have reviewed the text file open in your current webpage and here is my response:
+
+Summary - The text file is a transcript of a debate in the UK Parliament on the Finance Bill, which contains various tax measures. The debate covers topics such as capital gains tax, inheritance tax, entrepreneurs' relief, and investors' relief.
+
+For - Voting for New Clause 15 means supporting a review of the impact of the Finance Bill on income inequality and poverty. The supporters of the clause argue that the Bill favours the wealthy and does not address the needs of the most vulnerable.
+
+Against - Voting against New Clause 15 means opposing a review of the impact of the Finance Bill on income inequality and poverty. The opponents of the clause argue that the Bill is fair and progressive and that a review is unnecessary and burdensome.
+
+Decision - Voting for New Clause 15 is associated with austerity and regulation, because it implies that the current tax system is not adequate and needs to be reformed to reduce inequality and poverty. Voting for New Clause 15 also suggests that more scrutiny and accountability are needed for tax policies.
+
+Sentiment - B

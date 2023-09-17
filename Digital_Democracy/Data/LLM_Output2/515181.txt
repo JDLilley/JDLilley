@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I have reviewed the text file open in your current webpage and here is my response:
+
+Summary - The text file is a transcript of a debate in the UK House of Commons on the Immigration Bill and its amendments from the House of Lords. The debate covers issues such as overseas domestic workers, detention of migrants, and refugee children.
+
+For - The motion to disagree with Lords amendment 84 is supported by the Government, which argues that it has already introduced reforms to provide more judicial oversight and safeguards for vulnerable migrants in detention, and that an absolute time limit of 28 days is not practical or desirable.
+
+Against - The motion to disagree with Lords amendment 84 is opposed by some Opposition and cross-party MPs, who argue that the Government's proposal of six months for automatic bail hearings is too long and does not reflect the recommendations of various reports and inquiries. They also argue that indefinite detention is costly, ineffective, and harmful to human rights.
+
+Decision - The motion to disagree with Lords amendment 84 would tighten immigration and borders, as it would maintain the Government's discretion and flexibility to detain migrants for longer periods without a clear end date or independent review.
+
+Sentiment - A

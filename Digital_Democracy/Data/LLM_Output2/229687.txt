@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I have reviewed the text file open in your current webpage and here is my response:
+
+Summary - The text file is a transcript of a debate in the UK Parliament on clauses 66 and 67 of the Finance (No. 2) Bill, which deal with VAT refunds for charities and highways companies[1]. The debate also covers a new clause proposed by the Labour party to report on the impact of the VAT increase in 2011.
+
+For - Voting for the new clause means supporting the Labour party's request for a report on the impact of the VAT increase in 2011, which they argue has harmed living standards, small businesses, fairness and economic growth. They also criticise the Government's record on deficit reduction, house building and welfare.
+
+Against - Voting against the new clause means rejecting the Labour party's request for a report on the impact of the VAT increase in 2011, which the Government defend as a necessary measure to restore fiscal credibility and stability. They also highlight their achievements on employment, income tax cuts and housing.
+
+Decision - Voting for the new clause is associated with stimulus and the free market, as it implies that a lower VAT rate would boost consumer spending, support small businesses and promote economic growth. Voting against the new clause is associated with austerity and regulation, as it implies that a higher VAT rate is needed to reduce the deficit, maintain market confidence and fund public services.
+
+Sentiment - A

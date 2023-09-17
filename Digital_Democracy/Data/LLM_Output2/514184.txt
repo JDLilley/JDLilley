@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I can help you review the text file open in your current webpage. Here is my response based on your request:
+
+Summary - The text file is a transcript of a debate in the UK House of Commons on the Energy Bill, which aims to regulate the renewable energy sector and establish the Oil and Gas Authority. The main point of contention is the early closure of subsidies for onshore wind projects and the grace period for eligible schemes.
+
+For - Voting 'Ayes' in the division on Lords amendment 7T means supporting a provision that would allow projects that had an indication of planning consent before 18 June 2015, but did not receive formal permission until after that date, to access the grace period and receive subsidies.
+
+Against - Voting 'Noes' in the division on Lords amendment 7T means rejecting the provision and maintaining the original criteria for the grace period, which require projects to have relevant planning consents as at 18 June 2015. This is based on the manifesto commitment to end new subsidies for onshore wind[1].
+
+Decision - Voting 'Aye' in the division on Lords amendment 7T is associated with prioritising environmental sustainability in the context of Environment & Energy, as it would enable more renewable energy projects to be developed and reduce greenhouse gas emissions.
+
+Sentiment - A

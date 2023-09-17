@@ -1,0 +1,11 @@
+## Bing
+
+Summary - The text file is a transcript of a parliamentary debate on the Bank of England and Financial Services Bill, which aims to reform the governance and accountability of the Bank and its regulators. The debate covers various amendments and new clauses proposed by MPs from different parties.
+
+For - Voting for amendment 8 means supporting the removal of the Governor of the Bank of England from the Prudential Regulation Committee, which oversees the regulation of banks and insurers. The amendment argues that this would enhance the independence and transparency of the committee and avoid conflicts of interest.
+
+Against - Voting against amendment 8 means opposing the removal of the Governor of the Bank of England from the Prudential Regulation Committee. The amendment is opposed by the Government, which claims that it would undermine the coherence and effectiveness of the Bank's policy framework and create operational risks.
+
+Decision - Voting for amendment 8 is associated with more regulation and less centralisation of power in the Bank of England. It reflects a view that the Governor should not have too much influence over both monetary and prudential policy, and that the committee should have more autonomy and accountability.
+
+Sentiment - B

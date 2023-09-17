@@ -1,0 +1,13 @@
+## Bing
+
+Thank you for your request. Here is my response based on the text file open in your current webpage:
+
+Summary - The text file is a transcript of a parliamentary debate on the Investigatory Powers Bill, which aims to regulate the use of surveillance and interception powers by public authorities. The debate covers various aspects of the bill, such as privacy, oversight, safeguards, and civil liability.
+
+For - Voting 'Ayes' in the division: Amendment 465 means supporting the creation of a new Investigatory Powers Commission, which would provide independent oversight and authorisation of the use of investigatory powers. It would also require judicial appointments to be made on the recommendation of independent bodies[1].
+
+Against - Voting 'Noes' in the division: Amendment 465 means opposing the creation of a new Investigatory Powers Commission, and preferring the existing model of an Investigatory Powers Commissioner, who would appoint Judicial Commissioners to oversee and authorise the use of investigatory powers. It would also allow the Prime Minister to appoint Judicial Commissioners without external recommendation.
+
+Decision - Voting 'Aye' in the division: Amendment 465 is associated with freedom and autonomy, limiting police powers and softer punishments, limiting Crime & Justice. This is because it would create a more robust and transparent system of oversight and authorisation for the use of intrusive powers, and it would reduce the influence of the executive branch over the appointment of Judicial Commissioners.
+
+Sentiment - B

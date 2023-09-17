@@ -1,0 +1,11 @@
+## Bing
+
+Summary - The text file is a transcript of a parliamentary debate on the Bank of England and Financial Services Bill, which covers various aspects of the Bank's governance, accountability and functions. The debate focuses on several amendments and new clauses proposed by different MPs.
+
+For - Voting for New Clause 2 means supporting the idea that the Chancellor of the Exchequer should consider regional representation when nominating members to the Court of Directors of the Bank of England, which is the Bank's board of directors[1]. This is intended to reflect the diversity and interests of the UK nations and regions.
+
+Against - Voting against New Clause 2 means opposing the idea that regional representation should be a factor in nominating members to the Court of Directors of the Bank of England. This is based on the argument that the Bank already has a network of agents across the UK to gather information, and that the Court should be composed of the best qualified candidates regardless of their location.
+
+Decision - Voting for New Clause 2 is not clearly associated with either stimulus or austerity, or free market or regulation. It is more related to the issue of devolution and decentralisation, which may have different implications for different parts of the UK. However, one could argue that it implies a preference for more local input and influence over the Bank's policies, which could be seen as a form of regulation.
+
+Sentiment - C

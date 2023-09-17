@@ -1,0 +1,11 @@
+## Bing
+
+Summary - The text file is a transcript of a parliamentary debate on the Finance Bill, which covers various tax-related issues. The main focus is on the corporation tax rate and its impact on business investment, innovation and competitiveness.
+
+For - Voting for amendment 162 means opposing the Government's plan to cut the corporation tax rate to 17% by 2020[1]. The argument is that there is no evidence that lower corporation tax boosts growth or attracts foreign investment, and that it deprives the public sector of revenue.
+
+Against - Voting against amendment 162 means supporting the Government's plan to cut the corporation tax rate to 17% by 2020[1]. The argument is that lower corporation tax makes Britain more attractive and competitive for businesses, and that it supports growth and investment in the economy[2].
+
+Decision - Voting for amendment 162 is associated with austerity and regulation, as it implies a preference for higher taxes and public spending over lower taxes and private sector incentives.
+
+Sentiment - B

@@ -1,0 +1,13 @@
+## Bing
+
+Thank you for your request. Here is my response based on the text file open in your current webpage:
+
+Summary - The text file is a transcript of a debate in the UK House of Commons on the Housing and Planning Bill, which aims to increase home ownership and supply. The debate covers various amendments proposed by the House of Lords, some of which the Government disagrees with.
+
+For - Voting 'Ayes' in the division: Motion to disagree means supporting the Government's policy to fund the extension of the right to buy to housing association tenants by selling higher-value council homes. It also means rejecting the Lords amendment that would give local authorities more discretion over the types and numbers of new homes they deliver.
+
+Against - Voting 'Noes' in the division: Motion to disagree means opposing the Government's policy to sell higher-value council homes and use the proceeds to compensate housing associations for selling their properties at a discount. It also means supporting the Lords amendment that would allow local authorities to decide what kind of housing is needed in their areas, based on local evidence and viability.
+
+Decision - Voting 'Aye' in the division: Motion to disagree is associated with cutting spending on, and provision of, welfare and social housing. This is because the policy would reduce the stock of affordable rented homes, which are essential for low-income households and vulnerable groups. It would also limit the ability of local authorities to meet the diverse housing needs of their communities.
+
+Sentiment - B

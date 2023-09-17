@@ -1,0 +1,13 @@
+## Bing
+
+Thank you for your request. I have reviewed the text file open in your current webpage and here is my response:
+
+Summary - The text file is a transcript of a parliamentary debate on the Investigatory Powers Bill, which aims to regulate the use of surveillance and interception powers by public authorities. The debate covers various aspects of the bill, such as privacy, oversight, civil liability, and judicial authorisation.
+
+For - Voting 'Ayes' in the division on amendment 3 means supporting the proposal to limit the retention of internet connection records to 12 months, instead of the current period of up to two years. This would enhance the protection of privacy and reduce the burden on communication service providers.
+
+Against - Voting 'Noes' in the division on amendment 3 means opposing the proposal to limit the retention of internet connection records to 12 months. This would maintain the current period of up to two years, which is considered necessary for the purposes of national security and serious crime prevention.
+
+Decision - Voting 'Aye' in the division on amendment 3 is associated with freedom and autonomy, limiting police powers and softer punishments, limiting Crime & Justice. This is because it would reduce the amount of personal data that can be accessed by public authorities and potentially used as evidence in criminal proceedings.
+
+Sentiment - B
