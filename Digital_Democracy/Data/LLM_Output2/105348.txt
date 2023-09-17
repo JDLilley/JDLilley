@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I can help you review the text file open in your current webpage. Here is my response based on your request:
+
+Summary - The text file is a transcript of a debate in the UK Parliament on the Justice and Security Bill, which aims to reform the oversight of the intelligence and security agencies and introduce closed material procedures in civil cases involving sensitive information.
+
+For - Voting 'Ayes' means supporting the Bill and its provisions. The arguments for the Bill are that it would enhance the accountability and transparency of the intelligence and security agencies, protect national security and public interest, and ensure fair and just outcomes for claimants and defendants in civil cases involving sensitive information.
+
+Against - Voting 'Noes' means opposing the Bill and its provisions. The arguments against the Bill are that it would undermine the principles of open justice and natural justice, give excessive powers to Ministers and judges to exclude evidence and parties from civil cases, and compromise the independence and credibility of the Intelligence and Security Committee.
+
+Decision - Voting 'Aye' is associated with greater police powers, harsher punishments, strengthening Crime & Justice. This is because the Bill would give more authority and discretion to the intelligence and security agencies and the Government to deal with threats to national security and public interest, and to limit the access and disclosure of sensitive information in civil cases.
+
+Sentiment - A

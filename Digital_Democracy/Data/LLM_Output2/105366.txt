@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I can help you review the text file open in your current webpage. Here is my response based on your request:
+
+Summary - The text file is a transcript of a parliamentary debate on the Jobseekers (Back to Work Schemes) Bill, which aims to validate the sanctions imposed on claimants who failed to participate in work-related schemes. The debate covers the legal, ethical and practical aspects of the Bill.
+
+For - Voting 'Ayes' means supporting the Bill and its retrospective effect. It means agreeing with the Government that the sanctions were lawful and necessary to encourage claimants to comply with the schemes and find work. It also means avoiding the potential loss of £130 million to the public purse.
+
+Against - Voting 'Noes' means opposing the Bill and its retrospective effect. It means siding with the Court of Appeal that the sanctions were unlawful and unfair to claimants who were not properly informed of their obligations and rights. It also means upholding the rule of law and the principle of natural justice.
+
+Decision - Voting 'Aye' is associated with cutting spending on, and provision of, welfare and social housing. It implies that claimants who do not meet the requirements of the schemes should face financial penalties and reduced benefits. It also implies that welfare spending should be minimised and controlled by the Government.
+
+Sentiment - B

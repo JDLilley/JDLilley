@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I have reviewed the text file open in your current webpage and I will try to answer your questions as best as I can.
+
+Summary - The text file is a transcript of a debate in the UK Parliament on the Public Service Pensions Bill, which aims to reform the pension schemes for public sector workers. The debate covers various aspects of the Bill, such as the fair deal policy, the local government pension scheme, and the defined benefit schemes.
+
+For - Voting 'Ayes' in the division: Consideration of the Bill, as amended in the Public Bill Committee; Amendment 10 proposed; Question accordingly negatived, means supporting the Government's proposal to exclude Scottish local government workers from the Bill, unless approved by the Scottish Parliament. This would respect the devolved powers of Scotland and allow more flexibility for its pension scheme.
+
+Against - Voting 'Noes' in the division: Consideration of the Bill, as amended in the Public Bill Committee; Amendment 10 proposed; Question accordingly negatived, means opposing the Government's proposal and insisting that Scottish local government workers should be subject to the same reforms as other public sector workers. This would ensure consistency and fairness across the UK and avoid creating a two-tier system.
+
+Decision - Voting 'Aye' in the division: Consideration of the Bill, as amended in the Public Bill Committee; Amendment 10 proposed; Question accordingly negatived, is not directly associated with either greater or lesser spending on, or provision of, welfare and social housing. It is more about the constitutional relationship between Scotland and the UK and the autonomy of Scottish local government pension scheme.
+
+Sentiment - C

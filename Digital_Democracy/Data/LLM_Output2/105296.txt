@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I can help you review the text file open in your current webpage. Here is my response:
+
+Summary - The text file is a transcript of a debate in the UK Parliament on a bill to restore the presumption of charitable status for all religious institutions, which was challenged by the Charity Commission.
+
+For - Voting 'Ayes' means supporting the bill and the argument that religious institutions have a public benefit and should not be subject to state interference or secular bias. It also means defending the freedom of religion and the historical tradition of charity law.
+
+Against - Voting 'Noes' means opposing the bill and the argument that religious institutions should have to demonstrate their public benefit and comply with the Charity Commission's criteria. It also means upholding the principle of accountability and transparency for all charities.
+
+Decision - Voting 'Aye' in the division is not directly associated with either greater or lesser spending on, or provision of, welfare and social housing. However, it could have an indirect impact depending on how the bill affects the charitable sector and the public services that rely on it.
+
+Sentiment - C

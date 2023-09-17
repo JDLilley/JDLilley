@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I can help you review the text file open in your current webpage. Here is my response based on your request:
+
+Summary - The text file is a transcript of a debate in the UK Parliament on the Finance (No. 2) Bill, which contains various measures related to taxation and housing. The debate covers different aspects of the bill, such as the Help to Buy scheme, the mansion tax, and the 10p starting rate of income tax.
+
+For - Voting for the Finance (No. 2) Bill means supporting the Government's policies to stimulate the housing market and the economy, by providing equity loans and mortgage guarantees to home buyers, and by reducing taxes for businesses and individuals.
+
+Against - Voting against the Finance (No. 2) Bill means opposing the Government's policies as ineffective, unfair, and risky, by arguing that they will inflate house prices, benefit the wealthy, and increase public debt, and by proposing alternative policies such as increasing affordable housing supply and introducing a mansion tax.
+
+Decision - Voting for the Finance (No. 2) Bill is associated with stimulus and the free market, because it aims to boost demand and supply in the housing market by using public funds to facilitate private transactions, and because it lowers taxes for businesses and individuals.
+
+Sentiment - A

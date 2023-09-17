@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I can help you review the text file open in your current webpage. Here is my response based on your request:
+
+Summary - The text file is a transcript of a debate in the UK Parliament on the Energy Bill, which aims to reform the electricity market and promote low-carbon generation. The main issue is whether to set a decarbonisation target for 2030 or not.
+
+For - Voting 'Ayes' means supporting amendment 11, which would require the Secretary of State to set a decarbonisation target for 2030 by 1 April 2014, based on the advice of the Committee on Climate Change[1][2]. This would provide certainty and clarity for investors, reduce greenhouse gas emissions, and create jobs in low-carbon industries.
+
+Against - Voting 'Noes' means rejecting amendment 11, which would allow the Secretary of State to decide whether to set a decarbonisation target for 2030 or not, and only after 2016. This would give more flexibility and choice for the Government, avoid imposing unnecessary costs on consumers and businesses, and enable a balanced and diversified energy mix.
+
+Decision - Voting 'Aye' in the division is associated with prioritising environmental sustainability in the context of Environment & Energy, because it would commit the UK to a low-carbon trajectory that is consistent with its climate change obligations and aspirations. It would also signal the UK's leadership and ambition in the global efforts to limit the risks of dangerous climate change.
+
+Sentiment - A

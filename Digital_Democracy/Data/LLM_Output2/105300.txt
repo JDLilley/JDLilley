@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I can help you review the text file open in your current webpage. Here is my response:
+
+Summary - The text file is a transcript of a debate in the UK Parliament on a bill that would limit the annual increase of certain welfare benefits to 1% for three years. The bill was proposed by the Conservative-Liberal Democrat coalition government and opposed by the Labour party and some other parties.
+
+For - Voting 'Ayes' in the division means supporting the bill and agreeing to the programme motion that sets out the timetable for its further stages. The government argued that the bill was necessary to reduce the deficit, restore fairness between taxpayers and benefit claimants, and encourage work.
+
+Against - Voting 'Noes' in the division means opposing the bill and rejecting the programme motion that limits the time for scrutiny and amendments. The opposition argued that the bill was unfair, punitive and ineffective, as it would hit the poorest and most vulnerable people, including many working families, and increase child poverty.
+
+Decision - Voting 'Aye' in the division is associated with cutting spending on, and provision of, welfare and social housing. The bill would affect benefits such as housing benefit, income support, jobseeker's allowance, child benefit and tax credits, which are important sources of income for many low-income households who rely on social housing.
+
+Sentiment - B

@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I can help you review the text file open in your current webpage. Here is my response based on your request:
+
+Summary - The text file is a transcript of a parliamentary debate on the Finance (No. 2) Bill in the UK House of Commons in 2023. The debate covers various aspects of housing policy, such as the Help to Buy scheme, the mansion tax, and the bank levy.
+
+For - Voting for the amendment 2 to clause 200 means supporting a lower rate of bank levy for banks that lend more to small and medium-sized enterprises. The amendment is proposed by the Labour party, which argues that this would stimulate the economy and help businesses.
+
+Against - Voting against the amendment 2 to clause 200 means rejecting a lower rate of bank levy for banks that lend more to small and medium-sized enterprises. The amendment is opposed by the Conservative party, which argues that this would reduce the revenue from the bank levy and undermine its purpose of discouraging excessive risk-taking by banks.
+
+Decision - Voting for the amendment 2 to clause 200 is associated with stimulus and the free market, because it aims to encourage more lending and investment by banks, which would boost economic growth and create more opportunities for entrepreneurs.
+
+Sentiment - A

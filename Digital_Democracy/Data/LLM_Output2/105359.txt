@@ -1,0 +1,13 @@
+## Bing
+
+Thank you for your request. Here is my response based on the text file open in your current webpage:
+
+Summary - The text file is a transcript of a debate in the UK Parliament on the Crime and Courts Bill [Lords], which deals with various issues related to crime and justice, such as the National Crime Agency, judicial appointments, and immigration.
+
+For - Voting 'Ayes' in the division on judicial appointments means supporting the Government's proposal to allow the Lord Chancellor to reject a candidate for judicial office if they are not satisfied with their merit or diversity, and to require consultation with senior judges before making an appointment.
+
+Against - Voting 'Noes' in the division on judicial appointments means opposing the Government's proposal and defending the current system, which gives the Lord Chancellor a limited role in accepting or rejecting candidates recommended by an independent Judicial Appointments Commission.
+
+Decision - Voting 'Aye' in the division on judicial appointments is associated with limiting the independence and impartiality of the judiciary, and potentially undermining public confidence in the justice system. It could also be seen as giving more power to the executive branch over the judicial branch, which could affect the balance of powers and checks and balances in a democracy.
+
+Sentiment - B

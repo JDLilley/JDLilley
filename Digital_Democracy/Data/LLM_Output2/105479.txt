@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I can help you review the text file open in your current webpage. Here is my response based on your request:
+
+Summary - The text file is a transcript of a parliamentary debate on a bill that aims to regulate third-party campaigning and lobbying activities in the UK. The debate covers various amendments and clauses of the bill, and the concerns raised by different parties and organisations.
+
+For - Voting 'Ayes' in the division means supporting the Government's proposal to include staff costs as part of the controlled expenditure for third-party campaigners. The Government argues that this would ensure consistency and transparency in the regulation of election spending.
+
+Against - Voting 'Noes' in the division means opposing the Government's proposal and favouring the status quo, which does not require third-party campaigners to account for staff costs. The Opposition argues that this would impose an unnecessary and disproportionate burden on charities and voluntary organisations.
+
+Decision - Voting 'Aye' in the division could be seen as associated with accountability and decentralisation in the context of parliamentary procedures, because it would make third-party campaigners more accountable for their spending and influence, and it would decentralise the power of political parties by allowing more voices to participate in the electoral process.
+
+Sentiment - A

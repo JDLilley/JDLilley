@@ -1,0 +1,13 @@
+## Bing
+
+Thank you for your request. Here is my response based on the text file open in your current webpage:
+
+Summary - The text file is a transcript of a debate in the House of Commons on the Enterprise and Regulatory Reform Bill, which aims to promote growth and reduce regulatory burdens on businesses[1]. The debate covers four issues: the Equality and Human Rights Commission, caste discrimination, health and safety, and letting and managing agents.
+
+For - Voting 'For' (Ayes) in the division means supporting the Government's proposal to repeal the general duty for the EHRC, which they consider vague, unnecessary and obsolete. They argue that the EHRC has other clear and specific duties to promote equality and human rights, and that the general duty does not help it to achieve its core purpose.
+
+Against - Voting 'Against' (Noes) in the division means opposing the Government's proposal to repeal the general duty for the EHRC, which they consider a vital statement of vision and mission for the commission. They argue that the general duty sets out the cultural and ethical principles of equality and human rights, and that it helps the EHRC to change society for the better.
+
+Decision - Voting 'For' (Ayes) in the division is associated with austerity & regulation, because it reduces the scope and ambition of the EHRC, which is a public body that monitors and enforces equality and human rights legislation. It also signals a lack of commitment to the development of a society that values diversity and respects human dignity.
+
+Sentiment - B

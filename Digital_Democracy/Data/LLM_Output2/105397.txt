@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I can help you review the text file open in your current webpage. Here is my response:
+
+Summary - The text file is a transcript of a debate in the UK House of Commons on the Growth and Infrastructure Bill, which aims to promote economic growth and development. The main focus is on the employee shareholder clause, which allows workers to trade some of their employment rights for shares in the company.
+
+For - Voting for the motion means supporting the employee shareholder clause as amended by the Lords, which requires independent legal advice, written particulars, and a cooling-off period for those who accept the new status. The Government argues that this will create a new option for companies and individuals to align their interests and incentives.
+
+Against - Voting against the motion means opposing the employee shareholder clause and wanting to remove it from the Bill. The Opposition argues that this will erode workers' rights, foster tax avoidance, and have no positive impact on growth. They also criticise the lack of evidence and consultation behind the proposal.
+
+Decision - Voting for the motion is associated with stimulus and the free market, as it introduces a new form of employment status that reduces regulation and offers tax benefits for both employers and employees. It also aims to encourage investment and innovation by giving workers a stake in the company's performance.
+
+Sentiment - A

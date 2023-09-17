@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I can help you review the text file open in your current webpage. Here is my response based on your request:
+
+Summary - The text file is a transcript of a debate in the UK Parliament on the Justice and Security Bill, which proposes to extend the use of closed material procedures (CMPs) in civil cases involving national security. The debate covers various amendments and arguments for and against the Bill.
+
+For - Voting 'Ayes' for Amendment 30 means supporting the condition that a CMP can be used only if the degree of harm to national security from disclosing the material outweighs the public interest in open justice[1]. This would limit the use of CMPs and protect the principle of transparency.
+
+Against - Voting 'Noes' for Amendment 30 means opposing the condition that a CMP can be used only if the degree of harm to national security from disclosing the material outweighs the public interest in open justice[1]. This would give more discretion to the judge to decide whether to use a CMP and protect the principle of fairness.
+
+Decision - Voting 'Aye' for Amendment 30 is associated with freedom and autonomy, limiting police powers and softer punishments, limiting Crime and Justice. This is because it would restrict the ability of the Government to withhold sensitive information from the other party and the public in civil cases, and it would uphold the right to a fair trial and open justice.
+
+Sentiment - B

@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I can help you review the text file open in your current webpage. Here is my response based on your request:
+
+Summary - The text file is a transcript of a parliamentary debate on a bill that aims to create a register of lobbyists, regulate third-party campaigning and trade union administration. The debate covers the arguments for and against the bill, as well as the amendments and divisions.
+
+For - Voting 'Ayes' in the division means supporting the Government's motion to set a timetable for the bill's passage. This would ensure that the bill is scrutinised and enacted in a timely manner, and that it delivers transparency and accountability in the political system.
+
+Against - Voting 'Noes' in the division means opposing the Government's motion to limit the time for debating the bill. This would allow more time for scrutiny and amendments, and reflect the concerns of charities, campaigners and trade unions that the bill is poorly drafted and restricts their activities.
+
+Decision - Voting 'Aye' in the division is associated with reduced bureaucracy and centralisation in the context of parliamentary procedures. This is because it would expedite the legislative process and give more power to the Government to control the agenda and outcome of the bill.
+
+Sentiment - B

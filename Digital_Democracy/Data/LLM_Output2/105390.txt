@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I can help you review the text file open in your current webpage. Here is my response based on your request:
+
+Summary - The text file is a transcript of a parliamentary debate on the Finance (No. 2) Bill, which covers various tax-related issues. The debate focuses on clause 1, which reduces the top rate of income tax from 50p to 45p.
+
+For - Voting for clause 1 means supporting the Government's decision to cut the top rate of income tax for people earning more than £150,000[1]. The Government argues that this will boost economic growth, reduce tax avoidance, and increase tax revenues.
+
+Against - Voting against clause 1 means opposing the Government's decision to cut the top rate of income tax for people earning more than £150,000[1]. The Opposition argues that this will benefit the richest at the expense of the poorest, widen inequality, and reduce public services.
+
+Decision - Voting for clause 1 is associated with stimulus and the free market. The Government believes that lowering taxes for high earners will stimulate economic activity and create a more competitive and dynamic market. The Opposition believes that this will have a negative impact on social justice and public spending.
+
+Sentiment - A

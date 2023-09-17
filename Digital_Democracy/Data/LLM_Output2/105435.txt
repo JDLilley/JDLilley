@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I can help you review the text file open in your current webpage. Here is my response based on your request:
+
+Summary - The text file is a transcript of a debate in the UK Parliament on the Finance Bill, which proposes to cut the income tax rate for the highest earners from 50% to 45%. The opposition Labour party argues that this is unfair and ineffective, while the government coalition defends it as a pro-growth measure.
+
+For - Voting for the new clause NC8 means supporting the Labour party's proposal to require the Chancellor to publish a report on the impact of the tax cut for the richest, and to review the possibility of restoring the 50% rate in 2014-15. This implies a preference for a more progressive and redistributive tax system.
+
+Against - Voting against the new clause NC8 means rejecting the Labour party's proposal and backing the government coalition's decision to cut the income tax rate for the highest earners from 50% to 45%. This implies a belief that lower taxes for the rich will stimulate economic activity and increase tax revenues.
+
+Decision - Voting for the new clause NC8 is associated with austerity and regulation, as it suggests a willingness to maintain higher taxes on the wealthy and to scrutinize the effects of tax cuts on public finances and inequality. Voting against the new clause NC8 is associated with stimulus and the free market, as it indicates a preference for lower taxes on the rich and a faith in market forces to generate growth.
+
+Sentiment - A

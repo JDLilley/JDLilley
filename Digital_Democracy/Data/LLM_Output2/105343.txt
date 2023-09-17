@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I can help you review the text file open in your current webpage. Here is my response based on your request:
+
+Summary - The text file is a transcript of a debate in the UK Parliament on the Justice and Security Bill, which proposes to extend the use of closed material procedures (CMPs) in civil cases involving national security. The debate covers various amendments and arguments for and against the Bill.
+
+For - Voting 'Ayes' for Amendment 38 means supporting the requirement that the court must consider the degree of harm to national security if the material is disclosed and whether that damage outweighs the public interest in the fair and open administration of justice[1][2]. This would ensure that CMPs are used only when absolutely necessary and proportionate.
+
+Against - Voting 'Noes' for Amendment 38 means opposing the requirement that the court must consider the degree of harm to national security if the material is disclosed and whether that damage outweighs the public interest in the fair and open administration of justice[2]. This would give more discretion to the judge to decide whether to use CMPs without imposing additional tests or criteria.
+
+Decision - Voting 'Aye' for Amendment 38 is associated with freedom and autonomy, limiting police powers and softer punishments, limiting Crime & Justice. This is because it would restrict the use of CMPs, which are seen as a deviation from open and fair justice, and protect the rights of individuals to challenge the Government's actions.
+
+Sentiment - B

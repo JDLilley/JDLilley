@@ -1,0 +1,13 @@
+## Bing
+
+Thank you for your request. Here is my response based on the text file open in your current webpage:
+
+Summary - The text file is a transcript of a parliamentary debate on the Welfare Benefits Up-rating Bill, which proposes to limit the annual increase of certain benefits to 1% for three years. The debate covers the arguments for and against the Bill, as well as the impact on different groups of people.
+
+For - Voting 'Ayes' in the division means supporting the Bill and rejecting the amendment that declines to give it a second reading. The arguments for voting 'Ayes' are that the Bill is necessary to reduce the deficit, restore fairness between those in work and those on benefits, and make the welfare system more sustainable and efficient.
+
+Against - Voting 'Noes' in the division means opposing the Bill and accepting the amendment that declines to give it a second reading. The arguments for voting 'Noes' are that the Bill is unfair, unjustified, and ineffective. It will increase poverty, inequality, and hardship for millions of people, especially children, disabled people, and low-paid workers.
+
+Decision - Voting 'Aye' in the division is associated with cutting spending on and provision of welfare and social housing. The Bill will reduce the real value of benefits for many people who rely on them to meet their basic needs, including housing costs. It will also undermine the principles of social security and universal credit.
+
+Sentiment - B

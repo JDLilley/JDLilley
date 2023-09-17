@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I can help you review the text file open in your current webpage. Here is my response based on your request:
+
+Summary - The text file is a transcript of a debate in the UK Parliament on the Financial Services (Banking Reform) Bill, which aims to improve the regulation and stability of the banking sector. The debate covers various amendments and clauses proposed by the Government and the Opposition.
+
+For - Voting for NC9 means supporting the proposal to require banks to separate their retail and investment activities completely, rather than ring-fencing them. This is intended to protect depositors and taxpayers from the risks of speculative banking.
+
+Against - Voting against NC9 means opposing the proposal to require full separation of banks' retail and investment activities. This is based on the argument that ring-fencing is sufficient to ensure financial stability and that full separation would harm the competitiveness and efficiency of the banking sector.
+
+Decision - Voting for NC9 is associated with austerity and regulation, as it implies a stricter and more interventionist approach to banking reform. It also reflects a distrust of the banking industry and a desire to limit its scope and influence.
+
+Sentiment - B

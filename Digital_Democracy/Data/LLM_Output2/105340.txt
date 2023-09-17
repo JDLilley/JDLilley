@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I will try to review the text file open in your current webpage and answer your questions as best as I can. 😊
+
+Summary - The text file is a transcript of a debate in the UK Parliament on the Justice and Security Bill, which proposes to extend the use of closed material procedures (CMPs) in civil cases involving national security. The debate covers various amendments and arguments for and against the Bill.
+
+For - Voting 'Ayes' in the division means supporting amendment 26, which would require the court to balance the harm to national security and the public interest in open justice before granting a CMP. This would limit the use of CMPs and uphold the principle of open justice.
+
+Against - Voting 'Noes' in the division means opposing amendment 26, which would restrict the discretion of the judge to decide whether a CMP is necessary for a fair and effective trial. This would allow the Government to defend itself against allegations of wrongdoing without disclosing sensitive information.
+
+Decision - Voting 'Aye' in the division is associated with freedom and autonomy, limiting police powers and softer punishments, limiting Crime & Justice. This is because it would make it harder for the Government to use CMPs to conceal evidence that might implicate them in human rights violations or other misconduct.
+
+Sentiment - B

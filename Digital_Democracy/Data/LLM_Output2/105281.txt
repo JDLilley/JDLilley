@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I have reviewed the text file open in your current webpage and I will try to answer your questions as best as I can.
+
+Summary - The text file is a transcript of a parliamentary debate on the Public Service Pensions Bill, which aims to reform the pension schemes for public sector workers in the UK. The debate covers various aspects of the Bill, such as the fair deal policy, the career average scheme, the local government pension scheme, and the governance and valuation of the schemes.
+
+For - Voting 'Ayes' in the division means supporting new clause 3, which would guarantee that public service workers who are transferred to independent contractors would retain their membership of their current pension scheme[1]. This would protect their pension rights and benefits, and ensure that they are not disadvantaged by outsourcing or privatisation.
+
+Against - Voting 'Noes' in the division means rejecting new clause 3, which would leave the fair deal policy to be decided by future regulations or consultations. This would allow more flexibility for the Government and employers to change the pension arrangements for transferred staff, and potentially reduce the costs and risks of providing defined benefit schemes.
+
+Decision - Voting 'Aye' in the division is associated with greater spending on, and provision of, welfare and social housing. This is because retaining public service pension schemes for transferred staff would require more funding from the Government and employers, and also because it would support the public service ethos and values of those who work in welfare and social housing sectors.
+
+Sentiment - A
