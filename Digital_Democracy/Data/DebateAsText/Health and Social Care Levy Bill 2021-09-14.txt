@@ -1,0 +1,802 @@
+ Health and Social Care Levy Bill
+
+Considered in Committee (Order, this day)
+
+[Mr Nigel Evans in the Chair]
+
+The Second Deputy Chairman of Ways and Means (Mr Nigel Evans)
+I should explain that although the Chair of the Committee would normally sit in the Clerk’s chair during a Committee stage, I will remain here in the Speaker’s chair while we still have screens around the table, although I will be carrying out the role not of Deputy Speaker, but as Chairman of the Committee. I should therefore be referred to as the Chair of the Committee rather than as the Deputy Speaker.
+
+Clause 1
+
+Health and social care levy
+
+Question proposed, That the clause stand part of the Bill.
+
+The Second Deputy Chairman
+With this it will be convenient to discuss the following:
+
+Amendment 8, in clause 2, page 2, line 21, at end insert—
+
+“(1A) HMRC shall publish a forecast of the estimated costs of collecting the health and social care levy for the tax year 2023-24 by 31 March 2022.”
+
+This amendment would require the Government to publish in advance of the levy coming into force its assessment of the extra costs of collecting the levy.
+
+Amendment 7, page 2, line 23, after “cost” insert
+
+“in current or future years”.
+
+Amendment 1, page 2, line 28, leave out from first “as” to end of line 30 and insert
+
+“determined by joint agreement between the Treasury and the devolved administrations of Wales, Scotland and Northern Ireland.”
+
+This amendment would require agreement between the Treasury and the devolved administrations of Wales, Scotland and Northern Ireland as to the shares of the proceeds of the levy that are allocated between health and social care and between England, Wales, Scotland and Northern Ireland.
+
+Amendment 4, page 2, line 29, leave out from “as” to end of line 30 and insert
+
+“determined jointly by the Treasury and the devolved governments of Scotland, Wales and Northern Ireland.”
+
+The amendment would require joint agreement between the Treasury and the governments of Scotland, Wales and Northern Ireland as to how the levy proceeds are to be shared between the four areas and between health care and social care.
+
+Clauses 2 to 7 stand part.
+
+New clause 1—Equality impact analysis—
+
+“(1) The Chancellor of the Exchequer must review the equality impact of this Act and lay a report of that review before the House of Commons within six months of the passing of this Act.
+
+(2) A review under this section must consider the impact of the Act on—
+
+(a) households at different levels of income,
+
+(b) households at different levels of wealth,
+
+(c) equality between different ages, and
+
+(d) impact between the nations of the UK and regions of England.
+
+(3) In this section ‘regions of England’ has the same meaning as that used by the Office for National Statistics.”
+
+This new clause seeks an equality impact assessment of the Bill covering households at different levels of income and wealth; equality between different ages; and the impact between the nations of the UK and regions of England.
+
+New clause 2—Review of economic impact of Act—
+
+“(1) The Chancellor of the Exchequer must review the economic impact in parts of the United Kingdom and regions of England of the changes made by this Act and lay a report of that review before the House of Commons within six months of the passing of this Act.
+
+(2) A review under this section must consider the effects of the provisions of the Act on—
+
+(a) business investment,
+
+(b) employment,
+
+(c) productivity,
+
+(d) GDP growth, and
+
+(e) poverty.
+
+(3) In this section ‘parts of the United Kingdom’ means—
+
+(a) England,
+
+(b) Scotland,
+
+(c) Wales, and
+
+(d) Northern Ireland
+
+and ‘regions of England’ has the same meaning as that used by the Office for National Statistics.”
+
+This new clause seeks an economic assessment of the Bill on investment, employment, productivity, growth and poverty in the devolved nations and English regions.
+
+New clause 3—Review of revenue effects of Act—
+
+“(1) The Chancellor of the Exchequer must review the revenue effects of this Act and lay a report before the House of Commons within six months of the passing of this Act and every 12 months thereafter.
+
+(2) Any review under this section must include an assessment of—
+
+(a) the impact of this Act on revenue derived from—
+
+(i) employment, and
+
+(ii) self-employment; and
+
+(b) the impact of the revenues under this Act from employment and self-employment on the revenues derived from taxation on—
+
+(i) dividends,
+
+(ii) rental income, and
+
+(iii) other forms of personal income.”
+
+This new clause would require the Chancellor to report to the House on the impact of the Act on tax revenue derived from different sources of income.
+
+New clause 4—Review of impact of Act on business—
+
+“(1) The Chancellor of the Exchequer must review the impact of this Act on business and lay a report before the House of Commons within six months of the passing of this Act and every 12 months thereafter.
+
+(2) Any review under this section must provide a separate analysis of the impact of the Act on the operating costs and profits of—
+
+(a) small and medium sized enterprises,
+
+(b) large enterprises solely based in the UK, and
+
+(c) large multinational enterprises.”
+
+This new clause would require the Chancellor to report to the House on the impact of the Act on the operating costs and profits of different sizes of business enterprises.
+
+New clause 5—Review of equality impact of Act—
+
+“(1) The Chancellor of the Exchequer must review the equality impact of this Act and lay a report before the House of Commons within six months of the passing of this Act and every 12 months thereafter.
+
+(2) A review under this section must provide a separate analysis of the equality impact of this Act on—
+
+(a) income inequality,
+
+(b) wealth inequality,
+
+(c) geographical inequality,
+
+(d) inequality between people with protected characteristics (within the meaning of the Equality Act 2010), and
+
+(e) socio-economic status.”
+
+This new clause would require the Chancellor to report to the House on the equality impact of the Act.
+
+New clause 6—Report on levy expenditure shares—
+
+“The Chancellor of the Exchequer must report to the House of Commons at the end of each financial year the share of the levy spent on—
+
+(a) health care, and
+
+(b) social care.”
+
+This new clause would require the Chancellor to report annually to the House on the share of the levy spent on health care and on social care.
+
+New clause 7—Report on levy revenue derived from those in the social care sector—
+
+“The Chancellor of the Exchequer must lay a report before the House of Commons within six months of the passing of this Act, and every 12 months thereafter, containing an assessment of the levy revenue derived from those working in the social care sector.”
+
+This new clause would require the Chancellor to report to the House on levy revenue derived from those working in the social care sector.
+
+New clause 10—OTS Assessment of levy and National Insurance increase—
+
+“(1) The Office for Tax Simplification shall publish by 30 September 2022 a report assessing the advantages and disadvantages of introducing the health and social care levy in comparison to the increase in National Insurance.
+
+(2) The report shall include an assessment of the costs of HMRC in collecting the levy and for employers in complying with their obligations in relation to the levy.”
+
+This new clause would require the OTS to publish by September 2022 its assessment of the merits of the levy in comparison with the increase in National Insurance, including costs of compliance with and collection of the levy.
+
+17:30:00
+
+Jesse Norman
+It is a great pleasure to be here today to explain the clauses in this Bill.
+
+The Social Security Contributions and Benefits Act 1992 sets out the earnings and profits on which employees, employers and the self-employed are liable to pay national insurance contributions. Clause 1 of the Bill introduces a new tax, to be known as the health and social care levy, which will be charged on the same basis as national insurance contributions. The levy will be set at 1.25%, and will affect earnings from 6 April 2023 onwards. When individuals or employers are liable for a qualifying national insurance contribution, they will also be liable for the levy. The levy will be payable on the earnings and profits on which those contributions are payable. The qualifying national insurance contributions in question are primary class 1 NICs that employees pay on their earnings, secondary class 1 NICs that employers pay on the earnings of their employees, class 1A and class B NICs that employers pay on benefits in kind received by their employees, and class 4 NICs paid by the self-employed.
+
+This new levy has been introduced to raise funds for health and social care, so it is only right that individuals of all ages who are able to pay should do so. Therefore, individuals over state pension age who would be liable for those contributions were they not exempt will be liable for this levy.
+
+Sir Edward Leigh (Gainsborough) (Con)
+If we are talking about an insurance system, can the Government explain why they have ruled out state-sponsored insurance? I can understand why they cannot rely entirely on private insurance—the risk is too great—but Dilnot originally came up with the idea that people could take out insurance when they retired which would be a charge on their house, and they would have to pay it back when they died on the basis of the value of their house. I am not asking the Government to accept these ideas now; I am simply asking whether they have an open mind and are prepared to look at them. This is a complicated matter, and we want to have a real insurance system.
+
+Jesse Norman
+In the collective sense, this is a state insurance system, because it is making long-term provision for catastrophic outcomes in people’s health and social care, but the point that my right hon. Friend has made is an acute one. He will be aware that both the King’s Fund and the House of Lords Economic Affairs Committee have looked at private insurance models and concluded that they have severe limitations that would not make them appropriate. Indeed, no country in the world has a purely private insurance model. It has certainly been contemplated by Professor Dilnot, and it is compatible with the thrust of this legislation, that there should then arise a private insurance market, now that some of these catastrophic risks have been removed from the calculus that individuals have to make about their own social care. I hope that that addresses my right hon. Friend’s point.
+
+As I was saying, individuals over state pension age who would be liable for those contributions were they not exempt will be liable for this levy. That means that pensioners in work will now contribute 1.25% of their “NIC-able” earnings, or profit, to health and social care in the same way as working-age employees and self-employed individuals.
+
+Clause 3 discusses in more detail how NICs legislation applies to the levy. However, clause 1 also ensures that when an employer benefits from a zero rate of secondary class 1 NICs, such as employers of people under 21, of apprentices who are under 25, of veterans or of employees in freeports, those earnings that are subject to the zero rate will not be liable for the levy. That will ensure that businesses continue to invest in young people developing strong skill sets, and in those who have served this country.
+
+John Redwood
+As I understand it, it is the Government’s wish that the social care levy should appear as a separately identified line item, with that phrasing, on a payslip. Could it also be clear on a payslip that it would represent only a small fraction of social care costs and a tiny fraction of health costs? Otherwise, it could be very misleading.
+
+Jesse Norman
+That is a helpful suggestion. I do not think there will be any ambiguity in the language on the slip, but of course it might not be clear that it is not the totality of the funding that goes through Government. If I may, I will take what my right hon. Friend has said as a suggestion and refer it to colleagues.
+
+Sir William Cash (Stone) (Con)
+I would like to ask the Minister, as he has such responsibilities across the board, whether he has contemplated the question of public waste in the context of, for example, HS2? If we were to cut that back and to cut back waste generally throughout Government, would that not send an enormously powerful message to the British people that we are not only concentrating on this aspect of public expenditure but balancing it off by making real savings in other areas, given that the Treasury or its economic advisers have said that they have put phase 2a of the HS2 legislation on red watch because it is so impossible to achieve its objectives?
+
+Jesse Norman
+My hon. Friend has successfully dragooned a topic that has nothing to do with national insurance contributions or the levy into the debate, but let me reassure him that the Treasury seeks to exercise a hawk-like vigilance over all public spending. I do not think it would be appropriate to think of the response to the pandemic of the past two years as characteristic of the Treasury’s overall largesse, and we look very closely at the spending on HS2, which is the specific responsibility of my right hon. Friend the Chief Secretary to the Treasury and one that I know he takes with great seriousness.
+
+Dr Murrison
+The fact that the social care levy will be introduced in 2023 and not 2022, and that in the interim we will have to rely on national insurance, suggests that creating it will involve quite a lot of work and expense. How much is it going to cost to introduce the levy, beyond national insurance? Based on that, we will need to make an assessment as to whether it is worth while putting the 1.25% levy on people who are past state retirement age. If it is costly, we should not do it and simply rely on national insurance contributions. Allied to that, how much does my right hon. Friend think the 1.25% levy is going to raise from people who are beyond state retirement age?
+
+Jesse Norman
+That was a series of questions. The payslips that people are given will be generated by their own companies in the large part, and it is therefore important to think not only about the changes that HMRC will have to make but about the changes to be made by companies in order to reflect the amendment to payslips. In the case of HMRC, the Government have clarified in a letter to the Treasury Committee that, although it is very early days, HMRC provisionally estimates the operational costs of implementing the levy at between £50 million and £60 million, which is not nothing but it is not substantial in the context of the overall amount to be raised. I think the final part of my right hon. Friend’s question related to the amount that would be attributed to the over-65s. One would expect that to be relatively modest, because the number of qualifying people will not be enormous and because they generally have a high propensity to manage their work-life balance, meaning that there might be a dynamic effect from the levy. I am not aware that we have put that number into the public domain, but if we have it, I will see if we can publish it, probably at a future fiscal event—at the Budget or thereafter.
+
+Dr Murrison
+rose—
+
+The Second Deputy Chairman
+Order. Just before Dr Murrison makes a further intervention, can I ask the Minister please to face the microphone? Otherwise, Members will not be able to hear his responses; I have found it difficult to hear him.
+
+Jesse Norman
+I do apologise, Mr Evans.
+
+Dr Murrison
+Just to clarify my thinking on this matter, is that £50 million to £60 million a one-off or a recurring feature?
+
+Jesse Norman
+I think it is the set-up cost, although it may be incurred over more than one year. As I say, it is a very preliminary number that we have tried to get for the purposes of responding to the Treasury Committee’s inquiry.
+
+Nigel Mills (Amber Valley) (Con)
+My right hon. Friend talks about the advantages of having clarity on payslips about what people are paying for with the health and social care levy. Has he thought about combining the existing national insurance contributions that are allocated directly to the NHS and do not go into the National Insurance Fund? They are around £26 billion each year, which would effectively treble the amount of money in the levy. That would make it much clearer that people are paying all of it towards the health system, rather than having two different taxes doing exactly the same thing in slightly different ways.
+
+Jesse Norman
+My hon. Friend rightly points out that an element of NICs is already hypothecated, which is sometimes forgotten by people who are concerned about the hypothecation in the levy. I will take his remarks as a suggestion and reflect on them further. I recognise his expertise in this area, so I am grateful for the intervention.
+
+Serendipitously, I will now address my hon. Friend’s amendment. This amendment asks that HMRC should publish a forecast of the estimated costs of collecting the levy. The published tax information impact note sets out clearly that the operational costs of the levy are being quantified. I have given a preliminary indication, but we will publish the final estimates before the levy comes into effect in April 2022. This amendment is therefore not necessary and I would ask him to consider not pressing it to a vote.
+
+Matt Hancock (West Suffolk) (Con)
+Building on the point made by my right hon. Friend the Member for Wokingham (John Redwood), is not one of the advantages of having a separate health and social care levy that, as people’s representatives, we can explain more clearly that if we want to put more money into the system, it has to be paid for? Will that advantage not ultimately help connect people to where their money goes and, therefore, enrich the debate?
+
+Jesse Norman
+I think it will, which is why the Government have decided to make this rather important change. It may well be that this is not the end of the story, and in due course the desire for clarity about how money is spent, which is expressed elsewhere in the tax system, might manifest itself in other ways. I do not want to speculate on that, but my right hon. Friend has outlined the importance of accountability, clarity and perspicuity in how money is spent.
+
+Sir Christopher Chope (Christchurch) (Con)
+Would it not be even simpler and more transparent if we had a social care levy standing on its own? Is it not the case that the Government do not want to have a social care levy on its own because they know that, if there were transparency, it would be obvious that we were reneging on our manifesto commitment of two years ago?
+
+Jesse Norman
+I do not think that is true at all. The reason for putting it on the payslip is so that taxpayers can see that this new tax is clearly represented. If they need reassurance that the support for social care, in their own life and in the life of their family and community, will be long standing and enduring, they need only look at their payslip.
+
+Sir Christopher Chope
+If it is about social care, why do we not have an exclusive levy relating to social care? Would that not be much clearer and more transparent?
+
+Jesse Norman
+My hon. Friend invites us to think of social care as a completely separate thing, but of course there is a tremendous overlap between social care and some aspects of health. It is important to make sure that the system, which I think all hon. Members realise is too disjointed, is more joined up. This treatment therefore appears to be more appropriate to an area where we want to see more integration.
+
+Clive Lewis (Norwich South) (Lab)
+Will the Minister give way?
+
+Jesse Norman
+The hon. Gentleman has not featured in the debate so far, so I will make a bit more progress before happily taking his intervention.
+
+Amendment 7, tabled by my hon. Friend the Member for Yeovil (Mr Fysh), seeks to ensure that proceeds from the levy can be used in any tax year. As the Committee will be aware, the levy is designed to mirror the approach of the national insurance system, which has always operated on a pay-as-you-go basis. Indeed, that has been the case since the NHS and the National Insurance Fund were established in 1948. This means that national insurance contributions collected in one year are used to pay for the NHS and contributory benefits paid out in the same year. The pay-as-you-go basis provides a clear precedent for how the levy should operate and that also ensures simplicity and consistency across the NICs system. So I hope that my hon. Friend will not press his amendment, for the reasons I have outlined.
+
+17:45:00
+
+Clive Lewis
+On the point made by the hon. Member for Christchurch (Sir Christopher Chope), one reason the Government have used the term “health and social care” is that they have established a principle that people pay at the point of delivery. As we see health and social care begin to integrate, the fear for many Labour Members is that this is a Trojan horse for introducing those payments for healthcare—for the NHS. One of my fears when the Prime Minister spoke of this delivering “profoundly Conservative” outcomes was just that danger.
+
+Jesse Norman
+It is helpful to have a diagnosis of why Labour Members might be opposed to or worried by this, but the fear is entirely without foundation. There is no suggestion that the Government wish to create a system that is anything other than free at the point of delivery, and that is the basis on which the Government have always proceeded and proceed now. We are trying to put a longer-term arrangement in place for social care that allows us to bring the same kind of clarity to it that people have enjoyed for many years with the NHS.
+
+Nadia Whittome (Nottingham East) (Lab)
+If the Government believe in a social care system that is free at the point of use, why are they not delivering a social care system like that, one like the NHS, which is universal and available to everyone?
+
+Jesse Norman
+I do not know whether the hon. Lady heard, but I was talking about the NHS and that has been a founding principle of the NHS, one the Conservative party have always adhered to, and rightly so. What we are doing with the levy is funding an expansion and a development of an existing set of arrangements, and, as I have discussed in relation to the question from my right hon. Friend the Member for Gainsborough (Sir Edward Leigh), the potential to expand that through the use of other mechanisms of support, now that these catastrophic risks have been removed, or will be removed, from people’s lives.
+
+Let me turn to the amendments tabled by the Scottish National party and Plaid Cymru which look to require a joint agreement between the Treasury and the Governments of Scotland, Wales and Northern Ireland as to how the levy proceeds are to be shared between the four parts of the UK, and between healthcare and social care. As for how the levy revenue will be split between the four parts of the UK, this legislation mirrors existing legislation on how NHS allocation is divided between England, Scotland, Wales and Northern Ireland. It is right and appropriate that we should follow that established precedent. The Government will work closely with the devolved Administrations on the implementation of the levy, including on the process for allocating revenues across the UK and on the split between health and social care from April 2023 onwards. It is also worth bearing in mind that the devolved Administrations’ overall funding will continue to be determined by the Barnett formula, so that this process will just determine the element provided by the levy. I hope that the Members concerned will not press their amendments, for the reasons I have outlined.
+
+Alison Thewliss
+I do not know whether the Minister has read the note from the Hansard Society on this, but it is concerned by some of the implications for the devolution settlement. It says:
+
+“There is also no requirement in the Bill for the Treasury or the Health Secretary to consult the devolved administrations about any aspect of the process.”
+
+Is that not a cause for concern?
+
+Jesse Norman
+The Treasury already consults the devolved Administrations very closely on many aspects of tax policy and there is no reason to think, and the Bill does not suggest, that there should be any other reason for handling this. On the contrary, following an existing hypothecation gives direct support to devolved Administrations that they will be able to receive the Union dividend, which is generated and delivered by this policy.
+
+Clause 2 creates a legally binding obligation to use the funds raised by this levy for the purposes of health and social care, and sets out that HMRC will direct funds to the Secretary of State to be used for the cost of health and social care in England, Wales, Scotland and Northern Ireland. The funds from the levy will be shared between healthcare and social care, and will be shared between each nation in a proportion determined by the Treasury. The Treasury has used the long-standing Barnett formula to fund devolved Administrations and will continue to do so for the proceeds of this measure. Clause 2 goes further and ensures that any interest or penalties that can be attributed to the levy will also be used to fund health and social care. However, any expenses incurred by HMRC in collecting the levy will be deducted from the proceeds, which ensures that HMRC has the ability to collect and police this levy properly. I therefore ask Members to allow clause 2 to stand part of the Bill.
+
+Dr Murrison
+On clause 2, in 2014 we passed the Care Act and accepted the Dilnot proposals; slightly less than two years later, we canned the central part of the Dilnot proposals, in that it was decided that local government should in fact have the social care uplift, which had been anticipated in 2014. What certainty do we have that the measures we are passing today will not be dealt with in a similar way if, in two or three years’ time, we find that the pressures on local government are so acute, which they may well be, that we have to can some of the measures we discussed earlier?
+
+Jesse Norman
+I thank my right hon. Friend for his question. I think the point is perfectly clear: this levy is intended to be and will be a long-term, permanent funding arrangement to support health and social care. The plan includes a component that is designed to support local government in the delivery of care services without distorting markets that are already in existence. There is no reason to think, and we do not anticipate, that there will be specific issues that cannot be addressed at the time. The commitment to provide a longer-term funding settlement that can be reviewed and considered by individuals when they pay their national insurance contributions, and to do so in a way that gives them comfort that that same settlement will be in place, in a way similar to the state pension system, so that they can plan against it, is manifest. The Government have made that clear.
+
+Clause 3 specifies that any provisions that apply to a qualifying national insurance contribution are to apply to equivalent payments in respect of the health and social care levy. It also sets out the limitations of such provisions applying to the levy.
+
+Clause 4 provides for regulations for the purposes of the health and social care levy to be made under the Bill and specifies the parliamentary procedure that will apply to those regulations.
+
+Clause 5 sets out the transitional arrangements for the measure and specifies that they will apply only for the 2022-23 tax year. Its effect will be to increase temporarily the rates of classes 1, 1A, 1B and 4 NICs by 1.25% for one year. There will be a corresponding temporary increase in the amount of contributions allocated to the NHS by the same amount.
+
+Clause 6 defines various terms used in the Bill. Clause 7 specifies the short title of the Act as the Health and Social Care Levy Act 2021 and states that the levy is payable by or in relation to employees of the Crown. I commend all those clauses to the House.
+
+Let me turn to new clauses 1 and 2, tabled by the SNP, and clauses 3 to 5, tabled by Labour. These new clauses ask the Government to review and report on the impact of the revenue effects of the levy, its impact on business and its impact on equality. I wish to explain why they are unnecessary.
+
+The Government have already provided a number of assessments of the levy’s impact, including a distributional analysis of the impact of the combined tax and spending announcements that shows that lower-income households will be large net beneficiaries from the package, with the poorest households gaining most as a proportion of income. It also shows that the 20% of highest-income households will contribute more than 40 times the contribution of the 20% of lowest-income households.
+
+There is a further assessment in a technical annex in the Government’s plan for health and social care. It sets out the impact on the Exchequer, individuals and businesses and shows that 70% of the money raised from businesses will come from the largest 1% of businesses, while 40% of all businesses will pay nothing extra.
+
+The tax information impact note is a third form of assessment. It sets out the equality impact of the levy specifically rather than of the overall package of measures.
+
+Alex Sobel (Leeds North West) (Lab/Co-op)
+As well as on businesses, the levy will have a large effect on the bills of public services. For instance, West Yorkshire Police is looking at having to pay an extra £3 million of national insurance, and for Leeds City Council the amount for directly employed services is also in the region of £3 million. Somewhat ironically, many of the social care services that the council uses are outsourced, so the NICs will push up the cost of those services. What assessment has the Minister made of the effect of the levy on local government and the police?
+
+Jesse Norman
+The plan is clear that, to the extent that national insurance contributions are incurred by public bodies, they will be met. The funding is set up on that basis. In respect of local government, extra pressures other than those already contemplated are matters for discussion in the spending review. That is the normal fiscal procedure and the one the Government are following.
+
+I turn now to address the Opposition’s new clauses 6 and 7 on reporting the levy expenditure shares and the revenue derived from those in the social care sector. First, on the share of levy spent on health and social care, the Government already routinely publish data on departmental spending throughout the year, including at main and supplementary estimates, through public expenditure, statistical analyses and in departmental annual reports and accounts as well as data on the revenue raised from individual taxes.
+
+At present, this reporting shows, for example, exactly how much revenue NHS England receives from national insurance contributions. In future, this will show the contribution that this levy makes to the budgets of the Department of Health and Social Care and the Ministry of Housing, Communities and Local Government. There is no need for additional reporting in that context as all the relevant information will readily be publicly available. The Government have already published the amounts that will go to the NHS and to adult social care over the next three years as a result of this levy and will confirm final allocations at the spending review.
+
+Finally, on the levy revenue derived from those in the social care sector, existing data sources do not include or reliably collect data on employment by sector. It is not known which sector an individual works in, only their income types and amounts. I hope that, given these considerations, Opposition Members will not press their new clauses for the reasons that I have outlined.
+
+Let me turn to new clause 10 tabled by my hon. Friend the Member for Amber Valley (Nigel Mills). This would require the Office for Tax Simplification to publish an assessment of the merits of the levy. As outlined in the Finance Act 2016, the statutory role of the OTS is to advise on the simplification of the tax system. To assess fully the advantages and disadvantages of introducing the health and social care levy would require the OTS to consider and comment on choices with far broader policy considerations, including on health and social care, which sit well beyond its remit and expertise.
+
+The OTS functions as an adviser to the Chancellor rather to Parliament and it is for the Chancellor to commission work for the OTS or for the OTS to advise the Chancellor on its own initiative as it sees appropriate. It is not the role of Parliament to commission work from the OTS, though I have no doubt that the Treasury will have taken on board this new clause, and I thank my hon. Friend for tabling it.
+
+The published tax information and impact notes set out clearly that the operational costs for the levy are being quantified and the Government will publish these estimates before the measure comes into effect in April 2022.
+
+Nigel Mills
+Does my right hon. Friend have any rough estimate of the cost to business of having to comply with the rules of paying, in effect, a third payroll tax? Does he have any idea of the costs of changing the software to include that levy and of redesigning payslips? All those costs will have to be borne. Does he have any estimate for us before we decide whether we want a new tax or just to increase national insurance as we are doing for the first year?
+
+Jesse Norman
+It is true that, just in relation to the levy, business will bear some cost and the existing tax information and impact notes outline that there will be costs to be borne, as one would expect with any tax, let alone a broad-based tax of this kind. The package goes well beyond this, and businesses will be large beneficiaries in many ways from aspects of the package because they will benefit from having a healthier and more secure workforce than they would otherwise have. How one measures that I am not entirely clear, but I take the point that my hon. Friend makes and will, of course, refer it to colleagues. Having said that, I hope that he will not press his new clause for the reasons that I have outlined.
+
+Mr Deputy Speaker (Mr Nigel Evans)
+I would just like an indication of who will want to make independent speeches by bobbing—thank you.
+
+James Murray
+As we turn to the Bill’s Committee stage, I will address the new clauses tabled in my name and the name of my hon. Friend the Member for Erith and Thamesmead (Abena Oppong-Asare).
+
+We know that social care desperately needs more funding and the Government claim that their Bill today will help to raise some of that money, but the truth is that there is nothing in this Bill that will guarantee a penny going towards social care. I will return to that point when I address new clause 6, but first I want to look at the core measure that this Bill introduces—the unfair tax rise on working people and their jobs. Our new clause 3 would require the Government to report to the House of Commons on the impact that the Bill will have on tax revenue derived from different sources of income. On the one hand, there is income from employment and self-employment, which the Government have chosen to tax hard. On the other hand, as new clause 3 mentions, there is income from dividends, rental properties and other sources of wealth, which the Government have left untouched. We know that the Government have chosen not to raise taxes for those with large portfolios of stocks and shares, and for landlords renting out multiple properties, but the Bill even lacks any mention of taxes on dividends, despite the Prime Minister saying that they would be taxed more. Perhaps when the Financial Secretary to the Treasury responds, he could explain why the Government have chosen to delay implementing a tax rise in dividends until the next Finance Bill or beyond. Will he give us his word that the increase in tax on dividends will definitely go ahead?
+
+18:00:00
+
+As I said earlier, the Government have pulled out all the stops to push through legislation that raises taxes on jobs at breakneck speed, but they show no urgency whatever in raising the tax on dividends by an equivalent amount. Let us be clear, though: even if they do go ahead with their dividends tax increase, they have already admitted that it will raise just a small percentage of the amount that they are seeking; 95% of the revenue that they expect to generate still comes off the back of working people and their jobs.
+
+The Government have said many times that they believe that there is no alternative to the national insurance rise and the levy introduced in the Bill. Yet in the days that followed the Government’s announcement, the London School of Economics, Warwick University, the Institute for Public Policy Research, the Social Market Foundation and many others have all come forward with other ways of raising the money. Our new clause 8 would have required the Government to report, before the levy comes in, on how the revenue could be raised by increasing taxes on income derived from wealth such as rental income and income from trading financial assets, instead of from employment. Although new clause 8 has not been selected today, I hope that Government Back Benchers will have had the chance to see it on the amendment paper. Ahead of the levy’s planned introduction in 2023, there is ample time for the Government to produce such a report.
+
+Dr Dan Poulter (Central Suffolk and North Ipswich) (Con)
+I am someone who has believed in getting cross-party consensus on the future of social care funding, and who has been calling for a health and social care levy since 2016. Does the hon. Member recognise that there has actually been cross-party consensus on this issue, and that the shadow Care Minister, the hon. Member for Leicester West (Liz Kendall), called for a health and care levy in 2018? How does he reconcile that with his comments just now?
+
+James Murray
+Let us be really clear about what the shadow Care Minister, my hon. Friend the Member for Leicester West (Liz Kendall), proposed, because it was entirely different from what is being discussed now. She proposed that the tax should be raised from unearned income, and that it should be progressive and fair between generations, which fundamentally differentiates it from what we are discussing today. If the Government had truly sought to build cross-party consensus, does the hon. Gentleman not think that they would have done better to take some time over the Bill, rather than rushing it through within a week of the proposals first being announced, with limited ability for scrutiny and without any discussion of cross-party consensus about how to proceed?
+
+Dr Poulter
+Will the hon. Member give way?
+
+James Murray
+I am going to make some progress now; I have given way to the hon. Gentleman already.
+
+As I said, although new clause 8 has not been selected today, I hope that Government Back Benchers have seen it on the amendment paper and will perhaps raise the matter with their colleagues on the Front Bench.
+
+I hope, however, that there will be a vote this evening on new clause 5, and I urge Government Members to join us in voting for this crucial review of how the Bill will make inequality worse. We know how widespread and deep rooted inequality has become in our country. The latest bulletin from the Office for National Statistics on household income inequality in the UK for the financial year ending 2020 confirms what we all know: the income gap between the richest in society and the rest of the population has widened over the last decade. A tax rise that singles out income from employment can only make this inequality worse, and new clause 5 seeks to expose this.
+
+Not only does inequality manifest between people who may live in the same area, it also creates divides between different nations of a country and the regions within them. In areas where average wages are lower and fewer people get income from other assets, the impact of the national insurance rise and the levy will be more acutely felt. Recent analysis in the New Statesman suggested that within the regions of England, it is people in the north-west and the west midlands who will take the greatest hit to their disposable income as a result of the Bill.
+
+Data from the Office for National Statistics’ wealth and assets survey shows that the south-east is home to well over 3 million adults living in families with net wealth per adult of more than £250,000. That is roughly six times the number in the north-east. A tax increase that ignores income from renting out properties and selling financial assets, and that seeks to fund a plan that ignores differences in house prices and care costs between different regions, is destined to make inequality worse.
+
+Dr Murrison
+We are getting more granularity in the proposals that Opposition Front Benchers have in their heads for funding the uplift, which I think we all agree is necessary for health and social care, but can I probe the hon. Gentleman to describe the nature of the landlords or property-based businesses he has in his crosshairs for the levy of the moneys that he has in mind? Does he mean, for example, the mom and pop organisation that has bought a small residential property because it has no public sector pension, for example, and is relying on that for income in old age, or does he have in mind a business like any other business that has large numbers of commercial properties? How much does he think he is going to raise from the alternative that he has suggested?
+
+James Murray
+I thank the right hon. Gentleman for his intervention, but I do feel that there is a broad consensus across this country that those with the broadest shoulders should make more of a contribution. It is quite clear from the reaction that people have had to the Government’s proposed increase in national insurance and new levy that this is falling on working people and jobs rather than taking other sources of income from wealth into account.
+
+I have just spoken about the massive impact that this will have on inequality between different regions of the country. I therefore ask Conservative Members to guess how many times last Tuesday, when the Prime Minister announced his approach here in the House of Commons, he used the phrase “levelling up” in that 90 minute statement. It was zero. Last Wednesday, when the Financial Secretary had to take the rap here on this tax rise, how many times did he use the phrase “levelling up” in a six-hour debate? Zero. The truth is that we are a very long way from the levelling-up agenda that we hear, or at least used to hear, so much about.
+
+Of course it is not just workers and the self-employed who will feel the direct impact of the Government’s tax rise in this Bill. This tax rise will hit businesses that want to create jobs too. That is why we have tabled new clause 4 to show the impact it will have on businesses, and on small and medium-sized businesses in particular. There will be no point in the Financial Secretary denying the impact of this measure on businesses creating jobs: it is set out starkly in the Government’s own tax information impact note that he approved last week and that we have referred to several times today. I set out earlier how this note admits that the Government’s approach will impact business decisions around wage bills and recruitment. It goes on to explain how this measure
+
+“is expected to have a significant impact on over 1.6 million employers who will be required to introduce this change.”
+
+No wonder the Government have managed to unite business groups, workers and trade unions against their plans. At just the time when we need to see job growth, and when furlough is ending, the Government impose an extra flat cost on getting people into work. The Federation of Small Businesses has shown that this move could lead to 50,000 more people being left out of work. Yet again, small and medium-sized businesses least able to afford this tax rise will be hit hardest while online multinationals continue to dodge their tax on this Government’s watch.
+
+The Government’s justification for much of the Bill is that they claim the levy will fix the crisis in social care. As we made clear on Second Reading, however, there is no plan to fix social care, nor even a mention of or reference to one, in this Bill. Fundamentally, despite all the rhetoric from the Prime Minister and the Chancellor, there is no guarantee that social care will benefit from the Government’s tax rise in any way at all. In the first year, the Bill explicitly rules out any money raised going toward social care. Beyond that, when the levy comes into force, it is entirely possible that not a single penny of any money raised will ever go towards the social care sector. I know that Treasury Ministers will deny that this is the case, so we ask them and Conservative Members to back our straightforward new clause 6. I note the Financial Secretary’s comment that the new clause would simply require the Chancellor to report transparently and straightforwardly on the share of the levy spent on social care each year so that we can all see what proportion of the money raised is going to the social care sector.
+
+Finally, I turn to our new clause 7. Nothing could sum up the intrinsic unfairness at the heart of this Bill more than the case that this new clause points towards. The unfairness of the Government’s approach is impossible to ignore when we realise that this tax rise, raising money the Government claim will go towards social care, will not see those with the broadest shoulders paying their fair share but instead hit low-paid social care workers themselves. Our new clause asks the Government to be transparent and honest about this by requiring the Chancellor to report on how much revenue the levy raises from those working in the social care sector. This Government’s choices to raise national insurance, to cut universal credit and to freeze personal allowances mean that a social care worker will pay £1,108 more in tax a year. The Chancellor once clapped for key workers; now he is taxing key workers. This will hit working people hard, and we will not let voters forget it.
+
+Mr Fysh
+My intention with amendment 7, which I have tabled with esteemed colleagues, was to try to get the Government to focus on a way of looking at the future costs of social care and how to finance them more creatively. I have to ask: if not now, when?
+
+We know that the most powerful way to address costs in the future is to provide for them in the present and to have the power of compounding investment returns over a period of years to meet the liabilities that people have. I am passionate about encouraging the Government to look at ways to encourage people across the board, with progressive incentives in different ways, to make provision for themselves with support from the state.
+
+People think that they pay a contribution into national insurance that rolls up over time and gives them an entitlement to a pot of money—I have heard constituent after constituent talk about that—when we in this place know that that is not in fact the case. In fact, my right hon. Friend the Minister confirmed that that is not the Treasury’s view and that national insurance is a tax collected in-year that must be spent in-year.
+
+There is a big opportunity for reform and innovation that could be useful and get very much back to the ethos behind the Beveridge report and the origins that I spoke to in the Second Reading debate. There was a radical movement trying to help individuals and groups provide for each other. Lloyd George and the Liberal Government’s 1911 Act was about getting national aid into the system in a creative way. I think there is an opportunity for us to talk as one whole House about innovating for the modern world in that way. What was wrong with some of those older schemes and co-operatives, friendly societies and such things in the old days was that sometimes people ran off with the money. That was one reason why there was a need to put more of a national embrace around it and administer it that way. In the modern world, we can do it differently.
+
+All I was trying to do with the amendment was give scope for the Government to think about applying some of the funds from an element of national insurance or something related to it—that is, the levy, which clause 2 sets out—to help incentivise such pooled saving schemes. That is not necessarily insurance or private insurance with a middleman; it could be national schemes or community schemes that are properly co-operative and very low-cost. There are many modern approaches to that in the digital world, such as digital autonomous organisations, where there are no middlemen at all and people do not have to rely on a contract.
+
+That was the pure intent of my amendment, so I am a little disappointed that the Government do not seem to want to engage with it. I urge my right hon. Friend and those on the Treasury Bench to think about ways we might do that in the future, because I can see it as a useful evolution of the policy that might bring people from all parts of the House together in the way I have been describing.
+
+Dr Poulter
+I am sympathetic to the point that my hon. Friend is making. In principle it is a very good point, but the practicalities are that the moment we move towards the system that he is advocating, we have to clearly define what is health and what is social care, and that makes the integration of the two systems much more challenging. In the context of better integrating health and social care, has he considered that practical element in putting forward this proposal?
+
+18:15:00
+
+Mr Fysh
+I thank my hon. Friend for his intervention. The truth is that, yes, I have thought about that, and I must emphasise that I am thinking about this measure only in terms of social care costs and liabilities. We have heard how residential care living costs will be excluded from the funding produced by the levy. Pooled savings schemes or liability defrayal schemes could easily include such elements and make a really big difference. I am not talking about the costs of healthcare in the healthcare system.
+
+There are ways in which the healthcare system could look at insuring itself against particular outcomes. Sometimes, unfortunate things happen in neonatology, for example, which have a long liability tail in younger people living with healthcare needs. Those are targeted things, but that is completely separate from the present need to get money into social care. That is what I am talking about, and such a scheme could get money into social care more quickly than the plan that we have heard to date.
+
+Dr Murrison
+I have been listening carefully to my hon. Friend and what he has said has a great deal of merit. Does he agree, however, that while the Government’s aim is to integrate health and social care, which arguably have been divorced one from the other since 1948, to the great detriment of the people we represent, the system he suggests might exacerbate that problem? That would be in contrast to the provisions of clause 2, which leave it up the Treasury to decide how moneys raised by the levy should be apportioned. Surely it is better that the Treasury can do that so that it can facilitate the integration of health and those elements of social care that relate to care as opposed to residential costs.
+
+Mr Fysh
+I do not think that the amendment would remove any of the Treasury’s discretion in clause 2; all it would do is specify that moneys raised could be used either in the current year or against future years’ costs. The Treasury would govern how such schemes worked and how to achieve that integration.
+
+Since I was elected, I have been passionate about the integration of health and social care, and I anticipate that, through such an amendment, the Government could help to get money into the system to help it work well. I hope that the Government will reconsider their request for me to withdraw the amendment. I would love them to adopt it. It would be no skin off their nose to do so; the amendment would just give them a bit more flexibility in the Bill. I look forward to hearing my right hon. Friend the Minister’s response.
+
+This is a probing amendment, and I cannot be confident that the Labour party will support it, perhaps because of their slight misunderstanding of its purpose, so this might not be the time to force the Government’s hand. However, it could be a useful evolution of the national insurance policy, given the direction in which the Government want to go on that.
+
+Stephen Flynn (Aberdeen South) (SNP)
+It is a remarkable feat indeed that the Government have managed to unite the left-wing press, the right-wing press, the Unionist press, the nationalist press, pressure groups in favour of ending poverty and pressure groups who want to see businesses excel, all in condemnation of the Bill. Although I do not think anyone in the House doubts that it will once again sail through the voting Lobbies this evening, I would like to put in my two cents for what little it is worth. In that regard, I commend the amendments in my name and those of my learned colleagues.
+
+As colleagues across the Chamber will recognise, new clause 1 seeks to get the Government to provide an equality impact assessment of the effect of this Bill, by age, on people’s wealth or income. The reason they will not accept that, despite the polite remarks of the Minister, as always, is that such an equality impact assessment would put in black and white what all the pressure groups are telling us. Indeed, much of what we have heard from Members across the Chamber throughout today and last week is that the Bill, in its entirety, will hammer the youngest and those who work the hardest in society, but not necessarily those in the south-east of England who have the most to give.
+
+I heard a remark earlier that about 50% of the income that will be generated by this Bill will come from those under the age of 45. It will be coming primarily from younger people, who are the very people whose horizons have been shortened by Brexit, and whose job opportunities, career opportunities and educational opportunities have been hammered by the pandemic. What the Government are seeking to do is impose further challenges to their lives. It is an unforgivable act, but one that they are going to push through with no contrition whatsoever, as far as I can see, and in the knowledge that they also plan to cut universal credit in the coming weeks—a double whammy on those in society who can least afford to face the real challenges in front of them, and an abdication of responsibility of the highest order.
+
+However, it is not just individuals, young people, working people or families who will be hammered by this tax; it is also businesses. That takes me nicely to our new clause 2, which involves trying to get the Government to do an economic impact assessment of these policies. However, they will not do that either, because they know what the outcome would be, as we see in the language being used by business groups. The Federation of Small Businesses has been absolutely clearcut about its expectation that the proposal will force 50,000 into unemployment. It is a disaster for business.
+
+The Tory party was once, when I was growing up anyway, regarded as the party of business. What has happened? Why are we in a situation now in which not only have the Government forced through Brexit in the middle of a pandemic—and businesses are having to deal with the challenges of exporting goods and the shortages of supplies, to pay back bounce back loans before they have even had the opportunity to bounce back, and to deal with the fact that furlough is going to end despite the clear uncertainty facing them—but they are seeking to impose a jobs tax? Where is the justification for that? I encourage any Government Member to rise to their feet and disagree with anything I have said, but they will not because they know that we are right in this regard.
+
+Dr Poulter
+I declare an interest as a practising NHS doctor. Will the hon. Member reflect on the fact that the single biggest transformation delivered to health and care in the last 20 or 30 years was when Tony Blair increased national insurance to give a huge injection of funding to improve care for patients throughout the United Kingdom, including Scotland? In reflecting on that, can he see the benefits that will come from this levy for patients in his constituency and all our constituencies in the years to come, because it will make a difference? Will he reflect on the difference that it will make to real people’s lives—improving cancer care, reducing waiting times—and does he see that there is a benefit in that?
+
+Stephen Flynn
+I thank the hon. Gentleman for his intervention and for the tone in which it was made, and I shall reflect on two points in relation to what he said. He said that perhaps the biggest change to health and social care was the action of Tony Blair, but I happily disagree with that. In fact, it was in 2016 in Scotland, when we did something that I heard Members discussing earlier at length: we integrated health and social care in Scotland. That was on top of the fact that we provide free personal care for our elderly and so on, and that is in contrast to the situation in England, which has led to the crisis we see before us.
+
+On the hon. Gentleman’s point about finance, which is the crux of this argument, do the ends justify the means? That is the purpose of this discussion. I believe in the ends. I believe our NHS and social care services deserve more money, but I do not believe that this is the right way to do it. That obviously leads to the next question, which is about how we should fund this. I heard Conservative Members—rightly—shouting at the Labour Benches, “What is your plan?”, but what is the cost of Trident? What is the cost of nuclear weapons? Over their lifespan I believe it is between £164 billion and £200 billion. Conservative Members will not say that those weapons should be scrapped, but I will. They should absolutely be scrapped, and we can use that money to fund our vital NHS services. The answer is staring them in the face, but they choose not to look at it because this is about priorities, and their politics and priorities differ massively from mine, and ultimately from those of the people of Scotland.
+
+Finally, amendment 4 goes to the nub of where much of our frustration lies with the Bill, because if we shake it about a bit, this is ultimately another UK Government power grab. They are seeking to tell the Scottish Parliament how it should spend money in devolved areas. Whether they agree or disagree with the national insurance hike, all members of the Committee, certainly Unionist Members, should be concerned about the consequences of the UK Government seeking to impose themselves once again on devolution. I say that not as someone who seeks to defend the Union—by all means continue to do it—but because all the UK Government are doing is driving home the message in the minds of the people of Scotland that they do not respect the devolution settlement and they do not respect the Scottish Parliament.
+
+Nigel Mills
+I come at this debate from a slightly different angle. When we first heard rumours of a tax rise to fund health and social care I felt that, given that we had just spent £400 billion to get us through a pandemic, and that we wanted to get health care services to 110% of previous capacity to clear the backlog, we could accept that a tax rise had to be found to do that. I thought there was no other way, given that the economy and tax revenues are still smaller than they were, and that that was the responsible and prudent thing to do. I may not have chosen national insurance, but I accept that it is probably one of three taxes that the Government could have chosen.
+
+My interest is in why, in the long term, we have chosen not to raise national insurance but to have a new tax. I remember that when I was first elected we were keen on simplifying the tax regime. We even had a review into whether we could merge income tax and national insurance, so that we could have one tax fewer, and make it cheaper and simpler to collect. For some reason that I will try to work out, we have now moved on to adding a kind of son or daughter of national insurance to the tax code. I think the only slight difference is that the new tax will apply to the earned income of people over retirement age, where national insurance does not. I do not know how much that will collect—the Minister would not give us an estimate—but I think it is a pretty tiny amount, and I am not sure there is huge advantage in that.
+
+Being a bit of a cynical sort of person I thought that perhaps because our manifesto promise ruled out tax rises we could have a levy, and that people would fall for that, but I am glad we did not take that line. Indeed, the Government were clear that we are breaching our manifesto promise, for justifiable reasons in the circumstances.
+
+Perhaps we are trying to create some clarity, thinking that if people can see a hypothecated tax, they can see how much they are paying for health and social care and they will understand and value what is happening, except of course we are raising by this levy £12 billion a year or so—a tiny fraction of what we spend on the NHS, let alone social care—and people will see a social care levy on their council tax bill. In fact, this money is not even the biggest part of national insurance that will go to the NHS; as I said earlier, £26 billion a year—roughly 2% of the national insurance contributions in each class—already goes directly to the NHS and does not go down the usual route of national insurance funding. I am not sure that we are going to get the benefit of clarity for people about what they are paying.
+
+18:30:00
+
+We should remember that we now create a personal tax statement for everyone every year, from which they can see what proportion of the tax they have paid has gone to which public service. If we want them to see how much of what they are paying goes to the NHS and to social care, that is already there for them in a much clearer way than having a strangely hypothecated tax, for a tiny fraction of the bill.
+
+I am not at all clear what the justification is for creating a whole new tax. I was keen to know how much that was going to cost. The Minister has neutralised my amendment 8 by setting out in a letter to the Treasury Committee that he thinks HMRC will spend about £60 million to create the systems to collect this tax.
+
+Jesse Norman
+I am afraid that I must correct myself. It is actually £40 million to £50 million, rather than £50 million to £60 million. I was relying on an imperfect memory.
+
+Nigel Mills
+Perhaps the Minister was building in some optimism bias, as the Treasury normally does to other people’s forecasts, and going for £50 million to £60 million to make sure. I do not know whether that is the cost of building the systems to enable the returns to be made, or to enable the systems to collect or chase the money, or whether there is going to be some ongoing annual cost; I assume that there will be some ongoing annual cost in trying to chase compliance too. However, we do not have an estimate for how much we are going to be imposing on business to pay this tax.
+
+I imagine that this will be a separate tax that is not collected in the same way—the same box—as national insurance. I assume that there will have to be different parts of the payroll returning different calculations, which will require every software provider to change all their software coding to cope with it and to add in the new amount that is being paid by people over retirement age who do not normally pay national insurance. All that will cost time and money and need testing and compliance, and then we will have to check whether employers are following it and chase them for the money.
+
+I suspect that there will be quite a large up-front cost for all that work to be done, and then a reasonable annual cost to ensure compliance, so there is a first-order question whether we are raising more by quite rightly taxing people over retirement age on their earned income—this 1.25%—than we are having spent on obtaining that. From the Minister’s remarks, I am not convinced that the answer will be positive, so in actual fact, we are creating a whole new tax to raise less money than it costs to collect it, for no real advantage other than a presentational one.
+
+John Redwood
+My hon. Friend is such an expert on this. Has he probed or got anywhere with finding out how much consequential tax loss there might be from the national insurance rise, or the care tax rise, itself? Presumably, there are some losses that will have to be offset, so gross will not necessarily be net.
+
+Nigel Mills
+I assume that my right hon. Friend is right that, if we reduce the number of people in work or reduce their pay rises, that will work its way through the system. The Minister may be better placed than I am to work out an answer to that question.
+
+The nub of my argument, and the reason for amendment 8 and new clause 10, is that we have 18 months before the new levy comes into force—we accept that we cannot bring it into force in six months’ time, presumably because it is so hard to get the systems in place, and that we have to raise national insurance for the first year and move to the levy after that—so perhaps if we had all the information in front of us in the next six months or year, we could make a choice whether to go ahead with the new levy for the small amount of extra income, or whether to stick with the national insurance rise and find other ways to explain to people what they are paying their taxes for.
+
+I think the Minister accepted that HMRC will publish its estimate, and I am sure we could find a way of getting an accurate estimate of the cost to business of complying with the levy. We could then take an informed decision before we finally introduced the levy. I think that would be a positive step in tax policy. However, if we really believe that we want a separate levy to show what people are paying directly for health and social care, I think that we should move the existing 2% of national insurance that goes directly to the health service into the levy, so there is one hypothecated payroll tax that goes to the NHS on people’s payslips, rather than it being hidden in a part of national insurance. I cannot see any reason why, if we go down the line of introducing a new health and social care tax, we would not want to have all the hypothecated payroll taxes going into the NHS or social care to get any of the advantages of that.
+
+I will not be pressing my two new clauses to a Division, but I urge the Minister to give some serious consideration—I suspect he did not know about this new levy until around about last weekend, when it was probably dreamt up in No. 10 as a way of selling a tax rise—to using the 18 months he has before the levy comes in to try to work out whether the costs of collecting it are worth the small change. If he really does think there is a compelling argument for charging people over retirement age national insurance if they stay in work and are earning, let us charge them the full rate, rather than 1.25%. I cannot see how we can justify that they do not pay the existing 2% that goes to the NHS but they do pay the 1.25%. There seems to be no logic in that at all to me, so perhaps we should think properly and coherently about the tax system. Let us have the full rate in that situation.
+
+Let us have a decision when we get around to the Budget in 2022. Is going ahead with this levy going to raise more money than it costs? If it is not, let us just leave it on national insurance where it will be sat at that point. That would be a more coherent way of running our taxes.
+
+Nadia Whittome
+With your permission, Dame Eleanor, I will speak to new clauses 3 and 5, tabled my hon. Friends the Members for Ealing North (James Murray) and for Erith and Thamesmead (Abena Oppong-Asare). New clause 3 requires the Chancellor to assess the impact of the Act on tax revenue from different sources of income and new clause 5 calls on the Government to publish an equality impact assessment of the Act.
+
+Dame Eleanor, given that even in Committee this has been a wide-ranging and broad debate, I hope you will allow me to set out the context of those new clauses. It is people in poorly paid jobs who will bear the brunt of the national insurance increase, at a time when in-work poverty is already at a record high. How can it be right to ask those who are already saddled with extortionate housing costs, poverty wages and mountains of debt to pick up the tab for this Government’s failures on social care? To put it simply, the Government are choosing to protect the interests of the wealthy who fund them at the expense of low-income workers and renters. While landlords and the super-rich who are hoarding wealth and housing pay nothing under this new tax, my constituents will be having their pockets raided.
+
+Since 2010, under this Government’s watch, £7.7 billion has been cut from social care budgets. If I could sum up this policy—if we can call it a policy—in one word, it would be “unfair”: unfair on the working people who are funding the tax rise; unfair on the care workers who will not see their pay and conditions improve; and unfair on those relying on social care, whose needs will continue to be unmet. Figures released this week show that nearly 70,000 people in England could die waiting for social care before these changes even come into force.
+
+If the Government were interested in fairness, they would tackle the soaring housing costs, low-paid jobs and inadequate benefits that my constituents are facing. Instead, their policy agenda is fuelling inequality and impoverishment. As we heard from the hon. Member for Aberdeen South (Stephen Flynn), 2.5 million working households will be hit by the cut to universal credit and the increase in national insurance. Working families will be losing, on average, over £1,000 next year. Meanwhile, the furlough scheme is ending and evictions are resuming.
+
+There is, however, a group of people who have benefited from the pandemic—who have done very well, in fact: British billionaires. They have increased their wealth by over £100 billion. That is why now is the time to get serious about taxing wealth. The Chair of the Health and Social Care Committee, the right hon. Member for South West Surrey (Jeremy Hunt), said earlier in the debate that this tax hike would raise more than a wealth tax, but I am afraid that that is not true on any measure. City A.M.—this is City A.M., not “Das Kapital”—calculated that one wealth tax option would be to tax wealth progressively between £1 million and £10 million, with all wealth beyond £10 million taxed at 3%. That would bring in a total of £55 billion over five years. Alternatively, the economist Richard Murphy calculated that, if wealth was taxed at the same rate as income, that could raise up to £174 billion a year.
+
+Will the Minister explain why none of those options was considered and what the Treasury makes of those calculations? And perhaps the Chancellor could explain to us, as a multimillionaire, why he cannot dig deep into his own pockets and why it has to be my constituents—in fact, all our constituents—instead. I think that this House and working people across the country deserve to know why a wealth tax was dismissed in favour of a tax on the poorest and the lowest paid, and what is more, to fund a plan that will not even work.
+
+We have heard during this Committee that the Government’s excuse for not ring-fencing the money raised for social care is that health and social care are interlinked. I agree, to an extent, and that is why, to fix our social care system, we need a national care service, like our national health service, which is free at the point of use. We need to redesign the system so that the needs of care users, for want of a better word, and care workers are at its heart. The money to do that is there but it is in the pockets of the richest and it is the political will from this Government that is sorely lacking. Anything less than a national care service, funded by a tax on wealth, not on workers, would be a great disservice to the people we are elected to this place to represent.
+
+John Redwood
+I have worries about hypothecation. I thought the Treasury used to be against it and it is a difficult doctrine to make work well, because it is not always the case that a particular tax just happens to raise the right amount of revenue for a particular purpose, or if it does in one particular year, that may not be true in a future year because the revenue may grow too slowly for the purpose, or the purpose may become less popular and the revenue may exceed what is needed. I have always favoured the Treasury orthodoxy—I am not always someone to support Treasury orthodoxy—that it is better that we have a very big general pot into which we collect the taxes, and then we have general distribution based on tightly argued issues between Government Ministers and Departments on what their spending priorities are and the minimum amounts that they need to spend to get good results in their leading areas.
+
+However, now that Ministers are treading the boards of hypothecation for the first time in this interesting way, I advise them that it is a very good rule, if they wish to sell the idea of hypothecation, that the tax revenue that they collect should pay for the thing that they are attaching to the hypothecated revenue. My big worry about this hypothecation is that the sum of money for social care—when we eventually get to that point after three years—collected by the so-called social care tax will be only about one fifth of the actual costs of social care to the public sector. Of course, there are additional costs to private individuals as well and I would not want my constituents to be misled. I have already had emails from constituents saying, “As the Government seem to be pressing ahead with this social care levy, I assume that I will no longer be asked to make any contribution through my council tax to social care”. Being an honest man, I have written back and said, “No, you can’t assume that at all. Social care is going to need a lot of money and I don’t think the idea is that the council tax levy part of it, or the need for that, will suddenly disappear.” So I think one does need to look again at hypothecation. If, for example, we wish to have hypothecated taxes to pay for the current costs of health, as identified by the Treasury for the current financial year, we would need to say that all income tax, all capital gains tax, all inheritance tax and all stamp duty—in other words, all income and wealth taxation—were already going to pay the large sums required for health in this year’s public budgets. Maybe we could start by renaming income tax and all the wealth taxes as a health tax, which would give people some idea of the scale of expenditure that we are talking about. There might then be a more interesting and useful debate to be had.
+
+18:45:00
+
+I am also a bit concerned about gross and net, a point that I asked my expert hon. Friend the Member for Amber Valley (Nigel Mills) about a few minutes ago. Clearly, if we put up a tax such as national insurance—or the son or daughter of national insurance, the care tax—companies will make less profit, so there will be less profit to tax after we have taken off the other costs. Individuals will also have less money to spend because of the deduction from their pay packet, so they will pay less in VAT and other taxes on things that they would otherwise spend their money on. There must be some tax loss as an offset, so the net will not be as large as the gross. One of the dangers of overcomplicating the tax system is that we get too many gross-to-net net-offs and it starts to get expensive. I am glad that my hon. Friend also raised questions about whether the set-up cost is worth while and what the running costs will be, because there will be HMRC running costs and, clearly, private business running costs as a result of introducing a new tax.
+
+The best way to get the deficit down, which the Treasury rightly worries about, is to grow the economy faster. We have seen already that, with a very sharp rate of recovery in the early months once lockdown started to be relaxed, there was a very good impact on revenues: they outperformed the predictions of the Office for Budget Responsibility and the Treasury. I think that that is the best way to proceed. I am still surprised by the Treasury’s precision in thinking that £12 billion is the magic extra number that will first solve health and then go on to resolve social care; it is a very small percentage of the much larger totals that we already spend, and it is a tiny percentage of the total revenues that we hope to collect if we promote a really good recovery.
+
+I am also concerned about the impact on those people, on whom much of our debate has focused, who find that they need care home assistance in their later months or years of life—the impact on their family finances as well as on their lifestyle. At the moment, there are broadly three categories of people: those whose financial and care needs are taken care of entirely by the state because they do not have the benefit of capital, a home of their own and all the rest of it; those who are quite well off enough that they can make their own provision and pay all their own bills; and those in the middle, who may need a mixture of the two kinds of funding, or who may start off by self-funding and then turn to the state for assistance when the money runs out.
+
+As I understand it, the purpose of the policy is to increase the middle category, allowing more people to have a mixture of state money and self-funding, and reducing the number in the entirely self-funding category. If that is the purpose of the policy, it is very important to be honest about how much protection it will actually give and how easy it is for people to work out what their personal liability will be, what the legitimate calls on their capital or income will be, and what the state will do that it is not currently doing. I do not think that I have that clarity yet. We need a much more detailed paper with working examples, so that we can see what the impact will be on individuals in our constituencies who may face that problem.
+
+Dr Murrison
+I am listening carefully to my right hon. Friend. Does he share my concern that there may be an element of gaming by the social care sector, in so far as hotel costs are clearly exempted? Our constituents who may be listening might not be fully aware of that. There is a real possibility and risk that the sector will seek to enhance and embellish those costs so that they become a bigger and bigger proportion of the total take. Does that not need to be made explicit? Does my right hon. Friend think that in the White Paper process that we are about to embark on, there would be merit in limiting that cost in some way to ensure that the potential market exploitation of the Bill’s proposals is avoided?
+
+John Redwood
+I was with my right hon. Friend until his last recommendation. He had pre-empted what I was going to say next: that we need greater clarity about the three different kinds of costs that an elderly person can face.
+
+All of us in this House agree that we believe in a health service that is free at the point of need, so that any elderly person, like anyone else, has complete entitlement to completely free healthcare if they need GP or hospital treatment. That is not in dispute. However, as my right hon. Friend has just reminded the Committee, it looks as though these proposals also say that if an elderly person is living in a care home, the board and lodging, or the hotel costs or whatever we like to call it, are not part of that kind of treatment, so if the person has money, they will have to pay for those.
+
+I find it difficult to say that we need to pre-empt the possibility of care homes wishing to charge a bit more for that hotel accommodation, because there could be good reasons for their needing to do so, and the law is a very clumsy instrument when it comes to intervening in thousands of decisions that individuals and businesses have to make about what is a fair price. I do not think that there should be absolute price control, because it might be a period when wage costs or food costs had gone up, which the care home needed to pass on—or the care home might be improving the quality of what it was offering, in which case it would be mutually beneficial, or at any rate perfectly reasonable, for it to pass on that cost.
+
+Dr Murrison
+My right hon. Friend is being very generous in giving way. May I just clarify my intent? It would be reasonable to have an indicative cost. After all, in the case of most of our constituents who are living in a residential set-up—we are talking, basically, about a bedsit—what is usually involved, in my experience, is fairly basic food and some heating. The cost of that is not enormous, and it is the sort of thing that we would be expected to fund in any event were we living in our own homes; probably rather more so. Would it not be reasonable to have an indicative amount that it is felt reasonable for homes to be charging people—particularly, I have to say, if they are being funded through local government?
+
+John Redwood
+I do not think that that is possible at all. Property costs vary to an incredible degree across the country. Levels of staff provision are different in different homes, the quality and level of service are different, and the needs of individual residents are different. Some are in relatively good health, and do not need to find the back-up or assistance that others require. What I want to see—and I think that we need to debate this more than we have so far—is better quality for everyone who needs end-of-life care or time in a nursing home. My right hon. Friend has suggested that some are quite basic, and I think we need to worry about that and work at it.
+
+For me, the big care problem is whether it is adequate. I am not quite as worried about the family finances as I am about the experience of the elderly person and whether it is good enough, and, where the state is the sole funder or a substantial funder of the care, whether we are doing a good enough job in allowing a reasonable quality of care in terms of staffing numbers, training of staff and staff wages. When elderly relatives in my family have been in care, we have always wanted to make sure that the staff were well remunerated, rewarded and motivated, and had proper training, support and back-up from the care home, because I wanted them to be well looked after.
+
+There is a much happier environment if the people working in the home are proud of it and have, for instance, a decent career structure. I therefore think that we need to be very careful about a cost-down or standard-cost approach. We need to understand the variety of life, but we also need to make sure that those who rely entirely on state support, or who may be becoming more reliant on it under the Government’s likely policy, will none the less look forward to a reasonable standard of care, and that the people who work with them and for them are treated well by employers who respect them and offer them a career structure, proper training, decent support and all those other good things.
+
+In conclusion, I hope the Government will look again at some of these points to ensure that there is no muddle over the true costs of these services and the contribution that the tax will make, if they insist on it, because it will be quite a small contribution as a proportion of the whole. Will they also look at a big care issue that does not get enough attention in the Bill, which is the quality of the care? That leads immediately into the quality of the experience for the employees, their career structure and their ability to create good atmospheres in care homes that are of a high standard. Can we also have a bit more thought and more information on what this will mean for individuals going into care homes and their supporting families? I am afraid that I still do not have a clear explanation to offer my constituents as to what their experience would be under these proposals.
+
+Richard Burgon (Leeds East) (Lab)
+I am speaking in support of new clause 3, which would require the Chancellor to look at different taxes to raise income. There are many other ways to raise this money and, in particular, I believe that we need to look at ways to tax wealth rather than taxing working people. Wealth in this country is concentrated among the top 1%, so instead of imposing a tax bombshell of £12 billion a year on working people, the Government could focus on the wealthy. They choose not to; instead, we have a tax system rigged in favour of those who already have wealth. They pay lower taxes than the millions who have to go out to work to make a living. The truth is that the Government’s proposal makes that situation even worse, and that is not right. The Government could reform capital gains tax, so that instead of lower taxes for wealthy people, that money could be used to fund social care, but they choose not to do so. They could raise many more billions of pounds by a direct wealth tax on the richest 1% with assets of more than £5 million, but they choose not to do so.
+
+I am backing new clause 3, because there is always an alternative. That the Government refuse to back such alternatives speaks volumes. Aneurin Bevan once said that socialism was the language of priorities, but conservatism is the language of priorities too: the priority of safeguarding the wealth of the super-rich and sticking the boot into working people. This is the same old Tory party, attacking working people and defending the wealthy. We have heard a lot in this debate about so-called tough choices, but when politicians speak the language of tough choices, it usually means that they are taking the path they think is easiest. The truth is that the Government are taking the easy choice: not levelling up but kicking down and taking a hands-off approach to the wealth of the super-rich. There are alternatives, and that is why I am backing new clause 3.
+
+Mr Richard Holden (North West Durham) (Con)
+I thank the hon. Gentleman for giving way, and I would also like to welcome the hon. Member for Nottingham East (Nadia Whittome) back. It is great to see her back on the Opposition Benches. There is a similarity between what the hon. Gentleman is saying and what those on the Government Front Bench are saying; at least they are both putting forward proposals. He is putting forward a wealth tax and the hon. Member for Aberdeen South (Stephen Flynn) proposed the scrapping of Trident, but the Government are at least being honest in saying that people are going to have to pay more through national insurance: £907 a year for a Member of Parliament and £80 a year for somebody on the national minimum wage. Has the hon. Member for Leeds East (Richard Burgon) managed to convince those on his Front Bench to be as honest as he and the Government are in coming forward with an actual proposal for what they would do?
+
+Richard Burgon
+I had actually finished my remarks, but I would be happy to take this up with the hon. Gentleman on another occasion if he so wishes.
+
+The Chairman of Ways and Means (Dame Eleanor Laing)
+I have to say I was not quite sure about that. I thought that the hon. Member for Leeds East (Richard Burgon) had finished, but the hon. Member for North West Durham (Mr Holden) nevertheless managed to make his intervention. He may indeed have wanted more, but the hon. Member for Leeds East read the mood of the House very well.
+
+Sir Christopher Chope
+It is a pleasure to follow the hon. Member for Leeds East (Richard Burgon). He talked about alternatives, and perhaps I can throw out a possible alternative that he might think reasonable. Why should the very rich have unrestricted access to a free NHS?
+
+
+
+Whenever that is raised by Conservative Members, Opposition Members object to the idea and say that it would undermine the principles of the NHS. I do not expect him to answer that question, but I throw it out there because it is another alternative that could be considered.
+
+19:00:00
+
+Richard Burgon
+It is useful that Members on both sides of the Committee are coming clean with all sorts of ideas. I would assert the principle of universalism—universalism of the welfare state and universalism of the NHS.
+
+Sir Christopher Chope
+I thought that might be the hon. Gentleman’s response. Today we are talking about social care as well as healthcare, and the principle of universalism does not apply to social care because it is and will continue to be the subject of means-testing.
+
+The Government talk the talk of integrating health and social care, and I had an exchange with my right hon. Friend the Minister on this subject. He justifies having a health and social care levy on the basis that they are interdependent. If they are interdependent and we are moving towards an integrated scheme, why do we not apply the same principles to both NHS healthcare and social care? We could have means-testing for healthcare, in the same way as we have for social care, or we could not have any means-testing for social care, in the same way as we do not have any means-testing for healthcare. If we are going to merge the two schemes, we need to resolve those anomalies. I am afraid that everything that has come out of this short debate shows that the Bill is a muddled fudge that perpetuates the distinction between health and social care but does not meet the challenge I put to the Minister: why not have a distinct social care levy?
+
+Is it reasonable that we should have co-payment in the NHS? If so, it would generate an enormous amount of additional income. We essentially have co-payment on prescription charges, ophthalmology services, dentistry and, increasingly, audiology services. The idea that we should have co-payment more widely, so that people who can afford it contribute, say, half the cost of an orthopaedic operation, seems to be anathema to the Government. I do not understand why, if they want to get more money into the system.
+
+Our system differs from most overseas systems. We are not spending more on healthcare in this country, but we are spending more on publicly funded healthcare and not enough on privately funded healthcare. I would like to see a Government strategy to encourage more investment by ordinary individuals in the healthcare system. I have a private Member’s Bill on co-payment coming up in the new year, but perhaps before that we might be able to get some movement from the Government on these principles. We have co-payment in the social care sector. If it is all right in the social care sector, why is it not all right in the healthcare sector? We are excluding hotel costs—the board and lodging costs—from the £86,000 social care threshold, but we do not charge any hotel costs to rich people who are in hospital. Why not? There does not seem to be any logic in that.
+
+I am glad it looks like the Minister will have a long time to answer these points and the other important points raised by my hon. and right hon. Friends. If we are going to have a complete review and fundamental change of outlook on health and social care, we need to meet those challenges. What is the answer as to why we do not charge hotel costs for millionaires in hospital? That would introduce more income into the service and bring it into line with what happens with social care.
+
+Those questions remain to be answered, but there are a whole lot more besides. I was looking at the Official Report of an exchange in the other place yesterday evening. The Parliamentary Under-Secretary of State for Health and Social Care, Lord Bethell, said that
+
+“we recognise that family carers play a vital role. When we announced an additional £4.5 billion over three years for social care, it included a commitment to take steps to ensure unpaid carers have the support, advice and respite they need.”
+
+We know that there are about 1.6 million unpaid carers, and that was leading them to believe that there was some sort of dividend around the corner for them. However, Lord Lilley picked up on that point and asked the Minister to
+
+“confirm that…there would be only £1.5 billion a year going to social care from the large increase in national insurance”.
+
+Obviously, that is correct. He then asked the Minister to
+
+“confirm that nearly half of that will be absorbed by the need to pay for the extension of free social care to those with valuable homes…That means that nothing will be left to help domestic carers.”
+
+That was a perfectly straightforward question, and as it was not answered in the other place last night, I hope that the Financial Secretary can answer it tonight. The answer that that Health Minister gave—perhaps the Treasury has a better view on this—was that
+
+“the maths that my noble friend has done is a little bit premature.”
+
+I did not think that maths could ever be premature. He continued:
+
+“The White Paper will come out later this year; it will spell out the precise financial arrangements, and I am looking forward to that.” —[Official Report, House of Lords, 13 September 2021; Vol. 814, c. 1130.]
+
+The Minister was implying that he did not really have a clue as to what was going to be in it when it came out. That is an example of the muddled thinking, the failure of the Government to answer precise questions and the very dangerous policy of raising expectations among our constituents that somehow they are all going to be able to relax and spend all their hard-earned savings and use their houses for themselves without having to contribute much towards the long-term costs of social care.
+
+May I throw out a suggestion arising from that exchange in the other place last night? If we have 1.6 million people providing free care for their loved ones, why are we choosing to impose upon them an extra levy, an extra tax? Surely it would be reasonable—clause 4 enables this to be done by subsidiary legislation—to exclude those who are looking after their loved ones, doing the right thing and saving the state a lot of money. We could say, “In return for doing that, you will be exempt from the 1.5% levy.”
+
+John Redwood
+indicated assent.
+
+Sir Christopher Chope
+I am delighted to see that my right hon. Friend thinks that is a good idea. I hope we will get some nodding soon from those on the Front Bench, but I have looked there in vain so far.
+
+Anybody who speaks in a debate such as this is open to the challenge as to how they would pay for this. That challenge was put across the Dispatch Box today by Conservative Members to Opposition Members, and answer came there none. I have an anecdote to share with the House. Probably around a fortnight ago I was talking to a former very senior aide at No. 10. He said that one great thing that has come out of the covid-19 emergency is the sure knowledge that we can manage with 25% fewer civil servants in government without any detriment to the quality of government. That came from a senior adviser at No. 10. How many fewer civil servants does my right hon. Friend the Minister think we can have without any detriment to the public service?
+
+John Redwood
+My hon. Friend is making an interesting speech. Does he think that as a lot of civil servants now find they can work pretty well from home, we do not need all these expensive offices and perhaps ought to be surrendering leases?
+
+Sir Christopher Chope
+That is another excellent idea. I am grateful to my right hon. Friend for the suggestion, but I fear that the Government are so focused on spending money that they have lost any incentive to try to control expenditure, which I thought was the Treasury’s job. It takes me back to Geoffrey Howe’s first Budget. The Conservatives had become a national Government on the back of very high socialist spending and a popular rebellion against socialist waste and high taxation. In his first Budget, Geoffrey Howe emphasised: “Finance must determine expenditure”. That message has now been lost by the Government, who are saying that expenditure must determine finance. Our Government—I say “our Government” advisedly—have reverted to the old socialist tax and spend philosophy in which expenditure determines finance. I hope that my right hon. Friend on the Front Bench will explain why he thinks that to change our philosophy fundamentally is consistent with Conservative values.
+
+My final point is about the Barnett formula. The Bill recites a restatement of the fact that the Barnett formula is there and says, “Isn’t it fair?” My constituents are incensed at the unfairness of the Barnett formula, which results in their paying higher taxes so that the people of Scotland can receive higher public services, with much more spent on those services in Scotland than is spent in England, financed by our constituents in England. Why, when we should be looking at issues that relate to expenditure, are we just saying that the Barnett formula is going to apply? Will my right hon. Friend the Minister say what will happen when the Barnett formula is reviewed or abolished, as surely it must be because it has outlived its usefulness? The House of Lords did a comprehensive demolition job on the Barnett formula, which was brought in years ago as a stopgap—a plastering over of some cracks—and has now almost reached the status of some religious doctrine.
+
+My right hon. Friend the Minister will not be able to persuade me to do other than vote against this Bill’s Third Reading, because introducing it is a chronic mistake by the Government, and it is even worse that we should be imposing taxes without explaining how we are to spend them. But let me leave that on one side. I hope that my right hon. Friend, wearing his Treasury hat, will be able to explain exactly what the Government are doing to help to constrain and reduce waste in public expenditure, whether it be by getting rid of leases on surplus buildings; by sacking staff who are not productive; by introducing the long-promised cap on exit payments; by stopping the obscene salaries that are paid in much of the public service; or by addressing the problem of all these bureaucrats in the health service who seem to squeeze out productive activity, for whom we are having to pay dearly and are going to have to pay the highest taxes in our lifetimes. Those are the challenges that the Government must face up to if they are to be able to recover not just my support, but the support of so many Conservative activists up and down the country.
+
+19:15:00
+
+Jesse Norman
+I thank colleagues for their contributions to the debate. It has been very wide ranging—especially the last speech—occasionally touching on the subject of the Bill and the clauses and amendments in it.
+
+Let me start with the hon. Member for Ealing North (James Murray) who speaks for the Opposition. He asked why the dividend tax has not been brought in. The answer to that question is that it does not fall under a national insurance contributions Bill. Dividends are subject to a separate dividend tax regime. That is a tax that is already in existence and it will be handled, as the Government have already made clear, in the course of the forthcoming Finance Bill.
+
+The hon. Gentleman asked questions about levelling up and multinationals’ tax avoidance. I think he is aware that the Government’s approach to levelling up is extremely manifest, most recently in the work that we have done with the UK Infrastructure Bank, which is specifically dedicated to net zero and levelling up and which has just recruited a world-class new chief executive. On the case of multinationals, he has obviously forgotten that the Government have been in the vanguard of the G20 and the G7 in arranging and leading on a new settlement on Pillar One and Pillar Two multinationals’ tax avoidance.
+
+The hon. Gentleman repeated his untrue claim from the earlier debate that these measures contain no new funding for social care. In fact, as the Chief Secretary to the Treasury said a few minutes before he first said that, the measures contain £5.4 billion to support social care, which is in the plan. In case he missed it, it is in paragraph 36 of the plan. It is no wonder that those on the Labour Front Bench do not think that we have a plan if they cannot be bothered to read the plan that we have actually published.
+
+James Murray
+To be absolutely clear, the question that I was putting to the Minister was: where in the Bill is there a guarantee that a single penny of this new levy will go to social care?
+
+Jesse Norman
+The Bill is designed to fund the plan and the plan has been published. The plan is perfectly explicit as to where the money is going with regard to social care and how much is going to social care. It is in paragraph 36. The hon. Gentleman only needs to look at the plan to see it.
+
+My hon. Friend the Member for Yeovil (Mr Fysh) tabled a probing amendment and explained the background to his own amendment 7, and I thank him for that. I mean him no disrespect when I say that the Government have taken the amendment on board, and will take it on board, but I still ask him to withdraw his amendment.
+
+The hon. Member for Aberdeen South (Stephen Flynn) talked airily about unfunded social care plans controlled, as it were, by England over Scotland. Nothing could be further from the truth. The truth is that Scotland has social care plans that are underfunded. Audit Scotland said that more money was needed. The Independent Review of Adult Social Care in Scotland said that more money will need to be spent over the longer term. Unfortunately, he also ignores what has been accurately described by the Prime Minister as the Union dividend from which all the devolved Administrations will benefit.
+
+My hon. Friend the Member for Amber Valley (Nigel Mills) asked the important question of why a new tax. It is important to focus on this. The reason there is a new tax is that this is a fundamental change in how we have been thinking about social care. Andrew Dilnot himself has said that he does not think it inappropriate to have a new tax funded to support this.
+
+My right hon. Friend the Member for Wokingham (John Redwood) talked about Treasury concern with hypothecation, which remains intact. There is already an existing level of hypothecation within the national insurance contributions system and this plays off that. The hon. Member for Nottingham East (Nadia Whittome) went into a long diatribe, in which she accused the Government of seeking to protect the richest people in society, to which the only simple answer is that that is absolute nonsense. I think she missed the debate on Second Reading, but if she read the distributional analysis, she would see that this package means that the 20% of highest income households will contribute 40 times the amount contributed by the least well off 20% of households. It is also worth pointing out that the highest earning 14% will pay roughly half of all revenues. Even the Wealth Tax Commission, which is independent of Government and dedicated to the idea of arguing for a wealth tax, acknowledged that the UK is on par with G7 countries as regards a wealth tax. Under a more inclusive definition—one that includes, for example, stamp duty land tax—the UK is near the top of the G7 countries in terms of a wealth tax.
+
+My right hon. Friend the Member for Wokingham talked about hypothecation; I perfectly understand that. He also mentioned gross net revenues. These are net revenues—revenues that have been calculated net of the effects. The detail is set out in the technical annex to the published plan.
+
+The hon. Member for Leeds East (Richard Burgon) revisited some of the themes set out by the hon. Member for Nottingham East, but I am afraid no more persuasively.
+
+My hon. Friend the Member for Christchurch (Sir Christopher Chope) went on a glorious canter, or possibly a ramble, around various public spending concerns. I fully appreciate his concerns. Very little of what he said actually bears direct relation to the levy, but let me address the parts that do. He asked why there is no distinct social care levy. Of course, it is possible to claim, as I did, that there is a need for greater integration between healthcare and social care, without suggesting that the funding for those things needs to be handled in exactly the same way across both. This provision blends the funding in a way that is felicitous for both elements.
+
+My hon. Friend argued vigorously for co-payment. I take his arguments as I am sure he means them and look forward to seeing his Bill. He also mentioned millionaires in hospitals. He is right that maths is eternal; our noble Friend Lord Bethell may have been referring to the fact that calculations are not eternal, but may be in time and premature.
+
+Sir Christopher Chope
+In the Conservative party manifesto almost two years ago, we promised that we would reform social care at the same time as promising that we would not increase VAT, national insurance or any other taxes. If it had not been for the pandemic, how would we have dealt with the challenge of reforming social care without raising taxes? Surely one way of doing it would have been to reduce public expenditure elsewhere.
+
+Jesse Norman
+It is very hard for me to comment on such a remote hypothetical, but the fact of the matter is, as the Prime Minister said, no political party had a pandemic in their manifesto and we have to deal with the situation—
+
+The Chairman of Ways and Means (Dame Eleanor Laing)
+Order. I would be grateful if the Minister would address the Chair.
+
+Jesse Norman
+I am so sorry, Dame Eleanor. I am rightly chastised and thank you for that point.
+
+My hon. Friend the Member for Christchurch asked why the Barnett formula applies and what will happen once it is abolished, but once again he takes the Committee to the outer reaches of speculation. The fact is that it does apply and it has thoroughly beneficial effects for the devolved Administrations as regards this piece of legislation.
+
+With that, I ask those who have tabled amendments and new clauses to withdraw them. I commend the Bill to the House.
+
+Question put and agreed to.
+
+Clause 1 accordingly ordered to stand part of the Bill.
+
+Clause 2
+
+Destination of proceeds of health and social care levy
+
+Amendment proposed: 4, page 2, line 29, leave out from “as” to end of line 30 and insert “determined jointly by the Treasury and the devolved governments of Scotland, Wales and Northern Ireland.”
+
+The amendment would require joint agreement between the Treasury and the governments of Scotland, Wales and Northern Ireland as to how the levy proceeds are to be shared between the four areas and between health care and social care.—(Alison Thewliss.)
+
+Question put, That the amendment be made.
+
+Division 70
+14/09/2021 19:23:00
+The House divided:
+Ayes: 56
+Noes: 324
+Question accordingly negatived.
+
+Clause 2 ordered to stand part of the Bill.
+
+Clauses 3 to 7 ordered to stand part of the Bill.
+
+New Clause 3
+
+Review of revenue effects of Act
+
+“(1) The Chancellor of the Exchequer must review the revenue effects of this Act and lay a report before the House of Commons within six months of the passing of this Act and every 12 months thereafter.
+
+(2) Any review under this section must include an assessment of—
+
+(a) the impact of this Act on revenue derived from—
+
+(i) employment, and
+
+(ii) self-employment; and
+
+(b) the impact of the revenues under this Act from employment and self-employment on the revenues derived from taxation on—
+
+(i) dividends,
+
+(ii) rental income, and
+
+(iii) other forms of personal income.”—(James Murray.)
+
+This new clause would require the Chancellor to report to the House on the impact of the Act on tax revenue derived from different sources of income.
+
+Brought up, and read the First time.
+
+Question put, That the clause be read a Second time.
+
+Division 71
+14/09/2021 19:39:00
+The Committee divided:
+Ayes: 236
+Noes: 320
+Question accordingly negatived.
+
+New Clause 5
+
+Review of equality impact of Act
+
+“(1) The Chancellor of the Exchequer must review the equality impact of this Act and lay a report before the House of Commons within six months of the passing of this Act and every 12 months thereafter.
+
+(2) A review under this section must provide a separate analysis of the equality impact of this Act on—
+
+(a) income inequality,
+
+(b) wealth inequality,
+
+(c) geographical inequality,
+
+(d) inequality between people with protected characteristics (within the meaning of the Equality Act 2010), and
+
+(e) socio-economic status.”—(James Murray.)
+
+This new clause would require the Chancellor to report to the House on the equality impact of the Act.
+
+Brought up, and read the First time.
+
+Question put, That the clause be read a Second time.
+
+Division 72
+14/09/2021 19:52:00
+The Committee divided:
+Ayes: 240
+Noes: 320
+Question accordingly negatived.
+
+The Deputy Speaker resumed the Chair.
+
+Bill reported, without amendment.
+
+Third Reading
+
+20:06:00
+
+Jesse Norman
+I beg to move, That the Bill be now read the Third time.
+
+I am grateful to all right hon. and hon. Members who have participated in the passage of this landmark legislation. I would like to remind the House, if I may, of the Bill’s provisions and its overarching goals. We may talk loosely of it as being based on national insurance contributions, or indeed as being a national insurance contributions Bill, but it is of course a separate Bill to introduce a 1.25% health and social care levy based on national insurance contributions.
+
+The levy will be introduced in 2022. In 2022-23, it will be delivered through a temporary increase in NICs rates of 1.25% for one year only, with all revenues generated being ring-fenced and paid to NHS England, NHS Scotland, NHS Wales and the equivalent in Northern Ireland. Then, from April 2023, a formal legal surcharge of 1.25% will replace the temporary increase in NICs rates, with revenue ring-fenced for health and social care only. The levy will also then apply to those working who are over the state pension age.
+
+The levy will enable the Government to tackle the backlog in the NHS. It will provide a new, permanent way to pay for the Government’s reforms to social care and will allow the Government to fund our vision for the future of health and social care in this country over the longer term.
+
+I reiterate my sincere thanks to all Members who have engaged in our series of stimulating debates on the measure. I commend the Bill to the House.
+
+20:07:00
+
+James Murray
+I thank the Clerks for their excellent and particularly rapid help with amendments to the Bill.
+
+Today, the Government have been determined to push through their tax rise on working people and their jobs as quickly as they possibly can. The Bill contains nothing at all—not even a reference or mention—about a plan to fix social care, and it fails to guarantee that a single penny of the new levy will ever go towards the social care sector.
+
+On Second Reading, the Opposition attempted to push for a guarantee that Parliament would vote on a social care plan before spending the money that the Bill raises. The Government rejected our attempt, and I am sure there are many Conservative Members who feel deeply uncomfortable about the position in which they find themselves.
+
+While the Bill lacks a plan for social care or any commitment that a plan will ever be in place, or even that any of the money that the levy raises will ever go to social care, it does include a tax rise—a tax rise that hits working people and businesses creating jobs. We know what that will mean for people across the country: combined with the cut to universal credit and the freeze in personal allowances, hospitality workers, teaching assistants, supermarket workers and social care workers stand to lose more than £1,000 next year.
+
+Members do not have to take my word for it. The Financial Secretary admitted the impact that this tax rise will have in his own tax information and impact note, which set out in no uncertain terms that people who are just about managing financially will see their disposable incomes fall. The Conservative party has united the Federation of Small Businesses, the British Chambers of Commerce and the CBI against its plans. They all agree that this represents a blow to jobs growth at a crucial point in the UK’s economic recovery. Last night, the Financial Times published its view that the “Tories must regain trust as the party of business”—which seems to be an understatement, to say the least.
+
+The Government’s approach will hit businesses creating jobs, and it will disproportionately hit working families and young people. It will hit those on low and middle incomes. It will hit people in some parts of the country more than others. But when we tried to push Ministers in Committee to come clean about the unequal impact of their tax rise on different people and across the country, or to be transparent about how it would hit social care workers themselves, they refused. The Prime Minister, the Chancellor and the Conservative party simply have their fingers in their ears.
+
+Finally, the Government have refused to accept throughout today’s debates, and indeed throughout the last week, that there is any alternative to their tax rise. The Prime Minister and the Chancellor are desperate to pretend that this is the only way to raise the money, and that simply is not true. A fairer approach to funding the NHS, social care and all our public services would see those with the broadest shoulders—including those with incomes from large financial assets and multiple rental properties, and other income from wealth—contributing more. The Government have refused to consider those options, and would prefer to hit workers instead.
+
+The simple truth is that there is no plan to fix the crisis in social care. There is no plan to improve the pay and conditions of care workers, no guarantee that any of the money will go toward social care, no guarantee that people will not have to sell their homes for care, and no plan to clear the NHS waiting list backlog during the present Parliament. All that we have is a tax on working people and their jobs. It tells us everything we need to know about the instincts of the Tories when they are in power, and that is why we will be voting against this Bill.
+
+20:12:00
+
+Alison Thewliss (Glasgow Central) (SNP)
+Let me first take the opportunity to thank the Clerks, who give us so much support in putting together amendments to the Bill, which arrived at such short notice. I thank Scott Taylor and Salma Saade in our research units, who also helped, and my hon. Friend the Member for Aberdeen South (Stephen Flynn), who did so much in Committee.
+
+This is a Bill and a tax without a mandate, in Scotland or even in England, since it is a breach of a Tory manifesto pledge—a pledge reiterated by the Chancellor at the time of the Budget. The Health Secretary has said that it is for the Scottish Government ultimately to decide how money is spent, but the Prime Minister said that the UK would direct money raised by this levy to the devolved institutions, and the Chancellor is on record as saying that the UK Government have the right to do this. The truth—the legal truth, because it is in the Bill—is that the Treasury may determine how this money is spent in Scotland. That is a fundamental undermining of the devolution that we fought so hard to get. Within the Bill, Ministers can even change what they like in regulations later, so even what we agree today may not be the principles that the Government will go by later on.
+
+This is a tax on the people of Scotland to pay for England’s social care crisis. It is a tax on young people and lower earners to pay for the wealthy. It is a tax on jobs, undermining recovery at a time when we need to be thinking about getting people into work, not making it harder for businesses to employ them. It is also a tax on the many who have been completely excluded from UK Government support throughout the pandemic and who are now going to be hit by this increase. It is also a power grab. It is another Tory power grab on devolution. This is not a Union dividend; it is a Union dead end, and we on the SNP Benches will not support this new Tory poll tax.
+
+Question put, That the Bill be now read the Third time.
+
+Division 73
+14/09/2021 20:14:00
+The House divided:
+Ayes: 307
+Noes: 251
+Question accordingly agreed to.
+
+Bill read the Third time and passed.
+

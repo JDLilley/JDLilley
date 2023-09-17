@@ -1,0 +1,922 @@
+Health Care-acquired Infections
+
+Mr. Speaker
+We now come to the main business. I inform the House that in both debates, I have selected the amendment in the name of the Prime Minister to the motion.
+
+15:44:00
+
+Mr. Andrew Lansley (South Cambridgeshire) (Con)
+I beg to move,
+
+That this House, while recognising the commitment and efforts of NHS staff to minimise infection rates, is alarmed at the continuing high levels of healthcare-acquired infections; notes that the NHS is not on track to meet the target for reducing MRSA bloodstream infections in 2008 and that new highly virulent MRSA strains are emerging; is shocked at increasing rates of Clostridium difficile infection which the Department of Health now regards as endemic in the health service; calls on the Government and the NHS to accelerate actions to combat levels of healthcare-acquired infections, including reduced bed occupancy rates, increased isolation facilities and single rooms, improved hand hygiene, enhanced hospital cleaning incorporating novel processes, and the rigorous screening of patients; commends the adoption of a uniform policy within NHS trusts; calls for the piloting by the NHS of a ‘search and destroy’ strategy against the most virulent strains of MRSA and Clostridium difficile; and demands that the Government report six-monthly to the House on the action it is taking to combat healthcare-acquired infections.
+
+I want to start, as our motion does, with a recognition of the work that the NHS does to seek to minimise infection. I am sure that many hon. Members visit hospitals, particularly their local hospital, and have occasion to discuss infection control measures, and I am sure that they appreciate the effort being made. I recall visiting a hospital a year or so ago and speaking to a sister in charge of a ward. I appreciated what she had achieved, as there had been orthopaedic patients on that ward for a substantial period, without any infections occurring. One then realises just how much the matter comes down to individual members of staff. I talked to the chief executive as we left that ward, and asked to visit the adjoining stroke ward. He said, “Unfortunately, we can’t do that, because it’s closed at the moment due to an infection.” That made me realise that control of the measures taken on wards makes a big difference.
+
+We introduced the motion today simply because we have raised infection control issues many times over the past three years, and we want action and need progress. The House needs an opportunity to learn why that action has not been taken, and why that progress has not been made. Our motion this afternoon is intended to provide precisely that opportunity. Let us consider where we are on the issue, and what has been done. In 2005-06, some 7,097 MRSA—methicillin-resistant Staphylococcus aureus— bloodstream infections were reported. That was a reduction of 8 per cent. in relation to the 2003-04 baseline for the Government’s target of halving the number of MRSA bloodstream infections by 2008. However, that should be put in context, because the number of deaths associated with MRSA has tripled since 1997. As we said back in 2004, halving MRSA rates would in fact do no more than bring them back to the levels that pertained at the end of the 1990s. Of course, the bloodstream infections that are the subject of the Government’s target do not include surgical site infections.
+
+Since the Government’s target was introduced, and even in recent months, more serious and more toxic forms of MRSA have appeared, including PVL—I will not attempt to give its scientific name—a dangerous form of MRSA in which a toxin that attacks leukocytes is emitted. It can lead to conditions such as necrotising fasciitis, which can lead to death in a matter of hours—within 72 hours. Serious and highly toxic forms of MRSA are appearing in hospitals, but the particular form that I mentioned is generally associated with community-acquired MRSA.
+
+Michael Fabricant (Lichfield) (Con)
+Was my hon. Friend as surprised as I was to learn of the move to tell nurses that, to try to avoid cross-infection with the more difficult forms of MRSA, they should no longer simply sterilise their hands using a sterilising wash, but should make it a regular practice to wash their hands? Was he as surprised as I was to hear that injunction, given that one might expect nurses to wash their hands as a matter of course?
+
+Mr. Lansley
+In my view, it has always been standard practice in hand hygiene both to use alcohol-based hand rubs and to wash one’s hands in between patients. My hon. Friend’s interesting point brings me to the next issue. Interestingly, for reasons that I do not quite understand, the Government did not make any reference to Clostridium difficile in their amendment to our motion. One of the consequences of the Government’s MRSA target has been a welcome increase in the availability and use of alcohol hand rubs in health care institutions, but that has not been effective in tackling the spread of Clostridium difficile, which requires washing with soap and water, too. One can see how it has come about that the Government’s narrow targeting has contributed to the dangers, which have been increasing with Clostridium difficile. The Government have not responded to those dangers.
+
+Dr. Phyllis Starkey (Milton Keynes, South-West) (Lab)
+rose—
+
+Mr. Lansley
+I will give way to the hon. Lady in a moment, but first I wish to put the figures on the record. There are several times as many cases of Clostridium difficile as there are of MRSA. There were approximately 1,300 deaths in which C.difficile was an underlying cause in the last year for which figures were available. Some 2,247 deaths were associated with C.difficile, which is an increase from 975 in 1999, and is twice the number of deaths associated with MRSA. The Government, however, ignore that in their amendment.
+
+Mr. David Heath (Somerton and Frome) (LD)
+I agree that there has been a huge effort by staff and the Government to improve infection control. Without wishing to sound too much like an old soldier, 25 years ago, I worked in an operating theatre, and I am surprised by the laxity of procedures now. Some staff, for instance, wear jewellery while in uniform, do not follow aseptic procedures, or wear scrubs outside theatre. A St. Thomas’s-trained sister would have scalped people for such surprising practices a few years ago, but the procedures that she enforced do not appear to be part of basic training today.
+
+Mr. Lansley
+I accept the point that the hon. Gentleman is making, and I shall come on to it later. It is addressed by the motion, which deals with the availability of facilities, particularly in hospitals, to support the adoption of a policy on uniforms. First, however, I promised the hon. Member for Milton Keynes, South-West (Dr. Starkey) that I would give way to her.
+
+Dr. Starkey
+The moment has passed, but I was seeking to emphasise the fact that a distinction must be made between the level of those increasingly drug-resistant infections in hospital and in the community at large. Hospitals operate against a rising base line, and the hon. Gentleman has ignored that key fact.
+
+Mr. Lansley
+It is interesting that the hon. Lady should say so, as I have been speaking for only seven minutes. I shall come on to talk about the technology that would allow us to distinguish between the rising incidence of infections in hospitals and their prevalence. I accept that, in many cases, infections are introduced to hospitals by admissions from the community, and were acquired in the community. New technologies make it possible to make that distinction more quickly, but that leads to the question whether a policy of screening all admissions should be introduced as a result. I shall come on to that in a minute, too.
+
+Outbreaks of C.difficile are very serious. At Stoke Mandeville, for example, there were 330 cases, in 33 of which, it is believed, the infection led to death. There have been cases in Maidstone, Leicester—the Secretary of State will know about that—and Nottingham. As with MRSA, we are dealing with more virulent strains of the infection such as the 027 strain. Other infections are a problem, too, such as GRE—glycopeptide-resistant enterococci—Acinetobacter and multi-drug resistant TB. I do not dispute for a moment the fact that the Government face a challenging environment, given the prevalence of more toxic infections.
+
+Mr. Paul Keetch (Hereford) (LD)
+The hon. Gentleman will recognise that that is not a new problem. Indeed, my mother died of MRSA in 1996 under the previous Government. [Interruption.] I am not seeking to blame anyone; I certainly would not do so for the death of my own parent. May I ask the hon. Gentleman whether he shares the Patients Association’s concerns that there does not appear to be a national across-the-board view about infection control, and that there are variations at local level? We need more information, and people at Hereford county hospital, where my mother died 11 years ago, believe that there should be broader view at the top to make sure that there is a common set of practices to control infection.
+
+Mr. Lansley
+I understand the point that the hon. Gentleman makes. He is right to point out that the number of deaths associated with MRSA, which was 49 in 1993, began to rise sharply in 1995 and 1996, as the trend line shows. I do not dispute that. The question is what we are doing now, as much larger numbers of people are dying of causes associated with the infections. Should we specify how every hospital and every member of the NHS should work? Of course not, but we should ensure that the actions that would clearly help, and which are spelled out as necessary by the Health Protection Agency and in the Government’s guidance to the NHS, are supported and pushed through by the Government where that has previously not been the case.
+
+Mr. David Burrowes (Enfield, Southgate) (Con)
+rose—
+
+Mr. Lansley
+I give way to my hon. Friend, who had an interesting and important debate last week.
+
+Mr. Burrowes
+I commend my hon. Friend for not ignoring Clostridium difficile, which is ignored in the Government’s amendment, as he pointed out. That is in marked contrast to the leaked memo, in which the Department of Health official states that Clostridium difficile is now
+
+“endemic throughout the health service”.
+
+Does my hon. Friend agree that more worrying is the response to which the health official refers—that the Government seek to manage by way of local targets—which is described as a “cop-out”?
+
+Mr. Lansley
+Indeed, it is a cop out. The Government must do one of two things. They must set a target and put in place the measures that will deliver it, or they should support the NHS in its local targets. The Government cannot have it both ways. They say, “It is not our responsibility. The NHS hospitals must decide what to do”, then they say they want to set a target and achieve it.
+
+My hon. Friend mentioned the leak in the Health Service Journal of an internal Department of Health memorandum, in which the director of health protection stated of MRSA bloodstream infections:
+
+“Although the numbers are coming down, we are not on course to hit that target and there is some doubt about whether it is in fact achievable”.
+
+That is interesting, and a frank admission internally in the Department of Health.
+
+On 30 November 2004 I had an exchange with the present Home Secretary, the right hon. Member for Airdrie and Shotts (John Reid). I said—forgive me for quoting myself:
+
+“If he did not pluck a target out of the air, will he tell the House where the evidence base is for his assertion that by 2008 the NHS should aim to halve the current rate of MRSA?”
+
+The then Secretary of State for Health replied:
+
+“I am saying that that is where we will be without a shadow of a doubt. . . Where did I get that target? I got it on official advice”—[Official Report, 30 November 2004; Vol. 428, c. 526.]
+
+We never saw the evidence or the official advice. Now we see the official advice inside the Department. Officials do not believe that the target can be achieved. I think they are wrong about that. It can be achieved. They never believed that it would be achieved, and they did not give the Secretary of State the advice on the basis of which he plucked his target out of the air. That is just one more example of the right hon. Gentleman in his progress around Whitehall, with his Cabinet colleagues following in their dustcarts.
+
+The Minister of State, Department of Health (Andy Burnham)
+rose—
+
+Mr. Lansley
+Perhaps the Minister will explain where that target came from.
+
+Andy Burnham
+Now that the hon. Gentleman has seen the advice that was put to Ministers, what does he think is the right response—to redouble efforts or, as he appeared to conclude yesterday, to scrap the target?
+
+Mr. Lansley
+It is important to redouble efforts. It is absurd that Ministers say, “The target is marvellous. We will not achieve it, but the target is marvellous.” The target has probably contributed to a lack of attention to Clostridium difficile and a 17 per cent. increase in the infection, which has killed twice as many people as has MRSA. Ministers think that the sum total of their objective is a target for MRSA bloodstream infections, rather than to deliver proper infection control across the NHS. They would rather hit the MRSA target, or pretend that they will, than deliver the actions that are necessary. Redoubling our efforts, if the Minister asks—
+
+Andy Burnham
+Will the hon. Gentleman give way?
+
+Mr. Lansley
+No, I shall make progress. I have been speaking for 15 minutes. There is much more to say about what needs to be done.
+
+Let me give the Minister another example. Back in 2004 my right hon. and learned Friend the Member for Folkestone and Hythe (Mr. Howard), then Leader of the Opposition, and I challenged the Prime Minister and the Secretary of State on the finding in the National Audit Office report that managers were putting targets ahead of infection control advice. The Prime Minister told us that that would not happen, that patient safety would come first and that managers would never do such a thing. Yet the Healthcare Commission report into the Clostridium difficile outbreaks at Stoke Mandeville stated:
+
+“Other managerial imperatives were given greater priority than the control of infection… The director of infection prevention and control had not persuaded the board to give sufficient priority to the control of infection in general and to the control of C. difficile in particular.”
+
+[Interruption.] Labour Members appear to find listening to the Healthcare Commission describing how 33 people died of an outbreak of infection associated with Clostridium difficile funny.
+
+The report continued:
+
+“The achievement of the Government’s targets was seen as more important than the management of the clinical risk inherent in the outbreaks of C. difficile. This was a significant failing.”
+
+When did the outbreak occur? It happened between October 2004 and June 2005. Ministers were complacent at the time and they are complacent today.
+
+Charles Hendry (Wealden) (Con)
+I have a letter from the director of nursing and patient services at Maidstone and Tunbridge Wells NHS Trust to a constituent whose mother contracted C. difficile in Maidstone and subsequently died. It states:
+
+“The hospital,”—
+
+the Kent and Sussex hospital—
+
+“given its age and design is I am afraid totally unsuited to the management of infection and the support of barrier nursing for patients with infectious diseases… The Ward sister… is relatively new… I will ask that her manager ensures, as part of her personal development plan this year that infection control is a key part of her development.”
+
+Should not that have been the case anyway?
+
+Mr. Lansley
+Yes. Unfortunately, one of the serious outbreaks took place at Maidstone. We have not received the results of further investigations into some of the outbreaks and it is wrong to assume that the failings at Stoke Mandeville occurred elsewhere. However, I would be surprised if similar failings had not arisen in other places. The Government should have done something about it at the time.
+
+The Minister of State, Department of Health, the hon. Member for Leigh (Andy Burnham) asked what actions we would take and mentioned redoubling efforts. Let us consider bed occupancy rates. In 2000, the Government promised the National Audit Office that those rates would go down, but they have gone up. Professor Barry Cookson of the Health Protection Agency rightly said:
+
+“What all the evidence shows is that we have to get bed occupancy rates to 85 per cent. but the Government has clearly got its waiting list targets and has signed up to them.”
+
+What has happened? We have 9,000 fewer beds than we had 21 months ago. Five per cent. of the NHS hospital sector’s bed capacity has disappeared in that time. That is not a consequence of the increasing average length of stay or higher day case rates, but a result of budget cuts.
+
+Anne Main (St. Albans) (Con)
+Unfortunately, my health authority and trusts have the same problem. Dr. Martin Woolaway, the director of public health for my authority, stated in a report to the NAO about preventing infections:
+
+“Preventing infections continues to be adversely affected by high bed occupancy, the movement of patients and the lack of beds to allow separation of elective and trauma patients.”
+
+Neither of my hospital trusts have isolation wards. That is sadly endemic.
+
+Mr. Lansley
+That is disgraceful. Last year, 40 per cent. of nurses reported that they did not have sufficient time to clean beds thoroughly between patients. That is central to proper infection control.
+
+What about undertaking wider surveillance and inspection instead of the Government’s narrow targets? The Minister asked what he should have done in response to the memorandum from the director of health protection. He should have said that the Government would redouble their efforts, not only in relation to MRSA bloodstream infections but a wider range of infections. He should have agreed to disseminate that data and ensured that people could act on the information.
+
+What about cleaning? The Minister is apparently interested in that and believes that the problem will be solved by in-house cleaning. Why, two years after the publication in 2004 of the model cleaning contract, which was trumpeted as a way of ensuring high standards of cleaning, could Norman Rose of the Business Services Association say that
+
+“in about all the contract renewals over the past two years, Trusts have requested that contractors do not quote on the basis of the 2004 Cleaning Standards as they cannot afford it”?
+
+What is the point of in-house or out-sourced cleaning if the management does not try to fulfil the cleaning contract and the model cleaning standards?
+
+What about the rapid review panel? I am not sure which Minister is now responsible for that. It might be one of the Ministers in the Chamber today, or their colleague in the other place. The rapid review panel was supposed to expedite the introduction of new processes and technologies into the NHS that would be useful in combating infections. Of the 168 products that were assessed, three received a recommendation 1, which meant that they were already in use. Everything else got a recommendation 2 or 3.
+
+Every company that I have spoken to has the same story about this process. They put together their dossier and provided a great deal of information. That took months, and they received no feedback. They were told that they would be given a recommendation. They were told, “Your product might well be useful. Off you go and prove it yourself. Run a clinical trial. Sell it to the NHS.” Those were things that they could and would have done themselves, but for the fact that they thought that the rapid review panel was there to help them to introduce those processes. Instead, it is a paper exercise with a committee that publishes obiter dicta from its throne, and nobody in the NHS is required to do anything about this at all. No one in the Department of Health uses health technology development budgets, for example, to take forward those technologies and prove that they work. Nothing gets done as a result of the so-called rapid review panel.
+
+Those technologies are out there, however. Last Wednesday, I was at the recently established centre for health care-acquired infections at Nottingham university. In one of the presentations at its launch, it reported on portable clean air technology systems that have demonstrable benefits in reducing MRSA infections, and on a hydrogen peroxide vapour system that has very promising benefits for eliminating Clostridium difficile. But where is the support for that? 
+
+The National Audit Office report stated that more than half of the trusts had undertaken a risk assessment to determine what level of isolation facilities they required, yet only a quarter of those had put the measures in place, and that that had usually happened only in conjunction with new build or major capital projects. That is not good enough, and these things are not happening fast enough.
+
+Last June, the Scottish health technology assessment reported that three isolation beds per 25-bed ward should be provided to back up a policy of screening all admissions. Will the Secretary of State commit today to providing the necessary capital resources to put in three isolation beds per 25-bed ward in order to support a policy of screening all admissions? The point was raised earlier about tackling community- acquired infection—[Interruption.] No, you are the Government. I am sorry, Mr. Deputy Speaker. They are the Government, yet they sit on the Front Bench and ask me what I would do. Crikey!
+
+I was talking about screening. Before the last election, my right hon. and learned Friend the Member for Folkestone and Hythe and I said that, as a Government, we would spend the money necessary to introduce the screening of all admissions. The Government have done nothing about that until the document of November 2006 that they have just published. It states:
+
+“The logical conclusion of risk factor assessments and the results of modelling studies”—
+
+the Department of Health always provides us with a good read—
+
+“is that the most appropriate approach to the reduction of MRSA carriage in the population, and resultant MRSA infections, is the universal screening of all admissions to hospitals.”
+
+Instead of just handing out that document and letting trusts review their policies, will the Government put in place the isolation facilities that would enable the screening of all admissions to hospitals? They say that that should happen, but it is not happening.
+
+I saw the equipment at the centre for health care-acquired infections at Nottingham university, and it was extremely interesting. Professor Richard James is taking the DNA testing of bacteria to the next stage, which will enable us rapidly to identify the different strains of infection, and of MRSA in particular. Being able to identify the genetic fingerprint of the different strains will enable us to determine the extent to which the MRSA infection in a hospital is the result of a community-acquired MRSA or a hospital-acquired MRSA. This will help us to understand the prevalence of those infections in hospitals.
+
+Andrew Gwynne (Denton and Reddish) (Lab)
+The hon. Gentleman has acknowledged that our hospitals now have in place one of the most comprehensive MRSA surveillance systems, so that we can track precisely what is going on. This debate is all very well and good, but will he commit himself to supporting a national health care infection reduction target—yes or no?
+
+Mr. Lansley
+That was a completely pointless intervention. We went into the last election with a commitment to a comprehensive programme of tackling infections, not just with a target. We included a commitment to a mandatory surveillance system that was wider than both the one that the Government had at the time and the one that they have implemented now. When we are in government, it will be our responsibility to ensure a comprehensive system of infection control.
+
+That brings me to two final points. The hon. Member for Somerton and Frome (Mr. Heath) asked about uniforms. It is important to know what the Government are planning in that regard. The Leader of the Opposition has made it clear that we want the code of practice, which the Government put laboriously into legislation last year, to reflect the need for changing, showering and laundering facilities in hospitals. I accept that that will not be cheap, but it is not provided for in the code of practice, and the Government appear unable to commit to it. At the moment, the Royal College of Nursing tells us that half of nurses are not able to change at work, six out of 10 are not able to shower at work—we are all able to shower in Portcullis house, and nurses certainly need that facility at work—and six or seven out of 10 are not able to have uniforms laundered at work.
+
+The issue relates to nurses’ working conditions, the standards that they want to maintain, a comprehensive approach to hygiene in hospitals and the confidence that the public have in the system on which they depend. The Minister said that Chris Beasley, the chief nursing officer, intended to set up an expert group to consider uniforms policy, which was to report in spring 2006. The latest reply in December 2006 said that it will report in spring 2007. Once again, the Government are all talk; there is no action.
+
+Finally, in relation to “search and destroy”, the chief medical officer published “Winning Ways” in December 2003, which set out clearly the success—that is what he called it—that the Danes and the Dutch had achieved with a search and destroy strategy against MRSA. In September 2004, I challenged the Government to say whether they would have a search and destroy strategy. Their answer was that they were getting experts from abroad to come to the country and tell us what we should be doing. I challenged them again to say what they were doing. Lo and behold, more than three years later, Michael White wrote in last week’s Health Service Journal that the chief medical officer had sent a team to the Netherlands to find out about search and destroy strategies.
+
+We knew in December 2003 that a search and destroy strategy was a possibility. I know why Ministers did not implement it: it is costly, and it would take six years, according to modelling by Nottingham university, for such a strategy to deliver a result whereby MRSA and other infections were no longer endemic in the NHS. The then Secretary of State, the right hon. Member for Airdrie and Shotts, said, “I want a target now, and I want it all to be running in the middle of the next Parliament.” He made it up, and it is not good enough. It is not good enough that the Government are not taking action, and it is not good enough that their amendment makes no reference to the commitment and work of NHS staff in combating infections, makes no reference at all to C. difficile, and contains no commitment to further action to deal with infections.
+
+The purpose of the debate and our motion is straightforward: we are calling for there to be no more excuses, no more complacency, no more targets that distort the task of dealing with infections, and no more rhetoric without results. The Government must commit themselves to action. Our motion sets out the kinds of actions required, which would support and enable the NHS to deliver the highest standards of infection control anywhere in the world, which we need and should aspire to have. Our motion, not least because Ministers have not volunteered any time since the election to discuss infection control, would require Ministers to come to the House every six months to tell us what they have been doing. I commend the motion to the House.
+
+16:14:00
+
+The Secretary of State for Health (Ms Patricia Hewitt)
+I beg to move, To leave out from “House” to the end of the Question, and to add instead thereof:
+
+“welcomes the top priority given to reducing healthcare-acquired infections by this Government; recognises that the Government is the first ever to collect data on these infections including establishing the world’s most comprehensive MRSA surveillance system; further welcomes the new code of practice for health and social care providers introduced under the Health Act 2006 to reduce infections like MRSA and the new duty on the Healthcare Commission to ensure service providers comply with the code; welcomes the Government setting a target to halve rates of MRSA by 2008; notes the progress towards achieving this target; acknowledges that more must be done to achieve this goal; and therefore welcomes the priority given to reducing healthcare-acquired infections in the operating framework of the NHS in 2007 and the additional £50 million given to NHS trusts in December 2006 to tackle healthcare associated infections.”
+
+I spent yesterday morning with staff and patients at the Royal Marsden hospital in London, an NHS foundation trust that is giving superb care to some of our country’s most seriously ill cancer patients. Because patients’ safety is the hospital’s top priority, it takes infection control extremely seriously. I spent some time with Jen Watson, the senior sister in the critical care unit, who told me about some of the measures being taken. They include regular training in infection control every year for every member of staff, screening of all patients for MRSA when they arrive at the trust, isolation for any patient who is either at risk or diagnosed with MRSA, and alerting the rest of the hospital through the electronic patient record. That is a useful reminder to those who persist in saying that electronic patient records are a threat to high-quality health care rather than a real improvement.
+
+There are aprons for every staff member in critical care, including doctors, and for every visitor. There are differently coloured aprons for those dealing with different beds in order to reduce the risk of cross-infection. Although the unit has the highest-risk patients in the hospital, it has the lowest cross-infection risks. There is alcohol gel by every bed, and every visitor as well as every staff member is strongly encouraged to use it. There is thorough cleaning and a weekly inspection by the ward sister with the cleaning staff. That applies not just to the critical care unit, but throughout the hospital.
+
+Mrs. Nadine Dorries (Mid-Bedfordshire) (Con)
+Did the Secretary of State look out of the window and see nurses getting out of their cars in their uniforms, having just dropped their children off at nurseries, or sitting in cars in which they had probably driven their dogs to take them for a walk? What use are the precautions that she has described when nurses are wearing their uniforms home and then wearing them back to the hospital? What is the point of all those procedures when basic, fundamental steps are not being taken?
+
+Ms Hewitt
+I am astonished at the hon. Lady’s attack on the integrity and hygiene of dedicated nurses at the Royal Marsden and, indeed, other hospitals. The point about a hospital taking infection control as seriously as the Royal Marsden does and introducing the measures that I have described, along with others, is that infection rates fall. Last year, for instance, the Royal Marsden aimed to lower its MRSA bloodstream infection rates to four cases in that year. In fact, it managed to reduce the number of cases to just two, and it made sure that it learned lessons from each of those cases.
+
+The detailed description that Sister Watson gave me of the scrupulous attention that the Royal Marsden pays to infection control—attention that is replicated by thousands of staff throughout the NHS in very many hospitals—is a good reminder of what dedicated NHS staff do every day of the week to give patients the safest possible care.
+
+Miss Ann Widdecombe (Maidstone and The Weald) (Con)
+May I press the Secretary of State on the question raised by my hon. Friend the Member for Mid-Bedfordshire (Mrs. Dorries)? Does she believe that it is in the interests of hygiene for nurses to wear their uniforms between hospital and home, and between home and hospital? If the answer is no, what does she propose to do about it?
+
+Ms Hewitt
+I think that it is for the board and matrons of each hospital trust to establish the uniforms policy for that trust. I note with some bemusement that while on the one hand the Conservatives propose to abolish all targets, on the other they are telling every hospital where it should put its washing machines. That is an absurd position.
+
+As the hon. Member for Hereford (Mr. Keetch) reminded us in referring to his mother’s death some years ago, hospital-acquired infections are not a new problem and are not confined to this country. We know that MRSA rates have been increasing every year since the early 1990s, and Conservative Members have acknowledged that. We knew when we were elected 10 years ago that there was a serious problem with MRSA and, more broadly, health care-acquired infections, and we have been doing more to tackle it. We were the first Government in the world to introduce mandatory reporting of MRSA—we did that in 2001. In 2004, we set the national target, to which the hon. Member for South Cambridgeshire (Mr. Lansley) referred, for the NHS to halve MRSA bloodstream infection rates by March 2008.
+
+Daniel Kawczynski (Shrewsbury and Atcham) (Con)
+rose—
+
+Mr. Burrowes
+rose—
+
+Ms Hewitt
+I will give way to the hon. Member for Enfield, Southgate (Mr. Burrowes).
+
+Mr. Burrowes
+May I press the Minister again? Why is it that this country, almost uniquely in Europe, supports the practice of nurses’ uniforms being laundered at home rather than by industrial laundering, which would ensure proper thermal disinfection?
+
+Ms Hewitt
+If the hon. Gentleman and the Conservative party think that the question of laundering nurses’ uniforms is the central issue when it comes to controlling infections—we have already had two interventions in about two minutes on the same point—they are not listening in the real world and they are not listening to the experts.
+
+Daniel Kawczynski
+Will the Secretary of State give way?
+
+Ms Hewitt
+I will make a little more progress before I give way again.
+
+As I say, we were the first Government in the world to introduce mandatory reporting. We followed that up with our target, since when MRSA rates have been falling—not simply because we set a target, but because we focused on the issue with the NHS and we supported it in taking the right action.
+
+It is worth remembering the scale of the problem that was emerging. MRSA rates began to increase in the early 1990s. Figures from the Health Protection Agency reporting system show that in the last four years of the disastrous Conservative health policy from 1993 to 1996 MRSA rates were doubling, or nearly doubling, every year—an exponential growth in MRSA rates. I have no doubt that if we had not introduced mandatory reporting, made that a top priority for the NHS and set a target, those MRSA rates would have continued to rise. Instead, we first slowed the increase, then we got it down to single figures, and now the NHS is cutting the number of cases. Not only has there been an 8 per cent. reduction in MRSA rates in the past two years, but over the past two years in the NHS in the winter period, when hospitals are at their busiest, there has been an 11 per cent. reduction in MRSA rates.
+
+Mr. Paul Burstow (Sutton and Cheam) (LD)
+The Secretary of State mentioned the Health Protection Agency. One of the things that it has identified as being a factor behind hospital-acquired infections is bed occupancy rates. Can she comment on the fact that my local trust, Epsom and St. Helier University Hospitals NHS Trust, has decided to cut 200 beds across the trust—one in four of the beds—thus requiring each bed to be used more intensively? Occupancy rates, therefore, will go up. Surely that is a false economy, and there will be a rise in infection rates unless there is very careful investment to deal with the infection consequences of beds being over-occupied.
+
+Ms Hewitt
+The hon. Gentleman raises an important point. For every hospital, patient safety has to be the No. 1 priority. As he will understand, as hospitals do more day care surgery and bring down the lengths of stay by ensuring that patients go home when it is right and clinically safe for them to do so—instead of staying in hospital for an unnecessarily long time, which happens too often—they need fewer beds, while giving patients better care with better health outcomes.
+
+On the issue of the relationship between occupancy rates and MRSA and other infections, hospitals throughout the country with high bed-occupancy rates are also reducing their health care-acquired infection rates.
+
+Daniel Kawczynski
+On my numerous visits to the Royal Shrewsbury hospital, I have noticed that sometimes relatives of patients come to see their loved ones more than two at a time—sometimes three or four at a time—and sit on the beds. Does the Secretary of State agree that it is vital that the Government, via the media, get through to people that they should be very careful what they do when they go to see their relatives? They should not sit on beds. The nurses do not want to enforce that rule, but it is important.
+
+Ms Hewitt
+The hon. Gentleman raises an important point. Many hospitals have introduced protected hours for visiting and controls on numbers, and several NHS foundation trusts engage their members in decisions on such restrictions. However, I must say that, once again, the hon. Gentleman is asking the Government to decide. Does he want us to set a target for the number of visitors that there should be at any one time, or where they should sit?
+
+Let me say a little more about targets. We set the target of halving the MRSA rate, and I am sure that if we had not set that target the rate would have been going up rather than down and that we would have a much bigger problem than we already have. However, we always said that the target would be challenging—my right hon. Friend the Member for Airdrie and Shotts (John Reid) said that at the time. There is no point in setting easy targets. We need to set challenging targets in order to ensure that everybody makes the greatest possible effort to deal with a problem that affects the NHS as a whole.
+
+The Opposition are against targets. They have been busy telling the press that they will get rid of all the NHS targets. The hon. Member for South Cambridgeshire has confirmed that they want to get rid of targets—in other words, he has confirmed that he does not believe that the Government should focus on the top priority issues for patients and the NHS by setting a target for reducing the MRSA rate.
+
+Charles Hendry
+Does the Secretary of State believe that the Government should have a view on what constitutes good practice? In answering questions on issues such as nurses’ uniforms and visiting hours, she said that she did not have a view. Does she have a view on whether it is right for people no longer to wear masks in operating theatres, because people have frequently been told that they cannot be afforded and that there is no money for them? Does she believe that masks being worn in such circumstances constitute good practice?
+
+Ms Hewitt
+I will shortly come on to the action that we have been taking, and supporting the NHS to take, to get the infection rates down, but the hon. Gentleman might find it useful and interesting to look at “Saving Lives: Our Healthier Nation”, one of the pieces of useful guidance and support that we have been giving to the NHS to ensure that action follows the setting of targets.
+
+The Conservatives need to deal with this issue. If they really believe that targets should go, do they think that the NHS should be trying to halve MRSA rates by 2008, or not? Do they want waiting times to fall? Do they want cancer patients—people urgently referred by their GP because they might have cancer—to be got through their appointment with their specialist and their diagnostic tests, and to be started on their treatment, within 62 days? That is the target that we have set, and which has helped to transform cancer care in the past 15 months alone. Do they believe that that target should be maintained and achieved, or do they not mind what the MRSA rates and the cancer waiting times are? In other words, are the Conservatives prepared to set national standards for the NHS and to ensure that they will be followed through, or will they give up, as they did when they had their disastrous years in government?
+
+Mr. Lansley
+The Secretary of State has strayed into saying that if there are no targets there are no standards, but of course there are standards. We have been very clear about standards. Our point about targets can be seen in respect of MRSA; they have focused so narrowly on one measure of MRSA infection that other forms of MRSA infection—C. difficile, Acinetobacter and Panton-Valentine leukocidin or PVL—are not being addressed with the comprehensive action that is required.
+
+The Secretary of State talks about all the actions that she is taking and the documents that are being published. Let me ask her a question about the matron’s charter of October 2004. It has a lovely chart that shows how matrons will have the authority to withhold payment. Have matrons actually exercised such a power to withhold payment on any occasion since October 2004?
+
+Ms Hewitt
+Almost every time I visit an NHS hospital I meet matrons who every day act to improve patient care and uphold the highest standards that all of us want. The House and the public now know that the Conservatives would scrap the targets that are helping to reduce infection rates.
+
+Let me deal with C. difficile—
+
+Andrew Rosindell (Romford) (Con)
+Will the Secretary of State give way?
+
+Ms Hewitt
+No; I want to make a little more progress before I give way again.
+
+It is perfectly true that the national target that we set in 2004 related to MRSA and not to C. difficile, which is also an increasing problem in hospitals not only in Britain, but in almost every developed country in the world. I make two points about that. First, because the MRSA target has focused the attention of every hospital—from the board right down to every ward—on better infection control, it is helping to deal not only with MRSA but with C. difficile and other infections. Secondly, we are seeing very different rates of C. difficile in different hospitals, particularly in respect of the latest, most difficult, strain. That is why, in the operating framework that we set for 2007-08, in which we confirmed that infection control was one of the NHS’s top four priorities for the coming year, we also said that we expected every acute hospital, with its local primary care trust, to set a challenging target for bringing down its C. difficile rates, where that was needed.
+
+Mr. Lansley
+Local targets?
+
+Ms Hewitt
+Local targets, because there is such local variation in the incidence of C. difficile, which is not something that one can say about MRSA.
+
+Norman Lamb (North Norfolk) (LD)
+I am very grateful to the Secretary of State for giving way. Is she really saying that it is appropriate to have a national target for MRSA, despite considerable variation around the country, but local targets for C. difficile because of massive variation? That simply does not make sense.
+
+Ms Hewitt
+That is precisely what I am saying. We set a national target for MRSA because that was a nationwide problem. Although some trusts had very low rates, in most hospitals we expected—rightly—to see very significant reductions in MRSA infections. As I said earlier, and as has been confirmed in many conversations with the experts—the NHS front-line staff—it was because we set that target and focused on MRSA specifically and infection control generally that the infection rate started to come down. However, given that some hospitals are really struggling with outbreaks of the most recent and difficult strain of C. difficile, but others have it well under control, rather than trying to set a national target it makes much more sense to say to the service, as we have done, “Let us have challenging local targets agreed between the hospital and the PCT, but reported nationally not only to ourselves, but to the Healthcare Commission and, most important of all, to the patients themselves.”
+
+Andrew Rosindell
+rose—
+
+Ms Hewitt
+The hon. Gentleman is being very persistent; I give way.
+
+Andrew Rosindell
+I thank the Secretary of State. She will recall, because we have corresponded on the matter, that C. difficile has been a serious problem in Oldchurch hospital, in my constituency. As she is also aware, we now have the new Romford hospital. The death of my late constituent, Mr. Patrick Martin, in 2005 caused a great deal of anguish, but a public inquiry has not been called. Will the Secretary of State please reassure my constituents that although there has not been a proper inquiry and investigation into that incident, the same problem will not be transferred from Oldchurch hospital to the new Romford hospital? Surely it is time that we had a full public inquiry into Mr. Martin’s sad and tragic death.
+
+Ms Hewitt
+The hon. Gentleman has indeed written to me about the tragic death of Mr. Martin, and I should obviously like to extend my condolences to Mr. Martin’s family. Although it is never possible to eradicate MRSA completely, given the complexities of modern medicine, every avoidable death from MRSA—or any other hospital-inquired infection—is one death too many. That is why, as part of the clinical governance arrangements in the NHS that we have been strengthening since we were elected, it is essential that every hospital learns the lessons from any one of these preventable deaths—and, indeed, from every incident of MRSA or outbreak of C. difficile, even if it does not lead to a death. I am glad that the hon. Gentleman mentioned the new Romford hospital, which is one of more than 80 new hospitals that, under our Government, have been built or are in the process of being built for NHS staff and patients.
+
+I want to stress that even with 12 million people admitted to hospital every year, and such tragic cases as the one to which the hon. Gentleman has just referred, the risk of MRSA bloodstream infection remains very low, with fewer than two cases for every 10,000 hospital bed days. However, we also know that we can and must do more with all such infections. That is why in 2005 the chief nursing officer launched the national programme “Saving Lives”, which was based on the best available information, guidance and practice from the UK and internationally. The programme was designed to focus the efforts of every hospital on a small number of high impact clinical interventions, and it has done so. All the evidence shows that if a hospital implements those measures consistently, it will reduce the rate of all those serious infections.
+
+Let me quote Peter Wilson, the consultant microbiologist at University College London Hospitals Foundation Trust:
+
+“Even though UCLH had high levels of MRSA bacteraemia in 2001, we have been successful in reducing them substantially by being focussed on the task and gaining the full support of the chief executive.”
+
+He says that the trust has introduced
+
+“wound surveillance and rapid MRSA screening in addition to increased use of hand gel and hand hygiene education.”
+
+He claims:
+
+“Any hospitals using similar strategies should be able to achieve the MRSA target. Antibiotic control has also ensured low levels of C difficile.”
+
+Mr. Heath
+The Secretary of State is probably entirely right to say that proper interventions and protocols can reduce bacteraemia in the hospital environment, although part of the equation is having the capacity to isolate cases, which comes back to the bed occupancy issue that my hon. Friend the Member for Sutton and Cheam (Mr. Burstow) raised earlier. However, can anything be done to reduce the proportion of the resident population of Staphylococcus aureus that is methicillin resistant? Is there any public health measure that has been shown to be effective in achieving that?
+
+Ms Hewitt
+The hon. Gentleman makes an extremely important point. Hospitals have found, as a result of the monitoring that we have asked them to do, that MRSA is present in some 20 per cent. of patients admitted from nursing homes and 7 to 8 per cent. of patients admitted as emergency cases. At this point, the most useful action, and one that we strongly recommend to the NHS, is to screen high risk patients, especially elderly people, those coming in for orthopaedic surgery—emergency cases as well as elective—and patients coming in from nursing homes. That is precisely the guidance that the chief medical officer and chief nursing officer issued last year to supplement the guidance that we had already issued in “Saving Lives”.
+
+Mr. Lansley
+I am surprised by those remarks because I have read “Saving Lives” on the summary of best practice in screening for MRSA, and I quoted from that document in my earlier remarks the conclusion that the best way to deal with it was universal screening of all admissions. The Secretary of State is now saying that her recommendation is different from what her own document said.
+
+Ms Hewitt
+The guidance that we issued last year on screening recommends strongly to trusts that they focus their efforts on those most at risk—[Interruption.] Well, I will send the hon. Gentleman a copy of the document because I have just been looking at it. It sets out in great detail the different groups of patients most at risk of MRSA and other infections—[Interruption.]
+
+Mr. Deputy Speaker (Sir Michael Lord)
+Order. The hon. Member for South Cambridgeshire (Mr. Lansley) may not like the answer that he is getting to his question, but he must listen to it without continually intervening from a sedentary position.
+
+Ms Hewitt
+I am grateful to you, Mr. Deputy Speaker.
+
+We have issued that further guidance and we expect it and other guidance to be implemented. However, a critical element in the action needed to ensure that targets are taken seriously and achieved is our investment in improvement teams. Those teams work directly with the acute hospital trusts that are finding it most difficult to get infection rates down. In the past year, they have worked with more than 50 trusts, and that is exactly the same approach that we adopted in our work to improve accident and emergency services. Our aim then was to get rid of the appallingly long waits on trolleys in corridors that people had to suffer, and to cut waiting times. For example, when the teams began work, people were waiting for hip replacement operations for 18 months or even two years.
+
+That is an example of how we set a target, focus attention on it and then send in improvement teams to work with those hospitals that are struggling the most, but we have done more than that. The hon. Member for South Cambridgeshire spoke rather scornfully about the Health Act 2006, but I think that it represents a hugely important step forward, as it gives us the power to introduce a statutory code of practice as part of our campaign to save the lives of more NHS patients.
+
+The 2006 Act came into effect last October and it requires every NHS trust to have proper systems in place to deliver effective infection control. The Healthcare Commission will assess compliance with the code of practice, as part of the checks on the quality of health care that it makes on behalf of all patients. Already, 41 trusts have carried out self-assessment exercises and declared that they were not doing enough to control infections. The Healthcare Commission is following up each of them to ensure that effective remedial action has been taken.
+
+If the Healthcare Commission finds that a trust has not taken effective remedial action to deal with infection control problems, it will be able to issue statutory improvement notices that require the trust to remedy the failure within a specified period. I assure the House that it will have no hesitation in doing so.
+
+Justine Greening (Putney) (Con)
+I thank the Secretary of State for giving way—[Interruption.] I am delighted that her Front-Bench colleagues have woken up enough to hear my intervention. The right hon. Lady talked about quality control, but is not what she said at odds with the Local Government and Public Involvement in Health Bill that we debated yesterday? Under that Bill, the public and patient involvement forums are to be turned into local involvement networks. The forums’ ability to hold trusts accountable for their performance in respect of hospital-acquired infections is a very important element in ensuring that targets are met, but do not the new proposals simply water that down?
+
+Ms Hewitt
+The hon. Lady is absolutely wrong. The system is not being watered down, as the success of the patient and public forums provides the basis for the much stronger system being put in place with the local involvement networks. We have been able to make an enormous difference to the quite shocking standards of hospital hygiene that we found when we were elected  10 years ago, precisely because of the work of patient environmental assessment action teams that go into hospitals and make unannounced inspections on behalf of patients and the public.
+
+Although all of our work—with “Saving Lives”, the new screening guidance, the new code of practice, stronger powers for the Healthcare Commission and with the improvement teams—was having an effect, we remained unsatisfied. Infection rates for MRSA were falling, but not fast enough, so last month we announced a further allocation of £50 million in capital funding—[Interruption.] The hon. Member for South Cambridgeshire should listen, as he was asking for more capital funding. That £50 million in capital funding was made available to enable hospital trusts to buy equipment and carry out work so that they could further improve hygiene and reduce the risk of infection.
+
+I can announce that, as of today, £45 million of that £50 million fund has already been released to trusts. They are using the money to build more single rooms for isolation treatment, to install more hand-washing basins and to modernise bathrooms, and to put in safe storage containers for dirty linen where they are needed. Trusts are also using the money to acquire new equipment for the heavy duty, deep steam cleaning of infected rooms and wards, and they are buying new wipe clean computer keyboards for theatres and new equipment for microbiology laboratories. Further investment in the national health service, made possible by the record investment that our Government are making in the NHS—investment that the Conservatives voted against—[Interruption.] They do not like to hear that, but they will hear it. That investment would be put at risk every year by the Conservatives’ new economic policy; they would cut funding for the NHS and other public services to pay for tax cuts.
+
+We know that getting infections under control has to be a top priority for the NHS, which is exactly what we said in the NHS operating framework for the next financial year. Cut infection rates, cut waiting times further, reduce health inequalities and achieve financial health—the top four priorities for the NHS for 2007-08. Those are all targets that the Conservatives would scrap. All those achievements would be put at risk by their health and economic policies.
+
+I commend the amendment to the House.
+
+16:46:00
+
+Norman Lamb (North Norfolk) (LD)
+The debate has clearly been inspired by the leaking of the now infamous Department of Health memorandum, which painted a disturbing picture of the trends in health care-acquired infections. In the aftermath of the leak of that document, the headline focus was on the MRSA target, but as the hon. Member for South Cambridgeshire (Mr. Lansley) rightly said, the previous Secretary of State made an absolute commitment not merely to move towards that target but to meet it. It is right, therefore, that the Government should be held to account on their progress in achieving that absolute commitment.
+
+What did the memorandum highlight? It said that the target would not be reached—indeed, that it may never be reached. That was the view of the director of health protection at the Department of Health. It was not the case that merely a few trusts were performing badly; there was underperformance across the NHS—116 trusts were underperforming. I fully acknowledge that MRSA rates are coming down, which has not been achieved from the mid-1990s onwards, when rates were rising considerably.
+
+The whole NHS is off course by a massive 27 per cent., compared to the absolute target set by the previous Secretary of State. Perhaps most disturbingly, according to the director of health protection, Clostridium difficile is endemic throughout the health service. The Secretary of State said that the situation was variable, which I accept, but almost all trusts are reporting cases. There are far more cases of C. difficile than MRSA, and far more people are dying from it. In 2004 there were 360 deaths from MRSA but 1,300 from C. difficile, and in 2005-06 there were 51,000 cases of C. difficile.
+
+Rather disturbingly, the memorandum reported that measures to combat MRSA do not seem to have an effect on cutting rates of C. difficile. Among the over-65s, incidence of C. difficile increased by 17 per cent. between 2004 and 2005. According to the director of health protection, there is evidence that many trusts do not take the problem seriously enough—an issue to which I shall return. As the Conservative spokesman pointed out, the memo provides compelling evidence of the extent to which the Government’s obsession with targets can be counter-productive and unhelpful in achieving a focus on the highest priorities.
+
+How did we end up with the MRSA target? Why focus only on that infection? Back in 2004 there were rapid rises in MRSA infection, which, as the Secretary of State will remember well, caused a political storm. The response, of course, was to set a tough target, but it was a target only for MRSA, because that was the media story. The memo is revealing about what civil servants think of the value of that target. Three of the six options for how to manage the bad news involved changing the target. It could be extended by adding something on C. difficile, which would show equal concern for that, or changed to cover hospital-associated infections generally without mentioning any specific ones. Switching to locally set targets was another option that would allow C. difficile to be included in local targets. Another option was scrapping the targets altogether or extending the time scale.
+
+It seems to me that that hardly demonstrates a massive commitment to a target that the Secretary of State put such store by. The director of health protection appears to have a different view from that of the Secretary of State about the significance and value of this specific target. One is left with a clear sense that the original target was entirely arbitrary, as the hon. Member for South Cambridgeshire said, and that the director of health protection took the view that it would be sensible to acknowledge that it neglected other infections, and that changing it might well get trusts to take the problem of C. difficile more seriously. 
+
+The conclusion, though, was to plough on with the existing target—however narrow, however much it ignored the bigger problems of C. difficile, and however unattainable it was. As we have heard, the focus for C. difficile is to go for local rather than national targets, but the truth is that the target for MRSA, set on the basis of political calculation, distorts clinical priorities. I shall return later to the issue of how other targets may be compromising efforts to combat these infections.
+
+There is nothing in the Conservative motion with which to disagree. It is right to highlight the challenge that we face and the seriousness of the issue when so many people are dying as a result of infections picked up in hospital. However, it falls short in one crucial respect. Remarkably, it says nothing about the role of antibiotics in health care-acquired infections. If the motion were a prescription for how to tackle the problem, it would be seriously deficient for that reason.
+
+On antibiotics, I would like to highlight the work of Professor Liebowitz, a world authority on hospital-wide infection, at the Queen Elizabeth hospital in King’s Lynn. That hospital has achieved the Government’s MRSA target and also cut the incidence of C. difficile very significantly—by more than 20 per cent. in the last two years. What Professor Liebowitz stresses is the importance of stopping the prescription of the so-called broad-spectrum antibiotics and looking at alternatives. Just last week, she told the Norfolk health and scrutiny committee:
+
+“It’s really frustrating if you have got really good infection control, everybody is washing their hands, but still doctors continue to treat with the same antibiotics”—
+
+thus undermining everyone else’s efforts in seeking to control these awful infections.
+
+Those concerns were echoed in a national survey of NHS acute trusts in England, carried out by the Health Protection Agency and the Healthcare Commission, which specifically looked into C. difficile. Crucially, what the survey found was that the most effective measure in preventing and managing infection is the appropriate administration of antibiotics in hospitals. Given that that is the advice of the Health Protection Agency, it seems incredible that hardly any reference has been made to it in our debate so far.
+
+Mr. Keetch
+In common with other hon. Members, my hon. Friend has referred to the washing of hands, which is so important. However, would he accept that it is not so much the washing as the disinfecting of the hands that is so important—and also ensuring that the hands are not re-infected through bracelets or rings? The skin must be properly disinfected before injections or tubes are put into the skin. It is not just washing but disinfecting the skin that is crucial here.
+
+Norman Lamb
+I absolutely accept my hon. Friend’s point and I will come on to some broader comments about infection control in a few moments, but let me just finish on the question of antibiotics.
+
+The advice was that trusts should have policies in place to reduce the inappropriate administration of broad-spectrum antibiotics and the regular monitoring of the use of antibiotics through audit and feedback to prescribers. Those findings are also reflected in the results of the European Commission-funded research project, which reported in September 2005. Antibiotic use has a significant impact on MRSA in European hospitals: the hospitals with the highest MRSA prevalence also had the greatest antibiotic use. So not only is the Government’s approach flawed for the reasons that I have explained, but the motion leaves out probably the most significant factor in tackling the problem.
+
+The questions that I would put to the Secretary of State are these: what specific steps are the Government taking to shift the prescribing of antibiotics away from broad-spectrum antibiotics? How successful are those steps? What are the trends in prescribing? I do not know whether she wants me to give way to her, but I would be very interested in what she has to say on those specific points. I see that she does not want me to give way, but I very much hope that the Minister will deal with them in his response to the debate—that would be encouraging news.
+
+The motion rightly deals with a range of infection control measures, which the evidence suggests are also important in dealing with the incidence of health care-acquired infections. What is remarkable is the extent to which the Dutch have been successful in keeping rates of infection much lower by adopting a zero-tolerance approach—the “search and destroy” strategy referred to in the motion. The Netherlands uniformly screens for MRSA and isolates those infected. Staff are sent home and wards are often closed down. However, the key to enabling that approach to work is to have enough beds for isolation, as well as good staff-patient ratios.
+
+Ms Hewitt
+Will the hon. Gentleman give way?
+
+Norman Lamb
+I will. Perhaps the Secretary of State is ready to answer my questions now.
+
+Ms Hewitt
+No, I am not intervening on the antibiotics issue, although that is an extremely important point and one that we have endorsed in the guidelines. Is the hon. Gentleman aware that in the Netherlands the rate of hospital-acquired infections is about 7 per cent., and that in England it is about 8 per cent.? Although there are undoubtedly lessons that we can learn, and are learning, from our colleagues in the Netherlands, I deplore the fact that the hon. Gentleman is talking down the achievements of the NHS in that way.
+
+Norman Lamb
+I am not talking down the achievements of the NHS in any sense whatsoever; I am saying that we should be prepared to learn the lessons if measures have been seen to be effective in other countries. Indeed, the Conservative spokesman referred to the fact that the Government had previously accepted that there were lessons to be learned from abroad. It appears that that is no longer the case, and I am saddened that there seems to be a move away from objectivity and rationality to rather cheap point scoring.
+
+I return to the key point that sufficient beds are needed to make the approach work—especially to ensure that isolation is possible and achievable. Bed occupancy in the Netherlands is about 60 per cent. In the UK it is nearly 85 per cent., and in many acute hospitals it is much higher. In 2004-05, 88 trusts—one fifth of the total—had occupancy rates of over 90 per cent. According to the evidence, there is a direct correlation between occupancy rates and infection. Frequently acute trusts are full, on black alert. I have just discovered that the Norfolk and Norwich hospital was on black alert—in other words, absolutely full—on 27 days in the year to the end of October 2006. That is not uncommon; it is frequently the case in many very busy acute hospitals.
+
+In 2000 the National Audit Office highlighted concerns over bed occupancy, as well as the pressure on hospitals to keep down waiting lists. Not a political party, but the independent NAO recommended a modest reduction in occupancy rates to 82 per cent., but that has not been achieved. Why has it not been achieved? One of the main reasons is an aggressive cut in the number of beds: 6,000 were lost in 2005-06.
+
+Ms Hewitt
+indicated dissent.
+
+Norman Lamb
+The Secretary of State shakes her head, but it is true: beds have been lost. Increases in day procedures have not kept pace with the cuts in the number of beds, which has resulted in occupancy rates remaining dangerously high. Disturbingly, the NAO also found that 12 per cent. of infection control teams reported that their chief executive had refused or discouraged a recommendation from them to control an outbreak by closing a ward or hospital to new admissions. That reflects pressure to keep beds open. I do not know whether that is still happening.
+
+That finding highlights another impact of inflexible and conflicting targets. The overwhelming political capital invested in cutting waiting times, at the same time as many hospital trusts are struggling with large historic deficits, has resulted in dangerously high occupancy rates, as beds have been cut too fast. That view was specifically supported by the Public Accounts Committee in 2005. It found evidence that bed management policies and the need to meet waiting time targets can compromise infection prevention and control. We also heard of the report from Stoke Mandeville hospital, which found exactly the same evidence of the link between bed numbers and pressure to fill beds because of waiting time targets, and levels of infection.
+
+Daniel Kawczynski
+I concur with the hon. Gentleman about the fact that bed occupancy can play a major role in the spread of MRSA. Between now and February 16 beds will be cut in the maternity service at the Royal Shrewsbury hospital, and I fear that that will have a significant impact and will increase MRSA in the maternity service.
+
+Norman Lamb
+I am grateful to the hon. Gentleman for that intervention. A large number of beds are being cut across the country. That is directly related to deficits. It may well be appropriate, in certain circumstances, to reduce bed numbers. They can be reduced over time, as there is a shift towards day procedures. However, if numbers are reduced too fast, to meet the demands of deficits, we get problems. That is what the Public Accounts Committee found in 2005. 
+
+Last year, a Department of Health internal policy review was leaked to The Independent. It showed a direct link between bed occupancy and infection rates. Do the Government accept that link? I would be interested to hear the Minister say whether he accepts it. Further evidence of an inadequate response in this country, particularly to the growing problem of C. difficile, came from the national survey carried out by the Health Protection Agency. It confirmed that rigorous infection control measures—the rapid isolation of patients, effective hygiene and clean environments—were critical. It found that only 40 per cent. of trusts routinely isolate patients with C. difficile. That is a hopeless record across the country. That is not rubbishing the NHS; it is a statement of fact that ought to cause the Government real concern.
+
+The survey also found that trusts have no agreed definition of an outbreak and are unclear to whom they should report an outbreak once it has been identified. Again, that is not acceptable. If the Government were prepared to accept that these things are not acceptable, we might start to make some progress. On the basis of those findings, it is hardly surprising that the survey also found that two thirds of trusts confirmed that the incidence of C. difficile had increased in the previous three years.
+
+My question to the Secretary of State and to the Minister who will respond to the debate is: how have the Government responded to the findings of that national survey conducted by the Health Protection Agency? Given the highly disturbing evidence revealed in the leaked memorandum that C. difficile is now endemic in the health service and that many trusts are not taking it seriously—that is not us rubbishing the health service; that was said by the director of health protection—what steps are the Government taking to change that mindset? Will the Secretary of State acknowledge that contradictory targets may be making the situation worse?
+
+Given just how many people are dying from those infections, I am sure that no matter which side of the political divide we are on, we all agree that the state of affairs is completely unacceptable, and that urgent action needs to be taken to improve performance across the health service.
+
+On cleaning services, I should like to explore a report in the Health Service Journal, which says that the Minister will recommend that trusts consider bringing cleaning services back in-house. It was reported in the Health Service Journal that a report including that recommendation was due to be sent to the Prime Minister this month. Will the Minister confirm that?
+
+Andy Burnham
+You shouldn’t believe everything you read.
+
+Norman Lamb
+The Minister may say that, but I would be grateful if he confirmed, in this debate, whether that claim is true. Will he publish the report that he is sending to No. 10, as that would be helpful? Is there any evidence that contracted-out services perform to a lower standard? I do not know, but the union Unison published a research paper two years ago in which it was claimed that contracted-out hospital cleaning had resulted in a lower standard of cleaning. The research paper said that the number of cleaners had halved since contracting out was first introduced by the Conservative Government. Does the Minister accept that evidence? Judgments should surely be made on the basis of evidence, and if the claims are true, we all have something serious to think about.
+
+Dr. John Pugh (Southport) (LD)
+My hon. Friend will be aware that financial pressures play their part. For example, in my local hospital the turnaround team that is sorting out the hospital’s finances insisted that the hospital reduce its cleaning regime, even though it has a good record on MRSA. Is that not a further anxiety?
+
+Norman Lamb
+It is. So many negative measures are driven by the financial crisis affecting much of the health service, particularly during this financial year. Before Christmas, the Select Committee on Health highlighted the fact that so-called soft targets are often affected, even though in the long term, those soft targets are often among the most vital parts of the operation.
+
+Does the Minister agree with the Royal College of Nursing’s proposal to introduce 24-hour cleaning teams, which could be rapidly deployed by nursing staff? It seems an eminently sensible proposal. We must surely ensure, too, that every front-line NHS staff member receives compulsory training. In an earlier intervention, my hon. Friend the Member for Somerton and Frome (Mr. Heath) made the point that basic standards of cleanliness are not what they used to be. That may well come down to inadequate provision of the training necessary to ensure that those high standards are maintained. Will the Government commit to providing that training? There should be a thorough review of isolation facilities, with a timetable for improvement. Will the Minister commit specifically to that, too?
+
+This subject is incredibly important. It is clear from an accumulation of evidence—evidence confirmed by the infamous leaked memorandum—that the current strategy is not succeeding, that far more needs to be done, that efforts to minimise the number of tragic deaths that occur as a result of health care-acquired infection must be prioritised, and that must not be compromised by action taken because of other, politically driven targets.
+
+17:08:00
+
+Laura Moffatt (Crawley) (Lab)
+It is a pleasure to follow the hon. Member for North Norfolk (Norman Lamb), who made an interesting contribution. I did not wholeheartedly agree with it, but it took a thoughtful look at the difficulties surrounding health care-acquired infections. I was particularly interested to hear his exchange with the hon. Member for Hereford (Mr. Keetch) on the issue of hand-washing. That exchange exposed one of the complexities of the subject, namely, the fact that it is not only hand-washing technique that is important, but the agent in which hands are washed. All the anti-bacterial solutions in the world will not tackle Clostridium difficile, because it is a spore, and it has to be dealt with in a very different way. I hope that that highlights some of the problems that we face.
+
+If I were still in my former profession and took a swab to Members’ noses in the Chamber and other interesting little places, many of us would be found to be carrying Staphylococcus aureus, which can cause harmful infections. That is the reality and the difficulty of the situation that we face. I do not often turn to the Evening Standard—it is not my chosen publication— for sensible contributions to debates in the news, but yesterday’s article by Dr. Mark Porter on the cause of health care-acquired infections was excellent. It did not get into silly nonsense about whether the problem was caused by this Government or that Government, but it outlined where the difficulties are. Dr. Porter said: “Indeed, you”—meaning the public—
+
+“are more likely to catch it from yourself.”
+
+That is the absolute truth. Many people who are admitted to hospital, particularly for a surgical intervention, may well have the MRSA bug or any one of 16 or so other infections. Once those infections are introduced into the bloodstream, bacteraemia arise. We need to tackle the problem, and the Government are taking it seriously. We cannot pretend that it is only the Government’s responsibility and ignore the excellent initiatives by trusts up and down the country. Many of those initiatives are the result of the mandatory requirement for trusts to report MRSA, which is a significant driver that empowers not just trust board members—in an excellent initiative, many boards now have a member with specific responsibility for reducing infection—but all the staff who work in our fantastic NHS.
+
+The most important improvement that has allowed us to make headway in tackling all those health care-acquired infections is the provision for nurses to take a leadership role. To many of us who spend time in our local hospital—recently, I have had to do so more often than I would wish, as my parents have been unwell and have undergone surgical procedures, as did my son the week before last, although he was on a different ward—it is obvious whether those initiatives are taken seriously and a leadership role is adopted by the ward manager. When I go on to a ward and see at every bedside a gel dispenser and, at the entrance to the ward, huge signs explaining that it is important to take precautions to prevent those infections from being taken on to the ward and transmitted to vulnerable people, I know that that the problem is being addressed.
+
+My knowledge derives not just from recent experience as a ward visitor but from my experience as a nurse on an isolation unit before coming to the House. I become increasingly angry when I listen to debates in which people say, “It is all the Government’s fault, because they have not done anything about it.” May I gently remind Opposition Members that, having worked on an acute isolation unit throughout the 90s, those beds were increasingly filled by people who became MRSA-positive during their stay in hospital? There was no requirement to count the number of individuals who became infected, but we lost many people, because they were very poorly in the first place, and thus succumbed to infection. However, there was no drive to deal with that matter, and no interventions that allowed us to ensure that those patients did not become infected. It was almost as though we were supposed to tackle the infection in the isolation unit, but by then it was far too late, of course. That is not where the work is valuable. It must be done at a much earlier stage. That is why I am firmly convinced that the problem is a collective one, and that we must work with health care professionals.
+
+I found the Opposition motion very mealy-mouthed about health care staff, particularly those in our hospitals. The motion states how strongly the House supports them, and then goes on to criticise them for their practices and the work that they are doing. I shall outline some of the work that I have been doing in conjunction with nurses, and the work that has been going on with the trade unions and the Royal College of Nursing to promote good practice among staff, and to spread good practice among all staff, not just nursing staff. It is important that each care giver in a ward setting be included in training programmes. That is exactly what is happening.
+
+It is obvious that if nurses are delivering 80 per cent. of the care, they will take a leading role in how we tackle these matters, as they are doing. Last year the Royal College of Nursing launched a good campaign in conjunction with the Government, called the “Wipe it out” campaign. It gave excellent advice to staff in hospitals—for example, on how to tackle MRSA, how to deal with uniform issues, and how to deal with the indwelling devices that are inserted in some patients, such as a urinary catheter or a nasal gastric tube. That work has led to the empowering of front-line staff to try and think of new ways of tackling infections.
+
+I have read articles that would make Florence Nightingale turn in her grave. She, of course, was very much aware of infection. More people died of the infection that they acquired at the hospital at Scutari than died of their wounds, but that was before antibiotics. None the less, the problem existed for them. 
+
+There is no doubt that we could take punitive measures. We could tell trusts that we do not want them to admit certain patients, or not to allow their relatives to visit them in hospital if we are not sure of their personal habits. We could say that we do not want children to visit during their parents’ or grandparents’ stay in hospital, even though contact with their families makes patients’ stay in hospital much nicer. I have little doubt that we could reduce the amount of infection that is brought into hospitals, but we do not do that because we know the psychological effect that that would have. So we have to think differently about the impact of the people who visit.
+
+I recently watched a family who had come to visit their grandfather in hospital. The little six-year-old girl said that she wanted to go to the toilet, and toddled off alone to the visitors toilet. She was gone for some time, then returned. It was a surgical ward and the grandfather had undergone surgery. I have no idea whether the little one had managed to do all that she needed to do and wash her hands. It is clear that many of us have a responsibility within that setting.
+
+I have no hesitation in saying that we should give good and sound advice to families who visit, and many hospitals do. Excellent advice is also offered to those who come in for surgery. My son recently underwent arthroscopy and was told that it might be a good idea to use an anti-bacterial wash for a week before he went in, thus reducing the risk of self-infection. That was sensible. He received excellent, timely care and had a fantastic discharge. I hope that all patients can have a similar experience.
+
+There are many ways in which front-line staff and visitors can collaborate. I have no hesitation in telling people who go to hospital, either as patients or visitors, that they should challenge staff if they feel that the  practices that they have seen are not good enough. We should be able to say, “This is our NHS and we want some reassurance that hand washing is going on.” I suspect that that happens nine times out of 10 and that people have a good experience. However, we must take a collective interest in care delivery.
+
+When I was nursing and increasing numbers of MRSA cases came to our ward, we were relieved of wearing our caps because, we were told, they might introduce infection. Frankly, reorganising the deckchairs on the Titanic comes to mind. Yet the public debate is often handled in that way. It does not concentrate on the issues that we need to discuss.
+
+There should be collaboration with, for example, community nurses on the way in which we hand over people, who may have been vulnerable at home for some time, to the acute setting for surgical procedure or medical admission. We should ensure that the person being admitted is as clean and clear of infection on the skin as possible, and not a carrier of the conditions that we are discussing. That must also apply to the private sector. We find that elderly, poorly people are often admitted to an acute setting as emergency cases, and the issue of health care-acquired infections has not been tackled. Repeated admissions also cause enormous difficulty. We do not do justice to those on the ground who try to make serious headway in tackling the problems.
+
+I am interested in the focus on uniform policy. The advice not only from the Department but from the RCN “Wipe it out” campaign is clear about not wearing a uniform in a public place. I get so angry if I see anyone in a uniform toddling around ASDA and thinking that it is all right to push a trolley. Not long ago, I tackled someone who turned out to have come from a private nursing home. She was wearing a short uniform and some trousers. I was worried about her walking around a public place in uniform. It is time to outlaw wearing uniforms outside work and ensure that proper facilities are available.
+
+Most hospitals have reasonable changing facilities. They must have either good laundry facilities or enough uniforms to ensure that laundry can be done at home but that a clean uniform is worn each day. None of that is rocket science but it shows how seriously a trust is taking cleanliness and how it disseminates that practice among the staff.
+
+There has been a huge improvement in our local trust, and our local hospital—which is now run by the local doctors in the PCT—in that they now have evening cleaning teams who ensure that the place is clean and tidy and that the public toilets are cleaned. There is also a telephone number that is always staffed so that people can call to report any toilets that are not as clean as they should be. All this contributes immensely to ensuring that our hospitals are as clean as they should be.
+
+Norman Lamb
+I am interested to listen to the hon. Lady’s speech, which is obviously based on experience. I mentioned earlier the proposal by the Royal College of Nursing for 24-hour cleaning teams who would be available at the instruction of the nurses to clean whatever areas needed cleaning. What does the hon. Lady think of that proposal?
+
+Laura Moffatt
+We have to think about the local setting. Some wards will not require that service, but others certainly would benefit from that particular boost. That is why I am interested in the local credit card system that the managers have in some wards. Some places have decided to spend their money on that system to ensure that they have access to a gold-plated cleaning service. Such services should be available at the behest of the ward manager, if she chooses to use them. We have heard how complicated the link between cleanliness and MRSA can be, but the use of such services would be an illustration that a particular ward was taking the issue seriously.
+
+I have little doubt that much is being done throughout the NHS to tackle this matter. The numbers of those infected, particularly with bacteraemias, is beginning to reverse, thank goodness. Those who are infected are also showing an improvement, despite the increased activity. We need to highlight that point, because much has been said today about the reduction in beds and the resulting increased activity, but the reality is that headway has been made.
+
+We can trust our hospital staff to deal with this matter, but we must work in partnership with them. As a passing shot, I have to say—as a former member of the nursing profession—that the medical profession is not exactly blameless in all this, to say the least. I hope, however, that the days of hard-pressed senior house officers and registrars walking from bed to bed in their grubby white coats are over. In our local trust, I have noticed that they are now using greens from the theatre, which are changed daily. It is a much better practice to wear a fresh outfit every day.
+
+Many of our medical schools—especially in Sussex, I am delighted to say—now offer a new module covering the reduction of hospital-acquired infection as part of the training for undergraduate doctors, which is a big step forward. I should like to see them go a step further and to deliver those classes to their nursing colleagues as well, so that doctors and nurses can discuss ways of tackling these issues together.
+
+Mr. Heath
+My experience of theatre work is that it is very much a shared endeavour, and that the surgical team, the anaesthetist, the operating department’s assistants and the theatre nursing staff all understand that they have a shared responsibility for asepsis. I am not sure that that is always the case on the wards, however, and the points that the hon. Lady has made on that are very valid.
+
+Laura Moffatt
+I thank the hon. Gentleman for his intervention, but I firmly believe that that situation is changing. When a leadership role is taken by the ward manager, everybody understands, throughout the setting, how important cleanliness is. However, it is also about training. In the protected hour, when patients have a quiet time—there are few enough of those on our wards, which are busy, care-giving settings—the ward manager recently held a training session, often interrupted by calls from patients, to talk to the cleaner about the different cleaning agents that need to be used to tackle all the infections that we face.
+
+I am not in the least depressed about the rate at which we are tackling such infections, as a tough target has been set. When the previous Secretary of State announced it, most of us knew that it would be tough. Without it, however, we had nothing to aim for. We had to ensure that everyone knew that the House was serious about tackling such infections. I firmly believe that progress is being made. I shall be watching carefully the hand-washing techniques of fellow Members of Parliament; although I will only be able to do so in the ladies’ facilities of the House of Commons, it would be helpful if the chaps watched each other as well.
+
+17:31:00
+
+Miss Ann Widdecombe (Maidstone and The Weald) (Con)
+I was exceedingly disappointed by the Secretary of State’s response to the motion. I consider that the NHS today has a tremendous problem. It does not much matter whether it is lesser, greater or co-extensive with the problem that might have been prevailing before 1997. The fact is that there is a problem, and it must be tackled.
+
+The Secretary of State’s speech, however, was entirely defensive, and consisted of little more than comparative statistics. That attitude even prevailed when the hon. Member for North Norfolk (Norman Lamb) gave an interesting example of practice in the Netherlands, which was of considerable significance to the debate. The Secretary of State’s immediate response was not, “That is very interesting. I will have that looked at”, or, “Oh yes, that has already been considered and we do it in some of our hospitals.” It was, “Ah, but the Netherlands has a 7 per cent. infection rate, and we have an 8 per cent. infection rate, so it doesn’t really matter.” When we raised the issue of uniform policy, we did not get an answer; our point was merely characterised as the central plank of Opposition policy to deal with MRSA and C. difficile, instead of being treated on its merits, not as the solution but as a contribution to the solution of the problem in front of us.
+
+In many ways, I was reluctant to participate in this debate, because no Member of the House ever wants to do anything other than praise their local hospital. When they have to do the opposite, they tend to feel cheated and a bit unhappy. But I cannot today pretend that all is well in Maidstone hospital, which has MRSA and, much more worryingly, C. difficile. I believe that various factors are contributing to the hospital not being able to control that problem as soon as should be possible.
+
+I often think that we treat foot and mouth disease far more seriously than we treat C. difficile. If foot and mouth disease breaks out, whole areas are isolated, troughs are set up, people disinfect themselves down to their boots, and great care is taken to ensure that nothing can come out of the zone into any other.
+
+Mr. Crispin Blunt (Reigate) (Con)
+Quite right too.
+
+Miss Widdecombe
+As my hon. Friend says from a sedentary position, that is quite right too. I was not trying to deplore the measures that we take over foot and mouth; I merely wanted to translate them into the measures that we take with C. difficile and MRSA, and to suggest that we could be a little more focused.
+
+Certain things could be done, which are only being done patchily in the NHS, that should be standard practice. One of those is screening. The hon. Member for North Norfolk was absolutely right: screening is important.
+
+I have a tale of three hospitals. They are my own hospital, Maidstone, to which I am utterly devoted and for which I shall always fight but which, on this occasion, is causing me anxiety; the Royal London hospital in Whitechapel, London, to which my mother was recently admitted as a trauma case; and King Edward VII’s hospital, a private-sector hospital also in London, to which she was transferred when the trauma had been stabilised. I watched the way in which those hospitals operated.
+
+When my mother went into King Edward VII’s hospital, the reaction was immediate. A swab for MRSA had to be taken straight away. It was not a case of whether MRSA had been present in the Royal London. There could be no argument: she was coming into the hospital, and therefore needed a swab. For the 48 hours that elapsed before the swab proved negative, she was barrier-nursed. Everyone wore aprons and gloves and underwent a disinfecting procedure before daring to leave the ward, even if they went out merely to fetch a pen or some hospital gadget. If they walked out of the ward, full disinfecting procedures took place as if it were a foot and mouth area. That is effective screening. When the negativity of the swab had been established, the barrier nursing ended and ordinary nursing was substituted.
+
+In the Royal London the floor was so clean that you could see your face in it, and the nursing on the Helen Raphael ward was exemplary. I should add that it was an old-style Nightingale ward. The nurses sat at a desk at the end: they could see every single patient, and every single patient could see every single nurse. Everyone knew what everyone else was doing. The ward did not have those wretched little rooms behind the desk into which nurses often disappear, and from which they emerge very quickly when people come to look at the wards. It was a very disciplined, busy set-up. I think that discipline and nursing standards are crucial.
+
+The hon. Member for Crawley (Laura Moffatt) referred to “ward managers”, but it is the ward sister who should be responsible for discipline on the wards. In Maidstone hospital, old people’s drips are running out and not being replaced. Food is being put in front of old people and taken away again without any attempt being made to ensure that they eat it. Pills are being found in the dressing-gown pockets of patients because they have simply been handed over rather than being administered with supervision. There is some extremely sloppy nursing, and it is therefore not surprising that there is also infection.
+
+One patient sent me a video showing the amount of dirt in some of the wards. Before any Member puts his or her hand up and mentions contract cleaning, I should say that one example of that dirt consisted of a bowl of blood that had sat on a window sill for nearly 24 hours. It was not a contract cleaner’s job to pick that up; it was, crucially, a nurse’s job. It was the ward sister’s job to notice that it had not been picked up, and her job to ask “Why is that drip not being filled?” or “Why is that patient not being fed?”
+
+One of my constituents telephoned his brother to say that he was in Maidstone hospital with C. difficile, sitting in his own diarrhoea, and that he wished he was dead. Can anyone believe that when that is the standard of nursing, it has nothing to do with the spread of infection?
+
+Screening is important, discipline is important, standards of nursing are important, and the ward sister’s role is important. She is not a commissioner of blankets and bandages; she should be exercising discipline on the wards. The role of visitors is also crucial. The hon. Member for Crawley told the story of the seven-year-old girl who went off to the loo. Was she not challenged, either going or coming back? Did no one ask “Have you washed your hands?”, or say “You will make sure that you wash your hands, won’t you?” Was she challenged by any of the nurses, by the ward sister or by any passing bearer of tea and coffee?
+
+Laura Moffatt
+As a nurse, I am probably much harder on, and less tolerant of poor nursing care than most others. In fact, I can get very angry about it, but does the right hon. Lady agree that, thankfully, due to the extra nurses working in the NHS, poor nurses are still a minority? From her speech, the House would think that a majority of care was being delivered in that poor way.
+
+Miss Widdecombe
+That standard of nursing is far too common across the NHS. I accept that it is not apparent in every ward. My hon. Friend the Member for South Cambridgeshire (Mr. Lansley), in his excellent introductory speech, pointed out that we can have two adjacent wards, one with no problem and one with a problem, and two completely different sets of practices. That is why I mention the ward sister. The ward sister and individual discipline on wards are utterly crucial.
+
+If it were simply Maidstone, I would say that something has gone badly wrong at that hospital, which clearly it has, but I get letters from all over the country from people who have similar experiences to tell about their local hospitals. While I would not dream of saying that it is so everywhere, it is certainly so in a greater number of places than it ought to be. Screening, hygiene, discipline, challenging of visitors, proper disinfection processes—those are not rocket science. They all make a tremendous difference to whether infection grows, or is contained and eventually reduced.
+
+No one blames the Government for the fact that C.difficile exists. It is not their fault. It is not the NHS's fault. It is not any individual hospital's fault when it suddenly occurs, but the reaction to it is the responsibility of Government, the NHS and the individual wards, and that reaction is not all that it should be. It should be standard practice that a swab be taken from every admission to the NHS. I know that it is boring but it should be done once a person is admitted to the wards. Full-barrier nursing should be provided until the swab has been shown to be negative. Care in isolation should be provided if the swab is positive. However difficult that may be, and it would be, I do not deny it, that should be standard practice—it should already be standard practice.
+
+It worries me—I think Florence Nightingale would have had a bit of a fit—that now one has to remind medical staff to wash their hands. It should be absolutely second nature. They should wash them more often. Most of us have observed medical staff moving from bed to bed, coming and going from wards and, not always, perhaps not even for the majority of time but quite enough of the time, forgetting to wash their hands. That is not rocket science either. Therefore, if common sense were applied instead of statistics, we could make a serious difference, at not particularly great cost, possibly at rather a lot of inconvenience, but it would be worth it.
+
+I have had elderly patients die in Maidstone hospital who probably need not have died, whose relatives cannot forget what they saw. I have had recounted specific descriptions, including an occasion when a patient, and it was observed, rang a bell in the middle of the night for 15 minutes and was not answered because all the nurses on the ward were at coffee break at once. Rocket science? Discipline and the ward sister.
+
+17:44:00
+
+Mike Penning (Hemel Hempstead) (Con)
+It is a privilege to follow my right hon. Friend the Member for Maidstone and The Weald (Miss Widdecombe), who spoke so much common sense. We have had an interesting debate, and I do not want to dwell on statistics and bore Members by talking about numbers. However, I desperately want to look at one area. In common with many Members, constituents of mine have died from MRSA—methicillin-resistant Staphylococcus aureus—and C. difficile in local hospitals, but I want to talk about the many patients who have not died, but who have suffered what they almost feel is a worse outcome, that of losing their legs.
+
+Let me give the example of a constituent I met shortly after the last general election. The gentleman had been involved in a serious car crash and he had extensive neck, head and shoulder injuries, but he had no problems at all with his legs. He had steel plates inserted in theatre and was in intensive care for a considerable period. When he went on to the wards to recover, he was tested for MRSA; he was found to have it and subsequently lost both of his legs. That highlights the daily effects of having that kind of infection in our hospitals. Like my right hon. Friend, I do not blame the Government for the existence of such infections—I do not think that anybody would dream of doing so—but what is important is how we react to this situation.
+
+I have a question for the Minister—have any modelling or other studies been done on the effects of contract cleaning and in-house cleaning? As the Minister knows, I am a trade unionist, and the point contained in my question is often thrown up by Unison and other such bodies representing their workers. Their representatives say, “The problems arise because we have contract cleaning.” I am a member of the Health Committee, and in that capacity I have visited hospitals using contract cleaners that are immaculately clean and hospitals cleaned in-house that are also immaculate; but, frankly, in my area of Hertfordshire there are also filthy hospitals that are cleaned by contract cleaners and filthy hospitals that are cleaned by in-house cleaners. It must be the job of the Secretary of State and her Department to set standards so that the whole country is on a level playing field. Like many Members, I was disappointed to hear this afternoon the Secretary of State yet again avoid responsibility.
+
+Mrs. Dorries
+In my day—I hate saying that, as I use that phrase so many times in talking about this subject—we had ward sisters and staff nurses, and we used to go into kitchens, check under the beds and check the headboards and bedside cabinets and tables, and if we were unhappy we would get the cleaners straight back in to clean again, because our word was law. That is not the case nowadays. The ward sister is not even allowed to speak to a cleaner and, besides, many hospitals do not even wet-mop any longer. Therefore, the management of the staff is what is important.
+
+Mike Penning
+My hon. Friend is a former nurse and she brings a whole education to this House in terms of understanding what goes on in hospitals. My mother was a nurse for 40 years. Florence Nightingale might be turning in her grave, but my mother turns incessantly because of nurses and doctors who do not do things such as wash their hands. I will come on to cleanliness and the mopping situation shortly.
+
+I want now to discuss an issue that my right hon. Friend referred to—discipline. I recently visited my hospital and I was introduced to a modern matron. I asked that modern matron what she did and she replied, “I manage.” I inquired whether she managed a ward and she said, “No, no; I manage lists and things.” That shows why the Government’s target culture is so wrong and why targets should be abolished. Instead, standards should be set throughout the NHS for what is right and what is wrong—what is good practice and what is bad practice.
+
+Let me give the Minister a prime example of good practice across the board combined with discipline that is working very well. If the Minister were as lucky as I am, he would have had the pleasure of visiting the field ambulance unit in al-Amara in Iraq. It is made up of regulars from the Royal Army Medical Corps and other services, but also of Territorial Army members of our armed forces, of whom we should be very proud for augmenting our forces. Most of those TA members are doctors, nurses and technicians who have come from the NHS. They work in the NHS in everyday life, but they are currently in Iraq serving our armed forces.
+
+The Minister can correct me if I am wrong, but in the three years that that field ambulance unit has been in place, there has been not a single case of MRSA among our armed forces there, nor among those of the local population who were treated there when they needed acute care. Why is that? Part of the explanation is clearly that the bed occupancy rate is very low. Patients are not being rushed into a bed within minutes—sometimes, it literally is minutes—of its being vacated. Also, cleanliness is the responsibility of the ward sister and of the nurses in that field hospital. Those same nurses also work for our NHS in this country. I have met them and they want to provide the best possible care; they want to put a rocket up cleaners who are not doing their job, but they are not allowed to. However, when they are working in the military, they naturally have the backing of rank and of the armed forces. As we have heard so many times today, keeping our wards clean daily is not rocket science.
+
+Many years ago—it must have been 1972, given that I joined the Army in 1974—I volunteered to work on Saturdays on the geriatric unit, as it was called in those days, that my mother worked on in the Rochford hospital in Essex. I saw nearly every Saturday what we would now call spring cleaning—the hospital called it Saturday cleaning—where nurses and cleaners worked together and blitzed the ward. Patients who could leave their beds did so, and everything was cleaned until it was spotless. I cannot remember the last time I saw a nurse do that sort of cleaning. That is not because they do not want to—by the way, if it is, they should do it anyway—but because of the pressures in the NHS today and the different nursing methodologies, which simply involve passing the drugs around, for example. It is not that our NHS does not care. Far be it from anyone in this House to say that people join the NHS for any reason other than to serve their communities; they certainly do not do it for the money. They do it because they care, but bit by bit, the view that the patient must come first and bureaucracy second is somehow being knocked out of them.
+
+Miss Widdecombe
+Has my hon. Friend observed, as I have, that on going into NHS hospitals nowadays, one sees armies of people with clipboards? That is the culture that is depressing real effort and enthusiasm.
+
+Mike Penning
+I could not agree more with my right hon. Friend. In my armed forces days, those who walked around with a clipboard were usually left alone because they were not doing anything. We do not want people with clipboards; what we need is for wards and beds to be cleaned efficiently, so that we can get to grips not only with MRSA, but with C. difficile and other infections. Given the information in the Government’s leaked documents, there is no doubt that through targeting just MRSA, efforts to deal with other dangerous and critical infections have unintentionally fallen by the wayside. I do not think that the Department said, “We’ll let C. difficile explode out of all proportion,”, but it took its eye off the ball by going down the avenue of targets. As the experience of my local hospital structure shows, if one thing is targeted, something else gets forgotten because the system simply does not have the capacity to cope.
+
+I shall not dwell on what I saw in my hospital the Friday before last, when I visited a friend who has since sadly died, but I will point out that I saw a ward full to bursting and a mixed-sex ward. That, in the 21st century, is degrading, and the Government promised that it would not happen. No more than 20 ft from the ward that I visited was another ward that was empty not because it was infected, but because there is no money to staff and run it. Frankly, the south-east gets a particularly bum deal when it comes to NHS funding. The Secretary of State knows, because I go on and on about it, that this is an issue in my general hospital, which is about to be closed. I will defend that hospital and its nurses to the hilt. We have to have the capacity that allows cleaning to take place in the short period during which beds can be cleaned properly, for example.
+
+My hon. Friend the Member for Mid-Bedfordshire (Mrs. Dorries), who probably has much more experience in nursing than all the Government Front Benchers put together, raised the very important issue of wet-mopping, which we used to call “grind it into the ground” mopping. I do not know whether anybody has noticed this, but wards tend to be rectangular—they have corners. However, the cleaning process involves the use of circular electric mops that cannot get into the corners. Bit by bit, the dirt and muck gets thrown into the corners, and unless someone is willing to get on their hands and knees, the dirt will not be cleaned out. When wet-mopping was done, that was not a problem because mops can get into the corners. Of course, even with wet-mopping people could be complacent and not use hot water or the right chemicals, but at least it was possible to see what was going on; now, often it is not.
+
+Has there been any indication of the cost to the NHS of litigation arising from cases of hospital-acquired infections? The Minister said that the Government recently invested £50 million to help deal with hospital-acquired infections, £45 million of which will be used immediately. I should be interested to know whether any of that has gone to West Hertfordshire Hospitals NHS Trust. I should be very surprised if it has, but perhaps he could write to me and let me know. The cases where those who have acquired these infections have gone down the litigation route must be costing the NHS an absolute fortune. In the long run, it must be cheaper, and morally and ethically preferable, to clean the wards properly rather than paying lawyers a fortune.
+
+Anne Main
+My hon. Friend’s constituents and my constituents often use the same facilities; indeed, many of my constituents go to the Hemel Hempstead hospital. On management of rates of infection, I am sure that he shares my concern at the following report, which said:
+
+“Mandatory staff training is included for staff at induction, but all staff groups are not always covered and training of doctors remains a challenge as does infection control standards in relation to outside contractors.”
+
+I agree with my hon. Friend that cleaning implements may be contributing to the problem, but so are training and a failure to keep track of those in an outside capacity who come into hospitals, as he said earlier.
+
+Mike Penning
+My hon. Friend’s knowledge of health provision issues in south-west Hertfordshire is well known, and she raises an important issue. As the hon. Member for Crawley (Laura Moffatt) also said, we should not simply concentrate on what the nurses should be doing; we must also consider the other hospital professionals, especially the doctors and consultants, who have their own problems. In my experience of sisters running wards, if a consultant turned up with a dirty coat, for example, they would grab him by the ear and sort him in out in 20 seconds flat.
+
+My hon. Friend the Member for Enfield, Southgate (Mr. Burrowes) had an Adjournment debate recently in which he raised the issue of C. difficile, which is a frightening infection. It cannot simply be treated at the bedside with gel; unless it is attacked at its core, treatment will make no difference. In fact, it thrives in such environments. We need to appreciate the levels of hygiene and the standards that will have to be applied across the NHS in dealing with that issue. If the Minister does not have the powers to enforce the cleaning standards that he is looking for, I am sure that my Front-Bench colleagues will help him to obtain them.
+
+The country is sick and tired of an extremely well paid Secretary of State saying to this House and in TV broadcasts around the country, “It’s nothing to do with me.” The buck stops with the Secretary of State. Yet again, we have heard at the Dispatch Box today that—
+
+Andy Burnham
+Will the hon. Gentleman give way?
+
+Mike Penning
+No, I shall not give way. If the Minister does not like what I have been saying, he can address that in the wind-ups.
+
+At the end of the day, the Secretary of State is responsible for health care in this country. That is what she is paid an awful lot of money for, and many people are disappointed with the level of treatment that we are getting.
+
+18:00:00
+
+Bill Wiggin (Leominster) (Con)
+I am delighted to have the opportunity to speak in this debate because Hereford hospital, which serves many of my constituents, has had a good record—though not perfect—in recent years with hospital infections. In 2004 it had the lowest rate of MRSA detected in hospitals. Between April and September 2005 there were 13 cases of MRSA, and I am pleased to report that between March and October 2006 only 12 cases were diagnosed in Hereford hospital, and 10 of those had had the infection before being admitted. Hereford hospital also does quite well in controlling Clostridium difficile, with an infection rate of 1.12 per 1,000 bed days for patients aged 65 and over. In the March to October 2006 period, there was only one case reported.
+
+I know that the Hereford Hospitals NHS Trust’s chairman, Cessa Moore, and the new chief executive, Martin Woodford, have wisely given infection control a high priority. The hospital has a dedicated infection team that promotes cleanliness and personal hygiene. It also regularly updates its education programme. I am confident that the efforts of the hard-working staff and the hospital’s management are keeping superbug outbreaks low. On the Healthcare Commission’s core standards assessment form, the hospital is compliant with requirement C4a, which requires that
+
+“Healthcare organisations keep patients, staff and visitors safe by having systems to ensure that the risk of healthcare acquired infection to patients is reduced, with particular emphasis on high standards of hygiene and cleanliness, achieving year on year reductions in MRSA”.
+
+My three children were born at Hereford, by caesarean, and I have always felt that my wife and family were safe there.
+
+Despite the hospital’s good record, the excellent work of the staff and praise from its users, the Government have decided to tie its hands behind its back and starve it of resources. Earlier this month, the Secretary of State refused its application for foundation status. The primary care trust budget was also top-sliced to prop up PCTs with financial failings elsewhere in the vast area covered by the strategic health authority. With those actions, the Government have undermined our efforts to manage the dangers posed by superbugs and are letting down NHS staff and patients. While I have every confidence in the abilities of staff and the management team in Hereford, I have little confidence in the Government’s support for them. Labour has made a mess of governing the NHS, and superbugs may well end up as another unwanted part of the Prime Minister’s legacy.
+
+Every individual case of MRSA or C. difficile is a personal tragedy for those infected, and my constituents have a growing fear of the problem.
+
+Andy Burnham
+Will the hon. Gentleman share with the House the percentage increase in MRSA between 1990 and 1997?
+
+Bill Wiggin
+It was clear from my opening comments that I gave the figures as accurately and as helpfully to the Government as I could. I am sorry that the Minister was not paying attention. It is difficult to make progress in such debates when although we try to be positive about what is happening, requests for foundation status are turned down. How can the Minister possibly try to score political points when he has gone out of his way to sabotage the one thing that my hospital wanted most? If he wishes to intervene again, I shall be happy to listen to any more ridiculous attempts to whitewash this Government’s disgraceful legacy on the NHS.
+
+Fears have been heightened because this month both MRSA and C. difficile have featured in the news. In Nottingham 30 deaths have been linked to C. difficile since November, and in the last couple of days it was reported that specialist teams will be brought in to fight MRSA in two hospitals in the west midlands—the Princess Royal in Telford and the Royal Shrewsbury. Because of the fears and concerns about the reporting of superbugs, last month, the Hereford hospital patient and public involvement in health forum took it upon itself to monitor the situation on the ground and carry out regular cleanliness visits.
+
+Dr. Pugh
+The hon. Gentleman mentions heightening fears, but during the 2005 election the right hon. and learned Member for Folkestone and Hythe (Mr. Howard) wrote to my constituents suggesting that the MRSA rate was 10 times higher than it actually was, and the local hospital demanded an apology. Would he care to comment on that as an example of how fears can be heightened unnecessarily by the political process?
+
+Bill Wiggin
+I was expecting that sort of intervention from Labour Members. People are fearful because they do not know what is going on. When we try to draw attention to what is happening, we are told that our figures are wrong. In my experience, it is hard to discover the correct figures. Tremendous pressure has been put on NHS staff to produce figures that suit the Government, especially around election time. I suggest that the hon. Gentleman checks more carefully before accusing my right hon. Friends of misleading his constituents.
+
+Mr. Stewart Jackson (Peterborough) (Con)
+My hon. Friend makes a powerful argument on behalf of his constituents. Does he agree that the Government’s policy is marked by duplicity? On the one hand, they praise NHS staff and set them arbitrary targets to tackle MRSA and C. difficile, but on the other they issue secret memos to high-ranking civil servants saying that it is impossible to meet those targets and that the NHS might as well give up now. Is not that a duplicitous way to approach governing the NHS?
+
+Bill Wiggin
+My hon. Friend makes an excellent point, as always. He is right to be worried about the issue. It is our job to draw attention to the facts and not to be swayed by exaggeration, or to be convinced by the Government that everything is all right when it is not—
+
+Dr. Pugh
+Will the hon. Gentleman give way?
+
+Bill Wiggin
+No. I have given way to the hon. Gentleman once, and it is only fair that I try to make a little progress, as I am coming to an issue related to his earlier intervention.
+
+We must also investigate superbugs transparently and honestly at both local and national levels; and that is why it is essential that the Government come twice a year to the House to report on the action that they are taking. Because of the NHS financial crisis created by the Government and the growth in superbugs, public confidence in the NHS needs to be restored. We know that virulent strains of MRSA can resist even the strongest antibiotics, but we also know that scientific developments and technologies are continually moving forward. What our constituents want to know is how well the Government and NHS are adapting to those changes and how new scientific and technological advances and new cleaning techniques are being applied in practice.
+
+Only last week, microbiology specialists Oxoid developed a new test to detect C. difficile-associated diseases. It can be carried out in about 20 minutes and could make a huge difference in combating C. difficile, because of its ability to detect the disease early. That should be given serious consideration, along with the “search and destroy” pilot strategy promoted in this motion, because it will save lives.
+
+The Government’s own adviser on health protection has conceded that in the current circumstances the Government’s target to cut MRSA bloodstream infections by half by 2008 will not be met. It has also been admitted that C. difficile is widespread and much harder to deal with than MRSA. New approaches are needed, and a six-monthly report to the House would enable hon. Members to debate this important issue and hold Ministers to account for their actions.
+
+Those terrible infections can strike down anyone, but they hit the most vulnerable the hardest. In Herefordshire a quarter of the population is over 60, and the number of people of 85 and over will increase by 43 per cent. between 2004 and 2011. Many of them are currently in need of regular in-patient hospital care—or are likely to be so in the future—and the NHS and the Government have a duty of care to ensure that the chances of superbug infection are kept to an absolute minimum. My constituents should be able to go into hospital, receive treatment and leave feeling better; they should not leave after suffering the ordeal of such an infection. We have to wage war on those diseases, but we are unlikely to win with this Government in charge of the NHS.
+
+18:09:00
+
+Daniel Kawczynski (Shrewsbury and Atcham) (Con)
+It is a great pleasure to follow my hon. Friend the Member for Leominster (Bill Wiggin), and I congratulate my hon. Friend the Member for South Cambridgeshire (Mr. Lansley) on securing this very important debate.
+
+At the outset, I want to say that the staff of the Royal Shrewsbury hospital do a tremendous job in very challenging circumstances. The socialists always criticise Opposition Members when we raise these matters—[Interruption.] Well, I think that they are socialists. They claim that we are trying to denigrate the NHS, or the people who work in it, but that is not true.
+
+I am a great supporter of everyone who works at the RSH, about which the House will know that I feel very strongly. It is my No. 1 priority as the local MP, and I am running the London marathon in April on behalf of its league of friends, a charity that raises money to buy vital equipment that should be provided by this socialist Government. I am not particularly fit, but I hope to finish the 26 miles and raise as much money as possible. If anyone wants to sponsor me, I should be grateful.
+
+Bill Wiggin
+I have every confidence that my hon. Friend will do considerably better than I did in the London marathon, when I set the record for the slowest time ever achieved by any MP. I wish him very well, and I hope that he raises a lot of money. What a shame it is that he has to use the funds that he raises to fill spending gaps left by the Government.
+
+Daniel Kawczynski
+I thank my hon. Friend, and totally concur with what he says.
+
+This debate is about MRSA. A leading campaigner on this issue in Shrewsbury is a lady by the name of Pat Davies. The Minister should get in touch with her, as she has spent many decades in the nursing profession and has dedicated her life to caring for people. She lives in Copthorne, near the RSH, and regularly comes to see me to tell me about current problems in the NHS. I want to raise with the Minister some of the matters that she has brought to my attention. Sometimes politicians—especially socialist ones—think that they know everything, and do not need to listen to people with great experience who have worked at the coal face for years.
+
+The Minister of State, Department of Health (Caroline Flint)
+Coal face!
+
+Daniel Kawczynski
+The other Minister of State who is present, the hon. Member for Don Valley (Caroline Flint), is barracking me from a sedentary position, as is her custom. Surely we should listen to our constituents, especially when they have long experience of working in the NHS.
+
+Mrs. Davies has offered me a number of suggestions, which I want to pass on to the Minister who will wind up the debate. First, no indoor uniform should be worn outside the hospital. Changing facilities should be provided, and that strict rule must be adhered to. Secondly, nurses should be made to wear a disposable apron when in contact with patients. That is the practice in Europe, so why not here? It is obvious that disposable aprons should be used when a nurse comes into contact with a patient, and then disposed of immediately afterwards.
+
+Thirdly, Mrs. Davies says that spot checks on thick uniforms should be carried out, to find out what types of bacteria are growing there. In addition, doctors should wear white coats over their suits. Fourthly, visitors should be supervised, and they should not be allowed to sit on beds. There should be no more than two visitors to a bed, and patients should not sit on other patients’ beds.
+
+When I was recently in the Royal Shrewsbury hospital’s maternity unit awaiting the birth of my first child, Alexis, I saw an awful lot of people sitting on beds, and there were far more than two visitors per patient. I mean no criticism of the hospital: the nurses are so overstretched that they do not want to keep going on about people sitting on beds. It is something that the Government should communicate to the general public. The Government spend millions of pounds on putting socialist propaganda on television, which they say is public information—but why do they not talk about MRSA, or other important matters? They should tell people that they have a responsibility to act correctly when they visit relatives in hospital.
+
+Mrs. Davies’ fifth point is that paper carries infections, so patients should not share newspapers or magazines. She is right about that, but the maternity ward was full of magazines that people passed around. There should be much stricter guidance about newspapers and magazines in hospitals, as Mrs. Davies assures me that MRSA can be carried by paper.
+
+Mrs. Davies’ final point has to do with cleaning, and the need for wards to have domestic supervisors. When wards are cleaned, the clutter that gathers around beds is not moved, but that problem could be overcome if a ward sister were on hand. My right hon. Friend the Member for Maidstone and The Weald (Miss Widdecombe) has often spoken about the need to have matrons or ward sisters in hospitals, and the Minister should take heed.
+
+The RSH is more than £30 million in debt, as the Minister will know. People are very worried about the focus on debt reduction, and the problem is now so bad that charges for car parking are not confined to members of the public who use the hospital. Under this socialist Administration, nurses are being told that they will have to pay to park their cars when they come into work—[Interruption.] The Minister may laugh, but that is the reality.
+
+The hospital has set up all sorts of schemes to raise money to deal with the debt. Charging nurses to park their cars is one such scheme, but another is to charge the hospital’s league of friends for operating its charity shops in the hospital. I and other Shropshire MPs have regular meetings with the hospital’s chief executive, Tom Taylor, and the focus is always on finance and how the huge debt can be reduced. That approach worries me, because it lessens the attention given to problems such as MRSA.
+
+When my daughter Alexis was born—on Trafalgar day—I was extremely impressed with the cleanliness of the RSH’s maternity ward. However, the staff are very overstretched, and although I shall not go into the details now, I would be happy to write to the Minister about what I saw in the three days that I spent waiting for my child to be born.
+
+As I noted in an intervention on the hon. Member for North Norfolk (Norman Lamb), 16 beds are to be cut at the RSH maternity ward between now and February. On top of that, the hospital in nearby Oswestry is to lose its maternity services completely. As a result, there will be even greater pressure on the RSH’s maternity services. I fear that the cuts mean that people will take their eye off the ball, and the high standards of our maternity services will not be maintained.
+
+All those things are part and parcel of the Government’s attempts to take a one-size-fits-all approach to maternity services. In Shrewsbury a woman stays in hospital after giving birth for 2.6 days, on average. The hospital has won so many national awards that staff are repeatedly asked to come to the House of Commons to give evidence to the Health Committee about their great achievements, yet outside consultants have now told them that a stay of 2.6 days is far too long, and that they should aim for the national average of one day. That is a scandal. I am concerned about that situation, and about the impact of the cuts on dealing with MRSA.
+
+18:20:00
+
+Mrs. Nadine Dorries (Mid-Bedfordshire) (Con)
+It is especially fascinating to listen to the Secretary of State talking about MRSA. She talks about headline figures, targets, strategies and meetings, yet never once does she answer a question that relates directly to the problem or discuss it in practical terms.
+
+We know that some hospitals do not have MRSA. There is little incidence in the private sector. Hospitals in Scotland have a low incidence. Field hospitals in Iraq and military hospitals have no MRSA. There are hospitals where MRSA does not occur, yet we seem unable to transfer their example to the national picture to deal with what is happening in hospitals with bad records.
+
+It is not difficult to keep a hospital ward clean. I shall go through a few measures that I know make a huge difference to cleanliness on wards. We have already talked about ward sisters; the line of command is important. When I was training, we did not merely go on to a ward—we went on to Sister Jones’s ward or Sister Smith’s ward. Their ward was their fiefdom, where they were in charge. There was competition between sisters; Sister Jones would never in a million years want her ward considered less clean than Sister Smith’s ward.
+
+Huge emphasis was put on the internal cleaning of wards. A large part of the job of nursing auxiliaries was cleaning—washing down beds, cleaning out cupboards, cleaning window sills, wiping down chairs and making sure the ward looked immaculate. That no longer happens to anything like the same extent.
+
+I became aware of how far standards had slipped when I visited my grandfather in hospital recently. I found him sitting on a chair next to his bed. He was cold, because he was not wearing pyjama bottoms—I will not go into details, but it was a sorry sight. The ward floor was dirty. The bedside table was dirty; food had been left on it for days. Nobody took enough care. Nobody was worried about the cleanliness of the ward, yet the hospital has a high incidence of MRSA. It was obvious that the incidence could have been reduced by making the wards cleaner.
+
+Mr. Charles Walker (Broxbourne) (Con)
+Does my hon. Friend think that hospital chief executives spend enough time on the wards? Any chief executive worth his salt would be appalled at the conditions that she found and would not allow them. Perhaps the wrong type of people are at the top of our hospitals. Such things would not happen in the private sector.
+
+Mrs. Dorries
+My hon. Friend is right. Many chief executives rarely go on to the wards, although the chief executive of my local hospital does. However, when I visited the hospital recently nurses told me that it was an unusual occurrence in other hospitals where they had worked, if it even happened at all.
+
+Visiting used to be limited in hospitals. There would be a couple of hours in the afternoon and again in the evening, which restricted the amount of outside traffic into the wards, allowing them to be cleaned properly. Now we have open visiting, all day and all night. Families come into the wards, sitting on beds and by bedsides. The ward doors are never closed, so there is no proper cleaning.
+
+People constantly have to deal with visitors. On a recent visit to a ward, as the MP, I was standing behind the nurses’ station and visitors thought I would know where various people were. People constantly came to the nurses’ station asking questions. That used not to happen because visitors were allowed only for a few hours in the afternoons and evenings so that wards could be cleaned properly.
+
+Mr. Stewart Jackson
+Does my hon. Friend agree that another associated problem, which was raised by our hon. Friend the Member for Shrewsbury and Atcham (Daniel Kawczynski), is the over-prescription of antibiotics because hospital staff are so overstretched? They cannot consider individual cases properly because they do not have enough time or resources to do so.
+
+Mrs. Dorries
+Indeed. The problem is wide-ranging and often arises from the over-prescription of antibiotics in the primary care sector before patients are admitted to hospital.
+
+The solution is not just keeping hospital wards clean. It involves the end of hot bedding. Several Members have described how immediately after one patient has been discharged another one comes straight in before the bed is cold. The bed and the whole area around it should be cleaned and sterilised, but the targets mean that people are in and out before the cleaning can be done. The ward is not wet-mopped; it is merely dry-mopped with a big electric cleaner that cannot remove sticky substances or spillages.
+
+Mr. Robert Goodwill (Scarborough and Whitby) (Con)
+Is my hon. Friend aware that in many German hospitals once beds are vacated they are sent to a cleaning station in the basement, where they are cleaned and shrink-wrapped before being sent back to the ward? Would not such a practice address some of our hot-bedding problems in British hospitals?
+
+Mrs. Dorries
+My hon. Friend makes an important point. Some UK hospitals have such facilities, although they may or may not be in use. However, we would not need to use such methods if nurses did not wear their uniforms to work—an issue I have previously raised in Committee.
+
+In supermarkets, we see nurses in uniform leaning over the fruit and vegetable counter with a toddler sitting on their hip. Are those nurses on their way to work or on their way home? If they are on the way to work, what bacteria are they carrying from the toddler on their hip or the supermarket vegetable counter to the hospital environment? Nurses should change into uniform when they get to work. When I was a nurse, I used to go to the hospital basement, give my name and then be handed my uniform, which was on a big rotating rack. I would go to the locker room, get changed and go on to the ward. When I finished work, I would change and put my uniform into a dirty uniform holder. I would never have dreamed of wearing my uniform home or back to work. I did not want to take bacteria from the hospital home to my children. It was a two-way process.
+
+If there were laundries in hospitals we would not need to spend so much on dealing with MRSA in hospital. Measures such as shrink-wrapped beds might not even be needed if we implemented basic procedures. Laundering of uniforms is one of the most important measures, and the lack of it is one of the biggest contributors to the rise of MRSA.
+
+Specialist equipment is available. Recently, I received information about an air-change instrument that removes bacteria from the air. When I visited a hospital ward not long ago, there were no alcohol wipes with which visitors or patients could wipe their hands. There was a dispenser on the wall, but the person I was with told me it had been empty for two days. There should be a procedure to ensure that alcohol hand-rubs are replaced every day, and a ward sister to ensure that the procedure is followed.
+
+My hon. Friend the Member for Hemel Hempstead (Mike Penning) rightly spoke of the value of ward sisters in military hospitals in Iraq. Rank plays a part. If the wards are not clean, the ward sister calls the cleaner back. That is exactly what used to happen in our hospitals. The ward sister’s word was law. If a doctor was not wearing his white coat, he would be sent to get one before he was allowed on to the ward. We need authority on the wards—and it can come only from ward sisters, which is why we need to take hospital cleaning back in house, back under the control of the wards and the ward sisters.
+
+To conclude, as well as ward sisters, we need auxiliary nurses back—nurses who take pride in cleaning and take responsibility for it on the wards. If the wards were basically kept fundamentally clean, we would not have MRSA.
+
+18:30:00
+
+Dr. Andrew Murrison (Westbury) (Con)
+It is extraordinary, is it not, that of all debates, this one on health issues is the one with just one Labour Back Bencher turning up to make a contribution. The Secretary of State was at pains to explain that this issue was her No. 1 priority, but it does not seem like that to me—and I have to tell Government Front Benchers that it will not seem like that to people watching today’s debate or reading accounts of it. I hope that the Minister of State, Department of Health, the hon. Member for Leigh (Andy Burnham), will explain in his winding-up speech how it is that just one Labour Back Bencher has spoken on such an important issue.
+
+One in 10 in-patients will acquire an infection in UK hospitals. In 2004, there were 1,300 deaths resulting from C. difficile alone, as a result of which people worry about going to hospital. Anyone doubting that needed only to attend, as I did, a recent meeting convened by the MRSA and C. diff support group in Portcullis House. A range of harrowing tales was told by members of that group about their experiences and their concerns about this important group of infections. I recommend that the Minister listen very carefully indeed to those accounts and experiences.
+
+My right hon. Friend the Member for Maidstone and The Weald (Miss Widdecombe) and my hon. Friends the Members for Hemel Hempstead (Mike Penning) and for Mid-Bedfordshire (Mrs. Dorries) did some comparing and contrasting between our attitude towards health care-acquired infection and foot and mouth, between command and control in the NHS and military hospitals in Iraq, and between hospitals of which they had first-hand experience. All three supported discipline in the NHS and I suspect that my right hon. Friend the Member for Maidstone and The Weald would endorse the Royal College of Nursing wipe-it-out 10-point plan on MRSA, which clearly states:
+
+“Employers should be mandated to introduce straightforward, confidential and highly visible systems which allow patients, visitors and staff to report safely and/or challenge poor practice, incidents and mistakes involving infection control and cleanliness.”
+
+I am sure that she would agree with all that.
+
+The cost to the NHS of health care-acquired infections is more than £1 billion annually. That approximates to the NHS deficit, which today—no, tomorrow, as it has been delayed—prompts the Wiltshire primary care trust to announce the closure of community hospitals in my constituency. When set in that sort of context, one realises the enormity of the problem faced by the NHS right now—and the scope for remedial action and what that might mean at ground level. It would certainly mean a great deal to my constituents as they face the closure of their community hospitals.
+
+Indeed, the true cost may be even greater, as we have very little idea of the amount of wound infections that stop short of bacteraemia. Estimates suggest that the true incidence of MRSA is in fact 10 times the official figures. MRSA grabs the headlines, but the real menace right now appears to be Clostridium difficile, which has proved refractory to most of the initiatives that Ministers have launched on health care-acquired infections.
+
+At the centre of the Government’s efforts is the “Clean your hands” campaign, but the Healthcare Commission does not think much of it. It pointed out that compliance was poor last year and revealed that more than a third of trusts were not providing the basics necessary for hygiene—hot water, paper towels and alcohol rubs. It said that 50 per cent. of staff had no training in hygiene in the preceding year. Little wonder that we are not making much progress.
+
+In health care there is only one thing worse than a target—and that is a target that is not being met. It is now clear that the November 2004 MRSA target will not be met. The famous leaked memo tells us that very clearly, but more revealingly still, that memo is largely given over to how an inconvenient truth might be dished up and presented to the public, whom I imagine Ministers consider to be gullible. Rather than present options for remedial action, it agonises over how fudging the target might be seen as a “cop-out” or, with remarkable frankness and extraordinary understatement, open to the “accusation of fiddling”. This is a memo not from a “good day to bury bad news”-style subordinate, but from no less a person than Liz Woodeson who, as director of health protection, is at the very heart of the Government’s strategy for public health.
+
+The memo speaks volumes about two things: the Government’s failure to address MRSA and their obsession with spin over substance. So ineffectual have Ministers been that the Prime Minister’s Delivery Unit has, we understand, stepped in and we await its report on what can be done, in the words of the Department of Health, to “galvanise action”. Surely it is not too much to expect our record on hospital-acquired infections to approximate more closely to those of northern rather than eastern Europe.
+
+We learn that the Minister of State has been on a back-to-the-shop-floor initiative—a bit like Gerry Robinson. His quest is to find a solution to what the Prime Minister has characterised as the “dirty corridors” of the NHS. I hope he gained as much from his experience as I did from my experience as a member of the ancillary staff of a hospital in our national health service some years go, but I fear that he may have seen a great deal but learned very little. We hear that he wants trusts to do away with cleaning contractors. I wonder whether that is evidence-based medicine or an innovation in the lexicography of the NHS called “anecdote-based medicine”. When the Healthcare Commission does its annual health checks, will it be expected to press for the latest whimsy of Ministers rather than standards grounded in the evidence?
+
+If the Minister can produce a body of evidence to support the contention that hospitals with contracted-out cleaning are worse than those with in-house cleaning, we would be more than happy to support him—but I do not think he can, so I am afraid we will not. What the Minister has not thought through is the fact that the big contracting-out that the Government introduced cannot simply be undone. Of course cleaning is contracted out in independent sector treatment centres and PFI projects—that is the whole point—but it is not clear how the Minister, if keen on bringing hospital cleaning in house, will govern these particular institutions and change their practice. If he is so keen on contracting out on a grand scale, why is he recanting when it comes to individual hospital trusts?
+
+Mr. Walker
+Are we not in danger of over-complicating the issue? If Tesco had a store that was routinely filthy, it would fire the manager and hire a new manager who could ensure that the store was clean. Surely if a hospital trust is routinely filthy, we should fire the chief executive and hire one who can ensure that the hospital is clean and safe for the patients under his or her duty of care.
+
+Dr. Murrison
+My hon. Friend makes a very good point, which demonstrates the importance we attach to this issue. His remark underscores how important it is for us. It is a pity that Government Members do not think it at all important, as evidenced by the fact that only one of their Back Benchers managed to turn up to make a contribution.
+
+What account has the Minister taken of the hospital-acquired infection record of non-NHS hospitals, and are there any lessons to be learned from it? I make no particular judgment, but the record in some non-NHS hospitals is clearly better than in some NHS hospitals, so it would be foolish not to study it carefully and learn whatever lessons are to be learned. I would be interested to hear whether the Minister has reflected on the difference between the two and on what might be done to improve the record in the NHS as a result.
+
+I am quite convinced that what is actually important is that ward staff must be comfortable with the management tools to direct cleaning staff, that cleaning staff should feel that they are a full and valued part of the health care team and that senior nurses should have access to them 24/7. We often go around hospitals, and it seems to us that cleaning staff are not seen as full and active parts of the health care team—well, they are, and they must feel that they are—and I am very sorry that the Secretary of State’s amendment eschews our mention of health care staff. That is a pity, and I hope that it is an oversight. Mention of ancillary staff is long overdue, and I hope that, in reparation, the Minister might mention their contribution to cleanliness in hospitals. [Interruption.] If the hon. Member for Livingston (Mr. Devine) would like me to give way, I should be more than happy to hear his remarks.
+
+My hon. Friend the Member for Leominster (Bill Wiggin) is right to be concerned about innovation and the fact that it has been introduced far too slowly. The rapid review panel is apparently not rapid, according to a frustrated innovator, called Air Science, which has contacted a number of right hon. and hon. Members. It says that
+
+“it is ineffective in meeting its aims and by not encouraging further research of the most promising applications it is an obstacle to progress.”
+
+The main block appears to be the rapid reaction panel’s level 2 assessment, which involves the ability to gain support for the translational research and development which enable small companies of the sort that Air Science evidently is to front up the innovation that the health service needs to tackle health care-acquired infection. A level 2 innovation is promising, but crucially, has not yet been proven in an NHS hospital setting. Most companies struggle to afford the means to provide such proof and they need help with it. Air Science concludes by saying:
+
+“Clearly there is great scope for new initiatives. To find them was the intended role of the RRP. It is instead proving a barrier to progress, not its catalyst.”
+
+The onward march of Clostridium difficile has underscored the need for restraint and discernment in the prescribing of antibiotics. Four times as many people die in the UK from that health care-acquired infection as from MRSA, and conventional cleaning and hand washing will not necessarily help that much—a different approach is needed. What is the Minister doing to ensure best practice in universally applying the lessons available from best performance in the NHS and to ensure that they are learned by outriders? It seems that he is doing precious little, judging by the absence of a reference to Clostridum difficile from the Government amendment.
+
+The hon. Member for North Norfolk (Norman Lamb) made a very valuable contribution. He rightly talked about antibiotics. He should also have talked about—we might have done as well—instrumentation that introduces infection, such as intravenous cannulation and other things, as that has been the subject of much debate recently and of comment by Professor Hajo Grundmann of the National Institute of Public Health in the Netherlands. It is very important that we consider minimising such interventions in our fight against health care-acquired infections.
+
+The Secretary of State for Health mounted a robust defence of the national MRSA target set in 2004, saying that, in its absence, less progress would have been made. Will the Minister say when he will set up a comparable target for Clostridium difficile, because that is the natural extension of what the Secretary of State said? The Secretary of State’s defence of local targets was based on a false assertion that it is a local problem—well, it clearly is not, as is made very clear by the comment from her own Department that it is endemic.
+
+The hon. Member for Crawley (Laura Moffatt) and my hon. Friend the Member for Shrewsbury and Atcham (Daniel Kawczynski) rightly talked about staff. The Government amendment removes any mention of staff from our motion, which is a pity, and I hope the Minister will explain that. From the Royal College of Nursing 2005 “Working Well” survey, we learned that the number of nurses with access to changing facilities dropped from 61 per cent. in 2000 to 50 per cent. in 2005, and that only 39 per cent. of nurses have access to showering facilities at work. Just 35 per cent. of hospital-based NHS nurses said that their employer provides a uniform laundering service. Is that any way to treat a profession that is doing its utmost to reduce health care-acquired infections? What message does it give to those who are entering the profession about the significance attached by management to basic standards of hygiene?
+
+18:44:00
+
+The Minister of State, Department of Health (Andy Burnham)
+I welcome today’s debate, because it deals with an issue to which this ministerial team attaches the highest possible priority: patient safety and public confidence in our national health service. It gives us an opportunity to say very clearly on the record that MRSA infection is falling in our NHS, despite what others might seek to claim. However, there is absolutely no complacency whatsoever among Labour Members, and I will set out some of the measures that the Government are taking.
+
+While sitting through this debate, I have heard more bar-room garbage emanate from Opposition Members than perhaps I have ever heard before. Yesterday, they pledged to abolish targets and end top-down Government action in the NHS. [Hon. Members: “Hear, hear.”] The call was to keep politicians out of health care and the NHS—a big, principled call. Today, they bring us to the House to demand no less than six-monthly reports on Government action to tackle health care-acquired infections. Yesterday, they committed themselves to scrapping our MRSA target. Today, they put before us what seems like a target for the number of washing machines in NHS trusts.
+
+Bill Wiggin
+I do not think that the Opposition should take any lessons from the Minister or the Government about keeping politicians out of the health service, when only one Labour Back Bencher can be bothered to make a speech.
+
+Andy Burnham
+The hon. Gentleman will hear me robustly defend the role of politicians in the crucial issue of public confidence, and he will get his answer. After hearing the utter the confusion among Opposition Members, those who work in the NHS are entitled to ask what the Opposition are proposing. Are they saying, “Trust the professionals”, or are they suggesting that how many times they should wash their uniforms and where they should wear them should be subject to mandatory guidelines? That is the message that has come from Opposition Members all afternoon. I have sat here and I have heard it. They do not trust the professionals at all to do any of those things, and that rings out from those on the Opposition Benches.
+
+Several hon. Members
+rose—
+
+Andy Burnham
+I will not give way.
+
+We have seen in all its painful unravelling that Tory health policy is confused, contradictory and dangerous.
+
+Mike Penning
+Feeble!
+
+Andy Burnham
+The hon. Gentleman should listen, because we have a policy to tackle MRSA. It begins with a clear national target that, today, the shadow Secretary of State said that he would scrap. We have put £50 million into the NHS in the past few months to enable hospital trusts—including his trust, about which an announcement will be made next week—to make improvements.
+
+Mike Penning
+Will the Minister give way?
+
+Andy Burnham
+No, I will not give way.
+
+The Government have introduced a legal code that places statutory responsibilities on NHS trusts to tackle hospital-acquired infection. That is our policy. We know that we have got a good package. What is Conservative party’s policy? We have heard today that it is to scrap the target, install a few washing machines and hope for the best. I am afraid that that is simply not good enough. All the momentum that we have established in tackling MRSA would be lost in the Tory NHS, and Lansley’s La-la land, where Ministers have no role and everything happens by magic. What a wonderful place it must be. [Interruption.]
+
+Madam Deputy Speaker (Sylvia Heal)
+Order.
+
+Andy Burnham
+I shall deal with the points that have been raised in today’s debate. The hon. Member for North Norfolk (Norman Lamb) made an excellent contribution. I did not agree with every word that he said, but he made some very valid points. He asked about the advice to Ministers in the memo. I think that he said that it used the phrase “MRSA would never be beaten.” The memo does not say that; it says that achieving the target will be challenging and that some in the Department question whether it can be achieved. 
+
+Let me, in all honesty, give the hon. Gentleman my best answer, and this is what I believe. Yes, it is a challenging target. It was challenging to the NHS when it was set, but that was the point of the target. Its purpose is to cut infection, not to generate comfortable or pleasing headlines for the Government. I would rather we had a real go at meeting that target and changing the culture right across our national health service, even it we miss it by 5, 10 or 15 per cent., because we would thereby deliver a major reduction in infection in the national health service and we would improve patient safety. I reject the approach that the hon. Gentleman advocated of scrapping the target entirely.
+
+Norman Lamb
+The Minister insists that he is going to stick with the MRSA target, but what about C. difficile? Although MRSA levels have come down, C. difficile levels are increasing at a disturbing rate.
+
+Andy Burnham
+The hon. Gentleman raises a fair and important point. People have spoken about the memo and Liz Woodeson, and now that the memo is in the public domain, it is right to comment on it. As a result of that memo, we did two things in the Department. We made £50 million available this financial year to the national health service. That equates to £300,000 per trust. The trusts can use that money to make practical improvements to their estate, such as more isolation facilities or washroom facilities—if that is what they choose. It is up to the NHS trust concerned to put those measures in place. That is specifically linked to C. difficile and the challenge that we face in relation to that. At the same time, we have asked every PCT, as part of the model contract, to negotiate with its main providers a target for cutting C. difficile. We believe that that is the right approach: to keep our headline national target on MRSA, but to put in place action to cut C. difficile.
+
+Adam Afriyie (Windsor) (Con)
+Will the Minister give way?
+
+Andy Burnham
+No, I would like to make some progress. The people who took part in the debate raised many points and I would like to answer them.
+
+The hon. Member for North Norfolk rightly raised the question of antibiotics. The guidance that the chief medical officer and chief nursing officer have issued to the national health service makes the same point that he made about a safe prescribing policy for broad-spectrum antibiotics. The code of practice that I have already referred to requires there to be an antibiotic prescribing policy in place. I could go through more measures, but I wanted to give him an answer. There is action in hand to tackle the important point that he raised.
+
+My hon. Friend the Member for Crawley (Laura Moffatt) made an outstanding speech. She spoke with real authority, unlike the bar-room brawlers on the Opposition Benches. She cut through the fug of the debate with real precision and made some superb points about the effect of mandatory surveillance in changing how we view these things. She also made another important point. She worked in the national health service—[Interruption.] Opposition Members do not like to hear this. She worked in the national health service between 1992 and 1997 and she made it clear that, at that time, there was no drive whatsoever to address this issue, which was developing and taking root in the NHS underneath the noses of Conservative Ministers. She made that point powerfully.
+
+I understand the reasons why the right hon. Member for Maidstone and The Weald (Miss Widdecombe) cannot be here for the closing speeches and we wish her well. She described some unacceptable conditions—if they are true—in her trust. Nobody would condone them. If people in the trust need to read those comments, I hope that they will. However, she did something that characterised the approach to the debate by Opposition Members all afternoon. It veered dangerously close to a direct attack on NHS staff. A small number of cases and anecdotal evidence were used to damn the practice of many of our fantastic and hard-working—[Interruption.]
+
+Madam Deputy Speaker
+Order. The Minister is responding to points. If Members wish to comment, they can seek to intervene in the usual way.
+
+Andy Burnham
+It is important to say that the trajectory for cases of MRSA at that trust is 49. The actual figure is 47. The rate of improvement is better than the target. Yes, there are issues about C. difficile at the trust, but we have asked the Healthcare Commission to look at them, as has the strategic health authority. I am sure that the commission will come back with its findings shortly.
+
+Many hon. Members raised the issue of staff uniforms. It is important to say that there is no real evidence that uniforms or work-wear are a major source of cross-infection. However, I accept the point made by Opposition Members that it might be an issue of public confidence and a question whether people believe that there is an adequate hygiene policy in place. In the light of that concern, a review of current uniform policy has been taking place. Its conclusions will be available shortly.
+
+Concerns were raised about the £50 million fund. The hon. Member for Hemel Hempstead (Mike Penning) raised that issue in relation to his trust. Announcements will be made in due course.
+
+Mike Penning
+rose—
+
+Andy Burnham
+I have not got much time left, so, if the hon. Gentleman does not mind, I will pick up the points that he raised. He raised a point about contract cleaning, as did other Members. It is vital that the cleaning team in any trust is fully integrated into that trust, and that its views are listened to and it is consulted when action is taking place. We do not want a situation in which contract cleaners do not feel that they are a full and involved part of the trust in question.
+
+I asked the hon. Member for Leominster (Bill Wiggin)—[Interruption.] I am sorry if I mispronounced his constituency. I asked him to say what the percentage increase in MRSA was between 1990 and 1997. He did not have an answer. Let me give it to him: between 1990 and 1997, MRSA increased by 3,332.4 per cent. in our national health service. I did not hear any recognition of that, nor did I hear what action was taken. If this debate succeeds in nothing else, it should inform the House of a stark fact: the Conservative party is committed to scrapping the one thing that has turned the tide in the fight against MRSA on our wards. MRSA levels rose inexorably in every single year between 1990 and 2004. That was the year that the MRSA target was introduced. Since then, infection levels have fallen every year. I am not complacent, but let us get those facts on the record. If the Conservative party is committed to cutting that target, Conservative Members have some explaining to do. Do they think that the reduction in recent years was in any way connected to the introduction of that target? Do they think that it is just possible that its existence has brought some ownership and focus from the top of NHS organisations? Can they produce evidence that the target can be safely scrapped and that that would not lead to infection levels creeping up again? If they cannot, they should have a rapid policy review and change their minds quickly.
+
+Today’s motion calls for a “search and destroy” policy and that was mentioned earlier. I know that the Conservatives have embarked on a systematic campaign to disown and forget every policy that they once had, but there was a search and destroy policy in the national health service in the 1980s. It got dropped when cases began to emerge and the NHS was overwhelmed. It could not cope, because the Conservatives cut capital spending year on year between 1992 and 1997 and they cut revenue spending. The Conservative party’s claims of a crisis have an increasingly hollow ring. There has been a real and sustained improvement in relation to all the fundamental issues that show that our NHS is improving, but we are not complacent. We will continue to challenge the NHS to do more.
+
+The Conservative party poses as the friend of NHS staff, but we Labour Members remember the posters saying
+
+“I mean, how hard is it to keep a hospital clean?”
+
+It was a sneering Tory two fingers to every single hospital cleaner in the country, and it was sanctioned by—[Interruption.]
+
+Madam Deputy Speaker
+Order.
+
+Andy Burnham
+The Tories say that they have changed, and that they support our national health service, yet they pick away at the issue and undermine our NHS staff because that has the potential to damage confidence in our NHS. We do not claim to get everything right, but we are no fickle friends of the NHS. We will stand by our national health service and give it the resources to do the job.
+
+Question put, That the original words stand part of the Question:—
+
+Division 029
+23/01/2007 18:59:00
+The House divided:
+Ayes: 222
+Noes: 289
+Question accordingly negatived.
+
+Question, That the proposed words be there added, put forthwith, pursuant to Standing Order No. 31 (Questions on amendments), and agreed to.
+
+Madam Deputy Speaker forthwith declared the main Question, as amended, to be agreed to.
+
+Resolved,
+
+That this House welcomes the top priority given to reducing healthcare-acquired infections by this Government; recognises that the Government is the first ever to collect data on these infections including establishing the world’s most comprehensive MRSA surveillance system; further welcomes the new code of practice for health and social care providers introduced under the Health Act 2006 to reduce infections like MRSA and the new duty on the Healthcare Commission to ensure service providers comply with the code; welcomes the Government setting a target to halve rates of MRSA by 2008; notes the progress towards achieving this target; acknowledges that more must be done to achieve this goal; and therefore welcomes the priority given to reducing healthcare-acquired infections in the operating framework of the NHS in 2007 and the additional £50 million given to NHS trusts in December 2006 to tackle healthcare associated infections.
+

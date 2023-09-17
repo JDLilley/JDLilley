@@ -1,0 +1,1206 @@
+ Higher Education  (Freedom of Speech) Bill
+
+Consideration of Bill, as amended in the Public Bill Committee.
+
+[Relevant documents: Fourth Report of the Joint Committee on Human Rights of Session 2017-19, Freedom of Speech in Universities, HC 589; Eighth Report of the Joint Committee on Human Rights of Session 2017-19, Freedom of Speech in Universities: Responses, HC 1279; Correspondence between the Secretary of State for Education and the Chair of the Joint Committee on Human Rights, regarding the Higher Education (Freedom of Speech) Bill, dated 24 June 2021 and 7 July 2021.]
+
+New Clause 2
+
+Overseas funding
+
+“(1) The Higher Education and Research Act 2017 is amended as follows.
+
+(2) After section 69C (as inserted by section 8) insert—
+
+“69D Overseas funding: registered higher education providers
+
+(1) The OfS must monitor the overseas funding of registered higher education providers and their constituent institutions with a view to assessing the extent to which the funding presents a risk to the matters in subsection (2).
+
+(2) The matters are—
+
+(a) freedom of speech within the law, and
+
+(b) the academic freedom of academic staff of registered higher education providers and their constituent institutions,
+
+in the provision of higher education by registered higher education providers and their constituent institutions.
+
+(3) The duty in subsection (1) includes a duty to consider, in a case where the OfS has found that a registered higher education provider or any constituent institution of a registered higher education provider is in breach of its duty under section A1, whether overseas funding was relevant to the breach.
+
+(4) The information which the governing body of a registered higher education provider may be required to provide under the condition under section 8(1)(b) in relation to the function of the OfS under subsection (1) is—
+
+(a) information as to relevant funding from a relevant overseas person, where the funding from that person exceeds the threshold in any period of 12 months specified by the OfS, and
+
+(b) if the OfS considers it appropriate in any circumstances, such other information as the OfS may reasonably require.
+
+(5) In this section “relevant funding” from a relevant overseas person, in relation to a registered higher education provider, means amounts which are received by the provider or a connected person—
+
+(a) by way of endowment, gift or donation from the relevant overseas person,
+
+(b) by way of research grant from the relevant overseas person,
+
+(c) pursuant to a research contract with the relevant overseas person, or
+
+(d) pursuant to an educational or commercial partnership with the relevant overseas person.
+
+(6) In subsection (5) “connected person”, in relation to a registered higher education provider, means—
+
+(a) the governing body of the provider,
+
+(b) a constituent institution of the provider, or
+
+(c) a member or member of staff of the provider or of a constituent institution, in their capacity as such.
+
+(7) For the purposes of subsection (5), treat receipt of anything that is not money as receipt of an amount equal to the value of the thing to the recipient at the time of receipt.
+
+(8) In this section “relevant overseas person” means—
+
+(a) the government of an overseas country, other than a prescribed country,
+
+(b) a body which is incorporated or registered in, or has its headquarters in, an overseas country other than a prescribed country, or
+
+(c) an individual who is a politically exposed person in relation to an overseas country other than a prescribed country.
+
+(9) In this section—
+
+“overseas country” means any country or territory outside the United Kingdom, but not including the Channel Islands, the Isle of Man and any British overseas territory;
+
+“politically exposed person” has the meaning given by regulation 35 of the Money Laundering, Terrorist Financing and Transfer of Funds (Information on the Payer) Regulations 2017 (S.I. 2017/692);
+
+“prescribed country” means a country or territory specified in regulations made by the Secretary of State.
+
+(10) For the purposes of subsection (4)(a), “the threshold” means an amount specified in regulations made by the Secretary of State.
+
+(11) Regulations under subsection (10) may include provision—
+
+(a) as to how the amount specified is to be calculated;
+
+(b) to treat amounts received from a person other than a relevant overseas person as received from the relevant overseas person.
+
+69E Overseas funding: students’ unions
+
+‘(1) The OfS must monitor the overseas funding of students’ unions at registered higher education providers that are eligible for financial support with a view to assessing the extent to which the funding presents a risk to the matter in subsection (2).
+
+(2) The matter is freedom of speech within the law for—
+
+(a) members of the students’ unions,
+
+(b) students of the providers,
+
+(c) staff of the students’ unions,
+
+(d) staff and members of the providers and of their constituent institutions, and
+
+(e) visiting speakers.
+
+(3) The duty in subsection (1) includes a duty to consider, in a case where the OfS has found that a students’ union is in breach of its duty under section A5, whether overseas funding was relevant to the breach.
+
+(4) For the purpose of the function of the OfS under subsection (1), a students’ union referred to in that subsection must provide to the OfS at such times, and in respect of such periods, as the OfS may reasonably request—
+
+(a) information as to any amounts received from a relevant overseas person, where the amounts exceed the threshold in any period of 12 months specified by the OfS, and
+
+(b) if the OfS considers it appropriate in any circumstances, such other information as the OfS may reasonably require.
+
+(5) If a students’ union fails to comply with its duty under subsection (4), the OfS may enforce the duty in civil proceedings for an injunction.
+
+(6) The following provisions of section 69D apply for the purposes of this section—
+
+(a) subsection (7) (things other than money);
+
+(b) subsections (8) and (9) (meaning of “relevant overseas person”);
+
+(c) subsections (10) and (11) (meaning of “threshold”).
+
+(3) In Schedule 1, in paragraph 13 (annual report), after sub-paragraph (3) insert—
+
+“(3A) The report must include—
+
+(a) a summary of information received by the OfS pursuant to sections 69D and 69E for that year, and
+
+(b) a summary of conclusions drawn by the OfS for that year, from its monitoring under sections 69D(1) and 69E(1), regarding relevant patterns, trends or other matters which it has identified and which are of concern to the OfS.”
+
+This new clause makes provision for the reporting of overseas funding by registered higher education providers and their students’ unions.—(Michelle Donelan.)
+
+Brought up, and read the First time.
+
+17:41:00
+
+The Minister for Higher and Further Education (Michelle Donelan)
+I beg to move, That the clause be read a Second time.
+
+Madam Deputy Speaker (Dame Eleanor Laing)
+With this it will be convenient to discuss the following:
+
+New clause 1— Duty to disclose overseas gifts and contracts affecting freedom of speech—
+
+‘In section A3 of the Higher Education and Research Act 2017 (inserted by section 1), at end insert—
+
+“(2) Whenever a registered higher education provider, or any of its members, employees, departments or associated bodies, enters into a disclosable arrangement with an overseas counterparty, its governing body shall, as one part of discharging the duty to promote the importance of freedom of speech and academic freedom in subsection (1), promptly report the required information about such arrangement to the OfS and the Secretary of State.
+
+(3) By 30 April each year, the OfS shall publish on its website a searchable report which contains all required information which has been disclosed to it pursuant to subsection (2) above in the preceding year.
+
+(4) If the governing body of a registered higher education reasonably believes that the publication of the identity of the overseas counterparty pursuant to subsection (3) or subsection (6) might present a risk of serious harm to any natural person, it may notify the OfS and will provide such information as the OfS may require to investigate such risk(s).
+
+(5) If, following a report under subsection (4) above and such investigation as it considers appropriate in the circumstances, the OfS finds that the publication of the identity of the overseas counterparty pursuant to subsection (3) or subsection (6) might present a risk of serious harm to any natural person, then it may redact such information from its report.
+
+(6) By 30 April 2023, the governing body of each registered higher education provider shall report to the OfS and the Secretary of State the required information of any disclosable arrangement which it, or any of its members, employees, departments or associated bodies, entered into during the ten years prior to this section coming into force, and the OfS shall publish such information on its website in a searchable report by 30 April 2024.
+
+(7) If the registered higher education provider fails to comply with this duty, the OfS may enforce compliance in civil proceedings for an injunction.
+
+(8) In this Part—
+
+(a) “associated bodies” means any company, institution, trust, organisation or similar body or group in respect of which the relevant registered higher education provider has significant control or ultimate beneficial interest;
+
+(b) “disclosable arrangement” means any formal or informal contract, gift or other arrangement by which a financial or other advantage is offered, promised or given to a registered higher education provider or any person or body mentioned in subsection (2) above, whether conditionally or unconditionally, which is equal to or exceeds £50,000 (or would equal or exceed such value in combination with other potentially disclosable arrangements entered into with the same overseas counterparty, or connected overseas counterparties, within the previous twelve months);
+
+(c) “overseas counterparty” means—
+
+(i) any natural person who holds citizenship of, or is domiciled in, any country or territory outside the United Kingdom (or any subdivision of such a country or territory);
+
+(ii) any government, organisation, institution, company, foundation, legal person, trust, or similar body or group which is registered, incorporated, headquartered or carries out significant activities in any country or territory outside the United Kingdom (or any subdivision of such a country or territory) or in respect of which ultimate beneficial ownership or significant control resides in a person falling within subsection (c)(i) above; or
+
+(iii) any person acting in any capacity for or on behalf of any person who would fall within subsection (c)(i) or (c)(ii) above if they were acting on their own account;
+
+(d) “required information” means—
+
+(i) the exact value of the relevant disclosable arrangement(s);
+
+(ii) the identity of the overseas counterparty and the name of any relevant country or territory (and, if relevant, such information about the person(s) for whom they are acting or in whom ultimate beneficial ownership or significant control resides);
+
+(iii) the date on which the relevant disclosable arrangement(s) was entered into;
+
+(iv) details on the general purpose of the relevant disclosable arrangement(s); and
+
+(v) any specific stipulations or obligations imposed on the registered higher education provider or any of its members, employees, departments or associated bodies (including, but not limited to, any changes to any curricula, governance or control of them).””
+
+This new clause seeks to introduce transparency and public reporting of foreign donations to universities, in order to promote freedom of speech and academic freedom, and increase public confidence in universities.
+
+New clause 3—Duties regarding language and cultural programmes—
+
+In section A3 of the Higher Education and Research Act 2017 (inserted by section 1), at end insert—
+
+‘(2) Whenever a registered higher education provider enters into partnership with an overseas organisation to deliver foreign language, culture or exchange programmes or courses, its governing body must, as one part of discharging the duty to promote the importance of freedom of speech and academic freedom in subsection (1), promptly report the required information about the partnership to the OfS and the Secretary of State.
+
+(3) In response to the information received under subsection (2), and where there are concerns regarding the effect of the partnership on freedom of speech and academic freedom, the Secretary of State may issue a direction to the registered higher education provider.
+
+(4) A direction under subsection (3) may be either to—
+
+(a) terminate the partnership, or
+
+(b) offer an equivalent range of programmes or courses delivered in partnership with an alternative organisation.
+
+(5) In this Part, “required information” means—
+
+(a) the financial value of the partnership;
+
+(b) any specific stipulations or obligations imposed on the registered higher education provider or any of its members, employees, departments or associated bodies (including, but not limited to, any changes to curricula, governance or control of them).”
+
+New clause 4—Appointment of the Director for Freedom of Speech and Academic Freedom—
+
+‘(1) A person may not be appointed as the Director for Freedom of Speech and Academic Freedom (‘Director’) if the person has at any time within the last three years made a donation to a political party registered under the Political Parties, Elections and Referendums Act 2000.
+
+(2) The person appointed as the Director may not whilst in office make any donation to a political party registered under the Political Parties, Elections and Referendums Act 2000.
+
+(3) The appointment for the Director shall be made by an independent advisory panel to be established by regulations made by the Secretary of State.
+
+(4) The appointment of the Director for Freedom of Speech and Academic Freedom shall be subject to a confirmatory resolution of the relevant Select Committee of the House of Commons.
+
+(5) A statutory instrument containing regulations under subsection (3) may not be made unless a draft of the instrument has been laid before and approved by resolution of each House of Parliament.”
+
+This new clause would ensure that the Director of Freedom of Speech and Academic Freedom has not and cannot whilst in office donate to a political party and ensure they are only appointed subject to confirmation of an independent advisory panel, the Select Committee of the House of Commons and a resolution of each House of Parliament.
+
+New clause 5—Sunset clause—
+
+‘(1) This Act expires at the end of the period of 3 years beginning with the day on which it is passed.
+
+(2) A Minister of the Crown may by regulations made by statutory instrument remove any of the provisions of this Act after one year from the day on which it is passed if he is not satisfied that the provision is working as intended.
+
+(3) Before three years from the day on which this Act is passed a Minister of the Crown must present to Parliament a written report on the effectiveness of the provisions of the Act.
+
+(4) A Minister of the Crown may by regulations made by statutory instrument renew this Act, subject to parliamentary approval in full or in part, or make transitional, transitory or saving provision in connection with the expiry of any provision of this Act.
+
+(5) Regulations under this section shall be subject to the affirmative procedure.”
+
+This new clause would mean the legislation would have to be renewed by Parliament after a period of three years.
+
+New clause 6—Academic staff: interpretation—
+
+‘(1) Section 121 of the Higher Education and Research Act 2017 is amended as follows.
+
+(2) After “Act—” insert—
+
+“academic staff, for the purposes of any provision inserted by the Higher Education (Freedom of Speech) Act 2022, includes any academic staff (however engaged or employed), honorary, visiting and emeritus academic members of a provider and any other person held out as holding any academic position at the provider;””
+
+New clause 7—Harassment—
+
+In section 26 of the Equality Act 2010, after subsection (4)(c) insert—
+
+“(d) when A is a student or a member of the academic staff of a registered higher education provider and the conduct took place in the context of a discussion in a higher education setting—
+
+(i) the importance of freedom of speech and academic freedom, as provided for under Part A1 of the Higher Education and Research Act 2017 (as inserted by section 1 of the Higher Education (Freedom of Speech) Act 2022), and
+
+(ii) whether A intended to harass B, or was reckless as to whether A’s conduct constituted harassment towards B.”
+
+Amendment 21, in clause 1, page 2, line 2, at end insert—
+
+“(3A) Any conduct that would otherwise constitute conduct having the effect of harassment in accordance with section 26(1) of the Equality Act 2010 shall, notwithstanding any provision to the contrary in that Act, constitute freedom of speech within the law for the purposes of subsection (2), provided that—
+
+(a) the conduct constitutes, or forms part of, discussion of an academic or scientific matter in a higher education setting, and
+
+(b) the person engaging in such conduct did not know or could reasonably not have known that it would have the effect of harassment.”
+
+Amendment 19, in clause 1, page 2, line 6, at end insert—
+
+“(4A) The objective in subsection (2) includes securing that no person listed in paragraphs (a) to (d) of subsection (2) is deprived of an ability to speak freely as a result of a non-disclosure agreement or confidentiality agreement between that person and the governing body of the registered higher education provider.
+
+(4B) The provision in subsection (4A) does not prevent the use of a non-disclosure agreement in any case where the governing body and academic staff member agree that a non-disclosure agreement or confidentiality agreement is necessary for the protection of intellectual property.”
+
+This amendment would ensure that non-disclosure agreements or confidentiality agreements between those listed on the Bill and a higher education providers does not inhibit the freedom of speech for those concerned, save where it is agreed to protect intellectual property.
+
+Government amendment 1.
+
+Amendment 17, in clause 1, page 2, line 14, at end insert—
+
+“(c) to conduct research,
+
+(d) to engage in intellectual inquiry and contribute to public debate,
+
+(e) to criticise any institution,
+
+(f) to be affiliated to any institution, and
+
+(g) to be a member of a trade union body,”
+
+This amendment would widen the definition of academic freedom.
+
+Government amendments 2 and 3.
+
+Amendment 20, in clause 1, page 2, line 32, after “views” insert “or to share experiences”.
+
+This amendment is consequential on Amendment 19.
+
+Government amendments 4 to 10.
+
+Amendment 18, in clause 8, page 9, line 32, at end insert—
+
+“(3A) In reaching a decision as to the extent to which a free speech complaint is justified, the OfS must be mindful of the following—
+
+(a) the right of students to feel safe on university campuses, and
+
+(b) other legal duties of governing bodies and students’ unions, such as but not limited to those under the Equality Act 2010 and section 26 of the Counter-Terrorism and Security Act 2015.”
+
+This amendment would ensure other competing freedoms as found in the Equality Act and the Counter-Terrorism Act and Security Act 2015 are considered in relation to complaints lodged under the Free Speech Complaints Scheme
+
+Government amendments 11 to 16.
+
+Michelle Donelan
+I thank all Members for their important contributions throughout the Bill’s consideration. More than two thirds of the world’s population live in countries where academic freedom is severely limited. For decades, people have travelled across the globe to study in the UK because we are one of the few nations in which free, fair and lawful speech at university is truly valued. It is no coincidence that the most academically free countries in the world are also the most socially progressive, the most democratic, the most peaceful and, of course, the most prosperous.
+
+Free speech is as fundamental to what academics and students do on university campuses as it is to what we do in the House. However, as we saw on Second Reading, the Opposition chose to deny that there is a problem at all, despite overwhelming evidence to the contrary. In fact, since we last debated the Bill, the UK has become the only country in the top tier of academically free countries to be significantly downgraded by the academic freedom index. A report published by the Varieties of Democracy Institute determined that despite the UK’s status as a historic bastion of academic freedom and scientific excellence, not only is academic freedom in the UK declining but that decline appears to be accelerating.
+
+Sir Edward Leigh (Gainsborough) (Con)
+The Alliance of Pro-Life Students says that more than 70% of pro-life students face situations in seminars or lectures where they feel unable to speak openly, and one in three students surveyed had seen events cancelled due to the no-platforming of pro-life students and speakers. Will the Minister make it absolutely clear that whatever people’s views on pro-life issues, those who take that stance have a right to be heard in our universities?
+
+Michelle Donelan
+I wholeheartedly agree with my right hon. Friend. Of course, they deserve and have a right to be able to air their views and debate that subject.
+
+In oral evidence, Dr Arif Ahmed spoke about how his fellow academics told him that they supported his campaign for free speech but were concerned that their careers would be impacted if they aired that publicly. We also heard from Professor Kathleen Stock, who has been the subject of the most grotesque and sustained campaign of threats and abuse, which compelled her to resign. Is it therefore any wonder that, in 2019, a King’s College London survey found that, chillingly, one in four students believed that physical violence was justified to shut down views that they deemed to be hateful?
+
+The following year, a report by Policy Exchange found widespread self-censorship among university staff, but students and staff did not need to wait for those damning studies or for oral evidence to be published to know that there was a problem. The students forced to self-censor know that there is a problem. The academics bullied off campus, excluded by colleagues or forced to censor their lectures know that there is a problem. Legitimate organisations, speakers and guests who have been no-platformed or physically and verbally abused on campus know that there is a problem. It is just the Opposition who have their heads in the sand.
+
+17:45:00
+
+The Government not only understand that there is a problem—we have a plan to solve it by requiring providers to not only protect but promote free speech and academic freedom, by placing freedom of speech duties directly on student unions and by introducing effective enforcement mechanisms through the Office for Students. We all know that a law with no enforcement mechanisms is toothless. The new director for freedom of speech and academic freedom on the OfS board will be able to force improvements and impose penalties, including fines, if the new duties are breached.
+
+Alicia Kearns (Rutland and Melton) (Con)
+Will the Minister confirm that the Secretary of State will maintain the ability to direct the director to further inquiry, should he have concerns that the OfS is not investigating an issue suitably?
+
+Michelle Donelan
+Of course, we work hand in hand with the OfS and if there were concerns, we would be able to direct.
+
+We are introducing a new complaint scheme, operated by the OfS, for students, staff and visiting speakers who have suffered loss as a result of a breach of those duties. On top of that, we are introducing a new statutory tort as a legal backstop. The Government tabled amendments in Committee to ensure that new strengthened freedom of speech duties apply directly to constituent colleges of registered higher education providers. That will ensure that appropriate institutions must comply with the new duties in universities such as Oxford, Cambridge and Durham.
+
+Daniel Zeichner (Cambridge) (Lab)
+Will the Minister give way?
+
+Michelle Donelan
+I will, and then I will make progress.
+
+Daniel Zeichner
+I am grateful. I am sure the Minister will be aware that institutions such as the University of Cambridge are concerned about the extra bureaucracy that may well create—particularly for commercial partnerships, which are completely unrelated to freedom of speech issues. Will she clarify what is meant by “constituent institutions” and the intent in new clause 2? Is she really putting a general monitoring duty on the OfS to require pre-emptive reporting?
+
+Michelle Donelan
+The hon. Gentleman raises a few points. In new clause 2, “constituent institutions” mean colleges. It is right that we should not have a potential loophole in the Bill. When forming new clause 2, I worked very closely with the university sector, including the University of Cambridge, so I ask him, respectfully, to talk to it again.
+
+A number of important issues were raised in Committee. Opposition Members expressed concerns that the Bill would protect hate speech on campus. I have been clear throughout the passage of the Bill and will make the point once again: the Bill is only about lawful free speech. Let me be clear that this cheap shot has no actual validity. It is the Opposition’s attempt to discredit the Bill. It is a strong signal that they are content for an intolerant minority to silence those they disagree with, content for academics to feel the need to self-censor, content for students to miss out on the ability to debate, to critique and to challenge, and, ultimately, content to stifle debate. The Bill does not override the existing duties under the Equality Act 2010 regarding harassment and unlawful discrimination, nor the public sector equality duty and the prevent duty. Nor does it give anyone the right to be invited to speak at a university.
+
+There were also questions from Members on both sides of the House, including my hon. Friend the Member for Congleton (Fiona Bruce), on whether junior researchers and PhD students will be covered as academic staff. That was laid as an amendment by my right hon. Friend the Member for South Holland and The Deepings (Sir John Hayes). To clarify, the Bill uses the term “staff” to broaden the existing reference to employees, as not all those who work for a higher education provider have an employment contract or employee status. I can confirm that it will include those on short-term, casual contracts and PhD students undertaking teaching.
+
+I now turn to the Government amendments tabled in the name of my right hon. Friend the Secretary of State. New clause 2 and Government amendments 13 and 14 will impose a duty on the Office for Students to monitor the overseas funding of registered higher education providers and their constituent institutions, so as to enable it to assess the risk from such funding on freedom of speech and academic freedom. The duty will include a requirement to consider this in the context of a finding of a breach of new section A1 in clause 1. Higher education providers will be required to supply to the OfS information about overseas funding from certain individuals and organisations, with the details to be set out in regulations. The funding will cover not only the income that providers receive, but that of their constituent institutions, their members and their staff in their capacity as such. Similar provision will also apply to student unions. The OfS must include a summary of the information in its annual report, along with relevant patterns of concern.
+
+Our amendments are proportionate, but we must ensure that our higher education system remains world leading, safeguarding an environment in which freedom of speech and academic freedom can thrive.
+
+Dr Caroline Johnson (Sleaford and North Hykeham) (Con)
+The Secretary of State was escorted off the premises by security following his attendance to give a speech at one of our leading universities, after he was hassled. That was shameful behaviour, but that level of security is not available to everyone at all times. We need not just legislative change but a culture change, so that we accept that everyone with a different view is not a bad person and that there is not necessarily a right or wrong answer. What wider work are the Government are doing to instil that in younger children before they get to university?
+
+Michelle Donelan
+My hon. Friend is right. We need a cultural change, and legislation of this nature can spur such change. In our schools, we also need an environment of openness and frankness, and to grow that throughout the education system. I know that my colleagues in the Department are looking at this and will provide further guidance to support teachers shortly.
+
+I know and understand the concerns raised by hon. Members, including my right hon. Friends the Members for Hereford and South Herefordshire (Jesse Norman) and for Chingford and Woodford Green (Sir Iain Duncan Smith), and my hon. Friend the Member for Rutland and Melton (Alicia Kearns), which is why the Government are acting on new clause 3. I can confirm explicitly that the Government amendment will include educational partnerships, including Confucius institutes, and that the OfS will be able to impose a wide range of proportionate remedies as specific conditions of registration. That could include requiring a provider to make available alternative provision, or even to terminate a partnership if necessary to protect free speech. We will ask the OfS and its new director to make it clear that those are possible remedies in the guidance that will be published.
+
+We of course continue to welcome foreign investment and donations to higher education as a key part of supporting innovation and development, but the amendments will increase the transparency of overseas income by requiring granular data to be reported to the OfS. Our intention is to proscribe countries for the purpose of the amendment by mirroring the countries listed in the academic technology approval scheme, which will exclude countries such as our NATO and EU allies, as well as countries such as Japan. We also intend to set a threshold of £75,000 in regulations. Hon. Members should be assured that in each case the ability to make provision by way of regulations will allow us the flexibility to amend as appropriate.
+
+Alicia Kearns
+I thank my right hon. Friend for the significant time that she has invested in speaking to my colleagues and me about this. Can she confirm clearly that Confucius institutes will fall within the remit of the organisation she is discussing because of the grave concerns about their strangulation of freedom of speech and thought on British campuses?
+
+Michelle Donelan
+I can confirm that Confucius institutes fall within the scope of these proposals, as I have outlined, and I urge all universities to increase the choice that they provide to students in this regard.
+
+Sir Iain Duncan Smith (Chingford and Woodford Green) (Con)
+Following the intervention by my hon. Friend the Member for Rutland and Melton (Alicia Kearns), I wish to be assured on one point. Do the Government genuinely believe that the Confucius institutes pose a threat? Other Governments in the free world have banned the institutes from campuses, not only because they limit free speech, but because they have been involved in spying on Chinese students, especially those who show any kind of disregard for what China does. The institutes are very dangerous, and the issue goes wider than just the ability to shut down free speech: they are also reporting back about Chinese students, many of whom live in fear.
+
+Michelle Donelan
+Many countries have worked with their university sectors to enhance the choice on offer. For the first time, the Bill will give the OfS the power to act if free speech is in question, so it is radical in that sense.
+
+Dr Julian Lewis (New Forest East) (Con)
+I appreciate that the provision is mainly about free speech in UK universities, but does the Minister share my concern about the proposed £155 million gift from the billionaire chairwoman of a Vietnamese company to Linacre College, Oxford, a distinguished graduate college, on condition that the name of the college is changed to that of the chairwoman? Her company is extremely close to the Vietnamese Communist Government, where there is certainly very little freedom of speech. The Privy Council has to approve the change. Are the Government taking a view on the matter?
+
+Michelle Donelan
+I have recently been alerted to this issue and I am actively investigating it. I will update my right hon. Friend in coming days.
+
+Government amendments 3 and 4 and 6 to 10 make provision on the payment of security costs for events. The amendments place a duty on higher education providers, colleges and student unions not to pass on security costs unless in exceptional circumstances to secure freedom of speech within the law. The Government want to put an end to the practice of no-platforming by the back door, raised by many Members in Committee, including my right hon. Friend the Member for South Holland and The Deepings.
+
+I said then that I was listening, and the amendments address the concerns. We have seen reports that a student society faced a £500 security bill from Bristol University student union to allow the Israeli ambassador to give a talk, while charging nothing to allow his Palestinian counterpart to do the same. The Union of Jewish Students has reported to me that some Jewish societies have even been billed for security costs for having stalls at freshers’ fairs. That is outrageous. If a university has a culture on campus in which security is required for inviting routine speakers, it has a culture in which intimidation, threats and violence are seen as acceptable. That does not constitute promoting free speech. The solution is to stamp that unacceptable culture out and stop student societies paying the price for those who break the law.
+
+Government amendment 5 will change the coverage of college student unions, often called junior and middle common rooms. It makes it clear that the Bill does cover the activities of JCRs and MCRs, thereby clarifying the position.
+
+Government amendment 11 will make it clear that the OfS is not required to make a decision as to the extent to which a free speech complainant is justified if that complaint is then withdrawn. Government amendments 12 and 15 set out how publication under the scheme will work in relation to the more general publication provisions recently inserted into the Higher Education and Research Act 2017 by the Skills and Post-16 Education Act 2022. In particular, the Bill provides for absolute privilege against defamation claims arising from publication of OfS’s decisions under the complaints scheme, whereas the general provisions give qualified privilege to other publications. The absolute privilege matches the approach taken by Parliament to the complaints scheme run by the Office of the Independent Adjudicator for Higher Education.
+
+Government amendments 1, 2 and 16 will remove the express limitation on the definition of academic freedom that it covers only matters within an academic’s field of expertise. Once again, the Government have listened carefully to Members who raised issues in Committee, including my hon. Friend the Member for Congleton and my right hon. Friend the Member for South Holland and The Deepings.
+
+The Bill marks the Government delivering on our manifesto pledge, while listening and strengthening the Bill throughout.
+
+18:00:00
+
+Matt Western (Warwick and Leamington) (Lab)
+Before I discuss the amendments in my name, I will briefly reflect on the Bill Committee. Over three weeks, we debated some 80 amendments in a constructive spirit; I commend right hon. and hon. Members across the Committee who participated and contributed to what was at times an abstract debate, but an important one, about academic freedom and freedom of speech.
+
+Since the end of the Committee stage, some 300 days have elapsed and—nothing. Despite constant speculation about whether the Bill would fall victim to the Government’s own internal politics, it is finally on Report. The Opposition welcome that, but if I may say so, the Bill’s fragmented and bumpy ride through Parliament is emblematic of what observers widely consider a shoddy piece of legislation, at best unnecessary and at worst divisive.
+
+I wish to address the amendments in my name—new clause 4, on the director for freedom of speech and academic freedom; amendment 17, on the scope of academic freedom; amendment 18, which aims to recognise the competing freedoms in debates around freedom of speech; new clause 5, our proposed sunset clause; and amendments 19 and 20, which my hon. Friend the Member for Birmingham, Yardley (Jess Phillips) and I tabled on the prohibition of non-disclosure agreements—and the Government amendments.
+
+New clause 4 would ensure that the director for freedom of speech and academic freedom has not donated, and cannot donate, to a political party while in post. It would ensure that both Houses of Parliament and the relevant Select Committee have a say on the person appointed. It would also provide for the Secretary of State to set up an independent advisory panel to suggest a suitable candidate for appointment.
+
+Munira Wilson (Twickenham) (LD)
+I very much hope that when the Minister responds to new clause 4, she will acknowledge that the Government’s track record on appointments has not been strong of late. The High Court has ruled that the then Health Secretary did not comply with the public sector equality duty when he appointed the head of a new public health quango. The chair of the Charity Commission resigned just days after being confirmed in post. The search for the chair of Ofcom was rerun after Ministers’ recommendation was unsuccessful. Does my hon. Friend agree that the checks and balances in new clause 4 are vital to this important appointment?
+
+Matt Western
+The hon. Member is right. A pattern is clearly emerging, which I will describe and examine in due course.
+
+Having an Orwellian director for freedom of speech sounds like a contradiction in terms, but the appointee will certainly have sweeping powers. They alone will be responsible for making sure that universities and student unions are upholding their freedom of speech duties. They will act as judge, jury and executioner in free speech complaints and will potentially monitor overseas funding of universities and student unions. As job descriptions go, it is unprecedented. Incredibly, the job description is already out there, for anyone who is interested, with a £100,000 salary and a four-year term—I am not sure, Madam Deputy Speaker, but it could be on your horizon.
+
+New clause 4 should not be necessary, but in the context of this Government’s record on appointees, it most definitely is. Let us start at the very top of the tree. In February last year, Lord Wharton, a Conservative peer, was appointed as chair of the Office for Students. His appointment was something of a surprise to many; he himself admitted that he had no experience in the higher education sector. It seems that the only criterion for his appointment by this Government was that he had run the Prime Minister’s leadership campaign.
+
+Emma Hardy (Kingston upon Hull West and Hessle) (Lab)
+The standardisation provided by allowing a body such as a Select Committee to interview a person before appointing them to a role such as chair of Ofsted is common. The Minister knows that, because she was on the Education Committee with me when we did pre-appointment hearings, so it seems a little unusual that scrutiny is not seen as being as important in this aspect of education as in other areas.
+
+Matt Western
+My hon. Friend is absolutely right. We need more process, more transparency and an honest approach if we are to clean up our politics. I absolutely believe that that is what I would want any organisation to have. We must move away from what appears to be an increasingly transactional approach to these appointments.
+
+In return for his being appointed, Lord Wharton’s company GBMW Ltd made what is now referred to as a golden thank you for being handed the job by the Prime Minister: a donation to the Conservative party of £8,000. That is small change for him, given that he gets paid £60,000 for just two days’ work per week.
+
+Last month, we discovered that Lord Wharton had chosen to speak at the Conservative Political Action Conference in Hungary. It was a sell-out. In his speech, he endorsed Viktor Orbán’s far-right, autocratic regime—the regime that had forced George Soros’s Central European University to leave Budapest in 2019. So much for our champions of academic freedom! He also shared a platform with Zsolt Bayer, a television talk show host in Hungary who has been widely denounced for his aggressive racism; his grotesque comments do not bear repeating in this place.
+
+Despite widespread condemnation from student groups here such as the Union for Jewish Students, and cross-party calls for the Government to take action against the chair, it is telling that Ministers have so far refused to do so. That is important, because independence, propriety and accountability in public life absolutely matter. That is the point of new clause 4.
+
+It seems that the politicisation of the Office for Students has not stopped there. Three months ago, the Secretary of State appointed Rachel Houchen, the wife of the Tory Tees Valley Mayor Ben Houchen, as a non-executive director on the board of the Office for Students, despite her having no direct experience in the higher education sector.
+
+In that context, the comments made in Committee by one of the Government’s own witnesses, Professor Nigel Biggar, especially alarmed the Opposition. He agreed that
+
+“the Government…given the legislation…wants a director who has a certain partiality of that kind.”—[Official Report, Higher Education (Freedom of Speech) Public Bill Committee, 7 September 2021; c. 22, Q40.]
+
+Even the Government’s own witnesses fear that the appointment will not be impartial: Dr Arif Ahmed and others made the point that the person “has to be impartial”.
+
+In Committee, the Minister responded to a series of Opposition amendments by stating:
+
+“There is no need to set up the bureaucracy of a non-statutory advisory body, as suggested by the amendment. The OfS is independent of the Government, so to do so would simply duplicate its role as set out in the statute.”––[Official Report, Higher Education (Freedom of Speech) Public Bill Committee, 22 September 2021; c. 343.]
+
+Well, clearly not. If the appointments to the OfS are meant to reassure us that the director will be impartial, they have lost all credibility. I dare say that the Minister will repeat the same line today, as she has done—blind to any suggestion of improvement, not least because this morning her Department advertised for the position even though the Bill has not even had its Third Reading.
+
+Sir John Hayes (South Holland and The Deepings) (Con)
+The hon. Gentleman is right that we had a useful, productive and positive exchange in Committee. I just want to correct the record for him because, knowing him well, I know that he would never mislead the House except inadvertently. Dr Ahmed—Professor Ahmed, I should say—is an enthusiastic supporter of this legislation and an enthusiastic supporter of the idea of having someone to oversee it. What he emphasised in his evidence and subsequently is that there should be impartiality in the exercise of that person’s work. This was not, as the hon. Gentleman suggests it is, about Dr Ahmed in any way questioning either the custom or practice associated with this legislation.
+
+Matt Western
+The right hon. Member was very involved in the Committee, and I thought that his contributions were robust and helped the debate along. I do not mean to misrepresent what Professor Arif Ahmed may have said, and he did say that this should be impartial. However, it was clear from what was said by Professor Biggar that that will not be possible if the Government want to do what they have set out to do. This is the point that I was trying to make, and if I did not make it clearly I apologise, but I have certainly tried to put it back on the record now.
+
+Dr Dan Poulter (Central Suffolk and North Ipswich) (Con)
+Is the shadow Minister suggesting that by previous political association, someone can never be impartial in any possible future appointment?
+
+Matt Western
+I do not want to suggest that all people come from a position of partiality, but some are more partial—and overtly partial—than others. That was the whole point of what I tried to illustrate in the case of the chair of the Office for Students, who was clearly appointed according to the preference of the Government at the very highest level and the Prime Minister. I think that that surprise appointment, along with the appointment of the board member with no previous experience, is a further illustration of just how rabid this has become in our politics.
+
+Emma Hardy
+The issue of impartiality in the appointment process was debated in detail in Committee. We had a long debate about the job specification, the requirements, the importance of previous experience and the need to appoint someone with previous understanding of legislation and law, and the fact that the process needs to be impartial. When we appoint the new chair of Ofsted, we do so not on the basis of whom the Prime Minister of the day particularly likes, but on the basis of whether that person has the competencies that the job requires, and that is the point of our amendment. If such a person is to be appointed, we need the best person for the job, not the person who is most popular with the current Prime Minister.
+
+Matt Western
+My hon. Friend made some telling and constructive contributions in Committee, and I entirely agree with her. If we want the best from any system of higher education and its regulation, competencies must be at the heart of that.
+
+Have a look through the job description for the director for freedom of speech, Madam Deputy Speaker. Four or five specified qualities are sought. It is worth a read, and indeed I am thinking of possibly putting in for the job. What is most surprising of all—this arose both in the Bill Committee and during our witness sessions, as my hon. Friend and others will doubtless recall—is that despite the overriding impression that, given the sensitivity and importance involved and given how delicate some of these cases will become, legal experience would be a necessity, there is no requirement for that legal expertise. We must make the process involved in any public appointment much more robust, but that applies particularly to the appointment to a position as sensitive and delicate as overseeing freedom of speech on our campuses.
+
+Sir Iain Duncan Smith (Chingford and Woodford Green) (Con)
+The hon. Gentleman just came out with the throwaway line that he was thinking of applying for the job. Well, good luck to him, but do his own words not rule him out? If he is a member or supporter of any political party, he is by definition no longer impartial. I find that a ludicrous statement, by the way, as I would happily see members of the Labour party chair things because I would consider that they would be impartial, but the hon. Gentleman obviously does not.
+
+Matt Western
+Of course it was a throwaway line, but the job does pay £100,000. Perhaps the right hon. Gentleman has a second job, but I do not, unlike so many on the Government Benches who may have second jobs. It goes without saying, in my book, that that person should resign if he or she is a member of a political party—that a person in such a sensitive role should be seen to be unalloyed by association, because perception is so important in this context. Of course I made that remark in jest, but it does seem to be a staggering amount of money that the Government are throwing at this post.
+
+18:15:00
+
+Let me now move on. The sector expects those leading the Office for Students to be credible. If we really are to have a director for free speech, a person tasked with the job of settling contentious cases, it is in all our interests for that person to have a broad understanding of the sector, the legal framework around free speech to which I have referred, and the sector’s regulatory framework, but those elements are apparently not included in this job description. Such considerations would endow the director with greater legitimacy and authority, especially if he or she is to command the confidence of the Select Committee and both Houses. In short, new clause 4 is a common-sense amendment prioritising independence, accountability, and authority over top-down, partisan decision making.
+
+Amendment 17, also tabled in my name, touches on one of the central tenets of the Bill, namely academic freedom. This can clearly be a fluid concept that has different meanings for different people in different contexts. Before I speak to that amendment, however, I want to address Government amendments 1, 2 and 16, which would remove the words
+
+“and within their field of expertise”
+
+from the definition of academic freedom. Although, both on Second Reading and in Committee, we expressed our concerns and those of the sector about how the Bill in its current form would in fact curtail academic freedom, only now have the Government moved on this. It is a shame that it took them just shy of 400 days to sit up and take note. Perhaps that demonstrates not just the disdain that Ministers show to academics and teaching staff, but their failure to appreciate the nature of our rightly admired, polymathic academic environment. Amendment 17, however, gives Ministers and the Conservative party an opportunity to demonstrate the extent of their support for academics.
+
+Labour’s second amendment is partly inspired by part VI of the UNESCO definition of academic freedom. In the UNESCO definition, the concept of academic freedom is broken down into five parts: freedom of teaching and discussion, freedom to research and publish the results thereof, freedom for higher education teaching staff to express their opinion about the institution or system in which they work, freedom from institutional censorship, and freedom to participate in professional or representative academic bodies.
+
+Let me briefly address the issue of research. Evidence submitted to the Public Bill Committee, notably by Professor Stephen Whittle, highlighted instances in which some universities have blocked research that they deemed too controversial. While such cases are few and far between—partly owing to the Government-encouraged marketisation of the sector and the promotion of students as customers—I see no reason why the research interests of academics should not be protected under the definition of academic freedom. That said, academics are employees of higher education providers, institutions that will always require an academic to deliver teaching and research that satisfy the needs of students.
+
+It is also important to link academic freedom to internationally recognised standards, given the Government’s stated desire to rip up the Human Rights Act. Before the Minister tabled an amendment to remove the words
+
+“and within their field of expertise”,
+
+coupled with plans to repeal the Human Rights Act, that would have left academics less protected than those in Europe. Nothing can be more important in this Bill than the scope of academic freedom, and that is why Labour’s amendment is so vital. Protecting academic freedom goes beyond partisan political lines, as it provides a solid basis on which academics feel secure enough to test and challenge perceived wisdom. I urge Conservative Members to consider the interests of academics, and to support our amendment this evening.
+
+I now want to turn to amendment 18, which recognises that in many cases where freedom of speech is called into question there are competing freedoms at play. It would therefore require the director to consider the right of students to feel safe, along with other legal duties of the provider when reaching a decision about a particular case. The Minister herself acknowledged on Radio 4 that the Bill emboldens holocaust deniers and other purveyors of hate speech by giving them the power to make vexatious complaints against universities. Invariably, there are competing interests at stake when speakers are invited on to our campuses.
+
+Freedom of speech is not a trump card. Students also have a right not to be harassed, a right not to be subjected to hate speech and, perhaps most importantly, a right to protest. The right for students to feel safe on campus sometimes requires greater protection than that afforded to them under the Equality Act, especially in instances of reprehensible but lawful speech, such as holocaust denial. Professor Stephen Whittle from Manchester Metropolitan University acknowledged as much in the Bill Committee, recognising that the Equality Act would afford protection only if the speech were directly addressed to the complainant. That is important because front groups such as Hizb ut-Tahrir, which is not a proscribed organisation but which often espouses antisemitic views, could come on to campus under the guise of freedom of speech. That point was not lost on the director of the Antisemitism Policy Trust, Danny Stone, who views it as a “real concern”. In such cases, the right of students—in this example, Jewish students—to feel safe on campus clearly must be considered. The Minister’s approach to the sensitive issues reported in the press overlooks those competing freedoms. It is perhaps a symptom of the Government’s singular desire to
+
+“create political and cultural dividing lines mainly for”—
+
+their—
+
+“advantage”.
+
+Those are not my words but those of the right hon. Member for Hereford and South Herefordshire (Jesse Norman).
+
+I want to turn briefly to new clause 5. It would introduce a sunset clause to the Bill, ensuring that it expired after three years, and provides for clauses to be removed if they are not working. The new clause does not deny the importance of freedom of speech or academic freedom, or our commitment on this side of the House to both. It addresses the flimsy evidence base underpinning the Bill. Last week at the Higher Education Policy Institute annual conference, the Minister struggled to provide concrete evidence to show that there was a freedom of speech crisis in our universities, other than anecdotes and what she believed to be true.
+
+Michelle Donelan
+You were not even there.
+
+Matt Western
+I read every word. I read them with interest.
+
+Only last week, the HEPI student academic experience survey revealed that a majority of students—64%—either agreed or agreed strongly with the statement:
+
+“I feel comfortable expressing my viewpoint, even if my peers do not agree with me”.
+
+Only 14% disagreed.
+
+Kim Johnson (Liverpool, Riverside) (Lab)
+Does my hon. Friend agree that the legislation is totally unnecessary and divisive, with little evidence to support the Government’s position that there has been a rise in intolerance and a creeping culture of censorship? The Office for Students’ own data showed that out of 10,000 events with external speakers, only six were cancelled.
+
+Matt Western
+I thank my hon. Friend for her contribution. Yes, there are issues out there, but that is about the scale of it. That is what has been uncovered in the surveys and analysis done by the Office for Students and by others. The scale is being exaggerated by the Government in order to make this legislation. It would be nonsensical to ignore shifting attitudes, and new clause 5 would allow for well-informed public policy guided by evidence rather than by Ministers’ latest lightning rod of choice.
+
+Our amendments 19 and 20 would ensure that non-disclosure agreements or confidentiality agreements between those listed in the Bill and higher education providers did not inhibit freedom of speech, save where it was expressly agreed to between the parties to protect intellectual property. I will defer to my hon. Friend the Member for Birmingham, Yardley, with whom I have tabled amendment 19, to explore that further. She is a tireless campaigner on the issue and I commend her work in bringing it to the House’s attention on Report. I hope that the Minister, who has previously stated her commitment to stamp out that practice, will take on board our suggestions.
+
+Finally, I would like to take this opportunity to push the Minister on some of the finer points of the Government amendments. The illegal invasion of Ukraine by Russia has rightly thrown a spotlight on the source of foreign investment and money in our public institutions. The misguided “golden era” ushered in by David Cameron and George Osborne in 2015, in which foreign nation states acquired substantial control over key parts of our national infrastructure, must come to an end.
+
+The Government’s new clause 2 is much preferable to new clause 1, tabled by Conservative Back Benchers, particularly on the risk-based approach of the Government’s suggestion, but I have some concerns about new clause 2’s practical effect. The Minister suggests that it is her stated aim to reduce the data burden in the higher education sector. It is for that reason that I am interested in ascertaining how the new clause will be both proportionate and balanced. For example, the threshold at which providers have to report foreign donations is set to be determined by the Secretary of State in regulations, so it is disappointing that once again the Minister seemingly chose to brief it to The Times that the threshold would be set at £75,000—as she mentioned earlier—rather than allow the House to have a meaningful debate on what is appropriate. This is not on the face of the Bill. Interestingly, when we contrast this to the reporting threshold in the United States, which is $250,000—just over the equivalent of £200,000—the Government seem at risk of disincentivising foreign investment by implementing additional bureaucratic burdens.
+
+I am also concerned about the scope of new clause 2, and I would be grateful if the Minister could expand a bit more on what is meant by “constituent institutions.” How much direct control does a higher education provider need to have over a constituent institution for it to fall under the remit of the new clause? For example, would Cambridge University Press be covered? My hon. Friend the Member for Cambridge (Daniel Zeichner) referred to that earlier. Relatedly, some of the requirements in the new clause are quite technical and may require fine judgment. It is likely that the value of non-monetary benefits—human capital and access to data, for example—will be difficult to ascertain. Could the Minister therefore detail what steps she is taking to ensure that universities are supported in determining the value of the partnerships they sign?
+
+The Government’s proposal hands the responsibility for the new clause to the director for freedom of speech, making the director’s appointment all the more important. This adds further justification to our new clause 4, and I hope that Conservative MPs will consider that when they go through the Lobby later. Given that the regulator has limited prior experience of dealing with research partnerships or commercial arrangements, what additional resources will be provided to the OfS to handle this new responsibility?
+
+Labour has tabled some important amendments in the same manner and spirit as we did in Committee. Let us remember that we debated a staggering 80-plus amendments in Committee at that time—it is a 19-page report—and now we have these few. Such a number would seem to underline just what a big dog’s breakfast the legislation is, and I am sure that those in the other place will spend many an hour realising what poor quality red meat lies at the bottom of it.
+
+Sir Iain Duncan Smith
+I am grateful to be called to speak so early, Madam Deputy Speaker. I want to focus my comments on new clause 3, tabled by my hon. Friend the Member for Rutland and Melton (Alicia Kearns) and signed by myself and others. The issue that I wish to touch on is the behaviour of some universities with regard to funding from countries that have the exact opposite view from ours on how freedom of speech should work. It was suggested earlier that we should be very careful about trying to insert ourselves into the funding of universities, but I think to the contrary to some degree, and I shall raise a case relating to that. I believe that when money is accepted from countries whose purpose is to undermine the nature of how we live our lives—including in regards to freedom of speech—that helps to pervert the processes of the institutions and universities.
+
+One important question is whether there is a weakness in the Bill in one particular area, and that is to do with the Confucius Institute. I do not apologise for naming that particular organisation, because countries such as Germany, the United States and others that are quite close to us have already decided that that institute is not based around learning and academia and that it is in fact set up for an ulterior purpose, which is essentially to bully Chinese students in particular, but even other students, and to report back on the behaviour of many Chinese students studying in British universities. This has been evidenced in a number of countries. I would therefore have liked to see the UK Government, in line with this amendment and national security, take the power to stop such organisations where there is clear and compelling evidence that their purpose is not the stated purpose of delivering Chinese language and cultural instruction but enabling the Chinese Government to understand who is saying the right things and who is saying the wrong things.
+
+To that extent, the Confucius institutes have even inserted themselves into schools. Many Confucius institutes have developed strong ties with local schools, and their provision of language assistance is seen as a very high-value contribution. It starts early now, and it extends.
+
+18:30:00
+
+Jess Phillips (Birmingham, Yardley) (Lab)
+The right hon. Gentleman is educating me. I have similar concerns in my constituency and across Birmingham. In recent weeks and months we have seen a huge resettlement of people from Hong Kong, and I want children to feel completely and utterly safe in their school environment.
+
+Sir Iain Duncan Smith
+The hon. Lady is right that a lot of Hong Kong citizens have come to the UK, and I embrace them all. I set up the Inter-Parliamentary Alliance on China, which has co-chairs on the left and right from 25 countries and many other members from Parliaments around the world, all of whom agree that the Confucius institutes pose a genuine threat. The fear factor means that many students of Chinese origin will not take part in debates because they genuinely fear the repercussions for themselves and their families when they go home. We cannot overestimate the power of organisations that represent a Government as intolerant and dictatorial as the Chinese Government. The UK Government have been slow to act on what is now clear evidence.
+
+My right hon. Friend the Minister said the Bill will deal with the situation, and that the Office for Students will be able to take action where necessary, but I would like the Government to reserve that power to themselves as they understand the security issues in this narrow but very particular area.
+
+Tim Loughton (East Worthing and Shoreham) (Con)
+My right hon. Friend slightly understates the position in universities. He will be aware that Chinese students now account for some £2 billion of revenue for British universities, nine of which, mostly in the Russell Group, get 20% of their revenue from Chinese students.
+
+There is now clear evidence that, through 30 Confucius institutes and beyond, undue influence is being exercised by Chinese students at the behest of China’s communist Government. The CGTN television station, which was fortunately taken off air by Ofcom, targeted British universities and offered students the chance to win thousands of pounds by becoming pro-Beijing social media influencers. Chinese students turned out to overturn freedom of speech and other motions in student union debates at China’s behest. Dangerous stuff is happening under our nose. We need complete transparency about exactly what is happening, and we need legislation to make sure it does not continue as it is.
+
+Sir Iain Duncan Smith
+I completely agree with my hon. Friend. He and I are both members of IPAC, and we have seen all this ourselves. Colleagues on both sides of the House are involved in IPAC, and there is compelling evidence of the Chinese Government’s growing influence on British academia through various organisations. Many do not recognise it. We have had meetings with Russell Group universities and individual colleges—I will address one in particular—in which we have explained this. Many had not really thought about it but, on reflection, realised there was a problem and that they had to start diversifying. One or two arrogantly refused point blank to admit or even accept the situation.
+
+Jesus College, Cambridge has been incredibly deliberate and arrogant, which is why the Government need to go further. The Jesus College Global Issues Dialogue Centre received a grant of £200,000 from the Chinese state in 2018 through its National Development and Reform Commission. The Jesus College China Centre also has close financial and organisational links with the Cambridge China Development Trust, which is funded by the Chinese state. The CCDT donated £80,000 to the Jesus College China Centre over three years, and they share the same director. CCDT funding has been used to fund the Jesus College China Centre’s doctorships, scholarships, administrative support and seminars.
+
+Jesus College received £155,000 of funding from Huawei in 2018. We have banned Huawei from our telecoms system because it is a security risk, yet it has set up a huge centre in and around Cambridge. For what purpose? To get in through the back door.
+
+The GIDC’s white paper on global technology governance claimed an equivalence between the Chinese Government’s mass online censorship regime and the UK Government’s attempts to eradicate child abuse online—that is the key. The same paper falsely claimed that Huawei had freely shared all its intellectual property on 5G technology, leading the college to be accused of “reputation laundering.”
+
+To those who say that money does not have an impact, I say, “Oh yes it does.” When money is repeatedly on offer, it tends to bend institutions towards the idea of having that extra money. I understand their concerns and their need for financial support, but the Government need to take this seriously.
+
+The Chinese Government are committing genocide and using slave labour to produce goods in Xinjiang, and technology derived from UK universities is being used to spy on those slave labour camps. China is also using slave labour in Tibet, and it is imposing itself and locking up peaceful democracy campaigners in Hong Kong.
+
+We rightly talk of free speech and the importance of our young people developing an instinct for argument, debate and balance, but these are lost to China and Chinese students, who are fearful when they come here. I accept that the Government think they have this covered, but I wish they would look again.
+
+I congratulate my hon. Friend the Member for Rutland and Melton enormously on tabling new clause 3. If the Bill is not tightened up to that degree, many of us on the left and the right of politics will ensure in the other place that these abuses cannot happen. The lives of Chinese students and Chinese people more widely remain our responsibility. If freedom of speech is the subject of our debate, we should cry for how damaged and destroyed it is elsewhere.
+
+Jess Phillips
+It is an honour to follow the right hon. Member for Chingford and Woodford Green (Sir Iain Duncan Smith). I fear that Cambridge University will not come out well from my speech either.
+
+The debate is about freedom of speech on campus. My hon. Friend the Member for Liverpool, Riverside (Kim Johnson) pointed to six cancellations—in my view, that is six too many—but I am going to talk about the silencing in non-disclosure agreements, which thousands of people are suffering from.
+
+We know that the data on violence and abuse, and certainly on sexual violence, is a tiny fraction of the reality, but even that data shows that millions of pounds are being spent on this issue. The amendment tabled in my name and that of my hon. Friend and near neighbour the Member for Warwick and Leamington (Matt Western), would stop young men and women—including university staff—being prevented from speaking about their experiences on campus. That is what this is all about, isn’t it? It is about people being able to talk about their lives, experiences, beliefs and freedoms on campus. Currently, we are all sitting by while that section of the community, who may have been raped on campus, bullied, harassed or racially abused, can be silenced by that very institution and cannot speak about it at all. I am going to talk about those people.
+
+Horrendous examples of silencing have been reported in the press. Brave women have spoken out even though they know the risks. According to one student, her university imposed a “blanket gagging order” on her after she alleged she was violently raped by another undergraduate. The victim claimed she was warned she would be expelled if she went to the press to report this violence or to talk about the college procedures. That gives you a clue as to where some of these people are from, because I said the word “college”; most other universities do not say that. The non-disclosure agreement was imposed. Apparently, the college had tried
+
+“desperately to convince her not to complain”
+
+and she had
+
+“lost count of the members of staff who tried to silence, scare, threaten and undermine”
+
+her.
+
+According to an investigation by the magazine Elle, a student alleged she was sexually assaulted and then endured terrible treatment from the university relating to her claim of violence. Post-graduation, she complained to the university about how it had handled her situation. She was eventually offered £1,000 compensation, without any admission of wrongdoing, and with a non-disclosure agreement to prevent her from talking about it. The student, exhausted by her experiences, signed the NDA.
+
+Dr Lewis
+rose—
+
+Alicia Kearns
+rose—
+
+Jess Phillips
+It does not seem very feminist, but I will give way to the right hon. Gentleman.
+
+Dr Lewis
+I have not heard of this case before. Did the student not go to the police? If she did, what happened?
+
+Jess Phillips
+I almost wish for the right hon. Gentleman’s sake that I had taken the other intervention. Has he seen the figures on police rape recording and reporting? In the first instance that I was talking about, the individual absolutely went to the police. Of the 66,000 women—I am speaking only about women now; there will have been more—who came forward and said that they had been raped last year, a charge will have been faced in about 600 of those cases; and then look at the number of convictions. Are we expecting our institutions, our workplaces, our university institutions not to have a role to play in supporting people when that has happened? As I am sure the right hon. Gentleman know, the balance of probability has a different relation to civil law than criminal law, so the idea that if a woman did not go the police she should not be allowed to complain to her institution is not one that I recognise and it is not one that this House recognised when we set up an independent complaints system. However, what often gets said to women when they come forward to their employer, to their institution, is, “Why didn’t you tell the police?”
+
+18:45:00
+
+Alicia Kearns
+I rise to urge the hon. Lady to name the institutions, because this Bill is about freedom of choice and of speech. I know that if I were a 17 or 18-year-old girl choosing university again, I would actively choose not to attend colleges or universities where I knew they might force an NDA on me if I was raped.
+
+Jess Phillips
+I will absolutely come on to naming some of those institutions. As I said, this was found by Elle magazine, which is collecting this data, unlike the Government at the moment. The article said the student claimed this arrangement felt
+
+“worse than the assault—Dealing with this abuse of power was far more traumatic. It was emotionally exhausting and humiliating.”
+
+Earlier this year, the Express took a day off from talking about Princess Diana and its investigation revealed that more than 3,500 cases of assault were reported in 78 institutions in the UK in the last five years. The figure consists of confirmed cases of sexual violence and disclosures made by both staff and students pending investigation. The 135 freedom of information requests sent to every university in the UK also revealed that many do not record figures of sexual assaults, so the overall number is likely to be much higher. So it is, “Just don’t record it and then it doesn’t happen.”
+
+In 2020, a BBC investigation found that over 300 NDAs were used by universities in student complaints between 2016 and 2020, and that almost a third of all universities in England had used such deals in these circumstances. The probe discovered that universities had paid out £1.3 million on these deals, although the true scale is thought to be much larger. The campaign Can’t Buy My Silence was started by the brilliant and formidable Zelda Perkins, once an assistant to Harvey Weinstein and someone who had an NDA imposed on her related to his crimes, and Professor Julie Macfarlane. Their campaign has survivors’ testimony reporting that NDAs had gagged them from speaking of their experiences with family or loved ones, or even their therapists. I pay tribute to them and the work they are doing alongside the Minister, whom I know speaks to them. However, like me, they agree that legislation is necessary to tackle this.
+
+So far, 66 universities have signed the Government’s pledge. I made this speech on Second Reading and since then the Government added “looking at non-disclosure agreements” into the violence against women and girls strategy, which was published late at the end of last year. I stand here in complete respect for the Minister. She has sought to do what she can to improve the situation. She has worked with the campaigns that I have talked about to get universities signing pledges. She is working with the Office for Students to look at regulation and at what needs to happen if these things are breached. Every Member of Parliament will have had to try to get a regulator to do something about their bad cases, and we are here with universities signing “pledges”. I do not know how we are going to know whether they are breaking their pledge if people have been gagged.
+
+So far, 66 universities have signed the Government’s pledge. That is great, but why haven’t the others? I encourage every university to do this. There are over 130 universities in the UK. What about those students? What about their right to speak out? As the hon. Member for Rutland and Melton (Alicia Kearns) pointed out, she would want to hear about this. I am not going to list all the universities that have not signed it, but here are some: the University of Cambridge, King’s College London, the London School of Economics, the University of Wolverhampton and the University of Sunderland. That is just to name a few. Perhaps it is taking time and perhaps they are getting around to it. I very much encourage them to do it.
+
+Just to show the House what I am talking about, I have an example here of one of these NDAs. This is the kind of thing that students are asked to do. It is not necessarily called a non-disclosure agreement, and that is a way out of this; the right hon. Member for Basingstoke (Dame Maria Miller) and I often challenge organisations when they say they do not have NDAs, because we have them in our inboxes and they call them something else. They will call them a “confidentiality agreement”. In lots of cases in universities we have seen the growth of “no contact arrangements”.
+
+I will read this agreement out—this is from the university. It says, “We recognise the sensitive nature of the allegation involved. In consideration of our duty of care to both parties, we have therefore concluded that in the interest of both parties a non-contact arrangement is required.” This young woman who had been raped was told, exactly as the person accused of raping her was told, that she had to stay out of certain places; she could not go to certain things at certain times. She was told that she, “Is not to enter the building”, that her, “Fob access will be disabled” and that she is, “Not to enter the building unless for tutorials and classes notified in advance.” She is told, “Fob access will be disabled unless we have had advance notification”—this is a rape victim being told that she has to report to a guard so that she can go to her classes. She is also told, “You are asked not to make any information about these allegations, the police investigation or the safeguarding arrangements that we have made available on any form of public media”—so she should not talk about this document. Finally, she is told, “Evidence of repeated breaches of this arrangement and/or a serious breach of conditions—entering an embargoed building or publishing material in the press—will result in your expulsion.” That is from one of the finest universities in the world.
+
+This is about people’s silence, but not just their silence; it is about their movement, their freedom and every element of their freedom of expression being stopped. Yet there is nothing in the Bill about freedom of speech,  freedom of expression or freedom to study. There is nothing that the Government are proposing to do or to put in legislation. I simply do not understand why they would not have taken this opportunity to do something.
+
+I met the Minister last week and, as I said, I do not doubt her total and utter commitment. Incidentally, she said earlier that “legislation of this nature can spur culture change.” Yet she told me last week that legislation is not always the answer—[Interruption.] I will take the intervention, by all means. No? Okay. She also explained to me that the Office for Students is looking at regulation to, for example, take away the status of a university if it is guilty of a breach. I responded—and I say again—that the idea that a rape victim who has signed a non-disclosure agreement will take down Cambridge University is the stuff of cinematic hopeful glory. I will believe that when I see it, which everybody in this building knows will be never. Why would we want to push universities and victims into that position? Why would we not legislate to stop the use of non-disclosure agreements?
+
+John McDonnell (Hayes and Harlington) (Lab)
+I do not want to spoil the flow of my hon. Friend’s incredibly eloquent speech, but non-disclosure agreements not only apply to students but are used extensively with staff. When we have discussed this issue before, the argument has been that there is sufficient employment law to deal with these matters. There clearly is not, because it does not reflect the balance of forces between employer and employee and the delays that take place. Surely we must legislate to scrap NDAs altogether, and the first step could be the inclusion of my hon. Friend’s amendment in the Bill.
+
+Jess Phillips
+I absolutely agree, and the amendment clearly covers staff being able to talk about their experiences. The Minister cited a member of staff who felt compelled to leave their employment because of what the Minister rightly pointed out was bullying. Had that member of staff signed a non-disclosure agreement, the Minister would never have been able to talk about them, and nor would that particular employee of that particular university. We would not even know what had happened. Had a non-disclosure agreement been signed in that case, which was, I believe, at the University of Sussex, the Minister would not have had her helpful example.
+
+I took part in a debate on the television the other day about freedom of speech. A Government Member of Parliament, who I like and respect, turned to me and said, “The thing is, Jess, that no one can be forced to sign a non-disclosure agreement”—I just said my own name. Is that allowed? I don’t have to refer to myself as the hon. Member for Birmingham, Yardley?
+
+Dr Lewis
+It was a quote.
+
+Jess Phillips
+Yes, that’s right.
+
+That Government Member said, “You can’t be forced to sign”, but that is to totally misunderstand the power imbalance. Someone might have worked hard and be the first in their family to go to university. They might have studied and done everything they could, because they wanted to go and make something of themselves. They might get into an institution that they are proud to say they are from. The fact that they could be raped on that campus by another student and complain, but then be threatened that they will be expelled if they speak out points to an enormous power imbalance. It is something that this House should legislate on for the sake of freedom of speech.
+
+I welcome the Minister saying that she will take the proposals away, listen and perhaps do something in the House of Lords later in the process, but under this Bill, without our amendments, if a woman or a man, whether staff or student, is raped on campus, that person’s freedom of speech will be completely and utterly denied on campus and outside, and we would do nothing about it. Freedom of speech surely has to mean freedom of speech for all.
+
+Sir John Hayes
+Benjamin Disraeli said:
+
+“Upon the education of the people…the fate of this country depends.”
+
+That greatest of Conservative Prime Ministers went on to say:
+
+“A university should be a place of life, of liberty and of learning.”
+
+However, if the flame of liberty is to burn brightly, and if the university sector is to be a beacon of learning, we must face up to the fact that, in many of our universities, freedom of speech is in jeopardy, censorship is happening as we speak tonight, and academics and students feel intimidated by that censorship.
+
+We know that from the evidence that the Bill Committee heard from academics on the frontline of that struggle. The shadow Minister, the hon. Member for Warwick and Leamington (Matt Western), quoted Professor Arif Ahmed, who was clear that there is a series of means by which universities restrict and limit freedom of speech. He said:
+
+“what I mean is universities placing formal obstacles in the way of people saying things that are perfectly legal.”––[Official Report, Higher Education (Freedom of Speech) Public Bill Committee, 7 September 2021; c. 13, Q22.]
+
+He went on to say, quoting the Universities and Colleges Union survey of 2017, that
+
+“35% of academics self-censor”––[Official Report, Higher Education (Freedom of Speech) Public Bill Committee, 7 September 2021; c. 16, Q27.]
+
+because they are nervous about saying what they truly believe; the number of students doing so is probably even greater. The truth is that there is a tyrannical minority in universities, among the academic staff and in the student body, who do not believe that universities are places of light, liberty and learning; instead, they think that universities should limit free speech.
+
+I find it hard to understand why Opposition Members such as the hon. Member for Kingston upon Hull West and Hessle (Emma Hardy), whom I respect greatly, and the hon. Member for Warwick and Leamington, with whom I have—I was going to say “collaborated”, but that makes me sound rather like a fifth columnist—co-operated in this place on many subjects, oppose a Bill designed to reinforce precisely the freedoms that are essential to an open society. I thought about that and cogitated on how it could be that such decent and honourable people—I include the hon. Member for Cambridge (Daniel Zeichner) as well—could do this.
+
+In doing so, I should draw the attention of the House to my entry in the Register of Members’ Financial Interests in respect of higher education, as I did perpetually and—some people felt—relentlessly during the previous stages of our consideration of the Bill. By the way, I stimulated a number of others to do the same, and I have no doubt that they will want to chip in on a similar basis this evening.
+
+The conclusion I drew, having thought about it, was that those decent people on the Labour Benches who certainly believe in free speech and the exchange of honestly held opinion find that hard to reconcile with a zeitgeist that is preoccupied with a fear of causing offence. We are perpetually told now that because we must not make people feel uncomfortable, we must not offend them. We in this House know, do we not, that the ability to alarm is closely associated with the ability to inspire, that the ability to disturb is intrinsically linked with the ability to enthral, and that even the capacity to shock is necessary in the development and exposure of new ideas and fresh thinking?
+
+Emma Hardy
+rose—
+
+Sir John Hayes
+Having said such nice things about the hon. Lady, it would be extremely impolite of me not to give way.
+
+19:00:00
+
+Emma Hardy
+I say to the right hon. Member that, as Bill Committees go, it was a very enjoyable one. I thank him for being one of the few Conservative Members who listens to the contributions. On the point he is making, it is not about disagreeing with this idea of shocking people or of having different opinions; the fundamental problem, as I have said repeatedly, is how this piece of legislation interacts with existing legislation already in place. How does this interact with equality legislation? How does this interact with other existing pieces of legislation? My concern is further developed when I see the person who is making the decision on how these different pieces of legislation interact with each other. It is, as has been mentioned—and this is the reason for new clause 4—somebody appointed by the Prime Minister of the day, which then leads to all those issues around impartiality of process. We have a situation here where we have a piece of legislation that almost buts up against existing equality legislation, but it is not quite clear how their processes will rub together, yet there is no specification that the person making the decisions has to have legal experience or knowledge; they are instead a political appointment. That is where we have the difficulty—it is not with freedom of speech, but with the legislation itself.
+
+Sir John Hayes
+At the risk of putting our professional association in jeopardy, I say to the hon. Lady that I agree with her. I agree that the Government need to look at the equality legislation. I note the Attorney General’s recent comments that, as well as unpicking the Human Rights Act 1998, which we certainly should do without delay, we need to revisit the Equality Act 2010 and the rest of the long tail of Blairism. The hon. Lady is right that some of that unfortunate legislation on the statute book is inhibiting much of the very good work that the Government are trying to do. In particular, she is right—this was raised in Committee by me and others—that the Government need to be very clear that this legislation can be squared with other statute and, so the means by which it might be challenged.
+
+Emma Hardy
+I think it might also be worth the Government having a look at the recent legislation that they have already passed on the Police, Crime, Sentencing and Courts Act 2022 and the issues around protest and free speech. We could end up with a situation where free speech is the preserve of students who attend university, but those outside university will have their free speech limited unless they are very, very quiet and do not protest too loudly. We could end up with more conflict, with one part of the Government saying one thing in terms of restricting protest, and another part of the Government saying something else about supporting free speech. It is fair to say that having this Bill along with existing and proposed legislation will create a muddle.
+
+Sir John Hayes
+We are dealing with a complex subject. Free speech by its very nature means people saying all kinds of things in all kinds of ways about all kinds of subjects. The hon. Lady is right that there will be tensions to be settled, which is precisely why the Government have put in place mechanisms to do that. They are going to appoint, as was said earlier, an office with responsibility for ensuring that this Bill’s intentions and provisions are applied consistently. The Government acknowledge the difficulties that she has highlighted, which is precisely why they are putting in place a person and team to do exactly that.
+
+Dr Julian Lewis
+rose—
+
+Sir John Hayes
+I can see that my right hon. Friend is about to make an erudite intervention.
+
+Dr Lewis
+You can always hope, Mr Deputy Speaker.
+
+Does my right hon. Friend not feel as I do that the interventions that he has just taken show that perhaps the diminutions on free speech have already spread into other areas of legislation rather further than he and I would like them to have done?
+
+Sir John Hayes
+I agree entirely, which is precisely why this Bill is so welcome, but it needs to be part of a bigger programme of work by the Government to do what I described earlier, which is to unpick some of the legacy of the dark days of Blairism and the impact that that has had on all kinds of aspects of our wellbeing. My hon. Friend is right. This Bill is significant, but modest, so let it be the beginning of a crusade to establish freedom as the default position across all our legislative considerations in exactly the way—with erudition and diligence, matched by experience—that my right hon. Friend illustrates.
+
+Free speech is complex and, in the words of the hon. Member for Warwick and Leamington, may be seen as an abstraction, but if it is an abstraction, it is one that is essential for the wellbeing of our free society, for it is at the very heart of what an open society is all about. The ability to say things which, as I said earlier, alarm, disturb, or even shock, and hear things with which we disagree is the very nature of what good universities are all about. I fear that that is jeopardised by some of the thinking that permeates universities, particularly university leaders and managers. For example, Professor Ahmed also spoke of
+
+“issues to do with race, with transgender, and with Israel and Palestine on which they were simply unwilling to say what they thought”––[Official Report, Higher Education (Freedom of Speech) Public Bill Committee, 7 September 2021; c. 13, Q22.]
+
+people fear the consequences of doing so. It is not just those issues, although those are notable among the list of things that people now regard as beyond the scope of free and open debate.
+
+Miriam Cates (Penistone and Stocksbridge) (Con)
+My right hon. Friend is making an excellent speech. Does he not agree that much of the controversy surrounding this Bill comes from a conflation of physical safety with emotional and intellectual safety? Although students should have the right to be physically safe on campus, there is no right to feel safe and, as he rightly says, universities are the place where we should feel emotionally and intellectually challenged and, perhaps, unsafe at times.
+
+Sir John Hayes
+Burke said, as you well know, Mr Deputy Speaker:
+
+“He that struggles with us strengthens our nerves, and sharpens our skill. Our antagonist is our helper.”
+
+Part of developing intellectually and personally, particularly for young people at university—we should not assume that only young people go to university—is exactly that. It is being stimulated, sometimes being excited, sometimes being challenged and, yes, sometimes being offended. I am often offended in this Chamber by all kinds of things, and not always things that I hear from those on the Opposition Benches.
+
+Emma Hardy
+Even if the right hon. Gentleman is offended, he is never offensive, so I always enjoy debating with him. On the issue of the need to challenge and to shock, there is always a line to be drawn somewhere. In Committee we talked about the offensiveness of holocaust denial. Okay, there is not a physical threat from holocaust denial, but I think that we would all agree that it is very offensive and it is therefore very hurtful. A line will always have to be drawn when it comes to free speech, but we have the difficulty, which I keep going back to, of who makes the decision on where that line is drawn—what experience do they have, what criteria is set, what is their knowledge, and what is their understanding of the subject. Having the right person at the top is important. I am sure that the right hon. Member will accept that, yes, someone might want to offend, to shock or to stimulate discussion, but there is always a point at which we say, “No, that is not intellectual stimulation. That is just offensive and rude and not part of an intellectual debate at university.”
+
+Sir John Hayes
+Yes, but the problem is that that line moves with the times, with fad and fashion, with what I described earlier as the zeitgeist. Perhaps the most chilling example of that is the case of Kathleen Stock. The hon. Lady will remember that Kathleen Stock gave evidence to the Bill Committee of which she was part. Within a few weeks, Kathleen Stock was driven out of her job as a distinguished professor at the University of Sussex by the mob, a group of students who pursued her and intimidated her and her family.
+
+Kathleen Stock received scant support from many of her academic colleagues, although latterly the university authorities claimed they were supportive, and she was so affected and so damaged by all that that she ended up leaving the job she loved. I thought how chilling and ironic that she should have been one of the people who came to us, as Members of this House, to a Bill Committee debating this Bill, and yet just weeks later found herself a victim of the very problem she highlighted and emphasised in her evidence.
+
+I will move fairly rapidly on to the amendments that stand in my name, Mr Deputy Speaker, because otherwise you will claim that I am making a Second Reading speech—and with some just cause.
+
+Dr Lewis
+rose—
+
+Sir John Hayes
+But before I do so, I will happily give way to my right hon. Friend.
+
+Dr Lewis
+My right hon. Friend is so kind. He has just given a terrible example at the extreme end of the spectrum of intimidation and restriction on free speech, but does he share my concern about the paranoid issuing of so-called trigger warnings or alerts, which are meant to protect students from hearing anything that they might find in the least discomfiting or disturbing? How does that prepare them for going out into the real world, where they are, whether they like it or not, going to hear things that are not to their liking? They will be under-prepared for that terrible ordeal.
+
+Sir John Hayes
+Almost every part of the canon of our great literature now seems to come with a health warning. From “Moby-Dick” to “Jane Eyre”, we are told that books are desperately dangerous for young people to read. That this is happening in schools and, amazingly, in universities is almost beyond belief. Snow has turned to ice: they are no longer snowflakes, they are in deep freeze, those people who dare not even read Austen, the Brontës or George Eliot—of those three, I strongly recommend George Eliot, by the way, but let us move on before I get into any more literary considerations.
+
+Sir Iain Duncan Smith
+No, no—Austen!
+
+Sir John Hayes
+I thought my right hon. Friend was going to challenge my literary knowledge, but let us move to the amendments.
+
+The Government have moved a considerable way since we debated the matter in Committee, and I congratulate and thank my right hon. Friend the Minister for Universities for her earlier words and especially for what she has done. She listened carefully in Committee. Often, when Ministers in Committee say, “I’ll take that away and think about it.”, we know they are going through the motions, but not this Minister, any more than I did when I was a Minister.
+
+I think it is important that Bills metamorphosise through scrutiny and that Governments listen to argument—including arguments from those on the Opposition Benches, by the way. When I was a Minister, I would often go back to my civil servants and say, “Well, what the shadow Minister said seemed to make a lot of sense to me. Why aren’t we doing that?”. That is a very effective way for Ministers to challenge their own officials when they hear cogent and sensible arguments put from all parts of the House. That is precisely what this Minister did, and the Government amendments, on which I will not comment in any detail, reflect her consideration of the strong arguments that we used to strengthen this Bill, which she has now done in a number of respects.
+
+19:15:00
+
+Having said that, I want the Minister to go further. She will have seen the new clauses and the amendment in my name, and I will deal with them very briefly. The first deals with the matter of staff beyond those who are full-time employees of the university. That point was made by hon. Members across the House, because the character of employment at universities has changed. Very often, universities now employ temporary staff, visiting staff and so on, and it is important that everyone associated with the university is protected by the provisions of this legislation. The purpose of new clause 6 is to include,
+
+“any academic staff (however engaged or employed), honorary, visiting and emeritus academic members”,
+
+and providers of academic expertise.
+
+New clause 7 and amendment 21 deal with exactly the point that the hon. Member for Kingston upon Hull West and Hessle raised: the relationship between this legislation and the Equality Act. We received assurances from the Minister about that in Committee, and I have made further representations to her since then. Of course, I have no doubt that the upper House, the other place, will return to those matters, but the hon. Lady is right that it is important from a legislative perspective that the Bill works with other statute and that its provisions are not successfully challenged by recourse to other laws. I hope the Minister might say a word or two more about that in respect of the new clause and amendment in my name and that of my hon. Friend the Member for Ipswich (Tom Hunt).
+
+In summary, I believe this Bill is an appropriate, apposite and sensible response to growing concerns in universities about free speech being inhibited. I am disappointed with the Opposition—I say that with some distress—that they voted against Second Reading. I thought they would not as I thought they would try to improve and amend it. They were caught on the horns of a dilemma, because in Committee they did just that, and again today I see amendments, some of which I have some sympathy with, in the name of the hon. Member for Warwick and Leamington and others. Their amendments are designed to improve the Bill, yet simultaneously they deny that there is a problem.
+
+The hon. Member for Houghton and Sunderland South (Bridget Phillipson) has said that we should not “pick fights with students”. If we have to pick a fight with the tyrants among students, then so be it; there are people among student bodies who do not believe in freedom in the way that most people in this Chamber do, who want to see that freedom restricted and inhibited. I am worried that the hon. Lady has described an emphasis on free speech as a distraction. How can the advocacy of freedom, how can the pursuit of open debate ever be a distraction? The Government will not be distracted, and neither will Conservative Members in our campaign to ensure that, in the words of Disraeli and Cardinal Newman, universities remain places of “light, liberty and learning”.
+
+Jesse Norman (Hereford and South Herefordshire) (Con)
+I rise to speak to new clause 1, which stands in my name and in the names of my colleagues, my right hon. and learned Friend the Member for South Swindon (Sir Robert Buckland) and my right hon. Friends the Members for Harlow (Robert Halfon) and for Ashford (Damian Green). I thank Professor John Heathershaw and his colleagues at the University of Exeter for their input.
+
+This Bill is a very serious one, and the issue I raise of transparency in our universities is a very serious one. It has been much publicised of late in the newspapers in relation to some very distinguished and famous universities that have been alluded to already in this House, and rightly so. It is often misunderstood or underappreciated in the higher education sector how important the issue of undue influence and non-transparency is to the reputation of that sector, which is one of the crown jewels of our country both economically and culturally.
+
+Universities exercise a wider influence not only over the young people whom they educate, but more widely in our public life, yet no standard approach has existed to date for handling foreign donations. No single standard has been created to allow donations to be made transparent, to be made public and to be properly tracked, and, therefore, for students and other donors and the public at large to understand whether there are pressures of a financial nature, and if so what pressures there may be, on the institutions with which they may have to deal.
+
+Instead of this panoply of different approaches and different thresholds, and this lack of transparency and culture of non-disclosure, it is important that the Bill addresses those matters and brings some order to the situation. That is what my new clause and the other new clauses, which I am delighted to see have been tabled in a similar spirit, are designed to address. In my case, the measure is aimed not at any specific country or individuals, but generally so that there should be a wide understanding of the lack of transparency and a wider solution to it. I take my hat off, metaphorically, to the Minister, her Secretary of State and her officials, because the Government have substantially accepted my new clause, and indeed—dare I say?—arguably even improved it in relation, for example, to politically exposed persons. I thank her and other Ministers for the very constructive attitude that she and they have taken in relation to this important issue.
+
+I will make a couple of small points in passing because this is still a live matter and officials will wish to think about the implementing regulations. The first is about the enlarged role for the Office for Students and the need for it to be given a role that it can dispatch rapidly and effectively as well as impartially. More widely, I note the essential importance of the higher education sector and of our universities being zealous in themselves, as institutions, in preserving freedom of speech and the culture of a deeper freedom of speech that, as so many Members have said, they have sought to defend in their treatment of students and colleagues. That remains vital.
+
+I am delighted to support the Government amendment and withdraw my new clause 1 as a result.
+
+Alicia Kearns
+I rise to speak to new clause 3, but I wish first to welcome the significant work done by my right hon. Friend the Member for Hereford and South Herefordshire (Jesse Norman), which has had an implication for that which I sought to achieve, and to touch briefly on new clause 19, tabled by the hon. Member for Birmingham, Yardley (Jess Phillips), with which I have enormous sympathy. When you are an alumnus of a university, you have a great ability, you would hope, to influence it, so I place on record that if Fitzwilliam College, Cambridge is using NDAs, it can expect this not to be the last it will hear of it. I will work with the hon. Lady to call it out if it is doing it, but I am sure that there is absolutely no way that the place that gave me an incredible three years would be doing that.
+
+New clause 3 was tabled to solve a series of problems that we face in our education system. We exist in a state of hybrid warfare where we do not necessarily know that we are at war. Indeed, more often than not our enemies do not tell us that we are at war—the most effective manner to attack us. In this war they use every possible lever of influence to attack us. It is naive, sadly, but our universities are failing to accept that they are being weaponised and used against us in a state of hybrid warfare. The Chinese Communist party is at war with us, because between now and 2050 it expects there to be a war between two world orders—theirs and ours, ours being the one that believes in the rule of democracy and standing up for freedom of speech, which this Bill so focuses on. We might not realise that we are at war, but we are, and for decades now we have failed to recognise that. It is not enough to say, “Bad Chinese Communist party—stop doing what you are doing in trying to achieve your goals and the continuance of your power.” We have to take the fight to it in terms of standing up for what we believe in, standing up for our world order, and, most importantly, building resilience within our system.
+
+That is what my new clause focuses on doing—tackling the unintentional ignorance, or potentially wilful deceit, of those who do not recognise the seriousness with which our education system is under attack. Everyone plays a role in protecting freedom of speech. That is why I am so grateful to the very many colleagues who over the past few days have spoken in support of the new clause and given support on the issue across the House. I also thank the Department for Education, and particularly the Minister, who has been in constant dialogue with me and has adopted the ambitions of the new clause completely. I know that in coming months we will work together to make sure that we build the resilience that is needed in the education system.
+
+My new clause particularly seeks to focus on Confucius institutes, which play an enormous role in the teaching of Mandarin and all that comes with learning that language—cultural understanding, historical understanding, debates about the present day, and debates about the entire concept of the country and how it feels, breathes, lives and sees itself. We have 30 Confucius institutes in this country. Nowhere else in the world has anywhere near 30. One might ask why Scotland has the highest number of Confucius institutes in the entire world. There is a reason why the Chinese Communist party has chosen to infiltrate Scottish education and to try to force its own narrative within those areas. More concerningly, almost all UK Government spending on Mandarin language teaching in schools, which is £27 million from 2015 to 2024, goes through Confucius institutes.
+
+Our students and our kids—our under-18s—are being taught Mandarin by Confucius institutes, which are an arm of the Chinese state. Confucius institutes are supervised by the Chinese Communist party through the Ministry of Education. They are not allowed to hire teachers unless they have been vetted by the Chinese Communist party. I have recently discovered that Edinburgh University’s Confucius institute has representatives of the Chinese Government’s embassy on its board. This is absolutely outright political intervention. Teachers are not allowed to cover issues such as Taiwan or Tibet, which are apparently sensitive. This is deeply concerning. Lancaster University and Edge Hill University rely on CIs to provide teaching for undergraduates. We cannot allow a hostile power to capture our education provision. That is why we need transparency.
+
+I thank my right hon. Friend the Member for Hereford and South Herefordshire because his new clause has allowed us to bring in the requirement to report when universities take in foreign funding. These safeguards bring us into line with the US, Germany and the Netherlands, all of which discourage their universities from using Confucius institutes or introduce mandatory financial disclosures, because British students deserve a choice. They should not be forced to learn a language through the prism and narrative of a genocidal regime. That is all we are trying to do. We are not anti-China; we are trying to create resilience within our system. I am pleased that the Government are taking action and that under their amendments universities and student unions will be required to register funding arrangements. The Office for Students will have the power to force universities to provide alternative Mandarin education or to terminate Confucius institutes’ contracts.
+
+Sir Iain Duncan Smith
+I congratulate my hon. Friend on her new clause. I understand that the Government have moved on the matter, and I congratulate my right hon. Friend the Minister. However, does my hon. Friend agree that there is one other element to this, which is that if the Government are in possession of clear evidence that there is a threat to the security of the state through interventions by things such as the Confucius institutes, they should retain the power for the Secretary of State to deal with that directly without necessarily going to the Office for Students?
+
+Alicia Kearns
+I thank my right hon. Friend, who has been enormously supportive of the new clause. I agree. I would have preferred to see these powers sit with the Secretary of State, but the Government are not willing to give on that. However, they have made it clear—I challenged the Minister in her opening remarks and she confirmed this—that the Secretary of State for Education will have the ability to direct the Office for Students if required.
+
+I would argue that it is impossible for Confucius institutes to operate in this country without undermining our national security. They are an instrument of the Chinese Government and their propaganda wing with one sole goal. It is therefore critical that the Secretary of State directs the OfS where needed, and I urge him to regularly review its progress. I believe that the message going out from this House today is clear—that we have the power to terminate hostile states’ programmes and we must protect academic freedom.
+
+On next steps, this is about not just building resilience but offering alternatives. As China’s role on the world stage grows, we have an amazing emerging pool of talent of Chinese speakers and China experts. We must provide alternative opportunities for the learning of Mandarin. I can think of no better way to do that than through our friends in Taiwan, whose track record in providing language courses is exemplary. They already work with our Foreign Office and intelligence services in providing these language lessons. We must also fund Mandarin education.
+
+I thank the Minister for working with me to adopt these measures and for safeguarding academic freedom. My new clause provides a duty on financial disclosures, and it offers an alternative in the ability to terminate Confucius institutes and the power of the Secretary of State to direct, but I will not press it to a vote. We should be proud of British universities and proud to stand up for liberty and academic freedom. Without academic freedom, there is no open dialogue; without dialogue, there can only be division. It is important we use this Bill as the first step in sending a clear message to the entire education sector and the Chinese Communist party that we will not give them a back door to undermine our country and our national security through our universities.
+
+19:30:00
+
+Miriam Cates (Penistone and Stocksbridge) (Con)
+Unlike all the other speakers in this debate, I was not on the Bill Committee, which is a shame, because it sounds like it was very lively, and I have not tabled my own amendment. I rise instead to speak in support of Government amendments 1 to 4, 6 to 10 and 16. I am absolutely delighted that this Higher Education (Freedom of Speech) Bill was carried over from the last Parliament.
+
+We have heard today that over the past few years, there has been a growing and concerning trend to stifle free speech on UK university campuses. Since this Bill was published last year, we have seen: the attempt to shut down and harass the Israeli ambassador at Cambridge University; the vicious and, as we have heard, ultimately successful campaign to remove Professor Kathleen Stock from her post at Sussex; and, just last month, the efforts of an angry mob to silence my right hon. Friend the Secretary of State for Education at Warwick University. It is no wonder that he has prioritised the return of the Bill.
+
+Jim Shannon (Strangford) (DUP)
+I thank the hon. Lady for the stance she has taken in this House and in every role of her life. She will probably be aware of a petition signed by 15,000-plus organised by the Society for the Protection of Unborn Children. It supports the Bill because it gives its members the freedom that they do not have. She will be aware of calls for pro-life students to be given a voice. Pro-life students are often the recipients of that discrimination. Does she agree that freedom of speech must be upheld for all students, and especially those who take a pro-life position and stance?
+
+Miriam Cates
+I absolutely agree with the hon. Gentleman. The belief that human life starts at conception is a scientifically valid belief, and one that I hold myself. Students and staff should absolutely be protected in reflecting that view. He leads me on to my next point, which is that for every high-profile case we have discussed in the House today, many more never make the headlines. Underneath these incidents lies a culture where students and academics alike are becoming afraid to discuss and share their views. Last October, the University and College Union published a report showing that 35% of UK academics had undertaken self-censorship for fear of negative repercussions, such as the loss of privileges, demotion or even physical harm. The report’s authors commented:
+
+“Self-censorship at this level appears to make a mockery of any pretence by universities of being paragons of free speech and…the pursuit of knowledge and academic freedom.”
+
+The evidence is clear: free speech and academic freedoms in our universities are under threat, so I welcome the Government amendments that will strengthen the Bill further. Amendments 1, 2 and 16 extend protections to academics by removing the express limitation that academic freedom covers only matters within an academic’s field of expertise. They are important: first, because in many disciplines it would be hard to define exactly where the boundaries of a particular field lie; and secondly, because it is right to recognise that research and ideas do not exist in silos. There are obvious crossovers, for example, between science and ethics, politics and economics, philosophy and history. We need our greatest minds to be free to write, to speak and to conduct research in an unrestricted way for the benefit of our whole society.
+
+Sir John Hayes
+As ever, my hon. Friend is making a compelling case. University authorities are often either complicit in this, or in denial. The Bill will send a signal to them that it is simply not good enough to brush the attacks on freedom under the carpet. I hope that she will press the Government to go still further, as I have done, in ensuring that the Bill has all the provisions needed to ensure that freedom is maintained.
+
+Miriam Cates
+My right hon. Friend is right: this Bill is an important marker for universities, which will be forced to recognise that these are not specific isolated issues, but that there is a culture change that needs to be addressed across our whole country. We are also seeing it in other countries in the world, particularly America.
+
+I support the amendments to remove the restriction on field of expertise, and I also support Government amendments 3, 4 and 6 to 10, which will ensure that higher education providers cannot require visiting speakers or hosting bodies to bear some or all of the costs of security. This will prevent no-platforming by the back door. As my right hon. Friend the Minister has already said, if universities have a physical safety and security issue on campus, they should urgently address the root of that.
+
+On safety, amendment 18, in the name of the hon. Member for Warwick and Leamington (Matt Western), would compel the Office for Students, when considering a free speech complaint, to be mindful of the right of students to feel safe on university campuses. I have no doubt that the amendment is well meant, and I listened carefully to his arguments, but I fear that it would further embed the culture and attitudes that have led to the chilling effect on free speech and that have made this Bill necessary.
+
+In the amendment, as on campus, we see the conflation of physical safety with intellectual and emotional comfort. Students should of course be physically safe, and higher education institutions have a duty to follow health and safety law, like all other organisations, but I suspect that is not what the amendment is getting at. Universities should absolutely not be cultivating an atmosphere on campus where students believe they are or should be free from emotional and intellectual discomfort. Just as our bodies must go through training, challenge and discomfort to become physically fit, so our minds must experience challenge, discomfort and sometimes even offence to become stronger, more resilient and more wise.
+
+In the recent book, “The Coddling of the American Mind”, the authors describe “anti-fragility”, the idea that young people’s brains must be exposed to challenges and stresses, or they will fail to mature into strong and capable adults able to engage productively with people and ideas that challenge their beliefs. Nowhere is it more important to understand the concept of anti-fragility than in our universities, where institutions are cultivating minds that will become the thought leaders of tomorrow. Since our universities act as an incubator for wider public culture, we will fail to uphold freedom of debate in this country if we fail to uphold it on campus.
+
+Freedom of speech is the bedrock of democracy. As a recent New York Times editorial put it:
+
+“Ideas that go unchallenged by opposing views risk becoming weak and brittle rather than being strengthened by tough scrutiny.”
+
+We saw the impact of that cancel culture in political and social debate during covid, where damaging, un-evidenced, ineffective and wasteful policies went unchallenged. If we value the kind of rigorous debate that upholds democracy and ensures the best policies are produced, we must not allow this concept creep of the term “safety” on campus.
+
+Despite levelling up, Brexit and enormous economic challenges, this is possibly one of the most important Bills making its way through Parliament, because our ability to unite and level up in this country is threatened by the culture on campus. The starkest division in British society—not only in voting behaviour, but in social values—is between graduates and non-graduates. The trend towards a homogenous worldview in our higher education institutions is exacerbating this division. Instead, we need our universities to be places where it is the norm for competing ideas to co-exist and to be openly interrogated and challenged by evidence.
+
+Jess Phillips
+I want to challenge the idea that university students will all be walking like lemmings into the light unless we do something about it. At my university, the right hon. Jack Straw, who was then a Labour MP, was banned from the student union—I forget why. He was the only person it banned, and I walked through that door past the plaque banning him, and I am a Labour MP now. I think the students are probably going to cope with some of this.
+
+Miriam Cates
+I thank the hon. Lady for her intervention. She gave a passionate speech, and I fully support the many things she is doing to uphold women’s rights, but this is needlessly being made a left/right issue. Many of the incidents we have talked about today are about those on the right being cancelled, but it is much wider than that.
+
+Jess Phillips
+I have been cancelled many times.
+
+Miriam Cates
+I am very sorry to hear it. The hon. Lady absolutely should not be. What I am trying to say is that this is a much wider issue than the particular incidents that have made the headlines, and some deeper culture changes need to take place. That will take time, and we need to do a lot in schools as well.
+
+I very much support the Bill. Hopefully it can narrow the divide that we see in society. I very much support the Government amendments, which will do a lot to protect freedom of speech.
+
+Michelle Donelan
+With the leave of the House, I will speak on the non-Government amendments. New clause 1 seeks to improve transparency, especially in relation to foreign donations, and new clause 3 would place a duty on higher education providers as part of the promote duty to report information about foreign language, culture and exchange programmes and courses to the Office for Students and the Secretary of State. The Secretary of State would then be empowered to direct them to terminate the partnership or offer an equivalent if there were concerns about freedom of speech.
+
+My hon. Friends are absolutely right to promote the importance of transparency of overseas financial arrangements, and we agree, which is why Government new clause 2 addresses those concerns. New clause 2 also requires the reporting of funding from certain overseas educational partnerships, including Confucius institutes, which addresses new clause 1 and the first part of new clause 3.
+
+New clause 3 would have unintended consequences and place an unnecessary burden on the sector. Under new clause 2, there would be a financial threshold and countries such as NATO allies would be exempt. New clause 3 has no exemptions, which would mean that every single kind of partnership would be covered from the Turing scheme and third-year language students studying abroad with partner universities to important international research exchange programmes. The burden on providers to deal with that information would be disproportionate and would stifle the ability of our world-class universities to work with global partners on important research programmes.
+
+The Government take the concern regarding foreign interference extremely seriously, however, which is why we developed a cross-Government programme of work to counter those threats, and we are continuing to work with providers to help them to understand the threats and respond. Government new clause 2 will help us to do that, and the Office for Students could utilise a range of enforcement powers to issue fines, close programmes such as Confucius institutes, or mandate universities to offer alternatives to students if that was necessary to secure free speech. As I said, however, new clause 3 would have unintended consequences.
+
+Amendments 19 and 20 would provide that a non-disclosure or confidentiality agreement with the governing body of a provider did not mean that members, staff or students and visiting speakers could not speak freely. I stress that I fully support the spirit of this amendment; it is almost unimaginable to think of anything worse than suffering sexual assault and then being pressurised into being silent. I have been very vocal about the fact that our universities should never use NDAs to silence victims of sexual harassment, which is why I launched a pledge in January to end the use of NDAs. Some 66 universities are now signed up, 62 of which are in England, and three Oxford colleges.
+
+We have a long way to go, which is why I am constantly talking to universities and working with Can’t Buy My Silence to call out those who have as yet failed to sign the pledge, but I know that a number will sign imminently. When it comes to the use of NDAs and sexual assault, the higher education sector has an opportunity to lead the way and show others what can be done.
+
+We have also asked the Office for Students to impose a binding condition of registration on universities to ensure that they properly tackle sexual misconduct, which we intend to deal with that sort of behaviour. This would have teeth and it would mean that universities could be fined up to half a million pounds; they could even lose their degree-awarding powers. The ramifications would be big, and it would mean that the lawyers who developed those NDAs would be breaching the registration condition by doing so. We are the first Government who are prepared to tackle this issue, and I shall continue discussing with colleagues on both sides of the House all the ways in which we can tackle sexual harassment in universities, because that issue is very important to me and we will be doing more.
+
+Amendment 17, which would widen the definition of academic freedom, is not necessary, because all the proposed new paragraphs are already covered by Government amendment 1, which will remove the requirement for academic freedom to be within an academic’s field of expertise. New clause 6 would add a new definition of academic staff, which I outlined in my opening speech.
+
+New clause 7 and amendment 21 would change the definition of harassment in the Equality Act 2010 and under the Bill. I fully agree that there are occasions when universities have misapplied the Equality Act and have relied on it to wrongly shut down lawful free speech. There is both a subjective and an objective element as to whether harassment has taken place, and that should not be based on the views of just the complainant. Indeed, we saw a case last week where the University of Essex had to amend its policies following welcome pressure from the Free Speech Union. I assure hon. Members that once the Bill has passed, the new director of the Office for Students will ensure that providers are complying with the Equality Act as it is written, rather than overreaching.
+
+Sir John Hayes
+I am grateful that my right hon. Friend is addressing the amendment that stands in my name and that of my hon. Friend the Member for Ipswich (Tom Hunt). Part of the problem is that universities are drawing up policies for dealing with complaints about free speech and its protection that are themselves faulty; they are often based on advice from individuals and organisations that have a skewed view about the relationship between free speech and the Equality Act. Will she look at those policies and their sources, and the advice that universities are receiving?
+
+Michelle Donelan
+My right hon. Friend is correct. As I said, some universities have misinterpreted the Equality Act, which is why comprehensive guidance will be produced by the new director that will be the main source that they should refer to, rather than external agencies.
+
+John McDonnell
+On the point about advice, we are dealing with what has obviously become a contentious issue that often relies on subjective judgments. The advice that universities will take will come from the director for freedom of speech and academic freedom. Does it not behove the House to ensure that that person has the absolute confidence of those universities? New clause 4 simply says that that person will not be associated with a political party and will be appointed by an independent panel, and that a Select Committee will have a role in confirming that appointment. That will hopefully take the director who provides such sensitive advice out of the political melee and give universities more confidence in them.
+
+Michelle Donelan
+If the right hon. Gentleman will allow me, I will get to that point later; he may intervene again if he is not satisfied with the response.
+
+Amendment 18 would require the Office for Students, when considering a complaint, to be mindful of the right of students to feel safe on campus, and of other legal duties such as those under the Equality Act 2010 and the Prevent duty. But the duty in the Bill to take “reasonably practicable” steps to secure freedom of speech and academic freedom will allow for relevant considerations to be taken into account. In particular, it will allow for other legal duties, such as those under the Equality Act and the Prevent duty, to be considered.
+
+“Reasonably practicable” is a commonly understood term used across the statute book. It means that the relevant body can take into account all the other legal duties on a case by case basis. If another legal duty requires or gives rise to certain action, it would not be reasonably practicable to override that. As for the Office for Students, it will be required to take into account all the relevant facts. It would not be appropriate to try to set out all the considerations that it should take into account, so the Government do not support the amendment.
+
+New clause 4 concerns the appointment of the director for freedom of speech and academic freedom to the board of the Office for Students. It relates to the appointee giving a donation to a political party, and it would require the appointment to be made by an independent advisory panel. We have in this country a robust public appointments process that, rightly, does not bar people who are members of political parties from serving in such roles.
+
+The Commissioner for Public Appointments sets out that every year numerous public appointments are made of individuals who declare political activity, and in many years more appointees have declared an affiliation to the Labour party than to the Conservative party. This rule is such that, if applied generally, it would have prevented individuals such as Alan Milburn, Baroness Falkner and John Cope from serving.
+
+On who will appoint the director, this will be carried out in the same way that the other members of the Office for Students board are appointed under the Higher Education and Research Act 2017—by the Secretary of State—and this will of course be done in accordance with the public appointments process. It would not be consistent to treat the director under this Bill differently. The Government therefore do not support this amendment.
+
+John McDonnell
+As this now goes to the other place, could I just ask the Minister to think again on that particular issue? This is an incredibly contentious area, and it requires someone who is above any form of suspicion of party political linkages. More importantly, it requires someone who has the confidence of an  independent panel, but also, I believe, of one of our Select Committees. I urge her to think again, at least about the appointments process and the engagement of a confirmatory vote by a Select Committee on this critically important post, which I think is so important that the legislation will stand or fall on this appointment.
+
+Michelle Donelan
+I am a little taken aback by the comments of the right hon. Member, who refers to the relationship between political parties as suspicious—quite something given that we are all related to political parties. The Government will not be thinking again on that one.
+
+New clause 5 would introduce a sunset clause, meaning that unless a report is made to Parliament and regulations are made, the legislation would expire three years after the date of enactment, and it would give Ministers the power to discontinue provisions in the Bill after one year. The fact that the Opposition have tabled this amendment demonstrates very clearly that, whatever they say, Labour Members do not support free speech. They have consistently opposed the need for this Bill despite the very clear evidence, and they now are seeking to dismantle it before it has even started. The Government wholeheartedly oppose this amendment, and we will never falter in our determination to safeguard free speech.
+
+With the assurances I have given, I hope Members will not press their amendments to a vote, and I commend this Bill to the House.
+
+Question put and agreed to.
+
+New clause 2 accordingly read a Second time, and added to the Bill.
+
+New Clause 4
+
+Appointment of the Director for Freedom of Speech and Academic Freedom
+
+“(1) A person may not be appointed as the Director for Freedom of Speech and Academic Freedom (‘Director’) if the person has at any time within the last three years made a donation to a political party registered under the Political Parties, Elections and Referendums Act 2000.
+
+(2) The person appointed as the Director may not whilst in office make any donation to a political party registered under the Political Parties, Elections and Referendums Act 2000.
+
+(3) The appointment for the Director shall be made by an independent advisory panel to be established by regulations made by the Secretary of State.
+
+(4) The appointment of the Director for Freedom of Speech and Academic Freedom shall be subject to a confirmatory resolution of the relevant Select Committee of the House of Commons.
+
+(5) A statutory instrument containing regulations under subsection (3) may not be made unless a draft of the instrument has been laid before and approved by resolution of each House of Parliament.”—(Matt Western.)
+
+This new clause would ensure that the Director of Freedom of Speech and Academic Freedom has not and cannot whilst in office donate to a political party and ensure they are only appointed subject to confirmation of an independent advisory panel, the Select Committee of the House of Commons and a resolution of each House of Parliament.
+
+Brought up, and read the First time.
+
+Question put, That the clause be read a Second time.
+
+Division 11
+13/06/2022 19:52:00
+The House divided:
+Ayes: 150
+Noes: 282
+Question accordingly negatived.
+
+Clause 1
+
+Duties of registered higher education providers
+
+Amendment made: 1, page 2, line 11, leave out “and within their field of expertise”—(Michelle Donelan.)
+
+This amendment removes the express limitation that academic freedom covers only matters within an academic’s field of expertise.
+
+Amendment proposed: 17, page 2, line 14, at end insert—
+
+“(c) to conduct research,
+
+(d) to engage in intellectual inquiry and contribute to public debate,
+
+(e) to criticise any institution,
+
+(f) to be affiliated to any institution, and
+
+(g) to be a member of a trade union body,”—(Matt Western.)
+
+This amendment would widen the definition of academic freedom.
+
+Question put, That the amendment be made.
+
+Division 12
+13/06/2022 20:06:00
+The House divided:
+Ayes: 152
+Noes: 284
+Question accordingly negatived.
+
+Amendments made: 2, page 2, line 28, leave out
+
+“and within their field of expertise”.
+
+See explanatory statement for Amendment 1.
+
+Amendment 3, page 2, line 29, at end insert—
+
+‘(9A) In order to achieve the objective in subsection (2), the governing body of a registered higher education provider must secure that, apart from in exceptional circumstances, use of its premises by any individual or body is not on terms that require the individual or body to bear some or all of the costs of security relating to their use of the premises.’
+
+This amendment would place a new duty on governing bodies of registered higher education providers to secure freedom of speech for certain persons by requiring such providers to secure that use of its premises is not conditional on requiring the person wishing to use them to bear the costs of security - unless there are exceptional circumstances.
+
+Amendment 4, page 2, line 39, leave out “duty in section A1(1)” and insert
+
+“duties in section A1(1) and (9A)”
+
+This amendment is consequential on the changes made by Amendments 3 and 6.
+
+Amendment 5, page 2, line 46, after “provider” insert
+
+“and any students’ union for students at the provider”.
+
+The duties on registered higher education providers and constituent colleges to secure freedom of speech extends to taking steps as regards the activities of its students’ unions (which will include JCRs and MCRs of colleges). Expanding the matters which must be included in the code of practice is to reinforce this.
+
+Amendment 6, page 3, line 9, at end insert
+
+“(which must include its criteria for determining whether there are exceptional circumstances for the purposes of section A1(9A)).”—(Michelle Donelan.)
+
+This amendment requires the code of practice maintained by a registered higher education provider to set out the provider’s criteria for deciding whether there are “exceptional circumstances” which will enable it to require a person wishing to use its premises to bear the costs of security.
+
+Clause 3
+
+Duties of Student Unions
+
+Amendments made: 7, page 4, line 36, at end insert—
+
+‘(4A) In order to achieve the objective in subsection (2), a students’ union for students at a registered higher education provider that is eligible for financial support must secure that, apart from in exceptional circumstances, use by any individual or body of premises occupied by the students’ union is not on terms that require the individual or body to bear some or all of the costs of security relating to their use of the premises.’.
+
+This amendment would place a new duty on certain students’ unions to secure freedom of speech for certain persons by requiring the students’ unions to secure that use of premises is not conditional on requiring the person wishing to use them to bear the costs of security - unless there are exceptional circumstances.
+
+Amendment 8, page 5, line 13, leave out “duty” and insert “duties”.
+
+This amendment is consequential on the changes made by Amendments 7 and 10.
+
+Amendment 9, page 5, line 32, leave out
+
+“duty in section A5 is”
+
+and insert
+
+“duties in section A5 are”.
+
+This amendment is consequential on the changes made by Amendments 7 and 10.
+
+Amendment 10, page 5, line 33, at end insert
+
+“(which must include its criteria for determining whether there are exceptional circumstances for the purposes of section A5(4A)).”—(Michelle Donelan.)
+
+This amendment requires the code of practice maintained by a students’ union to set out the union’s criteria for deciding whether there are “exceptional circumstances” which will enable it to require a person wishing to use its premises to bear the costs of security.
+
+Clause 8
+
+Complaints Scheme
+
+Amendments made: 11, page 10, line 22, after “complaint” insert
+
+“which is referred under the scheme and not withdrawn”.
+
+This amendment is to make it clear that the scheme can provide for complaints to be withdrawn and that the OfS is not required to make a decision about a withdrawn complaint.
+
+Amendment 12, page 11, line 34, after “publication” insert “under section 67A”.—(Michelle Donelan.)
+
+This makes it clear which power the OfS is acting under when it publishes information covered by this paragraph.
+
+Clause 9
+
+Director for Freedom of Speech and Academic Freedom
+
+Amendment made: 13, page 12, leave out lines 17 to 21 and insert—
+
+“(b) its functions under sections 69A to 69E and Schedule 6A.”—(Michelle Donelan.)
+
+This amendment gives the Director for Freedom of Speech and Academic Function responsibility for oversight of the functions conferred on the OfS by the proposed new clause relating to overseas funding.
+
+Clause 12
+
+Commencement
+
+Amendment made: 14, page 12, line 36, at end insert—
+
+“(aa) section [overseas funding], so far as is necessary for enabling the exercise on or after the day on which this Act is passed of the powers to make regulations conferred by section 69D of the Higher Education and Research Act 2017 (inserted by section [overseas funding]);”—(Michelle Donelan.)
+
+This amendment allows the regulation-making powers conferred by the proposed new clause relating to overseas funding to come into force on Royal Assent.
+
+Schedule
+
+Minor and Consequential Amendments
+
+Amendments made: 15, page 14, line 23, at end insert—
+
+‘4A (1) Section 67B (publication of decision to conduct or terminate investigation) is amended as follows.
+
+(2) In subsection (3), for “Section 67C does not apply” substitute “Neither section 67C nor paragraph 13 of Schedule 6A applies”.
+
+(3) After subsection (3) insert—
+
+(3A) In the application of this section to publication of a decision under the scheme provided by virtue of Schedule 6A (free speech complaints scheme)—
+
+(a) references to an investigation (however expressed) are to a review of a free speech complaint under the scheme;
+
+(b) for the purposes of subsection (2)(a), the OfS terminates an investigation without making a finding if it—
+
+(a) (i) does not make a decision as to whether a free speech complaint is justified because the complaint is withdrawn, or
+
+(ii) dismisses a free speech complaint without considering its merits;
+
+(d) for the purposes of subsection (2)(b), the findings of an investigation do not result in the OfS taking any further action only where—
+
+(i) the OfS decide that a complaint is wholly not justified, or
+
+(ii) the OfS decide that a complaint is justified (wholly or partly) but do not make any recommendations about the person about which the complaint is made.”
+
+4B In section 67C (protection for defamation claims) after subsection (2) insert—
+
+“(3) This section does not apply to the publication of—
+
+(a) a decision or recommendation made by the OfS under the scheme provided by virtue of Schedule 6A, or
+
+(b) a report under paragraph 12(1)(b) of that Schedule.
+
+(See instead paragraph 13 of Schedule 6A.)’.
+
+Section 67C of the Higher Education and Research Act 2017 (inserted by the Skills and Post-16 Education Act 2022) provides for qualified privilege to defamation claims arising from publication by the OfS of decisions etc. The free speech complaints scheme inserted into the 2017 Act by the Bill provides for absolute privilege for defamation claims arising from publication of OfS decisions etc under the scheme. This amendment modifies the application of section 67B so it is clear how it applies in the context of the free speech complaints scheme and removes the overlap between section 67C and the provisions of Schedule 6A by providing that section 67C does not apply to decisions etc under the free speech complaints scheme.
+
+Amendment 16, page 16, line 25, leave out
+
+“and within their field of expertise”.—(Michelle Donelan.)
+
+See explanatory statement for Amendment 1.
+
+Third Reading
+
+20:17:00
+
+Michelle Donelan
+I beg to move, That the Bill be now read the Third time.
+
+I would like to take the opportunity to acknowledge all who have contributed to the Bill’s passage. The nature of the problem and the intensity of those opposed to academic freedom has made even acknowledging the issue an incredibly brave act in many cases. I thank the many right hon. and hon. Members who have raised the issue and contributed to the discussion over the years. In particular, my right hon. Friend the Member for South Holland and The Deepings (Sir John Hayes) and my hon. Friends the Members for Congleton (Fiona Bruce) and for Penistone and Stocksbridge (Miriam Cates) have played an important part in scrutinising and strengthening the Bill. I thank my right hon. Friends the Members for Hereford and South Herefordshire (Jesse Norman), for Harlow (Robert Halfon) and for Chingford and Woodford Green (Sir Iain Duncan Smith), my hon. Friend the Member for Rutland and Melton (Alicia Kearns) and others for raising the important subject of international donations transparency. I also thank the research institutes and think-tanks who have shone a spotlight on the scale of the problem, such as Policy Exchange, Legatum and the policy institute at King’s College London. Together with the support of the Russell Group, Universities UK and other sector organisations, we on the Government side have been able not only to understand the scale of the problem but to shape the solution.
+
+I was personally moved by much of the oral evidence given in the Public Bill Committee, so I struggle to understand how the Opposition sat there, heard that and yet still failed to back this robust action. Individual academics, such as Professor Kathleen Stock, Professor Nigel Biggar and Dr Arif Ahmed, have also played a fundamental role, raising awareness of the problem and advocating for change, sometimes at significant cost to themselves.
+
+Members from across the House made valuable contributions during the debate and during the passage of the Bill. Some, in fact, highlighted areas of good practice in our universities. Despite pressure to limit free speech, in April Reading University vice-chancellor Robert Van de Noort published a strong, principled defence of academic freedom and freedom of speech that echoed many of the issues the Bill intends to address. The University of Cambridge rightly rejected proposed guidelines that all opinions must conform to the requirement of being “respectful”. Frankly, that would have been absurd.
+
+However, that type of good practice is not always representative of the sector. As just one example, the high rates of self-censorship that numerous surveys and studies have documented show that the problem is widespread. The very nature of self-censorship means that the actual rates are likely to be much higher than reported. Students arriving at university today join an environment where one in four of their peers believe physical violence is justified to shut down views they deem to be hateful. We see that some are too ready to levy the charge of “hateful” at any view they disagree with. Staff are teaching at universities at a time when 200 of their colleagues recently reported receiving death threats and abuse with no support from their universities.
+
+The UK has become the only country in the top tier of academically free countries to be significantly downgraded by the Academic Freedom Index. We are now ranked 63rd in the world. This is at a time when a university professor expressed lawful opinions and ended up needing police protection to visit a university campus. That is the culture that has been embedded in too many of our universities. It is not about lawful, peaceful protest, which of course should be celebrated; it is about a culture in which a small number of students and academics believe they have the right to act with impunity to harass, intimidate and threaten those whose views they disagree with until they are silenced and driven out. Again and again we have seen that occurring, while university authorities stand by and do nothing. No individual should have to fear for their personal safety, or rely on the good will of their colleagues to go about their job safely.
+
+We will not let that continue, so we are taking action and delivering on our manifesto commitment, unlike the Opposition who continue to bury their heads in the sand. Madam Deputy Speaker, indulge me for a moment. Let me remind Opposition Members of some of the comments they have made during the passage of the Bill. One said there was:
+
+“no evidence…of a free speech crisis”. —[Official Report, 12 July 2021; Vol. 699, c. 114.]
+
+Others said it was
+
+“tackling a problem that does not really exist.”—[Official Report, 12 July 2021; Vol. 699, c. 106.]
+
+and that the legislation is “not necessary” and “manufacturing a problem”. Even the shadow higher education Minister called this a “virtually non-existent problem”. But I fail to believe that the Opposition do not recognise the wealth of evidence that they, too, have heard and seen. It is time that they were honest: they are simply anti-free speech.
+
+This Government will always stand up for free speech, which is why our Bill confirms that it is not acceptable for students, staff or visiting speakers to fear repercussions for exercising their right to lawful freedom of speech and academic freedom. The Bill will also ensure that individuals have routes to redress if their rights are not secured due to breaches of the duties placed on higher education providers and student unions. Under the existing legislative framework, those clear routes of redress do not exist. They are essential to ensure that freedom of speech and academic freedom are protected to the fullest extent. The Bill is about changing the wider culture on university campuses so that everyone has an equal right to be heard and peacefully challenged. That should be done with tolerance of different opinions and in a constructive way. It does not grant any protection to unlawful speech.
+
+Whether some Members realise it or not, change is needed. As we have seen historically on issues such as gender equality, race discrimination and human rights, such cultural change occurs more readily when backed up by appropriate legislation. At present, we have a duty without proper means of enforcement. The Bill is therefore a vital piece of legislation that will lead to the cultural change necessary to tackle the issue at the core. I therefore challenge the Opposition to show the world of higher education that we value freedom of expression the same as we value it here in this place, and to be on the right side of history—the side that stands for free expression, free speech and academic freedom. I commend the Bill to the House.
+
+20:25:00
+
+Matt Western
+I extend my thanks to all those involved in the passage of the Bill in Committee and on Second Reading, as well as this evening. I join the Minister in thanking Government Members, as much as those on the Labour Benches. I thank my hon. Friend the Member for Kingston upon Hull West and Hessle (Emma Hardy), my right hon. Friend the Member for Hayes and Harlington (John McDonnell), my hon. Friend the Member for Brighton, Kemptown (Lloyd Russell-Moyle), my right hon. Friend the Member for North Durham (Mr Jones), my hon. Friend the Member for Denton and Reddish (Andrew Gwynne) and others. They made constructive comments and contributions to the process in Committee, and I place on record my thanks to them.
+
+As we come to the end of the Commons stages of the Bill, just under a mammoth 400 days since it was first introduced, it is clear that it has been something of a distraction from what really matters to the sector and students. We have just heard, in the urgent question on the Government’s failure to address the dreadful GDP figures, that the UK economy is in a dire position. We are in the midst of the worst cost of living crisis since the 1970s. Three out of every four students are currently worried about managing financially. One in four have less than £50 a month to live on after rent and bills, and 5% of students are using food banks to get by. On the doorstep in Wakefield, when I was talking about some of these issues, someone said to me, “What on earth has that got to do with the price of fish?” She is right. What has this got to do with the price of fish? Put simply, students are not exceptions to the rules of this crisis. The challenges faced by students are a reflection of what is going on in wider society, for sure. The Minister has responded by uplifting student maintenance by just 2.3% this year—2.3%—against a backdrop of an inflation rate pushing 10%, while at the same time ignoring any of the reforms to student maintenance proposed by the Augar review.
+
+Meanwhile, the Government have imposed this piece of unnecessary legislation on the House, expending 30 hours of parliamentary time on this Bill, a Bill primarily searching for a problem—and I will come on to the point of what we would do. Seemingly, despite finding little time to tackle the cost of living crisis, the Government can find time to protect antisemites and people who, in the Ministers’ own words, are aiming to cause deep hurt and offence. Never mind that the Joint Committee on Human Rights’ report into freedom of speech at university in 2018 found there was
+
+“no major crisis of free speech on campus”,
+
+or that research conducted by the Office for Students found that out of over 62,000 requests by students for external speaker events in 2017-2018, only 0.01% were rejected by student unions or university authorities. The Minister seems determined to pursue divisive legislation to stoke culture wars for her own political agenda. Last week, when she addressed the Higher Education Policy Institute conference, she could not substantiate her claims in support of the Bill.
+
+The Government like to present themselves as defenders of freedom of speech, but their actions tell us differently, including their plans to arrest noisy protesters and limit others, to restrict the right to vote through voter ID and their outright attacks on the BBC and plans to privatise Channel 4. The Government are interested in freedom of speech only if that speech is framed in their own image. The Minister says that Labour’s position is absurd. Free speech on our campus but no right to free speech on our streets is utterly absurd. I need not remind the House that Labour has always championed free speech. Indeed, it was a Labour Government who introduced the law guaranteeing freedom of expression.
+
+The issue here is all about evidence, and the point I have just made about the Minister. That is why Labour has deep reservations about the unintended consequences of the Bill. Its top-down, one-size-fits-all approach demonstrates the weakness at the heart of the Government and their misplaced lack of trust in the academic community. When that happens,
+
+“Governments lose faith in academics to protect freedom of speech and step in with legislation. It is what happened in 1986 and it is what is happening again”.
+
+Not my words, but those of one of the Minister’s esteemed predecessors.
+
+Conservative Members cry, “Well, what is Labour’s plan?” That is easy. We believe in adopting best practice off the shelf whenever we can. Our universities and the academics and teaching staff who work within them are world leading. It is no surprise, therefore, that there is a vast array of really good practice out there if the Minister only chose to look—the Manchester guidelines, the Chicago principles or Robert French’s independent review of freedom of speech in Australian higher education, to name but three. Countries around the world have similar issues, but the point is how they go about addressing them. If the Minister were really interested in promoting and protecting freedom of speech and academic freedom, she would encourage this approach across the sector. Such approaches would go a long way to fostering the healthy culture of debate on campus we all want to see. Sometimes institutions and student unions will get it wrong. That is the nature of debates on the parameters of free speech, but it is a small price worth paying for a collective, more consensual approach to protecting freedom of speech on campus.
+
+The Bill will expose universities and student unions to potentially lengthy civil proceedings brought by anti-vaxxers, holocaust deniers or hate preachers. Debates about freedom of speech are complex enough without Ministers creating a legal route open to abuse by vexatious claimants—suppression of debate through what is termed and recognised as lawfare. Despite the Minister repeatedly claiming that this new statutory tort would be an important backstop, there is no reference to that in the Bill. She has failed to put in place any mechanisms to prevent providers, including the 165 further education colleges that fall under the scope of the Bill or student unions, from falling victim to costly litigation. Today the Institute for Fiscal Studies has warned that Government spending on adult education and apprenticeships in England will be 25% lower in 2025 than in 2010. I need not remind the House of how costly lawsuits are. Every 1p spent by institutions defending such claims in the court will be 1p less spent on the student experience, on hardship funds, on new library facilities and on research and development. Those potential legal costs are not even included in the £50 million the Minister’s Department estimates the Bill will cost the sector over the next 10 years.
+
+The public are desperate for the Government to focus on the immediate and very real priorities—the cost of living crisis, energy bills doubling in a year, 40% of households in energy poverty, demand on food banks rocketing and the worst performing economy in the G20 bar one. That country, Russia, is burdened by massive international sanctions. The Government want to spend precious time on pursuing this blatantly ideological legislation that will do nothing for the great British public. It is self-serving, and another demonstration of just how out of touch the Government are. Change should come from the ground up rather than the clunking fist of an embittered Government.
+
+In terms of legislation, the Bill is about as big a Big Dog’s breakfast as it is possible to get. As it progresses to the other place, I very much look forward to many peers taking note of some of our suggestions for improvement. Other than Lord Wharton of Yarm, I believe there will be widespread opposition to the Bill from all parties and indeed the Cross-Bench peers. Given that we have had almost 100 amendments in total to this Bill, and it is only 19 pages long, they will have a lot of areas to choose from. Before it returns, I very much hope that the Government will have started to treat universities as a public good rather than a political battlefield.
+
+20:34:00
+
+Sir John Hayes
+I will speak very briefly, making only three points in two minutes.
+
+First, it is disappointing that the Labour party is opposing the Bill. By its nature, it is a party whose Members are elected to a Parliament that has as its foundation the exchange of honestly held opinions. Even at this late stage, I feel that Labour Members might be persuaded to change their mind. I implore them to do so, because it is entirely specious—as the hon. Member for Warwick and Leamington (Matt Western), who is a thoughtful person, knows—to compare the cost of living with the price of freedom. The price of freedom is the capacity to disarm, to disturb, sometimes to make people feel uncomfortable and certainly to challenge the status quo. That is the nature of academic discourse, yet it is at risk.
+
+Secondly, the evidence is clear. In Committee, Trevor Phillips said that
+
+“in the last three to five years we have seen example after example of where university authorities have essentially abdicated their responsibility to protect their own academics and students.”––[Official Report, Higher Education (Freedom of Speech) Public Bill Committee, 7 September 2021; c. 23, Q42.]
+
+Professor Biggar said:
+
+“My view is that the Bill would protect lawful free speech.”––[Official Report, Higher Education (Freedom of Speech) Public Bill Committee, 7 September 2021; c. 24, Q44.]
+
+He went on to say why that was necessary. Professor Ahmed said:
+
+“With regard to self-censorship, my own experience has been that it has changed drastically over the last 10 years…I know that there are people who bite their tongues in the sense that they will not object to certain things that are pointless and stupid, simply because they are afraid of the consequences.”––[Official Report, Higher Education (Freedom of Speech) Public Bill Committee, 7 September 2021; c. 15, Q26.]
+
+The consequences for academics and students can be dire: they are isolated, they are persecuted and in some cases, as we have heard, they are even driven out of their job.
+
+The Government have got this right, and the Opposition have got it badly wrong. As Members of this House know, I am not a person who thinks that a single party or a single side of the House has a monopoly on wisdom, but on this particular occasion all the wisdom lies with the Government Front Bench. I implore the hon. Member for Warwick and Leamington and other Opposition Members to change their mind, look to their conscience and defend freedom of speech, as I know the Minister is doing and the Bill does.
+
+20:36:00
+
+Jim Shannon
+It is a pleasure to follow the right hon. Member for South Holland and The Deepings (Sir John Hayes). Unfortunately, I could not make a speech on Report because I was attending a meeting with the Foreign Secretary about the Northern Ireland protocol, but I want to contribute on Third Reading. I declare an interest as chair of the all-party group on international freedom of religion or belief.
+
+The Bill is critical. I commend the Minister for how she has delivered it and for her speech on Report, which I was able to hear. The Government have delivered the very legislation that I, personally, wish to see. I believe that my constituents and those who write to me—my mailbag is very substantial—also wish to see it. The Government have done a good job today; I am absolutely in favour of the Bill.
+
+I could give examples of Christian conferences not having their dates renewed at universities, or of young Christian unions being pigeonholed by activists into expressing an opinion based on their sincerely held belief, only for it to be cited as hate speech. That is ridiculous, and that is why the Government have introduced legislation, which I very much welcome, to address the matter. The Bill will make a difference and protect Christians and other religious groups. I never thought that we would be in a place where we needed to take these steps, but the fact is that we have to, and the Government have done so.
+
+A minority of people in influential places have been gift-wrapped the ability to halt freedom of speech in our universities, which, instead of being a place of open thought and debate, are now closed to anything that is not of a certain agenda and persuasion. I thank the Minister and our Government for the steps that they  have taken to bring the Bill to completion. The Government have ensured that there will be no loopholes that could be used by those who wish to exercise their freedom of speech but who cannot afford others the same very basic right, which the right hon. Member for South Holland and The Deepings referred to on Report and just now.
+
+I am given to understand that reforming the Human Rights Act may have led to the more restrictive definition of academic freedom in the original wording of the Bill, which included a caveat that academic freedom exists only within an academic’s field of expertise. This was expressed to me in a briefing by Universities UK. UUK has subsequently welcomed amendments 1, 2 and 16, which remove the express limitation that academic freedom covers only matters within an academic’s field of expertise, and I agree: a teacher of mathematics should still be able to express his belief about biology in a considerate and kind manner, should the need arise. UUK understands that the Government intend to provide guidance for universities in respect of the new duties in the Bill. That is particularly significant given that duties can often appear to overlap or sit in tension with one another. An example is the Prevent duty, which has legal protection. The Government have enshrined in the Bill protection for the people whom I represent, and, indeed, for people throughout this great United Kingdom of Great Britain and Northern Ireland.
+
+I support the Bill in the hope that we will have freedom of speech, freedom of religion or belief and the freedom to choose no belief, if that is what people want, and that that will be enshrined in our universities rather than this seemingly insidious desire by a select few to shut down debate and oppose anyone who cannot agree with their “enlightenment”. My goodness me, what a poor world it would be if everyone were like that! Jews deserve the right to practise their religion in so far as it does not harm others, as do Muslims, Sikhs and Buddhists. They deserve the right to express their beliefs—as they still do—in a way that does not harm anyone. This is about respect, and I am browned off with seeing so much disrespect for people.
+
+We must also legislate, increasingly, to ensure that those who wish to speak of Christ and His teachings have the right to do so in the halls of their university student unions, and not just in their churches or chapels.
+
+Question put and agreed to.
+
+Bill accordingly read the Third time and passed.
+
