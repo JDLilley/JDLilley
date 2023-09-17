@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I can help you review the text file open in your current webpage. Here is my response:
+
+Summary - The text file is a transcript of a debate in the UK Parliament on the Criminal Justice and Courts Bill. The bill aims to reform secure colleges, judicial review, and other aspects of the justice system.
+
+For - Voting 'Ayes' means supporting the Government's amendments to the bill, which would allow girls and under-15s to be detained in secure colleges, limit judicial review on procedural defects and financial information, and introduce a 'highly likely' test for granting permission.
+
+Against - Voting 'Noes' means rejecting the Government's amendments and upholding the Lords' amendments, which would exclude girls and under-15s from secure colleges, preserve judicial discretion on procedural defects and financial information, and remove the 'highly likely' test for granting permission.
+
+Decision - Voting 'Aye' is associated with greater police powers, harsher punishments, and strengthening Crime & Justice. It reflects the Government's view that secure colleges are a positive innovation, that judicial review is being abused by campaigners and third parties, and that unnecessary costs and delays should be avoided.
+
+Sentiment - A

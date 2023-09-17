@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I can help you review the text file open in your current webpage. Here is my response based on your request:
+
+Summary - The text file is a transcript of a debate in the UK Parliament on the Counter-Terrorism and Security Bill, which aims to prevent people from being drawn into terrorism. The debate covers various aspects of the bill, such as the general duty on specified authorities, the guidance for the duty, the role of support panels, and the review of international best practice.
+
+For - Voting 'Ayes' in the division means supporting New Clause 12, which would require the Secretary of State to conduct a review of international best practice around deradicalisation and make recommendations for a comprehensive programme in the UK[1]. The supporters of the clause argue that it is necessary to learn from other countries and to challenge the ideology of extremism.
+
+Against - Voting 'Noes' in the division means rejecting New Clause 12, which would require the Secretary of State to conduct a review of international best practice around deradicalisation and make recommendations for a comprehensive programme in the UK[1]. The opponents of the clause argue that it is unnecessary and duplicative, as the Government already has a robust strategy and guidance for preventing radicalisation.
+
+Decision - Voting 'Aye' in the division is associated with increased accountability and limiting powers of Defence & Armed Forces, as it would imply a more critical and evidence-based approach to deradicalisation and counter-terrorism. It would also suggest a more collaborative and inclusive attitude towards civil society and international partners.
+
+Sentiment - B

@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I can help you review the text file open in your current webpage. Here is my response:
+
+Summary - The text file is a transcript of a debate in the UK House of Commons on the local government finance report for 2015-16. The report sets out the funding and spending power of local authorities in England.
+
+For - Voting for the report means supporting the government's policy of reducing central funding to local authorities and encouraging them to grow their local economies, freeze council tax and transform their services. The government claims the report is fair and sustainable.
+
+Against - Voting against the report means opposing the government's policy of imposing disproportionate and unfair cuts on local authorities, especially those with the highest needs and deprivation. The opposition argues the report is damaging local services and undermining local democracy.
+
+Decision - Voting for the report is associated with austerity and regulation, as it reduces the overall resources available to local authorities and imposes a referendum requirement for any council tax increase above 2%.
+
+Sentiment - B

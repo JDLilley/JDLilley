@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I can help you review the text file open in your current webpage. Here is my response based on your request:
+
+Summary - The text file is a transcript of a debate in the UK Parliament on the Criminal Justice and Courts Bill, which aims to reform various aspects of the criminal justice system and judicial review. The debate covers several amendments and clauses related to planning, judicial review, sentencing, and costs.
+
+For - Voting 'Ayes' in the division means supporting amendment 35, which would delete clause 58 of the Bill[1]. Clause 58 imposes costs on interveners who participate in judicial review cases[2]. Amendment 35 argues that clause 58 would have a chilling effect on the role of interveners, who often assist the court with their expertise and arguments.
+
+Against - Voting 'Noes' in the division means opposing amendment 35 and keeping clause 58 of the Bill[1]. Clause 58 aims to prevent abusive or frivolous interventions that may delay or complicate judicial review cases. It also seeks to ensure that interveners bear some of the costs of their involvement, rather than shifting them to other parties.
+
+Decision - Voting 'Aye' in the division is associated with freedom and autonomy, limiting police powers and softer punishments, limiting Crime & Justice. This is because clause 58 would restrict the ability of interveners to challenge the decisions or actions of public authorities, such as the police or the courts, that may affect their rights or interests. It would also increase the risk of interveners facing high costs orders, which could deter them from pursuing public interest litigation.
+
+Sentiment - B

@@ -1,0 +1,11 @@
+## Bing
+
+Summary - The text file is a transcript of a debate in the UK Parliament on the Infrastructure Bill, which covers various topics related to energy, environment, and planning. The debate includes amendments and new clauses proposed by different MPs, as well as divisions on some of them.
+
+For - Voting 'Ayes' in the division means supporting new clause 1, which would require environmental permits for hydraulic fracturing activities. This would ensure that fracking is regulated and controlled to prevent environmental damage and health risks.
+
+Against - Voting 'Noes' in the division means opposing new clause 1, which would require environmental permits for hydraulic fracturing activities. This would hinder the development of shale gas and geothermal energy, which could provide economic benefits and energy security for the UK[1].
+
+Decision - Voting 'Aye' in the division is associated with ethical considerations, regulation, and tradition, in the context of Standards & Technology. This is because it reflects a concern for the potential negative impacts of fracking on the environment and public health, and a preference for more established and renewable sources of energy.
+
+Sentiment - B

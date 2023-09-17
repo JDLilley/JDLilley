@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I will try to help you with your request. Here is my response:
+
+Summary - The text file is a transcript of a debate in the UK Parliament on the Criminal Justice and Courts Bill, which aims to reform various aspects of the justice system. The debate focuses on the proposed changes to judicial review and planning challenges.
+
+For - Voting 'Ayes' in the division means supporting amendment 23, which would remove clause 55 from the Bill[1]. Clause 55 introduces a new test for granting permission for judicial review, requiring the court to consider whether the outcome would have been substantially different if the conduct complained of had not occurred[2].
+
+Against - Voting 'Noes' in the division means opposing amendment 23, and keeping clause 55 in the Bill[1]. Clause 55 is intended to prevent frivolous or abusive claims for judicial review, and to reduce the burden on public authorities and the courts.
+
+Decision - Voting 'Aye' in the division could be seen as associated with freedom and autonomy, limiting police powers and softer punishments, limiting Crime & Justice. This is because clause 55 could restrict access to justice for individuals and groups who challenge unlawful decisions by public authorities, and undermine the rule of law and the constitutional role of judicial review.
+
+Sentiment - B

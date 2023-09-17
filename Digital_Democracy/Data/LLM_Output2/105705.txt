@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I can help you review the text file open in your current webpage. Here is my response:
+
+Summary - The text file is a transcript of a debate in the UK Parliament on the Finance Bill, which deals with tax rates and public spending. The main topic is the 50p rate of income tax for high earners.
+
+For - Voting for the new clause means supporting the Labour party's proposal to restore the 50p rate of income tax for people earning over £150,000 a year. The Labour party argues that this would raise more revenue and reduce inequality.
+
+Against - Voting against the new clause means rejecting the Labour party's proposal and keeping the 45p rate of income tax for high earners. The Conservative party argues that this would encourage growth and investment and increase tax compliance.
+
+Decision - Voting for the new clause is associated with austerity and regulation, because it implies higher taxes and more government intervention in the economy.
+
+Sentiment - B

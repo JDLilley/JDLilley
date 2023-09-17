@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I can help you review the text file open in your current webpage. Here is my response based on your request:
+
+Summary - The text file contains a debate on the Criminal Justice and Courts Bill in the UK Parliament in 2014. The Bill aimed to reform various aspects of the criminal justice system, such as sentencing, judicial review, and legal aid. The debate focused on the proposed changes to judicial review and their impact on access to justice and the rule of law.
+
+For - Voting 'Ayes' in the division means supporting the new clause NC6, which would limit the application of the provisions of the Bill on judicial review proceedings that relate to the environment, in line with the definition of environmental information in the Aarhus Convention[1]. This would protect the right of citizens and organisations to challenge environmental decisions that affect them.
+
+Against - Voting 'Noes' in the division means opposing the new clause NC6, and maintaining that the provisions of the Bill on judicial review should apply to all types of cases, including environmental ones. This would prevent abuse of the process by frivolous or vexatious claimants who seek to delay or frustrate legitimate decisions that are in the public interest.
+
+Decision - Voting 'Aye' in the division is associated with freedom and autonomy, limiting police powers and softer punishments, limiting Crime & Justice. This is because it would preserve the ability of individuals and groups to hold the state accountable for its actions that may harm the environment, which is a fundamental human right and a public good. It would also reduce the risk of imposing excessive costs or restrictions on those who seek to challenge environmental decisions.
+
+Sentiment - B

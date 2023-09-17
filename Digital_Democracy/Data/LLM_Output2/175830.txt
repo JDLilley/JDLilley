@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I can help you review the text file open in your current webpage. Here is my response:
+
+Summary - The text file is a transcript of a debate in the UK Parliament about a bill to ban public subsidies for onshore wind turbines. The bill's sponsor argues that wind power is inefficient, costly, and distorts the energy and farming markets. The bill passes by a narrow margin.
+
+For - Voting 'Ayes' means supporting the bill to end public subsidies for onshore wind turbines. It means agreeing that wind power is a bad deal for taxpayers and consumers, and that other forms of low carbon generation are more effective and reliable.
+
+Against - Voting 'Noes' means opposing the bill to end public subsidies for onshore wind turbines. It means disagreeing that wind power is inefficient and costly, and that it provides environmental and economic benefits. It means supporting the UK's legally binding green energy targets.
+
+Decision - Voting 'Aye' in the division is associated with prioritising economic growth and development in the context of Environment & Energy. It reflects a preference for reducing the cost of energy bills and supporting other technologies that can produce power when needed.
+
+Sentiment - B

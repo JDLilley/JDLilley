@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I can help you review the text file open in your current webpage. Here is my response based on your request:
+
+Summary - The text file is a transcript of a debate in the UK House of Commons on 13 May 2014. The main topic is a bill to prohibit unpaid internships and promote social mobility. The bill was supported by 181 MPs and opposed by 19 MPs.
+
+For - Voting 'Ayes' means supporting the bill to ban unpaid internships, which are seen as unfair, exploitative and a barrier to access competitive professions. The bill aims to ensure that all interns are paid the national minimum wage and have equal opportunities regardless of their background.
+
+Against - Voting 'Noes' means opposing the bill to ban unpaid internships, which are seen as valuable, flexible and a gateway to gain work experience. The bill is considered too heavy-handed, restrictive and damaging to employers who offer short-term placements to young people.
+
+Decision - Voting 'Aye' in the division is associated with greater spending on and provision of welfare and social housing, because it implies a commitment to reduce inequality, support low-income workers and invest in education and skills.
+
+Sentiment - A

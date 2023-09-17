@@ -1,0 +1,13 @@
+## Bing
+
+Thank you for your request. Here is my response based on the text file open in your current webpage:
+
+Summary - The text file contains a transcript of a debate in the UK Parliament on the Infrastructure Bill, which covers various topics related to energy, transport, and planning. The debate focuses on the pros and cons of shale gas extraction and hydraulic fracturing, also known as fracking, and the proposed amendments to regulate or restrict this activity.
+
+For - Voting 'Ayes' in the division means supporting new clause 2, which would devolve the licensing of onshore shale gas extraction to Scotland. This would allow the Scottish Parliament to decide whether to allow or ban fracking in Scotland, based on its own environmental and economic interests.
+
+Against - Voting 'Noes' in the division means opposing new clause 2, which would devolve the licensing of onshore shale gas extraction to Scotland. This would maintain the UK Government's authority over this matter, and ensure a consistent and coherent approach to developing shale gas resources across the UK.
+
+Decision - Voting 'Aye' in the division is associated with ethical considerations, regulation, and tradition, in the context of Standards & Technology. This is because it reflects a respect for the devolution settlement and the principle of subsidiarity, as well as a concern for the potential environmental and social impacts of fracking.
+
+Sentiment - B

@@ -1,0 +1,11 @@
+## Bing
+
+Summary - The text file is a transcript of a debate in the UK Parliament on the Finance Bill, which contains various tax measures. The debate focuses on a proposed new clause that would require the government to publish a report on the impact of the additional rate of income tax, which was reduced from 50% to 45% for high earners.
+
+For - Voting for the new clause means supporting the Labour party's argument that the government made a wrong and unfair decision to cut the tax rate for the richest people, while ordinary working people are worse off. The new clause would provide more evidence and transparency on the revenue and distributional effects of the tax cut.
+
+Against - Voting against the new clause means backing the government's position that the tax cut was justified and effective in increasing the tax revenue from the rich, who contribute more to public services and economic growth. The government claims that the new clause is unnecessary and based on flawed and outdated analysis.
+
+Decision - Voting for the new clause is associated with austerity and regulation, because it implies that the government should raise more tax from the rich and spend it on public services and benefits. It also suggests that the government should intervene more in the tax system to prevent avoidance and ensure fairness.
+
+Sentiment - B

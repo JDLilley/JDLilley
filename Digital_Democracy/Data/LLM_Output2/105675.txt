@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I can help you review the text file open in your current webpage. Here is my response based on your request:
+
+Summary - The text file is a transcript of a debate in the UK Parliament on the Consumer Rights Bill, which aims to improve the rights and protections of consumers in various sectors. The debate covers several amendments and new clauses proposed by different MPs, and the arguments for and against them.
+
+For - Voting 'Ayes' in the division on New Clause NC13 means supporting the proposal to require traders to provide consumers with information on their rights under the Bill before entering into a contract. This would enhance consumer awareness and empowerment, and reduce the risk of disputes and complaints.
+
+Against - Voting 'Noes' in the division on New Clause NC13 means opposing the proposal to require traders to provide consumers with information on their rights under the Bill before entering into a contract. This would avoid imposing additional burdens and costs on businesses, and respect the freedom and responsibility of consumers to inform themselves.
+
+Decision - Voting 'Aye' in the division on New Clause NC13 is associated with freedom & autonomy, limiting police powers & softer punishments, limiting Crime & Justice. This is because it would reduce the need for enforcement and legal action by ensuring that consumers are well informed of their rights and can exercise them effectively.
+
+Sentiment - B

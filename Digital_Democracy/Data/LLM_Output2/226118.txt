@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I have reviewed the text file open in your current webpage and here is my response:
+
+Summary - The text file is a transcript of a debate in the UK House of Commons on a bill that would give the House of Lords the power to expel or suspend its members for misconduct[1]. The bill was supported by the Government and the Opposition, but opposed by some Conservative backbenchers who raised concerns about retrospection and fairness.
+
+For - Voting 'Ayes' in the division means supporting amendment 6, which would limit the application of the bill to conduct that occurred after the coming into force of the bill and any Standing Orders made under it[2]. This would prevent the House of Lords from changing its rules retrospectively and sanctioning members for past conduct that was not in breach of the code of conduct at the time.
+
+Against - Voting 'Noes' in the division means rejecting amendment 6 and keeping the bill as it is. This would allow the House of Lords to expel or suspend members for conduct that occurred before the coming into force of the bill, if it was not public knowledge before that time[1]. This would enable the House of Lords to deal with serious misconduct that comes to light after the bill is passed[3].
+
+Decision - Voting 'Aye' in the division is not directly associated with either greater or lesser spending on and provision of welfare and social housing. It is more related to the principle of natural justice and the protection of individual rights. However, one could argue that voting 'Aye' could indirectly favour those who are more likely to benefit from welfare and social housing, as it could prevent some peers who have engaged in misconduct from being expelled or suspended, and thus allow them to continue to influence legislation and policy on these matters.
+
+Sentiment - C

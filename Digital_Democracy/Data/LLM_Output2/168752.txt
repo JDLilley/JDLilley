@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I can help you review the text file open in your current webpage. Here is my response based on your request:
+
+Summary - The text file is a transcript of a debate in the UK House of Commons on the Criminal Justice and Courts Bill, which aims to reform various aspects of the justice system. The debate focuses on three amendments proposed by the House of Lords that the government disagrees with.
+
+For - Voting 'Ayes' means supporting the government's position to reject the Lords amendments. The government argues that the amendments would undermine its reforms to judicial review, which are intended to prevent misuse, delay and cost of challenging public decisions.
+
+Against - Voting 'Noes' means opposing the government's position and supporting the Lords amendments. The opposition argues that the amendments would protect judicial discretion, access to justice and the rule of law. They claim that the government's reforms are an attack on judicial review and a constitutional provocation[1].
+
+Decision - Voting 'Aye' is associated with greater police powers, harsher punishments and strengthening Crime & Justice. The government's reforms aim to limit the scope and availability of judicial review, which is a remedy that can challenge unlawful or irrational decisions by public authorities[2]. By reducing the opportunities for judicial review, the government would have more power and discretion to enforce its policies and decisions without being held accountable by the courts.
+
+Sentiment - A

@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I can help you review the text file open in your current webpage. Here is my response in the format you requested:
+
+Summary - The text file is a transcript of a debate in the UK Parliament on the Taxation of Pensions Bill, which introduces reforms to give more freedom and choice to pension savers. The debate covers various aspects and implications of the Bill, such as tax avoidance, consumer protection, guidance guarantee, and social care.
+
+For - Voting 'Ayes' in the division means supporting Labour's new clause 1, which calls for a Treasury review of the impact of the Bill on Government revenues and tax avoidance opportunities[1]. The supporters of the new clause argue that the Bill creates loopholes for salary sacrifice schemes and that the Government should monitor and report on the effects of the reforms.
+
+Against - Voting 'Noes' in the division means rejecting Labour's new clause 1 and supporting the Government's position. The opponents of the new clause argue that the Bill already contains measures to prevent tax avoidance, such as the money purchase annual allowance, and that the Government will keep the system under review and take action if necessary.
+
+Decision - Voting 'Aye' in the division is associated with greater spending on and provision of welfare and social care, because it implies a concern for ensuring that the Government does not lose tax revenues that could be used to fund public services. It also implies a concern for protecting consumers from making poor decisions that could leave them dependent on state support in later life.
+
+Sentiment - A

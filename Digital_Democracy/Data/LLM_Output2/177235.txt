@@ -1,0 +1,11 @@
+## Bing
+
+Summary - The text file is a transcript of a debate in the UK Parliament on the Infrastructure Bill, which covers various topics related to energy, transport, and planning. The debate focuses on the pros and cons of shale gas extraction and hydraulic fracturing, also known as fracking.
+
+For - Voting 'Ayes' in the division means supporting new clause 9, which proposes a moratorium on onshore unconventional petroleum extraction until an independent assessment of its impacts on climate change, environment, health, and economy is carried out. This would prevent any fracking activity until its safety and sustainability are proven.
+
+Against - Voting 'Noes' in the division means opposing new clause 9, and allowing the Government to continue with its plans to develop shale gas and geothermal energy resources in the UK. This would enable the exploitation of new energy sources that could provide greater energy security, growth, and jobs, while reducing greenhouse gas emissions.
+
+Decision - Voting 'Aye' in the division is associated with ethical considerations, regulation, and tradition, in the context of Standards & Technology. This is because it reflects a cautious and responsible approach to introducing new technologies that may have significant environmental and social consequences. It also respects the views and rights of local communities that may be affected by fracking.
+
+Sentiment - B

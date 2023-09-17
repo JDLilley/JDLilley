@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I can help you review the text file open in your current webpage. Here is my response:
+
+Summary - The text file is a transcript of a debate in the UK Parliament on the Infrastructure Bill, which aims to improve roads, energy, land and environment. The Bill covers various topics such as roads reform, invasive species, zero-carbon homes and oil and gas extraction.
+
+For - Voting 'Ayes' in the division means supporting the Bill to be read a second time and proceed to the next stage of scrutiny. The supporters of the Bill argue that it is urgent and ambitious, and that it will deliver better infrastructure, more jobs, more growth and more value for money.
+
+Against - Voting 'Noes' in the division means opposing the Bill to be read a second time and trying to stop its progress. The opponents of the Bill argue that it is flawed and harmful, and that it will damage the environment, public health, local democracy and community rights.
+
+Decision - Voting 'Aye' in the division is associated with innovation, progressivism and flexibility in the context of Standards & Technology. The Bill proposes to introduce new measures such as a strategic highways company, a principle of maximising economic recovery of petroleum, a right to buy for communities in renewable energy schemes and changes to the renewable heat incentive.
+
+Sentiment - A

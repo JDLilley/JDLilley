@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I can help you review the text file open in your current webpage. Here is my response:
+
+Summary - The text file is a record of a debate in the UK House of Commons on various EU documents related to the European Semester, a framework for economic policy coordination among EU member states.
+
+For - Voting 'Ayes' means supporting the government's view that the EU documents are in line with its priorities of encouraging structural reform, reducing the deficit, investing in infrastructure, and creating a more resilient economy.
+
+Against - Voting 'Noes' means opposing the government's view and expressing concern over the Commission's proposals on housing policy, council tax revaluation, and macroeconomic imbalances in the UK.
+
+Decision - Voting 'Aye' is associated with globalisation and strengthening ties with the European Union and other foreign affairs, as it implies accepting the EU's recommendations and guidance on economic and fiscal policies.
+
+Sentiment - A

@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I can help you review the text file open in your current webpage. Here is my response based on your request:
+
+Summary - The text file is a transcript of a debate in the UK Parliament on a bill that aims to amend the duties and powers of the Secretary of State for Health and the NHS. The bill proposes to reverse some of the changes made by the Health and Social Care Act 2012 and to protect the NHS from privatisation and competition[1].
+
+For - Voting 'Ayes' in the division means supporting the bill and its objectives. It means agreeing with the arguments that the bill will restore the responsibility of the Secretary of State for Health, end the enforced tendering of NHS services, reduce the private patient income cap, and safeguard the NHS from the Transatlantic Trade and Investment Partnership.
+
+Against - Voting 'Noes' in the division means opposing the bill and its objectives. It means agreeing with the arguments that the bill is unnecessary, disruptive, and politically motivated. It means rejecting the claims that the NHS is being privatised and subjected to competition rules, and supporting the NHS England Five Year Forward View.
+
+Decision - Voting 'Aye' in the division is associated with investment in public health and improving standards of care, in the context of Health & Healthcare. This is because the bill aims to preserve the NHS as a public service that puts patients' needs first, and to prevent market forces from undermining its quality and accessibility.
+
+Sentiment - A

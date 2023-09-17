@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I can help you review the text file open in your current webpage. Here is my response:
+
+Summary - The text file is a transcript of a debate in the UK Parliament on the Criminal Justice and Courts Bill. The main topics are secure colleges for young offenders and judicial review reforms. The Bill is opposed by Labour and some Conservative and Liberal Democrat MPs.
+
+For - Voting 'Ayes' means supporting the Government's proposals to introduce secure colleges as a new form of youth custody, and to limit judicial reviews based on minor procedural defects or third-party funding. The Government argues that these measures will improve education, reduce reoffending, and save taxpayers' money.
+
+Against - Voting 'Noes' means rejecting the Government's proposals and accepting the Lords amendments that would exclude girls and under-15s from secure colleges, and that would preserve the courts' discretion to hear judicial reviews regardless of the outcome or the funding source. The opposition argues that these measures are dangerous, untested, and undemocratic.
+
+Decision - Voting 'Aye' in the division is associated with greater police powers, harsher punishments, and strengthening Crime & Justice. It implies that the Government has the authority to decide how to deal with young offenders and public authorities, and that the courts should not interfere with their decisions unless there is a serious error or injustice.
+
+Sentiment - A

@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I have reviewed the text file open in your current webpage and generated the following response based on your request:
+
+Summary - The text file is a transcript of a debate in the UK Parliament on the Finance Bill 2023, which introduces pension reforms and tax changes. The debate focuses on the impact and implications of the reforms for savers and the state.
+
+For - Voting For (Ayes) in the division means supporting the Labour amendment that would require the Treasury to publish analysis of the pension reforms, including distributional, behavioural and financial risk assessments, and the provision of independent face-to-face guidance.
+
+Against - Voting Against (Noes) in the division means rejecting the Labour amendment and backing the Government's pension reforms, which aim to give savers more choice and flexibility over their pension wealth, and to provide impartial guidance through various means and methods.
+
+Decision - Voting For (Ayes) in the division is associated with austerity & regulation, as it implies a cautious and critical approach to the pension reforms, and a demand for more transparency and accountability from the Treasury. Voting For (Ayes) also suggests a preference for independent face-to-face guidance over other forms of guidance.
+
+Sentiment - B

@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I have reviewed the text file open in your current webpage and here is my response:
+
+Summary - The text file is a transcript of a debate in the UK Parliament on the Deregulation Bill, which aims to reduce the burden of regulation on businesses and individuals. The debate focuses on the health and safety aspects of the Bill, especially for self-employed workers[1].
+
+For - Voting 'Ayes' in the division means supporting Amendment 72, which would remove clause 1 of the Bill. Clause 1 would exempt some self-employed persons from health and safety law, unless they conduct a prescribed activity[2][3]. The amendment argues that clause 1 is unnecessary, unhelpful and unwise, and that it would create confusion and lower standards.
+
+Against - Voting 'Noes' in the division means opposing Amendment 72 and keeping clause 1 of the Bill. Clause 1 would free some self-employed persons from health and safety law, unless they pose a significant risk of harm to others[2]. The clause is based on the recommendations of Professor Löfstedt, who reviewed health and safety legislation in 2011[4][5]. The clause aims to reduce the administrative hoops that self-employed people have to jump through[6].
+
+Decision - Voting 'Aye' in the division is associated with ethical considerations, regulation, and tradition, in the context of Standards & Technology. This is because voting 'Aye' would uphold the existing health and safety law, which is based on ethical principles of protecting workers and the public from harm. It would also maintain the regulatory framework that ensures clarity and consistency in applying the law. Furthermore, it would respect the tradition of health and safety legislation in the UK, which has been developed over decades with the involvement of trade unions, employers and experts.
+
+Sentiment - B

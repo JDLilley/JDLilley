@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I can help you review the text file open in your current webpage. Here is my response based on your request:
+
+Summary - The text file is a transcript of a debate in the UK Parliament on the Consumer Rights Bill, which aims to protect consumers from unfair practices by businesses. The debate covers various aspects of the bill, such as letting agent fees, secondary ticketing, and unfair contract terms.
+
+For - Voting 'Ayes' in the division means supporting the amendment proposed by the Labour party, which would ban letting agents from charging fees to tenants. The amendment argues that such fees are exploitative, unaffordable, and distort the market for private rented accommodation[1].
+
+Against - Voting 'Noes' in the division means opposing the amendment and supporting the government's approach, which would require letting agents to publicise their fees and join a redress scheme. The government argues that banning fees would increase rents, harm good agents, and ignore the evidence from Scotland.
+
+Decision - Voting 'Aye' in the division is associated with freedom and autonomy, limiting police powers and softer punishments, limiting Crime & Justice. This is because banning letting agent fees would reduce the financial burden on tenants, increase their choice and mobility, and prevent them from being penalised for minor breaches of contract.
+
+Sentiment - B

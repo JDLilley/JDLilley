@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I can help you review the text file open in your current webpage. Here is my response based on your request:
+
+Summary - The text file is a transcript of a debate in the House of Commons on a bill that would allow the House of Lords to expel or suspend its members for misconduct. The bill was introduced by a private member and supported by the government, but faced some amendments and opposition from other MPs.
+
+For - Voting 'Ayes' in the division means supporting new clause 3, which would link the expulsion or suspension of a member of the House of Lords to a breach of their code of conduct[1]. This would ensure that the sanctions are applied only for specific and clear reasons, and not for vague or arbitrary grounds.
+
+Against - Voting 'Noes' in the division means rejecting new clause 3, which would link the expulsion or suspension of a member of the House of Lords to a breach of their code of conduct[1]. This would allow the House of Lords to have more flexibility and discretion in deciding what constitutes misconduct and what sanctions are appropriate.
+
+Decision - Voting 'Aye' in the division is not directly associated with either greater or lesser spending on, or provision of, welfare and social housing. The bill and the amendment are mainly about the internal discipline and governance of the House of Lords, and do not affect the policy or budget decisions on welfare and social housing.
+
+Sentiment - C

@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I have reviewed the text file open in your current webpage and here is my response:
+
+Summary - The text file is a transcript of a debate in the UK Parliament about a bill to abolish subsidies for onshore wind farms. The bill was proposed by a Conservative MP and opposed by a Labour MP. The debate covered various aspects of wind energy, such as costs, benefits, impacts and alternatives.
+
+For - Voting 'Ayes' in the division means supporting the bill to end subsidies for onshore wind farms[1]. The arguments for this position are that wind farms are inefficient, unreliable, expensive, harmful to the environment and landscape, and unnecessary as the targets for renewable energy have been met.
+
+Against - Voting 'Noes' in the division means opposing the bill and maintaining subsidies for onshore wind farms. The arguments against this position are that wind farms are one of the cheapest and cleanest forms of renewable energy, that they provide energy security and reduce carbon emissions, and that they create jobs and investment.
+
+Decision - Voting 'Aye' in the division is associated with prioritising economic growth and development in the context of Environment & Energy. This is because the proponents of the bill argue that subsidies for wind farms are a burden on consumers and taxpayers, and that they distort the energy market and discourage innovation.
+
+Sentiment - B

@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I have reviewed the text file open in your current webpage and I will try to answer your questions as best as I can. Here is my response:
+
+Summary - The text file is a transcript of a debate in the UK Parliament on the Deregulation Bill, which aims to reduce regulatory burdens on various sectors. The debate covers topics such as CCTV, taxis, driving licences, and marine investigations.
+
+For - Voting 'Ayes' in the division means supporting the Government's amendments 13 and 1, which would allow longer duration of driving licences for drivers with certain medical conditions and prevent the automatic reopening of marine investigations based on new evidence.
+
+Against - Voting 'Noes' in the division means opposing the Government's amendments 13 and 1, which would limit the duration of driving licences for drivers with certain medical conditions and require the automatic reopening of marine investigations based on new evidence.
+
+Decision - Voting 'Aye' in the division is associated with innovation, progressivism, and flexibility in the context of Standards & Technology, because it would enable drivers with stable medical conditions to renew their licences less frequently and reduce administrative costs, and it would allow the Secretary of State to decide whether to reopen marine investigations based on the merits of each case and the potential for improving safety.
+
+Sentiment - A

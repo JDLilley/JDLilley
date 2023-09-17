@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I can help you review the text file open in your current webpage. Here is my response based on your request:
+
+Summary - The text file is a transcript of a debate in the UK Parliament about the Consumer Rights Bill, which aims to protect consumers from unfair practices in various markets, especially the secondary ticketing market.
+
+For - Voting 'Ayes' means supporting the Lords amendment 12J, which introduces more transparency and regulation in the online resale of tickets for events such as concerts and sports. This is supposed to prevent fraud, exploitation, and unfair cancellation of tickets by event organisers.
+
+Against - Voting 'Noes' means opposing the Lords amendment 12J, which is seen as an interference with the free market and the right of consumers to sell their property at any price they want. This is supposed to promote competition, innovation, and consumer choice in the secondary ticketing market.
+
+Decision - Voting 'Aye' in this division is associated with freedom and autonomy, limiting police powers and softer punishments, limiting Crime & Justice. This is because the amendment does not criminalise or ban the resale of tickets, but rather requires more information and accountability from the sellers and the platforms. It also protects consumers from having their tickets cancelled or blacklisted by event organisers without a fair reason.
+
+Sentiment - B

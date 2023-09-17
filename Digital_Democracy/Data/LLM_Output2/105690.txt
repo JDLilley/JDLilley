@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I can help you review the text file open in your current webpage. Here is my response based on your request:
+
+Summary - The text file is a transcript of a parliamentary debate on the Deregulation Bill in 2014. The Bill aims to reduce regulatory burdens on businesses and individuals. The debate covers various topics such as CCTV, taxis, driving, and marine investigations.
+
+For - Voting 'Ayes' in the division means supporting the Government's proposal to allow private hire vehicle operators to subcontract bookings to operators licensed in a different district[1]. This would increase flexibility and convenience for customers and drivers, and reduce costs for operators.
+
+Against - Voting 'Noes' in the division means opposing the Government's proposal and keeping the current system that requires private hire vehicle operators to subcontract bookings only to operators licensed in the same district[1]. This would maintain local control and oversight of taxi services, and protect public safety and standards.
+
+Decision - Voting 'Aye' in the division is associated with innovation, progressivism, and flexibility in the context of Standards & Technology. It reflects a desire to modernize and streamline the taxi industry, and to embrace new technologies and business models that can improve efficiency and customer satisfaction.
+
+Sentiment - A

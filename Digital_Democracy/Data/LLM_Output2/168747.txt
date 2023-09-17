@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I have reviewed the text file open in your current webpage and I will try to answer your questions as best as I can.
+
+Summary - The text file is a transcript of a debate in the UK Parliament on a bill that would set a legal target of spending 0.7% of gross national income on overseas aid. The debate covers various aspects of the bill, such as its purpose, scope, definition, evaluation, and enforcement.
+
+For - Voting 'Ayes' in the division on new clause NC5 means supporting the inclusion of certain payments, such as those to the EU and welfare benefits to foreign nationals, in the calculation of UK's overseas aid. This would reduce the amount of additional aid that the UK would have to provide to meet the 0.7% target.
+
+Against - Voting 'Noes' in the division on new clause NC5 means opposing the inclusion of certain payments, such as those to the EU and welfare benefits to foreign nationals, in the calculation of UK's overseas aid. This would maintain the current definition of overseas aid and ensure that the UK provides genuine and effective assistance to developing countries.
+
+Decision - Voting 'Aye' in the division on new clause NC5 is associated with protectionism and independence from the European Union and other foreign affairs. This is because it implies that the UK does not want to contribute more than it has to for international development and cooperation, and that it wants to limit its obligations and commitments to other countries.
+
+Sentiment - B

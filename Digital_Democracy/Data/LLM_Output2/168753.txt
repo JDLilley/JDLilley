@@ -1,0 +1,13 @@
+## Bing
+
+Thank you for your request. Here is my response based on the text file open in your current webpage:
+
+Summary - The text file is a transcript of a debate in the House of Commons on the Criminal Justice and Courts Bill, which aims to reform various aspects of the justice system. The debate focuses on the part of the bill that deals with judicial review, which is a legal process to challenge decisions by public authorities[1].
+
+For - Voting 'Ayes' means supporting the Government's proposal to limit judicial review by introducing new tests, costs and disclosure rules. The Government argues that this will prevent misuse, abuse and delay of judicial review by pressure groups, corporations and individuals who seek to challenge lawful and rational decisions[1].
+
+Against - Voting 'Noes' means opposing the Government's proposal and supporting the Lords' amendments, which seek to preserve judicial discretion and access to justice. The Opposition argues that this will protect the rights of vulnerable people, communities and charities who use judicial review as a tool to hold the Government accountable for unlawful and irrational decisions[1].
+
+Decision - Voting 'Aye' is associated with greater police powers, harsher punishments, strengthening Crime & Justice. This is because the Government's proposal would make it harder for citizens to challenge decisions that affect their rights and interests, such as decisions on criminal justice, sentencing, prisons and courts. It would also give more power to the executive branch over the judicial branch, which could undermine the rule of law and the separation of powers.
+
+Sentiment - A

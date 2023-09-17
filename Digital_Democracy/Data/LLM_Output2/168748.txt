@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I have reviewed the text file open in your current webpage and I will try to answer your questions as best as I can.
+
+Summary - The text file is a transcript of a debate in the UK Parliament on a bill that would set a legal target of spending 0.7% of gross national income on overseas development assistance. The debate covers various aspects of the bill, such as its purpose, scope, definition, evaluation, and enforcement.
+
+For - Voting 'Ayes' in the division on new clause NC7 means supporting a proposal that would make the bill applicable only in years when the UK records a budget surplus, and subject to a referendum. The supporters of this proposal argue that it would ensure fiscal responsibility and public consent for the aid spending.
+
+Against - Voting 'Noes' in the division on new clause NC7 means opposing the proposal and favouring the original version of the bill, which would make the 0.7% target binding regardless of the budget situation and without a referendum. The opponents of this proposal argue that it would undermine the UK's commitment and credibility on international development.
+
+Decision - Voting 'Aye' in the division on new clause NC7 is associated with protectionism and independence from the European Union and other foreign affairs, because it would make the aid spending conditional on domestic economic performance and popular approval, and potentially reduce the UK's influence and cooperation with other countries on global issues.
+
+Sentiment - B

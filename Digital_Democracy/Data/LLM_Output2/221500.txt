@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I have reviewed the text file open in your current webpage and I will try to answer your questions. Here is my response:
+
+Summary - The text file is a transcript of a parliamentary debate on the Infrastructure Bill, which covers various topics related to energy, transport, and planning. The debate focuses on the amendments made by the Lords and the Commons, especially on the issue of shale gas extraction or fracking.
+
+For - Voting 'Ayes' in the division means supporting the Government's amendments to the Bill, which are designed to balance the development of the shale gas industry with environmental and safety safeguards. The Government argues that shale gas is an exciting new energy resource for the UK, with huge potential to create jobs, reduce emissions, and enhance energy security[1].
+
+Against - Voting 'Noes' in the division means opposing the Government's amendments to the Bill, which are seen as weakening the protections that were agreed by the House on 26 January. The Opposition argues that the Government has not listened to the public concerns about fracking and has failed to provide clear and robust regulations for groundwater protection, environmental impact assessment, and protected areas[2].
+
+Decision - Voting 'Aye' in the division is associated with innovation, progressivism, and flexibility in the context of Standards and Technology. The Government claims that shale gas is a cutting-edge technology that can help the UK transition to a low-carbon economy and diversify its energy mix. The Government also says that it is open to evidence-based adjustments to the regulations as the industry evolves.
+
+Sentiment - A

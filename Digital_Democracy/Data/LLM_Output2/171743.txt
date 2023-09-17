@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I can help you review the text file open in your current webpage. Here is my response:
+
+Summary - The text file is a transcript of a debate in the UK Parliament about a bill to require large employers to publish their gender pay gap. The bill was proposed by Sarah Champion, a Labour MP, and supported by 258 MPs, while only 8 MPs opposed it.
+
+For - Voting 'Ayes' means supporting the bill to make pay transparency a reality and to empower women to use the equal pay laws[1]. It also means valuing people's skills and experiences equally, regardless of their sex, and challenging the biases and barriers that women face in the workplace[2].
+
+Against - Voting 'Noes' means opposing the bill and preferring a voluntary business-led approach to address the gender pay gap. It also means rejecting the need for legislation and trusting companies to report information they feel comfortable with. It may imply being indifferent or hostile to the issue of equal pay.
+
+Decision - Voting 'Aye' in the division is not directly associated with either A or B, as it is not about police powers or punishments, but about equality and transparency. However, one could argue that it is more aligned with B, as it is about limiting the power of employers to discriminate or exploit women workers and giving them more freedom and autonomy to claim their rights.
+
+Sentiment - B

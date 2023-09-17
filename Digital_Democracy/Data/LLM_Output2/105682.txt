@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I can help you review the text file open in your current webpage. Here is my response:
+
+Summary - The text file is a transcript of a debate in the UK Parliament on the Consumer Rights Bill, which aims to protect consumers from unfair practices by businesses, especially in the private rented sector. The debate focuses on the issue of letting agent fees and whether they should be banned or made transparent.
+
+For - Voting 'Ayes' for New Clause NC30 means supporting the Labour proposal to ban letting agents from charging fees to tenants, as they argue that such fees are excessive, unfair and cause consumer detriment. They cite the evidence from Scotland, where banning fees has not led to higher rents.
+
+Against - Voting 'Noes' for New Clause NC30 means opposing the Labour proposal and backing the Government's alternative approach of requiring letting agents to publicise their fees clearly and prominently. They claim that banning fees would simply increase rents and that transparency would enable consumers to shop around and compare agents.
+
+Decision - Voting 'Aye' for New Clause NC30 is associated with freedom and autonomy, limiting police powers and softer punishments, limiting Crime & Justice. This is because banning fees would reduce the regulatory burden on tenants and prevent them from being penalised by rogue agents. It would also limit the enforcement role of local authorities and the civil penalties that could be imposed on non-compliant agents.
+
+Sentiment - B

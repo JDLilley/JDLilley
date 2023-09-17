@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I can help you review the text file open in your current webpage. Here is my response:
+
+Summary - The text file is a transcript of a parliamentary debate on a bill to allow the Office for Budget Responsibility to audit the policy costings of political parties before elections[1].
+
+For - Voting 'Ayes' means supporting the bill, which would enhance the transparency and accountability of political parties, improve the quality of economic debate, and follow the best practices of other countries.
+
+Against - Voting 'Noes' means opposing the bill, which could undermine the independence and credibility of the OBR, create unnecessary bureaucracy and delays, and interfere with the democratic process and the freedom of political parties.
+
+Decision - Voting 'Aye' is associated with accountability and decentralisation in the context of Parliamentary Procedures, as it would give more power and information to the public and the Parliament to hold the Government and the opposition parties accountable for their policy proposals.
+
+Sentiment - A
