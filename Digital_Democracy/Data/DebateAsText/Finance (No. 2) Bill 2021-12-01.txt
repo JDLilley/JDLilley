@@ -1,0 +1,986 @@
+Finance (No. 2) Bill
+
+(Clauses 4, 6 to 8, Schedule 1, Clause 12, Clauses 27 and 28, Clauses 53 to 66, Clauses 68 to 71, Clauses 84 to 92, Schedules 12 and 13, Clause 93 and Schedule 14, and certain new Clauses and new Schedules)
+
+[Relevant document: Oral evidence taken before the Treasury Committee on 1 (morning and afternoon), 8 and 18 November, on Autumn Budget and Spending Review 2021, HC 825.]
+
+Considered in Committee
+
+[Dame Eleanor Laing in the Chair]
+
+Clause 4
+
+Increase in Rates of Tax on Dividend Income
+
+14:51:00
+
+Question proposed, That the clause stand part of the Bill.
+
+The Chairman of Ways and Means (Dame Eleanor Laing)
+With this it will be convenient to discuss the following:
+
+Clauses 6 to 8 stand part.
+
+That schedule 1 be the First schedule to the Bill.
+
+Amendment 5, in clause 12, page 10, line 44, at end insert—
+
+‘, and at the end of section 32(1) insert “, but eligibility for the increased maximum annual allowance from 1 January 2022 to 31 March 2023 is available only to businesses which can demonstrate that they have taken steps to reduce carbon emissions within their own business models and have set out further steps for how they plan to reduce carbon emissions towards a net zero goal”.’
+
+This amendment would restrict access to the extended temporary increase in annual investment allowance to businesses that support transition to “net-zero”.
+
+Amendment 6, page 10, line 44, at end insert —
+
+‘, and at the end of section 32(1) insert “, but eligibility for the increased maximum annual allowance from 1 January 2022 to 31 March 2023 is available only to businesses which do not have a history of tax avoidance”.’
+
+This amendment would restrict access to the extended temporary increase in annual investment allowance to businesses that do not have a history of tax avoidance.
+
+Amendment 4, page 11, line 10, at end insert—
+
+‘(3) The Chancellor of the Exchequer must, no later than 5 April 2022, lay before the House of Commons a report—
+
+(a) analysing the fiscal and economic effects of the temporary increase in annual investment allowance, and the changes in those effects which it estimates will occur as a result of the provisions of this section, in respect of—
+
+(i) each NUTS 1 statistical region of England and England as a whole,
+
+(ii) Scotland,
+
+(iii) Wales, and
+
+(iv) Northern Ireland; and
+
+(b) assessing how the temporary increase in annual investment allowance is furthering efforts to mitigate climate change, and any differences in the benefit of this funding in respect of—
+
+(i) each NUTS 1 statistical region of England and England as a whole,
+
+(ii) Scotland,
+
+(iii) Wales, and
+
+(iv) Northern Ireland.’
+
+This amendment would require the Chancellor of the Exchequer to analyse the impact of changes proposed in clause 12 in terms of impact on the economy and geographical reach and to assess the impact of the temporary increase in the annual investment allowance on efforts to mitigate climate change.
+
+Amendment 7, page 11, line 10, at end insert—
+
+‘(3) In paragraph 2(3) of Schedule 13 of that Act—
+
+(a) after “second straddling period is” insert “the greater of (a)”; and
+
+(b) after “of that sub-paragraph” add “and (b) the amount (if any) by which the maximum allowance under section 51A of CAA 2001 had there been no temporary increase in the allowance exceeds the annual investment allowance qualifying expenditure incurred before 1 April 2023.”’
+
+This amendment would amend the transitional provisions for the reversion of the AIA to £200,000 on 1 April 2023, to ensure that smaller businesses with lower levels of qualifying capital expenditure are not disadvantaged by having their effective AIA limit restricted to significantly less than £200,000 for a period.
+
+Clause 12 stand part.
+
+New clause 1—Review of the impact on revenues from tax on dividend income—
+
+‘The Chancellor of the Exchequer must, within six months of the passing of this Act, publish an assessment of the impact on revenues from tax on dividend income of increasing the rates set out in section 8 of ITA 2007 by—
+
+(a) 1.25%,
+
+(b) 2.5%, and
+
+(c) 3.75%.’
+
+This new clause requires an assessment of what extra revenue would be derived by increasing the rates of tax on dividend income by different amounts.
+
+New clause 2—Review of the impact on revenues from banking surcharge—
+
+‘(1) The Chancellor of the Exchequer must, within six months of the passing of this Act, publish an assessment of revenues from the banking surcharge.
+
+(2) This review must consider—
+
+(a) the total revenue raised by the banking surcharge since its introduction,
+
+(b) the total public expenditure on supporting the banking sector since 2008, and
+
+(c) an assessment of risks to the banking sector in the future including the likelihood of further public support being required.’
+
+This new clause requires an assessment of the banking surcharge in the context of the cost of public support to banks since the financial crisis and an assessment of the risk of the need for further public support in future.
+
+New clause 3—Review of the impact of the extension of temporary increase in annual investment allowance—
+
+‘The Chancellor of the Exchequer must, within three months of the end of tax year 2022-23, publish a review of decisions by companies to invest in the UK in 2022-23, which must report on which companies, broken down by size, sector, and country of ownership, have benefited from the annual investment allowance; and this assessment must also assess the merits of the existence of the superdeduction in light of the AIA.’
+
+This new clause requires a review of which companies have benefited from the Annual Investment Allowance in 2022-23, broken down by size, sector, and country of ownership, and an assessment of the merits of the superdeduction in light of the AIA.
+
+New clause 8—Review of changes to taxation of dividend income—
+
+‘(1) The Chancellor of the Exchequer must, not later than six months after the passing of the Act, lay before the House of Commons a review of the fiscal and economic effects of the changes in the taxation of dividend income resulting from the provisions of section 4 of this Act.
+
+(2) The review under subsection (1) must also include an assessment of the fiscal and economic effects of—
+
+(a) removing the personal dividend taxation allowance, and
+
+(b) amending the dividend income rates of taxation to match the existing rates of taxation of earnings.’
+
+This new clause would require the Government to report to the House on the fiscal and economic effects of the changes made by clause 4 to the rates of taxation of dividend income, and also to assess the effects of other changes to the taxation of dividend income.
+
+New clause 10—Assessment of annual investment allowance—
+
+‘The Government must publish within 12 months of this Act coming into effect an assessment of—
+
+(a) how much the changes to the annual investment allowance under section 12 of this Act will affect GDP in the event of the Finance Act coming into effect, and
+
+(b) how the same changes would have affected GDP had the UK—
+
+(i) remained in the European Union, and
+
+(ii) left the European Union without a Future Trade and Investment Partnership.’
+
+This new clause would require an assessment of the effects of the provisions in clause 12 on GDP in different scenarios.
+
+New clause 11—Review of temporary increase in annual investment allowance—
+
+‘The Government must publish within 12 months of this Act coming into effect an assessment of
+
+(a) the size, number, and location of companies claiming the increased annual investment allowance,
+
+(b) the impact of this relief upon levels of capital investment, and
+
+(c) the percentage of total business investments that were covered by this relief in 2019, 2020 &amp; 2021.’
+
+This new clause would require an assessment of the take-up and impact of the temporary increase in the AIA.
+
+New clause 16—Assessment of revenue effects of increases in the rates of tax on dividend income—
+
+‘The Chancellor of the Exchequer must, no later than 31 January 2022, lay before the House of Commons an assessment of the effects on tax revenues of—
+
+(a) the provision of section 4, and
+
+(b) increasing the rates of tax on dividend income to the default rates of income tax.’
+
+New clause 17—Review of impact of the abolition of basis periods—
+
+‘(1) The Chancellor of the Exchequer must, within six months of the passing of this Act, review the impact of the abolition of basis periods.
+
+(2) The review must consider the effects of the abolition on—
+
+(a) farmers and other seasonal businesses,
+
+(b) sole traders, and
+
+(c) partnerships.
+
+(3) The review must consider the effects of the abolition in respect of—
+
+(a) each region of England and England as a whole,
+
+(b) Scotland,
+
+(c) Wales, and
+
+(d) Northern Ireland.
+
+(4) In this section, “region” has the same meaning as that used by the Office for National Statistics.’
+
+This new clause would require a report on the effects of the abolition of basis periods on particular sectors, including farming and other seasonal businesses, sole traders and partnerships.
+
+The Financial Secretary to the Treasury (Lucy Frazer)
+In the Budget, the Chancellor set out his vision for an economy that will allow the UK to succeed. This was a vision of a fair, simple and modern tax system that enables our businesses to be world leaders. The clauses we are considering today, along with other measures in this Bill, will help us to achieve these goals. For example, on fairness, these measures will make sure that everyone plays their part in helping to fund new investment in health and social care. That is because the Bill provides that, in addition to the new health and social care levy, we will ask for an equivalent contribution from those who earn income through dividends. This will spread the burden more equally across society.
+
+On tax simplicity, these measures will support the smaller businesses that are at the heart of our economy through reforming basis periods. That change will make the tax system easier and fairer for these firms.
+
+On competition, we have set the rate of the bank surcharge to ensure that the UK remains internationally competitive while making sure that banks continue to pay their fair share of tax.
+
+Finally, these measures will help businesses create jobs and growth by extending an increase in the annual investment allowance on plant and machinery assets. This will encourage firms across the country to invest more and earlier. I will now turn to each of these clauses in depth.
+
+I shall start with clause 4. This increases the rate of income tax that is applied to dividend income by 1.25%. The increase will be used to help fund the health and social care settlement announced in the spending review. By way of background, dividend tax is paid by people who receive dividend income from shares. That income is not subject to national insurance contributions or to the new health and social care levy. The increase in dividend tax rates will mean that those with dividend income will also contribute to the health and social care settlement, just like employees, the self-employed and businesses.
+
+As well as supporting the Government to fund this critical area of public services, the measure will deter individuals from cutting their tax bills by incorporating as a company and remunerating themselves via dividends rather than as wages. That is something that the Office for Budget Responsibility has pointed out as a potential risk. However, it is important to point out that many everyday investors will be unaffected by this change. That is because shares held in ISAs are not subject to dividend tax. In addition, because of both the £2,000 tax-free dividend allowance and the personal allowance, around 60% of those with dividend income outside of ISAs are not expected to pay any dividend tax or be affected by this change next year.
+
+The measures contained in clause 4 are also progressive. We have calculated that additional and higher-rate taxpayers are expected to contribute more than three quarters of the revenue raised by the measures next year. In short, this clause supports the Government to fund public services and tackle the challenges in social care, but in a fair and progressive way.
+
+I shall now turn to the proposed new clauses, 1, 8 and 16. These all call on the Government to publish information on the changes to dividend tax rates set out in clause 4 as well as on alternative potential changes to the dividend tax system. The Government have already published an assessment of the fiscal and economic impacts of the 1.25% increase in tax rates on dividend income. The fiscal impacts were set out in the Budget document and the fiscal and economic impacts were both set out in the taxation information and impact notes for that measure. Both of these are available for the public to consider on gov.uk. It is not standard, however, for the Government to publish assessments of the fiscal and economic impacts of measures that they are not introducing and it is not clear in this case that doing so would be a beneficial use of public resources. I therefore recommend that the House rejects the new clauses.
+
+I now turn to clause 6. Before turning to the bank surcharge itself, it is important to remember the overall context for this clause. From April 2023, corporation tax will rise from 19% to 25%. That increase, combined with a current banking surcharge rate of 8%, would have led to banks paying an effective rate of 33% on their profits. That is not competitive. Such a rate would have put us at a competitive disadvantage in relation to other major financial centres, such as the US, Germany and France. Clause 6 makes sure that banks pay their fair share of tax while remaining internationally competitive, protecting British job and tax receipts.
+
+I know that the Opposition may like to bash banks, but it is important to remember that the banking sector accounts for almost half a million jobs across the country, and 65% of those jobs are outside London. Let us not forget that the sector contributes around £37 billion a year in tax revenue, ultimately paying for vital public services. The changes made in clause 6 will therefore support those jobs and protect that tax revenue while making sure, as I said, that banks pay their fair share. A surcharge rate of 3% will mean that banks pay an overall rate of 28% on their profits. That is, of course, more than the 27% that the banks now pay and above the 25% paid by most other businesses. In combination, the changes to corporation tax and the bank surcharge will result in banks paying an additional £750 million in tax over the period to 2026-27 based on current forecasts.
+
+I should also point out that none of our global competitors charges an additional rate on banking profit. Clause 6 also increases the allowance above which banks pay the surcharge—from £25 million to £100 million. This new, increased allowance will support growth and competition for smaller, retail and challenger banks, benefiting consumers and businesses.
+
+New clause 2 would require the Chancellor to publish an assessment of revenues from the bank surcharge since its introduction, of public expenditure on supporting the banking sector since 2008, and of future risks to the banking sector. The Government already publish figures on revenues raised from the bank levy introduced in 2011 and the banking surcharge introduced in 2016 in the Red Book at each Budget. On state support, as of 27 October this year the independent Office for Budget Responsibility estimated an implied balance, excluding financial costs, of £13.5 billion for the net direct effect from the public finances of financial sector interventions made as a result of the 2007-08 crisis. We must also remember that the costs of the financial crisis would almost certainly have been more significant in the absence of direct interventions.
+
+15:00:00
+
+Since the financial crisis, we have introduced regulations that reduce the potential risk and shift costs away from the taxpayer. Indeed, today’s banking system is much stronger than at the time of the financial crisis, and banks hold three times more capital. The Bank of England’s Financial Policy Committee is required to publish two financial stability reports a year. The committee judged in September that the banking sector remains resilient to outcomes for the economy that are much more severe than the Monetary Policy Committee’s central forecast—a judgment that is supported by the interim results of the Bank of England’s 2021 solvency stress test. New clause 2 would therefore provide no new information, so I encourage Members to reject it.
+
+Let me turn to clauses 7 and 8 on the technical but important issue of basis period reform. Clause 7 and schedule 1 abolish the basis period rules, simplifying how the self-employed and partners allocate their profits to tax years. The rules remove complexity, and ensure that taxes are declared and paid closer to the actual trading period. Clause 8 legislates to allow property businesses to treat accounts drawn up to 31 March as equivalent to the tax year, reducing the administrative burden on such businesses and simplifying their reporting responsibilities. Together, these reforms will create a simpler, fairer and more transparent set of rules for the allocation of trading income to tax years. This will make tax affairs much easier for small businesses, particularly in the first years of trading. Under the current complex rules, firms at this stage would otherwise have to deal with double taxation and later overlap relief.
+
+New clause 17 would require the Government to produce a report on the impact of the abolition of basis periods, but the Government have already published a detailed impact assessment of basis period reform, and more information on impacts in the summary of responses to the consultation on reform. I therefore encourage Members to reject this proposed new clause.
+
+Clause 12 is another measure that supports business. In this Bill, we are extending the £1 million temporary level of the annual investment allowance or AIA for 15 months until the end of March 2023. The AIA helps to tackle the long-standing problem of under-investment by UK businesses, by providing businesses with an up-front incentive to spend money on new equipment. It allows firms a 100% in-year tax relief on qualifying plant and machinery investments up to an annual limit, and simplifies tax for many businesses. In 2015, the Government set the permanent level of AIA at £200,000. At Budget 2018, the allowance was temporarily increased to £1 million for two years from 1 January 2019.
+
+At this year’s spring Budget, the £1 million level was extended for another year until 1 January 2022—a measure that was warmly received by businesses. The decision to continue this extension until the end of March 2023 reflects the pressing need to help the economy to recover from the coronavirus. As the Chancellor has said, now is not the time to reduce support for businesses investing in the UK’s future growth and prosperity. This measure will encourage firms across the country to invest more and earlier by providing them with greater up-front support. It will also make tax simpler for any business investing between £200,000 and £1 million. Ultimately, the £1 million AIA level will mean that more than 99% of businesses will have their plant and machinery expenditure covered. The extra investment will in turn help to spark growth, and create jobs and new opportunities around the country. I am not quite clear why the Opposition are opposed to the Government helping businesses to invest and grow.
+
+New clause 3 would require the Government to review the investment decisions of businesses across the UK; classify businesses by size, sector and ownership; and assess the super deduction as a result. Moreover, it would require the Government to lay their findings before the House of Commons within three months of April 2023. Amendment 4, and new clauses 10 and 11, would also require assessments of the AIA for economic, geographical, environmental and Brexit impacts. The Government oppose these amendments on the basis that the Treasury carefully considers the impact of all measures on investment in all parts of the UK as a matter of course when preparing for the Budget.
+
+At autumn Budget 2021, the Government set out detailed information on the Exchequer, macroeconomic, business and equality impacts of this provision. These assessments are not expected to change in the near future. Furthermore, the Government are already monitoring and evaluating the success of the reliefs, following the structured approach to evaluating tax relief, including capital allowances, that Her Majesty’s Revenue and Customs began to set out in October 2020. The Government will publish results from this approach in due course. As a result, a further review would not be useful.
+
+Amendment 5 would add a new requirement for companies to demonstrate to the Government that they are transitioning to net zero. I am pleased to say that the Government have championed greenifying our economy as a matter of priority. Dame Eleanor, you will be aware of Her Majesty’s Treasury’s work on net zero and its review, which is considering the costs and opportunities of net zero, how the transition could be funded, and how policy can help to maximise the benefits and minimise the costs of transition.
+
+Amendment 6 would add an eligibility requirement that businesses must have no history of tax avoidance. Tackling tax avoidance and evasion, both nationally and internationally, is a priority for this Government. For example, we have introduced an additional 19 measures in 2021 to tackle avoidance, evasion and non-compliance that are forecast to raise £2.3 billion over the next five years. Having assessed the potential for fraud, abuse and tax avoidance, there are a number of safeguards in the legislation to prevent such abuse—for instance, the exclusion of connected party transactions. These amendments would create a compliance burden for businesses after such a tough year, and hold up the economic recovery for the purposes of objectives that the Government are already dedicated to working towards separately. As a result, they should not be added to the Bill.
+
+Amendment 7 would make changes to the AIA’s transitional rules for firms whose accounting periods straddle the AIA’s £1 million limit. The limit and the super deduction are specifically aimed at helping the investment-led recovery, and giving businesses the confidence to bring forward their investment by March 2023. We are alive to the points raised by the Chartered Institute of Taxation, but we believe that businesses should have sufficient time to plan to take advantage of the maximum entitlement for the AIA for any investment.
+
+I will not take up any more time. These measures support a fairer, simpler tax system that is globally competitive in an environment that allows businesses to continue to grow. I therefore move that clauses 4, 6, 7, 8 and 12 stand part of the Bill, and that schedule 1 be the first schedule to the Bill.
+
+James Murray (Ealing North) (Lab/Co-op)
+The economy the British people need is one that works for all parts of the country, that meets the goal of net zero, and that improves people’s quality of life. To achieve that, we need strong economic growth, yet we have a Chancellor who is failing at this most fundamental of tasks. In the first decade of this century, Labour grew the economy by 2.3% a year. In the past decade to 2019, however, even before the pandemic, the Tories grew it by just 1.8% a year, and now the Office for Budget Responsibility has said that by the end of this Parliament the UK’s economic growth will have fallen to just 1.3% a year. If we had an economy that was growing strongly, we could create new jobs with better wages and conditions in every part of the country, but without that growth it gets ever harder to meet the challenges we face—and the truth is that low growth means that the Conservatives have had to put up taxes.
+
+The tax burden in our country is set to reach its highest level in 70 years. Faced with the decision over which taxes to put up, where have the Tories chosen to let that tax burden fall? It is falling on the backs of working people who face a national insurance hike from this Chancellor at the same time as he cuts taxes for banks. In power, the Conservatives are showing themselves to be the party of low growth, high taxes, and the wrong choices for this country. The Tories are making the wrong choice by pressing ahead with clause 6, which cuts the rate of the banking surcharge and raises its allowance. That cut will see the corporation tax surcharge for banking charges slashed from 8% to 3%, with the allowance for the charge raised from £25 million to £100 million. It will cost the public finances £1 billion a year by the end of this Parliament.
+
+We will oppose this clause and we have tabled new clause 2 to make sure that Members of this House do not forget why the banking surcharge was introduced in the first place. Let us not forget that following the financial crisis of the late 2000s, there was recognition that banks have an implicit state guarantee thanks to their central position in the UK economy. At the time, the Government seemed to realise that this guarantee should be underpinned by a greater tax contribution. Indeed, this has been a critical justification behind both the bank levy and the banking surcharge. The Government’s own policy paper published alongside the October Budget clearly stated:
+
+“Since 2010, banks have been subject to sector-specific taxes. As a result they have made an additional contribution to public finances, reflecting the risks that they pose to the UK financial system and wider economy and recognising the costs arising from the financial crisis.”
+
+Yet despite appearing to acknowledge the justification behind this surcharge, the Government are today pushing ahead with slashing it by nearly two thirds.
+
+That is why our new clause 2 would require the Government to publish a review that considers the total revenue raised by the banking surcharge since its introduction, alongside the total public expenditure on supporting the banking sector since 2008, and an assessment of risks to the banking sector in the future, including the likelihood of further public support being required. I would welcome the Government’s support for such a review, but if it is not forthcoming, perhaps the Minister could explain why the need for banks to make an additional contribution to public finances is suddenly less now than it has been for the past decade. Without clear evidence from the Government, we can only go on what others say. Tax Justice UK has pointed out that
+
+“it appears that the bank levy and bank surcharge will not even have fully repaid the public expenditure on the banking sector at the financial crisis; let alone provided any insurance against a future crash, before being cut”.
+
+It is clear that cutting this tax on banks is the wrong choice at the wrong time. At a time when the Government are being forced to raise taxes, it tells us everything we need to know about the Conservatives’ instincts—that they have decided to cut taxes for banks while raising them for working people.
+
+Elsewhere in the Bill, clause 4 also draws to our attention other choices the Government are making on taxes. Although the clause increases the rate of tax on dividend income, let us make no mistake over the context of this measure. When the Prime Minister set out the Government’s plans for their new health and social care levy in September, he was rightly criticised by Members in all parts of the House for funding it overwhelmingly through taxes on working people and their jobs. At the time, the Prime Minister tried to soften the blow by claiming that the Government’s tax plans were fair because the tax rise on working people would be accompanied by a tax rise on income from dividends. He said that a rise in dividend tax rates would mean the Government
+
+“will be asking better-off business owners and investors to make a fair contribution too.”—[Official Report, 7 September 2021; Vol. 700, c. 154.]
+
+The Prime Minister was desperate to give the impression that this tax rise is not falling overwhelmingly on working people and their jobs.
+
+Now, I am sure the Prime Minister would never be loose with his language, nor the truth, but let us look at the facts. The reality is that the dividend tax rise in clause 4 would raise just 5% of the total revenue needed for the health and social care levy. The rest of that tax bill—95% of its total, or £11.4 billion a year—will land on working people and their jobs. The Government do not seem to have considered asking those receiving income from dividends to take a greater share of the burden, the impact of which our new clause 1 asks them to assess.
+
+15:15:00
+
+Whatever Ministers may say in this House, their own official documents make it clear that their approach is hitting working people the hardest. Just look at the Government’s policy paper, “Increase of the rates of Income Tax applicable to dividend income”, published on 27 October. We welcome the fact that it says:
+
+“This measure is not expected to have a material impact on family formation, stability or breakdown.”
+
+However, this stands in stark contrast to their policy paper, “Health and Social Care Levy”, published on 9 September, which says:
+
+“There may be an impact on family formation, stability or breakdown as individuals, who are currently just about managing financially, will see their disposable income reduce.”
+
+It is an insult for the Government to claim that these two tax changes are somehow fair and equal when, again, the truth is that the wellbeing of working people seems to be nowhere near the front of Ministers’ minds.
+
+It is not just in relation to working people that we question the Government’s approach. We also question whether they are spending wisely and targeting business support towards the companies and traders who need it most. While we welcome the extension by clause 12 of the temporary increase in the annual investment allowance through to 31 March 2023, this raises questions about the Government’s wider approach to spending public money wisely. The Committee may remember that in May this year the Government introduced a new super deduction—a measure giving companies a 130% capital allowance on qualifying plant and machinery investments from April 2021 until the end of March 2023. At the time, I questioned the former Financial Secretary to the Treasury over who this expensive tax break was designed to help. We were concerned, because one thing was clear: it did not seem to be targeted at small and medium-sized businesses. Such businesses could already benefit from the annual investment allowance giving a 100% tax break on investment up to £1 million.
+
+The previous Financial Secretary clearly stated in a written statement of 12 November 2020 that the annual investment allowance:
+
+“Simplifies taxes for the 99% of businesses investing up to £1 million on plant and machinery assets each year.”
+
+The current Financial Secretary has spoken in similar terms, and indeed the Treasury Committee concluded in its report published in February this year, “Tax after coronavirus”, that the annual investment allowance
+
+“appears well targeted to promote growth in small and medium-sized enterprises.”
+
+Through clause 12, the temporary increase in the annual investment allowance is being extended so that it will now end at the same time as the super deduction. With small and medium-sized enterprises now able to keep benefiting from the higher annual investment allowance until March 2023, it must surely be time for the Government to revisit and review the merits of the existence of the super deduction. When it was introduced, the Chancellor made it clear that it would cost £25 billion over two years. The very least the Government should do is to make sure they are spending public money wisely. That is why I urge Ministers to follow our new clause 3 and look again at the super deduction to be clear whether it offers value for money.
+
+Clauses 7 and 8 and schedule 1 relate to the abolition of basis periods. In broad terms, we welcome steps that remove complexities and make it easier for taxpayers to understand their tax position. However, we are conscious of points raised by the Chartered Institute of Taxation, including the fact that HMRC estimates that 75,000 unrepresented sole traders do not have a 31 March or 5 April accounting year end. As the CIT makes clear, these people will be affected by the proposed changes and will have to decide whether to change their accounting period end in 2023-24. To make such a decision, it is important that they have the right level of support from HMRC at the right time. I would therefore welcome the Minister’s explanation of what support will be in place specifically to help people with their response to these proposed changes. We want to be reassured that support will be in place, that the traders who need that support most can get it and that the changes are fair.
+
+The question of fairness is at the heart of this debate. Fairness is a fundamental British value, yet it is one that the Government just do not get. This Government’s decade of low growth with no end in sight is forcing them to put up taxes, and their tax rises are hitting working people hardest, when those with the broadest shoulders should be paying more. After the national insurance hike for working people that they pushed through in September, today we have a hollow attempt to make their plans look a bit fairer, but the truth is that the tax on working people and their jobs still amounts to a tax bill 19 times the size of that which falls on better-off business owners and investors. Today, we have a billion-pound-a-year tax cut for banks when taxes are going up for working people. We will be opposing those plans, as they are not what our country needs.
+
+The British people need a Government who will tax fairly, spend wisely and, crucially, grow the economy in every region and nation. With the Tories, all we get is low growth, high taxes, and the wrong choices for our country.
+
+Richard Thomson (Gordon) (SNP)
+It is a pleasure to speak in this section of our consideration of the Finance Bill. At the outset, may I just say that notwithstanding the valiant efforts of the Minister to try to persuade me otherwise, I will still be pressing amendments 5, 6 and 7 and new clauses 10 and 11 in my name and those of my colleagues?
+
+Before I get to the nub of amendment 5, it is always important to place on record, when dealing with matters such as finance, that we are also dealing with a climate emergency. It is very important that we are using every single resource and every single incentive that we have at our disposal to encourage a move to net zero across the public sector and the private sector, and as quickly as possible.
+
+Amendment 5 would restrict access to the extended temporary increase in the annual investment allowance to businesses that support a transition to net zero. To go back to a previous life, I was once the joint leader of Aberdeenshire Council. I think I am right in saying—I have no objection to being corrected by anyone in the Chamber, or anyone outside the Chamber who happens to be watching this—that we were the first local authority in the UK to introduce a carbon budget and to put it on an equal footing in governance with the capital budget, the revenue budget and the housing revenue allowance budget. It was therefore considered on exactly the same basis, and every single measure we were taking, whether in policy or budgetary terms, was worked through so that the carbon impact was understood and the emissions that resulted from activities were always on a downward trajectory.
+
+That is exactly the sort of net zero philosophy that needs to be baked into the private sector. One way we could do that is by making qualifying for the allowance contingent on companies having taken steps to reduce carbon dioxide in their business model and how they go about their business, but we could also challenge companies on how they will build further on the progress they have made in reducing carbon dioxide. That seems to me a sensible measure and a proportionate approach, and I commend it to colleagues.
+
+I will move on to amendment 6. I do not doubt the good intentions and best endeavours of the Government in trying to address tax evasion at any level, but it was nevertheless extraordinary to hear the Minister suggest that requiring companies to demonstrate their tax compliance would represent an onerous burden on them. This is pretty basic, baseline, default stuff. We should expect businesses to comply with the tax code and to pay their taxes in full and on time to the best of their abilities and not to try to avoid that. People want to see businesses and others succeed, but they also want to know that others are playing by the rules, and that is particularly the case for businesses. We want businesses to do well by competing and being the best that they can be, but we want to see them succeed on the basis of the quality and effectiveness of what they do, rather than by being incentivised perversely not to contribute to the common good and to undercut their more scrupulous competitors.
+
+We often hear from the Government Dispatch Box that there is no such thing as tax revenues without businesses, but we miss the other side of the balance sheet and the other side of the equation: it is much, much harder for businesses to succeed without the high quality of the public goods that they consume, whether that is an educated population, a health service, investment in our infrastructure, the provision of a stable market, law and order and the emergency services—everything else that is fundamental to underpinning the activities of the society we live in. Fundamentally, tax cuts of this kind should be going to businesses that play by the rules and do not undercut their competitors by not playing by the rules. It is important to incentivise and reward that good behaviour, and that is precisely what amendment 6 would do.
+
+We tabled amendment 7 to ensure that smaller businesses with lower levels of qualifying capital expenditure were not disadvantaged in any way by having their annual investment allowance limits restricted. Again, the amendment would ensure that we are playing fair for those who play by the rules.
+
+Moving on to new clauses 10 and 11, it is very important that the measures we have in the Finance Bill or any legislation have the intended effects, that we can see whether they are having those intended effects and that we can quantify that and ensure, so far as is possible, that we are avoiding any adverse, unforeseen consequences. New clause 11 would insist that the Government publish within 12 months an assessment of the size, number and location of companies claiming the increased annual investment allowance; the impact of the reliefs on levels of capital investment, to see that we are getting the desired outcome from that reduction; and the scope of total business investments that are being covered by the relief, to see whether it is helping to drive investment and growth in the economy. That should be a fundamental set of baseline assessments that the Government should wish to undertake. New clause 11 would ensure that happens.
+
+Moving on to new clause 10, and from unforeseen adverse circumstances to entirely foreseeable adverse circumstances, Brexit continues to be a millstone around the neck of businesses and families, and it is important that we understand the continued consequences and ramifications of choices that have either been made freely or, in the case of the area I represent and the people of Scotland, been forced upon us.
+
+A programme I used to like watching on television on a Sunday afternoon was “Bullseye” with Jim Bowen. I do not know if anyone remembers that. His catchphrase at the end when the contestants did not do nearly as well as they had hoped—they had gone for that 101 with six darts and had sadly fallen short—was, “Let’s have a look at what you could have won.” New clause 10 is about having a look at what we could have won. It would ensure that the Government carry out an assessment of how the changes in the annual investment allowance would have affected our GDP had we remained in the European Union and had we left with that future trade and investment partnership in place.
+
+Finally, I turn to clause 6 and the banking surcharge. My party was happy to support the increase in corporation tax generally, but people still bear the scars of the 2010 banking crisis. They believe that, in the spirit of fairness, the banks should make a fair contribution, not just to help businesses to grow and develop to make sure that the economy is growing and that they are making the best contribution they can, but to ensure that they are repaying some of the harm caused by the reckless approach to banking in the lead-up to the financial crash. Many people will look askance at the reduction in the surcharge, notwithstanding the increase in the corporation tax rate generally, and will feel that banks are not fulfilling their proper roles as prudent lenders or their social responsibilities but seem to be getting off the hook.
+
+15:30:00
+
+To take an example from close to home, yesterday, TSB Bank announced a series of branch closures across my constituency and further afield. The retreat of banks from the high street is highly regrettable, especially as it has happened while the Government have had a share in their ownership. If banks are going to behave in that way, it is imperative that we make absolutely certain that they make the fullest possible financial contribution to not just the health of the economy but the common good.
+
+On the national insurance hike, it has been said many times—I make no apology for saying it again—that it breaks a clear manifesto promise of the Conservative party. Even with the increase in dividend taxes in the Bill, the burden still falls disproportionately on the shoulders of the lowest earners, the youngest and those with the fewest assets. We have to ask ourselves whether the Government are on the side of those who work hard, play fair and appreciate the urgency of the climate emergency that we face. Sadly, given the Bill and their opposition to the amendments that have been tabled, I have to say that the answer is no.
+
+Christine Jardine (Edinburgh West) (LD)
+I confirm that the Liberal Democrats will not be supporting the Bill and will be supporting the Opposition amendments. There are several specific reasons for that, which I have expressed previously, including that the Bill fails to address the cost of living crisis in this country and fails to adequately address the need to have and to shift to a greener, more sustainable economy. It also fails to address the concerns that the hon. Member for Gordon (Richard Thomson) expressed about the changes to the banking surcharge, which strike many people in the country as inappropriate at the moment.
+
+I will focus on one issue that is dealt with by new clause 17, which has been tabled by my party. The Minister mentioned the innocuously titled basis pay rate and the basis period reform. One of the frustrating things about the Bill is that the more we look into the detail, the more we find to object to. Hidden in it are huge accounting changes that will make life much harder for tens of thousands of farming businesses, and other partnerships and sole traders around the country. Under the basis period reform, farmers will have to submit two tax returns instead of one, doubling their administrative burden.
+
+Proud farming communities from Shetland to Shropshire are worried about the costs and burdens that will come with those changes. In Shropshire alone, there are more than 6,000 partners and directors in the sector who are likely to be affected by the reforms. Like many others from communities in the so-called blue wall, they find that the Government are taking them for granted and saddling them with administrative burdens and costs—and yet more promises that somehow seem to be ignored. They will force farmers to submit estimated tax returns when there is no good way of knowing the value of a crop yield when it is still in the ground.
+
+We would like Ministers to put those plans on hold immediately and listen to farmers’ concerns. They should at least offer them an extended deadline, so that they do not have to estimate their profits but can submit just one final tax return. They should also explore the options laid out by the Office of Tax Simplification about changing the tax year to a 31 December end date. Farmers across the country have already seen their basic payments cut by at least 5% and could be facing even more costs. They deserve better. This is unfair and counterproductive, and it is yet another reason why people are disappointed with what they have heard about this Finance Bill.
+
+Therefore, the Liberal Democrats will not vote to support the Bill, but we will support the Opposition amendments.
+
+Richard Burgon (Leeds East) (Lab)
+As always, it is a pleasure to serve under your chairship, Dame Eleanor. I wish to speak in support of new clause 16, which is in my name, and new clause 8, which has been tabled by my hon. Friend the Member for Hemsworth (Jon Trickett).
+
+Both new clauses aim to tackle the gross injustice of taxes on share dividends being set at less than income tax rates. They are both part of a wider push for tax justice and wealth taxes—a push made ever more urgent by the growing inequality that we have seen throughout the pandemic. I also support the new clause on this issue from the Leader of the Opposition and the new clause on the banking surcharge. It is shameful that the Government are cutting taxes for banks while increasing the tax burden on working families.
+
+Faced with a backlash over their plans to impose tax rises on working people, the Government made a very limited change, increasing the taxes on share dividends by 1.25%. That was done to try to give the impression that they were sharing the burden of the so-called health and care levy equally between ordinary working people and those lucky enough to live off their wealth. But that was just smoke and mirrors, done solely to deflect the media and distract the public, not to help to actually secure economic justice. That is obvious from the amounts that will be raised by the so-called health and social care levy. The national insurance increases will raise £11.4 billion a year, while the increases in tax on share dividends will raise just £600 million a year. We need to be clear about this: the Government’s change is woefully inadequate.
+
+However, this can act as a watershed moment when we finally get to grips with the great injustice in our tax system that wealth is often taxed at much lower rates than income tax. It is clear, is it not, that our economy is rigged in the interests of the 1%? That has become even clearer during the pandemic, when we have seen the corrupt contracts that have been handed out or the fact that the billionaires have increased their wealth by £290 million a day while food bank use has hit record levels. How completely grotesque.
+
+Our tax system is also rigged in the interests of the top 1%. One obvious way in which that happens is that those with wealth get special discounts on their tax rates. They pay lower tax rates than the vast majority, who have to go out to work day in, day out. My new clause seeks to put a stop to that racket, to that injustice. Why on earth is someone lucky enough to have inherited millions of pounds of shares and who now lives comfortably off their annual share dividends allowed to pay a lower rate of tax than people who have to go to work day in, day out? That is completely unfair and completely unjustifiable. It needs to change. Economic justice demands change, and my new clause would deliver that. It would raise tens of billions of pounds that could go towards funding a national care service, for example, in a progressive way by taxing wealth and not by hitting the pockets of working people.
+
+Let us look at how this rigged system works in practice for those lucky enough to be in the top 1% of incomes. They currently have to pay a 45% rate of tax on income but pay way less on earnings from share dividends: just 38.1%. That tax discount applies even though payments to shareholders primarily go to a very wealthy minority. One quarter of the total income of the richest 1% is generated from dividends and partnership income alone.
+
+The Government try to give the impression that we somehow live in some kind of shareholding democracy where everybody has an equal stake in owning shares, but I am afraid that that is just not true. TUC research shows that UK taxpayers earning over £150,000, which is just 1% of all taxpayers, captured about 22% of all direct income from UK dividends, so the wealthiest accumulate their money from share dividends instead of working, and the Government reward them for this with a tax discount. That is totally unjustifiable, totally unreasonable and totally indefensible.
+
+The changes I have called for in new clause 16 would raise billions for the Treasury—billions that could go towards funding a national care service. Institute for Public Policy Research calculations in 2019 estimated that this would raise £29 billion over the lifetime of this Parliament, even after accounting for behavioural changes. But I am afraid the Conservative party does not want to tax the income of the super-rich who bankroll the party. This new clause has been tabled as an opportunity for the Government to really tackle the injustice in our taxation. It is absolutely outrageous and it needs to change, and that is why I put down this amendment.
+
+Lucy Frazer
+I will take the opportunity to respond to some of the points that have been made on the Bill, and I will start with those made by the hon. Member for Ealing North (James Murray). He started by suggesting that there was not a sufficient growth rate in the economy, but what the Budget documents show and the OBR has said is that there will be growth year on year for every year in the Budget forecasts.
+
+The hon. Gentleman asked me to come back to him on cutting taxes for banks. I do not think he heard some of the points I made in my speech, because I did mention that the tax the banks are paying is not actually reducing, but increasing. I think he did not hear me say that they will be paying an additional £750 million in tax over the period to 2026-27, based on current forecasts.
+
+The hon. Gentleman talked quite a lot about fairness—fairness to working people—and he suggested that the rise in the dividend payment was not fair. I do not accept that. What we have calculated is that the additional higher rate taxpayers are expected to contribute over three quarters of the revenue raised by this measure next year. It is interesting to note that the Resolution Foundation thought that this measure was indeed fair. It said that it welcomed the
+
+“moves to address some of the fairness problems”
+
+that came with choosing to focus on the tax increase on national insurance by raising dividend taxation.
+
+The hon. Gentleman asked me a specific practical question on what support will be provided to traders who are affected by basis period reform, and I am very pleased to get back to him on that. I would like to reassure him that more than 80% of affected businesses are represented by a tax agent, but HMRC is currently exploring how best to help unrepresented taxpayers through basis period reform.
+
+The hon. Member for Gordon (Richard Thomson) rightly talked about the importance of getting to net zero. He will know—he will have attended many debates in this House and I am sure he will have read our net zero strategy—about the emphasis the Government place on net zero. He talked about his work in Aberdeenshire, so I hope that he welcomes the investment we have made in that area in Scotland. We continue to deliver on important existing commitments in Scotland, including £27 million for the Aberdeen energy transition zone and £5 million for the global underwater hub, which will help support Scotland’s standing as a world leader in clean energy.
+
+The hon. Gentleman also mentioned the important issue of playing by the rules, which Conservative Members think, as he does, is very important. I am sure he will be pleased to know that, since 2010, the Government have introduced over 150 new measures and invested over £2 billion extra in HMRC to tackle fraud.
+
+The hon. Member for Edinburgh West (Christine Jardine) mentioned the cost of living. Obviously, many of the spending measures are in the spending review, rather than in the Finance Bill, so I hope she will not mind my mentioning some of our spending measures. The significant tax cut for people on universal credit, and the raising of the national living wage, are two measures that are really helping those on lower incomes.
+
+15:45:00
+
+The hon. Lady also mentioned the abolition of basis periods, and our basis period reform, and one of the first decisions I made as Financial Secretary to the Treasury was to extend the period before we bring in that measure, to ensure that everybody is ready for it. The measure has considerable support among stakeholders. Indeed, the Low Incomes Tax Reform Group, which does a lot of work to help those on low incomes, said:
+
+“We support the general principle of these new proposals as they mean complicated rules around basis periods become obsolete…This is a simpler concept to understand for unrepresented taxpayers.”
+
+Before I conclude, let me mention one point raised by the hon. Member for Leeds East (Richard Burgon), who went on and on about how the wealthiest should pay the most. Of course those with the broadest shoulders should pay more, and indeed they do, as the top 50% pay 90% of tax in this country. For all those reasons, I commend clauses 4, 6, 7, 8, 12 and schedule 1 to the Committee.
+
+Question put and agreed to.
+
+Clause 4 accordingly ordered to stand part of the Bill.
+
+Clause 6
+
+Rate of surcharge and surcharge allowance
+
+Question put, That the clause stand part of the Bill.
+
+Division 126
+01/12/2021 15:47:00
+The Committee divided:
+Ayes: 301
+Noes: 206
+Question accordingly agreed to.
+
+Clause 6 ordered to stand part of the Bill.
+
+Clauses 7 and 8 ordered to stand part of the Bill.
+
+Schedule 1 agreed to.
+
+Clause 12 ordered to stand part of the Bill.
+
+New Clause 10
+
+Assessment of annual investment allowance
+
+‘The Government must publish within 12 months of this Act coming into effect an assessment of—
+
+(a) how much the changes to the annual investment allowance under section 12 of this Act will affect GDP in the event of the Finance Act coming into effect, and
+
+(b) how the same changes would have affected GDP had the UK—
+
+(i) remained in the European Union, and
+
+(ii) left the European Union without a Future Trade and Investment Partnership.’—(Richard Thomson.)
+
+This new clause would require an assessment of the effects of the provisions in clause 12 on GDP in different scenarios.
+
+Brought up, and read the First time.
+
+Question put, That the clause be read a Second time.
+
+Division 127
+01/12/2021 16:02:00
+The Committee divided:
+Ayes: 52
+Noes: 307
+Question accordingly negatived.
+
+Clause 27
+
+Application of section 124 of TIOPA 2010 in relation to diverted profits tax
+
+Question proposed, That the clause stand part of the Bill.
+
+The First Deputy Chairman of Ways and Means (Dame Rosie Winterton)
+With this it will be convenient to discuss the following:
+
+Government amendments 2 and 3.
+
+Clause 28 stand part.
+
+Clauses 53 to 66 stand part.
+
+Clauses 84 to 90 stand part.
+
+That schedule 12 be the Twelfth schedule to the Bill.
+
+Clause 91 stand part.
+
+That schedule 13 be the Thirteenth schedule to the Bill.
+
+Clause 92 stand part.
+
+New clause 5—Reviews of Economic Crime (Anti-Money Laundering) Levy—
+
+‘(1) The Government must publish a review of the operation of the Economic Crime (Anti-Money Laundering) Levy by 31 December 2027.
+
+(2) The Government must publish on 31 December each year until the establishment of a register of beneficial owners of overseas entities that own UK property—
+
+(a) an assessment of the contribution to the effectiveness of the Levy that such a register would make; and
+
+(b) an update on progress toward implementing such a register.’
+
+This new clause will put into law the Government’s commitment to undertake a review of the Levy by the end of 2027, and require them to publish an assessment every year until a register of beneficial owners of overseas entities that own UK property is in place an assessment of what impact such a register would have on the effectiveness of the Levy, and progress toward the register being established.
+
+New clause 7—Reporting on provisions relating to publication of information about tax avoidance schemes—
+
+‘(1) The Chancellor of the Exchequer must, within three months of the passing of this Act, lay before the House of Commons and publish a review of the impact of measures contained within this Act that relate to the publication by HMRC of information about tax avoidance schemes.
+
+(2) The review undertaken by the Chancellor under subsection (1) must include commissioning an independent assessment of the information published by HMRC about disguised remuneration loan schemes.
+
+(3) The independent assessment under subsection (2) must include consideration of the following with respect to the purposes set out in section 85(1)(a) and (b) of this Act—
+
+(a) HMRC’s approach to the loan charge scheme; and
+
+(b) recommendations for altering that approach.
+
+(4) The Government must before the review commences make a statement to the House of Commons stating what efforts have been taken to guarantee the independence of the assessment under subsection (2).
+
+(5) The Government must within three months of the publication of the review under subsection (1) make a statement to the House of Commons stating which of any recommendations under subsection (3)(b) it will be accepting, and give reasons for any decision not to accept one or more of those recommendations.
+
+(6) The Government must every six months after the publication of the review in subsection (1) make a statement to the House of Commons stating what progress has been made towards implementing any of the recommendations that arise from subsection (3)(b) which the Government has accepted.’
+
+This new clause would require the Government to review the impact of measures contained in clause 85 of the Bill, and as part of that to commission an independent review of the information published by HMRC about disguised remuneration loan schemes. This independent assessment must consider HMRC’s approach to the loan charge scheme and consider recommendations for altering that approach, and the Government would be required to state to the House its response to the recommendations.
+
+New clause 12—Assessment of Economic crime (anti-money laundering) levy—
+
+‘The Government must publish within 12 months of the Act coming into effect an assessment of the impact of Part 3 of this Act (Economic crime (anti-money laundering) levy) on the tax gap and how it has affected opportunities for tax evasion, tax avoidance, and other economic crimes.’
+
+This new clause would require an assessment of the impact of the Economic crime (anti-money laundering) levy on the tax gap and on opportunities for tax avoidance, evasion and other economic crimes.
+
+New clause 13—Review of avoidance provisions of sections 84 to 92 on the tax gap—
+
+‘The Government must publish within 12 months of the Act coming into effect an assessment of the provisions in sections 84 to 92 of this Act on the tax gap in the UK.’
+
+This new clause would require an assessment of the impact of the provisions on tax avoidance in clauses 84 to 92 on the tax gap.
+
+New clause 14—Review of provisions of section 85 and publication of information on overseas property ownership—
+
+‘(1) The Government must publish within 12 months of this Act coming into effect an assessment of the impact of the provisions of section 85 about the publication by HMRC of information about tax avoidance schemes.
+
+(2) This assessment must include consideration of the impact of the publication of a register of overseas property ownership upon the promotion of tax avoidance in the UK.’
+
+This new clause would require an assessment of the impact of the provisions of clause 85, and consideration of the impact of publishing a register of overseas property ownership.
+
+New clause 15—Review of Economic crime (anti-money laundering) levy rates—
+
+‘(1) The Government must within six months of the Economic crime (anti-money laundering) levy coming into effect lay before the House of Commons an assessment of the effectiveness of rates of the levy in section 54(2) in achieving the levy’s objectives.
+
+(2) The assessment under (1) must also make an assessment of how the effectiveness of the levy would be changed if each of the rates of the levy in section 54(2) were (a) doubled and (b) tripled.’
+
+This new clause would require the Government to assess the effectiveness of the proposed levy rates and of levy rates twice and three times as high.
+
+Lucy Frazer
+This Government are committed to making the UK a hostile place for economic crime and illicit finance. In recent years, the Government have taken major steps to achieve this goal. For instance, our landmark 2019 economic crime plan set out 52 actions to be taken by both the public and private sectors to ensure that the UK is not exploited by such criminals. However, as we set out in our report on progress on the economic crime plan earlier this year, both the public sector and the private sector must contribute if we are to deliver these reforms. The Bill therefore introduces a new economic crime levy, which aims to raise around £100 million a year to help to fund additional action on money laundering. The revenue raised through the levy will supplement the Government’s investment, announced at this year’s spending review, of £18 million in 2022-23 and £12 million a year in 2023-24 and 2024-25 to tackle fraud and money laundering.
+
+The Bill also introduces new powers and penalties to clamp down further on tax avoidance, tax evasion and other forms of non-compliance, building on the Government’s strong record in this area.
+
+16:15:00
+
+Dame Margaret Hodge (Barking) (Lab)
+I find the Minister’s introduction quite extraordinary, given that money laundering, fraud and economic crime are on the rise even on the National Crime Agency’s own figures. Has she had regard to the revelations in, most recently, the Pandora papers or the FinCEN papers, where it is seen that Britain, more than any other jurisdiction, is at the heart of economic crime, fraud, corruption and money laundering?
+
+Lucy Frazer
+The right hon. Lady is very committed and has done a lot of work in this area, but I would point out that the Government have introduced a number of measures to tackle fraud. Since 2010, the Government have introduced more than 150 new measures and invested more than £2 billion extra in HMRC to tackle fraud, and that action has so far secured and protected more than £288 billion-worth of revenue. This is money that would otherwise have gone unpaid.
+
+We recognise there is more to do. Although most promoters of tax avoidance schemes have been driven out of the market, we know a determined group remains. The Bill addresses that group by disrupting their business models, by providing taxpayers with more information on schemes and by targeting offshore promoters. The Bill also takes steps to combat electronic sales suppression and tobacco duty evasion, ensuring everybody pays their fair share.
+
+This Government have a strong record of tackling both economic crime and non-compliance in the tax system, and the Bill builds on the steps we have already taken to protect UK security and prosperity.
+
+Dame Margaret Hodge
+There is a difference between the action taken on tax avoidance and the growth of economic crime, money laundering and all that goes with it, such as the funding of terrorism and drug smuggling. I have become far more concerned about that in recent years, because Britain has become the jurisdiction of choice. Although I accept that action has been taken and that HMRC officials are working hard to tackle tax avoidance, can the Minister really justify that the work is sufficient when big tech companies such as Amazon and Google get away with paying such minuscule amounts of tax on the profits they make in this jurisdiction?
+
+Lucy Frazer
+The right hon. Lady conflates a number of points. She knows that HMRC and the Serious Fraud Office play an important role in cracking down on crime. Work is ongoing, and the Bill does two things: it introduces the economic crime levy, which will bring in £100 million; and it tackles promoters who sell schemes. We have an economic crime plan that has a large number of measures that address this area in broader terms.
+
+Clauses 53 to 66 introduce the new economic crime—anti-money laundering—levy. As I mentioned, the levy will aim to raise about £100 million per year. Funds raised will help to support action to combat illicit finance in the UK while providing the Government with greater scope to tackle emerging risks and improve enforcement across the economy.
+
+The levy will take effect from April 2022, with the first payments collected in the financial year 2023-24. The levy will be paid as a fixed fee, based on a business’s UK revenue. It will be collected by one of three statutory anti-money laundering supervisors: HMRC, the Financial Conduct Authority or the Gambling Commission. We have ensured that it is those with big pockets that will pay the levy. Larger firms will be making this contribution. Small firms with an annual UK revenue of below £10.2 million will be exempt. Out of approximately 90,000 anti-money laundering regulated businesses, about 4,000 organisations will be in scope. It is expected that the levy fees will not be more than 0.1% of a business’s UK revenue.
+
+On new clauses 5, 12 and 15, which would require the Government to review clauses 53 to 66, that includes evaluating whether the levy is operating effectively, its impact on the tax gap and its effectiveness in achieving its objectives under different levy rates. The Government have already agreed to conduct a wide-ranging review of the levy by the end of 2027 and to publish an annual report on the levy, which is expected to provide a breakdown of how the levy will operate in the forthcoming year, including the levy rates. The Government also already publish information year on year on the tax gap, including the parts of it that relate to avoidance and evasion, and these figures bear witness to the Government’s successes over time in driving down the amount of tax lost to avoidance and evasion. An additional review would not add value and I urge Members to reject these clauses.
+
+Let me now turn to clauses that clamp down on promoters of tax avoidance, the first of which is clause 84. It allows HMRC to petition the courts to wind up a company or partnership that promotes tax avoidance schemes when it believes it would be in the public interest to do so. By removing those businesses, we will hamper promoters’ ability to sell dubious avoidance schemes, and we will provide vital protection to taxpayers and the tax system. This power uses Insolvency Act 1986 procedures and maintains all current safeguards, including the right to make representations during the court hearing and the right to apply to the court to rescind the winding-up order or to stay the winding-up process. This is a firm but proportionate approach.
+
+Clause 85 allows HMRC to share information about promoters and the tax avoidance schemes they recommend, as well as those connected to them. The measure will allow HMRC to tackle promoters who tout these dubious schemes. Under this measure, HMRC will be able to publish promoters’ details on gov.uk and in other appropriate places. It will also be able to contact taxpayers and other interested parties directly. These steps will allow taxpayers to better understand the risks of tax avoidance schemes and to steer clear of them. I recognise that this is a significant change, but legitimate businesses and individuals have nothing to fear, and the legislation has been carefully designed with safeguards in mind. For instance, HMRC will be required to offer all those it intends to name a 30-day opportunity to make representations as to why they should not be mentioned.
+
+Dame Margaret Hodge
+I welcome these attempts to secure responsible behaviour on the part of promoters. Does the Minister agree on the issue of personal services companies, which are being used now in a way that Parliament never intended? We always wanted plumbers to set up new businesses, but we did not want MPs to use personal services companies to avoid tax. Does she agree that it would be appropriate for HMRC to bear down on the abuse of personal services companies? Will she be bringing forward further legislation to ensure certainly that MPs do not take advantage of what has become a tax avoidance scheme?
+
+Lucy Frazer
+Of course, HMRC has a duty to look into all tax matters. I wonder whether the right hon. Lady was present for the previous debate, in which we talked about why we are introducing the increased social care levy in respect of the payment of dividends. One of the reasons that I pointed out was to ensure that people did not take advantage of being paid by a company through dividends rather than paying income tax.
+
+New clauses 7 and 14 seek to require the Chancellor to publish a review on the impact of clause 85. New clause 7 would require the commissioning of an independent assessment of the information published by HMRC about disguised remuneration loan schemes. Such a review would consider HMRC’s approach to what is referred to as the loan charge scheme and consider recommendations for altering that approach. Under the new clause, the Government would be required to state to the House their response to the recommendations.
+
+The Government already regularly review and report on their progress in tackling disguised remuneration, including on action taken against those who promote tax avoidance schemes. For example, only yesterday, HMRC published its annual report on the use of marketed tax avoidance schemes and earlier this month it published its annual report and accounts. The information is therefore already in the public domain and will be updated in future. The Government introduced the loan charge to tackle the use of disguised remuneration schemes and it has already been the subject of an independent review that concluded less than two years ago. The Government accepted all but one of that review’s 20 recommendations. A further review is therefore unnecessary and I urge Members to reject the new clause.
+
+New clause 14 states that any assessment
+
+“must include consideration of the impact of the publication of a register of overseas property ownership upon the promotion of tax avoidance”.
+
+The Government continue to make progress on work to set up a public register of beneficial owners of overseas entities that own UK property. That will enable us to combat money laundering and achieve greater transparency in the UK property market. The Government remain committed to those reforms, so the new clause is unnecessary and I urge Members to reject it.
+
+Clause 86 allows HMRC to seek a court freezing order to freeze a tax avoidance scheme promoter’s assets. This would happen when HMRC has applied or is about to apply to a tribunal in England and Wales to charge a penalty. The measure will make sure that promoters face the financial consequences of their actions.
+
+Clause 87 mirrors for Scotland the provisions in clause 86, clause 88 does the same for Northern Ireland, and clause 89 provides for some definitions and interpretations. The clauses I have outlined target the most persistent promoters, who repeatedly go to extreme lengths to sidestep the rules and frustrate HMRC’s efforts to tackle their behaviour.
+
+Clause 90 introduces a new penalty that is chargeable on UK-based entities that facilitate tax avoidance schemes that involve offshore promoters. It aims to deter the enabling of such schemes by UK entities by imposing a penalty of up to 100% of the total fees earned by all those involved. This significant penalty reflects the seriousness of such behaviour.
+
+Clauses 27 and 28 relate to the diverted profits tax, which was introduced in 2015 to target large multinationals that try to avoid tax by redirecting their profits away from the UK. The tax has been hugely successful in its main aim of changing corporate behaviour; in fact, it has helped to secure £6 billion in extra taxes to fund our public services.
+
+Clause 27 will ensure that the UK can meet its tax-treaty obligations by allowing HMRC to implement a mutual agreement procedure decision to alter a diverted profits tax charge, should that situation arise.
+
+Clause 28 introduces technical amendments to ensure that the diverted profits tax legislation operates as intended. First, it will ensure that HMRC cannot issue a corporation tax closure notice until after the diverted profits tax review period has ended. This means that the taxpayer must resolve their profit diversion before a diverted profits tax charge can be displaced. Government amendments 2 and 3 ensure that the clause applies as intended to those diverted profit tax cases where a foreign company has structured its UK activities to avoid them meeting the definition of a permanent establishment. This is in line with the Budget announcement. Secondly, this clause will extend the period in which a taxpayer can amend their own company tax return to obtain relief from diverted profit tax.
+
+16:30:00
+
+I shall now turn to clauses 91 and 92, which relate to tax evasion. Clause 91 and schedule 13 introduce changes to tackle the form of tax evasion known as electronic sales suppression. This is where a business deliberately manipulates its electronic sales records to hide or reduce the value of individual transactions. This measure will mean that those found to be making, supplying, promoting or possessing ESS hardware or software will face a penalty. It will also give HMRC additional ESS-related information powers. By tackling ESS in this way, we expect to raise £85 million in additional revenue over the next five years while helping to level the playing field for compliant businesses.
+
+Clause 92 allows for the introduction of new, tougher sanctions to tackle tobacco duty evasion. These sanctions will be linked to the tobacco track and trace system, which controls the legitimate production, distribution and supply of cigarettes and hand-rolling tobacco. The clause also introduces a new information gateway. This will allow HMRC to share relevant data with anyone connected to the administration or enforcement of the traceability system, such as Trading Standards. This will help address tobacco duty evasion, with a focus on the small-scale regular offenders who play a key role in street-level distribution.
+
+New clause 13 seeks to require the Government to publish an impact assessment of clauses 84 to 92 on the tax gap. The Government already publish information each year on the tax gap, including the parts of it that relate to tax avoidance and evasion. These figures bear witness to our success in driving down the amount of tax lost to avoidance from 1.1% of total theoretical liabilities in 2005-06 to 0.2% in 2019-20, and to evasion from 1% to 0.8%.
+
+The Government are also committed to evaluating the impact of the policies and transformation programmes they implement. On 25 November, we published the first HMRC evaluation framework, which supports our work to maintain a trusted, modern tax system that is fit for the future. It sets out HMRC’s approach to evaluation in line with wider Government practice. On this basis, a separate review would be unnecessary, and I urge Members to reject the new clause.
+
+These measures will ensure that the Government can continue to crack down on economic crime. I therefore urge Members to support clauses 27 and 28, 53 to 66, 84 to 90, 91 and 92, as well as schedules 12 and 13 standing part of the Bill. I also support Government amendments 2 and 3 to clause 28.
+
+James Murray
+I rise to speak in support of the new clauses in my name and those of the Leader of the Opposition and the shadow Chancellor.
+
+Key principles of our tax system are that everyone should pay their fair share and that, in turn, the Government should treat everyone fairly. On the first of those two principles, the fact that large multinationals avoid paying their fair share of tax in the UK is one that rightly angers people across the country. This behaviour means that the UK misses out on vital revenue that could support our public services and it leaves British businesses that play fair at a disadvantage.
+
+As the Minister will know, we were very disappointed that the Government recently allowed the global minimum corporate tax rate, which seeks to limit profit shifting and tax avoidance, to fall from the initial 21% proposed by President Biden to just 15%, but this is still progress. Before I turn directly to clauses 27 and 28, which relate to profit shifting, I ask the Minister to briefly confirm when she next speaks exactly what the timetable is for the Government putting the global minimum rate into UK law.
+
+Clauses 27 and 28 amend the operation of the diverted profits tax, which was introduced in 2015 to try to limit multinationals from entering into profit-shifting arrangements through which they could avoid paying tax. As we have heard, clause 27 amends UK law on double tax treaties to allow mutual agreements between the UK and the other relevant tax state to take effect in relation to the diverted profits tax. Clause 28 is also technical, although it raises an important question about this Government’s willingness to hold companies to account for tax fraud. I would like to press the Minister on that point. TaxWatch has highlighted that HMRC’s annual accounts, published in November, show that HMRC is currently carrying out 100 investigations into multinational companies that may be diverting profits away from the UK, and HMRC’s statements clearly imply that a number of these investigations relate to fraudulent conduct.
+
+In 2019, HMRC introduced a new profit diversion compliance facility, which allows multinationals to come forward and pay the taxes that they should have paid, plus any penalties, without having to pay the diverted profits tax. The changes in clause 28 appear to facilitate the settlement of disputes without diverted profits tax being charged, by extending the time period for which a company can amend previous tax returns in order to get out of having to pay it. Will the Minister confirm whether any company that is currently under investigation for fraudulent conduct involving diverting profits away from the UK may have the investigation of their fraudulent conduct dropped if they make use of the profit diversion compliance facility? It is an important question about how robust the Government’s approach to tax avoidance really is. As TaxWatch has put it,
+
+“the Profit Diversion Compliance Facility should not become an amnesty for tax fraud.”
+
+More widely, it is critical that the Government take more action on economic crime. We therefore support the principle behind the levy introduced by clauses 53 to 66, and hope that the funding from the levy will go some way towards increasing much needed capacity for the Government to tackle economic crime. We question, however, whether it will be enough, so our new clause 5 would require the effectiveness of the levy to be reviewed. This concern is evidently shared across the House, as new clause 15 in the name of my right hon. Friend the Member for Barking (Dame Margaret Hodge) and some Government Members would require the Government to assess the effectiveness of the proposed levy rates, and of levy rates twice and three times as high.
+
+We also question why the Government are failing to make critical changes to the law that everyone agrees would strengthen the UK’s ability to fight economic crime. At the top of the list must be finally putting in place a public register of the beneficial owners of overseas entities that own UK property, to which our new clause 5 refers. A new public register would bring much needed and much delayed transparency to the overseas ownership of UK property, and help to stop the use of UK property for money laundering.
+
+Plans to introduce a register were first announced by the Conservatives in 2016. Legislation was first published in 2018. We were promised that it would be operational by 2021, yet with just one month of this year left to go, this has become another broken promise from the Conservatives. It is very hard to conclude anything other than that the Government are, under the leadership of the current Prime Minister, deliberately abandoning their commitment to the register. We need only look at the language in the annual written statements on progress toward its introduction to see a clear pattern emerge.
+
+In May 2019—two months before the right hon. Member for Uxbridge and South Ruislip (Boris Johnson) became Prime Minister—a ministerial update on the register reported:
+
+“Over the past year, significant progress has been made towards the introduction of the register... the Government intends that the register will be operational in 2021”.
+
+Yet a year after the current Prime Minister took office, the next ministerial update, in July 2020, took a different tone, saying rather more cautiously:
+
+“This register will be novel, and careful consideration is needed before any measures are adopted”.
+
+By November 2021, the latest ministerial update simply said:
+
+“The overseas entities register is one of a number of proposed corporate transparency reforms... The Government intend to introduce legislation to Parliament as soon as parliamentary time allows.”
+
+Those statements do not sound like a toughening of resolve.
+
+What is more, the ministerial statements themselves have only been published because the Government have been required, by section 50 of the Sanctions and Anti-Money Laundering Act 2018, to publish three reports on progress toward the register—one in each of the years 2019, 2020 and 2021. That is why our new clause 5 would require the Government to continue publishing annual updates on 31 December each year on progress towards implementing the register. We are determined not to allow the Prime Minister to let this commitment slip out of sight.
+
+As I said on Second Reading, it is astonishing that the Government feel that the need for this register is becoming less urgent. The Pandora papers confirmed how overseas shell companies secretly buy up luxury property in the UK and how much transparency is needed to help to tackle money laundering. Ministers did not respond to my questions on Second Reading, but I did receive a letter from the Exchequer Secretary yesterday, where she wrote:
+
+“While these measures have full Treasury support, they are not Treasury led.”
+
+It is quite astonishing that Treasury Ministers are now trying to blame their colleagues in the Department for Business, Energy and Industrial Strategy for the delay in bringing in the register, when every indication is that the lack of determination comes directly from the Prime Minister. The truth is that concerns over Russian donations to the Conservative party and the use of high-end property in the UK for Russian money laundering mean that putting in place the register of overseas owners without delay is a key part of restoring the trust in politics that Conservative MPs and the Prime Minister have done so much to erode.
+
+Clauses 84 to 92 and schedules 12 and 13 relate to tax avoidance. Our new clause 7 requires an independent assessment of HMRC’s approach to the loan charge scheme and recommendations for altering that approach. In my opening remarks on the previous group of amendments, I said that a key principle of our tax system was that the Government should treat everyone fairly. We fear that with their approach to the loan charge the Government are sorely failing in that duty. The Government’s approach to the loan charge means that ordinary people who are victims of mis-selling are facing huge bills that are causing untold distress and personal harm. It was truly shocking to read reports only last week of eight cases of suicide among those facing demands for payments. A new approach to the loan charge is urgently needed.
+
+That is why our new clause would require the Chancellor to commission an independent review to consider HMRC’s approach to the loan charge scheme and make recommendations on how it should be altered. This new review must finally offer a truly independent assessment, which is why we would require the Government to make a statement to the House of Commons on what efforts have been taken to guarantee its independence. Once recommendations have been made, we would then require the Government to explain which of them they will accept, and why, and to report on progress towards implementing them every six months.
+
+It is clear that something is very wrong with the Government’s approach on the loan charge scheme and that efforts until now to find a solution have fallen far short. Our proposal would finally offer a way forward. I urge Members on both sides of the Committee to support our new clause on this matter when it comes to a vote. I also urge them to support our new clause to make sure that the register of the beneficial owners of overseas entities that own UK property does not get forgotten. We have already seen that the promise to have this register operational by this year has been broken. We must now ensure that the Government do not allow it to disappear altogether.
+
+Alison Thewliss (Glasgow Central) (SNP)
+On 10 November, the Prime Minister said that the UK is
+
+“not remotely a corrupt country”.
+
+One can believe or disbelieve things that the Prime Minister says, but it is clear from the Bill that the UK is certainly not a transparent country when it comes to taxes. Efforts in the Bill to tackle economic crime are of course welcome, but, as ever, this Government are not going far enough to do so. The Minister mentioned the economic crime plan. On Monday, we had the Minister for Security and Borders at the Treasury Committee, where he set out that 34 of the 52 actions have been completed, while the rest are in progress and a few of them appear to be some way from being completed. It worries me that priority is not being given to these actions.
+
+Clauses 53 to 66 provide for the Economic Crime (Anti-Money Laundering) Levy, which the Government estimate will raise approximately £100 million per year to help to fund anti-money laundering and economic crime reforms. SNP Members are concerned that this part of the Bill is not well targeted and could potentially act as an additional tax on businesses that are not breaking the rules. For example, the Association of British Insurers is concerned that insurers will be disproportionately hit, because they present very little risk to the Treasury of tax avoidance and money laundering. The Chartered Institute of Taxation has expressed concern that smaller tax adviser firms may be driven from the market because of the increasing costs and reducing choices for consumers. It has also said that the measure could increase the tax gap by incentivising de-professionalisation. If it becomes too costly for firms to meet compliance, they may just choose to de-register from professional bodies altogether. De-professionalisation can result in less ethical behaviour and increased costs of supervision by HMRC, neither of which is particularly in keeping with the aims of this legislation. I understand that more than 32,000 firms are already supervised directly by HMRC, and the staffing to cover that does not nearly match the size of the job.
+
+16:45:00
+
+On top of that, we have not received any guarantee that the funds raised by the levy will go into future schemes to tackle economic crime. That is why the SNP has tabled new clause 12, which would require an assessment of the impact of the economic crime levy on the tax gap and on opportunities for tax avoidance, evasion and other economic crimes, similar to Labour’s new clause 5 and new clause 15 from the right hon. Member for Barking (Dame Margaret Hodge).
+
+New clause 12 would force the UK Government into being transparent about how effective the policy is, and effectiveness is important, because the disparity between the scale of the task at hand and the money being put to it was set out clearly in evidence at the Treasury Committee on Monday. I fear that the economic crime levy will not make the difference that the Chancellor and others are claiming it will, so I say to them that this is their opportunity to prove us wrong. The difficulty with a lot of this is enforcement. The Government regularly introduce rules and legislation that do not have the enforcement powers. The reason that the tax gap is so big in the first place is that our tax system has, with all this legislation, become so complex and unwieldy that it provides loopholes and places for crime to flourish.
+
+Economic crime has a devastating impact on our economy, with the National Crime Agency estimating that money laundering costs the UK over £100 billion every year. The amount that the Government seek to put to it seems small by comparison. It is a big business, and it requires a more concerted approach. Reports from the Intelligence and Security Committee and the Foreign Affairs Committee have shown that the consequences of this problem are not solely financial. The flow of dirty money into the UK impacts our national security and the integrity of our democracy. Trust in public institutions is incredibly low, and the UK Government are helping to facilitate that by providing places for criminal elements to hide without any real sanction.
+
+A good place to start would be reform of Companies House. I sat on the Joint Committee on the Draft Registration of Overseas Entities Bill, where we looked at the legislation that the Government were proposing. One of the recommendations in that cross-party, cross-House report was better veracity of the information that Companies House collects. All it is is a register. It is not required to check what information comes in, or to ensure that the information is correct or accurate. It is not an anti-money laundering supervisor either, so that information does not have any consequence.
+
+I have raised this matter time and time again. Companies House does not have the resources it requires to monitor the integrity of the data submitted to it. That allows criminals to incorporate companies using false or fraudulent information without any meaningful enforcement of the rules. Thousands of companies are either not complying with the rules or are filing entries that look highly suspicious, even to a layperson like me. For example, I understand that 4,000 beneficial owners in the persons with significant control register are listed as being under the age of two. That is fairly unlikely, I should think. Only five beneficial owners control more than 6,000 companies. Again, that is very suspicious. If Companies House was an anti-money laundering supervisor, and was required to verify that information, that number would almost certainly reduce.
+
+If the Treasury was serious about economic crime, it would be taking action, rather than batting the issue back between itself and the Department for Business, Energy and Industrial Strategy. While at some point the Minister may point out that the number of SLPs that have not registered a person with significant control has fallen since the Government changed the rules, that does not mean the problem is fixed. There are a number of zombie SLPs on the Companies House register and there is a wider international aspect to this, too. Colm Keena of The Irish Times has written recently about the surprising and sudden increase in registrations of Irish limited partnerships, which are similar to those in Scotland. Some of whom are then listed as having SLPs as their owners. It becomes very difficult to find out who actually controls the company. Tightening up in one area without recognising that the problem will shift to the next place does not tackle the problem and, worse, the UK Government are giving those who would use such vehicles plenty of time to move their funds somewhere else. In the Registration of Overseas Entities Committee, we had information that the next place to look was trusts. If we close down something here, it will move somewhere else, but the Government are not looking ahead enough to tackle and anticipate that.
+
+Clauses 84 to 92 give HMRC powers on publishing information on individuals who promote tax avoidance schemes, such as the freezing of assets, the closing down of companies and information sharing, and a new penalty on UK entities that support offshore promotors of tax avoidance. On Second Reading, I was clear that the SNP supports that in principle and has no problem with it, but I urge a note of caution. Industry experts have been in touch with concerns that the measures would go further than stated by the Government, and that the criteria for an individual to be named and shamed are perhaps too weak. An officer needs only to suspect that a scheme falls within the provisions to potentially ruin a company’s reputation in the long term. The measure needs to have checks and balances.
+
+I also asked for some assurances on how the scheme would be resourced. TaxWatch has expressed its concern that HMRC simply does not have the capacity to take on the job of more enforcement. As I understand from reports in the press, it already faces a considerable backlog of cases built up during the last 18 months, together with an eye-watering caseload of potential furlough fraud to investigate. To adequately enforce the rules on tax crime, it will need significant extra resources. I am sure that many hon. Members would want me to mention that the closing down of local tax offices across the UK means that some of that local knowledge, where somebody could detect tax fraud because they knew the area and who they were dealing with, has gone, which makes it more difficult for enforcement to be carried out locally. CIOT has said that the general feeling among tax professionals is that,
+
+“HMRC frequently ask for new powers while not making full use of those they already have.”
+
+The Bill threatens to increase the burden without any real guarantee of how the tax gap will be narrowed in return.
+
+It would be an understatement to say that I am not convinced of the merits of this part of the policy. We need more detail from the Minister on how it will operate. The SNP has tabled another clause that places a reporting obligation on the UK Government. For those who do not understand how finance Bills work, we are very limited in the scope of amendments that we can table to such Bills so they often ask for a report or further information and detail. Those are the limitations of the Bill, but we do what we can within those limitations and we always hope that the Government will at least take that on board.
+
+On the loan charge, which my hon. Friend the Member for Glenrothes (Peter Grant) raised on Second Reading, we want to see more about the promoters of the loan charge being brought to book. Sometimes, the victims did not have the full information that they should have had; sometimes, they were forced to be involved by the person who wished to hire them. We need to make sure that those promoters are brought to book.
+
+New clause 13 would require an assessment of the impact of the provisions in clauses 84 to 92 on the tax gap. Again, we are making a reasonable request for the Government to assess the impact of their policies. It is not a radical or outrageous proposition and I would be disappointed if Labour Members did not support it.
+
+Tackling economic crime is an area where the Labour party and the SNP can find a lot of common ground. I pay tribute to the right hon. Member for Barking, her all-party parliamentary group and all her work on the issue. The hon. Member for Ealing North (James Murray) made a useful point on Second Reading that the Government’s priority must be
+
+“putting in place a public register of the beneficial owners of overseas entities that own UK property.”—[Official Report, 16 November 2021; Vol. 703, c. 501.]
+
+It is nothing short of a disgrace that the Tories still refuse to create a publicly accessible register of overseas entities that own UK property. As he set out, that proposal has been ongoing for more than five years. There is no excuse for the Government not to have done more.
+
+Research from Transparency International recently identified over £5 billion-worth of UK property bought with suspicious wealth. The UK property market is rife with corrupt and criminal transactions. It is the destination of choice for global money launderers, and the Government have turned a blind eye again and again. We made suggestions in good faith on the registration of overseas entities Bill in pre-legislative scrutiny. The Economic Secretary to the Treasury said at the Treasury Committee on Monday that this was an “urgent” issue. It does not feel very urgent to us—not in the slightest—when this issue is left to drift for so long.
+
+That is why our new clause 14 would require the Government to consider the impact of publishing a register of overseas property ownership. Such a register could prevent corrupt actors from being able to purchase UK property in secrecy under the cover of a company. That could be an SLP, a trust or some other vehicle for that purpose. The Government committed to that in the economic crime plan and said, as recently as 2 November, that they still intend to go ahead with this, but we have not seen it. The Bill is there. It is ready to go. They say that they will bring it forward whenever parliamentary time allows, but we all know what that means. We know that that is a way of kicking the can down the road and that there is no urgency to that. We will believe this Bill when we see it.
+
+If the Government are serious about this, they will bring the Bill forward now. They control the time; they are the Government; they alone can do this. The delay can only lead one to wonder who benefits from it: could it be the same oligarchs who fill the coffers of the Conservative party?
+
+Dame Margaret Hodge
+I will speak to new clause 15, which stands in my name and those of right hon. and hon. Members from across the House, and I rise in support of new clause 5, which was moved so eloquently by my hon. Friend the Member for Ealing North (James Murray). New clause 15 is complementary to the first part of new clause 5.
+
+I shall start by making a general observation. It seemed to me, when the Minister spoke, that either she does not completely understand what is going on in the world of economic crime, particularly in relation to the UK’s position on that; or there is a deliberate attempt by the Government to downplay it so that they do not take the very necessary action that is available and, as SNP Members and the Labour Front Benchers said, is probably as oven-ready as any legislation that we have. The Government are simply choosing not to implement it.
+
+I will give an example of how the impact of economic crime is filtering and seeping into our politics. There are two Russian kleptocrats, Viktor Fedotov and Alexander Temerko—both of whom have questionable backgrounds and whose money has questionable origins—who are involved in a company called Aquind, which is trying to build an energy cable from Portsmouth to France. It is a controversial proposal. As for the origins of the money that they are using to fund this project, for me, it is money that has probably been stolen from the Russian people. That is really where that money comes from.
+
+What is particularly disturbing is that when we look at the accounts of Aquind, the company, and the donations being given by one of the individuals, Alexander Temerko —the other one hides himself—to Conservative parties and to Conservative Members of this House, we see that it is enormous. There is a bit of time this afternoon so I am going to take the liberty of reading through the list. The right hon. Member for South West Surrey (Jeremy Hunt) has received money on a number of occasions from Aquind. The right hon. Member for Middlesbrough South and East Cleveland (Mr Clarke) has received money from Aquind of Russian origin. The hon. Member—
+
+The First Deputy Chairman of Ways and Means (Dame Rosie Winterton)
+Order. I will just check that the right hon. Lady has informed other Members that she was going to mention them.
+
+Dame Margaret Hodge
+Thank you, Dame Rosie; I have not, because I did not realise that there would be so few people in the House this afternoon that I would have the opportunity to do so.
+
+What I can say is that 24 Members of Parliament—all of them Conservative Members, many of them Front-Bench Members, some of them with ministerial positions—have received money from Aquind or from Alexander Temerko. I can also tell the House that further parties have received such money and that some former MPs and local parties have received money. I hope that is in order, and thank you for correcting me, Dame Rosie. The impact of economic crime and economic activity on our politics is a worrying trend that has been growing exponentially over recent years.
+
+Mr Barry Sheerman (Huddersfield) (Lab/Co-op)
+I am listening with rapt attention to my right hon. Friend’s remarks. Does she not think it strange that there is a Member of the House of Lords with very close connections to Russia—indeed, he is a Lord of Hampton and of Siberia—but we never hear from him and he is never seen? Whatever the story is of great interest in Russia, he is never on the media in this country.
+
+17:00:00
+
+Dame Margaret Hodge
+My hon. Friend makes a really important point.
+
+I think, having taken guidance from you, Dame Rosie, that I am at liberty to mention the political parties. Am I correct?
+
+The First Deputy Chairman
+The right hon. Lady can mention former Members and the location of political parties. What she cannot do without having informed them previously—it would be very discourteous—is to refer to existing Members of the House.
+
+Dame Margaret Hodge
+I am very grateful for the advice you have given me, Dame Rosie. I apologise, and I will write to the Members I had mentioned before you drew that to my attention.
+
+If I can mention the political parties, they are those in Reading West, The Wrekin, Staffordshire Moorlands, Morecambe and Lunesdale, North Somerset, Great Yarmouth, Selby and Ainsty, Northampton North, Colchester, Daventry, Corby, Vale of Clwyd, Berwick-upon-Tweed, Richmond (Yorks) and North Swindon. If I can mention the former MPs, and these are quite important, there is one in particular—the former MP for Stockton South, James Wharton, who was of course very involved in the campaign—
+
+The First Deputy Chairman
+Order. I have a little further clarification. If any of those Members are in the House of Lords, it is not in order to refer to them. I know it is quite complicated, but it is best to get it right.
+
+Dame Margaret Hodge
+Well, I will also write to that individual, having transgressed. I apologise for that, Dame Rosie. I think I am okay on the other two: one is Guto Bebb, the former MP for Aberconwy, and the other is Mark Field, the former Member for Cities of London and Westminster.
+
+I read out that list partly because we have the time to do so, but also to demonstrate how absolutely critical it is, I say to the Minister, that we start tackling economic crime seriously in this country. If we do not, we are in danger of allowing this to seep into our politics and seep into the public domain, and far from being a trusted jurisdiction, we will become a jurisdiction that is not very different from others to which we all too often preach that they should tackle the corruption endemic in their Administrations—we will become one of them.
+
+Just to put that further into context, we are now the jurisdiction of choice for far too many kleptocrats, far too many criminals, far too many people who avoid tax and far too many people who launder money. Money laundering in itself is an activity that leads to the funding of terrorism, drug smuggling and all sorts of other crimes that we and the Government ought to want to bear down on in a very firm way, but we are just not doing so. The National Crime Agency has a figure of £100 billion that it thinks is laundered into the UK each year, but I think that is a very conservative estimate. It is probably plucked out of thin air a little bit, and I think the real or true figure is probably much greater. We only have to look at Moody’s credit rating, on which we have gone down a notch. One of the reasons for that happening is that it has argued there has been a
+
+“weakening in the UK’s institutions and governance”.
+
+To come back to my new clause 15, it is partly about our enforcement agencies, but it is also about the way in which all Government agencies tackle economic crime here.
+
+The evidence of the toothlessness and the timidity of our enforcement agencies is overwhelming. In part, that is because of the regulatory framework in which they have to operate. As I have said time and again from these Benches, that deregulation started under the Conservatives and was continued by the Labour Government. Both parties take responsibility for that deregulation, and it is now time to revisit the issue and toughen up the regulations, so that we have an appropriate regulatory framework that can tackle not just tax avoidance and evasion, but the growth of the economic crime that is so insidious.
+
+There is also pathetic enforcement by all our agencies. In part that is due to a lack of money, but I also believe that a lack of political will lies at the heart of it. We have only to look at the United States, ironically, which has a strong and clear resolve that it will pursue those guilty of financial crime and fine them heavily. Let me provide two examples of that. In 2019, the USA pursued and secured 25 penalties, which gave a total of $2.29 billion in revenue secured back to the public purse. In the UK, in the same year, we pursued and secured only 12 penalties, totalling £338 million.
+
+Let me take one example of a British bank, Standard Chartered. In 2019, it was fined in both the USA and the UK, not only for its poor anti-money laundering controls, but for breaking sanctions in relation to Iran. Here in the UK, the Financial Conduct Authority fined it a total of £102 million. In the USA—this is a British-based bank, not an American bank—it was fined £842 million. There is just a different approach between the USA and the UK in pursuing those who are guilty of economic crime and should be paying back to the public purse. Our role in money laundering and economic crime is growing. It is not just economic crime here in the UK; it is economic crime facilitated by the UK because of our regulatory framework.
+
+The hon. Member for Glasgow Central (Alison Thewliss) spoke about Companies House, which is a vital ingredient in the leaks of all the documents we get. Someone can pay £12 to form a company in the UK. Endless people from all over the world use UK formation to form shell companies, which they then use to create complex financial structures that will facilitate money laundering and economic crime. We have seen that in a regular flow of leaked documents, and I will talk about two. The Financial Crimes Enforcement Network files came out in 2020, showing that $2 trillion was moved by global banks in just under 20 years between 1999 and 2017. That movement gave rise to suspicious activity reports, which banks have to provide to the American authorities when they have a red flag about a transaction. More UK companies were cited in that tranche of leaks than companies from any other country, showing the concentration of economic crime in the UK. Indeed, 3,267 of the companies cited were UK shell companies.
+
+Formation agencies are one of the things that we do not regulate properly. We do not enforce the legislation strongly enough, and four formation agencies had created more than half of those UK shell companies. The sort of thing that happens is that a limited liability partnership is established and registered at the Belgian address of a dentist. A young worker in north London was paid £800 a month for his flat’s address to be used for the registration of companies, and when he gave up doing that, the same address was used by a cleaner who worked in Leicester. Underlying that is one example when J. P. Morgan allowed a company to move more than £1 billion through a London account. It later emerged that that company was probably owned by a mobster on the FBI’s “Ten Most Wanted” list. That is the sort of facilitation of economic crime that we allow to happen.
+
+I do not want to take too much of the House’s time, but I turn to the Pandora papers, the largest cache of documents we have ever received. Again, the UK lies at the heart of everything that was revealed in those papers. Others have talked about the secret property transactions that have taken place, with £4 billion identified in the Pandora papers. There are more UK citizens than citizens of any other country cited in that tranche of leaks. The relationship between the UK and our tax havens is central to the facilitation of economic crime, and again we see the weak and toothless enforcement agencies.
+
+That brings me to our new clause 15. The evidence for the need for well-resourced and determined enforcement is overwhelming, but the money to be raised by the levy is woefully inadequate. As the Minister said, it will be £100 million. I had a meeting recently with personnel from major banks who are responsible for implementing anti-money laundering provisions. They said that they—the regulated financial sector—spend £49.5 billion on financial crime compliance. That gives us an idea of how little our £100 million raised from the levy is.
+
+We must act within the constraints of the Bill in tabling new clauses, but we think £100 million is a pittance. Far more should be raised—it should be doubled or tripled—and I think that case would be made if a review were undertaken. If the Minister is confident that she is right—if she is confident about everything she said in her opening remarks—she will not shy away from a review that could then be considered in the House. I often think that Ministers should think about propositions that are tabled; they should not just reject them because they are not their ideas, but should really consider whether they are worthwhile on their own grounds. In this case, I urge the Minister, if she is really committed to tackling economic crime, money laundering and the rest, to do something.
+
+I suppose the only thing I would say about the new levy, while I welcome it, is that for the first time ever we see the Treasury agreeing that there should be a hypothecation of tax to spend on a particular issue. I always thought it was Treasury orthodoxy that there should be no hypothecation. In this case, we have broken that orthodoxy; the money is going to be spent on fighting money laundering. I welcome that change. I hope to see it in other areas where a hypothecated tax could do a lot to create a fairer society.
+
+I also think that the bands are unfair. Why should a company with a revenue of £10 million pay £10,000, while a company with a revenue of £1 billion pays only £250,000? We need a more progressive system that reflects the revenue that these companies get.
+
+Simply increasing the levy is not enough; there have to be other measures. We need to put a cap on the potential costs of litigation that the enforcement agencies will engage in. All too often, the potential cost to an agency stops it taking action that would bear down on economic crime. We have seen that with unexplained wealth orders, where the agencies started off with a great burst of energy, and then when they lost one case and got a huge bill, they stopped doing anything. We could do away with the entitlement to secure costs, except in cases where there is no reasonable justification to prosecute. I think we could provide a financial incentive to the enforcement agencies to litigate by saying that any money that they raised through action could come back to them to be used.
+
+All that could be reviewed, and the level of the levy could be increased. I would be really heartened if, just for a change, Ministers listened to the strength of the argument and accepted new clause 15, with its cross-party support. Then, hopefully, we could come back and see who is right and who is wrong.
+
+Lucy Frazer
+I will take a few moments to respond to some of the points raised in the debate on this group, starting with those made by the hon. Member for Ealing North (James Murray). I am very grateful for his welcome of the economic crime levy. He asked for a review, but, as I mentioned, we have already committed to a review. A review will take place by the end of 2027.
+
+17:15:00
+
+The hon. Gentleman suggested that we have abandoned the commitment to bring in a register of beneficial ownership. I wholly refute that. We have not abandoned it. As he rightly said, the Exchequer Secretary to the Treasury, my hon. Friend the Member for Faversham and Mid Kent (Helen Whately) wrote to him yesterday setting out the position, which is that a draft Bill underwent pre-legislative scrutiny in 2019. Since last updating Parliament in July 2020, the Government have published their response to the consultation on reforming Companies House. Three further consultations were published in December 2020, seeking further views on the finer details of the reform package. Not only that, in the letter my hon. Friend, the Exchequer Secretary pointed out that under the UK’s leadership all G7 countries have now committed to strengthening and implementing their beneficial ownership registers.
+
+James Murray
+Will the Minister give way?
+
+Lucy Frazer
+I am not going to give way because I want to make a number of points and the hon. Member has had an opportunity to put forward his points.
+
+The hon. Gentleman also mentioned the loan charge and asked for a review. He will have heard in my speech and will know that we had a review less than two years ago. I know that this is an issue that concerns many Members. We did legislate as a result of that. We legislated on 3 December 2020. As a result of the review, 30,000 individuals benefited. In fact, 11,000 were removed from the loan charge.[Official Report, 6 December 2021, Vol. 705, c. 2MC.]
+
+David Linden (Glasgow East) (SNP)
+Will the Minister give way?
+
+Lucy Frazer
+I am going to move on to another point raised by the hon. Member for Ealing North (James Murray), in relation to the timetable for the OECD reforms. He asked when the Government would implement those reforms. The Government are following the OECD’s implementation. The implementation date for the two-pillar solution is 2023.
+
+David Linden
+Will the Minister give way?
+
+Lucy Frazer
+The hon. Member for Ealing North also asked me about the changes in relation to clause 28 and whether they would facilitate firms getting out of their fraudulent activities and investigation. I would like to give him an assurance that no company fraudulently diverting profits from the UK would have an inquiry dropped as a part of this measure. The only way in which a valid diverted profits tax charge can be displaced is if the company accepts a corresponding corporation tax charge within the diverted profits tax review, and that is the measure in the Bill.
+
+David Linden
+Will the Minister give way?
+
+Lucy Frazer
+I would like to turn to the points made by the hon. Member for Glasgow Central (Alison Thewliss) on transparency and the tax gap. I pointed out, and I hope she is aware, that each year we publish measures in relation to the tax gap. She talked about reforming Companies House. I know she will be aware that the Treasury has provided £63 million in funding for reforms to Companies House. She is interested in Scottish limited partnerships and we had a brief discussion about that. I hope she is aware that since October 2020, Companies House has brought forward 28 prosecutions in relation to Scottish limited partnerships and persons of significant control offences.
+
+I want to turn to some of the comments made by the right hon. Member for Barking (Dame Margaret Hodge). I would like to start by commending her for the work she has done. This is an area in which she is significantly interested and she has done a great deal of work through the all-party parliamentary group on anti-corruption and responsible tax. However, I strongly object to her suggestion that the Government are not committed to tackling economic crime. They absolutely are. It is for that reason that they set out 52 measures in the economic crime plan in 2019. I also take issue with her implicit suggestion, which was highly inappropriate, that there was a link between the Government’s actions on economic crime and donations made to a number of Members. I did not think that that was a wholly appropriate link to make in this House. In my six years in Parliament, I have found that colleagues across the House are committed to their work in public service.
+
+David Linden
+Will the Minister give way on that point so that I can provide a public service to my constituent?
+
+Lucy Frazer
+The hon. Member has been very persistent. I give way.
+
+David Linden
+I am very grateful indeed; the Minister is incredibly kind and generous. May I take her back to a point that she made to the hon. Member for Ealing North (James Murray) about the loan charge? My Gartloch constituent, Michael Milne, has been in touch with me regularly about the issue. Will she commit at the Dispatch Box to personally taking a look at his case? He has expressed enormous concern to me about the impact that the loan charge is having on him. Will she give me that commitment from the Dispatch Box, please?
+
+Lucy Frazer
+I understand why the hon. Gentleman presses the matter, because there is obviously an issue that relates to his constituent. If the hon. Gentleman writes to me about those points, I will be very happy to take a look and pass over anything appropriate for HMRC to look at.
+
+Let me go back to the points that the right hon. Member for Barking made. She was suggesting that our law enforcement is not sufficient. Of course there is always more we can do, of course people who want to do wrong work very hard at it, and of course we need to keep up with them—the Government are committed to doing so—but I point her to two figures. First, the Financial Conduct Authority has issued fines totalling £336 million since 2018, which does not suggest inactivity. Secondly, before I took on my Treasury role I was very proud to be a Law Officer overseeing and superintending the Serious Fraud Office, so I know how hard the SFO works to tackle fraud and crime. Since 2014, through deferred prosecution agreements, it has delivered £1.6 billion to the public purse.
+
+The Bill will put on the statute book a number of measures to protect our economy from disruption and tackle economic crime. I hope that those hon. Members who have spoken so vociferously in favour of such action will support those measures in our Bill.
+
+Question put and agreed to.
+
+Clause 27 accordingly ordered to stand part of the Bill.
+
+Clause 28
+
+Diverted Profits Tax: Closure Notices Etc
+
+Amendments made: 2, in page 22, line 40, leave out from “to” to end of line 41 and insert “a relevant enquiry”.
+
+See the explanatory statement for Amendment 3.
+
+Amendment 3, in page 23, line 5, at end insert—
+
+“(3A) In subsection (2), ‘relevant inquiry’ means—
+
+(a) an enquiry into the company tax return for the accounting period mentioned in subsection (1)(a);
+
+(b) where the charging notice mentioned in subsection (1)(a) is issued to a company (‘the foreign company’) for an accounting period by reason of section 86 applying in relation to it for that accounting period, an enquiry into any company tax return for the avoided PE (within the meaning of section 86) that may be amended by virtue of section 101B(2) so as to reduce the taxable diverted profits arising to the foreign company in that accounting period.”—(Lucy Frazer.)
+
+This amendment (together with Amendment 2) is to prevent the issuance, during a diverted profits tax review period of a foreign company, of a closure notice in respect of a company tax return of an entity carrying on trading activity in the UK where that return is capable of being amended to bring into account amounts that would otherwise be taxable diverted profits of the foreign company.
+
+Clause 28, as amended, ordered to stand part of the Bill.
+
+Clauses 53 to 66 ordered to stand part of the Bill.
+
+Clauses 84 to 90 ordered to stand part of the Bill.
+
+Schedule 12 agreed to.
+
+Clause 91 ordered to stand part of the Bill.
+
+Schedule 13 agreed to.
+
+Clause 92 ordered to stand part of the Bill.
+
+New Clause 5
+
+Reviews of Economic Crime (Anti-money Laundering) Levy
+
+‘(1) The Government must publish a review of the operation of the Economic Crime (Anti-Money Laundering) Levy by 31 December 2027.
+
+(2) The Government must publish on 31 December each year until the establishment of a register of beneficial owners of overseas entities that own UK property—
+
+(a) an assessment of the contribution to the effectiveness of the Levy that such a register would make; and
+
+(b) an update on progress toward implementing such a register.’—(James Murray.)
+
+This new clause will put into law the Government’s commitment to undertake a review of the Levy by the end of 2027, and require them to publish an assessment every year until a register of beneficial owners of overseas entities that own UK property is in place an assessment of what impact such a register would have on the effectiveness of the Levy, and progress toward the register being established.
+
+Brought up, and read the First time.
+
+Question put, That the clause be read a Second time.
+
+Division 128
+01/12/2021 17:23:00
+The Committee divided:
+Ayes: 212
+Noes: 306
+Question accordingly negatived.
+
+New Clause 7
+
+Reporting on provisions relating to publication of information about tax avoidance schemes
+
+‘(1) The Chancellor of the Exchequer must, within three months of the passing of this Act, lay before the House of Commons and publish a review of the impact of measures contained within this Act that relate to the publication by HMRC of information about tax avoidance schemes.
+
+(2) The review undertaken by the Chancellor under subsection (1) must include commissioning an independent assessment of the information published by HMRC about disguised remuneration loan schemes.
+
+(3) The independent assessment under subsection (2) must include consideration of the following with respect to the purposes set out in section 85(1)(a) and (b) of this Act—
+
+(a) HMRC’s approach to the loan charge scheme; and
+
+(b) recommendations for altering that approach.
+
+(4) The Government must before the review commences make a statement to the House of Commons stating what efforts have been taken to guarantee the independence of the assessment under subsection (2).
+
+(5) The Government must within three months of the publication of the review under subsection (1) make a statement to the House of Commons stating which of any recommendations under subsection (3)(b) it will be accepting, and give reasons for any decision not to accept one or more of those recommendations.
+
+(6) The Government must every six months after the publication of the review in subsection (1) make a statement to the House of Commons stating what progress has been made towards implementing any of the recommendations that arise from subsection (3)(b) which the Government has accepted.’—(James Murray.)
+
+This new clause would require the Government to review the impact of measures contained in clause 85 of the Bill, and as part of that to commission an independent review of the information published by HMRC about disguised remuneration loan schemes. This independent assessment must consider HMRC’s approach to the loan charge scheme and consider recommendations for altering that approach, and the Government would be required to state to the House its response to the recommendations.
+
+Brought up, and read the First time.
+
+Question put, That the clause be read a Second time.
+
+Division 129
+01/12/2021 17:37:00
+The Committee divided:
+Ayes: 215
+Noes: 299
+Question accordingly negatived.
+
+Clause 68
+
+Interim operation of margin schemes for used cars etc: Northern Ireland
+
+Question proposed, That the clause stand part of the Bill.
+
+The First Deputy Chairman of Ways and Means (Dame Rosie Winterton)
+With this it will be convenient to discuss the following:
+
+Clauses 69 to 71 stand part.
+
+Clause 93 stand part.
+
+That schedule 14 be the Fourteenth schedule to the Bill.
+
+Lucy Frazer
+VAT is our third-biggest tax. It raised £130 billion in 2019-20, making a major contribution to the public finances. It helps to pay for our schools, hospitals and police throughout the UK.
+
+Now that we have left the EU, we are free to set our own VAT rules and are already using that freedom to create a fairer, more robust tax system. We have altered how VAT is paid on low-value consignments from overseas suppliers. We have also implemented changes to passengers’ policy and introduced a zero rate on women’s sanitary products. On top of all that, we are reviewing the UK funds regime, including the VAT treatment of fund management fees. We are establishing an industry working group to review how financial services are treated for VAT purposes. As I have illustrated, this Government are focused on using our new freedoms to create a VAT system that is ready for the future, and the measures in the Bill build on that work.
+
+Some clauses being discussed today will be of most relevance to businesses and consumers in Northern Ireland. The UK has implemented the Northern Ireland protocol in a way that seeks to protect the UK internal market. Today’s clauses play a part in achieving that objective by allowing Northern Ireland businesses and consumers to have the same economic opportunities as those in the rest of the UK.
+
+Finally, as Members will be aware, freeports are an important part of the Government’s levelling-up agenda. We see them as central to our goal of sparking regeneration, creating jobs and inspiring innovation throughout the country. One of the clauses that we are debating today supports the delivery of their VAT benefits.
+
+Let me turn to the clauses themselves. The second-hand car sector in Northern Ireland relies heavily on sourcing vehicles in Great Britain for resale in Northern Ireland. Clauses 68 to 70 will together ensure that second-hand car dealers in Northern Ireland can continue to sell cars and other motor vehicles sourced in Great Britain and the Isle of Man on an equal footing with their counterparts in the rest of the UK.
+
+Under the Northern Ireland protocol, the VAT second-hand margin scheme is not available for goods in Northern Ireland if they were purchased in Great Britain or the Isle of Man. This means that motor vehicle dealers in Northern Ireland must account for VAT in full on sales of these vehicles rather than on the profit margin. That would disrupt the UK’s internal market, potentially increase prices for consumers or costs for businesses and risk undermining the trade in motor vehicles in Northern Ireland altogether. It is only right that the Northern Ireland used car industry has the same economic opportunities as that of the rest of the country. That is why the Government are actively discussing arrangements with the EU to enable the margin scheme to continue in Northern Ireland for cars sourced from Great Britain.
+
+Clause 68 provides the legislative basis for an interim arrangement that allows dealers in Northern Ireland to continue to use the VAT second-hand margin schemes for vehicles sourced in Great Britain once an agreement is reached with the EU. This interim arrangement will be available for motor vehicles first registered before 1 January 2021. It will end once the second-hand export refund scheme is introduced.
+
+Clause 69 introduces a power to bring in an export refund scheme, which the Government intend to apply to second-hand motor vehicles. The aim of this permanent scheme, once introduced, is to give dealers in Northern Ireland a comparable financial outcome to the margin scheme. The clause achieves this by enabling businesses to claim a refund equivalent to VAT on the price they paid on used vehicles. The scheme will be available for used motor vehicles moving to Northern Ireland and the EU from Great Britain. Legislation to implement the scheme will be introduced once we have held further discussions with the industry.
+
+Clause 70 simply makes some consequential changes to VAT to limit the zero rate for export or removal of goods where they are subject to the margin scheme. This is a technical measure that will ensure that businesses are not at an advantage compared with before the end of the transition period. Businesses will still be able to export goods at zero rate outside the margin scheme. This ensures consistency of treatment across the UK.
+
+These clauses are necessary to ensure that the motor vehicle sector and consumers in Northern Ireland are not disadvantaged. Taken together, they will benefit the 500 businesses that trade in used cars in Northern Ireland.
+
+Clause 71 makes changes to extend a VAT exemption to the importation of dental prostheses. Before the end of the transition period, such prostheses were supplied by registered dentists or dental technicians between Great Britain and Northern Ireland, and were exempt from VAT because an exemption applies to domestic sales. However, following the end of the transition period, the exemption no longer applies to the movement of these goods between GB and Northern Ireland. As the VAT that is due cannot be recovered by the registered dentist, there is a risk that it might be passed on to patients. The changes made by clause 71 extend the current domestic UK VAT exemption to include dental prostheses imported into the UK, including those moving between GB and Northern Ireland, ensuring that we meet our international obligations, and that VAT treatment between GB and Northern Ireland is consistent.
+
+Clause 93 and schedule 14 concern the treatment of goods in the customs-free zones, which are located in freeports. Freeports will help to regenerate areas across the country and bring prosperity to the regions. The Government have already legislated for a beneficial VAT regime on certain business-to-business transactions while in the free zone of a freeport. Clause 93 makes additional VAT elements to freeports by introducing an exit charge to ensure that VAT is collected on goods that have benefited from a zero rate of VAT in a free zone to prevent tax losses or unintended VAT advantage. It therefore maintains a level playing field for UK businesses.
+
+The clause also amends existing VAT legislation to remove any conflict with the new free zone rules. Finally, the clause gives HMRC the power through regulations to adapt the exit charges provisions as necessary. This will ensure that the exit charge is correctly targeted—for instance, to prevent any abuse of the VAT zero rate. Clause 93 and schedule 14 therefore prevent tax loss by introducing an exit charge, and provide clarity to free zone rules by amending existing legislation that may conflict with them.
+
+Our VAT measures take advantage of the opportunities following our exit from the EU to allow our businesses to prosper. I urge the Committee to ensure that clauses 68 to 71, and 93, stand part of the Bill, and that schedule 14 be the fourteenth schedule to the Bill.
+
+James Murray
+Thank you, Mr Evans, for the opportunity to respond on behalf of the Opposition to the clauses selected for this debate on particular aspects of the operation of VAT. As the scope of these clauses is quite limited, I suspect that you will not allow me to speak in detail about our call on the Government immediately to cut VAT to zero on domestic energy bills.
+
+The Second Deputy Chairman of Ways and Means (Mr Nigel Evans)
+That’s right.
+
+James Murray
+Of course, we believe that such a change would offer immediate help now for people struggling with the cost of living over the winter ahead. I therefore urge the Chancellor to reconsider the Government’s refusal of our suggestion, even at this late stage.
+
+Let me turn to the specific measures in the Bill. As we have heard, clauses 68 to 71 make a number of changes to the operation of VAT as it relates to Northern Ireland. Clause 68 allows motor dealers in Northern Ireland to continue to sell vehicles under the second-hand margin scheme, provided that they were sourced in Great Britain or the Isle of Man. This is a temporary measure before a more permanent scheme comes into place. It is, in effect, a technical change to reduce VAT on car dealers in Northern Ireland, and we do not oppose it. We understand that clauses 69 and 70 are necessary consequences of clause 68 to avoid the interim provisions being created for second-hand car sales in Northern Ireland leading to a distortion in the UK market, so we do not oppose them either.
+
+Clause 71 similarly means that registered dentists or dental care professionals, or those importing on their behalf, can exempt from VAT the importation of dental prostheses—medical devices to replace broken or missing teeth. Domestic supplies of such goods are exempt from VAT when made by a registered dental professional. However, under the Northern Ireland protocol, movements of goods between Great Britain and Northern Ireland will technically be treated as exports and imports for VAT purposes. Applying the same VAT treatment to domestic supplies and imports will ensure the equal treatment of dental prostheses supplied within the UK. Again, we do not oppose this measure, as we do not want to see businesses or other workers in Northern Ireland at a disadvantage compared with those in other parts of the UK.
+
+Clause 93 and schedule 14 relate to free zones—secure customs sites within a wider freeport area. Existing regulations already provide for the zero rating of certain supplies of goods and services in free zones, and the purpose of the clause is to put in place an exit charge to ensure that businesses do not gain unintended advantage from the zero rate. Again, we recognise the role this measure plays and we will not be opposing it.
+
+18:00:00
+
+The scope of these clauses is limited to the operation of VAT in very specific circumstances. However, VAT more widely has a significant impact on people’s lives, so I end by repeating our call on the Chancellor to cut VAT to zero for domestic energy bills to help people through the tough winter months of low temperatures and high prices ahead.
+
+Peter Grant (Glenrothes) (SNP)
+I am not planning to take up all the allotted time until 8.52 pm, although I did warn my colleagues in the SNP group that I was going to take until half-past 8 and then go to a Division, which did not make me flavour of the month.
+
+The Minister can put a bold face on the wonderful gift the Government are giving to the people of Northern Ireland, and to car dealers in Northern Ireland in particular, under clauses 68, 69 and 70, but this is just another sticking plaster over the botched job that Brexit has been, especially in relation to Northern Ireland. That is because nothing that is delivered to businesses or customers in Northern Ireland is any better than the deal they already had before they were dragged out of the European Union against, let us not forget, the express wish of a majority of people in Northern Ireland at the referendum in 2016.
+
+The question is: how many more of these patch-up jobs do we need? I have lost count of the number of times that I have spoken in Bill Committees or in Delegated Legislation Committees pointing out that the only reason more and more legislation is needed is to fill gaps in previous legislation that had been put there to correct mistakes in even earlier legislation, rushed through by a Government who went into Brexit with no idea of what it meant and who ever since then have been trying to prevent us from understanding, and trying to conceal from the general population, just how much of a mess it continues to be. Anyone who says that Brexit has been got done either does not understand the truth or cannot be trusted to tell the truth.
+
+In relation to clause 93 and schedule 14, the Committee will be aware that the approach that has been taken to free zones in Scotland is very different—or at least it would be very different if the Government were not so determined to force their lack of concern for workers’ rights and for the environment on to the proposals of the Scottish Government. The Scottish Government had a proposal that should have been acceptable to the UK Government but for two problems: it demanded net zero freeports or free zones and it demanded enhanced workers’ rights. What problem can the Government have with that? Why do the Government not want the Scottish Government to undertake action on green ports or freeports that delivers our net zero commitments? What do the Government have in mind for future legislation on workers’ rights if they were not prepared to allow the Scottish Government to build that into legislation around green ports in Scotland?
+
+The Scottish Government had a productive dialogue with the Treasury. They were ready to launch a joint applicant prospectus for green ports in March, but it never happened. In September, the Secretary of State for Scotland made it clear that Scotland’s proposal was not acceptable to the Government. I do not know whether this is technically within the scope of what we are discussing just now, so it may not be appropriate for the Minister to explain it, but I, my colleagues on the SNP Benches, a lot of colleagues in the Scottish Parliament and a lot of businesses in Scotland really want to know why the Government are refusing to allow the Scottish Government to legislate for green ports to meet the needs of Scotland and meet the demands and values of the Parliament that the Scottish people have elected.
+
+I will not be seeking to divide the Committee on any of these clauses. Quite clearly, they are all necessary. As my colleagues mentioned earlier, there are any number of parts of the Bill that we would have liked to divide the Committee on, but we cannot because of the crazy way that this place does Budgets, where effectively most of the big decisions are taken before there is any proper debate on them. That is not a sensible way to set Budgets that will impact the lives of every single person and every single business in these islands. I hope that for once the Government will listen to these representations and come back next year with a method of setting Budgets that is more inclusive, more in tune with what happens in modern democratic Parliaments across the rest of Europe and elsewhere, and will almost certainly deliver a better Budget and a better Finance Bill than the one we have just now.
+
+Lucy Frazer
+I will be brief. I am pleased that these measures have cross-party support. We can tell that because both Front-Bench spokesmen took the opportunity to talk about other measures that are not in the Bill. To touch briefly on what they said, the hon. Member for Ealing North (James Murray) will know that we do not support reducing VAT on energy bills because it will not protect specifically those on the lowest incomes, but just give a tax break to those on high incomes. We are therefore bringing in specified measures to protect those on low pay.
+
+The hon. Member for Glenrothes (Peter Grant) talked about the Scottish green ports. We would like to ensure that the whole UK can benefit, and we remain committed to establishing at least one freeport in Scotland, Wales and Northern Ireland as soon as possible. We are confident that our model embraces the highest employment and environmental standards, and they will be national hubs for trade, innovation and commerce. For all the reasons that I have set out, I commend the clauses and the schedule to the Committee.
+
+Question put and agreed to.
+
+Clause 68 accordingly ordered to stand part of the Bill.
+
+Clauses 69 to 71 ordered to stand part of the Bill.
+
+Clause 93 ordered to stand part of the Bill.
+
+Schedule 14 agreed to.
+
+The Deputy Speaker resumed the Chair.
+
+Bill (Clauses 4, 6 to 8, schedule 1, clause 12, clauses 27 and 28, clauses 53 to 66, clauses 68 to 71, clauses 84 to 92, schedules 12 and 13, clause 93 and schedule 14, and certain new clauses and new schedules), as amended, to lie upon the Table.
+

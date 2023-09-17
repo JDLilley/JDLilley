@@ -1,0 +1,932 @@
+Finance (No. 2) Bill
+
+[2nd Allocated Day]
+
+Pensions (Clauses 18 to 25; any new Clauses or new Schedules relating to the subject matter of those Clauses); Electricity generator levy (Clauses 278 to 312; any new Clauses or new Schedules relating to the subject matter of those Clauses); Power to clarify tax treatment of devolved social security benefit (Clause 27); alcohol duty: charge, rates and reliefs (Clauses 47 and 48 and Schedule 7; Clause 50 and Schedule 8; Clauses 51 to 54 and Schedule 9; Clauses 55 to 60); any new Clauses or new Schedules relating to the subject matter of those Clauses and those Schedules
+
+Further considered in Committee
+
+[Dame Rosie Winterton in the Chair]
+
+The First Deputy Chairman of Ways and Means (Dame Rosie Winterton)
+I remind Members that, in Committee, they should not address the Chair as “Deputy Speaker”. Please use our name when addressing the Chair. “Madam Chair,” “Chair,” “Madam Chairman” and “Mr Chairman” are also acceptable.
+
+Clause 18
+
+Lifetime allowance charge abolished
+
+14:30:00
+
+Kirsty Blackman (Aberdeen North) (SNP)
+I beg to move amendment 21, page 12, line 31, at beginning insert—
+
+“(A1) This section applies to any person who it employed for an average of more than 15 hours per week by an NHS body.”
+
+This amendment would limit the removal of the lifetime allowance charge to NHS staff.
+
+The First Deputy Chairman
+With this it will be convenient to discuss the following:
+
+Amendment 22, page 12, line 31, after “charge” insert
+
+“for a person to whom this section applies”.
+
+This amendment is consequential on Amendment 21.
+
+Amendment 23, page 12, line 36, at end insert—
+
+“(3) The Treasury may by regulations specify a list of NHS bodies, or types of bodies, in respect of which this section applies.
+
+(4) Regulations under this section—
+
+(a) may specify different bodies, or types of bodies, in England, Wales, Scotland and Northern Ireland, and
+
+(b) are subject to annulment by a resolution of the House of Commons.”
+
+This amendment is consequential on Amendment 21 and gives the Treasury the power to define “NHS body” for the purposes of that amendment.
+
+Clauses 18 to 24 stand part.
+
+Amendment 27, in clause 25, page 18, line 23, at end insert—
+
+“(4A) The arrangements must include that the Commissioners are required to provide to an individual their calculation of the appropriate amount under subsection (3).”
+
+This amendment would require HMRC to provide recipients of the relief with a calculation of the payment so that it can be checked.
+
+Amendment 28, page 18, line 26, insert—
+
+“(5A) The arrangements must include procedures for the purposes of allowing an individual to—
+
+(a) challenge the amount the Commissioners have determined to be the appropriate amount under subsection (3), and
+
+(b) make a claim requesting that the Commissioners calculate and pay an appropriate amount in accordance with subsection (3) where the Commissioners have failed to make such a payment.
+
+(5B) The individual must give notice to the Commissioners of any such challenge or claim no later than four years from the end of the relevant tax year as defined in subsection (1)(b).”
+
+This amendment would enable a recipient of the relief to challenge the amount determined by HMRC if they think it is incorrect, and would allow someone not identified as eligible for the relief by HMRC to initiate a claim for it.
+
+Amendment 29, page 18, line 41, at end insert—
+
+“(8A) The arrangements must include a procedure for the Commissioners to correct, in accordance with section 9ZB TMA 1970, an individual’s personal return for the relevant tax year to include the appropriate amount paid under this section.”
+
+This amendment would enable HMRC to correct the tax return of a recipient of a payment under the new section 193A FA2004, to reflect that the receipt of the payment has increased the recipient’s income for the year.
+
+Clause 25 stand part.
+
+New clause 4—Review of the impact of the abolition of the lifetime allowance charge—
+
+“(1) The Chancellor of the Exchequer must, within three months of the passing of this Act, make a statement to the House of Commons on the impact of the abolition of the lifetime allowance charge introduced by section 18 of this Act and other changes to tax-free pension allowances introduced by sections 19 to 23 of this Act.
+
+(2) The statement must provide the following information—
+
+(a) the number of NHS doctors who will benefit from the policies referred to in subsection (1);
+
+(b) the proportion of those benefiting from the policies referred to in subsection (1) who are NHS doctors;
+
+(c) the number of people who are expected to—
+
+(i) stay in work, and
+
+(ii) return to work
+
+as a result of the policies referred to in subsection (1);
+
+(d) a breakdown of the figures in subsection (2)(c) by sector, including the number of people under subsection (2)(c)(i) and (ii) who are NHS doctors; and
+
+(e) details of how a scheme that provided benefits equivalent to the policies referred to in subsection (1) only for NHS doctors could operate.”
+
+This new clause requires the Chancellor to make a statement setting out the impact of the tax-free pension allowance changes in relation to NHS doctors, and to set out details of how an alternative scheme targeted at NHS doctors could operate.
+
+New clause 5—Review of alternatives to the abolition of the lifetime allowance charge—
+
+“(1) The Chancellor of the Exchequer must, within six months of this Act being passed—
+
+(a) conduct a review of the impact of the abolition of the lifetime allowance charge introduced by section 18 of this Act and other changes to tax-free pension allowances introduced by sections 19 to 23 of this Act, and
+
+(b) lay before the House of Commons a report setting out recommendations arising from the review.
+
+(2) The review must make recommendations on how the policies referred to in subsection (1)(a) could be replaced with an alternative approach that provided equivalent benefits only for NHS doctors.”
+
+This new clause requires the Chancellor to review the impact of the tax-free pension allowance changes and to recommend an alternative approach targeted at NHS doctors.
+
+Kirsty Blackman
+It is a delight to speak first in Committee of the whole House this afternoon. I had a few extra minutes to tweak my speech during the ten-minute rule Bill, as it is unusual for such a Bill to be opposed, and those extra few minutes will presumably have made my speech extra good. I am sure the whole Committee will listen very closely.
+
+I rise to speak to amendment 21 in my name and in the name of my SNP and Plaid Cymru colleagues, but I will first talk about new clauses 4 and 5, which were tabled by the Opposition. The new clauses would require a review of the impact of the abolition of the lifetime allowance charge, with new clause 4 focusing on NHS doctors and new clause 5 looking more widely.
+
+A significant number of questions have been raised in the House about the lifetime allowance and the problems it has caused, particularly for NHS doctors. I do not think any Opposition Member would consider that the solution to this problem is to abolish the lifetime allowance charge completely, which seems totally out of proportion. We have been raising this very serious issue for a number of years, but I never considered arguing against this solution because it never crossed my mind that the Government would do something quite so drastic or extreme.
+
+New clauses 4 and 5 both ask for reviews, statements and information. Particularly pertinent is information on the number of NHS doctors who will benefit from the abolition of the lifetime allowance charge, as is a report containing recommendations in the light of a review of the effect of abolishing the lifetime allowance charge. The least the Government can do, if they are to make such a massive change to the lifetime allowance or the pension tax system, is provide us with as much information as possible so that we can consider all the potential and actual implications. We would then have all the information at our fingertips. The Government are able to access HMRC data in a way that the rest of us cannot, so we need details on the actual impact of these changes.
+
+On the specific issue of NHS doctors, Torsten Bell of the Resolution Foundation has said that 20% of those who benefit from the change to the lifetime allowance work in the finance industry. He said that
+
+“nearly as many bankers as doctors”
+
+will benefit from this change. The Institute for Fiscal Studies has called it “bizarre”, stating:
+
+“if this is aimed at doctors then it really is a huge sledgehammer to crack a tiny nut.”
+
+That accords with our understanding.
+
+Again, we agree that this significant issue for doctors needs to be fixed, but the Government are going about it in totally the wrong way. During the covid pandemic, we clapped NHS staff from our doorsteps. We recognise how difficult NHS staff had it working on the frontline during the pandemic, and how difficult they continue to have it. When other people were furloughed, they were working hard, day in and day out, to keep as many of us alive and healthy as possible, yet the Government are giving exactly the same break to bankers as they are giving to those who worked day in, day out to keep us all safe. That does not make sense. If we want to support our NHS, to ensure that we have the best possible public services and to give the NHS our vote of confidence, our backing and our support, we should recognise that those working in the NHS provide a vital public service and therefore deserve different treatment from those who work in the finance industry, for example, and who do not provide that level of public service.
+
+I thank the Clerk of Bills, who was helpful in drafting these amendments. I knew what I wanted to do, but I was not quite sure how to do it, so I very much appreciated that assistance.
+
+Amendment 21 would mean that the abolition of the lifetime allowance charge applies only to those employed by an NHS body for more than 15 hours a week, on average.
+
+Aaron Bell (Newcastle-under-Lyme) (Con)
+We all respect the hard work of NHS staff, but why does that argument not equally apply to, say, senior police officers?
+
+Kirsty Blackman
+An awful lot of people work hard. The specific issue that many of our constituents have raised is in the NHS. I have not been approached with this concern by senior police officers, but I have been approached by NHS doctors. If the hon. Gentleman feels particularly strongly about senior police officers, he could table an amendment so that people employed in the wider public sector, or in the police service, can be included in this measure. I think both police officers and NHS staff could be included, but it would be ridiculous to include everyone, no matter how little they do for the public good.
+
+Anthony Browne (South Cambridgeshire) (Con)
+Not only NHS staff and senior police officers but state school headteachers, senior civil servants in our local authorities, air traffic controllers and senior Government scientists are affected by the lifetime allowance. In fact, about half the people affected work in the public sector. If the hon. Lady follows her rationale, she would end up with a completely different tax regime for public sector pensions. Does she think that would be fair for private sector workers?
+
+Kirsty Blackman
+Given how much we have relied on our public sector, and given how unwilling this Government are to come to the table on pay negotiations, it would be totally reasonable for this House to say, “Our public sector is incredibly important. We want to support our public sector workers, and therefore we want to give them differential access to lifetime allowance exclusions.”
+
+Amendment 22 is consequential on amendment 21. Amendment 23 would allow the Secretary of State to specify which NHS bodies, or types of bodies, are covered, given that the NHS is structured in different ways in England, Scotland and throughout these islands. It makes sense for the Secretary of State to make that decision.
+
+The amendments cover NHS staff who work, on average, at least 15 hours a week so that they cover all the NHS staff who have come to us with pension concerns, particularly doctors but also other senior NHS staff. I have a large teaching hospital in my constituency, and there is another hospital just over the boundary. There is a medical school too.
+
+Anthony Browne
+Will the hon. Lady give way?
+
+Kirsty Blackman
+Not just now.
+
+A significant number of doctors live and work in Aberdeen, and a number of them have come to me with concerns about the pension regime. One of them did not realise that he was about to hit the lifetime allowance until his accountant came to him and said, “This is how much you are required to pay in tax.” He had tipped over into this additional tax because he had taken on hours to teach junior doctors and medical students how to be better doctors. He had taken those extra hours on at the request of the hospital. This was because the immigration laws and rules have meant that a number of our doctors are struggling to jump through the hoops that the UK Government have put in a place or they are feeling that the Home Office is particularly against doctors coming from other countries.
+
+That constituent had been asked to take on those hours as a result of the changes in some of the departments. He had willingly taken on those hours because he knows how important continuing professional development is in the NHS and how important it is to have a new generation of doctors coming through, but he had then been hit with a massive tax bill as a result. When I met him, he said to me, “I do not want to take on any more teaching as a result of what has happened to me. The amount I have been taxed means that the teaching costs me money. I don’t see why I should be asked to do this when I am training the next generation of doctors.”
+
+Anthony Browne
+I am glad that the hon. Lady recognises the dangers of high levels of taxation in discouraging people from work, as I believe those on both sides of the House can agree on that. Her amendment mentions the NHS and people who work for “an NHS body”. What does she think about this applying to GPs? The overwhelming majority of GPs do not actually work for the NHS—they are self-employed or work for their partnerships. Does she think that GPs should be excluded from this legislation as well?
+
+Kirsty Blackman
+That is one reason why our amendment 23 would allow the Secretary of State to make those specifications, so that all the people considered to be working for NHS bodies—GPs are commissioned by NHS bodies—are included. The measure was intended to allow that level of flexibility. If I had not intended to allow that level of flexibility, we would not have tabled amendment 23 to allow the Secretary of State that flexibility. We referred to NHS bodies and specified a number of hours so that someone who works for the significant majority of their time in private practice and private systems, and perhaps works an hour or so every few months for the NHS, would not be caught by this measure. The intention is that those people who work for a significant amount of their time in contributing to the health of the population, making people better and well, ensuring that they stay healthy and live longer lives, are recognised and given the opportunity to benefit from this measure.
+
+My understanding, from everything that the Government have said previously about this, is that one of the biggest concerns in this area relates to NHS doctors. If the Government feel that there are other significant areas of the public sector where people could and should benefit, I look forward very much to the Minister standing up and explaining all of those. I am sure I will be asking further questions about this in Committee.
+
+The lifetime allowance was in place for a reason and it does not work in relation to senior NHS staff, but it does work in relation to those places where people are not contributing to the health and wellbeing of our population and where people have not been on the frontline during the past few years, working under immense pressure for the public good. SNP Members will therefore vote against clause 18 standing part of the Bill if we have a vote on that. That clause is about the abolition of that lifetime charge. We do not agree that that should apply to everyone. The Government need to bring in a bespoke scheme to solve this problem, rather than applying it to everybody, no matter how much money is involved and how little public service they provide for that income that they receive. I ask the House to support amendment 21, which stands in my name and those of my colleagues.
+
+The Economic Secretary to the Treasury (Andrew Griffith)
+It is a pleasure to follow the hon. Member for Aberdeen North (Kirsty Blackman). We are covering clauses 18 to 25, which will remove the pension tax barriers to remaining in work that highly skilled and experienced individuals across the public and private sectors, including senior NHS clinicians, are facing. The clauses also ensure that the tax regime works appropriately for the winding up of collective money purchase schemes and legislates to provide taxpayer-funded top-up payments for up to 1.2 million of the lowest earners in net pay pension schemes.
+
+14:45:00
+
+I will discuss the clauses in detail briefly in a moment, but just in case the Opposition are foolish enough to think of dividing the House today, let me be clear: this Government are on the side of hard-working people in every sector. Unlike the Opposition parties, we are not in the business of privileging those who work in the NHS over those who work in adult social care, those who work in our prisons and schools, or those who put themselves in harm’s way in the police or our armed forces. Those public service heroes will be watching today’s debate with consternation at the fact that two supposedly mainstream political parties in this country seek to pit public sector workers against public sector workers for short-term political point scoring, as will wealth creators in business and financial services, vaccine discovering scientists, charities and the creative industries. I even wish the right hon. and learned Member for Holborn and St Pancras (Keir Starmer) well with his pension. Given his plummeting poll ratings, he may be needing it sooner than he thinks.
+
+Unlike the Labour and nationalist parties, I want everyone to have the same opportunity. There could not be a better domain than pensions policy for showing where we seek to support those who wish to provide for themselves and their families. Of course, by doing so, they are relieving the burden on the state and allowing it to focus taxpayers’ resources on the most vulnerable in society.
+
+Anthony Browne
+Does the Minister agree that the 80% of employees who work for the private sector make a valuable contribution to the wellbeing of the country as well? Does he agree that they would have a right to feel annoyed at the idea that there should be an especially punitive regime just for private sector workers, which the public sector workers do not get punished by?
+
+Andrew Griffith
+My hon. Friend makes exactly the point that I was making, and does so extremely well. It is wrong for us in this House to seek to assign to ourselves the ability to judge the virtuous nature of people’s activity. I am sure that an accountant in the private sector works as diligently as an accountant seeking to drive value for money and the best medical outcomes in the NHS. With the greatest respect, I think that the hon. Member for Aberdeen North goes a little too far in seeking to “unbake” the wonderful cake of our mixed economy health system, which involves contributions from the private sector, private forensic laboratories and private diagnostic machines, and the wonderful work of our clinicians, and administrative, ancillary and domiciliary staff, who are mostly in the public sector. As I have said, her approach is the wrong basis on which this House should proceed.
+
+Clauses 18 to 23 will reform pension tax thresholds to remove the current disincentives for highly experienced individuals to remain in the labour market or even to return to the workforce to build up their retirement savings. Currently, there are limits placed on the amount of tax-relieved pension savings individuals can make each year and an additional second restriction that applies to the total. That is an unusual feature of the tax system, where almost every other allowance is on an annual basis. The Government listened to stakeholders from across the public and private sectors, who have said that the annual and lifetime allowances can influence the timing of retirement and act as a barrier to remaining in the workforce.
+
+The changes made by these clauses will increase the annual allowance from £40,000 to £60,000 and remove the lifetime allowance charge from 6 April 2023. The changes will ensure that pensions tax does not act as a barrier to staying in or returning to work, and will eliminate the chilling impact that the mere fear of triggering an extra tax charge has, even for those who are not immediately subject to falling foul of the cap. Much as the opposition parties may not wish to hear this, these changes command support across the economy. The Guild of Air Traffic Control Officers told us that pension taxation risks causing its members to reject tasks essential for the safe and efficient operation of air traffic control in the United Kingdom.
+
+Dr Vishal Sharma of the British Medical Association has said that this is
+
+“an incredibly important step forward”.
+
+He said that the abolition of the lifetime allowance will mean that
+
+“senior doctors will no longer be forced”—
+
+his words—
+
+“to retire early and can continue to work within the NHS, providing vital patient care.”
+
+The Forces Pension Society said that this is a positive development and that it had been lobbying for it for several years. It said that these changes will help keep our streets safe. Marc Jones, chairman of the Association of Police and Crime Commissioners, confirmed that, as it relates to the police, they
+
+“will be a game changer for thousands who love their jobs and do not want to retire.”
+
+To support those who have left the labour market to return and build up their retirement savings, these clauses will also increase the money purchase annual allowance from £4,000 to £10,000 from April 2023. This will enable more individuals who have previously retired to return to the workforce and to continue to build their savings. In line with these headline reforms, there are also technical changes. They increase the minimum tapered annual allowance from £4,000 to £10,000 and the adjusted income level required for the annual tapered annual allowance to apply to an individual from £240,000 to £260,000.
+
+Kirsty Blackman
+While the Minister is talking about all the public sector individuals who will benefit as a result of these changes, he has not made the case for why this should apply to bankers. Why should bankers receive this exemption from the lifetime allowance? What benefit will the country get as a result?
+
+Andrew Griffith
+I am sure that the significant number of people—over half a million—who depend on jobs in the financial sector, including in places such as Edinburgh, one of our great financial centres, are listening with consternation to the politics of envy. The hon. Lady singles out individual professions and invites us to set separate tax policies on the basis of a particular profession. That would be entirely wrong. If she had been listening very carefully—I understand that she wanted to get in, because this is a debate and is the opportunity to do so—she would have heard that I was talking about the annual tapered allowance. That is a feature in pensions policy that is there entirely to ensure that it continues to have a progressive nature. A banker who is earning £260,000 a year can get only a reduced amount. They cannot avail themselves of the same annual allowance as the hon. Lady’s friends, colleagues and those she seeks to represent in our public services. I can assure the House that this is not a charter for bankers. In fact, the annual tapered allowance remains unchanged in its operation. We are updating the thresholds here today.
+
+Unless the hon. Lady wishes to withdraw her amendment at this point having heard the strength of our arguments, I will now turn briefly to the remaining clauses that we are debating today, covering collective money purchase pension arrangements and relief relating to net pay arrangements. Collective money purchase is a new type of pension arrangement. Clause 24 will prevent any unintended tax consequences should a collective money purchase scheme wind up. It will ensure that members and their dependants can receive payments and transfer funds without incurring an unauthorised payments tax charge—I do not think that that should be controversial for the House.
+
+Finally, clause 25 relates to the introduction of top-up payments for the lowest earners—another highly progressive measure—who sit within net pay pension schemes. There are two main methods of giving pensions tax relief. Although they provide the same outcomes for most individuals, lower earners can have different levels of take-home pay depending on how their pension scheme is administered for tax purposes, and the Government believe they are right to rectify that.
+
+Clause 25 makes changes to ensure that eligible low-earning individuals whose income sits below their personal allowance receive a taxpayer-funded top-up payment so that they will have broadly similar take-home pay regardless of how their pension scheme is administered for tax purposes. The hon. Member for Ealing North (James Murray) has tabled some amendments in this respect, and I wrote to him yesterday to provide some of the comfort that I think he was looking for. They were well-intentioned amendments, and I hope that the letter I have sent him gives him some of the satisfaction that he seeks. Fundamentally, we do not disagree with what he is trying to achieve, and it has the support of those who have been agitating for low-income earners. That measure could benefit an estimated 1.2 million low earners who save into an occupational pension under net pay arrangements.
+
+In conclusion, as I have set out, we know that there is a problem that needs to be tackled. It is a fact that individuals are choosing to retire early to prevent incurring pension taxes. The changes today, which have been widely welcomed by sectoral representatives across the economy, will ensure that we can retain our most skilled and experienced workers in all sectors while also simplifying and improving the pension arrangements for millions of households. I therefore urge Members to accept that clauses 18 to 25 should stand part of the Bill.
+
+James Murray (Ealing North) (Lab/Co-op)
+Thank you, Dame Rosie, for the opportunity to respond on behalf of the Opposition. I wish to speak in support of the new clauses in my name and the name of my hon. Friend the Member for Erith and Thamesmead (Abena Oppong-Asare).
+
+In this debate, we get the chance to discuss something rare: a tax cut from this Government. It is rare to see a tax cut from this Government, because we are so used to seeing tax rises from them—24 tax rises in the past few years. We now face a tax burden in this country that has risen to its highest level in 70 years. This month, people across the country are being hit by a double whammy of Tory tax rises. Freezes to income tax thresholds mean stealth tax rises for working people, while, at the same time, families are being hit by the Tories’ council tax bombshell.
+
+Let me be clear about what these tax rises mean: the Government’s six-year freeze in the personal allowance will take its real value in 2027-28 back down to its 2013-14 level, while this year, council tax for the typical band D property will breach £2,000 for the first time. In the middle of a cost of living crisis, made worse by the Conservatives’ tax rises, one permanent tax cut was announced by the Chancellor in his Budget last month. That tax cut, introduced by the clauses we are debating today, sees £l billion of public money spent to benefit only the 1% with the biggest pension pots. It is an extraordinary way to spend £l billion in the middle of a cost of living crisis, which is still hitting people across this country hard. Ministers may claim that their decision was driven by a desire to get doctors back in work, but it is clear that they could have found a fair, targeted fix for doctors’ pensions at a fraction of the cost. The British Medical Association has said that a targeted doctors’ scheme could cost as little as £32 million to implement. The Conservative Chair of the Treasury Committee has said that even she was surprised that the Government did a blanket cut, rather than a bespoke policy for doctors. That is why we oppose the Government’s plans to abolish the lifetime allowance charge in clause 18 as part of their package of changes covered by clauses 18 to 23.
+
+I wish to spend a few moments addressing clause 25, which covers a separate pensions matter, unrelated to the package of measures that we have concerns about. Clause 25 introduces, as the Minister has said, a scheme of “top-up payments” for low earners contributing to net pay pension schemes who currently miss out on a Government pension savings incentive. We know that tax relief on pension contributions can be given to individual scheme members in two ways: relief at source and net pay arrangements. In the case of the former, even non-taxpayers are given basic rate tax relief, but in the case of the latter they are not. As the Minister said, this is particularly unfair as individual people have no control over which form of scheme their employer chooses. We commend the efforts of the Low Incomes Tax Reform Group, along with pension providers, Age UK, the TUC, and others, to campaign for a change to the law, which is culminating in clause 25 before us today.
+
+There are, however, a number of points of detail that we would like to raise with the Minister. To help draw these out, we have tabled amendments, three of which— amendments 27, 28 and 29—have been selected for debate today. I wish to put on record my thanks to the Low Incomes Tax Reform Group for its help in drafting these amendments.
+
+
+
+We recognise that, under the measures proposed in clause 25, there is an onus on His Majesty’s Revenue and Customs to make payments to eligible individuals. While we hope, of course, that HMRC would always do the right thing, we think individuals should be able to challenge the amount paid if they think it is incorrect. With that in mind, amendment 27 would require HMRC to provide recipients of the relief with a calculation of the payment so that it can be checked. I therefore welcome confirmation from the Economic Secretary to the Treasury in a letter sent to me this morning that
+
+“HMRC are already planning to provide customers with details of the payment and how it was calculated.”
+
+I would welcome any further detail on that commitment that the Economic Secretary is able to give in his closing remarks.
+
+15:00:00
+
+We have also tabled amendment 28, which would enable a recipient of the relief to challenge HMRC’s decision if they think it is incorrect. In the letter from the Economic Secretary that I received this morning, he said he felt that was unnecessary:
+
+“Where an individual feels the top up payment is incorrect, HMRC will help them understand what may have caused the issue. HMRC will either address this or direct them to their employer”.
+
+He also wrote:
+
+“Individuals who don’t get a payment, but think they should, will be able to contact HMRC who will explain why a top-up payment has not been made and what is necessary to correct the situation.”
+
+While I do not object to what the Economic Secretary has written, I would be grateful if he could address directly why he feels it is not right to put people’s ability to challenge HMRC’s decision in the Bill itself. Our amendment makes it clear that HMRC must be notified of such a challenge,
+
+“no later than four years from the end of the relevant tax year”.
+
+When he replies, can he tell us what time limit applies to the process he referred to in his letter?
+
+Finally on this clause, the Low Incomes Tax Reform Group has highlighted concerns over how top-up payments are treated when people have filed a self-assessment tax return. If an individual received one of those payments after having filed a self-assessment return for the relevant tax year, their return for that year would then be incorrect, as it would not be a full record of their income for that year. By way of possible solution, the group has therefore suggested amendment 29, which we have tabled, a change that would enable HMRC to correct the tax return of a recipient of a payment. In his letter, the Economic Secretary suggested that HMRC already has the power proposed by the amendment. I would be grateful if he could confirm, for the avoidance of doubt, that that is the case.
+
+I return now to the measures in clauses 18 to 23, which, as I mentioned earlier, propose changes to the lifetime allowance charge and other tax-free annual allowances, so that I can discuss our two new clauses 4 and 5. With these new clauses, we want to press Ministers on the fundamental question why they chose to implement an expensive blanket approach that fails to offer value for money, rather than choosing a targeted scheme for NHS doctors.
+
+When the Government are considering how to spend over £l billion of public money in the middle of a cost of living crisis, it is more important than ever to make sure that they are spending public money wisely. As I mentioned earlier, the British Medical Association has said a targeted doctors’ scheme could cost as little as £32 million to implement, and even the Conservative Chair of the Treasury Committee said she was surprised by the Government’s blanket approach. The central question is this: do the Conservatives think this is the right way to spend £1 billion of public money?
+
+Before he moved into No. 11 Downing Street, the Chancellor had recently seemed to favour an approach targeted at doctors. Last July, while he was the Chair of the Health and Social Care Committee, it published a report stating:
+
+“The Government must act swiftly to reform the NHS pension scheme to prevent senior staff from reducing their hours and retiring early”.
+
+We might even have thought from what the Chancellor said in his Budget speech that he was going to announce a scheme for doctors, since he began that section of his remarks by saying:
+
+“Finally, I have listened to the concerns of many senior NHS clinicians, who say unpredictable pension tax charges are making them leave the NHS just when they are needed most.”—[Official Report, 15 March 2023; Vol. 729, c. 844.]
+
+However, what the Chancellor announced that day, and what is legislated for in this Bill, goes much further than the fair fix that was needed for NHS doctors. Rather than introducing a targeted scheme to keep doctors working, instead the Conservatives have introduced an expensive blanket change that will benefit all those with the biggest pension pots.
+
+Anthony Browne
+The hon. Gentleman is making the case for a special NHS-only or doctors-only regime. Does he accept that senior workers in other parts of the public sector are affected by the lifetime pensions allowance? There was already a separate scheme for judges, and we know about the former Director of Public Prosecutions having his own individual scheme, but does the hon. Gentleman accept that there are senior police officers, senior local authority civil servants, senior Government scientists, air traffic controllers—as we have heard—and other workers across the public sector who are disincentivised from continuing to work by the current regime?
+
+James Murray
+I thank the hon. Gentleman for his intervention, but the argument we were hearing from hon. Members on both sides of the House was about NHS doctors and keeping them in work. The Chancellor himself, when he was Chair of the Select Committee, said that we needed targeted intervention to help NHS doctors. No one was talking about a wider scheme to affect everyone with the largest pension pots until the Chancellor stood up and made his announcement on Budget day. I respectfully suggest the hon. Gentleman focuses on our amendments in hand and on new clause 5, which suggests that, rather than proceed with a blanket scheme affecting everyone with a pension pot, we should do what I thought there was an emerging consensus around and develop a targeted scheme for NHS doctors.
+
+Otherwise, the Government’s approach fails the critical test for any Government spending—whether they are spending public money wisely. Yet Ministers refuse to entertain the prospect of a targeted scheme for NHS doctors instead. That is why we have tabled new clause 5, which would require the Chancellor to make recommendations on what a scheme targeted at NHS doctors would look like. We believe that is a crucial question to be answered. I hope that any Conservative Members, including the hon. Gentleman, who are concerned about spending public money wisely, getting value for money and supporting our NHS, will vote for new clause 5 in the Division Lobby later.
+
+Anthony Browne
+Will the hon. Gentleman give way?
+
+James Murray
+No; I am going to make some progress. The hon. Gentleman has intervened quite a lot and I am looking forward to his speech, as I am sure everyone in the Committee is.
+
+When the Economic Secretary responds, I would be grateful if he could address the points set out by new clause 4, in particular by giving some much-needed clarity on the scale of the impact the Government expect their changes to pension allowances to have. Can he tell us how many people are expected to stay in work or return to work as a result of these policies? What sectors do they work in? How many of them are NHS doctors? Those are important questions, yet it has been hard to get exact answers from Ministers. The Office of Budget Responsibility has said the changes to pension contribution allowances will increase employment by around 15,000, but Paul Johnson of the Institute for Fiscal Studies has said that figure is “optimistic”.
+
+When the Financial Secretary to the Treasury was asked on Second Reading of this Bill how many doctors would stay in the NHS because of these measures, she confidently quoted Department of Health and Social Care statistics that around 22,000 senior NHS clinicians would have been expected to exceed the £40,000 annual allowance this year. However, she may not have known that, at the very same time, the permanent secretary who oversees Government spending was appearing before the Treasury Committee, where the hon. Member for South Cambridgeshire (Anthony Browne) was asking her questions. When asked about the evidence on how many of those 22,000 NHS clinicians would have been discouraged from working by the cap, she said the evidence was “mixed” and that they would need to do further evaluation.
+
+It seems clear that the Government simply do not know how many people will be brought back into work as a result of their changes to pension tax-free allowances. They certainly do not know how many NHS doctors will come back into work, and they have clearly failed to do the thinking on how a bespoke approach for NHS doctors could operate.
+
+That is why we oppose the Conservatives’ pension changes and why we will be voting for a fair fix for doctors’ pensions to get them back into work. We will be voting to spend public money wisely. We will be voting against a Government who choose to cut tax for the richest 1%, while pushing up stealth taxes and council tax on working people across the country.
+
+Sir Robert Syms (Poole) (Con)
+I declare an interest, as I am in the parliamentary pension scheme and I think I am one of the older people in the Chamber today. Indeed, I am old enough to remember when the shadow Health and Social Care Secretary, the hon. Member for Ilford North (Wes Streeting), was musing about getting rid of the lifetime allowance—a matter of a few weeks ago, before the Government did it.
+
+Doctors in Poole have said to me clearly over a number of years that at a certain stage of their career they have all the skills, but when they work they get annual bills, and when they look at their lifetime allowance it makes sense for them to retire. The tax policy of the lifetime allowance and the annual allowance have been improving the golfing skills of GPs and hospital doctors, because they get to a point where, if they do the extra work, they are penalised by the tax system and they say, “Why should I do this?” Many still do it, but it is totally wrong that we have a tax policy that discriminates against people who want to work and want to use their skills.
+
+One key thing that the Government have done is put billions into the national health service to catch up with the backlog. If we are putting billions in and want productivity in our hospitals to improve, it is totally inconsistent to have a tax system in which the key people leading teams and doing tests find that it is a disadvantage for them to work. We will never get the lists down if people feel that they are penalised for working hard, and many want to work hard. I have talked to doctors since the changes, and the evidence in my constituency is that some have decided to delay their retirements, which they had already put in for, while others who had retired are now coming back to work part-time. The main improvements will be higher productivity and more patients being seen. I do not know whether there will be a massive advantage for doctors, but there will be for patients, because at the end of the day, there are people waiting to have tests and operations, and this will make the national health service rather more productive that it would otherwise be.
+
+Also, because many early-retirement doctors will now stay working, they will continue to receive salaries and pay tax at the normal rate. I am somewhat sceptical about the £1 billion cost because, if significant numbers of people stay in our hospitals, they will ultimately continue to pay taxes and many of them are higher-rate taxpayers. The key point is that we have to focus on the patients, not on the providers of services. If the providers of services can work and have incentives to work, we will get through more patients, which is what people in this House want.
+
+It is difficult to focus on the national health service alone. There are the anomalies not only of general practitioners—I come across general practitioners well into their 50s and nearing retirement who work only three days a week because of the tax system, and this measure will help them—but of dentists. We all get people writing to us about a shortage of dentists—particularly NHS dentists—and unless we fix these problems, which are pushing experienced dentists into early retirement, our constituents will not get the services that they need.
+
+As my hon. Friend the Member for South Cambridgeshire (Anthony Browne) pointed out, many other high-skilled, high-paid public sector jobs are impossible for managers to manage because the people undertaking those tasks are penalised either by a big tax bill each year, or by the difficulty of seeing their lifetime allowances used, so there is no great incentive for them to continue working. If we have a problem in this country, it is one of productivity. This tax change improves productivity. If we improve productivity in people-facing services, such as those provided by dentists and doctors, the people waiting for those services will clearly be more and better looked after by the system.
+
+When the Conservative party came into office, the lifetime allowance was £1.8 million, which was a significant sum 14 years ago. The reason it was reduced was that there was a suspicion that City slickers were putting millions into pension funds and not paying any tax. In reality, it has come down too far and is hitting people who we need to provide the skills that they have trained for over years. Doctors spend years training and decades getting experience, but at the time when they are needed most—to deal with the waiting list—they find that the pension system is forcing them into retirement or to play golf. What the Government have done is sensible.
+
+I do not accept the figures from the shadow Minister, the hon. Member for Ealing North (James Murray). The main benefit of the changes will be for those in the health service, but we cannot differentiate between one person providing one skill and somebody else providing some other skill. From that point of view, the tax system has to be neutral. If we get into a position in which the more worthy people pay less tax, we may as well be saying, “Why should anybody in the NHS pay tax? Why not just give them a free ride?” That is an argument without a great deal of thought behind it. We have to have a neutral tax system without the Government trying to second guess about the public or private sector, or whether doctors are more worthy than others.
+
+I think that the Government have done quite a brave thing, and it was the right thing to do. Government is about taking the right decisions, even if they are not always the most popular. They are the right decisions to provide better medical care for our constituents and to get the NHS backlog down. Of course, one of the Prime Minister’s key pledges is to do just that. This is one measure that will enable that by letting people work longer, harder and more productively.
+
+15:15:00
+
+Aaron Bell
+It is a pleasure to follow my hon. Friend the Member for Poole (Sir Robert Syms). I rise to speak to clauses 18 to 25, which I support. I was unsurprised to hear that the Opposition do not support them. The shadow Health Secretary, the hon. Member for Ilford North (Wes Streeting), told The Daily Telegraph on 2 September that the cap was “crazy”. He did not say that specifically about the NHS—although, as shadow Health Secretary, he obviously spoke about the NHS—but he called the cap “crazy”. He then said:
+
+“I’m not pretending that doing away with the cap is a particularly progressive move… I’m just being hard-headed and pragmatic about this.”
+
+Well, obviously that could not last. On the day of the Budget, the hard-headed and pragmatic approach from the shadow Health Secretary—the so-called “heir to Blair”—was handed over to the soft-headed and opportunistic approach that we saw in the response from the Leader of the Opposition. Actually, it was not in his response, because he had to go away and first check with some other people what the Labour policy was going to be, but Labour later came out against the policy, and has tabled amendments to strike the clauses entirely and replace them with new clauses, which I am sure the Government will oppose.
+
+To address the point about progressiveness, it is absolutely asinine to assume that the only test of any fiscal measure is whether it is progressive. We seek to do lots of things with our tax system: incentivise people, grow our economy, grow our productivity. The measures proposed by the Financial Secretary to the Treasury today, and by the Chancellor in the Budget, will do that. We want to incentivise people to stay in work and return to work.
+
+Like my hon. Friend the Member for Poole, I am not even sure that there will be a cost in the long run, because those who do not retire early will pay tax while they are earning their salaries. One big problem in our society is people retiring early with all the wisdom, experience and skills that they have at that stage of their careers. People are so productive in their 50s and 60s because they have accumulated so much knowledge, so to have people retiring early is a crying shame, not only for the country as a whole but for them, their patients and the people whom they serve in other ways. Also, those people will ultimately pay more tax when they claim their pensions; it is not a tax-free system. People might be exempt on entry into their pension scheme and exempt on returns, but they pay taxes when they draw their pensions, so taxes will be paid in the long run.
+
+The hon. Member for Aberdeen North (Kirsty Blackman) made a point about bankers, which was ably answered by the Minister. We still have a tapering of the annual allowance for people who earn incredibly large salaries, of which there are a number in this country, although not many in my constituency. As many on the Conservative Benches have said, we do not seek to divide people based on where they work or the nature of their jobs. Our tax system works for everybody.
+
+Our public sector has incredibly generous pension provision, as we have seen in recent discussions about strikes. That is why some people in the national health service, for example, have accumulated notionally very large pension pots. They are highly skilled, long-serving public servants who earn substantial salaries, particularly towards the latter end of their careers. If they have been on the scheme for a long time, they could be entitled to a pretty large pension, and we multiply it only by 20 to find out their defined benefit. So people in the public sector in defined benefit schemes are already better treated than people in the private sector, in which the same level of salary could not be purchased for £1.07 million.
+
+I heard that argument from doctors, I put it to the Minister, and I am glad that the Chancellor listened in the Budget. I have heard the argument from others in Newcastle-under-Lyme that the system disincentivises people to continue working. We should be against that. Clause 18 abolishes the lifetime allowance, as we have heard. In clause 19, we quite rightly limit the tax-free lump sum. I do not think that it would be conscionable to have an unlimited lump sum, which could be abused. We also have a limit on the annual allowance and its tapering, so it would not be plausible for people with defined contributions on a normal career trajectory to challenge the sort of high numbers—£2 million or £3 million—that people are talking about. It is not just feasible for most people—unless they have exceptionally good returns from their pension investments—to achieve those sums in their lifetime.
+
+Another iniquity of the current system is that people can stop paying into their defined contribution scheme and—if in a bull market, for example—have no idea how much their scheme might increase by. Obviously, that is down to investment returns, for people who do not know where they stand with their pensions right up until the moment of crystallisation.
+
+As I said in my intervention earlier, and as my hon. Friend the Member for South Cambridgeshire (Anthony Browne) expanded on, there are all sorts of people who welcome this. They include people in both the private and the public sector, senior armed forces personnel, senior police chiefs, headteachers, people in the NHS and GPs.
+
+Dr Richard Fieldhouse, chair of the National Association of Sessional GPs, said of the shadow Health Secretary’s comments:
+
+“Each person’s pension fund is their embodiment of a lifetime’s worth of delayed gratification. So any measures to motivate people towards this is to be welcomed, particularly when applied to us as GPs”.
+
+That is what pensions are—pay deferred. From the Government’s point of view, they are tax deferred as well. They are not tax waived or tax given away; they are tax deferred until the point at which the person, whether they work in the private or the public sector, gets the rewards for their labour.
+
+That is why I support what we have done in the Budget. The measure will simplify things for people, save lives in the NHS and, more than anything, encourage people, whatever their job is, to stay in work for longer, and that is all to the good of the British economy.
+
+Nigel Mills (Amber Valley) (Con)
+It is a pleasure to follow my hon. Friend the Member for Newcastle-under-Lyme (Aaron Bell). I agree with everything he said.
+
+I am a little surprised that we have ended up having to have this debate again today. Generally speaking, people who campaign for their own interests and ask for a special scheme for doctors do so because that was their particular area. However, if we stand back and ask how it is possible to make a special scheme for one particular sector work, we quickly realise that it is fiendishly difficult to do. There are all sorts of scenarios where we hit a problem. For example, some people have split careers, spending some time in the NHS and the rest of the time outside it. Others have split jobs where they might be a consultant for a couple of days a week and then spend another couple of days training the next set of doctors as a university lecturer. That puts them in a different pension scheme that is not subject to the same tax regime. They might say, “I have an NHS pension but I’ll pay it all on my other one,” so that would not work. What about people who are not employed by the NHS or any of the myriad trusts and organisations?
+
+I do not want to pick too much on the amendment tabled by the hon. Member for Aberdeen North (Kirsty Blackman), because I have tabled enough in my time to know that they are not always drafted precisely. However, if we use the word “employed” in draft legislation, that cannot be stretched to include a partner in a GP practice, because they are not employed by anybody. If we use the phrase “employed in an NHS organisation”, that cannot be stretched to include somebody working as a locum, because they are a contractor rather than somebody who is employed. There is all manner of people in the NHS family who we want to encourage to stay in work, but this is not how we will achieve it.
+
+I also think that the hon. Lady has chosen the wrong mechanism. This would result in her having a nightmare. As soon as a person who used to be exempt ceased to work more than 15 hours or retired, the lifetime allowance would kick in and clobber them when they drew their pension. I understand her intention, but I suspect that her mechanism of choice would be disastrous.
+
+Having thought through the scenarios, how do we pick a sector and get the right people? Are we trying to help doctors or are we trying to help anybody who happens to be employed by the NHS? As I said earlier, we are basically helping accountants, finance directors and procurement directors—all manner of people who are paid very large amounts by the NHS. I probably do not have the same amount of sympathy for their contribution to public service as I do for that of frontline doctors. It is bizarre to give a tax advantage to an NHS finance director, who gets a very generous pension, and not to an entrepreneur who is trying to grow the economy and create jobs to pay for all of this. That seems to create a huge iniquity.
+
+If we stand back and think about how we want tax policy to work—heaven forbid that the Opposition get into government and try to do this—it would be really hard, as my hon. Friend the Member for South Cambridgeshire (Anthony Browne) has said, to go down the route of justifying different tax rates for public sector employees. If we start asking why we are charging them the same income tax and national insurance, we will end up in a horrible world and a very complicated tax regime.
+
+Those of us who have very good public sector pensions should be very careful. Unlike my hon. Friend the Member for Poole (Sir Robert Syms), my lack of career success means that I am not worried about the lifetime allowance, including under the old level, because 20 times my pension gets me nowhere near it. Strange situations are being proposed. When I was first elected 13 years ago, a big issue on the doorstep was, “Public sector pensions are too generous. It’s not fair. I work in the private sector, basically paying for that, and I’m going to get a tiny pension. People in the public sector are being paid the same or more than me, and they are getting a massively generous pension. It’s not fair.” The coalition Government’s response to tackling that perceived unfairness was to change the scheme from final salary to average salary. If we load on to that generous, inflation-protected, state-guaranteed pension a more generous tax treatment than that received by private sector pensions, that would recreate that horrible argument.
+
+It is foolish and damaging to go down the route of cherry-picking favoured sectors and giving them different tax treatment from other sectors. It was a mistake to take that approach to judges and to Directors of Public Prosecution, and it would be a mistake to apply it to doctors. The tax system should apply to everybody across the board in the same way. If we want to provide more reward to people, we should do so by pay rather than by tax. That is a far better approach.
+
+I want to address where the Government have ended up. We have a very complicated pensions tax regime where people do not pay tax on the way in or on an annual basis. Instead, they pay tax on what they draw out of the pension when they get to the end, unless they draw out a quarter of it as a lump sum, in which case they do not pay tax on it all. We have chosen a pension model whereby the state pension broadly provides people with subsistence to live on, and if people want more than that, we incentivise them with a generous tax regime so that they can save it themselves. The implication is that a higher earner gets a greater tax incentive because, unlike a lower earner, they save tax at 40% or 45%. They probably pick up a bit more tax at the end, but a large amount of people pay a lower marginal tax rate when they retire than when they are working. That is the system that we have chosen.
+
+We then thought that perhaps that was a bit too generous to higher earners, so we introduced an annual cap and a lifetime cap. Quite why we needed both, I do not know. If we want to limit how much tax relief we give people, we could choose one of the two and still get to the right answer. The Government have now chosen the annual approach rather than the lifetime approach. The problem is that that does not help people whose earnings are not consistent. If someone is earning a relatively high amount at age 25 and then keeps earning it, that system will work very well for them. If someone starts a business that struggles in the early years and they cannot pay themselves a big salary or make big pension contributions, but then finally it is successful and they sell it and make a lot of money, under this new regime they would not be able to put that much in their pension because they would only be allowed to put in 60 grand a year. I think we could have chosen a higher lifetime allowance and not bothered with the annual allowance. That would have achieved a similar outcome, but we have not done that.
+
+To complicate things further, we have decided that if people earn too much, we will start taking their annual allowance off them completely, meaning that they will be able to put next to nothing in a pension scheme. That does not strike me as being a pensions tax regime that incentivises people to save money in the way we want them to or to use it in their retirement. Effectively, as soon as people hit 57, that gives them a tax incentive to take a lump sum before they retire. We are saying, “The more you earn, the better off you are—unless you earn too much, in which case you are being made worse off and put back to where you started.” In order to put out this particular fire, I urge the Government to step back and consider what they are trying to achieve with the £50 billion or so a year of tax we defer—we actually lose the vast majority of it—and what they really want people to do with their pension savings. How can we use the tax regime to incentivise that and make it fair all the way around? We must come up with a coherent tax regime that drives our policy, rather than come back every couple of years, tweak things, find another fire to put out and think, “Well, it’s not quite working how we wanted, so let’s move it around,” and end up in a confused mess.
+
+This should be a warning to us. If we have a confused mess, with different competing objectives, and we do not think about the whole system, we end up with an unintended consequence. The consequence we had was senior doctors retiring far earlier than we wanted them to because we got the pensions tax regime wrong. If we do not fix this, I suspect there will be another unforeseen consequence and we will have to come back and tweak it in another couple of years. Let us do the job properly, have a coherent regime and use the very large amount of money that we invest to drive the behaviours that we want.
+
+Anthony Browne
+I preface my comments with an absolutely fundamental underlying principle of all economic policy. Whatever we are talking about, I think this should be our first, axiomatic ground rule: whatever is right for the Leader of the Opposition should be right for everyone. There is a fundamental principle here, which is fairness, and I will come on to that.
+
+First, though, I want to mention some of the underlying principles of the annual allowance versus the lifetime allowance, because during almost all of the previous Labour Government’s time in office, there was not a lifetime allowance. It was brought in at the tail end of the Labour Government. One of the Government’s concerns about tax relief for pensioners is the need to limit it so that we do not end up creating huge amounts of dead-weight costs for pension relief, particularly for the well paid. That is why we have an annual allowance that limits tax relief.
+
+15:30:00
+
+The lifetime allowance is not an allowance of tax relief on the amount that people pay in; it is the amount that is accrued within the pension pot. As my hon. Friend the Member for Newcastle-under-Lyme (Aaron Bell) said, a person could be very lucky: they could have worked for Google, for example, at the beginning of their career and got some Google shares in their pension, and then done virtually nothing else for the rest of their career, but their pension would suddenly be worth £1 million because those shares have done so well. They would then suddenly be hit by this punitive regime; they would have got virtually no tax relief at any point, but they would suddenly face this massive tax penalty.
+
+The only reason for the lifetime limit is a tax grab by the Government to try to penalise those who have ended up with big savings pots, and as we have heard, most of those affected by it work in the public sector, because public sector pensions are so generous. I am chair of the Conservative Back-Bench Treasury committee, and my hon. Friend was previously the deputy chair. We had various hearings on this issue, and we recommended to the Government that they get rid of the lifetime savings allowance altogether. I was delighted when the Government did it, because I did not think they were going to be that brave, but there is a logical series of steps that we have to follow in order to get there.
+
+I was delighted that the spokesman for the SNP, the hon. Member for Aberdeen North (Kirsty Blackman), accepted that there is such a thing as a Laffer curve that a person can be beyond the peak of—that if we tax people so highly, at some point, they just stop working. We can argue about where that peak is, but that was absolutely the point that the hon. Lady was making. Labour Members have to accept that point as well, because they are making the same point regarding NHS doctors, but it applies to everyone in every other sector as well. If we end up hitting people with taxes so high that it is not worth their while working, they stop working, whether they are in the public sector or the private sector. That principle—that there is no benefit to the country in hitting people with taxes so high that whatever sector they are in, they stop working, paying taxes and contributing to the broader economy—should be a foundation of the Government’s overall thinking on pension taxation.
+
+The point I was making about the logical chain that leads to abolishing the whole lifetime allowance is that we already have the stand-alone personal regime for the former Director of Public Prosecutions, the right hon. and learned Member for Holborn and St Pancras (Keir Starmer)—and not just him but his predecessors as well. We already have a separate regime for judges, which has been invoked; we now have a regime for NHS doctors that is being argued for; and as was mentioned earlier, there are various other regimes for senior police chiefs, headteachers, Government scientists, local authority senior officials, air traffic controllers—the list goes on. It is a fundamental principle of taxation policy that if we have so many exemptions in all those different categories, there is clearly something wrong with the system, and we end up with an absolutely hideous mess of tax policy. My hon. Friend the Member for Amber Valley (Nigel Mills) pointed out the complexities of having a regime just for NHS doctors, but that same complexity would apply to every other sector if we had a separate regime for police chiefs, Government scientists, and so on and so forth—what a hideous mess. We just have to accept that the whole thing is wrong.
+
+One might say, as the hon. Member for Aberdeen North did, that we should have a separate regime just for the public sector. I think that is absolutely, fundamentally wrong, which is a point that my hon. Friend the Member for Amber Valley also made. First, I just do not abide by the general principle that all those who work in the private sector are bad and all those who work in the public sector are good. By the way, 80% of employees—80% of our voters—work in the private sector. I do not accept that those people are sufficiently bad and not moral enough that they deserve to have a specially punitive tax regime. I think it is really divisive to argue for a tax system that benefits public sector workers at the expense of private sector workers.
+
+Private sector workers do a lot of valuable work as well. We may not like all of the different things they do, but in my constituency, they work in life sciences, developing all the drugs, the vaccines, the cures for cancer and so on. People who work in supermarkets were heroes during the pandemic, as well—they kept on working throughout the whole thing. I agree that frontline workers are unlikely to benefit from this regime, but the senior managers certainly would. It would be really divisive and corrosive in society to say, “Right, we are having one tax regime for the public sector—you are in a privileged position—and everyone else, the 80% in the private sector, has to be punished.” That is certainly not a world I would want to live in. I challenge Members to argue for that in public, because I think they would be shot down by all their voters. It would also be hideously complex, because a lot of people, including me, end up working part of their career in the public sector and part of their career in the private sector. How do we get a lifetime allowance out of that?
+
+Fundamentally, when we follow the logic and add up all the different private sectors affected by the allowance and the private sector overall, we end up seeing that we just have to get rid of the whole thing. It would be incredibly complex and incredibly unfair if we had single sectors that benefited from the abolition of the lifetime allowance.
+
+There is also the cost. The Treasury produces all these estimates, and we can have a big debate about its methodology and how it calculates things, but I fundamentally do not believe that a tax that is so punitive that it simply stops people from working at the peak of their skills and experience is somehow good for the overall economy. Clearly it means people work less and pay less tax. The overall cost of this measure will be far less than expected. I do not speak for the Treasury, but my understanding is that that was part of its rationale. When it looked at the costs for doing it for doctors and then at the costs for doing it for the economy overall, it realised there was not that big a difference, so it might as well go for the whole thing. The arguments against abolishing the lifetime allowance simply do not stack up. They are fundamentally unfair and economically illiterate, and the Government should push ahead with getting rid of the lifetime allowance.
+
+Andrew Griffith
+I thank my hon. Friends for their contributions to this debate. It has been brief, and I will try to keep my remarks brief, too. The Government do not want any doctor to retire early because of the way that pension taxes work, but as my hon. Friends have said, the issues that these changes address go much wider than doctors and affect workers across the economy. Nobody should find themselves having to reduce their work commitments due to interaction between their pay, their pension and the tax system. It is detrimental not just to those individuals who feel compelled to retire earlier than they would like, but also to the economy, and with them goes their often irreplaceable knowledge and experience.
+
+My hon. Friend the Member for Poole (Sir Robert Syms) reminded us that today is a bad day for the purveyors of golf equipment, because this measure will allow people to come back into work. More than anything, we should be talking about the patients and others who will benefit, as well as the benefit to the economy from doctors, consultants and workers across sectors continuing to pay tax at their normal rate for those extra years.
+
+My hon. Friend the Member for Newcastle-under-Lyme (Aaron Bell) conjured up the image of how it would oh so wonderful to be a fly on the wall for the recent conversations between the hon. Members for Ilford North (Wes Streeting) and for Ealing North (James Murray) in respect of this policy. We took our cue from the hon. Member for Ilford North, who called the cap “crazy” and said that removing it would “inevitably save lives”. I find it remarkable that that is no longer the position of the official Opposition.
+
+My hon. Friend the Member for Amber Valley (Nigel Mills) talked about the fiendishly difficult position of trying to create a special scheme. Though we take the amendment of the hon. Member for Aberdeen North (Kirsty Blackman) in good faith, she nevertheless conjures up an “Animal Farm” tax policy, where we hit GP practices, people who work in hospices and adult and social care, mental health consultants, those who work in air ambulances and medical charities, and give preference to NHS finance directors over long-standing public servants elsewhere in the sector. I could not make those unequal choices, and I am surprised that she and her party feel able to do so.
+
+Finally, my hon. Friend the Member for South Cambridgeshire (Anthony Browne), who speaks with such great knowledge on matters financial, reminded us of the fundamental principle. We could call it the Starmer principle: what is good for the Leader of the Opposition should be good for everyone.
+
+Since this is part of the fundamental economic debate, I will conclude by reminding my hon. Friends what happened the last time Labour had its chance to put its hand on the economy: the then Chief Secretary to the Treasury left a note saying that there was no money left. [Interruption.] I have answered the questions from the hon. Member for Ealing North, and I was kind enough to write to him about the matters that he raised with me.
+
+Kirsty Blackman
+The Government have been battling manfully to attempt to retrofit a justification to a policy that was unveiled like a rabbit out of a hat on Budget day. We have been speaking about doctors’ pensions in this Chamber for years, and suddenly it turns out it is actually about air traffic controllers, senior police officers and others who were not being mentioned, because the Chancellor has made the decision to abolish the lifetime allowance. The Minister was continuing to try to pull at the heartstrings by mentioning NHS doctors and consultants in every second sentence as if they are the only ones who will benefit from the £1 billion tax cut that is being made, and as if we should all support this change because it is for our NHS heroes, but actually it is not just for our NHS heroes.
+
+The Government have chosen to implement this in the widest, most ham-fisted way. If the current policy of the lifetime allowance was so bad, why did it take the Conservative Government 10 years to change it? Why did it take them so long to decide this was so horrific that they had to get rid of it? Why, if they cannot possibly have a scheme that allows for one profession or one public service to be treated differently, did they allow the scheme for judges to continue for such a long period of time? If that was so discriminatory and cannot possibly be replicated for NHS doctors, why have they only realised this in the last few months? Their arguments do not stack up. Therefore, we will do what we intended to do, which is to press amendment 21 to a vote.
+
+Question put, That the amendment be made.
+
+Division 212
+19/04/2023 15:41:00
+The Committee divided:
+Ayes: 45
+Noes: 292
+Question accordingly negatived.
+
+Question put, That the clause stand part of the Bill.
+
+Division 213
+19/04/2023 15:55:00
+The Committee divided:
+Ayes: 293
+Noes: 218
+Question accordingly agreed to.
+
+Clause 18 ordered to stand part of the Bill.
+
+Clauses 19 to 25 ordered to stand part of the Bill.
+
+New Clause 5
+
+Review of alternatives to the abolition of the lifetime allowance charge
+
+“(1) The Chancellor of the Exchequer must, within six months of this Act being passed—
+
+(a) conduct a review of the impact of the abolition of the lifetime allowance charge introduced by section 18 of this Act and other changes to tax-free pension allowances introduced by sections 19 to 23 of this Act, and
+
+(b) lay before the House of Commons a report setting out recommendations arising from the review.
+
+(2) The review must make recommendations on how the policies referred to in subsection (1)(a) could be replaced with an alternative approach that provided equivalent benefits only for NHS doctors.”—(James Murray.)
+
+This new clause requires the Chancellor to review the impact of the tax-free pension allowance changes and to recommend an alternative approach targeted at NHS doctors.
+
+Brought up, and read the First time.
+
+Question put, That the clause be read a Second time.
+
+Division 214
+19/04/2023 16:09:00
+The Committee divided:
+Ayes: 218
+Noes: 294
+Question accordingly negatived.
+
+Clause 278
+
+Charge on exceptional generation receipts
+
+The Chairman of Ways and Means (Dame Eleanor Laing)
+I am progressing as slowly as I can, in the hope that the hon. Member for Richmond Park (Sarah Olney), who tabled amendment 8, or indeed one of her colleagues, might appear in the Chamber. I do not think I can go any slower, as I would have to chastise myself for wasting the Committee’s time.
+
+It must be said that I have given the Liberal Democrats as much time as possible to move amendment 8, so we will instead move directly to clause stand part.
+
+Question proposed, That the clause stand part of the Bill.
+
+The Chairman
+With this it will be convenient to discuss the following:
+
+Amendment 8, page 197, line 35, after “costs” insert “and relevant investment expenditure”.
+
+This amendment is linked to Amendment 9.
+
+Amendment 9, page 198, line 3, at end insert—
+
+“Where the generating undertaking is a generator of renewable energy, determine the amount of relevant investment expenditure and also subtract that amount.”
+
+This amendment, together with Amendments 8, 10 and 11 would allow generators of renewable energy to offset money re-invested in renewable projects against the levy.
+
+Amendment 10, in clause 279, page 199, line 13, at end insert—
+
+“a “generator of renewable energy” means—
+
+(a) a company, other than a member of a group, that operates, or
+
+(b) a group of companies that includes at least one member who operates a generating station generating electricity from a renewable source within the meaning of section 32M of the Energy Act 1989;
+
+“relevant investment expenditure” means any profits of a generator of renewable energy that have been re-invested in renewable projects;”
+
+This amendment is linked to Amendment 9.
+
+Amendment 11, page 199, line 18, at end insert—
+
+“a “renewable project” is any project involving the generation of electricity from a renewable source within the meaning of section 32M of the Energy Act 1989;”
+
+This amendment is linked to Amendment 9.
+
+Clauses 279 to 312 stand part.
+
+New clause 11—Assessment of the impact of the electricity generator levy—
+
+“(1) The Chancellor of the Exchequer must, within six months of this Act coming into force, publish an assessment of the impact of the electricity generator levy on investment in renewable energy in the UK.
+
+(2) The assessment must include a comparative assessment of the impact of the energy (oil and gas) profits levy and the investment allowance on overall investment in UK upstream petroleum production.
+
+(3) The assessment must include an evaluation of the impact of the electricity generator levy on the United Kingdom’s ability to meet its climate commitments, including—
+
+(a) the target for 2050 set out in section 1 of the Climate Change Act 2008, and
+
+(b) the duty under section 4 of the Climate Change Act 2008 to ensure that the net UK carbon account for a budgetary period does not exceed the carbon budget.”
+
+This new clause would require the Government to conduct an assessment of the impact of the Electricity Generator Levy on investment in renewables and the delivery of the UK’s climate targets, including a comparative assessment of the impact of the Energy Profits Levy and the investment allowance, on investment in oil and gas production.
+
+The Exchequer Secretary to the Treasury (James Cartlidge)
+It is always a pleasure to appear so early and unexpectedly. This grouping is about the electricity generator levy. Before I address the specific clauses, here is a reminder of why we are debating this ultimately exceptional new tax.
+
+We have to remember that Putin’s weaponisation of gas supplies to Europe has pushed energy prices to record levels. In 2022, UK wholesale energy prices rose to eight times their historical level. Despite recent falls, gas prices, which currently drive the market price for electricity, remain at twice their pre-pandemic level, which means that the price achieved by some electricity generators has risen considerably, driven by natural gas prices.
+
+The Government have absorbed a substantial portion of the price increase through our generous support for households and businesses, which is why we have chosen to capture the windfall profits of oil and gas extraction with the energy profits levy. The Government are now introducing an electricity generator levy. The EGL is designed to capture only the exceptional receipts that electricity generators make, by taxing only the amounts above their normal return while preserving the incentive to invest in the capacity we need.
+
+Clauses 278 to 280 detail the calculation of the levy, which will be applied at a 45% rate on revenues above a benchmark price for UK generation activities. The benchmark price of £75 per megawatt-hour is set approximately 1.5 times higher than the pre-crisis average. The benchmark price will be indexed to inflation from April 2024. To ensure that the levy applies only to large commercial operations with the capacity to administer the tax, the EGL includes an annual generation output threshold of 50 GWh, which is equivalent to approximately 15,000 domestic rooftop solar panels. A £10 million allowance provides further protection for smaller businesses from undue administrative burden and reduces the impact of the levy for those in scope. The levy applies from 1 January 2023 and will end on 31 March 2028, although colleagues will appreciate that the design of the levy is such that, should prices return to normal, no tax will be due. To ensure that the tax does not have unintended consequences, clause 279 excludes certain technologies.
+
+Clauses 281 to 285 provide definitions for in-scope generation and the calculation of exceptional receipts. As I have outlined, the benchmark price has been set so that the EGL applies only to revenues from the sale of electricity at prices higher than the pre-crisis expectations of generators and investors. The levy applies to receipts from power sold on to the grid from wind, solar, biomass, nuclear and energy-from-waste technology. It applies to revenues that generators actually receive, taking account of contracts which might involve selling power over a longer period for a stable price. Certain types of transaction are excluded, such as “private wire” not sold via the grid, as well as power sold under contracts for difference with the Low Carbon Contracts Company, which is the Government’s flagship scheme supporting investment in renewables. Clauses 283 to 285 set out provisions for the recognition of exceptional costs related to the acquisition of fuel and from revenue-sharing arrangements. These provisions reflect the fact that for some generators fuel acquisition costs will have increased as a result of the energy crisis.
+
+Clauses 286 to 300 deal with detailed arrangements for various structures of business operating in electricity generation. Owing to the size and complexity of projects involved, there are a number of common structures for generation undertakings. Those often involve large group companies, sometimes with significant minority shareholders. Others involve a number of businesses forming a joint venture. For example, a company specialising in offshore wind might go into business with a finance provider to deliver a large and complex project, sharing the revenues and risk between them. There are rules to treat these so-called “joint ventures” as stand-alone generation undertakings for the purposes of the EGL. These clauses ensure that businesses with in-scope revenues pay an appropriate share of EGL liability.
+
+Clauses 301 to 305 provide rules for the payment of EGL. The EGL is a temporary measure that has been carefully designed to minimise the administrative burden on businesses. Firms within scope of the levy will pay it as part of their corporation tax return, albeit that EGL is a separate and new tax. The provisions for paying corporation tax are therefore applied here, including in respect of the supply of information, the collection of tax due and the right of appeal.
+
+I turn briefly to the final clauses on the EGL, clauses 306 to 312. Those provisions ensure that the EGL applies to in-scope revenues from generation activities regardless of company type. Appropriate anti-avoidance rules are also included. Clause 309 details the interaction between EGL and corporation tax for accounting purposes, including the fact that EGL is not deductible from profits for corporation tax purposes.
+
+In conclusion, these provisions ensure that, where electricity generators are realising exceptional receipts as a result of the current crisis, they make a fair and proportionate contribution to the support that the Government have provided to households and businesses. Importantly, the levy is designed to apply only to the excess portion of those revenues, in order to maintain the incentive to produce low-carbon electricity. This is in addition to the Government’s extensive support for investment in UK electricity generation. I will of course respond to proposed amendments, assuming that we hear about them, in the debate. In the meantime, I ask that clauses 278 to 312 stand part of the Bill.
+
+Abena Oppong-Asare (Erith and Thamesmead) (Lab)
+It is a pleasure to speak for the Opposition on the clauses relating to the electricity generator levy, a policy that was first announced in the autumn statement of 2022. Clause 278 introduces a new 45% charge on businesses that generate electricity in the UK. Specifically, it will be charged on exceptional earnings related to soaring energy prices. Extraordinary profits are defined in the Bill as receipts from wholesale electricity sold at an average price in excess of a benchmark price of £75 per megawatt-hour over an accounting period. Clause 280 specifies that this benchmark will be adjusted in line with the consumer prices index from April 2024. Companies liable for the levy are those that produce more than 50 GWh annually, generate electricity in the UK from nuclear, renewable or biomass sources, and are connected to a local distribution network or to the national grid. The levy will apply only to exceptional receipts exceeding £10 million.
+
+16:30:00
+
+The clauses under discussion also set out in detail methods of calculation and procedures for joint ventures. I note that the Government have estimated that the levy will raise approximately £14 billion over the next five years and will help to fund public services and support for households and businesses with increased energy bills.
+
+Although Labour welcomes this move and will not oppose the inclusion of these clauses in the Finance Bill, I have to say that I have followed the Government’s developments in this area with dismay. Back in January 2022, Labour announced that it would introduce a windfall tax on oil and gas producers. We announced in August 2022 that we would cap energy bills. In the same month, we also announced that we would scrap extra charges for those on pre-payment meters. It is Labour that has been developing policies to tackle the energy crisis and support consumers and businesses that are suffering as a result of the Government’s inaction. Thirteen years of failed Conservative energy policy have resulted in higher bills, energy insecurity, and the UK losing the global race for jobs.
+
+The British people are sick and tired of soaring energy bills and of our energy system being so exposed to the whims of dictators such as Putin. The British people want long-term solutions to cut bills for good, and it is Labour that is offering those solutions. The clauses for discussion today and the detail that the Government have given so far, still leave some questions unanswered. Will the Minister explain what measures the Government will take to ensure that this levy does not hamper investment in the renewables sector, given that low-carbon electricity generation is subject to the levy.
+
+The Government’s botched windfall tax on oil and gas companies comes alongside an investment allowance, but this levy does not. Does that say anything about the level of importance that the Government assign to the renewables sector, the importance of investment in net zero, and the role that they see Britain playing in the green race? Given the importance of the renewables sector in reaching our net zero targets, I am sure that the Minister will agree that it is important that the measures in these clauses are monitored and evaluated. Will he elaborate a little as to how the electricity generator levy will be monitored and what cross-departmental work the Treasury will be doing alongside the Department for Energy Security and Net Zero in this area?
+
+To conclude, the Opposition have real concerns about the Government’s energy policy. Although we support the electricity generator levy, we do have some serious questions for the Government. We need to see greater security detail on these to give the sector certainty and to ensure that these measures do not stifle investment in renewables.
+
+Caroline Lucas (Brighton, Pavilion) (Green)
+I am delighted to have the best part of an hour and a half to talk about the electricity generator levy—[Interruption.] No, not really.
+
+I rise to speak in support of new clause 11, which would require the Government to conduct an assessment of the impact of the electricity generator levy on investment in renewable energy in the UK, exactly picking up on the point that was made by the Official Opposition just a moment ago.
+
+In his speech in the spring Budget, just one month ago, the Chancellor proudly declared:
+
+“We are world leaders in renewable energy”.—[Official Report, 15 March 2023; Vol. 729, c. 840.]
+
+Since then, the Government have published their latest energy security plan, which points to “low-cost renewables” as being “central” to their goal of Britain having among the cheapest wholesale electricity prices in Europe. The strategy is absolutely right in that regard; the International Energy Agency’s “World Energy Outlook” makes clear that, in the context of the energy price crisis, countries with a higher share of renewables also had lower electricity prices. In the words of the IEA’s executive director, Dr Fatih Birol:
+
+“The environmental case for clean energy needed no reinforcement, but the economic arguments in favour of cost-competitive and affordable clean technologies are now stronger—and so too is the energy security case.”
+
+In light of all that, it seems extremely perverse—to put it mildly—that, rather than the Government doing everything they can to unleash our abundant renewables, their current policy is stifling the investment we desperately need. A recent report by Energy UK warns that the investment climate for renewables has deteriorated significantly in recent months due to a combination of factors, including what it describes as “poorly designed windfall taxes. The report also states that, without urgent action to address concerns and prevent investment from moving elsewhere, the UK risks losing out on £62 billion-worth of investment this decade, which could also lead to a shortfall of 54 GW of potential solar and wind capacity, which would be enough to power every single UK home.
+
+RenewableUK has criticised the Government for continuing to develop policies that,
+
+“increase uncertainty and dampen investment”,
+
+with the electricity generator levy in particular damaging investor confidence and increasing costs. While it is right that companies are taxed fairly on their excess profits, hampering our vital renewable energy industry when a expansion is essential to deliver on our climate targets is reckless.
+
+The Government’s own plans include increasing our offshore capacity by four times over current levels by 2030 and solar by five times by 2035. My amendment would therefore also require an assessment to cover the impact of the electricity generator levy on the delivery of those UK climate targets, including net zero by 2050, and on our legally binding carbon budgets.
+
+Most egregious of the complaints laid at the door of the EGL is that it is more punitive than the tax and relief regime for oil and gas companies. The sector has highlighted three key differences between the regimes. First, the electricity generator levy is a tax on revenue rather than overall profit, as with the energy profits levy, which results in an above-the-line cost of doing business rather than a reduction in profit.
+
+Secondly, the electricity generator levy is not deductible from corporation tax, whereas the energy profits levy is an extension of an existing scheme. That leads to higher effective tax rates for electricity generators than is currently the case for oil and gas companies.
+
+Thirdly and most importantly, oil and gas companies are eligible for vast and frankly obscene subsidies through the investment allowance that renewables do not have access to. If we add to all that the decarbonisation allowance, which means that the taxpayer is paying oil and gas companies to decarbonise—even though, in their own words, the companies already have more cash than they know what to do with, thanks to their vast windfall profits—it seems to me that the Government’s approach is misguided.
+
+The approach means that, in the case of a decarbonisation allowance, companies are eligible for more tax relief if they are putting a wind turbine on an oil platform than if they are installing a wind turbine to feed into the grid. Put simply, we should be incentivising investment in renewables to power homes, not rigs. The amount of power it takes to drill for oil and gas is comparable to the total amount of power generated by offshore wind, or enough power to generate electricity for every house in Wales.
+
+That should be paid for by the very oil and gas companies that are reaping such huge profits, not by the taxpayer. Surely the Chancellor and Treasury team can see that, when we need to urgently get off fossil fuels to secure a liveable future, it is madness to subsidise oil and gas extraction at all, let alone at the expense of renewable energy, as the Government are doing.
+
+My amendment would require a comparative assessment of the impact of the energy profits levy, including the investment allowance, on investment in oil and gas production versus the regime the Government are proposing for renewables. Renewable energy companies have rightly called for a level playing field with oil and gas, but, in the face of an escalating climate emergency, we should be going further than that and responding to the ambition of other countries. Biden’s Inflation Reduction Act, for example, offers $216 billion-worth of tax credits to companies investing in clean energy and transport.
+
+Finally, I record my support for the amendments tabled by the hon. Member for Richmond Park (Sarah Olney), which would allow generators of renewable energy to offset money reinvested in renewable projects against the levy. Yet failing that, surely the Chancellor cannot object simply to having, at the very least, clarity on the impact of this policy. That is exactly what my new clause would do, and I very much hope that the Treasury team will consider it.
+
+The Government are fond of pointing to the fact that almost 40% of our electricity is now generated from renewables, but if we are to fully decarbonise our electricity system, we need the right incentives, a supportive policy framework, an improved grid fit for the 21st century, and a planning system that does not hold renewables back. We simply cannot rely on what the Chancellor called a “clean energy miracle”. I very much hope that the Government will take new clause 11 seriously.
+
+James Cartlidge
+It is a pleasure to respond to the hon. Member for Brighton, Pavilion (Caroline Lucas). I hope that she will not take it as a lack of respect if I say that it is probably a good thing that she did not go for the full one-and-a-half hours, but she made important points to which I will respond. Both she and the Labour Front Bencher, the hon. Member for Erith and Thamesmead (Abena Oppong-Asare), asked about the impact on investment.
+
+New clause 11, in the name of the hon. Member for Brighton, Pavilion, specifically proposes that the Government publish within six months an assessment of the impact of the EGL on investment in renewables, and a comparison with the impact of the energy profits levy. First, I am bound to say, in the immortal words of the Treasury, that we keep all policies under review. We will, in the course of normal tax policymaking, return to make an assessment of the EGL’s impact at a suitable time. On investment specifically, we have to appreciate that this country has led the way in securing investment in renewables. Bloomberg New Energy Finance data shows that the UK has secured nearly £200 billion of public and private investment into low-carbon industries since 2010. Generators have received to date almost £6 billion in price support from the contracts for difference scheme for low-carbon electricity generation. CfDs have contracted a total of 26 GW of low-carbon generation, including around 20 GW of offshore wind. I hope that we are all proud of the result, which is that we as a country now have the largest array of offshore wind in Europe. Going forward, we have committed £160 million for the floating offshore wind manufacturing investment scheme to support floating offshore wind, and up to £20 billion for early deployment of carbon capture, usage and storage.
+
+Our record to date is also crucial. The hon. Member for Brighton, Pavilion spoke about the Inflation Reduction Act and the steps being taken in the US. Of course, that is important, and we watch what is happening there very carefully, but it is worth reflecting on the fact that, as she quite rightly said, about 40% of our electricity came from renewables last year, while in the US that figure was about 20%.
+
+There are two key things about the EGL and investment. First, we have to remember that the levy does not apply to the contracts for difference, which have been hugely successful in securing renewable energy investment and will cover the mainstay of future deployment in this country in relation to renewables. Secondly, the threshold price of £75 per megawatt-hour is exceptional; it is about 50% higher than the average over the past decade. The extraordinary energy prices, driven by Putin’s invasion of Ukraine, would not have been foreseen by investors when they committed capital to the building of wind and solar farms—they would not have foreseen such a huge increase.
+
+The hon. Lady, whom I respect, has made her key point about oil and gas consistently; in many ways, the Labour party’s criticism of our investment allowance, which it calls a loophole, is the same point. We differ in our view. In the world today, we face a most profound energy crisis. It is a strategic energy crisis. We look at Russia, which has weaponised energy, and we ask ourselves: “Is it the right moment to be turning our back on our own domestic supply of oil and gas?” We need it. Of course, we are on the path to net zero—this country has cut its emissions more than any other nation in the G7; we are making that difference—but the journey is a long one. In that time, we will need oil and gas, which make up about three quarters of our energy demand when all transport is included. Unless the hon. Lady and the Labour party think that we should stop using oil and gas tomorrow, what they are really arguing for is simply to use more imported oil and gas.
+
+Caroline Lucas
+I am so fed up with this argument from the Government, because nobody is talking about turning off oil and gas tomorrow. We are talking about whether the world can sustain more new oil and gas, particularly from a country such as the UK, which is so blessed with alternatives. We were also one of the first countries to industrialise, so we have a greater responsibility to take a real lead on this. That is why the Government should invest in alternatives, renewables and energy efficiency, and listen to the IEA, which says that there is no space for new oil and gas.
+
+James Cartlidge
+As I have said, I respect the hon. Lady’s position, but the point is that if we were to have no further investment, the North Sea Transition Authority estimates that we would lose about 1.5 billion barrels-worth of output. There is no realistic estimate that we would not use an equivalent amount. In other words, we would simply import it, and if we import gas, that means 50% more emissions. Most importantly—and I feel very strongly about this—we would undermine our energy security. Even yesterday, representatives of the Kremlin were still talking about weaponising energy. If we have learned one thing, surely it is that we have to be realistic and pragmatic. We want to support the UK economy. Above all, we have a balanced approach. We are on the journey to net zero. We have cut our emissions more than any other country in the G7, and we continue to back renewables.
+
+Caroline Lucas
+Will the Minister give way?
+
+James Cartlidge
+I will take one final point and then wrap up.
+
+16:45:00
+
+Caroline Lucas
+The Minister is very generous in giving way again. I simply want to make the very obvious point that simply because oil and gas are extracted from the North sea, there is no guarantee that they will be used by people in the UK. They get sold on global markets at the highest price, so the argument that this is the best way to reach energy security is flawed. The best way to reach energy security is through introducing a mass energy efficiency and home insulation upgrade system, which the Government have not done; through more on electrification of transport, which they have not done; and through investing in renewables, which they are not doing enough of, as we have been saying this afternoon.
+
+James Cartlidge
+This is entirely true, but of course selling on the international market means that, through our balance of trade, we have an economy where we can afford to import. It is about comparative advantage.
+
+As I have described, the Government are providing extensive support for renewables in order to decarbonise our power system and meet our ambitious net zero commitments. The EGL has been carefully designed with those objectives in mind. I therefore urge the Committee to reject the amendments and to agree that clauses 278 to 312 stand part of the Bill.
+
+Question put and agreed to.
+
+Clause 278 accordingly ordered to stand part of the Bill.
+
+Clauses 279 to 312 ordered to stand part of the Bill.
+
+Clause 27
+
+Power to clarify tax treatment of devolved social security benefits
+
+Question proposed, That the clause stand part of the Bill.
+
+The Chairman of Ways and Means (Dame Eleanor Laing)
+With this it will be convenient to discuss the following:
+
+Clause 47 stand part.
+
+Amendment 25, in clause 48, page 39, line 32, at end insert—
+
+“(aa) section (exemption: Scotch Whisky),”.
+
+This is a paving amendment for NC9, which would exempt Scotch Whisky from the increase in duty on spirits.
+
+Clause 48 stand part.
+
+Amendment 7, in schedule 7, page 334, line 18, leave out “£31.64” and insert “£28.74”.
+
+That schedule 7 be the Seventh schedule to the Bill.
+
+Clause 50 stand part.
+
+That schedule 8 be the Eighth schedule to the Bill.
+
+Clauses 51 to 54 stand part.
+
+That schedule 9 be the Ninth schedule to the Bill.
+
+Clauses 55 to 60 stand part.
+
+New clause 9—Exemption: Scotch Whisky—
+
+“(1) The rate of duty on spirits shown in Schedule 7 shall not apply in respect of Scotch Whisky.
+
+(2) The rate of duty in respect of Scotch Whisky shall continue to be the rate that applied before this Act came into force.
+
+(3) For the purposes of this section, “Scotch Whisky” has the meaning given in regulation 3 of the Scotch Whisky Regulations 2009 (S.I. 2009, No. 2890).”
+
+This new clause would exempt Scotch Whisky, as defined in the Scotch Whisky Regulations 2009, from the increase in duty on spirits
+
+James Cartlidge
+We have had pensions and energy, and we conclude with alcohol, and of course one other minor matter is covered. We are specifically debating clauses 27, 47, 48 and 50 to 60, and schedules 7 to 9, which cover powers to clarify the tax treatment of devolved social security benefits—that is the measure not relating to alcohol—as well as the change to alcohol duty and the introduction of two new reliefs for alcohol duty.
+
+Clause 27 introduces a new power to enable the tax treatment of new payments or new top-up welfare payments introduced by the devolved Administrations to be confirmed as social security income by statutory instrument. The changes made by clause 27 will allow the UK Government to confirm the tax treatment of new payments or new top-up payments introduced by the devolved Administrations within the tax year, rather than their being subject to the UK parliamentary timetable.
+
+I will now turn to the main issue of alcohol duty, and specifically clauses 47 and 48, which set out the charging of alcohol duty, and schedule 7. In line with our plan to manage the UK economy responsibly, we are reverting to the standard approach of uprating the previously published reformed rates and structures by the retail price index, while increasing the value of draught relief to ensure that the duty on an average pint of beer or lower-strength cider served on tap in a pub does not increase. Most importantly, these clauses introduce the Government’s historic alcohol duty reforms: the biggest overhaul of the alcohol duty system in over 140 years, made possible by our departure from the European Union.
+
+The current alcohol duty system is complex and outdated. The Institute for Fiscal Studies has said that our system of alcohol taxation is “a mess”; the Institute of Economic Affairs has said that it “defies common sense”; and the World Health Organisation has said that countries such as the UK that follow the EU alcohol rules are
+
+“unable to implement tax systems that are optimal from the perspective of public health.”
+
+As such, at Budget 2020, the Government announced that they would take forward a review of alcohol duty. This legislation is the culmination of that review, and makes changes to the overall duty structure for alcohol. It moves us from individual, product-specific duties and bands to a single duty on all alcoholic products and a standardised series of tax bands based on alcoholic strength.
+
+The clauses we are debating today repeal and replace, with variations, the Alcoholic Liquor Duties Act 1979 and sections 4 and 5 of the Finance Act 1995. Specifically, clause 47 provides for alcohol duty to be charged on alcoholic products, clause 48 explains where the rates of alcohol duty can be found—that is, in schedule 7—and schedule 7 itself provides the standard or full rates of alcohol duty to be applied to alcoholic products. This radical simplification of the alcohol duty system reduces the number of duty bands from 15 to six, and has only been made possible since leaving the EU. Now, thanks to the Windsor framework, I can confirm that these reforms can now also be implemented in Northern Ireland. The new alcohol duty structures, rates and reliefs will take effect from 1 August this year, which brings me to the new reliefs.
+
+Bob Stewart (Beckenham) (Con)
+As a member of the Campaign for Real Ale, may I ask the Minister whether that means beer that is not very strong will come down in price?
+
+James Cartlidge
+That is an excellent question from my right hon. Friend. As he will appreciate, there is obviously a difference between the duty and the price—we control the duty. As I am about to explain, we are doing everything possible, and I hope he will be interested, because I know that members of CAMRA have great fondness and support for our brilliant pubs up and down the country.
+
+The first of the two new reliefs, which is our new draught relief, applies to alcoholic products under 8.5% alcohol by volume intended to be sold on draught. This draught relief is historic, because as Members will remember, in the EU, we had a thing called the EU structures directive. Under that directive, as a country, we could of course vary our alcohol duty—we could increase it, decrease it or whatever—but what we could not do was charge differential duty between the on trade, meaning pubs, and the off trade, meaning supermarkets, retail and so on. For the first time, we will have that differential draught relief, and I am pleased to confirm that in the Budget, we brought forward two very important measures in relation to that relief. It had been anticipated that we would set the draught relief at 5%, but the Chancellor confirmed in the Budget that it would be increased to 9.2%. I can therefore confirm to my right hon. Friend the Member for Beckenham (Bob Stewart) that as a result of that increase in the draught relief, when the new system comes in this August, the duty on the average pint of beer or lower-strength cider that people buy in pubs will still be frozen.
+
+More importantly, we have issued our Brexit pubs guarantee. As I say, this change would not have been possible in the EU, and we are using this opportunity to send a very powerful message to our pubs: to guarantee that from August onwards, the duty on a pint in a pub will always be lower than the duty on the equivalent in a supermarket.
+
+Mark Jenkinson (Workington) (Con)
+I thank the Minister for giving way. I just wondered whether an impact assessment was done on the benefits of such a change to the on trade.
+
+James Cartlidge
+My hon. Friend asks an excellent question, and I will be more than happy to write to him setting out more detail on the benefits, but I hope he agrees that the key point is this: we in this House all know that pubs suffered terribly in the pandemic, if we are honest. We literally legislated to close them, obviously for a very good reason—to support public health and stop the spread of that terrible disease—but the fact is that doing so was costly to pubs, so we had to support them. In addition, since then they have seen their energy bills surge on the back of the invasion of Ukraine. We want to do what we can to support them.
+
+Sir David Evennett (Bexleyheath and Crayford) (Con)
+Pubs are so important in our communities. My constituents in Bexleyheath and Crayford find their pubs pivotal to the social environment. We have a very good micropub in Crayford, the Penny Farthing, which I occasionally go to at lunchtime. My hon. Friend makes an important point. We need these pubs. They are centre stage for our local communities. They do a good social job, and also they are a safe place for people to go to. What the Government are doing is commendable.
+
+James Cartlidge
+We have had strong support from public health groups for the differential duty, because the evidence shows that is healthier to drink in a social environment than privately. That is another significant benefit.
+
+Mr Alistair Carmichael (Orkney and Shetland) (LD)
+rose—
+
+James Cartlidge
+This is a popular area of the debate. I give way.
+
+Mr Carmichael
+I think the Minister has a sound case in relation to what the Government have done on beer duty. What is less clear, however, is why they have chosen to treat spirits so differently. Spirits are also an important part of the on trade. What will the impact be on the spirits trade from the differential that the Minister has now baked into the duty system?
+
+James Cartlidge
+There are spirits that will benefit from the differential—not spirits served from what I think are called optics, but spirits served on tap. There are mixers served on tap that will benefit from a more generous differential duty. On spirits, I am more than happy to set out further detail when I respond to the relevant amendments, because I think they are specifically focused on Scotch whisky, and I understand the concerns there.
+
+I just want to finish my point on our Brexit pubs guarantee. Just to underline what we are doing, we are giving pubs a new permanent competitive advantage. We are levelling the playing field against supermarkets. Following the difficult times that pubs have had with the pandemic and higher energy costs, that hopefully gives them a new narrative for their communities with more positive times to look forward to ahead. That is what we want for our pubs. As my right hon. Friend the Member for Bexleyheath and Crayford (Sir David Evennett) said, they are so important for our communities and our economy. We continue to do everything possible to back the great British pub.
+
+Bob Stewart
+It seems that we will finish early tonight, in which case I am going straight to the Jolly Woodman in my constituency. I hope I will be able to tell it that the price of its beer will come down. Is there any possibility that there can be a differentiation to encourage real ale, speaking as a member of the Campaign for Real Ale?
+
+James Cartlidge
+I hope my right hon. Friend is welcomed with open arms in the Jolly Woodman, having given it fulsome promotion. I might make do with Strangers Bar downstairs. Real ales will benefit from the differential duty, particularly those served on tap. There are lower rates for those with lower alcohol by volume, which will hopefully encourage innovation. I hope that will support our craft brewers, not least with the second relief, which replaces and extends small brewers relief with a small producer relief applying to alcoholic products under 8.5% ABV produced by those making less than 4,500 hectolitres of alcohol per year. That will be precisely those sorts of craft brewers.
+
+Clauses 50 to 53 introduce the new draught relief and clauses 54 to 60 provide for the new small producer relief. Taking each clause in turn quickly—I will canter through them—clause 50 explains that alcohol duty is charged on qualifying draught products at the reduced rates shown in schedule 8. Clause 51 sets out the eligibility criteria for draught relief. Clause 52 defines repackaging for the purposes of draught relief and introduces a penalty for repackaging that is not authorised. Clause 53 provides assessment and penalty consequences for a person repackaging qualifying draught products in a way not allowed under clause 52. Clause 54 provides for discounted rates to be charged on all small producer alcoholic products and explains how the discounted rate is calculated. Clause 55 defines small producer alcoholic products.
+
+Clause 56 introduces the criteria for determining whether premises used to produce alcoholic products are small production premises. Clause 57 explains the alcohol production amount used for the purposes of determining eligibility for the duty discount and calculating the duty discount for small producer alcoholic products. Clause 58 sets out the circumstances, other than not meeting the eligibility conditions, in which alcoholic products are not small producer alcoholic products. I hope hon. Members are all following. Clause 59 and schedule 9 set out how to calculate the duty discount used to determine the discounted rate for small producer alcoholic products, and clause 60 allows the commissioners to assess alcohol duty that is due in circumstances where the small producer rate has not been applied correctly. The remaining clauses concerning alcohol duty will be debated in the Public Bill Committee.
+
+17:00:00
+
+Each of the clauses I have discussed will help us to reform the tax system. On devolved social security benefits, clause 27 will provide the Government with the flexibility to confirm the tax treatment within the tax year, rather than be subject to the UK parliamentary timetable. The alcohol duty clauses replace the existing nonsensical alcohol duty system, initially created by a complex web of EU law, with a more consistent, simplified approach to taxing alcohol according to its strength. This will help to better meet our public health objectives and is in line with this Government’s commitment to tax simplification. We are also introducing two new reliefs to help businesses grow and thrive, not least to support our precious pubs.
+
+Daisy Cooper (St Albans) (LD)
+The Minister has talked about the Government’s ambition to simplify the tax system, but he will be aware that the most adversely affected businesses are the port and sherry traders, which will feel the force of a full £20 million increase, despite fortified wine being only 3% of the total wine trade. They have asked for this process to be simplified further by taxing fortified wine at the midpoint of 17.5% ABV. Is that something the Government might still consider?
+
+James Cartlidge
+It is a fair point from the hon. Lady. I do think this is a significant simplification. We are moving from 15 bands to six. I would love it to be 15 to one, but unfortunately “Fifteen to One” is going to remain the name of a quiz programme. If she looks carefully at the new rates—I am more than happy to share a copy of the bands with her—she will see that it is a significant simplification. It provides many benefits to the wine trade, particularly with our differential duty and the small producers relief.
+
+To conclude, I will be happy to respond to the amendments on Scotch whisky at the end, but in the meantime I commend to the Committee clauses 27, 47, 48 and 50 to 60, and schedules 7 to 9.
+
+The Chairman of Ways and Means (Dame Eleanor Laing)
+I call Alistair Carmichael.
+
+Mr Carmichael
+Thank you, Dame Eleanor. It is perhaps not a novelty to see you back in the Chair, but it is still a great pleasure none the less. I am delighted to serve with you in control.
+
+I rise to speak to amendment 7, which stands in my name and those of my hon. Friends. In doing so, I should indicate at this stage that it is my intention to divide the Committee and establish opinion on it. The effect of amendment 7 would be to freeze the level of duty on the production of spirits. The Minister kept saying these are Scotch whisky amendments. He maybe knows me too well, but I would readily concede that many other spirits will be affected by this, and they are just as important. I think the hon. Member for Aberdeen North (Kirsty Blackman) will speak to her amendments, which do relate specifically to Scotch whisky, but I have had discussions with her, and she tells me that SNP Members are in fact minded to support our amendment, instead of pursuing their own. She will doubtless speak for herself, as she always does, later in the debate.
+
+When we consider that 70% of the gin produced in this country is, in fact, produced in Scotland—my constituency has no fewer than four gin distilleries, and we find that situation replicated across Scotland—the impact of rises in duty are not just going to be felt by areas that produce Scotch whisky. We have also seen a number of distilleries appearing in recent times—a much smaller number, but it is significant none the less—producing rum. So it is important that we have a coherent strategy for the excise duty on these products. The difficulty I have with what I hear from the Treasury Minister is that it is difficult to discern exactly what the Government are trying to achieve in this Budget.
+
+Scotch whisky in particular is very important to the UK as part of our manufacturing base. Indeed, it is an enormously important part of our export portfolio. It is also critical for many of the most economically fragile communities that can be found around the highlands and islands of Scotland. I was born and brought up on Islay, and people will know the importance of the whisky industry, and in recent years the growth of whisky tourism to that economy. In my constituency we have Highland Park and Scapa. Occasionally other interests are declared, but we still have only two producing distilleries. They are very important to our local community, not just in relation to the jobs they provide directly, but because of the spin-offs—the visitor centre, the merchandising, and the visitors that those distilleries bring to the community. Whisky tourism is enormously important, and it is it enormously important that the whisky industry has confidence that the Government are on their side. I am afraid that the signals we have seen from this Government in recent months have been, if I am to be kind to them, mixed at best.
+
+The Chancellor was right to say in December that there would be a freeze on duty. We welcomed that, as I am sure did others. Three months later, to then turn around and whack a duty increase on spirits in the region of something just north of 10%, makes us wonder what the Government are trying to achieve. When I was Secretary of State for Scotland, along with Danny Alexander, who was Chief Secretary to the Treasury, we argued successfully for a 2% duty cut. In 2015, the Red Book of the day said that that would bring with it a reduction in the amount of duty received and revenue brought in, but in point of fact we brought in more revenue with a lower level of duty than had been the case before it was cut.
+
+If we are trying to do something that will bring in more money to the Treasury, surely a duty freeze, at the very least, should be on offer. Indeed, Treasury data illustrates the point well, because a recent history of cuts and duty freezes has actually had a beneficial effect on revenue brought in. For some reason, we now seem determined to introduce a duty increase that will have an inflationary impact, and for some of the most economically fragile communities in the country that will have the effect of stymying growth.
+
+The position laid out by the Minister on sales of beer was exceptionally interesting. He will be aware that spirits account for one third of the serves of alcohol consumed in this country, but less than one fifth of the units consumed. On the other hand, beer has 60% of the units consumed but accounts for less than 50% of the serves. It is clear that the effect of this measure will be inflationary and have a detrimental effect on the economic growth that we are all supposed to be pursuing.
+
+The Chief Medical Officer tells us that we should safely consume 14 units per week—I think I have read this correctly—per week. If we are to consume 14 units of cider, we pay £1.13 in tax. If we consume 14 units of wine, we pay £3.36 in tax. But if we consume 14 units of spirits, we pay £4.06 in tax. To put it another way, Scotch whisky, and spirits as a whole, are taxed 256% higher than cider, and 16% higher than wine.
+
+It was presumably for that reason that the Secretary of State for Scotland is reported in The Scotsman as having argued against it. This was not some source quoted as saying that, but the Secretary of State himself. He said that he was disappointed the Chancellor acted in the way he did. I think we can all very much share the disappointment of the Secretary of State for Scotland. For the avoidance of doubt, I did let him know that I would be referring to him in the course of my speech. Our real disappointment, however, is that, having publicly disagreed with the Government on the matter, I have a strong suspicion that if it is put to a Division he will be in the other Lobby. It is all very well to wring your hands, but if, when the moment comes and the Division bells ring, you are not prepared to do what you know is right for such an important industry in Scotland in so many of our communities, then I feel we are, as politicians, failing in our duty to our constituents and those whom we seek to serve.
+
+We heard a lot from the Minister about the harmonisation of duties, but the House has heard the truth of the matter. The position in relation to on-sales consumption of beer will widen the gap. It simply makes no sense. If the Minister can answer no other question when he comes to respond, can he answer this: what strategy are the Government seeking to deliver by bringing forward a duty increase in excess of 10%? I do not see it. It flies in the face of the Treasury’s own data and contradicts it. It is difficult to understand what the purpose of it is, other than simply an attitude that says, “Well, you’ve had it good for a few years now, so we’re going to treat you differently and it’s time for you to take some of the pain.” An industry as important as the production of spirits deserves rather better consideration from the Treasury.
+
+Jamie Stone (Caithness, Sutherland and Easter Ross) (LD)
+I rise in support of my right hon. Friend the Member for Orkney and Shetland (Mr Carmichael), who speaks for my constituents as much as he does his own.
+
+I want to make two simple points. First, the distilleries in my constituency—I could name them all, but I have done that before in this place—are part and parcel of each community in which they are based, and they are important to the people in those communities. They see them as their own. As my right hon. Friend said, the jobs they provide in some of the most sparsely populated and economically fragile parts of Scotland are absolutely crucial. Inver House, a company that owns two distilleries in my constituency, Balblair in Edderton and Old Pulteney in Wick, sponsors the Wick Gala each year. As something that epitomises the culture of Caithness, I would honestly recommend that all right hon. and hon. Members come to Wick and see the Wick Gala—it is something they will not forget. That company is a part of it and makes it happen, which is incredibly important. In my own home town of Tain, Glenmorangie, now owned by the French company Louis Vuitton, has for a number of years pretty well paid for the Tain highland games. Again, I say to Members: come see them and enjoy. So the distilleries are a part of the community and what they do is crucial for the community. It is about rural jobs in sparse areas.
+
+The second point I want to make to those on the Treasury Bench is about levelling up. Those are not the words I would have chosen, but it is a good concept to take parts of the UK that have lost out in the race and bring them up—giving them a leg up—to be equal to the richer parts of the UK. By definition, the areas where there are distilleries are very often some of the more hard-up parts of the Scottish highlands and of Scotland. If Government Members want to go about levelling up, they need to get into the parts of Britain that need help.
+
+Mr Carmichael
+As my hon. Friend says, these are often some of the more hard-up areas of the country, but the truth of the matter is that down the years they have contributed enormously to the GDP of this country and they have the potential to do more. We are not looking for any special treatment. We are not looking for any favours or handouts. All we are looking for is a fair crack of the whip.
+
+Jamie Stone
+That is an extremely valuable point. I would bolt on to it that we have new distilleries starting up. In John O’Groats, there is a brand new one called 8 Doors. These enterprising local Caithness people have done it off their own bat. To get tourists to go to John O’Groats, we have 8 Doors, which has done it along the coast of Caithness. We have Wolfstone—I think I have that right.
+
+Mr Carmichael
+Wolfburn.
+
+17:15:00
+
+Jamie Stone
+You’re dead right—I stand corrected by my right hon. Friend. Tourists love it and it contributes a huge amount to the Exchequer. It matters passionately to my constituents and to me. If I do nothing else for my constituency, I will try to boost the economy in every way I can because every job counts. I rest my comments with that.
+
+Kirsty Blackman
+I fear that, if I was to talk about the names of all the distilleries in my constituency, the debate would be much shorter than if the hon. Member for Caithness, Sutherland and Easter Ross (Jamie Stone) were to do so. In fact, I have much more of a tendency to drink gin than whisky, although other spirits are available.
+
+It was interesting to hear the words “economically fragile”. That is an incredibly good point. Rural depopulation is a real issue. The Scottish Government are doing what we can to ensure that it does not continue, but if the UK Government keep working against what we are doing to encourage people to live and stay in our rural communities, we will have a real problem. That is not a small thing.
+
+We tabled our amendments because we specifically wanted the word “whisky” on the Order Paper and we wanted to make the case in relation to whisky. However, I will not be pushing our amendments to a vote, and will support that of the right hon. Member for Orkney and Shetland (Mr Carmichael) because I concede that his is better. I am always happy to do that in such situations.
+
+The reality is that Scotch whisky is 4.9% of the Scottish economy. Some £8.1 billion can be attributed to the sale of alcohol, around 60% of which comes from whisky exports. The numbers stated by the right hon. Member about how the differential rates work and how much people are taxed on those 14 units were incredibly interesting. The Government’s purpose is to make money from some of the alcohol measures, but there is also a population behaviour change intention behind what they do with tax on spirits and alcohol, particularly the allowance on draught beer. They have different taxes to encourage a change of behaviour, or differential behaviour in people. The Government may intend to use this tax to shift some of the population, but they are actually discouraging people from buying the very spirits that a huge amount of our livelihoods relies on. It is the case that 90% of spirits in the UK are produced in Scotland. The Government’s measures therefore have a massive negative impact on Scotland.
+
+The average price of a bottle of Scotch whisky is £15.22 at a supermarket in Scotland. Following the new alcohol duty plus the VAT, £11.40 of that £15.22 will go to the Treasury. That is such a significant amount, and does not compare with other alcohol. I appreciate what the Government are trying to do on draught, and it is important that they have laid out their rationale for doing so—that was very helpful—but this is incredibly unfair and risks damaging those economically fragile areas, particularly in rural Scotland. Those areas have already suffered as a result of Brexit, with people’s reduced ability to freely move here.
+
+I want to raise a small flag with the Minister in relation to the Public Bill Committee. When we come to that stage, I will be raising questions around clause 87, which is on post-duty point dilution of alcoholic products. I know there have already been problems in relation to that, so when we come to that stage of the Committee, I would appreciate Ministers being absolutely clear about their reasons for the changes in clause 87. If they are able to lay out those reasons clearly, that will reduce the number of questions I am likely to ask.
+
+In summary, we support the amendment proposed by Liberal Democrat Members. We agree with the Scotch Whisky Association and think that the increase in duty is unfair and hits spirits, particularly Scotch whisky, unfairly. We want to stand up for our constituents, our constituencies, rural Scotland and Scotland as a whole in supporting the amendment.
+
+Abena Oppong-Asare
+I rise to speak, on behalf of the Opposition, to the clauses that are related to the tax treatment of devolved social security benefits and the new alcohol duty regime.
+
+I will address clause 27 briefly. Clause 27 introduces a new power to enable the tax treatment of new or new top-up welfare payments, introduced by devolved Administrations, to be confirmed as social security income through secondary legislation. That will allow the UK Government to confirm the tax treatment of new or new top-up payments within the new tax year rather than be subject to the UK parliamentary timetable.
+
+I note that the income tax treatment of social security benefit is currently legislated for in part 10 of the Income Tax (Earnings and Pensions) Act 2003, and that this clause will introduce a new power to add new benefits to the table of taxable benefits included in the Act. I can see that the clause is largely administrative. Therefore, the Opposition do not take issue with the clause and will support it.
+
+I will now move on to the clauses concerning the new alcohol duty regime. The Bill contains 77 clauses establishing a new structure for alcohol duty, but we will discuss just some of those today, before moving to consider the remainder in Public Bill Committee.
+
+Labour agreed with the principles behind the alcohol duty review. We want to see the alcohol duty system made simpler and more consistent. We recognise that there is a balance to be struck between supporting businesses and consumers, protecting public health, and maintaining a source of revenue for the Exchequer. We have consistently raised concerns about the Government’s rushed and confused messaging on this area.
+
+Before I come to the clauses and schedules, I want to paint a brief picture of the context behind the changes. Back in October 2020, the Government announced a call for evidence, seeking views on how the alcohol duty system could be reformed. At the time, they said this would make the system
+
+“simpler, more economically rational and less administratively burdensome on businesses and HMRC.”
+
+However, what we have seen since then is indecision, U-turns and delays.
+
+Businesses and consumers had to wait until September 2022 for the Government’s response to the alcohol duty consultation. What ensued was chaos. In the shambolic mini-Budget that crushed the British economy, the then Chancellor announced a freeze on alcohol duty that was due to come into force in February 2023, but then the new Chancellor scrapped the freeze in October’s autumn statement. Fast forward to December, and I was back standing at the Dispatch Box responding to another Government’s U-turn, that time deciding that the freeze was back in place until August 2023.
+
+The Government have now confirmed that the freeze will end in August and a new system of alcohol duty will be put in place. Alcohol duty rates will be adjusted in line with inflation and moved to a system that links duty rates to alcohol by volume. Clause 47 sets out the new regime, while clause 48 and schedule 7 specify the new adjusted rates of alcohol duty for different drinks. I note that some sectors are concerned about these changes—particularly wine producers and Scottish whisky producers, as the right hon. Member for Orkney and Shetland (Mr Carmichael) highlighted.
+
+The reason the Tories have hit people and businesses with stealth taxes is that they have failed to get the growth that our country needs and have failed to get a grip on inflation. That is what makes the boasts of halving inflation so hollow. Prices are already soaring, hitting industries with steep tax rises.
+
+Mark Jenkinson
+Can the hon. Lady set out in detail the Opposition’s plans for alcohol duty and how they might differ from the Government’s plans?
+
+Abena Oppong-Asare
+As I mentioned, we have consistently raised concerns about the Government’s U-turns on the issue. We have scrutinised them and put forward recommendations, which the hon. Member will hear us talk about in further detail in the Public Bill Committee.
+
+It is important that today the Minister lays out what measures the Government will take to support the sectors most affected by the duty changes, as well as what consideration the Treasury has given to the potentially inflationary impact of the increases. The explanatory notes to the Bill state:
+
+“The commencement of changes to approvals will be announced at a later date.”
+
+Perhaps the Minister could give some certainty to businesses by fleshing out some further detail today.
+
+Clause 50 and schedule 8 set out measures for a new draught relief that will provide a reduced rate of duty on qualifying draught products. Clause 51 sets out the requirement that qualifying draught products be under 8.5% ABV and be packaged in containers that hold at least 20 litres and are designed to connect to a dispensing system. Clause 52 sets out the rules on the repackaging of qualifying draught products. Decanting from 20-litre containers into smaller containers will be prohibited unless the products are to be consumed on the premises at which decanting takes place.
+
+Labour supports these measures, which will support and protect the hospitality sector, but our analysis has found that more than 70,000 venues have had to reduce their opening hours because of energy bills. I have seen that in my constituency. These are businesses that enrich our communities and boost our high streets, but they are being let down by the Government and many of these changes will come far too late.
+
+I note that the draught relief has been designed in a way that will exclude the wine sector. Can the Minister explain why? Will he let us know whether the Government will introduce any other measures to support British wine and spirit producers?
+
+Clause 54 lays out measures to replace the small brewers relief with a small producer relief. Clause 55 specifies that eligible producers will be those whose products have an alcoholic strength of less than 8.5% ABV and who produce less than 4,500 hectolitres of alcohol per year. The remaining clauses and schedules lay out precise measures for calculating rates of relief.
+
+Labour introduced the small brewers relief in 2002 and is proud of the effect that it has had by supporting small brewers and creating a vibrant UK beer scene. We therefore support the extension of relief to other producers, but I note that that may not occur under the new scheme, as British wine and spirit producers are largely excluded from these measures. Perhaps the Minister could lay out why the scheme has not been further extended.
+
+In conclusion, Labour recognises the need to simplify the alcohol duty regime while striking a balance between supporting businesses and consumers, protecting public health and maintaining a source of revenue for the Exchequer.
+
+Mr Carmichael
+May I take up the point about small producers? Deerness distillery, in my constituency, is a family-owned business that is seeking to move into whisky production. Surely, as a small producer in a market dominated by big corporates, it should be given the same opportunity to grow as a brewer. Why, in principle, should there be any difference in their treatment?
+
+Abena Oppong-Asare
+We, too, are concerned about that, and I have met various stakeholders in the sector who have highlighted their concerns. I hope that the Minister will take the issue on board in his response.
+
+We do not oppose the clauses and schedules, but we want answers to the questions that have been raised, and, most important, we want certainty for the businesses and consumers who have suffered over the past few months and years as a result of the constant chopping and changing that the country has seen from various Conservative Governments.
+
+17:30:00
+
+James Cartlidge
+Before I turn to the very good speeches that we have heard during the current debate, let me clarify a point relating to our earlier debate on the electricity generator levy. I mistakenly said that “private wire” was included in the levy, when of course I meant to say that it was excluded.
+
+Let me begin by saying that I welcome the support expressed by the hon. Member for Erith and Thamesmead (Abena Oppong-Asare) for the clause relating to devolved welfare payments. As for alcohol duty, the right hon. Member for Orkney and Shetland (Mr Carmichael) may not recall the debate that he initiated in Westminster Hall in October 2017, when I was a mere Back Bencher, but I was the first Member to intervene on his speech. All the others were Scottish. I intervened because a leading company in my constituency produces the bottle tops for the whisky trade. That, along with the East Anglian grain that is sent up to Scotland from time to time to help support the sector, underlines the fact that this is a UK industry, and a UK export. We are all proud of Scotch whisky and the role that it plays in our economy. However, I must say this to the right hon. Gentleman, and also to the hon. Member for Caithness, Sutherland and Easter Ross (Jamie Stone), who spoke with his usual eloquence and conjured up wonderful images. I understand the importance of the Scotch whisky sector, and we have supported it—in nine of the last 10 Budgets, we have either frozen or cut the tax—but the key point is that not introducing the RPI-linked increase would have a significant cost.
+
+Mr Carmichael
+The Minister is making our case himself, so presumably he will be joining us in the Lobby—as, indeed, the Secretary of State for Scotland should be doing—or else accepting my amendment.
+
+James Cartlidge
+I had never thought of the right hon. Gentleman as a cheeky chappie, but for that brief moment, he almost was. Let me now address his amendment 7. The Scottish National party Members have, very nobly, effectively withdrawn their amendments to ride on the back of it, which is perfectly fair: they seek, ultimately, to arrive at roughly the same point, which could be described as the protection of spirits, and Scotch whisky in particular, from the RPI-linked increase.
+
+The proposal in amendment 7 would cost an amount between £1.7 billion and £2 billion. An overall RPI freeze would cost £5 billion across the scorecard. We have, of course, supported freezes in the past, and it was I who announced the freeze back in December. Members may recall the reason for that freeze: in view of the August reform, we did not want the sector to go through two separate alcohol tax increases. We supported the industry, but it is expensive, and with the public finances as they are, we feel that the responsible option is to introduce the RPI-linked increase—which, after all, is not a real-terms increase—but, nevertheless, to bring in the differential duty to support our pubs.
+
+Mr Carmichael
+rose—
+
+James Cartlidge
+I will give way to the right hon. Gentleman, for the last time.
+
+Mr Carmichael
+The Minister needs to look at the actual data relating to the revenue brought in over these years of cuts and freezes, because the story that it tells is very different from the forecasts on which he relies. He should remember that in 2015 the forecast was for a 2% reduction, but in fact there was a 4% increase. When will the Government become a bit more realistic about the effect of their own policies in this area?
+
+James Cartlidge
+I have to disagree with the right hon. Gentleman’s use of the word “realistic”. I have met representatives of the Scotch Whisky Association, whom I greatly respect, and they have said to me that if we freeze the tax we get the revenue. Unfortunately, however, the Government have what I believe is the very important and successful policy of using an independent body, the Office for Budget Responsibility, which makes forecasts independently for Governments on the effects of fiscal measures. [Interruption.] I hear voices behind me saying that they are wrong. The point is that the OBR is not a collection of soothsayers employed to predict, entirely accurately, exactly what will happen in the future. With the greatest respect to everyone, if that was the case, I suspect they would spend rather more of their time looking at accountancy of the turf-related kind rather than trying to forecast the national accounts. The point is that this enables us to ground fiscal events in a forecast of where we are at that time and the fiscal costs at the time, therefore adding credibility to the decisions we make and avoiding the easy situation where we do not have to make the difficult trade-offs that households and businesses know that, in reality, we have to face. If we want to cut one tax, we have to find the money from somewhere else. It is a good discipline.
+
+Jamie Stone
+Will the Minister give way?
+
+James Cartlidge
+I will take this very last soupçon: a final intervention from the hon. Gentleman.
+
+Jamie Stone
+The Minister is nothing if not courteous, but does he not accept that he would increase the revenue base by increasing industry and economic activity? What message does this send to—let me get the names right—Wolfburn in Dunnet or 8 Doors in John O’Groats? These are new distilleries, just starting out. From little acorns, mighty oaks can grow, and those mighty oaks can give the Government lots of acorns in tax revenue.
+
+James Cartlidge
+The hon. Gentleman is always courteous, and I send the message to him that for every single business, charity and household in the country, one thing that trumps all is wanting the Government to run the public finances in a stable way so that businesses can have confidence that the investments they make will be in a growing and stable economy. I totally understand where he is coming from, but he has not persuaded me that he has a way to find those billions of pounds. I hope that I have nevertheless offered the assurance needed for hon. Members to retract their proposed amendments, and that clauses 27, 47 to 48 and 50 to 60 will stand part of the Bill as we end our theme of alcohol for the evening.
+
+Question put and agreed to.
+
+Clause 27 accordingly ordered to stand part of the Bill.
+
+Clauses 47 and 48 ordered to stand part of the Bill.
+
+Amendment proposed: 7, in schedule 7, page 334, line 18, leave out “£31.64” and insert “£28.74”—(Mr. Carmichael.)
+
+Question put, That the amendment be made.
+
+Division 215
+19/04/2023 17:37:00
+divided:
+Ayes: 54
+Noes: 290
+Question accordingly negatived.
+
+Schedule 7 agreed to.
+
+Clause 50 ordered to stand part of the Bill.
+
+Schedule 8 agreed to.
+
+Clauses 51 to 54 ordered to stand part of the Bill.
+
+Schedule 9 agreed to.
+
+Clauses 55 to 60 ordered to stand part of the Bill.
+
+The Deputy Speaker resumed the Chair.
+
+Bill (Clauses 5 to 15, 18 to 25, 27, 47, 48, 50 to 60 and 121 to 312, and schedules 1, 7 to 9 and 14 to 18), as amended, reported, and ordered to lie on the Table.
+

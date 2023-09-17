@@ -1,0 +1,946 @@
+Finance (No. 2) Bill
+
+[1st Allocated Day]
+
+Corporation tax charges and rates (Clauses 5 and 6); capital allowances (Clauses 7 to 9); other reliefs relating to businesses (Clause 10 and Schedule 1; Clauses 11 to 15); multinational top-up tax (Clauses 121 to 125 and Schedule 14; Clauses 126 and 127 and Schedule 15; Clauses 128 to 260 and Schedule 16; Clause 261 and Schedule 17; Clauses 262 to 264); domestic top-up tax (Clauses 265 to 275 and Schedule 18; Clauses 276 and 277); any new Clauses or new Schedules relating to the subject matter of those Clauses and those Schedules
+
+Considered in Committee
+
+[Dame Rosie Winterton in the Chair]
+
+The First Deputy Chairman of Ways and Means (Dame Rosie Winterton)
+I remind Members that in Committee, Members should not address the Chair as “Deputy Speaker”. Please use our names when addressing the Chair. “Madam Chair”, “Chair”, “Madam Chairman” and “Mr Chairman” are also acceptable.
+
+Clause 5
+
+Charge and main rate for financial year 2024
+
+Question proposed, That the clause stand part of the Bill.
+
+The First Deputy Chairman
+With this it will be convenient to consider the following:
+
+Clauses 6 to 10 stand part.
+
+Amendment 26, in schedule 1, page 280, line 32, leave out
+
+“a requirement relating to the making of the claim”
+
+and insert
+
+“the requirement to make a claim notification pursuant to either section 104AA, section 1045A or 1054A of CTA 2009 (as appropriate) or failed to provide the additional information as required by paragraph 83EA”.
+
+This amendment would make clear that the power to remove a claim for R&amp;D relief from a corporation tax return is only available to HMRC where a company has failed to make a claim notification (required pursuant to Part 1 of this Schedule) or to submit the additional information (required pursuant to paragraph 13 of this Schedule).
+
+Government amendment 14.
+
+That schedule 1 be the First schedule to the Bill.
+
+Clauses 11 to 15 stand part.
+
+Clauses 121 to 125 stand part.
+
+That schedule 14 be the Fourteenth schedule to the Bill.
+
+Clauses 126 and 127 stand part.
+
+That schedule 15 be the Fifteenth schedule to the Bill.
+
+Clauses 128 to 173 stand part.
+
+Government amendment 12.
+
+Clauses 174 to 222 stand part.
+
+Government amendment 13.
+
+Clauses 223 to 260 stand part.
+
+Government amendments 15 to 20.
+
+That schedule 16 be the Sixteenth schedule to the Bill.
+
+Clause 261 stand part.
+
+That schedule 17 be the Seventeenth schedule to the Bill.
+
+Clauses 262 to 275 stand part.
+
+That schedule 18 be the Eighteenth schedule to the Bill.
+
+Clauses 276 and 277 stand part.
+
+New clause 1—Statement on efforts to support implementation of the Pillar 2 model rules—
+
+‘(1) The Chancellor of the Exchequer must, within three months of this Act being passed, make a statement to the House of Commons on how actions taken by the UK Government since October 2021 in relation to the implementation of the Pillar 2 model rules relate to the provisions of Part 3 of this Act.
+
+(2) The Chancellor of the Exchequer must provide updates to the statement at intervals after that statement has been made of—
+
+(a) three months;
+
+(b) six months; and
+
+(c) nine months.
+
+(3) The statement, and the updates to it, must include—
+
+(a) details of efforts by the UK Government to encourage more countries to implement the Pillar 2 rules; and
+
+(b) details of any discussions the UK Government has had with other countries about making the rules more effective.’
+
+This new clause would require the Chancellor to report every three months for a year on the UK Government’s progress in working with other countries to extend and strengthen the global minimum corporate tax framework for large multinationals.
+
+New clause 3—Review of business taxes—
+
+‘(1) The Chancellor of the Exchequer must, within six months of this Act being passed—
+
+(a) conduct a review of the business taxes, and
+
+(b) lay before the House of Commons a report setting out recommendations arising from the review.
+
+(2) The review must make recommendations on how to—
+
+(a) use business taxes to encourage and increase the investment of profits and revenue;
+
+(b) ensure businesses have more certainty about the taxes to which they are subject; and
+
+(c) ensure that the system of capital allowances operates effectively to incentivise investment, including for small businesses.
+
+(3) In this section, “the business taxes” includes any tax in respect of which this Act makes provision that is paid by a business, including in particular provisions made under sections 5 to 15 of this Act.’
+
+This new clause would require the Chancellor to conduct a review of business taxes, and to make recommendations on how to increase certainty and investment, before the next Finance Bill is published.
+
+New clause 6—Review of energy (oil and gas) profits levy allowances—
+
+‘(1) The Chancellor of the Exchequer must, within three months of the passing of this Act—
+
+(a) conduct a review of section 2(3) of the Energy (Oil and Gas) Profits Levy Act 2022, as introduced by subsection 12(2) of this Act, and
+
+(b) lay before the House of Commons a report arising from the review.
+
+(2) The review must include consideration of the implications for the public finances of the provisions in section 2(3)—
+
+(a) were all the provisions in section (2)(3) to apply, and
+
+(b) were the provisions in section 2(3)(b) not to apply.’
+
+This new clause requires the Chancellor to review the investment allowances introduced as part of the energy profits levy, and to set out what would happen if the allowance for all expenditure, apart from that spent on de-carbonisation, were removed.
+
+New clause 7—Review of effects of Act on SME R&amp;D tax credit—
+
+‘(1) The Chancellor of the Exchequer must lay before Parliament within six months of the passing of this Act a review of the impact of the measures contained in this Act on the rate of inflation and on small businesses.
+
+(2) The review must compare the regime for SME R&amp;D tax credits and associated reliefs before and after 1 April 2023, with regard to the following—
+
+(a) the viability and competitiveness of UK technology startup and scale-up businesses,
+
+(b) the number of jobs created and lost in the UK technology sector, and
+
+(c) long-term UK economic growth.
+
+(3) In this section, “technology startup” means a business trading for no more than three years; with an average headcount of staff of less than 50 during that three-year period; and which spends at least 15% of its costs on research and development activities.
+
+(4) In this section, “technology scale-up” means a business that has achieved growth of 20% or more in either employment or turnover year on year for at least two years and has a minimum employee count of 10 at the start of the observation period; and spends at least 15% of its costs on research and development activities.’
+
+This new clause would require the Government to produce an impact assessment of the effect of changes to SME R&amp;D tax credits in this act on tech start-ups and scale-ups.
+
+New clause 8—Relief for R&amp;D expenditure on data and cloud computing: assessment—
+
+‘Within six months of this Act coming into force, the Chancellor of the Exchequer must publish an assessment of—
+
+(a) the overall costs,
+
+(b) the overall benefits, and
+
+(c) the net cost or benefit
+
+of extending relief of R&amp;D expenditure to profit-making cloud computing services.’
+
+New clause 10—Assessment of the impact of the de-carbonisation allowance—
+
+‘(1) The Chancellor of the Exchequer must, within six months of this Act coming into force, publish an assessment of—
+
+(a) the financial cost of the de-carbonisation allowance to the Treasury,
+
+(b) the impact of the de-carbonisation allowance on overall investment in UK upstream petroleum production, and
+
+(c) the revenue that the energy (oil and gas) profits levy would yield if neither the de-carbonisation allowance nor the investment allowance had effect in respect of investment expenditure.
+
+(2) The assessment must cover the whole period that the allowance is in effect and also assess the revenue in each tax year.
+
+(3) The assessment must include an evaluation of the impact of the de-carbonisation allowance and the investment allowance on the United Kingdom’s ability to meet its climate commitments, including—
+
+(a) the target for 2050 set out in section 1 of the Climate Change Act 2008,
+
+(b) the duty under section 4 of the Climate Change Act 2008 to ensure that the net UK carbon account for a budgetary period does not exceed the carbon budget, and
+
+(c) the commitment given by the government of the United Kingdom in the Glasgow Climate Pact to pursue policies to limit global warming to 1.5 degrees Celsius and phase out inefficient fossil fuel subsidies.’
+
+This new clause would require the Government to produce an impact assessment of the de-carbonisation and investment allowances under the Energy Profits Levy, including on tax revenues and the UK’s ability to meet its climate targets.
+
+14:08:00
+
+The Financial Secretary to the Treasury (Victoria Atkins)
+It is a pleasure to serve under your chairmanship, Dame Rosie.
+
+Before I start, I would like to pay tribute to a previous Financial Secretary to Treasury, namely the right hon. Lord Lawson of Blaby, who sadly passed away while the House was in recess. After the Conservative party’s historic election win in 1979, he took office as the FST, calling inflation “a disease of money”. To this day, we on the Government Benches recognise that, which is why the Prime Minister is determined to halve inflation as one of his five promises to the public.
+
+Margaret Thatcher recognised Lord Lawson’s talents, his incisive intellect and his single-minded determination to reshape the UK economy, and in due course she appointed him as her Chancellor. He went on to deliver six Budgets, drinking, I am told, a spritzer as he did so, and he set the framework for today’s tax system. He was an intellectual and political giant, and we pay tribute to him in this place.
+
+The measures before the Committee today relate to the Bill’s clauses on corporation tax, investment incentives and the global minimum tax on large multinational businesses. The changes that they make will support business investment and innovation in the UK, while contributing to fiscal sustainability and protecting our tax base against harmful tax planning.
+
+Clause 5 legislates for the right to charge corporation tax and maintain the rate at 25% for the 2024 financial year, in line with the 2021 spring Budget announcement. As hon. Members will know, we legislated in the Finance Act 2021 to increase the main rate of corporation tax to 25% from this month, April 2023. We typically legislate a year in advance to provide certainty to large companies that pay corporation tax in advance on the basis of their estimated tax liabilities. The rate increase, which took effect from this year and which the Bill will maintain for the 2024 financial year, is forecast to raise more than £85 billion in the next five years. It will make a vital contribution to ensuring that our debt continues to fall, as part of the Prime Minister’s five pledges, while allowing us to continue to invest in our much-cherished public services.
+
+Kit Malthouse (North West Hampshire) (Con)
+I draw attention to my entry in the Register of Members’ Financial Interests. As the Minister says, the Government are legislating in advance of next year. Can she reassure the Committee that as we approach next year, the Government will review not just the headline rate—a juicy and necessary source of income for the Treasury—but the thresholds? The media are full of the fact that at over £250,000 profit, people will be paying the higher rate, but there is also a transitional zone between £50,000 and £250,000 profits, which is exactly the ellipse of small company growth where companies need that money to invest for more growth. If there is a detrimental impact within that transitional zone, will the Minister undertake to review it in advance of next year? Will she perhaps think about shifting the thresholds upwards so that we do not constrain the growth that we so need in the economy?
+
+Victoria Atkins
+I acknowledge my right hon. Friend’s experience, not only at the Dispatch Box but, importantly, in the world of accountancy and business. I reassure him that the Treasury keeps all taxes under review. He is right to draw attention to clause 6, which maintains the small profits rate because, precisely as he says, we want to encourage small businesses that are in the first flourishes of profit and help them to build.
+
+There are two measures that I hope will reassure my right hon. Friend. First, the small profits rate means that 70% of businesses will see no increase at all in their corporation tax charges. Because of the threshold that he describes, a further 20% will fall into that spectrum, so only 10% of businesses will face the full 25% rate. If they invest in their businesses and in plant and productivity, as we very much want and encourage them to, they will—depending on their returns—be eligible either for the full expensing capital allowance that the Chancellor announced alongside this measure at the spring Budget or for the annual investment allowance. This Budget was very much about encouraging growth and encouraging the small businesses on which my right hon. Friend the Member for North West Hampshire (Kit Malthouse) so rightly focuses, but we are doing so as part of a responsible fiscal approach and making sure that those with the broadest shoulders bear the greatest burden of tax.
+
+Jim Shannon (Strangford) (DUP)
+I thank the Minister for outlining the provisions on corporation tax. Obviously corporation tax will be the same everywhere, but in the light of the peculiar circumstances in Northern Ireland—the region is much more under pressure when it comes to jobs—can she reassure me and my constituents back home that small businesses in Northern Ireland will feel the benefits of what she is putting forward?
+
+14:15:00
+
+Victoria Atkins
+Very much so. I am conscious that the hon. Gentleman’s constituency and his corner of the United Kingdom are marking the very important anniversary of the Good Friday agreement; we wish everyone who is marking that occasion the very best for the future. I know that there are points of contention with his party, but one reason why we are so very committed to the Windsor framework is that we want to ensure that issues that have arisen through the Northern Ireland protocol are resolved with the EU to enable the economic flourishing that he rightly describes.
+
+I can reassure the hon. Gentleman and my right hon. Friend the Member for North West Hampshire that even with the increase to 25%, we will still have the lowest rate of corporation tax in the G7. What is more, it will be lower than at any point before 2010. I very much hope that the Committee understands why we are taking this approach: because we have to take a fiscally responsible approach to our public finances, but we want to do so while encouraging growth and international competitiveness.
+
+Clause 6 will maintain the small profits rate, as I hope I explained in answer to my right hon. Friend’s intervention. Clause 11 will update the patent box legislation to reflect the introduction of the small profits rate. The patent box incentivises the retention and commercialisation of intellectual property, allowing UK companies to elect to pay a lower rate based on their earnings from patents or similarly robust IP. This is part of our drive to encourage innovation and growth in our economy.
+
+We are not stopping there. A competitive corporate tax system that supports growth, investment and innovation is about so much more than just the headline corporation tax rate; the availability and generosity of reliefs also matter. Clause 7 will therefore introduce new first year capital allowances, including a 100% first year allowance for qualifying new main rate plant and machinery investments, known as full expensing. It will also introduce a 50% first year allowance for new special rate expenditure such as long-life assets. Full expensing offers a substantial financial incentive for companies to increase their investment, improving their cash flow by lowering their corporation tax bill in the year of investment.
+
+These changes will provide a £27 billion tax cut for companies over three years. They will help to boost business investment by ensuring that the UK’s capital allowances regime is among the world’s most competitive: joint first by OECD net present value. The independent Office for Budget Responsibility estimates that full expensing will increase business investment by 3% for each year that it is in place. What is more, the Chancellor has set out his intention to make the measure permanent when fiscal conditions allow.
+
+Clause 8 will set the maximum amount of the annual investment allowance at £1,000,000 indefinitely, providing certainty to the more than 99% of businesses that invest up to that amount.
+
+Clause 9 will make changes to extend the generous 100% first year allowance for electric vehicle charging equipment. This will continue to encourage businesses to invest in the roll-out of charging equipment, which will be a key enabler of the transition to zero-emission vehicles.
+
+Clause 10 and schedule 1 set out changes that will modernise research and development tax reliefs in order to better incentivise R&amp;D methods that rely on vast quantities of data which are analysed and processed via the cloud. These changes will also help reduce error and fraud, requiring claims to include more information—including the name of any agent involved—and to be provided digitally. The Government have tabled amendment 14, which is a technical fix to ensure that companies claiming small and medium-sized enterprise credits will be able to benefit from the change in the going concern rules.
+
+Clause 12 will introduce a new rate of investment allowance in the energy profits levy, set at 80%, for qualifying expenditure on decarbonising upstream oil and gas production. This builds on the existing 29% investment allowance which is designed to encourage the sector to reinvest its profits to support the economy, jobs, and the UK’s energy security. It supports key commitments in the North sea transition deal and the Government’s aims for net zero by 2050. Clauses 13 and 14 will extend the duration of the reliefs available to our important cultural sectors, including orchestras, theatres, museums and galleries, to meet ongoing pressures and to boost investment in those wonderful and important cultural bodies.
+
+The final clause relating to investment incentives is clause 15. As well as making other improvements, it increases the amount of seed enterprise investment scheme funding that companies can raise over their lifetimes from £150,000 to £250,000. This will boost start-ups and young companies by widening access to the SEIS and increasing the funding limits, and we estimate that it will help more than 2,000 very early-stage companies a year to gain access to finance.
+
+Kit Malthouse
+Let me again draw attention to my entry in the Register of Members’ Financial Interests.
+
+The SEIS changes are welcome, but, as I am sure the Minister knows, the amount of initial finance raised under the SEIS and, indeed, the enterprise investment scheme has been declining in recent years. That may be a reflection of the wider economic environment, but it nevertheless means that fewer businesses are being started under that scheme. Will the Minister and her Treasury colleagues give some consideration over the next few years to the sheer complexity that is involved in making what is a relatively small investment through the SEIS? The scheme deals with quite small amounts of capital—£25,000 or so—but an accountant and a lawyer are needed, as is pre-authorisation from His Majesty’s Revenue and Customs. An enormous amount of compliance is required even before a company makes its first investment, and a fair amount of the investment that is being made can be absorbed in compliance costs. Complexity is therefore as much of a deterrent as the limits on the scheme, which may be why it is not being taken up with the enthusiasm that I am sure the Minister would like to see.
+
+Victoria Atkins
+I genuinely thank my right hon. Friend for that intervention. I am trying to ensure that, not just in the context of this fiscal event but in our work across the Treasury, we focus on the pressure points involved in developing a business—setting it up, employing the first member of staff, and all the other major milestones that constitute a critical part of the journey towards growing a business. Obviously there has to be paperwork, but we want to ensure that it does not get in the way.
+
+I will take away some of the ideas that my right hon. Friend has advanced, but let me also say that I very much understand his concerns. One of the main challenges that I issue to the Treasury during every one of our policy discussions is “Does this proposal make tax fairer, does it make it simpler, and does it support growth?” Those are the three objectives that I will be endeavouring to meet in all my work as Financial Secretary to the Treasury.
+
+Let me now turn to the measures in clauses 121 to 277 and schedules 14 to 18, which constitute a large proportion of the Bill. I know that, rightly, they are meeting the sort of scrutiny that we expect of parliamentary colleagues, because they relate to a very significant international agreement. In 2021, my right hon. Friend the Prime Minister brokered an international deal as part of our G7 presidency to tackle profit shifting by large multinational groups and to level the playing field between countries for tax competition. That will ensure that countries are better able to tax the profits that multinational groups generate from trading in their jurisdictions. More than 135 countries have now signed up to the deal, including all members of the G7.
+
+These changes mean that, regardless of where a multinational group operates, it pays tax of at least 15% on its revenues, or profits. This will protect the UK from multinational tax planning by removing the incentives to shift profits out of the UK for tax purposes, and will help to ensure that profits generated in the UK are taxed in the UK. It will also strengthen the UK’s international competitiveness by raising the floor on the low—or no—tax rates that have been available in some countries, while ensuring that groups are not exposed to top-up taxation in the UK as a result of the UK’s world-leading R&amp;D credit and full expensing regimes. Finally, it will ensure that the top-up tax due from UK groups under pillar two is collected in the UK rather than being collected by other countries, which could be the case if we did not implement these arrangements by 31 December.
+
+Vicky Ford (Chelmsford) (Con)
+As my hon. Friend says, this is a large and significant part of the Bill. It is of course important for multinational companies to pay their fair share of tax, but for too long too many have not done so, and it is good news that action is being taken in that regard. If it is to work, however, we must ensure that other countries not only sign up to the rules but implement them. I am thinking in particular of the possible impact on sectors such as insurance. My constituency contains a great many insurance companies, and many of my constituents work in the sector. It is a global industry, in which we happen to be the world leader.
+
+We need to ensure that other countries implement these rules, as they have promised to do, and do not end up trying to avoid doing so, thus undermining our own competitiveness and potentially forcing businesses that have been paying tax in the UK to go overseas. May I therefore urge my hon. Friend and her excellent team at the Treasury to focus, laser-like, on ensuring that all countries do implement the rules, as they have promised? We have seen, time and again, many EU countries signing up to rules and then not implementing them in accordance with the timescales. Will my hon. Friend also ensure that if other countries try to retaliate against our measures—through sanctions, for example—we will not just rely on the undertaxed profits rule to ensure that we can obtain taxes from them, but will have a plan B up our own sleeve to ensure that our industries and our competitiveness are not threatened?
+
+Victoria Atkins
+My right hon. Friend has been very good at representing the interests of her constituents. I certainly acknowledge the significant rule that the insurance sector plays in her constituency, and, indeed, the role that her constituents play in that industry. I want to develop my argument a little, but I hope I will be able to reassure her on the points that she has raised—and I will come to the point about implementation, because I think it is important.
+
+Let me try to help Members navigate this rather large piece of legislation. Part 3 deals with the multinational top-up tax, which is introduced by clauses 121 to 131 and schedule 14 for multinational groups whose global revenues exceed €750 million a year.
+
+Clause 132 determines how multinationals should calculate their effective tax rate for a territory. Clauses 133 to 172 set out how multinational groups should determine their underlying profit and then make adjustments. Clauses 173 to 192 describe how to determine the amount of taxes called covered taxes paid by a multinational that should be included in the effective tax rate calculation. Clauses 193 to 199 set out how multinationals should use the effective tax rate and adjusted profit they have calculated to work out how much top-up tax, if any, is due for each territory in which they operate.
+
+14:30:00
+
+Clauses 200 and 201 set out how much of the top-up tax in the low-tax jurisdiction should be attributed to the responsible members of the group. Clauses 202 to 219 set out further adjustments to deal with particular circumstances, including losses, and rules that apply an additional top-up amount where the covered taxes are less than expected.
+
+Many multinationals will include entities that are not wholly owned. This means that they need specific rules, which are set out in clauses 226 to 229. Clauses 220 to 225 set out how the rules work for investment entities, which was a key ask for the insurance sector. I am providing this level of detail at this stage to give the House a sense of just how much work has gone into this set of rules internationally and, importantly, how we in the UK have managed to influence and shape the rules before we bring them before the House in this Finance Bill. Clauses 230 to 259 provide definitions for the various terms, and clauses 260 to 264 set out general and miscellaneous provisions.
+
+The Government are also introducing technical adjustments in amendments 12 to 13 and 15 to 20. Amendment 12 will remove unnecessary duplication. Amendment 13 will ensure that tax paid that contributes to the effective tax rate is appropriately allocated to group members. Amendments 15 to 20 will ensure that the transitional rules work effectively.
+
+Part 4 of the Bill focuses on the domestic top-up tax, which will largely mirror the functionality of the multinational top-up tax but which is in itself an important measure because it ensures that multinational groups operating in the UK pay any top-up tax here on their UK profits. Without it—this is the critical point about implementation—other countries that have introduced a multinational top-up tax will collect this tax. The domestic top-up tax will also apply to groups that operate only in the UK, ensuring that all in-scope groups operating in the UK are treated consistently, preventing economic distortions. Clauses 265 to 277 deal with both the domestic top-up tax and the interplay with the multinational top-up tax legislation.
+
+I listened carefully to the scrutiny provided by right hon. and hon. Friends on Second Reading, and I want to try to answer one or two of the points raised. That is important, because this is what Committee of the whole House is for, after all. On the question of implementation and the actions of others, which my right hon. Friend the Member for Chelmsford (Vicky Ford) has just raised, the UK is not acting alone here. Germany, Spain, Italy, France, the Netherlands, Sweden, Ireland and Belgium— indeed, the EU as a whole—are acting alongside us, as are Canada, South Korea and Japan. South Africa, Singapore and Hong Kong are all preparing to implement in 2024 or 2025. [Interruption.] I hear chuntering from behind me, so I will break some of that down. Those countries are in the process of legislating. In fact, since we last met, Ireland has published draft legislation and Japan has enacted its laws. The House already knows that the EU has set a directive for implementation by 31 December, and we are working closely with the largest EU member states to ensure that progress is made.
+
+I know that colleagues also focus on the US, so I will spend a little bit of time on this. In 2017 the US introduced a minimum tax on the foreign income of its multinationals. It has also recently introduced a further minimum tax on the aggregate domestic and foreign income of large groups, which includes the US income of foreign-headed multinationals. The US therefore already has in place rules that operate on a similar basis to pillar two, and it has been one of the strongest advocates of developing a global standard. This means that the differences in outcomes for US businesses are perhaps not as large as some of my hon. Friends might think.
+
+Mr Jacob Rees-Mogg (North East Somerset) (Con)
+One has to be a bit careful when talking about the US, because although the President might be in favour of this, the Republicans in the House of Representatives have made it absolutely clear that they are not, and as they have a majority there, that is quite significant.
+
+Victoria Atkins
+Yes, of course, but we have to work with the US Administration this week, next week and the year after next. That is why, with the US having its own rules and with its encouragement that these global standards should be applied, we are in lockstep with other countries in implementing this rule. I would just make the point that this is unprecedented; this is new and we have to be realistic. A hundred years ago we did not have multinational groups operating in the way that they do today, or in the way they will in five or 10 years’ time. We as an international community are trying to deal with some of the aggressive tax planning that we have seen multinational groups indulge in. We want to raise the floor, and those economies have signed up to this. They are part of the 135 countries that have committed themselves to this agreement. That is what was so important about the agreement, and these taxes will apply in those jurisdictions even if they have not implemented it.
+
+Richard Fuller (North East Bedfordshire) (Con)
+I am grateful to the Minister for giving way, and I apologise for not being here for the start of her speech. Can I just pick up on her remark that these countries have “committed” to this? A commitment in words to an international treaty is not the same as a commitment to enactment in domestic legislation. This is the point that my right hon. Friend the Member for North East Somerset (Mr Rees-Mogg) was making. In the United States it is clear that although there might be an international intent to enact this legislation, there is certainly no legislative intent that it should be passed into US law. I have other points to make but I will finish on that point and simply ask the Minister for her comment on that.
+
+Victoria Atkins
+First, this is an international agreement and nobody has forced the US, or anyone else, to sign up. As I say, 135 countries have signed up to it and a significant number are already implementing it or bringing forward legislation to do so. Indeed, the US Administration have maintained their commitment to align their rules with the pillar two standards. Until that happens, however, the OECD inclusive framework members, including the US, have agreed on how the US rules and the pillar two rules should interact to ensure that US multinationals are subject to the same standard as groups in other countries.
+
+The long and the short of it is that we should be proud of the fact that we in the United Kingdom have helped to shape—and will continue to shape—these rules, precisely because we are able to work in unison with other large economies. As a result, we have been able to retain the corporate tax levers that we care so much about, such as research and development tax credits and the full expensing policy that my right hon. Friend the Chancellor announced at Budget, and to ensure that issues specific to the UK financial sector are identified and addressed.
+
+Richard Fuller
+On the Minister’s point about being proud to implement this, I would say that the shadow Minister, representing the high-tax Labour party, might be happy to implement it, but I am not sure that I would have quite the same degree of enthusiasm as a Conservative. I want to probe a bit deeper on a fundamental question that the Minister gave an interesting answer to, which is about how the United States’ interpretation of this is going to be held in the international context. Was she saying that the other countries in the international community that have signed up to it have effectively agreed that America does not need to go any further than its existing legislation in order to meet the requirements of this international standard? Or is she saying that there is still a requirement for the United States to enact it? If it is the latter, does she agree that the UK should not go forward and make its own changes until the United States makes those changes?
+
+Victoria Atkins
+I remind my hon. Friend that this is a minimum floor of 15%, which is below the lowest rate of corporation tax payable in this country, 19%, and below the 25% corporation tax we are setting for both this financial year and the next financial year in this Bill.
+
+The countries most affected by this change are those that set lower rates of corporation tax. This international agreement is important because it means, when our constituents ask us why a particular tech giant has headquartered itself somewhere other than the UK while making enormous profits on its activities here—my hon. Friend the Member for North East Bedfordshire (Richard Fuller) will appreciate that I am not naming any businesses—we can say that we have joined an international agreement to ensure that such profit shifting does not occur. In the shifting sands of the 21st century and beyond we, as an international community, have to find ways of ensuring that companies cannot engage in profit shifting.
+
+I normally try not to reference Labour Front Benchers, but my hon. Friend the Member for North East Bedfordshire mentioned them. Through this Finance Bill—and I know he fundamentally believes in this—we are taking a fiscally responsible approach to taxation. We understand that those with the broadest shoulders should bear the greatest burden of taxation, but we want to do it in a way that encourages growth and investment, and encourages businesses to set up and trade in our economy. Full expensing, R&amp;D tax reliefs and the measures we introduced into the OECD agreement because of the concerns voiced by the insurance sector—these are examples of how we have been able to lead the international community in these negotiations and influence how the rules interact with our needs as a country.
+
+Vicky Ford
+Put simply, it is important that multinational companies pay their taxes and it is good that the UK has agreed a new set of rules, but we need other countries to play the game according to the rules to which they have agreed. Will my hon. Friend keep a laser-like focus on ensuring that other countries play the game according to the rules? If they do not, will she make sure we have a plan B up our sleeve to defend our interests?
+
+Victoria Atkins
+I repeat that the date for implementation is 31 December. The EU has issued a directive and, as I outlined, the major economies within the EU are already bringing together the legislation to enact this. Japan has already legislated, and others are following.
+
+I would argue that our plan B is in the very rules of this international agreement. The rules work because they ensure that every low-taxed multinational company pays the top-up tax that is due, whether or not it is headquartered in a country that has introduced pillar two. Those economies that rely on low tax rates understand that, because of how business is now conducted in some regards, we are raising the floor of international taxation so that those with the broadest shoulders continue to pay.
+
+Kit Malthouse
+Will my hon. Friend give way?
+
+Victoria Atkins
+I will give way once more, and then I will make some progress.
+
+Kit Malthouse
+The Minister is being generous with her time, although we are in Committee, so detailed scrutiny and questions are appropriate.
+
+I have a couple of questions. The Minister says that one of her missions is simplicity, and I know she understands that this measure will necessarily add several thousand pages to “Tolley’s Tax Guide”, which is now in two volumes—it was only one volume when I trained as an accountant. That is unfortunate, and we can debate the desirability or otherwise of this measure, but what protections are there against the creation of just another game?
+
+Although this Bill seeks to set a minimum floor on the headline corporation tax rate, it is perfectly possible for countries to compete on effective corporation tax rates. Are we likely to see Governments around the world play a game of competitive subsidies and competitive allowances? We will have full expensing, but some of our competitors will not—full expensing will reduce the effective rate for quite a lot of capital-intensive businesses, although not necessarily for services businesses—but there will now be a menu of allowances, derogations and tax breaks that can effectively be used to play a slight game of subterfuge as we all compete for these large, and now very mobile, businesses to locate in our territories.
+
+14:45:00
+
+Victoria Atkins
+My right hon. Friend raises an interesting point. We have been leading the negotiations on this precisely so that we are able to bring in some of these allowances, which we fundamentally believe will help to support investment and growth in the UK economy. On multinational companies, we are trying to raise the floor in those jurisdictions that currently charge below 15%.
+
+Kit Malthouse
+Perhaps I was not entirely clear. For example, it is perfectly possible for us to say that our headline corporation tax rate is 25%, but we previously had—we are now getting rid of it—a super deduction that allowed me to offset more than 100% of any cost or investment against my tax and, therefore, reduce my effective rate of corporation tax to much less than 25%.
+
+It is possible, away from the headline rate at which we are imposing this minimum rate around the world, for Governments to play the game of subsidy. “We will give you £150 million to come to our country, and you then pay 25% corporation tax. It is like for like. I am paying you, but I am getting my money back.” It is also possible to create a raft of allowances against that income, which will reduce the effective rate. The headline rate then becomes less important than the effective rate. We may well be kicking off that game with this measure. I am not entirely sure what protections there are against that, and against the complexity that comes with it, in this Bill.
+
+Victoria Atkins
+On the complexity point, having set my three objectives, of course I acknowledge that there will be times of tension between fairness and simplicity. Indeed, I said that in the Budget debate and on Second Reading. We believe it is fair to have a spectrum of corporation tax thresholds between 19% and 25% as businesses grow and accrue profits, but I fully admit that does not make it simple. The balance the Government have to strike is where there might be tension between fairness and simplicity. Of course, we always want to ensure that fairness prevails.
+
+I take my right hon. Friend’s point about complexity, but I gently remind him that these enormous multinational groups have armies of lawyers and accountants looking after their affairs. One might say that many of them have been able to shift their profits in this way because they are able to conduct that analysis. I should say that they are doing it completely lawfully, and there is no allegation of misfeasance, but we wish to bring forward this international agreement.
+
+In the 21st century, we should not be frivolous or dismissive about encouraging businesses to invest in plant, machinery and people. I know my right hon. Friend is not being frivolous or dismissive, but this is not a game. If we can encourage multinational groups to come and do more business here, to invest in our workforce and in other businesses, that would be a great thing for the UK economy. This international agreement is about trying to introduce a level playing field in 135 countries to ensure multinationals are taxed fairly in each jurisdiction.
+
+Finally, if we do not implement this measure, the top-up tax that these groups would have paid to the UK will be collected by other countries. This important agreement was reached by the Prime Minister when he was Chancellor, during our G7 presidency, and we want to enact it in this Finance Bill to enable it to take effect.
+
+Richard Fuller
+As has been mentioned, the Minister is being extremely generous in providing answers to some of these important questions. This may be a little niche, but may I take her back to the experience of the United States? A large number of US multinational companies, such as Apple and others that will be covered by this measure, held their cash balances offshore and did not take them back to the US because of the levels of corporation tax. Those levels were reduced under President Trump from 33% to 21% or 25%, I believe, but then in addition a special law was introduced providing for a 15.5% repatriation tax. That one-off tax enabled or incentivised companies such as Apple to bring their resources back to the US and pay tax there. Under the specifications both within the UK and under our international agreements, will what she is asking us to support today enable the UK to make one-off changes that might be in the specific interests of our corporations to help them bring back capital here? She may not know that—
+
+Victoria Atkins
+I hope I have understood my hon. Friend correctly. I am always loth to draw direct comparisons, particularly at the Dispatch Box, between the way in which the US conducts its tax affairs and the way we do so, as the systems are different. He has alighted upon the changes that the previous President made. The current President has also indicated that he wishes to make changes, albeit perhaps in a different direction. I hope my hon. Friend will appreciate my being cautious before giving an answer. I do not know whether he is referring to the corporate alternative minimum tax and the global intangible low-taxed income provisions. If I may, I will write to him on this, because it is incredibly technical and I want to ensure that I answer him accurately.
+
+Having taken that final intervention, I am very conscious that although this is a large piece of legislation, colleagues are rightly scrutinising it. I shall sit down now so that they have a chance to have their say on it. I ask that clauses 5 to 15, and 121 to 277, and schedules 14 to 18 stand part of the Bill.
+
+The First Deputy Chairman of Ways and Means (Dame Rosie Winterton)
+I call the shadow Minister.
+
+James Murray (Ealing North) (Lab/Co-op)
+Thank you, Dame Rosie, for the opportunity to respond on behalf of the Opposition. I would like to speak to the amendments and new clauses in my name and that of my hon. Friend the Member for Erith and Thamesmead (Abena Oppong-Asare).
+
+When we debated this Bill’s Second Reading at end of last month, we made it clear that what we needed was a plan to get us out of what the previous Chancellor rightly called a “vicious cycle of stagnation”. We need a plan for growth—a plan to raise the living standards of everyone in every part of the country—but this Government have failed to offer us one. That much was clear from the data published alongside the Budget, which showed that ours is the only G7 economy forecast to shrink this year and that our long-term growth forecasts were downgraded in the Office for Budget Responsibility report.
+
+Since we last debated this Bill, further data has been published confirming our fears. Earlier this month, a report from the International Monetary Fund put the UK’s growth prospects this year at the bottom of those of the G20 biggest economies—a group that includes sanctions-hit Russia. After 13 years of economic failure, people and businesses across the UK deserve so much better than that. They deserve a plan for the economy that offers more than managed decline. So today, we begin by looking at some of the measures the Government are seeking to introduce in this Bill and explaining why their approach is letting Britain down.
+
+First, let me speak to clauses 5 to 15, which address the rate of corporation tax, capital allowances and other reliefs relating to businesses. On those, one thing prized above all else is the need for certainty and stability. Businesses across the country want stability, certainty and a long-term plan, yet under the Conservatives corporation tax has changed almost every year since 2010. Furthermore, as the Resolution Foundation has pointed out, the introduction of the latest temporary regime for corporation tax represents the fifth major change in just two years. It seems that the Conservatives are simply incapable of offering stability.
+
+Let us start by looking at the main rate of corporation tax, which clause 5 sets at 25% for the financial year beginning in April 2024. The clause will mean that corporation tax will continue to be charged at the rate to which it rose at the start of this month. That rate, 25%, was first announced by the Prime Minister, when he was Chancellor, in his spring Budget 2021. One might think that sounds like a rare example of certainty, but, sadly, that is not the case. As we know, last September, the then Chancellor, the one who said our economy was trapped in a “vicious cycle of stagnation”, announced that the rise to 25% would be cancelled, leaving the rate at 19%. That was of course reversed just a month later, when the current Chancellor moved into No. 11, and confirmed that the rise to 25% was back on. So much for stability! But we are where we are, and if we are to assume that the current Chancellor’s plans will indeed go ahead—a bold assumption, I admit—the rise to 25% will now continue from April 2024.
+
+With the rate of corporation tax being increased, it is particularly important to get capital allowances right. The Government should be focused on giving businesses certainty that will help them to plan and increase their investment in the UK economy. We need that certainty and greater investment—the UK currently has the lowest investment as a percentage of GDP in the G7—yet the approach in clause 7 is to introduce temporary full expensing for expenditure on plant and machinery for three years only. By making that change temporary, it only brings forward investment, rather than increasing its level overall. The Government’s own policy paper on this measure, published on the day of the Budget, makes that clear. It says:
+
+“This measure will incentivise businesses to bring forward investment to benefit from the tax relief.”
+
+As the Office for Budget Responsibility has made clear, the Government’s approach will mean that business investment between 2022 and 2028 is essentially unchanged as a result of these measures. If anything, there is a very slight fall. Britain deserves better than this. As Paul Johnson of the Institute for Fiscal Studies said in response to this temporary tweak to the tax regime for businesses:
+
+“There’s no stability, no certainty, and no sense of a wider plan.”
+
+That is why we have tabled new clause 3, which would require the Chancellor to follow Labour’s lead by developing a wider plan for business taxes, which we believe is needed. As my right hon. Friend the Member for Leeds West (Rachel Reeves), the shadow Chancellor has set out—
+
+Kit Malthouse
+I wish to challenge the hon. Gentleman’s assertion about the notion of a window. We know that where taxation is concerned the creation of a window can often create an incentive to move quickly. For example, when there was a stamp duty window, we saw a significant number of transactions brought forward and take place. The Government are saying that they want to see very significant investment taking place. We know that British industry has accumulated a large amount of cash on its balance sheets. Why would the Government not create a particular incentive by saying, “Look, there is a deadline. If you get in now, we will give you this very generous tax break and then who knows what may happen in the future”? We must not forget that although the investment may absorb all of the profit for small businesses, it will, in effect, create a tax loss that is able to be carried forward beyond the window. So I do not understand his criticism of our having a window if, as the Government say, they want action now rather than in three years’ time.
+
+James Murray
+I thank the right hon. Gentleman for his intervention but I feel he rather misses the point. Surely having a temporary change merely moves investment around, rather than increasing its overall level, as the OBR has set out. We have the lowest investment as a percentage of GDP in the G7, so the importance of increasing investment should be agreed by Members in all parts of this House. We need a wider plan that will give that stability and certainty, which is exactly what my right hon. Friend the shadow Chancellor has set out. She has set out Labour’s mission to secure the highest sustained growth in the G7, which means that in government we would review the business tax system and set out a clear road map to provide that certainty and boost investment.
+
+New clause 3 speaks to that, and perhaps the right hon. Gentleman would like to join us by voting for it later this evening. It would require the Government to follow our lead by initiating that review of business taxes that we want to see now. Such a review would make recommendations on how to give businesses more certainty about the taxes they need to pay, and how to make sure that the system of capital allowances operates effectively to incentivise investment. The new clause would require the review to be conducted, and recommendations on how to increase certainty and investment to be published, within six months of the current Finance Bill becoming law. I urge Ministers and, indeed, Back Benchers to accept and support new clause 3. If they do not, I at least encourage Ministers to give as much certainty as possible by making it clear what their plans for capital allowances are beyond the three-year period covered by clause 7.
+
+15:00:00
+
+Beyond the capital allowances in clauses 7 to 9, the Bill introduces other reliefs relating to businesses in clauses 10 to 15. I wish to ask the Minister a fairly technical point about clause 10 and its associated schedule 1. As we know, clause 10 introduces changes to the research and development tax relief for small and medium-sized companies and to the R&amp;D expenditure credit, which is mainly claimed by larger companies. The clause widens qualifying expenditure to include data licences and cloud computing services, and introduces new compliance measures. More widely, we are concerned that the Government’s piecemeal and rapid changes to R&amp;D reliefs are causing uncertainty. As we know—we have discussed this already today—such an approach is harmful to the effectiveness of reliefs and does not help the UK’s position in attracting investment. We are also aware, however, that there are concerns that the claim notification measure in this clause may be poorly targeted. Although it will prevent some dubious claims, it may well mean that many genuine claims, and disproportionately those from smaller companies, will fall out of time.
+
+On the detailed changes introduced by clause 10, I wish to ask the Minister a specific question about the wording of a new power for His Majesty’s Revenue and Customs, to which the Chartered Institute of Taxation has helpfully drawn our attention. Paragraph 14 of schedule 1 introduces a new power for HMRC to remove a claim for R&amp;D relief from a corporation tax return when an officer of HMRC
+
+“reasonably believes that a claimant company has failed to comply with a requirement relating to the making of the claim”.
+
+There is no right of appeal against a decision of HMRC made pursuant to this power. It seems that the Government’s intention is for this new power to be used only in relation to the new compliance measure introduced by the Bill. However, it is not clear that the wording of the new legislation itself is limited in that way. To suggest a potential solution to this problem, we have tabled amendment 26. It is a clear and technical amendment, drafted by the Chartered Institute of Taxation, and I encourage the Minister to accept it and make it part of the Bill.
+
+Clause 12 introduces a new investment allowance at a rate of 80% for oil and gas companies for investment in the decarbonisation of upstream petroleum production activities. As Members from all parts of the House will know, Labour has been calling for a windfall tax on oil and gas giants since January last year to help fund support for people struggling with the cost of living. After months of pressure, the current Prime Minister, and other Conservative Members, were finally dragged kicking and screaming into introducing an energy profits levy in May last year. At every turn, however, the Government have left loopholes and weaknesses in their version of the windfall tax, and they have stubbornly refused our calls to address them.
+
+The Conservatives’ refusal to strengthen the windfall tax means that billions of pounds of profits of the oil and gas giants are being left on the table. They are refusing to strengthen the windfall tax on those oil and gas giants while, at the same time, pushing up taxes for people across the country through a 5% hike in council tax. If we were in power, a Labour Government would freeze council tax this year, funded by a proper windfall tax on the oil and gas giants. That is Labour’s fair way to help families through the cost of living crisis. All the Conservatives have to offer is yet more tax rises on working people. If any Conservative Members agree with us, they can join us in voting for new clause 6.
+
+Caroline Lucas (Brighton, Pavilion) (Green)
+As well as the economic cost of the way that the windfall tax has been designed, does the shadow Minister agree that it has a massive climate cost, in the sense that we are incentivising oil and gas at exactly the time when we need to make the transition to green energy technologies?
+
+James Murray
+The hon. Member is right to point that out that, in addition to the points that I have made, the Government’s decision has a climate change impact. It shows, I think, in the design of the windfall tax that investment allowances really should have no place in a proper windfall tax on oil and gas giants’ profits. We want to scrap those investment allowances and to make sure that that money is spent helping people through the cost of living crisis that we face right now. I would very much welcome the hon. Member and any Member on the Conservative Benches joining us in voting for new clause 6, which will force the Government to come clean about how much money they would raise by strengthening the windfall tax—money that could go towards freezing council tax this year.
+
+I have spoken so far about the clauses of the Bill that relate to the main rates of corporation tax, capital allowances and reliefs. I now turn my attention to another important way that the Bill impacts on corporation tax through parts 3 and 4, which relate to the new multinational top-up tax and the related domestic top-up tax. As I set out earlier, we desperately need greater stability and certainty in business taxes and allowances to help the economy grow in the future. We also need greater fairness to help people with the cost of living crisis right now.
+
+That principle of fairness is crucial in making sure that British businesses that pay their fair share of tax face a level playing field when competing with large multinationals that may not do so. That is why we have, for so long, pressed the Government to back an ambitious global minimum tax rate for large multinationals. We have long needed an international deal on a global minimum corporate tax rate to stop the international race to the bottom and to help raise revenue to support British public services. We welcome the international agreement, fostered by the OECD, that makes sure that large multinationals pay a minimum level of 15% tax in each jurisdiction in which they operate.
+
+As I set out on Second Reading, it has been a long and winding path to get to this point. The Prime Minister, when he was Chancellor, was often lukewarm in his support of such an approach. However, the deal now faces a new front of challenges, as Conservative Back Benchers have begun to be open in their hostility towards the implementation of the deal, as we have seen in this place today. We believe that it is crucial to get this legislation in place, so I hope the Minister can reassure us today that those parts of the Bill that introduce a multinational top-up tax will not be bargained away in the face of opposition from Conservative Back Benchers.
+
+On Second Reading, we heard from the right hon. Member for Witham (Priti Patel) and others as they rallied their colleagues against the global minimum rate of tax for large multinationals. We therefore want to press the Government to make sure that, in the face of opposition from their Back Benchers, they do not back away from implementing this landmark deal.
+
+That is why we have tabled new clause 1, which would require the Chancellor to report every three months for a year on the Government’s progress in supporting the implementation of OECD pillar two rules. The quarterly reports mandated by the new clause would update the House on the Government’s progress towards implementation. Those updates must include details of what efforts the Government have undertaken to make the rules as effective as possible. They must explain what the Government have done to encourage more countries to implement the pillar two rules—a point made by the right hon. Member for Chelmsford (Vicky Ford), who is no longer in her place. This is important because we know that the rules will be more effective the more widely they are implemented. I hope that the Government will support our new clause, which commits them to giving these updates. Surely that is a matter on which we broadly agree. Even if Ministers do not support the new clause, I hope that many Conservative Back Benchers do.
+
+On Second Reading, the right hon. Member for Witham expressed her concern that the implementation of the OECD rules had so far progressed with “very limited scrutiny”.
+
+Although I know that she and I, and others on the Conservative Benches, may have very different views on these rules and on what they will achieve, surely she and her fellow Back Benchers will not vote against transparency and will not try to block our new clause that simply requires updates to Parliament every three months.
+
+Richard Fuller
+The hon. Gentleman is very kind to give way. Personally, I do not have much concern about transparency in the United Kingdom—we do a fantastic job in that regard. I also have no problem with this country implementing regulations. We tend to have a reputation for gold-plating all our regulations. My concern is that other countries will not do what they say they will do. By enacting this legislation, my concern is that other countries will not do so. The hon. Gentleman has been extolling the virtues of supporting British enterprise, but Labour’s approach runs the risk of putting British companies at a disadvantage, because the United States and other countries may not move forward as we introduce these restrictions. He has talked about transparency, but can he specifically say today that, if the United States does not enact this legislation, the Labour party, whether in Government or not, would support efforts for us to renew or review pressing ahead with our own legislation?
+
+James Murray
+I thank the hon. Gentleman for his comments. At one point, I thought he was starting to speak in favour of our new clause; I got my hopes up momentarily because he referred to the importance of making sure that more countries implement the pillar two rules, and we agree that that is important to make them as effective as possible. Indeed, new clause 1 says that the statements to the House, every three months of the following year, must include details of efforts by the UK Government to encourage more countries to implement the pillar two rules. On that basis, I hope that he will join us in the Lobby to vote for the new clause later this evening.
+
+Richard Fuller
+rose—
+
+James Murray
+I am going to make some progress.
+
+Finally, our new clause 2 would require the Government to set out their approach to pillar one of the OECD agreement and the digital services tax. We know that, unlike pillar two, the implementation of which is proceeding both here in the UK and in many countries overseas, the prospects of pillar one being implemented in the near future look less positive. That is likely to have an impact on the Government’s approach to the digital services tax, so I urge the Government to support our new clause, which requires the Chancellor to make a statement to the House on the matter. While new clause 2 has not been selected today, I none the less encourage the Minister to set out the Government’s approach to pillar one and the digital services tax in her closing remarks.
+
+Through today’s debate on the Bill’s clauses and our amendments, we have seen the state that the Government are in. We have seen how they are failing to provide our economy with the stability and certainty that is needed for growth—growth that we need in every part of the country to make everyone, rather than just a few, better off. We have seen how the Government’s Back Benchers risk putting their party before our country at every turn, and how they are unable to provide the long-term plan that people and businesses need. We have seen clearly how this Government are refusing to take fair decisions on taxes—putting up council tax for families across the country, rather than strengthening the windfall tax on oil and gas giants.
+
+When we come to vote at the end of this debate, I urge all hon. Members to support Labour’s new clauses and expose the unfair choices that this Prime Minister and this Conservative Government are making, which are leaving our economy on a path of managed decline.
+
+Priti Patel (Witham) (Con)
+I rise to speak to the topic at hand, but I want to begin by thanking the Minister for the way in which she has tackled this Committee sitting and her familiarisation with the points made on Second Reading.
+
+I am on the record as having concerns about not just the implementation but the purpose of all this. No one would disagree that multinational companies need to pay their fair share of tax, but I question the way we are going about achieving that. I put it on the record that I was semi-humoured by the comments of the Opposition spokesperson just now. Even when the Labour party is taking a break from its efforts to heap extra burdens on businesses, which is obviously what it stands for, it is raising concerns about implementation timetables.
+
+Labour has missed the opportunity to speak up for British businesses, so it falls to those on the Conservative side of the House to do that. We believe in competition, business growth and business investment. My right hon. Friend the Member for Chelmsford (Vicky Ford) is not in her place right now, but sectors such as insurance employ my constituents, probably the constituents of the hon. Member for Ealing North (James Murray) and hundreds of thousands of constituents up and down the country. Those are the types of jobs we should try to safeguard in the United Kingdom.
+
+The hon. Gentleman was partisan, so I will make a point now as well: the response of the Labour party is always to build up even more red tape, regulations and reporting. I think we all know how we adopt regulations in this country. My own personal view, which I attested to on Second Reading, is that I would like to have a delay to implementation until we see a critical mass of other countries, including very significant competitors, moving some way towards implementing the tax, as has been said by colleagues this afternoon.
+
+As my hon. Friend the Minister already knows from interventions today and from Second Reading, I feel that this new tax risks placing significant compliance costs on British businesses, which are already paying well above the minimum 15% tax rate. We must recognise that there are current pressures and that these inevitable costs will be fed on to consumers. I have touched on the insurance sector, but at the end of the day it is consumers who will end up picking up the costs through higher premiums and other impacts on them. On top of consumer prices, which bear the brunt of that and are also inflationary, there is no way, given the delays that we are seeing elsewhere, that implementing this tax will not have an impact on our competitiveness. By pressing ahead, we risk capital flight and jeopardising future investment income.
+
+15:15:00
+
+I have a range of questions to put the Minister shortly. I understand the reassurances that she has shared with the House today about other jurisdictions, but we have to be honest with people and say that we are not seeing a mass move towards co-ordinated implementation. That is not happening. We understand that that is down to electoral cycles and all sorts of pressures within other jurisdictions, and I also acknowledge that she pointed to Germany, Spain, Sweden and the Netherlands as having published draft legislation. However, only three EU member states are reaching the stage that we were at last July, and that does not mean they are meeting the parallel process on the timetable for implementation. She also pointed to Japan and Canada; Japan is interesting, because its legislation delays implementation until several months after the UK’s, while Canada is yet to pass its legislation for a whole range of reasons.
+
+We should level with everyone, particularly because we as Conservatives believe in British businesses and the risks they take and know that they look to the Government of the day to give them certainty and support—I will come on to the support side in a moment. We must be clear with businesses about the environment in which we will be bringing in this measure, what it will be like and what it will mean for them. That is even before we come to the problem of the United States, which, as my hon. Friend the Member for North East Bedfordshire (Richard Fuller) touched on, is not implementing pillar two at all, and Singapore and Hong Kong, which are also important jurisdictions for financial institutions and which will be delaying implementation until 2025.
+
+I entirely understand the Minister’s point about the revenue-raising nature of this measure, but, given the delays in key and significant jurisdictions, those revenue projections are fluid—and I am being polite in using the word “fluid”; we could say they are uncertain, as they already were, but I think we could even go further and say they are probably in jeopardy. We need greater scrutiny of some of the revenue figures.
+
+The Minister has seen the research by the Chartered Institute of Taxation, which has already said it is in doubt whether pillar two will raise the £2 billion annually that the Government are predicting. Perhaps it would be useful for the Committee to get a greater understanding of the projections, the calculations and the insights used in considering this matter, because that institute and others have raised concerns around the figures.
+
+Those institutions also raise concerns about the implementation timelines, which have been the subject of discussion. I would rather see no implementation or see implementation delayed until others look at it. However, since we are using the tool of primary legislation to bring this measure forward, at a time when the matter is still under live international discussion, which could change in months—that is the nature of the world and the markets—we need to understand what it means for British businesses and the complexities that it will bring to them.
+
+On the point of complexity, the Institute for Fiscal Studies recently released its own report expressing significant concerns about that, and many of us made the point on Second Reading about what that means for businesses. No doubt they have an army of tax lawyers, but will this be a perverse incentive? Will it have unintended consequences?
+
+On Second Reading I also touched on significant questions about international dispute resolution, which have still not been answered and which raise considerable concerns. We still have wider concerns about implementation, other jurisdictions, the ways of working and how we will resolve some of those unanswered questions. I urge Ministers to come back on Report with solutions to the points that I have made and others will no doubt make. We really do need to see what this means not just for businesses but for the whole principle of accountability, fairness and transparency internationally.
+
+We have spoken about the European Union and the United States, but the impact on British jobs and businesses is our predominant concern. I raised the whole issue of tax sovereignty. The wider implications of the policy measure for our tax sovereignty have not been unpacked. I have previously touched on the threats to competitiveness, but I genuinely feel right now that, for a country and a Government who believe in free market fundamentals, in having a dynamic economy that embraces free enterprise, and in low and simple taxation, these measures could be regressive—we could actually be going backwards. My right hon. Friend the Member for North West Hampshire (Kit Malthouse) mentioned the infamous tax guide for accountants. When accountants have to follow tomes of guidance, that goes against the grain of tax simplification. I am concerned that part of the Bill really fails to address those issues.
+
+I have one plea for the Minister. She understands that this Finance Bill has such a significant section dedicated to international taxation—the OECD rate of taxation—so I urge her to reflect on the comments that I and many others have made, which very much come from industry. I and many colleagues wrote to the Chancellor before the Budget back in March with a range of concerns. We have not yet even had a response to that letter. I think it is important that we see proper, considered responses to all the concerns that we have raised—that is absolutely appropriate. Before jumping headlong into implementation without proper timescales, without thinking through the consequences of what the provisions mean and with other jurisdictions acting independently and changing their own legislative parameters, will the Minister come back to this House with significant answers to my questions?
+
+The First Deputy Chairman of Ways and Means (Dame Rosie Winterton)
+I call the SNP spokesperson.
+
+Kirsty Blackman (Aberdeen North) (SNP)
+It is a pleasure to take part in a Finance Bill Committee of the whole House. I will raise a number of points, particularly in relation to the new clauses and to what the Minister said about them.
+
+The right hon. Member for Witham (Priti Patel) mentioned tax simplification. During later consideration of the Bill, we will raise questions about the removal of the Office for Tax Simplification, what has happened to the Government’s assessment of the benefit of that office, whether we will have an issue with removing that office, and whether there will be a cost to the public purse or to businesses as a result of.
+
+We will support Opposition new clauses 1, 3 and 6. We would also support new clause 10 if it were pressed to a vote. I will talk a little about new clauses 6 and 10 on requests for transparency. It is incredibly important that we have transparency about how allowances, tax and everything else put in place by the Treasury—and, in fact, by every Government Department—work. The Red Book that is produced at Budget time gives us a genuine idea and expectation of how much any measure—be it an investment allowance, a new tax measure, or something else—is expected to generate, but the UK Government are not terribly good at putting in place post-implementation reviews of such tax measures.
+
+We do not have enough transparency on whether the tax measures put in place have actually achieved what the Government intended. In fact, I tabled a written question on this some time ago, and various Government Departments were unable to tell me even how many post-implementation reviews they had carried out and whether there were any that they had not carried out. It seems to me pretty fundamental that the Government should fulfil their role of calculating the cost or benefit and saying whether the projection has seemed accurate. It is all well and good for the Government to say, “This is going to raise £100 million,” but if they do not then assess whether it did, how can we be sure that a measure had the desired effect, particularly when it is something such as an investment allowance? We are not saying, “We don’t think there should be allowances”; we are saying, “We want the allowances that are put in place to actually work in the way that they are intended to work.” I have concerns about that.
+
+New clauses 6 and 10 would require the UK Government and the Treasury to provide transparency on the allowances and their resulting outturn. It is particularly important to look at our climate change obligations. In fact, we have tabled an amendment specifically on looking at the entire Finance Bill through the lens of whether it will help us to meet our climate change and Paris agreement commitments. There is no point in this House agreeing to legislation that takes us further from the Government’s stated aims and legislative commitments on climate change. I am still of the opinion that the UK Government are fairly good at talking the talk on their climate change commitments but not at translating that into checking whether our climate change objectives will be hampered by the policies that are put in place.
+
+During the Committee stage of the Advanced Research and Invention Agency Act 2022, for example, I requested that the new organisation be set up on a net zero basis from the beginning. Given that we have net zero targets, I do not think that it is unreasonable to ask for any new Government department to be set up on that basis and, at least, to not contribute in a negative way to our carbon outturns. As I said, we will support new clauses 6 and 10 if they are pushed to a vote.
+
+New clause 8, which relates to clause 10, addresses the R&amp;D spend on data and cloud computing. We have tabled a probing amendment on that, and although we do not intend to press it to a vote, I would appreciate it if the Minister were able—either today or at a future stage—to answer some questions. We have particular concerns about clause 10 as it relates to part 2 of schedule 1. The explanatory notes—a hefty document—state that:
+
+“Expenditure on data licences and cloud computing services only qualifies for relief to the extent that the commercial use of that licence or service is restricted to the particular research and development activity to which the claim relates, and that the customer does not have a right to…ongoing use after the relevant research and development has ended.”
+
+I appreciate the Government’s intention, but we have tabled new clause 8 because we are concerned that this will hamper anyone applying for the allowance in the first place, as they may want to continue to use that data licence and cloud computing after the research and development. Surely they are only doing the research and development because they think it will be profitable and positive for their company. I am concerned that they may choose not to make the investment or to apply for the allowance if they know that they will have to pay it back at a later stage if this does what the company surely wants to achieve, which is to make money.
+
+This could have been done in a different way, by allowing companies the investment opportunity and the R&amp;D allowance for the data licence and cloud computing, and then stopping the allowance at the point at which it begins to make money, rather than saying, “If this does begin to make money, you have to pay us back.” It would be great if the Minister could answer questions on that issue today, but if not, I am happy to receive information afterwards, so that we have clarity on the Government’s assessment of this.
+
+15:30:00
+
+The Minister mentioned the Prime Minister’s stated aims in relation to inflation targets. I appreciate that these are aims to reduce inflation, but the reality for our constituents is that there will still be inflation—although the rate will drop, we will still have inflation, with prices going up. Given that there has been a massive increase in the price of food particularly, which went up 17% at one point, and in the price of energy, our constituents will still see the lower rate of inflation levied on current prices, so they will still see the price of pasta increasing, and they cannot avoid buying staples such as pasta and rice. I am concerned that the UK Government are not taking this seriously enough.
+
+At this moment, my hon. Friends the Members for Glasgow North East (Anne McLaughlin) and for Inverness, Nairn, Badenoch and Strathspey (Drew Hendry) are finishing up a drop-in session on the concerns of their constituents and all our constituents about energy prices. Again, I am concerned that the UK Government have not done enough; we have been saying that for a significant period and calling for individuals’ bills to be reduced. It seems like more could be done by the UK Government to protect our constituents. It is appreciated that there has been some protection in place, but the reality for people coming through the door of our surgeries is that their energy prices have increased significantly and their wages have not kept pace, and they have far less disposable income as a result.
+
+In Scotland, we look at all decisions, and in particular financial ones, through the lens of wellbeing. I appreciate that the Government have targets in relation to inflation. They also have targets in relation to fiscal rules. The International Monetary Fund announced in the last couple of weeks that two of the main fiscal rules will be missed. If there are to be rules in place, we should have better rules, and we should actually meet them. If we look at decision making through the lens of ensuring individual and community wellbeing and meeting climate change targets, we end up in a situation where everybody is better off, rather than having fiscal rules that do not actually translate into my constituents’ outgoings at the end of the month and that are not being met anyway as a result of the decision-making process.
+
+We know that a major factor that has created the situation the UK finds itself in, almost uniquely, is the loss of single market access and Brexit. It is also to do with the reduction in immigration that we are seeing because we do not have the freedom of movement that we did previously, and therefore we are struggling to fill an awful lot of the jobs that would have been filled by people coming from the EU, a significant number of whom have left as a result.
+
+We will move a number of amendments in Committee. We do not intend to push new clause 8 to a vote, but we would appreciate more conversation with the Minister on our concerns about that issue. We will be supporting new clauses 1, 3, 6 and 10 if they are pushed to a vote.
+
+Mr Rees-Mogg
+It is a great pleasure to follow the hon. Member for Aberdeen North (Kirsty Blackman), although I must say that there was some irony in a representative of the Scottish nationalist party speaking in favour of following financial rules, which sometimes seems not to happen in that part of the United Kingdom.
+
+Of course, like everyone else here, I am a taxpayer, so we all have to declare some element of interest, and I am a corporate tax payer, under a particular hat, so I have an interest in the subject. Today—perhaps suitably, for what we are discussing—is the eve of the feast of St Alphege. Hon. Members will recall that St Alphege was murdered for refusing to pay higher taxes. He was, in many ways, the first tax martyr, who, reluctant to pay an additional Danegeld, had ox bones thrown at him until he was dead. I fear that, under current circumstances and with the approach taken by those on both Front Benches, we see endlessly higher taxes, and we are having metaphorical ox bones continually flung at us. Let us hope that we do not get martyred through it.
+
+It is appropriate to think of St Alphege, because we are debating the worst bit of the Budget today, turned into law. It is the bit that will be most damaging to the economy, and it is the bit that is least in the interests of the United Kingdom. Let us start with clause 5, which is an historic mistake—it is a major blunder being made by His Majesty’s Government, and it fails politically and economically. It is worth remembering why the then Chancellor, George Osborne, started to reduce corporation tax. He got the Treasury for the first time to do a dynamic assessment of the consequences of cutting a tax. What did that dynamic assessment show? It showed that more revenue would be raised, which is precisely what happened. More revenue came through, both in actual, nominal cash terms and as a percentage of GDP. That cannot just be ascribed to general economic improvement and growth: it was a fundamental change in the level of corporation tax raised at a lower rate. Why was that? Well, it made the country more competitive, it encouraged people to set up businesses, and it created a system where people thought that the United Kingdom was open for business. What we are doing now is the precise opposite.
+
+In her opening remarks, my hon. Friend the Minister referred to our noble Friend the late Lord Lawson—most distinguished Chancellor, most effective Chancellor—but this goes against everything that he did as Chancellor. In every single Budget that he presided over, he managed to abolish one tax. Why? Because he realised that simplification of the tax system was the right way to go, and because he realised—we saw more of this in the United States during the same period—that lower rates with fewer write-offs is a better way to go than higher rates and complex write-offs. Today, His Majesty’s Government are doing the exact opposite, because the Government think that they know how businesses should spend their own money better than businesses do themselves, which is fundamentally wrong.
+
+As such, we get a raise in the basic rate, which will hit small businesses. It actually hits them at a higher marginal rate, because between £50,000 and £250,000, it has to make up the 19% to the 25%. As people get their business out of the foothills and begin to climb the mountain, we start hitting them with a high marginal rate, which is not particularly clever. Then we say, “You, dear business, do not know how to spend money—you are far too stupid—so we will tell you how”, which fundamentally misunderstands the British economy. It may be that we were a wonderful manufacturing economy in the 19th century. I love the 19th century; I have great affection for the 19th century. Some people accuse me of being the hon. Member for the 19th century—I would point out that it is the right hon. Member, and it may be earlier than that, but never mind. However, that is not the economy we have now. Our economy is primarily a service economy, and providing complex write-offs for investment that benefit manufacturing but hit services does not understand where our economy is based.
+
+Mr Simon Clarke (Middlesbrough South and East Cleveland) (Con)
+I agree with my right hon. Friend. I would add that, even for the manufacturing sector, we are obviously facing an extremely concerning tax situation—I refer him to AstraZeneca’s recent decision to locate in the Republic of Ireland rather than the UK. It is absolutely imperative that we lower our corporation tax rather than raise it, because that is ultimately the key test of our competitiveness.
+
+Mr Rees-Mogg
+My right hon. Friend is right, and for once, those on the Opposition Front Bench were right as well. Part of the problem with the write-offs is that they are temporary, but why are they temporary? Not because that is what the Government want to do, but because the Government are in hock to the OBR, which gets all its forecasts wrong. All the OBR has managed to say about the write-offs is that they will bring forward investment. That is not a bad thing in and of itself, but the long-term benefit is not being achieved because we insist on following what a bad forecaster tells us will happen. Actually, to the credit of the bad forecaster, it admits that what it says will happen will not happen, so we are doing something on the basis of something that even the forecaster says will not be the case when the years have passed. That cannot possibly make sense. We are making it more difficult to do business in this country, and our aim should be lower rates and fewer write-offs. That is the way to encourage business, and it is the way to grow the economy. If we grow the economy, we can afford the public services that we want. At the moment, we are risking shrinking the economy, encouraging business to leave and set up elsewhere and not having the money we need for public services. Clause 5 is a bad clause; it is a bad thing to be doing, and it is a bad thing for the British economy.
+
+I would go further, because this idea that attacking corporations is a free lunch for Governments is a mistake. Corporation tax is of itself a bad tax, because it is not a tax that falls on nobody; it actually falls directly on consumers. It comes through to consumers, because businesses thinking of operating in this country do not care about their gross margin; they care about their net margin. When the corporation tax rate goes up, what do they do? They say, “We either have to increase prices or reduce employment to maintain the net margin.” Increasing corporation tax from 19% to 25% in a period when there is already inflation in the system will be more inflationary, as multinationals will raise their prices to compensate and maintain the net margin, or they will reduce employment, which makes the cost of living crisis worse for people, because people’s incomes then fall when they are trying to deal with rising prices.
+
+I fear that there is a view among politicians that we tax corporations because they do not vote, and it is therefore an easy raid to make and therefore it does not matter. It is the old saw about plucking the goose with the least amount of hissing. Unfortunately, the hissing on corporation tax is delayed, but all taxation ultimately falls on individuals, and that is true of corporation tax. That is why it is a bad tax and why increasing it is a mistake in these current circumstances—indeed, it is a mistake in almost all circumstances.
+
+The multinational minimum tax is also a mistake, and it is a mistake in terms of diplomacy and foreign policy. It was a daft thing to agree at the G7. We had no interest in doing it, and my hon. Friend the Minister said that they have all done it in the EU, as if that was meant to be any salve or balm in Gilead for us anyway. The fact that the high-tax, highly inefficient, highly regulatory EU is keen on it is enough to make most people reach for the smelling salts, rather than to think it is some glorious success of His Majesty’s Government. Why is it a bad idea? It is a bad idea because it deprives us of ambition. My right hon. Friend the Chancellor himself called for corporation tax to come down to 12.5%, and we are now legislating to make his ambition impossible. That is not something that Governments usually do; they normally try to ease their way through to something that they have set out, even if they recognise that the circumstances are not immediately possible in which to do it.
+
+The other reason that the tax is wrong and deprives us of ambition is that it is about settling for a high-tax, inefficient world. I think Angela Merkel, the former German Chancellor, said, “We have a system where we have all this welfare, and other countries do not. How are we going to carry on paying for it when they are so competitive?” That is a quotation from her from a few years ago. We are trying to make the whole of the rest of the world as uncompetitive as we have allowed ourselves to become. That is surely not the answer; the answer is to make ourselves more competitive and therefore to have and to be able to afford lower taxation. Instead of looking at those countries that have low-tax regimes as pariahs, we should look at them as models. Instead of saying that Ireland with its low tax rate is doing something scandalous and should be punished, we should say, “No, Ireland has got more from corporation tax than it gets from value added tax.” We do not get a fraction of the money from VAT and corporation tax, because we have a much higher rate, and we have not attracted the businesses that Ireland has attracted.
+
+Richard Fuller
+I am somewhat sorry to interrupt my right hon. Friend, but I am interested in his views on international competitiveness. One of the issues that the Minister mentioned in relation to the application of global minimum tax is that it will affect companies that have a large amount of their asset base in intangible assets. Those are primarily in the more advanced countries—western democratic countries—which will find it much harder to justify some of the deductions they can make from the amount of tax they will be subject to under that global minimum tax. What is his consideration of the global political impact of that on the competitiveness of our advanced economies versus China, and of the other implication about the valuation of pensions, many of which are invested in companies that will be disproportionately affected by this legislation?
+
+15:45:00
+
+Mr Rees-Mogg
+My hon. Friend is absolutely spot-on that intellectual property rights are, of their nature, much harder to tax, but they clearly belong in the country that invented them or that owns the intellectual right, which is a saleable asset. If that is in a low-tax jurisdiction, why should it be taxed at a falsely high rate? If Disney makes a plastic toy in China, where is the value? It is not actually in the plastic toy being created; it is in the fact that millions of people like watching Disney characters. Trying to locate where that tax ought to be paid is therefore an extremely complex issue, and not one that is solved by a minimum tax. All that does is make it less efficient for companies to invest, develop and do things here, and they might as well do that somewhere else. They might as well do it in China, actually, because China does not seem to be very enthusiastic about this minimum tax anyway.
+
+I do not think this will succeed in stopping complexity. Indeed, it adds to the complexity of the system, and we need only look at this Finance Bill to see by quite how much. The Minister, to her credit, did admit this, and said it was so important that we debated it, with which I thoroughly agree, but the dozens of pages of clauses and schedules on this are making our system fundamentally more complex.
+
+My right hon. Friend the Member for Witham (Priti Patel) raised the issue of tax sovereignty. We got into a terrible muddle by signing up, in the European Union, to a minimum rate for VAT. We thought at the time it was a success, because the EU wanted to be able to set a unified rate, and we got just a minimum rate agreed. However, that led to suddenly finding that it was impossible to lower VAT rates, as we discussed during the Brexit debate, and as we still cannot do in Northern Ireland, where we are stuck with VAT rates still being set according to the minimum agreed in the European Union. So we remove flexibility, remove sovereignty, increase complexity and make it less competitive for business, and we are selling the pass on becoming a tax-efficient, tax-competitive country.
+
+Tax competition is a good thing for those of us on this side of the House, who are meant to be capitalists. I accept that the socialists do not want it, and that is fair enough—that is what they believe in—but we believe in growing economies through free-market solutions. Therefore, we believe that if we have a lower tax rate than Germany, that is a good thing because it makes our economy more competitive and makes the British people richer than the Germans. That is not something we are achieving currently, but that I would like to achieve, Mr Evans—the independent Chairman seemed to be nodding at that, but I am sure that Hansard will take no notice of his agreement that we ought to be richer than the Germans.
+
+This is about a failed economic orthodoxy of an undynamic kind that is leading to the increase in corporation tax, when the evidence from George Osborne showed that that is not true, so clause 5 is a mistake. Then the multinational minimum tax is about making globally the rest of the world as inefficient as the European behemoth has become, and that is the wrong approach to be taking. Where is our ambition, where is our vision and where is our free-market approach?
+
+Richard Fuller
+On a point of order, Mr Evans. For complete transparency, I just mentioned a point about intellectual property, but I did not mention that I have recently resumed a position as an adviser to a technology investment company. Actually, it is so new that it has not yet appeared in the Register of Members’ Financial Interests. It would not be affected by global minimum tax, but I thought I should make that clarification.
+
+The Second Deputy Chairman of Ways and Means (Mr Nigel Evans)
+That is on the record. Thank you very much.
+
+Sarah Olney (Richmond Park) (LD)
+I rise to speak on behalf of the Liberal Democrats to new clause 7, tabled in my name, which would require the Government to produce an impact assessment of the effect of changes to small and medium-sized enterprise research and development tax credits on the UK tech industry and on long-term economic growth.
+
+The Conservatives’ constant flip-flopping on tax and investment rules and their badly targeted incentives have not achieved the growth they promised, or are promising. Just last week, the International Monetary Fund predicted that the UK economy would contract by 0.3% this year, making us the worst-performing major economy. Prolonged weakness in business investment and productivity are a major barrier to economic growth, and if the Government want to boost innovation and drive long-term sustainable growth, they need to implement effective and well-designed policy on tax and investment.
+
+The Federation of Small Businesses calls research and development tax credits for SMEs the most effective industrial policy of the last 10 years, enabling small businesses to develop cutting-edge products and foster competition and innovation within industry. The Government’s decision to dramatically slash R&amp;D tax credits has therefore come as a blow to thousands of businesses. The Chancellor’s new policy of targeting tax breaks at research-intensive firms has been celebrated by the life sciences industry, but many other industries will fall outside the 40% intensity threshold. The Institute of Directors has also warned that targeting tax credits at research-intensive firms could lead to less innovation across the economy more widely.
+
+We need to incentivise companies across all sectors to innovate, and particularly to encourage those that have not habitually been innovators. The manufacturers’ organisation Make UK has warned that further damage has been caused by the Conservatives’ chopping and changing on tax credit policy, which leaves businesses struggling to keep up and weakens business confidence. On Second Reading I urged those on the Treasury Bench to reconsider their policy and to reinstate the R&amp;D tax credits for SMEs in full, and I am disappointed to see a lack of movement in that area.
+
+The Liberal Democrats would introduce the kinds of incentives that have been proven to boost productivity, such as tax breaks for training to ensure that employees can continue to develop their skills, both for their own benefit and for the benefit of their employers; allowances for digital investment, to enable businesses to invest quickly and early in the newest digital tools in order to make productivity gains; and, most importantly, encouraging proper, ambitious, bold investment in energy efficiency. Whether for switching a fleet to electric cars or installing solar panels, reducing demand for energy is essential not only for decarbonising our industrial sector, but for bringing down production costs.
+
+The need for targeted incentives for energy efficiency has been underlined by the ongoing energy cost pressures that businesses are experiencing, and the Conservatives’ decision to slash energy support for businesses by 85% will force countless shops, pubs and restaurants to pass increased costs on to their consumers, further fuelling inflation. The Liberal Democrats have repeatedly called on the Government to do more to tackle rampant inflation by supporting businesses with their energy bills. Amidst Government inaction, last month the rate of inflation in the UK jumped to 10.4%, driven largely by the cost of food and alcohol in hospitality venues. I urge the Government to look again at their policy on energy support and tax incentives offered to business, to tackle inflation, to stimulate economic growth and to drive productivity across all sectors.
+
+Kirsty Blackman
+The hon. Lady is making an important speech on new clause 7. I did not mention this in my speech, but we will support the new clause if it is pressed to a Division today.
+
+Sarah Olney
+I welcome the Scottish National party’s support for our new clause.
+
+I ask the Government to accept the Liberal Democrat amendment proposing an impact assessment on the changes to R&amp;D tax credits. It is essential that this policy is kept under review and its impact on the UK’s tech industry and long-term economic growth is monitored if we are to ensure that the UK becomes the powerhouse of technical innovation it so badly needs to be if we are to drive the productivity we need to increase growth across all economic sectors.
+
+Caroline Lucas
+I rise to speak in support of new clause 10, which stands in my name and addresses the decarbonisation allowance first announced by the Chancellor in the autumn statement and now legislated for in this Bill. Although in principle the decarbonisation allowance may sound innocuous or even useful, it is in fact an outrageous subsidy that sees the taxpayer paying companies to decarbonise their activities.
+
+Under this scheme, a company spending £100 on so-called “upstream decarbonisation”—in other words, reducing emissions from the process of extracting oil and gas that then goes on to be burned—is eligible for £109 in relief. We should remember that these companies have themselves admitted that they have
+
+“more cash than we know what to do with”,
+
+and earlier this year they recorded obscene, record profits, with BP’s profits more than doubling to £23 billion and Shell reporting annual profits of more than £32 billion, all while millions of UK households face unbearable choices between basic needs and desperately struggling to make ends meet.
+
+In his Budget statement, the Chancellor recognised what he called the enormous pressures on family finances, with some people remaining in real distress, yet even with the decision to freeze the energy price guarantee at £2,500 as of this month, bills will still rise by almost 20% and 7.5 million households will be in fuel poverty. It is utterly perverse that in this context the Government have decided to hand the climate criminals—those who have profited from the spoils of war—yet another subsidy. These are, at bottom, political choices.
+
+The Chancellor may say, in response to my amendments, that we should be endorsing the decarbonisation allowance to cut emissions from the oil and gas sector, but that ignores the economic reality of the situation and the reality of our planetary boundaries, with upstream decarbonisation doing nothing to mitigate the end result of the fossil fuels choking our precious planet. I am afraid that, in the face of worsening climate impacts, paying companies to power oil rigs with wind turbines or to monitor emissions to detect leaks simply does not cut it. Even more alarming is the provision in the Bill for the decarbonisation allowance to support carbon capture. That UK taxpayers would pay oil and gas companies to capture their emissions in order to allow them to continue production—essentially, to continue business as usual—is a shocking violation of the “polluter pays” principle.
+
+If the Government were seriously looking at reducing production emissions, they would, for example, be looking to bring forward an outright ban on flaring by the end of 2025 at the very latest—I remind Members that flaring has been banned in Norway since 1971—or they would be strengthening the lamentable targets in the North sea transition deal from a 50% reduction in emissions by 2030 to at least a 68% reduction, as proposed by the Committee on Climate Change in its balanced pathway, both of which have been called for by the Environmental Audit Committee, of which I am a member. Yet in their response to the EAC’s report on “Accelerating the Transition from Fossil Fuels and Securing Energy Supplies”, the Government roundly rejected both recommendations, maintaining that the existing targets in the North sea transition deal are “sufficiently ambitious”.
+
+This is not a Government who are serious about cutting emissions from production, and they are certainly not serious about the climate crisis. New clause 10 recognises that the decarbonisation allowance is just one of the handouts to fossil fuel companies that have been introduced under the energy profits levy. It would require the Government to produce an assessment of the cost of the decarbonisation allowance to the Treasury and, crucially, its impact on overall investment in oil and gas production. It would also reveal how much money would be raised through the energy profits levy without the enormous gas giveaways in the form of both the investment allowance and the decarbonisation allowance, as well as assessing their impact on delivering our crucial climate targets.
+
+At this point, I would like to say a few words in support of new clause 6, which would require the Chancellor to conduct a review of the decarbonisation allowance and its impact on public finances, although it is important to note that the amendment is somewhat narrower in not requiring an assessment of climate impacts as well. The Government are very transparent about the fact that the investment allowance is directly aimed at encouraging companies to pump more money into oil and gas extraction in the UK by allowing them to claim £91.40 for every £100 invested. That policy runs directly counter to the advice of the world’s leading scientists on what is needed to keep 1.5° within reach, with the UN Secretary-General calling for a cessation of
+
+“all licensing or funding of new oil and gas”
+
+at the recent launch of the Intergovernmental Panel on Climate Change’s “AR6 Synthesis Report”, and the report itself being clear that emissions from existing fossil fuel infrastructure already exceed the remaining carbon budget for 1.5°.
+
+The bottom line is that our climate simply cannot take any new oil and gas licences. As I have said time and again, new licences would also fail to deliver energy security. With the oil and gas sold on global markets to the highest bidder, they will not bring down bills in the UK and will inevitably come at a huge cost to the taxpayer. Indeed, if we take just one example, Rosebank, the UK’s largest undeveloped oilfield, the costs become clear. Rosebank is enormous. At triple the size of the neighbouring Cambo oilfield, it would produce more emissions than 28 low-income countries combined or, to put it another way, it would produce the carbon dioxide equivalent of running 58 coal-fired power stations for a year. If developed, its owners will be gifted a £3.75 billion taxpayer-funded subsidy from the Government to the estimated £4.1 billion project. The Norwegian state-owned company Equinor, which made a staggering £62 billion last year, contributed just £350 million while pocketing enormous profits.
+
+16:00:00
+
+The total cost of the investment allowance to the taxpayer has been calculated at a staggering £11 billion. That is enough to give an inflation-matching pay rise to every NHS worker and teacher for a year. On decarbonisation, Equinor has said that it will invest £80 million to ready its production vessel for electrification, meaning that the firm would get £87 million in saved taxes. That is just ludicrous. The full cost of powering Rosebank with clean electricity would run into the hundreds of millions, but thanks to the decarbonisation allowance, that now risks being borne by UK taxpayers.
+
+If the Chancellor cannot see the problem, he is simply not paying attention. I ask him and the Treasury Front Bench team, in all seriousness, to scrap not just the decarbonisation allowance but the investment allowance and, instead, to bring forward a windfall tax worthy of its name. Failing that, I ask that they please accept my amendments, which would at the very least give us transparency over the costs of these policies both to the taxpayer and, crucially, to our planet.
+
+Emma Hardy (Kingston upon Hull West and Hessle) (Lab)
+What an interesting debate it has been. I have found myself slightly amused numerous times by comments from Conservative Members, especially when have they tried to make out that theirs is the party of low taxes, when taxes as a share of GDP are heading to a post-war high. The public are not stupid. A recent poll in The Spectator showed that the public associate the Conservative party with higher taxes. The reason is that the Conservatives keep putting their taxes up.
+
+Another problem that I have seen play out this afternoon as I have sat here is that the Conservative party is inherently divided. Different parts of the governing party are pulling in different directions. That is seen in the seven Chancellors we have had since 2010. As different factions have taken over the leadership, those seven Chancellors have pulled the party in different ways, creating uncertainty. Uncertainty is one of the key things that businesses say leads to a lack of investment. It is not just businesses telling us of the problem of uncertainty, but economists. They tell us about the difficulty with uncertainty and why the UK is uniquely impacted by a lack of investment.
+
+Torsten Bell said that if we go back to 2010 when the Conservatives first came to power—13 long years ago—we initially see a relatively good bounce back from the financial crisis, but then
+
+“we basically miss out on all of the investment growth that other countries saw in the second half of that decade. We flatlined, everyone else soared. In so far as there was a global boom going on, that is when it happened. We did not see that. There have been some revisions to the data recently that make the bounce back from the pandemic on business investment less grim than they looked before, but they are still pretty bad.”
+
+That is one economist. Another economist, Professor Coyle, said:
+
+“Tax will make a difference, but it is not the only thing that matters, and surveys of employers tend to highlight poor infrastructure”—
+
+something that anyone who spends any time travelling by rail around the north is only too aware of—
+
+“and lack of skills, which we’ve already been talking about. Lining up all the different things that matter is obviously part of the challenge—so, consistency”—
+
+that word again—
+
+“and making the system work as a whole.”
+
+Another economist, Paul Johnson, said:
+
+“The lack of consistency in policy is clearly a problem. Something that we talked about—perhaps it is not the right place to talk about it—is that the political instability is a problem for companies looking to invest”.
+
+Seven Chancellors and a divided governing party that does not know which direction to take the economy and our country. Businesses are seeing that, voting with their feet and choosing not to invest in the UK. Professor Coyle went on to say:
+
+“If you look at the past decade or so, what has been happening to firms, even within a given industry, is that the dispersion of productivity has increased. There are some very productive firms. Their productivity growth has slowed down, but they are pulling further and further ahead of…the rest. Firms that are operating outside London and the south-east tend to be the ones in the low productivity part of that distribution.”
+
+As we have said before, the issue goes back to infrastructure. The constant under-investment in Northern Powerhouse Rail, with different Prime Ministers making decisions about whether we will or will not have it, will have an impact on business investment and influence whether businesses choose to invest in our country.
+
+Professor Coyle went on to say:
+
+“I do not mind whether it is called an industrial strategy or not, but we need some kind of long-term perspective—some kind of strategic approach to managing the economy.”
+
+Hear, hear, Professor Coyle. I agree and so does the Labour party, which is why the Labour party has a long-term plan for growth in the country and why I am speaking in support of new clause 3. If businesses cannot have certainty from the governing party or understand which Chancellor is going to introduce which measure in what way, or which faction is the latest to take over the governing party, then they need that certainty from the Labour party, because they are really struggling.
+
+I have met with local businesses in my constituency and they gave me a very clear message: it is incredibly difficult. The Chancellor may boast—boast, ha!—that we are not in a technical recession, but try telling that to the small businesses in my constituency that are finding life incredibly difficult. As we walk around different high streets, we can see the number of shops that are closing. Although the review of business rates does not go as far as the Labour party wants—we want to get rid of business rates altogether—hopefully Members from across the House can support such a fundamental review. Let us look at what we can do to support businesses, especially small businesses. I am sure each and every one of us has been lobbied hard by the Federation of Small Businesses and heard directly from small businesses about how difficult they are finding things.
+
+I will comment briefly on new clause 7 about research and development tax relief, which is proposed by Liberal Democrat Members. It is well worth reading the TaxWatch report into the levels of fraud associated with R&amp;D tax reliefs. We may want to support businesses with R&amp;D tax reliefs—I am not saying that we should not do that—but we need to take the issue of fraud more seriously. The OBR predicts that the total cost of R&amp;D reliefs will increase from £6.8 billion in 2021 to £9.2 billion in 2026-27, but fraud and error in that scheme totals over £1.1 billion in the last three years.
+
+Sarah Olney
+The hon. Member makes an excellent point about fraud and error. Does she agree that removing the tax breaks entirely is a sledgehammer to crack what is ultimately quite a small nut? Further attempts to crack down on fraud and error would be a much more constructive way to approach the issue she raises, rather than scrapping the tax relief entirely.
+
+Emma Hardy
+I never for one moment suggested we should scrap the tax relief entirely, but we definitely need to do something about fraud. When we have businesses ripping off the taxpayer for £1.1 billion—money that is desperately needed for our public sector, hospitals and infrastructure—we need to take the issue seriously and not brush it under the carpet. R&amp;D claim firms continue to hard sell opportunities to claim refunds, often to companies that should not qualify.
+
+We have issues with the tax gap, which is around £32 billion. That tax gap continues to increase and the tax fraud gap stands at £14.4 billion. That is a heck of a lot of money. If they were serious about wanting to reduce taxes, I would have thought Government Members would want to tackle tax fraud. I have raised the issue with the Minister in a previous debate and I know she is aware of it, so will she outline the steps being taken by HMRC and HM Treasury on the important work of reducing tax fraud and simplifying our tax system?
+
+While we are talking about tax simplification, and as a teaser for the debate tomorrow, it seems strange that the Government wish to abolish the Office of Tax Simplification. That seems a rather strange thing to do when they seem so keen on having tax simplification, but maybe we can continue that discussion tomorrow.
+
+Douglas Chapman (Dunfermline and West Fife) (SNP)
+I always wondered how the Conservative party did its policy development, but I think the right hon. Member for North East Somerset (Mr Rees-Mogg) has helped me to come to a conclusion. My sympathies therefore go to the Minister.
+
+This Finance Bill is yet another glaring example of the UK Government trying to shove a square peg into a round hole for the people of Scotland. They are desperately trying to fix economic problems of their own making, but their Bill will do the square root of zero to fix the enormous productivity and labour supply challenges that our nation faces as a result of their mismanagement.
+
+I know that the SNP is often seen as a force for positive general happiness around this Chamber, but there is a great black cloud of gloom and doom overhanging the Bill. It relates to Brexit: the unwelcome guest at the wedding, the elephant in the room, the truth that dare not be spoken by its instigators. Brexit has brought us headlines such as “Economy in decline”, “No-growth Britain”, “Bottom of the class at the G7” and “Export exodus”—hardly what we would call sunlit uplands, and not a unicorn in sight.
+
+Did Scotland vote for this? No, we did not. We did not want Brexit, but it was forced upon us. Meanwhile, the Prime Minister seems to be contradicting his own ideology by remarking on all the special and exciting opportunities for Northern Ireland from access to the EU and UK markets. He does not even realise the irony of his comments or the gross unfairness to Scotland, which has been left in the lurch, with our democratic mandate ignored.
+
+The Scottish people know that this is a Government in denial, with a double whammy of Tory ineptitude on the economy and a damaging Brexit that cannot be fixed by a Finance Bill produced by the same team who were behind that not-so-winning combination. With the economy contracting, according to the International Monetary Fund, and with the Chancellor failing to meet his two main fiscal targets of a falling public debt burden and borrowing below 3% of GDP by 2028, we now know that workers in old Blighty are £1,300 worse off as a result of Brexit. The IFS has stated that our productivity and economic output will fall by 4% as a result of leaving the single market, leaving workers significantly worse off and public services at the thin end of the wedge again, with less money in their budgets. We need less “Better Together for Scotland” and more “I’m Scottish…Get Us Out of Here PDQ!”
+
+I turn to our amendments. I hear from small and medium-sized businesses in my constituency and across Scotland that they are struggling as a result of the economic decline. They are fighting a war on all fronts with energy costs and the costs of doing business, not to mention that they are still trying to get back on their feet after the pandemic and are dealing with the new red tape generated by Brexit.
+
+I am happy to support SNP new clause 8 on extending relief of R&amp;D expenditure for our excellent and important data and cloud computing services. On research and development, the refrain that I hear on repeat from businesses is that they are keen to invest but have their hands tied behind their back. Looking at the clauses before the Committee today, it is easy to see why the Conservatives have lost their “party of business” strapline. So many businesses are reporting that they feel abandoned by this Government and left to float alone, without a life raft to get them out of the swirling morass of the economy and into better times. If the Government want growth and prosperity, they need to listen—really listen—to the people at the coalface who do business every day and who have faced years of knocks and challenges.
+
+On corporation tax, the Government do not seem to know whether they are coming or going. One minute, corporation tax rises seem to be in vogue; the next minute, they are not. The Government swither and dither, but the business community desperately needs stability, security and some long-term plans that will give it the space to breathe and grow.
+
+The ever-present climate crisis is a threat not just to business, but to people’s livelihoods. The UK Government have not shown their best colours when it comes to ensuring that their legislation is in line with the climate challenges. Despite the climate-induced weather events in the UK and abroad, the Prime Minister left out tackling climate change and reaching net zero from his core priorities for his growth strategy. With the number of elephants in the room, No. 10 and No. 11 are getting pretty crowded.
+
+We cannot pretend that Brexit and climate change are not devastatingly bad for business and for people’s finances. Without acknowledging the catastrophic damage that they bring, we cannot move forward with a comprehensive plan. The Chancellor can present as many Finance Bills to Parliament as he wishes, but these are people’s real lives, real livelihoods and real futures, uncushioned by wealth and privilege, and catastrophically unsupported by a tin-eared Government who refuse to look at the reality of the situation that they themselves face. It is time for Scotland to make a swift exit, and I hope that in the coming months we can achieve just that.
+
+The Second Deputy Chairman of Ways and Means (Mr Nigel Evans)
+I call the Financial Secretary to the Treasury to wind up the debate.
+
+16:15:00
+
+Victoria Atkins
+I thank all Members for a most interesting debate. It is not often that the public—if people have been watching this debate—are able to see us scrutinise measures in this way. Committee debates often take place in rooms off the Committee Corridor, and although they are sometimes available for public consumption, it is very helpful when they happen on the Floor of the House. I am genuinely grateful to all who have contributed.
+
+I am afraid I cannot resist picking up, very gently, the points made by Opposition Members about the role that my hon. Friends have been playing during this Committee stage in scrutinising legislation. This is exactly what Members of Parliament are supposed to do. Their job—your job, dare I say it to Members—is to scrutinise our legislation, and I welcome that. It may well be that Opposition Members have highlighted a fundamental difference between the Labour and Scottish National parties and the Conservative party: we have the intellectual self-confidence to hold these debates, and to debate policy. [Laughter.] Opposition Members may laugh, but we know how difficult internal debate has been in the Labour party. It has meant inquiries by the Equality and Human Rights Commission, it has meant a Labour MP being protected by the police in order to attend her own party’s conference, and I understand that a member of that party is currently being ostracised because her views on what a woman is differ from those of the Leader of the Opposition. So we on this side of the House do welcome debate, and we are able to conduct it properly and professionally within the rules of this Chamber.
+
+Kirsty Blackman
+rose—
+
+Victoria Atkins
+I will not give way, because I know it has been a busy day for the SNP. [Interruption.] I will not say any more.
+
+My right hon. Friend the Member for North West Hampshire (Kit Malthouse) rightly raised the subject of the corporation tax increase, but so, significantly, did Opposition Members. They have made much play of the tax rate, and I thought it important just to remind everyone why we are where we are.
+
+The Government borrowed an additional £14 billion in 2020-21 and 2021-22 to fund the response to covid. I cannot imagine that any Opposition Member—including those on the Front Bench—actually disagreed with, for example, the furlough scheme, which protected more than 11 million jobs and companies throughout the country. However, that enormous sum has to be repaid. In response to the energy crisis, the Government have provided just over £100 billion to help households and businesses with higher energy bills in 2022-23 and 2023-24. That has contributed to a significant increase in our public debt, which is forecast to reach 100.6% of GDP in 2022-23, the highest level since the 1960s.
+
+That has happened precisely because the Government have responded to the pandemic, to the international crisis in Ukraine and, importantly, to the knock-on effects that that has had on our cost of living. I cannot imagine that Labour Members really begrudge the support that we are providing—more than £3,000 for every household, including households in their constituencies, to help those people with the cost of living.
+
+However, as my right hon. Friend rightly pointed out, we also believe in the principles of sound money. In the autumn statement, my right hon. Friend the Chancellor explained that some very difficult decisions had to be made. Indeed, even with the increase in the rate to 25% that was originally announced by the Prime Minister when he was Chancellor, we will still have a corporate tax system that remains one of the most supportive of business anywhere in the world, with the lowest headline rate of corporation tax in the G7, the joint most generous capital allowances regime for plant and machinery in the OECD, thanks to the full expensing in this Bill, and the joint highest uncapped headline rate of R&amp;D tax relief support for large companies in the G7. That is in addition to the features of the corporate tax system that make the UK an attractive location as a global hub, including having the largest tax treaty network in the world, mitigating the risk of double taxation. I point out for the sake of clarification that at 25%, the rate of corporation tax will be lower than at any time before 2010 under the last Labour Government.
+
+I will move on to the provisions in relation to pillar two. My right hon. Friend the Member for Witham (Priti Patel) raised some important questions, including about capital flight. We have looked carefully at this and I understand why she is asking about this. I hope she will be reassured that this has been at the forefront of negotiators’ minds as we have looked at this agreement. The rules contain defensive measures to prevent capital flight. If a country does not implement them, the top-up tax will be collected by other countries instead, so there is no incentive to move or escape from these rules.
+
+My right hon. Friend also asked about the Chartered Institute of Taxation’s view that this measure might raise less than expected. Again, I hope she will be reassured that the costing for pillar two was certified by the Office for Budget Responsibility and published at the autumn statement. The estimates are that pillar two will raise £2 billion a year by 2027-28. This includes revenue arising from UK-headquartered groups that are subject  to low tax on their foreign operations, the diminished incentive for groups to shift their profits out of the UK and the qualified domestic minimum tax.
+
+My right hon. Friend also asked about Japan. It has passed its legislation and it is implementing this in April next year, three months after we are legislating for. I hope that that timeframe gives her some comfort. I also note that 40 countries have implemented or announced pillar two or a similar rule, and I am told that they make up around 60% of global GDP. It is precisely because of the interlocking nature of the rules that revenues will be taxed at 15%, no matter where they are shifted. I am going to move on to three new clauses that I have a feeling might be the cause of contention and therefore Divisions tonight, but I will happily write to the hon. Member for Aberdeen North (Kirsty Blackman) about her point on data licences, because I want to reassure her on that.
+
+On new clause 1, the Government are committed to sharing expertise on implementation and to co-ordinating our efforts internationally. We are playing an important and active role in the design of pillar two rules and we are achieving the delicate balance between having rules that are effective in tackling profit shifting and being proportionate. It would not be appropriate to provide a running commentary on international discussions ahead of the agreed outcomes of these meetings, which are published by the OECD, including in the administrative guidance to the rules published in February. We therefore say that the new clause is unnecessary and we urge colleagues to vote against it if it is pushed to a Division.
+
+New clause 3 would require the Government to conduct a review of the UK’s business tax regime. This is business as usual for the Treasury and the Government. We have done, and continue to undertake, significant work to understand the impact of tax incentives on business investment. The tax plan published at spring statement 2022 set out the Government’s vision for using the tax system to incentivise investment in capital assets and in research and development, and we have set out detailed information on the Exchequer, macroeconomic and business impacts of these policies at the Budget. The evidence for this continuing work lies in both the full expensing policy in clause 7 and the increase to the annual investment allowance in clause 8, both of which I trust the Opposition will support.
+
+I remind colleagues that the full expensing policy is equivalent to a £27 billion tax cut for businesses over three years. It saves eligible businesses 25p in tax for every £1 they invest. That is the Conservative approach to sound money, and that is what we will do to help grow our economy. The impact of our plan to halve inflation, to grow the economy and to reduce debt is demonstrated in the rising confidence of finance executives, as reported in the recent Deloitte survey. Do not listen to the doom-mongers opposite; listen to British businesses.
+
+Turning to new clause 6, the Government expect the energy profits levy to raise just under £26 billion between 2022-23 and 2027-28, helping to fund the vital and unprecedented cost of living support orchestrated by this Government. This includes the impact of the investment allowance. HMRC regularly publishes estimates for the cost of various tax reliefs where relevant data is available and identifiable in tax returns. For example, estimates for the cost of the investment allowance against the supplementary charge and the first-year allowance of the ringfencing regime are regularly included in that publication. HMRC intends to make a cost estimate for the investment allowance against the energy profits levy in due course.
+
+We have always been clear that we want to see significant investment from the sector to help protect our energy security. Oil and gas accounted for 77% of the UK’s energy demand last year and, as set out in the energy security strategy, the North sea will still be a foundation of our energy security, so it is right that we continue to encourage investment in oil and gas. Supporting our domestic oil and gas sector is not incompatible with net zero 2050, as we know we will need oil and gas for decades to come.
+
+As the energy crisis in the UK has shown, constraining supply and dramatically increasing prices does not eliminate demand for oil and gas. A faster decline in domestic production would mean importing more oil and gas at greater expense, potentially resulting in additional emissions, especially in the case of gas.
+
+On the climate targets, the Treasury carefully considers the impact of all measures on the UK’s climate change commitments as a matter of course. It should be noted that the Government have made the UK a climate leader and have reduced emissions faster than any G7 country over the last 30 years. We are on track to deliver our carbon budgets and on course to reach net zero by 2050, creating jobs and investment across the UK while reducing emissions.
+
+I hope I have been able to reassure Members. I have genuinely enjoyed the scrutiny they have brought to this important piece of legislation. I urge the Committee to reject new clauses 1 to 3 and 6 to 10, and amendment 26. For the reasons I set out at the beginning, I commend Government amendments 12 to 13 and 15 to 20.
+
+Question put and agreed to.
+
+Clause 5 accordingly ordered to stand part of the Bill.
+
+Clauses 6 to 10 ordered to stand part of the Bill.
+
+Schedule 1
+
+Relief for Research and Development
+
+Amendment made: 14, page 283, line 27, at end insert—
+
+‘(3) In section 1057 (R&amp;D relief for SMEs: tax credit only available where company is a going concern), after subsection (4C) insert—
+
+“(4D) For the purposes of this section, where a company (“A”) is a member of the same group as another company (“B”) and A’s latest published accounts were not prepared on a going concern basis by reason only of a relevant group transfer, the accounts are to be treated as if they were prepared on a going concern basis.
+
+(4E) For the purposes of this section—
+
+(a) a “relevant group transfer” is a transfer, within the accounting period to which the latest published accounts relate, by A of its trade and research and development to another member of the group mentioned in subsection (4D);
+
+(b) A and B are members of the same group if they are members of the same group of companies for the purposes of Part 5 of CTA 2010 (group relief).”’ —(Victoria Atkins.)
+
+This amendment would make an amendment to section 1057 of the Corporation Tax Act 2009 that is equivalent to the amendments being made by the Bill to sections 104T and 1046 of that Act.
+
+Schedule 1, as amended, agreed to.
+
+Clauses 11 to 15 and 121 to 125 ordered to stand part of the Bill.
+
+Schedule 14 agreed to.
+
+Clauses 126 and 127 ordered to stand part of the Bill.
+
+Schedule 15 agreed to.
+
+Clauses 128 to 173 ordered to stand part of the Bill.
+
+Clause 174
+
+Amount of covered tax balance
+
+Amendment made: 12, page 119, leave out lines 4 to 8.—(Victoria Atkins.)
+
+This amendment omits Step 4 in clause 174(1). That Step is unnecessary as it duplicates the effect of provision in clauses section 175(2)(e) and 176(2)(i).
+
+Clause 174, as amended, ordered to stand part of the Bill.
+
+Clauses 175 to 222 ordered to stand part of the Bill.
+
+Clause 223
+
+Adjustments
+
+Amendment made: 13, page 163, line 19, at end insert—
+
+‘(10) Where the covered tax balance of an investment entity includes an amount allocated to it under section 179(1) or 180(3)(a) (allocation of tax imposed under controlled foreign company tax regimes), only so much of its covered tax balance as is not comprised of amounts allocated under those sections is subject to adjustment under this section.’.—(Victoria Atkins.)
+
+This amendment prevents adjustments being made to the covered tax balance of an investment entity in relation to amounts of controlled foreign company tax allocated to the entity (to avoid the same adjustments being effectively made twice).
+
+Clause 223, as amended, ordered to stand part of the Bill.
+
+Clauses 224 to 260 ordered to stand part of the Bill.
+
+Schedule 16
+
+Multinational top-up tax: transitional provision
+
+Amendments made: 15, page 395, line 8, leave out paragraph (a) and insert—
+
+‘“(a) assets are transferred from one member of a multinational group to another member of that group,
+
+(aa) either—
+
+(i) the Pillar Two rules do not apply to the transferor for the accounting period in which the transfer takes place, or
+
+(ii) an election under paragraph 3(1) (transitional safe harbour) applies in relation to the transferor for that period, and’.
+
+This amendment provides for the anti-avoidance provisions in relation to intragroup transfers to apply to transfers from a member of a multinational group until that member is fully subject to the Pillar Two regime.
+
+Amendment 16, page 395, line 17, leave out “beginning of the commencement period” and insert “relevant time”.
+
+This amendment is consequential on Amendment 15.
+
+Amendment 17, page 395, line 19, leave out from “transfer,” to end of line 24 and insert “and”.
+
+This amendment is consequential on Amendment 15.
+
+Amendment 18, page 395, line 27, leave out from “assets” to end of line 32.
+
+This amendment is consequential on Amendment 15.
+
+Amendment 19, page 395, line 32, at end insert—
+
+‘(3A) For the purposes of this paragraph “the relevant time” means the later of—
+
+(a) the date of the transfer, and
+
+(b) the commencement of the first accounting period in which—
+
+(i) the Pillar Two rules apply to the transferee, and
+
+(ii) an election under paragraph 3(1) (transitional safe harbour) does not apply in relation to the transferee.
+
+(3B) Where the relevant time is after the date of the transfer—
+
+(a) the value of the assets at the relevant time is to be adjusted to reflect—
+
+(i) capitalised expenditure incurred in respect of the assets in the period between the date of the transfer and the relevant time, and
+
+(ii) amortisation and depreciation of the assets that, had the transfer not occurred, would have been recognised by the transferor if the transferor had continued to use the accounting policies and rates for amortisation and depreciation of the assets previously used, and
+
+(b) the tax paid amount in relation to the transfer of the assets is to be adjusted to reflect the matters referred to in paragraph (a)(i) and (ii).’
+
+This amendment is consequential on Amendment 15.
+
+Amendment 20, page 398, leave out lines 36 and 37 and insert—
+
+‘(3A) Information derived from qualified financial statements as to revenue or profit (loss) before income tax must be adjusted—
+
+(a) as the information was adjusted for the purposes of its inclusion in a qualifying country-by-country report in relation to the territory, or
+
+(b) if the information was not included in such a report, as it would have been adjusted had it been included in such a report.
+
+See also paragraph 6 which provides for circumstances in which further adjustments are required to profit (loss) before income tax and circumstances in which adjustments are required to qualifying income tax expense.’—(Victoria Atkins.)
+
+This amendment makes it clear that in determining whether the transitional safe harbour provisions apply for the purposes of multinational top-up tax, revenue and profits are to be as stated in a country-by-country report, or adjusted as if they were included in such a report.
+
+Schedule 16, as amended, agreed to.
+
+Clause 261 ordered to stand part of the Bill.
+
+Schedule 17 agreed to.
+
+Clauses 262 to 275 ordered to stand part of the Bill.
+
+Schedule 18 agreed to.
+
+Clauses 276 and 277 ordered to stand part of the Bill.
+
+New Clause 1
+
+Statement on efforts to support implementation of the Pillar 2 model rules
+
+‘(1) The Chancellor of the Exchequer must, within three months of this Act being passed, make a statement to the House of Commons on how actions taken by the UK Government since October 2021 in relation to the implementation of the Pillar 2 model rules relate to the provisions of Part 3 of this Act.
+
+(2) The Chancellor of the Exchequer must provide updates to the statement at intervals after that statement has been made of—
+
+(a) three months;
+
+(b) six months; and
+
+(c) nine months.
+
+(3) The statement, and the updates to it, must include—
+
+(a) details of efforts by the UK Government to encourage more countries to implement the Pillar 2 rules; and
+
+(b) details of any discussions the UK Government has had with other countries about making the rules more effective.’—(James Murray)
+
+This new clause would require the Chancellor to report every three months for a year on the UK Government’s progress in working with other countries to extend and strengthen the global minimum corporate tax framework for large multinationals.
+
+Brought up, and read the First time.
+
+Question put, That the clause be read a Second time.
+
+Division 209
+18/04/2023 16:33:00
+The Committee divided:
+Ayes: 227
+Noes: 306
+Question accordingly negatived.
+
+New Clause 3
+
+Review of business taxes
+
+‘(1) The Chancellor of the Exchequer must, within six months of this Act being passed—
+
+(a) conduct a review of the business taxes, and
+
+(b) lay before the House of Commons a report setting out recommendations arising from the review.
+
+(2) The review must make recommendations on how to—
+
+(a) use business taxes to encourage and increase the investment of profits and revenue;
+
+(b) ensure businesses have more certainty about the taxes to which they are subject; and
+
+(c) ensure that the system of capital allowances operates effectively to incentivise investment, including for small businesses.
+
+(3) In this section, “the business taxes” includes any tax in respect of which this Act makes provision that is paid by a business, including in particular provisions made under sections 5 to 15 of this Act.’—(James Murray.)
+
+This new clause would require the Chancellor to conduct a review of business taxes, and to make recommendations on how to increase certainty and investment, before the next Finance Bill is published.
+
+Brought up, and read the First time.
+
+Question put, That the clause be read a Second time.
+
+Division 210
+18/04/2023 16:48:00
+The Committee divided:
+Ayes: 233
+Noes: 302
+Question accordingly negatived.
+
+New Clause 6
+
+Review of energy (oil and gas) profits levy allowances
+
+‘(1) The Chancellor of the Exchequer must, within three months of the passing of this Act—
+
+(a) conduct a review of section 2(3) of the Energy (Oil and Gas) Profits Levy Act 2022, as introduced by subsection 12(2) of this Act, and
+
+(b) lay before the House of Commons a report arising from the review.
+
+(2) The review must include consideration of the implications for the public finances of the provisions in section 2(3)—
+
+(a) were all the provisions in section (2)(3) to apply, and
+
+(b) were the provisions in section 2(3)(b) not to apply.’ —(James Murray.)
+
+This new clause requires the Chancellor to review the investment allowances introduced as part of the energy profits levy, and to set out what would happen if the allowance for all expenditure, apart from that spent on de-carbonisation, were removed.
+
+Brought up, and read the First time.
+
+Question put, That the clause be read a Second time.
+
+Division 211
+18/04/2023 17:01:00
+The Committee divided:
+Ayes: 232
+Noes: 299
+Question accordingly negatived.
+
+The occupant of the Chair left the Chair (Programme Order, 29 March).
+
+The Deputy Speaker resumed the Chair.
+
+Progress reported; Committee to sit again tomorrow.
+
