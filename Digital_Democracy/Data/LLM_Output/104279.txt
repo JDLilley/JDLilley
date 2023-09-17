@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I can help you review the text file open in your current webpage. Here is my response:
+
+Summary - The text file is a transcript of a parliamentary debate on a bill to require parliamentary approval for airport expansion in England. The bill is motivated by climate change and democratic concerns, and has cross-party support[1]. The bill passes the first reading by a narrow margin.
+
+For - Voting 'Ayes' means supporting the bill and giving Parliament the final say on any new major airport or runway in England[2]. It also means expressing concern about the impact of aviation on climate change and the rights of this House to decide on such a crucial issue.
+
+Against - Voting 'Noes' means opposing the bill and leaving the decision on airport expansion to the Government, the Climate Change Committee, and the Infrastructure Planning Commission. It also means prioritizing the economic benefits of aviation and the competitiveness of British airports, especially Heathrow.
+
+Decision - Voting 'Aye' in the division is associated with ethical considerations, regulation, and tradition, in the context of Standards & Technology. This is because it reflects a cautious and responsible approach to aviation expansion, taking into account the environmental and social costs, and respecting the role of Parliament as a representative body.
+
+Sentiment - B

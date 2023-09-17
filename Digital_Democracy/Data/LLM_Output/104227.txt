@@ -1,0 +1,13 @@
+## Bing
+
+Thank you for your request. Here is my response based on the text file open in your current webpage:
+
+Summary - The text file is a transcript of a debate in the UK Parliament on the Energy Bill, which covers various aspects of renewable energy, carbon capture and storage, and feed-in tariffs. The debate reflects different views and interests on how to achieve the UK's 2020 targets for reducing greenhouse gas emissions and increasing the share of renewable energy sources.
+
+For - Voting 'Ayes' in the division: (g), Question put, That the amendment to the Lords amendment be made, means supporting the Government's proposal to raise the upper limit of the feed-in tariff scheme from 3 MW to 5 MW. This would allow more non-commercial scale projects, such as those by local authorities, community groups, farmers and others, to benefit from guaranteed payments for generating renewable electricity and feeding it into the grid[1].
+
+Against - Voting 'Noes' in the division: (g), Question put, That the amendment to the Lords amendment be made, means opposing the Government's proposal and preferring a lower limit of 3 MW or less for the feed-in tariff scheme. This would limit the scheme to smaller-scale projects, such as those by homeowners and small businesses, and avoid interfering with the existing renewables obligation scheme, which provides incentives for larger-scale renewable energy projects.
+
+Decision - Voting 'Aye' in the division: (g), Question put, That the amendment to the Lords amendment be made, is associated with prioritising environmental sustainability in the context of Environment & Energy. This is because raising the upper limit of the feed-in tariff scheme would enable more renewable energy projects to be developed and contribute to reducing greenhouse gas emissions and increasing energy security. It would also encourage innovation and diversity in renewable energy technologies and sources.
+
+Sentiment - A

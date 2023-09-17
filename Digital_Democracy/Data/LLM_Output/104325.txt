@@ -1,0 +1,13 @@
+## Bing
+
+Thank you for your request. Here is my response based on the text file open in your current webpage:
+
+Summary - The text file is a transcript of a parliamentary debate on the Coroners and Justice Bill, which aims to reform the coroner system and introduce new measures on criminal justice. The debate focuses on clause 11, which allows the Secretary of State to certify an inquest without a jury in certain cases.
+
+For - Voting 'Ayes' in the division means supporting the amendment proposed by David Howarth, which would prevent the Secretary of State from certifying an inquest without a jury and would instead require a High Court judge to decide whether an inquest should be held in camera[1]. The amendment is based on the principle of preserving public confidence and protecting the rights of the family.
+
+Against - Voting 'Noes' in the division means opposing the amendment and accepting the Government's proposal, which would allow the Secretary of State to certify an inquest without a jury if he or she is of the opinion that it is necessary for national security, relations with another country, preventing crime, or protecting witnesses[2]. The proposal is based on the need to balance public interest and sensitive information.
+
+Decision - Voting 'Aye' in the division is associated with freedom and autonomy, limiting police powers and softer punishments, limiting Crime & Justice. This is because it would uphold the role of juries as independent and representative decision makers in cases involving deaths at the hands of the state, and it would challenge the Government's authority to interfere with the coroner system.
+
+Sentiment - B

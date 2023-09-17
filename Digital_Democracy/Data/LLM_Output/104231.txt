@@ -1,0 +1,13 @@
+## Bing
+
+Thank you for your request. Here is my response based on the text file open in your current webpage:
+
+Summary - The text file is a transcript of a debate in the House of Commons on the Counter-Terrorism Bill in 2023. The main topics are the retention and deletion of DNA samples, the use of the national DNA database, and the balance between security and civil liberties.
+
+For - Voting 'Ayes' in the division means supporting the Government's motion to disagree with the Lords amendment (No106), which would require national guidelines for the disclosure and destruction of DNA samples and data held by Government agencies. The Government argues that this would hinder their ability to fight terrorism and crime effectively[1].
+
+Against - Voting 'Noes' in the division means opposing the Government's motion and supporting the Lords amendment (No106), which would protect the rights and privacy of innocent people whose DNA samples and data are held by Government agencies. The Opposition argues that this would make the use of the national DNA database more transparent, proportionate and fair.
+
+Decision - Voting 'Aye' in the division is associated with softer regulations and growing powers of Defence & Armed Forces, because it would allow them to retain and use DNA samples and data without clear rules or oversight. This could potentially lead to abuse, discrimination and infringement of civil liberties.
+
+Sentiment - A

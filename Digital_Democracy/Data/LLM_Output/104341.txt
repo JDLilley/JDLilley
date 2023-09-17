@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I can help you review the text file open in your current webpage. Here is my response based on your request:
+
+Summary - The text file is a transcript of a debate in the UK Parliament on the Palliative Care Bill, which aims to give patients the right to choose where to receive end-of-life care. The Bill was introduced by Mrs. Caroline Spelman, a Conservative MP, and supported by other MPs from different parties.
+
+For - Voting 'Ayes' in the division means supporting the Bill and its objectives. It means recognising the importance of palliative care and the need to improve its provision and funding. It also means respecting the wishes and dignity of terminally ill patients and their families.
+
+Against - Voting 'Noes' in the division means opposing the Bill and its objectives. It means questioning the feasibility and desirability of giving patients the choice of where to receive end-of-life care[1]. It also means raising concerns about the cost, quality and availability of palliative care services.
+
+Decision - Voting 'Aye' in the division is associated with investment in public health and improving standards of care, in the context of Health & Healthcare. It shows a commitment to enhancing the quality of life of patients with terminal or life-threatening illnesses and conditions, and to supporting the hospice sector and other palliative care providers.
+
+Sentiment - A

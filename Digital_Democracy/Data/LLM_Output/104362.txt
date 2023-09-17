@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I have reviewed the text file open in your current webpage and here is my response:
+
+Summary - The text file is a transcript of a debate in the UK Parliament on the Finance Bill in 2023. The bill proposes to reduce the corporation tax rate from 28% to 25%. The debate covers the arguments for and against the amendment, as well as the impact of taxation on business location and competitiveness.
+
+For - Voting 'Ayes' in the division means supporting the amendment to lower the corporation tax rate. The arguments for this are that it would make the UK more attractive for businesses, boost investment and productivity, and enhance economic growth. The supporters of the amendment cite examples of other countries that have lower tax rates and claim that the UK is losing its competitive edge.
+
+Against - Voting 'Noes' in the division means opposing the amendment to lower the corporation tax rate. The arguments against this are that it would reduce the tax revenue for the government, increase the budget deficit, and benefit only large corporations. The opponents of the amendment question the evidence of tax-induced relocation and suggest that other factors such as regulation, infrastructure, and skills are more important for business location.
+
+Decision - Voting 'Aye' in the division is associated with stimulus and the free market. This is because it implies a belief that lowering taxes would stimulate economic activity, create jobs, and increase incomes. It also reflects a preference for less government intervention and more market freedom for businesses.
+
+Sentiment - A

@@ -1,0 +1,11 @@
+## Bing
+
+Summary - The text file is a transcript of a debate in the UK Parliament on the Finance Bill, which sets the main rates and rules for corporation tax. The debate covers various aspects of the bill, such as the impact on business competitiveness, tax avoidance, and economic recovery.
+
+For - Voting 'Ayes' in the division means supporting clause 11, which reduces the corporation tax rate from 28% to 25%. The arguments for this are that it will make the UK more attractive for investment, create jobs, and stimulate growth.
+
+Against - Voting 'Noes' in the division means opposing clause 11, which reduces the corporation tax rate from 28% to 25%. The arguments against this are that it will reduce tax revenues, benefit large corporations over small businesses, and undermine public services.
+
+Decision - Voting 'Aye' in the division is associated with stimulus and the free market, because it implies a belief that lower taxes will boost the economy and that businesses should have more freedom from government intervention.
+
+Sentiment - A

@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I have reviewed the text file open in your current webpage and here is my response:
+
+Summary - The text file is a transcript of a debate in the UK Parliament on a bill to link statutory redundancy pay to average earnings. The bill aims to help workers who lose their jobs due to the economic downturn and to restore the value of redundancy pay.
+
+For - Voting 'Ayes' means supporting the bill and its intention to increase statutory redundancy pay for workers who are made redundant. It means agreeing with the arguments that the bill is fair, timely, and necessary to protect the most vulnerable workers and to boost the economy.
+
+Against - Voting 'Noes' means opposing the bill and its potential impact on employers and public spending. It means agreeing with the arguments that the bill is costly, impractical, and counterproductive to the efforts to save jobs and businesses.
+
+Decision - Voting 'Aye' in the division is associated with greater spending on, and provision of, welfare and social housing. This is because the bill would increase the amount of money that workers receive when they are made redundant, which could help them to afford their living expenses, avoid debt, and access training and education[1]. It could also reduce the demand for welfare benefits and social housing, as workers would have more financial security and opportunities to find new employment.
+
+Sentiment - A

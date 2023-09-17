@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I can help you review the text file open in your current webpage. Here is my response based on your request:
+
+Summary - The text file is a transcript of a parliamentary debate on the Climate Change Bill in 2008. The debate covers various aspects of the bill, such as the targets, budgets, reporting, and inclusion of international aviation and shipping emissions.
+
+For - Voting 'Ayes' in the division means supporting the new clause 11, which would require the Secretary of State to set a target for reducing UK greenhouse gas emissions by 80 per cent. by 2050, compared to 1990 levels. This would be a more ambitious and legally binding target than the original 60 per cent. proposed by the Government.
+
+Against - Voting 'Noes' in the division means opposing the new clause 11, which would increase the target for reducing UK greenhouse gas emissions by 2050 from 60 per cent. to 80 per cent. This could be seen as unrealistic, unachievable, or too costly for the UK economy and society.
+
+Decision - Voting 'Aye' in the division is associated with prioritising environmental sustainability in the context of Environment & Energy. This is because it would demonstrate a strong commitment to tackling climate change and reducing the UK's carbon footprint, as well as encouraging innovation and investment in low-carbon technologies and practices.
+
+Sentiment - A

@@ -1,0 +1,11 @@
+## Bing
+
+Summary - The text file is a transcript of a debate in the UK Parliament on the Finance Bill, which deals with various tax-related issues. The debate covers topics such as corporation tax, tax avoidance, tax accounting, and tax relief.
+
+For - Voting 'Ayes' in the division means supporting the amendment to clause 14, which would reduce the rate of corporation tax for small and medium-sized enterprises from 21% to 20%. The amendment is proposed by the Conservative party, which argues that it would boost the economy and create jobs.
+
+Against - Voting 'Noes' in the division means opposing the amendment to clause 14, and keeping the rate of corporation tax for small and medium-sized enterprises at 21%. The amendment is opposed by the Labour party, which argues that it would benefit only a few companies and reduce the public revenue.
+
+Decision - Voting 'Aye' in the division is associated with stimulus and the free market, because it would lower the tax burden on businesses and encourage them to invest and grow. It would also reflect a preference for less government intervention and more market competition.
+
+Sentiment - A

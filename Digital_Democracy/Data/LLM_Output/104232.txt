@@ -1,0 +1,13 @@
+## Bing
+
+Thank you for your request. Here is my response based on the text file open in your current webpage:
+
+Summary - The text file is a transcript of a debate in the House of Commons on the Counter-Terrorism Bill, which deals with various aspects of fighting terrorism, such as detention, DNA, and coroners. The debate focuses on the issue of retaining or deleting DNA samples of innocent people.
+
+For - Voting 'Ayes' in the division means supporting the amendment that would require national guidelines for the deletion of DNA samples and data of people who are not charged or convicted of any offence. This would enhance the transparency and accountability of the DNA database and protect the privacy and human rights of innocent citizens.
+
+Against - Voting 'Noes' in the division means opposing the amendment and maintaining the discretion of chief officers to authorise the deletion of DNA samples and data of people who are not charged or convicted of any offence. This would allow the police to retain DNA information for criminal intelligence and detection purposes and deter potential offenders.
+
+Decision - Voting 'Aye' in the division is associated with increased accountability and limiting powers of Defence & Armed Forces, as it would restrict the scope and use of the DNA database and ensure that innocent people are not subjected to unnecessary surveillance and intrusion by the state.
+
+Sentiment - B

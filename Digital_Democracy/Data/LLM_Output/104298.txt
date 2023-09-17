@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I have reviewed the text file open in your current webpage and I will try to answer your questions. Here is my response:
+
+Summary - The text file is a transcript of a debate in the UK Parliament about the European Working Time Directive, which limits the working hours of employees. The debate focuses on the impact of the directive on the health service and the need for flexibility and opt-out.
+
+For - Voting 'Ayes' in the division means supporting the original motion, which opposes the blanket imposition of the 48-hour working week and urges the Government to seek alternative solutions. It also expresses solidarity with other member states who depend on derogation and criticises Labour MEPs for voting against the Government's position.
+
+Against - Voting 'Noes' in the division means supporting the Government's amendment, which agrees that no worker should be required to work longer than 48 hours unless they choose to do so. It also notes the Government's manifesto commitment to maintaining the individual opt-out and recognises that it is a key part of the UK's flexible labour market.
+
+Decision - Voting 'Aye' in the division is associated with protectionism and independence from the European Union and other Foreign Affairs. It implies that the UK should have more control over its own social and employment legislation and that the European Working Time Directive is harmful to its national interests and public services.
+
+Sentiment - B

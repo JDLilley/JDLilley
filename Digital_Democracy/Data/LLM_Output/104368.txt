@@ -1,0 +1,11 @@
+## Bing
+
+Summary - The text file is a transcript of a debate in the UK Parliament on the Finance Bill, which deals with tax and fiscal matters. The debate covers various amendments and clauses related to the bill, and the views of different parties and MPs on them.
+
+For - Voting 'Ayes' in the division means supporting amendment 11, which would require the Treasury to review the impact of the bill on child poverty and equality. The amendment was proposed by Labour MPs who argued that the bill would increase inequality and hurt the most vulnerable.
+
+Against - Voting 'Noes' in the division means opposing amendment 11, which was rejected by the Government. The Government argued that the amendment was unnecessary and that the bill would support economic recovery, protect jobs and public services, and reduce the deficit.
+
+Decision - Voting 'Aye' in the division is associated with austerity and regulation, as it implies a concern for the social and distributional effects of the bill and a desire for more scrutiny and accountability from the Government.
+
+Sentiment - B

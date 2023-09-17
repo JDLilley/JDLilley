@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I can help you review the text file open in your current webpage. Here is my response based on your request:
+
+Summary - The text file is a transcript of a parliamentary debate on the Political Parties and Elections Bill, which introduces new civil sanctions and powers for the Electoral Commission. The debate covers various amendments and new clauses proposed by different MPs.
+
+For - Voting 'Ayes' in the division means supporting the amendment to change the relevant court for appeals from a county court to the High Court[1]. The amendment argues that the High Court has more expertise and scrutiny to deal with complex cases under the legislation[2].
+
+Against - Voting 'Noes' in the division means opposing the amendment and keeping the county court as the relevant court for appeals. The amendment could be seen as unnecessary, burdensome, and costly, as the county court is capable of handling most cases under the legislation.
+
+Decision - Voting 'Aye' in the division could be associated with accountability and decentralisation in the context of Parliamentary Procedures, as it would give more power and oversight to the judiciary branch over the Electoral Commission. It could also enhance the transparency and fairness of the appeal process.
+
+Sentiment - A

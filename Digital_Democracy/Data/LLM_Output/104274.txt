@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I can help you review the text file open in your current webpage. Here is my response based on your request:
+
+Summary - The text file is a transcript of a debate in the UK Parliament on the Political Parties and Elections Bill, which introduces new civil sanctions and powers for the Electoral Commission. The debate covers various amendments and new clauses proposed by different MPs.
+
+For - Voting 'Ayes' in the division means supporting the amendment that would create an independent panel to advise the Electoral Commission on the use of civil penalties and other aspects of its operation[1]. The panel would consist of the Speaker, a judicial person and an independent person[2].
+
+Against - Voting 'Noes' in the division means opposing the amendment that would create an independent panel to advise the Electoral Commission. The argument against the amendment is that the 2000 Act already provides a mechanism for parliamentary parties to make submissions to the commission on the use of sanctions[3].
+
+Decision - Voting 'Aye' in the division is associated with accountability and decentralisation in the context of Parliamentary Procedures, because it would create an external oversight body that would monitor and guide the commission's actions and ensure that it is not abusing its powers or acting in a biased way.
+
+Sentiment - A

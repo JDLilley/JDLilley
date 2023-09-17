@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I have reviewed the text file open in your current webpage and here is my response:
+
+Summary - The text file is a transcript of a debate in the UK Parliament on the Finance Bill, which sets the main rates and rules for corporation tax. The debate covers various amendments proposed by different parties and their implications for the UK economy and competitiveness.
+
+For - Voting 'Ayes' in the division on clause 9 means supporting the amendment to reduce the corporation tax rate from 28% to 25%. The argument for this amendment is that it would make the UK more attractive for businesses and investment, and boost productivity, employment and prosperity.
+
+Against - Voting 'Noes' in the division on clause 9 means opposing the amendment to reduce the corporation tax rate from 28% to 25%. The argument against this amendment is that it would cost the Exchequer £3.7 billion in lost revenue, and that it would not have a significant impact on business location decisions, which depend on other factors such as certainty, complexity and allowances[1].
+
+Decision - Voting 'Aye' in the division on clause 9 is associated with stimulus and the free market, because it implies a preference for lower taxes, less government intervention and more economic freedom for businesses.
+
+Sentiment - A

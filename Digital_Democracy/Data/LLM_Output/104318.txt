@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I have reviewed the text file open in your current webpage and I will try to answer your questions as best as I can. Here is my response:
+
+Summary - The text file is a transcript of a debate in the UK Parliament on the Welfare Reform Bill, which aims to reform the benefits system and introduce work-related requirements for some claimants. The debate covers various amendments and new clauses proposed by different MPs.
+
+For - Voting 'Ayes' in the division on clause 2 means supporting the amendment that would exempt single parents with a child under five from work-related activity requirements. The amendment argues that this would strike a better balance between conditionality and the age of the child, and that three is too young for such requirements[1].
+
+Against - Voting 'Noes' in the division on clause 2 means opposing the amendment and keeping the Government's proposal that single parents with a child over three should be subject to work-related activity requirements. The proposal argues that this would help single parents prepare for work and benefit both them and their children.
+
+Decision - Voting 'Aye' in the division on clause 2 is associated with greater spending on, and provision of, welfare and social housing. This is because exempting single parents with a child under five from work-related activity requirements would mean that more of them would stay on income support rather than jobseeker's allowance, which has lower benefits and more conditions. It would also mean that more of them would be eligible for housing benefit and other forms of social assistance.
+
+Sentiment - A

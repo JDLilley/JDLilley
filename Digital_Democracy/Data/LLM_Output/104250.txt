@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I can help you review the text file open in your current webpage. Here is my response based on your request:
+
+Summary - The text file is a transcript of a debate in the UK Parliament about a temporary cut in value added tax (VAT) proposed by the government as a fiscal stimulus to counter the recession. The debate features arguments for and against the measure from different parties and perspectives.
+
+For - Voting 'Ayes' means supporting the government's plan to reduce VAT from 17.5% to 15% for 13 months, starting from 1 December 2008. The government claims that this will help consumers, businesses and the economy by boosting spending, lowering prices and increasing confidence.
+
+Against - Voting 'Noes' means opposing the government's plan to reduce VAT and favouring alternative ways of stimulating the economy. The opposition argues that the VAT cut is unaffordable, ineffective and unfair. They say that it will increase public debt, have little impact on consumer behaviour and benefit the rich more than the poor.
+
+Decision - Voting 'Aye' in the division is associated with cutting spending on and provision of welfare and social housing. This is because the government plans to raise other taxes, such as income tax and national insurance, after the VAT cut expires. This will reduce the disposable income of many households, especially those who rely on welfare benefits or social housing subsidies.
+
+Sentiment - B

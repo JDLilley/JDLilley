@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I can help you review the text file open in your current webpage. Here is my response based on your request:
+
+Summary - The text file is a transcript of a parliamentary debate on a money resolution for the Banking Bill in 2023. The resolution authorises the government to spend or guarantee huge sums of money to support the banking sector amid a financial crisis.
+
+For - Voting 'Ayes' in the division means supporting the government's intervention in the banking sector, which includes injecting capital, providing guarantees, buying assets, and insuring bad debts. The supporters argue that this is necessary to stabilise the economy and restore confidence.
+
+Against - Voting 'Noes' in the division means opposing the government's intervention in the banking sector, which involves exposing the taxpayers to enormous risks and liabilities. The opponents argue that this is irresponsible, ineffective, and unfair to the public.
+
+Decision - Voting 'Aye' in the division is associated with stimulus and the free market, because it implies that the government is willing to use fiscal and monetary policies to boost the economy and prevent the collapse of the banking system, which operates in a largely deregulated environment.
+
+Sentiment - A

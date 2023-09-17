@@ -1,0 +1,13 @@
+## Bing
+
+Thank you for your request. Here is my response based on the text file open in your current webpage:
+
+Summary - The text file is a transcript of a parliamentary debate on the Business Rate Supplements Bill, which would allow local authorities to raise additional funds for economic development projects by levying a supplement on the business rate.
+
+For - Voting 'Ayes' in the division means supporting the amendment proposed by the Opposition, which would limit the power to levy a business rate supplement to London only, and require a ballot of affected businesses in all cases.
+
+Against - Voting 'Noes' in the division means rejecting the amendment and backing the Government's version of the Bill, which would extend the power to levy a business rate supplement to all local authorities in England and Wales, and require a ballot of affected businesses only when they contribute more than a third of the project cost.
+
+Decision - Voting 'Aye' in the division is associated with austerity and regulation, as it would restrict the ability of local authorities outside London to raise funds for economic development projects, and impose more constraints on their decision-making process.
+
+Sentiment - B

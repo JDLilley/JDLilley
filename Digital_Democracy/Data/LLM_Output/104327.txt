@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I have reviewed the text file open in your current webpage and I will try to answer your questions as best as I can.
+
+Summary - The text file is a transcript of a debate in the UK Parliament about the Coroners and Justice Bill, which deals with various aspects of criminal law and procedure. The debate focuses on the issue of incitement to hatred on grounds of sexual orientation and the need for a free speech clause to protect legitimate expression.
+
+For - Voting 'Ayes' in the division means supporting the amendment proposed by Lord Waddington, which would add a free speech clause to the Bill. The clause would state that discussion or criticism of sexual conduct or practices is not in itself threatening or intended to stir up hatred[1]. The supporters of the amendment argue that it is necessary to prevent vexatious complaints and unjustified investigations against people who express their religious or moral views on homosexuality.
+
+Against - Voting 'Noes' in the division means opposing the amendment proposed by Lord Waddington, which would add a free speech clause to the Bill. The clause would state that discussion or criticism of sexual conduct or practices is not in itself threatening or intended to stir up hatred[1]. The opponents of the amendment argue that it is unnecessary and dangerous, as it could be used as a defence by extremists who use threatening language and intend to stir up hatred against gay people.
+
+Decision - Voting 'Aye' in the division is associated with freedom and autonomy, limiting police powers and softer punishments, limiting Crime & Justice. This is because the amendment aims to protect the right to freedom of speech and expression, even if it may offend or insult some people. It also seeks to avoid excessive interference by the authorities in matters of personal opinion and belief. It could also reduce the number of prosecutions and convictions for incitement to hatred on grounds of sexual orientation.
+
+Sentiment - B

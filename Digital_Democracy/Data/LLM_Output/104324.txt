@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I can help you review the text file open in your current webpage. Here is my response based on your request:
+
+Summary - The text file is a transcript of a parliamentary debate on the Coroners and Justice Bill in 2009. The bill aimed to reform the coronial system and introduce new measures on criminal justice and data protection. The debate focused on the controversial clauses that would allow inquests to be held without a jury or in private for national security reasons.
+
+For - Voting 'Ayes' in the division means supporting the Government's amendments to the bill, which would give the Secretary of State the power to certify an investigation as sensitive and require a High Court judge to decide whether to exclude the jury or the public from the inquest. The Government argued that this was necessary to protect national security and prevent the disclosure of sensitive information that could harm the public interest or endanger witnesses.
+
+Against - Voting 'Noes' in the division means opposing the Government's amendments and supporting an alternative proposal by the Liberal Democrats, which would allow inquests to be held in camera only for national security reasons and with the consent of the Lord Chief Justice. The opposition argued that the Government's amendments were too broad and vague, and that they would undermine public confidence and accountability in the coronial system and violate human rights.
+
+Decision - Voting 'Aye' in the division is associated with greater police powers, harsher punishments, and strengthening Crime & Justice. This is because it would give more discretion and authority to the Secretary of State and the High Court judge to limit the transparency and scrutiny of inquests involving state agents or actions, and potentially restrict the rights and participation of the families of the deceased and the public.
+
+Sentiment - A

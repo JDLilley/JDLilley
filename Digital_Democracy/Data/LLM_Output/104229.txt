@@ -1,0 +1,13 @@
+## Bing
+
+Thank you for your request. Here is my response based on the text file open in your current webpage:
+
+Summary - The text file is a transcript of a debate in the House of Commons on the Counter-Terrorism Bill, which contains various amendments to the law on terrorism. The main topics discussed are the retention and deletion of DNA samples, the extension of pre-charge detention, and the role of coroners' courts.
+
+For - Voting 'Ayes' in the division means supporting the Lords amendment No 2, which would require national guidelines for the disclosure and destruction of DNA samples taken from people who are not charged or convicted of any offence. This would protect the privacy and human rights of innocent people and prevent the misuse of DNA data.
+
+Against - Voting 'Noes' in the division means opposing the Lords amendment No 2, which would limit the discretion of the police and other agencies to retain DNA samples for criminal intelligence purposes. This would reduce the effectiveness of DNA as a tool for detecting and deterring crime and terrorism, and potentially endanger public safety.
+
+Decision - Voting 'Aye' in the division is associated with increased accountability and limiting powers of Defence & Armed Forces, because it would restrict their ability to collect and use DNA data without proper oversight and safeguards. It would also ensure that people who are not involved in any criminal or terrorist activity are not subjected to unnecessary surveillance and intrusion.
+
+Sentiment - B

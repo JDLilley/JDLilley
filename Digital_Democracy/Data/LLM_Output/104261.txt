@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I can help you review the text file open in your current webpage. Here is my response based on your request:
+
+Summary - The text file is a transcript of a debate in the UK House of Commons on the effect of economic policy on savers. The main topic is a Conservative proposal to cut taxes for savers and pensioners, funded by reducing public spending growth.
+
+For - Voting 'Ayes' means supporting the Conservative proposal. It means that savers and pensioners who have been hit by low interest rates deserve some relief and reward for their thrift. It also means that tax cuts are more effective than Government spending in stimulating the economy[1].
+
+Against - Voting 'Noes' means opposing the Conservative proposal. It means that the Government's fiscal stimulus, including the VAT cut, is necessary and appropriate to help the economy recover from the recession[2]. It also means that cutting public spending now would harm vital public services and infrastructure.
+
+Decision - Voting 'Aye' in the division is associated with austerity and regulation. The Conservative proposal implies that the Government should tighten its belt and reduce its borrowing, rather than spend more to boost demand. It also implies that the Government should intervene in the tax system to favour certain groups of taxpayers over others.
+
+Sentiment - B

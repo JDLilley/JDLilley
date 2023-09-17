@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I can help you review the text file open in your current webpage. Here is my response based on your request:
+
+Summary - The text file is a transcript of a debate in the UK Parliament on the Finance Bill, which introduces new tax measures and obligations for large companies. The debate covers various aspects of the bill, such as its impact on competitiveness, compliance, and revenue.
+
+For - Voting 'Ayes' in the division means supporting amendment 11, which would delay the implementation of clause 92 by a year. The amendment argues that clause 92 imposes additional duties on senior accounting officers of large companies without proper consultation or guidance, and that it could have negative consequences for business and the economy[1].
+
+Against - Voting 'Noes' in the division means opposing amendment 11, and keeping clause 92 as it is. The clause aims to ensure that large companies have appropriate tax accounting arrangements and that senior accounting officers are accountable for them. The clause is intended to improve tax compliance and reduce the tax gap.
+
+Decision - Voting 'Aye' in the division could be associated with stimulus and the free market, as it would give more time and flexibility to businesses to adapt to the new tax regime and avoid unnecessary costs and burdens. Voting 'Aye' could also be seen as favouring a more consultative and predictable approach to tax policy.
+
+Sentiment - A

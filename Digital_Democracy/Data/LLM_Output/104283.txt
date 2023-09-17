@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I can help you review the text file open in your current webpage. Here is my response based on your request:
+
+Summary - The text file is a transcript of a parliamentary debate on the Autism Bill, a private member's bill that aims to improve the services and support for people with autism in the UK. The bill was introduced by Mrs. Cheryl Gillan, a Conservative MP, and received cross-party support from many MPs.
+
+For - Voting 'Ayes' in the division means supporting the bill to be read a second time and proceed to the Committee stage, where it can be examined and amended in detail. It also means acknowledging the urgent needs of people with autism and their families, and the failures of the current system to address them[1].
+
+Against - Voting 'Noes' in the division means opposing the bill to be read a second time and effectively blocking its progress. It also means questioning the necessity and feasibility of the bill, and the government's commitment to improve the lives of people with autism through other means.
+
+Decision - Voting 'Aye' in the division is associated with investment in public health and improving standards of care, in the context of Health & Healthcare. The bill seeks to ensure that people with autism have access to appropriate services and support throughout their lives, and that their rights and dignity are respected. It also seeks to raise awareness and understanding of autism among health and social care professionals, and to improve data collection and strategic planning for autism.
+
+Sentiment - A

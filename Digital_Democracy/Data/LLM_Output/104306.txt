@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I can help you review the text file open in your current webpage. Here is my response based on your request:
+
+Summary - The text file is a transcript of a debate in the UK Parliament about an order that changes the penalties for disorderly behaviour, especially for cannabis possession. The order is challenged by the Conservative party, who argue that it is too lenient and undermines justice. The Labour party defends the order as a proportionate and efficient measure that allows police discretion and escalation.
+
+For - Voting 'Ayes' means supporting the motion to annul the order[1]. It means opposing the use of fixed penalty notices for cannabis possession and other offences, and preferring prosecution in court. It means being tough on cannabis and other crimes, and protecting the role of magistrates.
+
+Against - Voting 'Noes' means rejecting the motion to annul the order[1]. It means accepting the use of fixed penalty notices for cannabis possession and other offences, as a second step in an escalating process. It means being realistic about cannabis and other crimes, and trusting the professional judgment of police officers.
+
+Decision - Voting 'Aye' is associated with greater police powers, harsher punishments, and strengthening Crime & Justice. It implies a zero-tolerance approach to cannabis and other offences, and a preference for formal judicial process over out-of-court disposals.
+
+Sentiment - A

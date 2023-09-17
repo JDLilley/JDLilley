@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I can help you review the text file open in your current webpage. Here is my response based on your request:
+
+Summary - The text file is a transcript of a debate in the UK Parliament on the Apprenticeships, Skills, Children and Learning Bill, which aims to improve education and training for young people, especially those in juvenile custody. The debate covers various aspects of the bill, such as special educational needs, information sharing, and local authority responsibilities[1].
+
+For - Voting 'Ayes' in the division means supporting the new clauses 14 and 15, which strengthen the provisions for young people with special educational needs in custody and require youth offending teams to notify local education authorities of their detention, transfer, or release[2]. This would ensure that their educational needs are met and that they receive consistent and appropriate support.
+
+Against - Voting 'Noes' in the division means opposing the new clauses 14 and 15, which could be seen as imposing impractical or unnecessary duties on local education authorities and youth offending teams. This could create bureaucratic burdens or conflicts of interest, and undermine the existing arrangements for education and training in custody.
+
+Decision - Voting 'Aye' in the division is associated with increased education and learning, as it would enhance the quality and continuity of education and training for young people in custody, especially those with special educational needs. It would also promote better information sharing and collaboration between relevant parties, which could improve outcomes for young people after their release.
+
+Sentiment - A

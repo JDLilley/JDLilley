@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I can help you review the text file open in your current webpage. Here is my response based on your request:
+
+Summary - The text file is a transcript of a debate in the UK House of Commons on the expansion of Heathrow airport with a third runway. The motion urges the government to reconsider its plans and explore alternative solutions.
+
+For - Voting 'Ayes' means supporting the motion and opposing the third runway. The arguments for this position are based on environmental concerns, such as air pollution, noise, road congestion, and carbon emissions[1]. They also question the economic benefits of the expansion and propose high-speed rail as a better option.
+
+Against - Voting 'Noes' means rejecting the motion and backing the third runway. The arguments for this position are based on economic competitiveness, business demand, and international connectivity. They also claim that the expansion can be done with environmental safeguards, such as flight caps, green slots, and carbon targets.
+
+Decision - Voting 'Aye' in the division is associated with ethical considerations, regulation, and tradition in the context of Standards & Technology. This is because it reflects a concern for the health and well-being of people and the planet, a preference for existing rules and limits on airport capacity, and a respect for the historical and cultural heritage of London and its surroundings.
+
+Sentiment - B
