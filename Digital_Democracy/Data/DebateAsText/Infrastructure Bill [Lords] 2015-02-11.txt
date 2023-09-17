@@ -1,0 +1,385 @@
+Infrastructure Bill [Lords]
+
+Consideration of Lords message
+
+After Clause 43
+
+Advice on likely impact of onshore petroleum on the carbon budget
+
+19:28:00
+
+The Parliamentary Under-Secretary of State for Energy and Climate Change (Amber Rudd)
+I beg to move, That this House agrees with Lords amendment 20B to Commons amendment 20 and with consequential Lords amendment 20C.
+
+Madam Deputy Speaker (Mrs Eleanor Laing)
+With this it will be convenient to consider the following:
+
+Commons amendments (a), (b), (d), (e) and (c) to Lords amendment 21B.
+
+Government motion not to insist on Commons amendment 21 and Lords amendments 21B to 21D in lieu.
+
+Government motion to agree to Lords amendment 33A to Commons amendment 33.
+
+Amber Rudd
+On Report in the Commons, I informed the House of our intention to strengthen the amendments we tabled in Committee by specifying that if the Committee on Climate Change advises us that onshore oil and gas might adversely impact on climate change objectives, the Secretary of State must either make regulations providing that the right of use for petroleum and deep geothermal exploitation will no longer be available for future projects, or report to Parliament on the reasons for not doing so. Amendment 20B and consequential amendment 20C seek to address that commitment. By introducing them, we are making it absolutely clear that shale development will remain compatible with our goal to cut greenhouse gas emissions.
+
+The Government disagreed with Commons amendment 21 and proposed amendments 21B, 21C and 21D in lieu. There is a clear and pressing need to ensure that this legislation is absolutely right. As drafted, amendment 21 cannot be included in the Bill. Although the courts would attempt to interpret the provisions, it is not viable as law and simply would not work in practice. Our amendments are designed to support the growth of the shale industry, while reassuring local communities it will be done in a safe and responsible manner. They also ensure clarity for all interested parties by proposing clauses that can be interpreted and enforced effectively by the courts.
+
+Regarding the scope of our amendments, they will apply to associated hydraulic fracturing for onshore oil and gas, as defined in the amendment. Geothermal operations will be excluded. Conventional oil and gas well stimulation techniques will also be excluded, which makes perfect sense as they have been used for decades onshore. The territorial extent of the amendments will be limited to England and Wales. To that end, I ask that this House agree with amendment 33A.
+
+Glyn Davies (Montgomeryshire) (Con)
+Will the Minister clarify the position in relation to hydraulic fracturing in Wales? We read reports that this matter may well at  some stage be devolved to Wales. Is that under consideration, and could it happen in the foreseeable future?
+
+Amber Rudd
+I thank my hon. Friend for the opportunity to clarify that. The Welsh Government, as he will know, already have substantial control of onshore oil and gas activities through planning controls and environmental regulation, as they are already devolved. As he will also be aware, the Secretary of State for Wales is leading discussions on further powers for Wales ahead of the St David’s day announcement. I understand that there is some merit in these decisions being devolved to the Welsh Assembly. However, this issue requires further consideration before a decision can be taken.
+
+Turning to the specifics, we outlined on Monday in the other place that Government amendments 21B, 21C and 21D in lieu are designed to ensure associated hydraulic fracturing cannot occur unless a set of 13 conditions have been met. The Secretary of State will not grant consent for associated hydraulic fracturing unless that has been done. I would be very happy to speak about each condition if colleagues have specific questions, but I would like to focus on areas of concern raised during Monday’s debate and by amendments that have been tabled subsequently.
+
+First, amendment (a) indicates a misunderstanding of our clauses, and specifically the way in which subsection (3) works. At the end of (3)(a) it very clearly says “and”, not “or”, so paragraph (3)(b) is not a get-out provision for the Secretary of State, but an additional safeguard to ensure that my Department refuses consent if there is something else wrong with the proposal. We should not change anything here.
+
+Secondly, amendment (b) asks that the environmental impact assessment of the development be taken into account. I want to reassure the House that there is no difference between us on the outcome we are seeking to achieve; it is simply a question of how we deliver the requirement in law. The term “environmental information” is used in the Town and Country Planning (Environmental Impact Assessment) Regulations 2011. It captures the information that must be taken into account by the relevant planning authority before planning permission is granted, including, but not limited to, an environmental statement. This process is commonly referred to as an environmental impact assessment. The Secretary of State cannot give consent for associated hydraulic fracturing unless he is satisfied that the environmental impact of the development has been taken into account by the relevant planning authority. He can be satisfied that this has happened where he is given a notice by the local planning authority stating that the environmental information has been taken into account. As I have said, this is simply about delivering a provision that has a meaning in law. I hope that reassures the House.
+
+Amendment (b) asks that we refer to fugitive emissions, rather than emissions of methane into the air in our clauses. The Environment Agency already requires operators to manage, monitor and report on fugitive emissions. It is unlikely it would require this for carbon dioxide emissions, which are likely to be negligible. The MacKay Stone report on potential greenhouse gas emissions from shale gas sites shows that on average, shale gas is approximately 86% methane and 3% carbon dioxide, as well as ethane, propane and nitrogen. Methane represents  more than 99% of the carbon dioxide equivalent emissions—in other words, the global warming emissions—from fugitive shale gas. It therefore makes sense for the conditions related to associated hydraulic fracturing to focus on methane. The principal source of carbon dioxide emissions would be from combustion of gas in flaring. Such emissions from flaring are modelled and monitored as part of the permit conditions. I can also confirm that we are actively considering whether the drilling of bore holes for monitoring purposes should be classified as permitted development, and we hope to take this forward in the near future.
+
+Amendment (b) also deals with individual notification of residents. It is just not feasible to require separate notifications for each individual resident regarding associated hydraulic fracturing. We live in a free country where individuals are not required to register where they live. It would be practically impossible for the Secretary of State to identify each individual resident and check whether they had been notified, so making individual notification a condition of issuing consent for associated hydraulic fracturing would leave every consent wide open to legal challenge by third parties. Similarly, it would be unreasonable to introduce a demand that would require every single resident to consent to associated hydraulic fracturing.
+
+Tom Greatrex (Rutherglen and Hamilton West) (Lab/Co-op)
+rose—
+
+Amber Rudd
+The hon. Gentleman will have a chance to respond in a minute.
+
+Planning regulations currently require persons submitting planning applications for shale gas to serve notice on individual owners and tenants of land where surface works are required.
+
+Jim Fitzpatrick (Poplar and Limehouse) (Lab)
+Will the Minister give way?
+
+Amber Rudd
+I am going to make some progress.
+
+Persons submitting such planning applications must publish a notice in a local newspaper and put up site notices. We believe this is proportionate and fair to residents. In addition, the industry has agreed, as part of a voluntary package, to notify the public when exercising the right of use to access underground land. We have taken a reserve power in the Bill to enforce this if the notice scheme relating to the right of use is not honoured appropriately.
+
+Amendment (c) stipulates that no hydraulic fracturing, as defined in the amendment, can take place until the regulations defining water source protection areas and other protected areas have been approved by Parliament. It is worth noting that, at the moment, no operator in the UK has well consent where hydraulic fracturing for shale gas is intended. I can confirm that the Government will not grant any consent for associated hydraulic fracturing operations until all the conditions are clearly defined.
+
+Amendments (b), (d) and (e) insert wording into the clauses about associated hydraulic fracturing not taking place “within or under” protected areas. Amendment (b) also asks that we insert the environmental regulator’s  definition of groundwater protection zones into the clauses. I would like to stress that we are talking here about how to define these things in law. It is absolutely crucial to get these legal definitions right. The Government amendment does not refer to “within or under” protected areas because the meaning of this term needs to be flexible to allow proper provisions to be made in secondary legislation.
+
+There is a strong case that sites such as World Heritage sites and the Norfolk Broads should be protected from fracking taking place under them. In other cases, that would not be so sensible. For example, in the case of areas of outstanding natural beauty and national parks, given their size and dispersion, it might not be practical to guarantee that fracking will not take place under them in all cases without unduly constraining the industry. However, that is something we need to consider in more detail, and we will do that in due course.
+
+We will look at the evidence to ensure we get this right when setting out the details in secondary legislation. The regulations will be subject to the approval of both Houses, so now is not the time for this. Our clauses put a duty on the Secretary of State to lay draft regulations containing a definition of “protected areas” by 31 July 2015. We must not rush this now, because we would risk putting in place restrictions in areas in a way that does not achieve the intended aim of the condition, or that goes beyond it and needlessly damages the potential development of the shale industry.
+
+We have been working tirelessly over the past week to come up with a set of clauses specific to the shale industry that, in keeping with the spirit of each of the points in amendment 21, will provide the public with confidence that it is being taken forward in a balanced way. Officials and Ministers have worked hard on this, and I would like to thank the Minister of State, Department for Transport, my right hon. Friend the Member for South Holland and The Deepings (Mr Hayes), and the Under-Secretary of State for Communities and Local Government, my hon. Friend the Member for Bristol West (Stephen Williams), for working so hard with us in Committee, together with our excellent cross-departmental team of officials.
+
+I hope the points I have made address hon. Members’ concerns. Shale gas is an exciting new energy resource for the UK, with huge potential that we can deliver safely. Now is the time to seize, not squander, the opportunity to develop the United Kingdom’s shale industry.
+
+Tom Greatrex
+I note from the number of Members seeking to catch your eye, Madam Deputy Speaker, and the amount of time left that even if I try to be brief, which I will, we will probably not have the opportunity to repair the damage that the Government have done to the amendment that was passed wholeheartedly by this House just a couple of weeks ago. The Minister should regret that. Given that she refused to take interventions on a number of specific points, I will put them to the House.
+
+My understanding is that some of the changes the Government have made in introducing the amendment in the other place do not go as far as what was agreed by this House on 26 January—again, a matter to be regretted, particularly in view of some the commitments and comments that the Minister made in her sometimes  rather chaotic contribution on that date. Once again, I think the House will come to regret that.
+
+Last month, many in the Chamber were left with the impression that the Government had listened and accepted the case being made, which included issues concerning groundwater protection and areas of protection, as well as other detailed points. Although I accept that there has been value in clarifying some of the language in our amendment, I do not accept that every one of the changes made by the Government and the Minister protect the integrity of the amendment passed by this House. As I have said, that is to be regretted.
+
+The Minister of State, Department for Transport (Mr John Hayes)
+rose—
+
+Tom Greatrex
+I am not giving way. It is to be regretted on both sides of the House. [Interruption.] The Minister’s Parliamentary Private Secretary is chuntering away, as she is wont to do, so let me remind her that we are short of time and that the Minister refused to give way during her contribution. I will repay that lack of courtesy to the Minister. That is how she seems to want to deal with the issues this afternoon.
+
+Joan Walley (Stoke-on-Trent North) (Lab)
+Will my hon. Friend give way?
+
+Tom Greatrex
+Yes, I will give way to my hon. Friend.
+
+Joan Walley
+I am so grateful. Not just the House, but the public outside will have noticed that the Minister did not give way on the safeguards that the Opposition sought to place in this Bill. If we accept the Government’s case that our previous amendments had to be refined, is there not a precedent whereby the Government could accept the Opposition amendments and take forward the safeguards when we vote at the end of the debate?
+
+Tom Greatrex
+I am grateful to my hon. Friend, who is absolutely right that that course is open to the Government. I shall come on to say more about amendment (c) and respond to what the Minister said about it. She accepted that nothing would happen before 31 July, so what is the problem with accepting amendment (c) to make sure that it is clear and built into the Bill before it becomes an Act?
+
+The Minister said that amendment (a) is not a get-out clause, but I am afraid that her explanation did not convince me. Proposed new subsection (3)(b) says that a well consent could still be issued if the Secretary of State is
+
+“otherwise satisfied that it is appropriate”—
+
+not the other way round. That suggests some ambiguity in the Government’s amendment, and we need to ensure that it is removed.
+
+The Minister touched on a number of different areas in respect of amendment (b). When it comes to groundwater protection zones, it is our contention, as I said during the debate a couple of weeks ago, that the range of protections developed cannot be cherry-picked. It is a comprehensive set of conditions that were developed in dialogue with a number of different sources, including specialist engineers, geological survey experts and others, in order to get the points right. It is not just a wish list drawn up at the last minute. Many people concerned  about groundwater protection think the Minister is saying, “Well, we’ll leave that to secondary legislation, and we will not use the definition because it already exists in law.” Groundwater protection zones are defined—we know what they are—but the Minister seems to be content to rely on the much more ambiguous term “protected areas” while having no sense of what those areas are. It is vital for groundwater, and sources of drinking water, to be properly protected, and there is concern about that on both sides of the House.
+
+19:45:00
+
+As for protected areas such as national parks, the Minister in the other place, Lady Verma, said that the amendment would ensure that
+
+“hydraulic fracturing cannot take place, within protected areas.”—[Official Report, House of Lords, 9 February 2015; Vol. 759, c. 1066.]
+
+However, the amendment that the Government accepted on Report—which I think is the root of the amendment tabled by the hon. Member for Cambridge (Dr Huppert)—contained the phrase
+
+“within or under protected areas”.
+
+The word “under” is crucial, because operators could drill as much as 3 km horizontally, and some of the protected areas are quite small. It is conceivable that they could be ringed by shale gas operators fracking “without” but nevertheless “under” protected areas. In that respect as well, the Minister’s comments this evening did not reflect the mood of the House on 26 January.
+
+Dr Julian Huppert (Cambridge) (LD)
+I noted that the regulations that would be made in July, after the general election, would be dealt with through the affirmative resolution, and that there would therefore be no opportunity to amend them. If the hon. Gentleman were in a position to influence that within his party, would he rule out any fracking within or under any protected area? Can he make that commitment now?
+
+Tom Greatrex
+If the will of the House is to support the Government amendment this evening and we reach a point at which there must be a definition in secondary legislation, we shall want to ensure that such areas are properly protected, just as we did when we proposed the amendment that the House accepted two weeks ago. [Interruption.] I am talking about the definition that was in an amendment that was supported by the hon. Member for Cambridge. In fact, a Division was not necessary, because everyone supported it. I think it vital for those areas to be properly protected, and we will seek to protect them if we are in a position to do so in the future. I am sure that if the hon. Gentleman can imagine being in that position himself, he may think that he would do so as well.
+
+Gregory Barker (Bexhill and Battle) (Con)
+Will the hon. Gentleman give way?
+
+Tom Greatrex
+I will not give way again, because I am conscious of the time, and I hope that we can reach the stage at which my amendments are put to a vote.
+
+Let me now deal with what the Minister said about environmental impact assessments. She had previously accepted that they should be mandatory for all shale  gas sites, not just those measuring more than 1 hectare. The Government’s proposed new clause, however, would ensure only that
+
+“the environmental impact of the development... has been taken into .account”.
+
+That stops short of a full commitment to an environmental impact assessment.
+
+Like the Minister in the other place, this Minister said that individual notification was impractical. Let me raise a point that I wanted her to clarify earlier, namely the decision to exclude shale gas operators from the need to notify people individually. That requirement still applies to other horizontal activities, such as those involving geothermal energy. Why has the arrangement been changed when it will still apply to operators of another technology? That seems absurd to me.
+
+The Government accepted our amendment on Report, which required that
+
+“site-by-site measurement, monitoring and public disclosure of existing and future fugitive emissions is carried out”.
+
+Their version weakens that wording on two counts. First, it limits the emissions to methane emissions, and to emissions generated during the operation of the site. As the Minister will know, the nature of hydraulic fracturing means that methane and other gases may continue to leak upwards through fractures and the borehole long after a site is decommissioned. Given a greenhouse gas impact about 25 times as potent as a tonne of carbon dioxide, it is vital that those emissions are properly reported.
+
+The Minister seemed to think that amendment (c) was not necessary, because there would be no activity before the deadline of 31 July deadline. If that deadline is placed in law, what reason is there for not ensuring that there is absolute clarity, so that people cannot misunderstand? The Minister gave the impression that she agreed that there would be no activity within that time frame, but I think it important for the law to be properly clarified.
+
+One of the reasons we tabled a number of amendments is that the Government have been unclear about policy in several areas. On Report, we moved an amendment to include hydraulic fracturing under the scheduled list of activities in the environmental permitting regulations. That amendment was not carried, but in the debate the Minister said that
+
+“the Government welcome in principle the sentiment behind the proposed amendment to the Environmental Permitting (England and Wales) Regulations 2010 to make explicit reference to hydraulic fracturing”—[Official Report, 26 January 2015; Vol. 591, c. 596.]
+
+However, in answer to a written question from my hon. Friend the Member for Brent North (Barry Gardiner) on 9 February, her DEFRA colleague the hon. Member for North Cornwall (Dan Rogerson) said:
+
+“There are no immediate plans to amend the Environmental Permitting (England and Wales) Regulations 2010.”
+
+Will the Minister clarify that? Was she mistaken when she told the House that the regulations were being updated, or was it her colleague in DEFRA, who said there were no such plans? That is just one example and I am going to list another couple where there is inconsistency in what the Government have said even in the last couple of weeks. That hardly helps us to have confidence in the integrity of the regulatory regime, and that is why I believe our amendments are still necessary.
+
+On Report, the hon. Member for Fylde (Mark Menzies), who is in his place, asked whether Health and Safety Executive inspections would be unannounced. The Minister replied:
+
+“The short answer to that is yes.”—[Official Report, 26 January 2015; Vol. 591, c. 589.]
+
+However, in a written answer on 4 February the Minister for Disabled People, the hon. Member for Forest of Dean (Mr Harper), said:
+
+“Decisions on whether an inspection is announced or unannounced are made on a case by case basis by the HSE inspector.”
+
+Which is it? Are they unannounced or not? Is the “short answer” also the wrong answer, or, again, have we got confusion at the heart of Government about the way in which these regulations will be applied?
+
+The Minister’s colleague, the Minister for Business and Enterprise, the right hon. Member for West Suffolk (Matthew Hancock), was asked whether DEFRA had a role in regulating shale gas, and he said on 10 February:
+
+“DEFRA does not have a direct regulatory role in shale gas operations”.
+
+However, the hon. Member for North Cornwall said on 3 February:
+
+“DEFRA is responsible for the environmental aspects of shale gas policy”.
+
+With this kind of confusion, it is not difficult to see why people accuse the Government of not taking the regulations for shale gas seriously, and why there is a lack of confidence in what the Government are saying this evening and what they have been saying over the past couple of weeks.
+
+The Minister for Business and Enterprise (Matthew Hancock)
+Will the hon. Gentleman give way?
+
+Tom Greatrex
+No. I am concluding now as I know other Members wish to speak in the short time available to us.
+
+Just over two weeks ago we had a debate in which we discussed a number of different aspects of this subject in a very constrained time frame. We also did so in good faith. We accepted the Government were taking our new clause 19 as it then was, and I also accepted in conversation with Ministers that they would seek to correct some ambiguities in it. I do not have a problem with that, but what I do have a problem with is the way in which the Government have weakened the scope of what was agreed by this House. As I have said, this is not a list to cherry-pick from, and it is not a party political issue. It is an issue that affects a number of communities across the UK—and a number of communities represented by Members of the Minister’s party, my party and other parties represented in this House. We all want to have confidence in the regulatory regime—that it is robust, that monitoring is comprehensive, and that can inform debates in local areas. By watering down aspects of the amendments that were accepted by this House the Government are at risk of undermining that case around which I felt on 26 January the House had united. I think the Government will come to regret that.
+
+Sir John Randall (Uxbridge and South Ruislip) (Con)
+I had not intended to speak, although I did sign amendments (d) and (e) tabled by my hon. Friend the Member for Cambridge (Dr Huppert). I did so because  I wanted more clarification. I was encouraged by what I heard from the Minister on Report, and I am slightly disappointed that what we heard then has been slightly watered down. Although I accept in good faith that this will be resolved by 31 July, it will be to my eternal regret that I will not be able to see that as I will not be here. Accepting the good faith of the Government is always the right thing to do, because Ministers always do right for the whole country. However, when the regulations are clarified on 31 July, if they are not as strong as people want, the Government—it will be the same Government—will have a few more questions to answer. I will leave it there.
+
+Caroline Lucas (Brighton, Pavilion) (Green)
+I shall be brief because I know that others want to speak. I also want to leave as much time as possible in case we get the opportunity to push more of the amendments to a vote.
+
+On the Government amendment on the impact of shale gas on carbon budgets, I hope that the Minister will confirm that, should the advice provided indicate that there is indeed a risk of undermining the UK’s domestic or international climate change commitments, that would categorically result in a halt to exploitation and extraction.
+
+Amendment (b) does not go far enough, particularly on climate change, but I will support it. I am concerned, however, about what I see as collusion between the Front Benches to take away people’s right to say no to fracking under their homes and their land. Asking for people to be notified is very different from asking for their consent. This is a slap in the face for the 99% of the people who responded to the consultation who were absolutely against the removal of the right to object. Given public opposition to changing the rules on trespass, it is regrettable that we shall not have the opportunity to debate and vote on that tonight.
+
+The Government’s attempt to weaken the partial protections in amendment (b) is reprehensible: failing to ban fracking in groundwater source protection zones, failing to require an environmental impact assessment, and failing to rule out fracking underneath as well as in national parks and protected areas. If the wording is somehow insufficient, the Minister should go away and redraft it. The Government should certainly not use that excuse for weakening safeguards. Worse still is the new definition of fracking in Lords amendment 21B, based on a specific volume of fracking fluid. That risks allowing significant fracking with less than the defined volume limit to go ahead, without even the safeguards that are before us today.
+
+What a mockery this is making of legitimate public concerns on fracking, and indeed of the democratic process. The paltry hour scheduled for today’s debate is particularly disgraceful, given the lack of time that we had to debate the issues on Report. These are far-reaching changes that are being discussed here, and our constituents deserve better. Parliament has let them down tonight.
+
+Mr Peter Lilley (Hitchin and Harpenden) (Con)
+The one point on which I agree with the hon. Member for Brighton, Pavilion (Caroline Lucas) is that we have inadequate time to debate this important issue tonight. We also have inadequate time in which to debunk the  many myths that she herself propagates. Indeed, she relies on their not being debunked. We all want our water supplies to be pure in quality and ample in quantity. One of my first successes in the House was to secure the closure of the Friars Wash extraction plant in my constituency following over-abstraction from the aquifer that was damaging the aquifer and threatening the chalk streams in the area. I would therefore support any measures to protect the quality of our water supply if I thought that it was threatened by fracking—but I do not think it is.
+
+A number of those who write to me are genuinely convinced that there is a serious threat and that as a result of fracking their water supplies will be contaminated and their health put at risk. We should be clear, however, that the majority of those who are hyping those fears are not primarily concerned with the quality of the water. Their campaign to prevent the extraction and use of fossil fuels in this country is what motivates them, and that is a perfectly legitimate objective, but it should not be achieved by hiding their real motives behind some grossly overblown, exaggerated fears relating to other matters. They know that they will not succeed on the CO2 thing, because to abandon the use of fossil fuels in this country would be dramatically to undermine our quality of life. In any case, if we did not extract shale gas and oil in this country, we would simply import it from abroad, so all we would be saying is that we should make other people rich while impoverishing ourselves and not creating jobs and opportunities where they are most needed in this country.
+
+Dan Byles (North Warwickshire) (Con)
+Is my right hon. Friend struck, as I am, by the fact that the Committee on Climate Change—hardly made up of a rabidly right-wing bunch of cut-throat business people—has expressly stated that a domestic shale gas industry can be entirely consistent with our emission reduction targets, because the lifecycle emissions of domestically produced shale gas are lower than those of imported liquefied natural gas? This is simply about gas substitution. It is not about burning more gas; it is about burning domestic gas.
+
+20:00:00
+
+Mr Lilley
+My hon. Friend is absolutely right about that. In addition, the Select Committee on Energy and Climate Change, where I used to be in a minority of one but I am now joined by the hon. Member for Blackley and Broughton (Graham Stringer) in a minority of two, was unanimous on the issue of fracking: it could and should be pursued energetically in this country, with appropriate safeguards, of course.
+
+Dr Huppert
+Will the right hon. Gentleman give way?
+
+Mr Lilley
+I hope the hon. Gentleman will excuse me, but I want to make a little progress.
+
+A number of fears have been raised about water supplies, the first of which is the fear of well failure. We have drilled 2,000 onshore wells in this country and, as far as I know, not one of them has resulted in contaminated water supplies. If that has happened, it has not resulted in any ill health to anybody.
+
+Miss Anne McIntosh (Thirsk and Malton) (Con)
+This is one of the myths that my right hon. Friend has fallen into. We have only fracked at shallow depth for   natural gas. The only time we have fracked at depth for shale gas was in Fylde, which is why the question of the independent regulation of this industry hangs in the balance this evening.
+
+Mr Lilley
+I am sorry but my hon. Friend misheard me. I said that we have drilled 2,000 onshore wells—I was not talking about fracking wells. As for the risks of escape of gas, it does not matter whether it is fracked or not. We have drilled 2,000 such wells, only 200 of which have been fracked, and they tend to be shallow and small pressure. I will move on to the issue of fracking, but if people are worried about methane or liquids permeating to the surface, that is an issue about well casing. We have very adequate and strong controls on that, and, as far as I know, there is not a single case among those 2,000 wells where a problem has resulted.
+
+The second issue is whether fracking—the use of high pressures, at depth, as my hon. Friend says—will lead to those fractures reaching up to the water table. The useful report produced by the Royal Society and the Royal Academy of Engineering, which is studiously ignored by those who wish to raise fears and concerns, makes it absolutely clear that that is extremely unlikely. For fractures to permeate requires immense energy and for them to remain open proppants have to be put in; sand is injected to try to keep them open. The idea that they will be able to be kept open for several hundred if not thousands of feet, extending up to the aquifer, is almost laughable. Even this well-measured report states:
+
+“Sufficiently high upward pressures would be required during the fracturing process and then sustained afterwards over the long term once the fracturing process had ceased. It is very difficult to conceive of how this might occur given the UK’s shale gas hydrogeological environments.”
+
+Even if that did occur, an upward flow of fluids would not result unless
+
+“the permeability of the fractures”
+
+was
+
+“similar to that of the overlying aquifer for any significant quantity of fluid to flow. In reality, the permeability of the aquifer is likely to be several orders of magnitude greater than the permeability of the fractures. Upward flow of fluids from the zone of shale gas extraction to overlying aquifers via fractures in the intervening strata is highly unlikely.”
+
+That is an understatement.
+
+Concerns have also been raised about the process resulting in excessive abstraction of water—too much water being used—putting our water supplies under threat. The report states that the amount of water
+
+“needed to operate a hydraulically fractured shale gas well for a decade may be equivalent to the amount needed to water a golf course for a month”.
+
+It states that
+
+“the amount lost to leaks in United Utilities’ region in north west England every hour”
+
+exceeds the water required by one shale gas well for a decade, so there is no danger of excessive water abstraction and use as a result of this process.
+
+Then we hear the frequent assertion, “We just can’t take the risk. This is a new, untried, untested process. We don’t know what dangers could result.” In fact, 2.5 million wells have been fracked worldwide and not a single person has been injured or harmed as a result of   contaminated water. Not a single building has been damaged by the resultant seismic events that are so small that they would probably be less than if we dropped one of the Dispatch Boxes on the floor.
+
+We are dealing with a well-tried and tested procedure worldwide. In this country, we have drilled 2,000 wells well below the aquifer and had no problems of contamination. We know from very respected bodies such as the Royal Academy of Engineering and the Royal Society that the risks are negligible, certainly if we continue with the sort of processes and environmental protection that they say already exist, although they do recommend that they could be strengthened in certain ways.
+
+I urge the House not to be frightened by those who are trying to scare us into failing to exploit a resource that is potentially of immense value to this country and, not least, to those areas where shale is most prolific.
+
+Jim Fitzpatrick
+I am very pleased to follow the right hon. Member for Hitchin and Harpenden (Mr Lilley), and I agree with much of what he said. I too support the recovery of shale gas within the UK. I also agree with the comments of the right hon. Member for Uxbridge and South Ruislip (Sir John Randall) who gives the Government the benefit of the doubt, but says that some questions might have to be asked in due course. However, as a former deputy Chief Whip, he would give the Government the benefit of the doubt. I cannot say that I am quite so generous, because I am disappointed that the Government risk jeopardising the support across the Chamber from those of us who believe in shale, shale recovery, fracking and the energy resource that we have underneath our shores.
+
+I say with no disrespect to the Minister that this is disappointing. The Government accepted the Labour amendment when we debated the matter two weeks ago, partly because they felt that they might lose the vote because of rebellions and other things and partly because they thought the approach was correct. I do not think that fracking is dangerous. I think that with the appropriate regulatory regime, it will be safe. I much prefer the idea of sourcing our energy from within the United Kingdom than importing it from Saudi Arabia, Qatar or Russia, with all the associated problems. We should also consider the jobs, the manufacturing, the side products and the rest of it.
+
+I am disappointed that the Government are not accepting the amendments that we put down originally and are rejecting those refined by the Lords. I am equally disappointed that the Minister was not prepared to engage in a debate with my hon. Friend the Member for Rutherglen and Hamilton West (Tom Greatrex), who sits on the Labour Front Bench, and accept his intervention. We should exploit shale and use it as a national resource, but to do that, and to be able to defeat those who are scaremongering, as the right hon. Member for Hitchin and Harpenden put it, we need the strongest consensus possible, and the Government’s approach tonight jeopardises that.
+
+Dr Huppert
+It is always a pleasure to follow the hon. Member for Poplar and Limehouse (Jim Fitzpatrick) even when I do not quite agree with everything he said, although I do agree with much of it.
+
+The frustration here is that we are discussing the small details, the minor issues. It is a shame that we do not have the chance to discuss and vote on the principles. We were denied that chance last time. There was not an opportunity to vote on the duty to maximise extraction or on trespass. There was a chance to vote on a moratorium, but, unfortunately, the Opposition abstained in large numbers. It is frustrating that we do not get the chance again this time. The two amendments on trespass which I co-sponsored with the hon. Member for Brighton, Pavilion (Caroline Lucas) were not selected, and it looks as though we will not get a chance to vote on very much today.
+
+Let me be positive to the Government and start with Commons amendment 20. I am pleased that the Minister has delivered on the promise she made when she intervened on me in our last debate, which was to give a key role to the Committee on Climate Change. I am pleased that the Committee on Climate Change will have to make reports. I hope the Minister can assure me that “from time to time” means every few years rather than every few generations. I am pleased that the Minister has gone further and given what I think will be a crucial power, which is that if the Committee on Climate Change does say that fracking is increasing UK emissions, this new Lords amendment gives the power to a Secretary of State in the future to stop fracking. That will become quite an important measure, particularly when the balance changes as we become much better at energy efficiency—the issue that the right hon. Member for Hitchin and Harpenden did not want to think about. As we change that balance, where we get our fuel from will change substantially.
+
+The proposal goes slightly further in that any Secretary of State who gets a report saying that fracking is increasing emissions and does not take steps to stop it will be required at least to report formally to Parliament to say why they are flying in the face of expert advice. I welcome that.
+
+Dan Byles
+I am curious. The hon. Gentleman says that the report might say that fracking is increasing emissions, but compared with what counter-factual—imported liquefied natural gas or gas imported from Qatar, for example?
+
+Dr Huppert
+Compared with what would otherwise be the case. I am aware that the hon. Gentleman is keen on the figures, but he will find that the range of values—we do not know the exact emissions from fracking—overlaps with the range of values from imported LNG. We do not know whether they will be about the same or lower.
+
+The hon. Gentleman is interested in reports, so I am sure he would be interested to see the Government’s own official report, led by my constituent, Professor David MacKay, which said:
+
+“In the absence of global climate policies, we believe it is credible that shale-gas use would increase both short-term and long-term emissions rates.”
+
+That was published by the Department; we should give it some credibility.
+
+Dan Byles
+Will the hon. Gentleman give way?
+
+Dr Huppert
+No, lots of people would like to speak and the hon. Gentleman has had a chance to do so.
+
+Let me move on to the long list of requirements in Lords amendment 21; I have concerns about both the versions we are likely to have a chance to consider. The version that left the House was deficient and the version that has come back from the other House is also not good enough. That is why I wanted to table other amendments on where fracking should be allowed—the within and under issue, which is covered in amendments (d) and (e) to the table in Lords amendment 21B. I am grateful to those Members who have given us support. Support has also been given by organisations such as the Royal Society for the Protection of Birds, the Campaign to Protect Rural England and many others.
+
+I was struck by the fact that the shadow Minister, the hon. Member for Rutherglen and Hamilton West (Tom Greatrex), used a lot of words to say neither yes nor no to a simple question about whether he would want to ban fracking within or under all those protected areas. The whole House heard that he was not prepared to give a yes or no answer, whereas some of us believe we should take a firm position and be clear. I would take further steps on it. I therefore have a problem with both versions.
+
+I also have a problem with issues to do with water. There are concerns about abstraction of water in some areas, and I think that a duty merely to consult, but not necessarily to do anything with the consultation, does not go far enough.
+
+I am also interested in the issue of how to give notice. I accept what the Minister says in that it would be going too far to require every single person definitely to have been notified. I can see the problems with that, but I can also see the problems with a measure that means that a notice being put in the bottom of a locked filing cabinet could be considered notification. I was hoping the Minister would let us know what that balance should look like so that there will be reasonable notification.
+
+I am frustrated that it seems we shall not have a chance to vote on much of this—
+
+Mr Hayes
+I did try to intervene on the shadow Minister. The hon. Gentleman might choose to invite the shadow Minister, who must have modelled this, to give us some idea of the cost and timetable of such individual notification, given that it was not in the original amendment and was added at a late stage, contrary to what the shadow Minister suggested.
+
+Dr Huppert
+I thank the Minister for his intervention, although I am not sure whether he is asking me to answer; I certainly have not modelled what the shadow Minister would like to do.
+
+I am very frustrated that it looks as though we shall have to choose between two options, both of which are deficient, and that we shall not have the chance to vote on the stronger proposals that I would much prefer.
+
+Gregory Barker
+I rise to support the Government on these crucial amendments and to congratulate the Minister on very deft handling of an issue that is difficult because it is complex and technical, and because there are some extreme opinions on the matter, some of which are  based on ideology rather than technology or science. I commend her efforts to try to find a middle way and reach a broad consensus.
+
+I was encouraged by the stance taken by the Opposition through most of the passage of the Bill. They behaved responsibly, taking the important role of opposition seriously and scrutinising the Bill, and offering up amendments and criticisms that they thought were valid. However, I am very disappointed that the Opposition in the Lords and back here again are trying to have their cake and eat it. They are trying to hunt with the hounds and with the hare.
+
+20:15:00
+
+The Opposition are trying to get the benefits that will flow from a responsible policy to unlock the potential of domestic British gas resources, as the hon. Member for Poplar and Limehouse (Jim Fitzpatrick) eloquently outlined. I agree about the economic benefits, but I see an even stronger imperative for fracking—the environmental imperative. If we are to get to a low carbon trajectory, the most important thing this country must do is get coal off the system. The most important thing that the global economy must do is get coal off the system. We can do that only if we substitute a large proportion of that coal with gas—certainly for the next decade, and probably for most of this century. We cannot do it with renewables alone. Renewables have a critically important role to play—their expansion is exciting and unstoppable—but they cannot replace coal on their own; gas is imperative.
+
+The points made by the Labour Front Bencher to support the Opposition’s tenuous and rather synthetic disagreement with the Government were disappointing. The hon. Member for Rutherglen and Hamilton West (Tom Greatrex), speaking for Labour from the Front Bench, said that he had an example of the confusion on the Government’s part. He cited an amendment which, he said, was inconsistent because it said that the Department for Environment, Food and Rural Affairs had no direct role in regulating shale gas. That is absolutely correct, and I am surprised that he does not know that. Under our governmental arrangements, Departments set policy; regulation is the preserve of independent regulators. Ministers do not regulate; Ministers set policy, and the Environment Agency or other agencies enforce the regulation. The hon. Gentleman is usually on top of his brief. I am surprised that he should use such a flimsy and confused argument to try to undermine the consensual approach that we have had in the House.
+
+I support the Government and very much hope that the House will throw out these unnecessary and unwelcome amendments.
+
+Miss McIntosh
+This has been a good debate on the amendments. I pay tribute to the Minister for steering a difficult piece of legislation through the House. My hon. Friend the Minister has not had the advantage of the years in opposition which show that the detail should appear on the face of the Bill. The House will unite around the fact that we present a hostage to fortune by allowing some of the detail that will no longer be on the face of the Bill, which was achieved through consensus around an Opposition motion on Report which united the House on specific aspects—
+
+Tessa Munt (Wells) (LD)
+One of the details I am particularly concerned about is coal bed methane, which is exploited at depths of 150 to 400 metres—unlike high-volume hydraulic fracturing, which is done below 1,000 metres—and which is not defined in the Bill. Does my hon. Friend agree that there should be a prohibition on all gas exploitation at depths of less than 1,000 metres?
+
+Miss McIntosh
+I am sure the Minister will respond.
+
+My right hon. Friend the Member for Hitchin and Harpenden (Mr Lilley) put his finger on the issue before the House today. I would not stand in the way of fracking in Thirsk, Malton or Filey, which is a deeply rural constituency dependent on farming and tourism in precisely the area for which, I am told, the licence application is to be submitted in March, before the regulations have come before the House. There are too many unknowns in the regulatory regime. My question to the Minister—I have tabled a question in this connection—is which independent regulator will enforce the controls, the traffic light system which the Prime Minister refers to, stopping seismic activity above 0.5%? This is the big difference between drilling in every other aspect and causing an earthquake below ground, making the earth move, possibly never to return to where it had been before.
+
+I would also like to raise with my hon. Friend the Minister the matter of ground water contamination. How can Third Energy hope to remove by pipes the waste water at a depth of less than 2 metres underground? How can it possibly hope to submit a plan for a licence application by the end of March without having a traffic movement plan or a waste disposal plan?
+
+I leave the House and the Minister with the thought that in the present economic climate, given the fall in the price of oil, we can allow ourselves the luxury of making sure that the regulatory regime is independent and fit for purpose and that no fracking will take place until the regime has been tried and tested.
+
+Andrew Percy (Brigg and Goole) (Con)
+I had not intended to speak tonight but, having heard the debate, feel that I must contribute. My right hon. Friend the Member for Hitchin and Harpenden (Mr Lilley) made the important point that some of the people who are against fracking are patently against it for environmental reasons; I do not associate myself with those people, and neither does he. However, I think that many people in this country have genuine concerns about fracking. In my constituency, where there are a number of test sites, I find that many people are very reasonable, in that they would be open to the option of fracking as long as they felt that the regime was strict enough and that there were enough environmental protections in place.
+
+What concerns me about tonight’s debate is the restricted time, our inability to vote on all the amendments, and what has happened between the Lords and the Commons with regard to what I thought we agreed in the Commons a week or so ago. It leads many people to conclude that the Government are in league with the extraction companies or that there is something to hide. I do not believe that is the case at all, but given our concerns, I think there is a very strong argument indeed for pausing and thinking again about this issue, particularly given what has happened  to oil prices internationally. That is why I and other Members on both sides of the House recently voted in favour of a moratorium.
+
+Gregory Barker
+Will my hon. Friend give way?
+
+Andrew Percy
+I will not, because other Members are still to speak.
+
+There is clearly the potential for fracking. I do not pretend to be a scientist—I stopped studying science when I finished my double-award GCSE at the age of 16—so I will not get into the arguments, but clearly there is the potential for an industry that a large number of my constituents would support, subject to those safeguards. That is why I voted the way I did in previous stages of the Bill’s consideration. I do not think that the way the Lords amendment has been drafted, or indeed this evening’s debate, has done a great deal to increase the confidence of residents. I make a plea to the Government that we have to take people along with us on a journey, particularly when there is a new technology that is very controversial—[Interruption.] Hon. Members say that it is not a new technology, but it is new to this country, as we heard from my hon. Friend the Member for Thirsk and Malton (Miss McIntosh), so people’s concerns about it should be heard, just as concerns about wind farms should rightly be heard.
+
+I urge the Government to think very carefully about this. I reiterate my view that the residents of Brigg and Goole and of the Isle of Asholme are not closed-minded about this technology; they simply want to know that the evidence is there to support it and that their homes, communities and local environment will be sufficiently well protected. That is what I thought we had agreed to with the amendment a couple of weeks ago.
+
+Christopher Pincher (Tamworth) (Con)
+I am reassured by the words of my hon. Friend the Minister, particularly with regard to groundwater protection. I think that she and the ministerial team have gone out of their way to be as consensual as possibly in order to bring the Opposition with them in support of hydraulic fracturing. Having heard the shadow Minister, who is a decent and knowledgeable man, say that he believes in a bipartisan approach, I think it is a great pity that he has chosen not to adopt such an approach tonight. He and I served on the Energy and Climate Change Committee, and it is worthy of note that the Committee has produced in this Parliament not one but two reports on fracking and shale gas.
+
+It is also worthy of note that except for the hon. Member for Wansbeck (Ian Lavery), not one Opposition member of the Select Committee is here tonight. That seems to suggest that the others are not particularly concerned about the proposals put forward by the Government. Conservative, Labour and Liberal Democrat members of the Committee all supported the importance, with safeguards, of fracturing for shale gas.
+
+My right hon. Friend the Member for Hitchin and Harpenden (Mr Lilley), a fellow member of the Committee, made an eloquent speech demolishing many of the myths that surround shale gas extraction. I will not attempt to reheat and rehearse most of what he said. He made a point about aquifers relative to shale layers underground. The hon. Member for Brighton, Pavilion (Caroline Lucas) has worries, as have others, about the  potential pollution of the water table. I think that that is almost impossible as a result of shale gas fracturing. Fracking, in and of itself, cannot cause pollution of the water table, because the shale layer is hundreds, sometimes thousands, of feet below the earth’s surface, whereas the aquifers are just a few feet below the earth’s surface. In between the aquifers and the shale layer are hundreds, sometimes thousands, of feet of solid rock. Firing sand grains into fractures a hair’s breadth wide is not going to cause pollution of the aquifers. That will happen only if the wells themselves are compromised, and given that we have some of the best environmental protection in the world, that is very unlikely. If one drills down thousands of feet—
+
+Gregory Barker
+My hon. Friend draws attention to the fact that here in the UK we have the best environmentally regulated regime for oil and gas extraction in the world. That is a very important point. We have a terrific record, particularly for onshore drilling. It would be wrong to cast out—
+
+20:27:00
+
+One hour having elapsed since the commencement of proceedings on consideration of Lords amendments, the proceedings were interrupted (Programme Order, this day).
+
+The Deputy Speaker put forthwith the Question already proposed from the Chair (Standing Order No. 83G), That this House agrees with Lords amendment 20B to Commons amendment 20 and to consequential Lords amendment 20C.
+
+Question agreed to.
+
+Lords amendments 20B and 20C accordingly agreed to.
+
+The Deputy Speaker then put forthwith the Question necessary for the disposal of the business to be concluded at that time (Standing Order No. 83G(4)).
+
+Motion made, and Question put,
+
+That this House does not insist on Commons amendment 21 and agrees to Lords amendments 21B, 21C and 21D in lieu of Commons amendment 21, and that this House agrees to Lords amendments 33A to Commons amendment 33.—(Amber Rudd.)
+
+Division 156
+11/02/2015 20:28:00
+The House divided:
+Ayes: 257
+Noes: 203
+Question accordingly agreed to.
+
+Lords amendments 21B, 21C, 21D and 33A agreed to.
+

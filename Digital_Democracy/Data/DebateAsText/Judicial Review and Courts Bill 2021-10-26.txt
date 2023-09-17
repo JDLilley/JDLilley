@@ -1,0 +1,847 @@
+ Judicial Review and Courts Bill
+
+Second Reading
+
+15:09:00
+
+The Lord Chancellor and Secretary of State for Justice (Dominic Raab)
+I beg to move, That the Bill be now read a Second time.
+
+This Bill makes good on our Government’s manifesto pledge to ensure that judicial review is not subject to abuse and to deliver more effective, more efficient justice for the citizens of our country. I pay tribute to my right hon. and learned Friend the Member for South Swindon (Robert Buckland) for all of his work in preparing the Bill and for his outstanding tenure as Lord Chancellor and Justice Secretary.
+
+I first want to address the so-called Cart reviews. That is the means by which the High Court reviews decisions of the upper tribunal to refuse permission to appeal a first-tier tribunal decision.
+
+Joanna Cherry (Edinburgh South West) (SNP)
+Will the right hon. Gentleman give way?
+
+Dominic Raab
+May I make a bit of progress?
+
+Let me take one immigration case by way of illustration. A claimant whose leave to remain was revoked because of his dishonesty challenged that decision in the High Court. He was granted permission to bring his judicial review despite exhausting the appeal process at the immigration tribunal. The challenge was eventually dismissed, but not before it was sent back to the upper tribunal. At that point, the judges, Messrs Lane and Ockleton, noted that
+
+“it appears that permission was granted on grounds which had no merit, ought to have been withdrawn by their proponent, and do not seem to have been regarded as giving a reasonable prospect of success even in the granting of permission.”
+
+That is just one illustration. To give a sense of scale, on average, there are 750 judicial reviews against the upper tribunal alone each year, the vast majority of which are immigration cases. The success rate is just 3.4%. For completeness as well as appeals on immigration, the upper tribunal also hears cases on administrative and regulatory matters—things such as social security tax and property cases.
+
+Joanna Cherry
+I am grateful to the Lord Chancellor for giving way. I would like to intervene later on the specifics of this matter, but may I start by asking him this: the right to judicial review in Scotland is protected by article 19 of the Treaty of Union and it is a devolved matter under the Scotland Act 2016. His predecessor gave me a written assurance that the focus of this Bill would be on UK powers and procedures relevant only to the jurisdiction of England and Wales. Will he tell my why that promise has been broken?
+
+Dominic Raab
+It has not been broken, but I shall come on to address that when I deal with the devolution dimension in a little while.
+
+Of course there must be accountability, but allowing such a large volume of flawed challenges just skews the system. Allowing a legal war of attrition—not just against the Government, but, as in this case, against the judiciary themselves—undermines the integrity of the two-tier tribunal process, which was set up precisely to deal both fairly and efficiently with immigration cases. That wastes court time and taxpayers’ money, which should be focused on reviewing more serious and credible cases. The Supreme Court Justice Lord Brown foresaw that this very problem would arise in his judgment in the original Cart case back in 2011 and he said then that
+
+“the rule of law is weakened, not strengthened, if a disproportionate part of the courts’ resources is devoted to finding a very occasional grain of wheat on a threshing floor full of chaff.”
+
+Regrettably, he was proved right. It is also worth noting the more recent commentary by Lord Hope of Craighead, another of the presiding judges in the Cart case, who said in the other place earlier this year that these types of reviews have not worked and that it is time “to end them.”
+
+Debbie Abrahams (Oldham East and Saddleworth) (Lab)
+I am very grateful to the Justice Secretary for giving way.
+
+Over the past few years, the law has been the only way that any justice has been allowed for social security claimants. Three different judicial reviews were upheld and they said that what the social security Secretary had undertaken was unlawful—both on universal credit for disabled people and for single mothers. Which of these judicial reviews would have been allowed under this Bill?
+
+Dominic Raab
+Of course I cannot second guess the judicial decisions made in individual cases, but what I can say is that of course we want to protect the integrity not just of judicial accountability, but of the tribunal process, which we have established precisely to deal with those cases as well as others that I have discussed. The Bill will address the problem in a sensible and proportionate way, preventing Cart appeals except in the most exceptional circumstances, such as the upper tribunal deciding a type of case outside its jurisdiction, in bad faith or with some fundamental procedural error, such as not hearing one side of the case, which would clearly be wrong. Our approach will ensure that the 180 judge-days spent on Cart reviews, every year, are no longer wasted. In that way, taxpayers’ money is saved and the immigration system can function more effectively.
+
+I would be interested to know whether Labour will support us in this matter. I have done my homework—[Interruption.] The right hon. Member for Tottenham (Mr Lammy) is laughing, but if Labour plans to vote against this Bill on the basis of Cart, I would point out that the shadow Justice Secretary personally proposed a much broader so-called ouster clause back in 2003 in Labour’s Asylum and Immigration Bill—[Interruption.] The right hon. Gentleman said that he was young and naive. I am not sure what that makes him now. Forgive me if I am reminding him of a stressful moment in his career, but it was the Asylum and Immigration Bill back in 2003. It did not have any of the exceptions and it was not as constrained as the Bill before the House today. He did not just support the measure; he proposed the measure. He was a Minister in the Department for Constitutional Affairs. I am not sure whether he has forgotten about that, but I am afraid that the Opposition have zero credibility in opposing a more targeted measure that they proposed before.
+
+The Bill will remove Cart for the whole of the UK, but only in respect of reserved matters. I hope that all hon. Members will agree that we must have consistency in routes of appeal to preserve a coherent and efficient immigration policy and indeed the integrity of the UK’s borders.
+
+Joanna Cherry
+The Lord Chancellor will be aware—I am sure that this will be covered in other speeches—that the evidential basis for this law change in England has been questioned, but the Law Society of Scotland has said that there is no evidence of any such problem in Scotland. On the contrary, there is good recent evidence of a Cart—or Eba judicial review as we call them in Scotland—in which the first tier tribunal and the upper tier judge misunderstood the petitioners’ evidence, and the Appeal Court intervened to reduce the upper tribunal’s decision, refusing it permission to appeal. Does he accept that there is absolutely no evidential basis, north or south of the border, for the need for these kind of procedures to be withdrawn, and can he tell me why he is forcing a restriction on the Scottish legal system for which there is no evidential basis?
+
+Dominic Raab
+In fairness, I think have presented the evidential basis: 750 cases each year and barely a 3% success rate. Of course, the integrity of the tribunal needs to be protected. There are safeguards and exceptions. The Bill is not nearly as broad as the Bill tabled by the right hon. Member for Tottenham back in 2003. This is the right way for the House to proceed.
+
+Joanna Cherry
+Will the Secretary of State give way?
+
+Dominic Raab
+I will make some progress; I have given way to the hon. and learned Lady twice.
+
+The Bill will reform quashing orders so that we can strike a better balance between the essential judicial accountability over the Executive and the ability of an elected Government to deliver their mandate in a lawful but orderly way. Let me give one example: the case of Her Majesty’s Treasury v. Ahmed back in 2010. In that case, the then Government acted on best information, including intelligence, and froze the funds of three brothers suspected of being al-Qaeda terrorists. They did so under the auspices of two Orders in Council, which were made in 2006 under the powers of the United Nations Act 1946. The Supreme Court considered whether the orders were ultra vires of that Act and therefore invalid.
+
+The 1946 Act gave the Government the power to give effect to UN Security Council resolutions on threats posed by international terrorism. However, the Supreme Court decided that the orders went beyond what was necessary and expedient for implementing the relevant resolution, because the orders provided that a person’s assets could be frozen on the basis of a “reasonable suspicion” of involvement in terrorism, rather than a higher standard of evidential proof that the court deemed that the law required. The court quashed the orders immediately, irrespective of the ability of the Government to reassess or revise the order, because it concluded that it did not have the power to suspend the effect of the quashing order. That required Parliament to rush through new legislation to protect the public by preventing suspected terrorists from accessing those funds, because Ministers no longer had the powers that they believed they could exercise under the relevant legislation.
+
+This Bill simply remedies that measure of inflexibility by giving the judiciary the power to issue a suspended—or, indeed, a prospective—quashing order, allowing the Government a reasonable period of time to review the orders and/or the legislation itself. If that had been available in the Ahmed case, it could have prevented considerable disruption and potential risk, while safe- guarding the judiciary’s vital scrutiny of the Executive in such an important area of national security.
+
+Sir William Cash (Stone) (Con)
+The European Union (Withdrawal Agreement) Act 2020, as originally passed, included provision for the courts to be able to quash Acts of Parliament. That is rather a serious matter, to say the very least. Does my right hon. Friend agree that that is very unwise—particularly having regard to the Factortame case, when we voluntarily agreed that we would allow the courts to do that—and that now that we are out, we certainly would not want that to happen again?
+
+Dominic Raab
+My hon. Friend makes a powerful argument. I have not heard the Factortame case cited in this House for some time—to the relief of some.
+
+Of course, there are many other contexts beyond counter-terrorism—from infrastructure projects to health and safety regulation—where the use of a suspended or prospective quashing order would lead to a better outcome, allowing both essential judicial accountability and good governance at the same time; those two aspects can and should go hand in hand. Dare I say it, these reforms may have the welcome effect of making our system just a little less adversarial by giving the Government and this House the opportunity to respond swiftly but in a considered manner, rather than effectively being tripped up—sometimes at great cost to the taxpayer and at other times at potential risk to the public.
+
+Sir Robert Neill (Bromley and Chislehurst) (Con)
+Perhaps the Secretary of State and Lord Chancellor could help me on two matters. When these matters of suspended quashing orders are being worked out, will he ensure that no litigant who has succeeded and has suffered tangible loss is left without an effective remedy? That will be important, outwith any other considerations that might very properly be taken into account. I also gently say to him that he has clearly been absent from justice debates for a little while—and we welcome him back—or he would surely have known that my hon. Friend the Member for Stone (Sir William Cash) never misses an opportunity to raise Factortame when we talk about topics of this kind; he has managed to do so in this debate as well.
+
+Dominic Raab
+I can give my hon. Friend, who chairs the Justice Committee, the reassurance that he is looking for. If he looks at clause 1(8)(c) and (d), he will see that
+
+“the interests or expectations of persons who would benefit from the quashing of the impugned act”
+
+and those
+
+“who have relied on the impugned act”
+
+are material considerations for the court to consider.
+
+Mr Tanmanjeet Singh Dhesi (Slough) (Lab)
+What would the Secretary of State say to victims of rape, some of whom have been waiting up to four years to get justice, when they rightly ask why the Government are prioritising judicial review reforms in the midst of a pandemic, rather than dealing with those abhorrent crimes?
+
+Dominic Raab
+The hon. Gentleman makes a fair challenge. However, he should ignore the pleadings from those on his Front Bench and support this Bill, because, overall, as well as dealing with judicial review, with the reform agenda that we are putting through the criminal courts we will free up a substantial number of Crown court days a year—I think it is 400. That will mean, on top of the other efforts such as the Nightingale courts, the super-court in Manchester and the virtual courtrooms, that we will be able to free up further court time and space. He raised a very good point but it is a reason—an argument—for supporting the Bill.
+
+I turn next to courts and tribunals, which, as the hon. Member for Slough (Mr Dhesi) fairly says, have been severely impacted by the covid-19 pandemic. Let me take this opportunity to pay tribute to the judges, coroners, clerks, barristers and solicitors who have worked so hard to keep the wheels of justice turning. We should take pride in the fact that, looking right around the world, our jurisdiction was the first to restart jury trials after the pandemic began.
+
+On the point that the hon. Gentleman made, we also recognise the backlog created by the pandemic. Let me reassure him, and the House, that we are taking every measure and straining every sinew to bear down on it as swiftly as possible. As well as the super-court and the Nightingale courts, we have the new technology that will help us to reduce the backlog and pioneer other innovative procedural reforms. We are using technology to deliver better services for victims, and indeed for users and citizens, allowing vulnerable victims to pre-record their cross-examination evidence rather than have to go through the distress of giving it in court in front of an assailant. Likewise, the Domestic Abuse Act 2021, once it is commenced, will mean that all complainants of domestic abuse can give evidence during a trial from outside the court through a virtual link.
+
+This is not confined to the criminal courts. In the civil courts, our reforms to probate mean that grieving relatives can make their applications from their own home, while the digitisation of the divorce service has reduced the time for users to complete the process by almost three months compared with the paper track. Now, as a result of this Bill, we will ensure that we are using technology to build the system around the people who actually use it, who invariably want to see justice done more swiftly and more conveniently for them, given their busy schedules, whether in work or life.
+
+The Bill makes provision for a completely new online procedure rules committee for civil and family proceedings and tribunals. That committee will create new rules for online services consistent across all the jurisdictions. Let me give just one illustration of how the average citizen will benefit. For a self-employed person, say a plumber or a carpenter, chasing an unpaid invoice, the rules will enable these online services to be straightforward and easy to follow, dispensing swifter justice more convenient for the average working citizen as a user of the justice system. I think we should be pushing and pressing in that direction. The Bill will transfer responsibility for employment tribunal rules from the Business Secretary to the tribunal procedure committee. It will also make the committee responsible for rules in the employment appeals tribunal. While this is a rather technical change, transferring these powers to an independent judge-led committee will align the employment tribunals more closely with the wider tribunal system and promote broader consistency and efficiency.
+
+In the criminal courts, the Bill will introduce measures that use new technology to streamline procedures to strip out unnecessary in-person hearings and create more efficient processes for allocation of cases in the Crown court and the magistrates court. That will enable swifter resolution of low-level offences such as travelling on a train without a ticket or fishing without a licensed rod without the need for the time and expense of attending court, allowing people to do it online instead, delivering a common-sense approach to our justice system.
+
+The Bill will streamline procedures in the use of remote hearings in coroners’ courts, which will speed up and simplify the inquest process and reduce the distress for bereaved families.
+
+Vicky Foxcroft (Lewisham, Deptford) (Lab)
+When my constituents Andy and Amanda lost their daughter Colette, who was in the care of the state, they had an awful experience with the coroner service and had to crowdfund money for their legal representation. They just wanted lessons to be learned after their daughter’s awful death. Surely they should have the right to the same legal representation as the state, and providing publicly funded legal representation would improve this. What would the Minister say to that?
+
+Dominic Raab
+We have addressed that issue in response to the report that the Select Committee put out. Our position has not changed. What I would say to the hon. Lady is that I am mindful of the ordeal her constituents went through. One reason we are taking forward these procedures is to reduce that anguish and stress and to ensure that the coroners’ courts in the process deliver a better outcome for the bereaved and others relying on that service.
+
+Bob Seely (Isle of Wight) (Con)
+I am delighted that my right hon. Friend is making this speech, and we support so much of the Bill. On principle, does he accept that DNA sampling for people buried at sea would speed things up and save time for police and coroners when body parts wash up anywhere on the UK coastline, because they could quickly identify where those body parts come from?
+
+Dominic Raab
+My hon. Friend has raised that point with me privately, and he has now raised it on the Floor of the House. I am committed to looking at it and getting back to him. I understand the point, which he has raised in his usual tenacious but clear way.
+
+Finally, the Bill will pave the way for a new state-of-the-art combined courthouse in the City of London. That court will provide an additional 10 courtrooms, predominantly to hear economic crime cases, including white-collar crime, such as fraud, and high-value business and property cases. That will be a real boost to the capital and to our vision of global Britain as a centre for investment, dispute resolution and doing business with integrity around the world. Court users will benefit directly by having access to more modern facilities, including lifts, wide corridors and a range of other measures, making it more accessible for the disabled. The City courtroom will have enhanced custodial facilities, increasing its ability to hear more cases with the most serious type of defendants.
+
+Marsha De Cordova (Battersea) (Lab)
+It is great that the Justice Secretary is talking about ensuring that this new court building will be fully accessible and inclusive, but going back to the point about digitisation, how will he ensure that everybody who needs online access will be able to access things online and that no communities will be left behind as a result of this Bill?
+
+Dominic Raab
+The hon. Lady is right to raise that concern. All of this work to modernise court and tribunal proceedings, which is necessary in its own right, will help to bring down the backlog of cases created by the pandemic. Physical hearings will always be available for those who need and want to use them, so that those who are uncomfortable or cannot access the digital and online applications will not be prejudiced. I hope that gives her the reassurance she needs to support this Bill on Second Reading.
+
+Andy Carter (Warrington South) (Con)
+I agree with the comments the Secretary of State made earlier about the work of the judiciary in bringing down delays. In particular, I put on record my thanks to the magistrates who work in our courts around the UK. Does he agree that one route we could choose to reduce the number of delays in magistrates courts is to increase the sentencing powers for magistrates? Perhaps he can say a little more on that point.
+
+Dominic Raab
+I thank my hon. Friend for the work he and the magistrates have done. They hear 85% of criminal cases. The backlog in the magistrates court is already coming down. We thank the magistrates for the incredible work they are doing. He has lobbied me on this point, and in the context of the backlog, it is something I am looking at very carefully.
+
+In sum, the Bill will reform the immigration appeals system, protecting it from litigation attrition. It gives judges greater flexibility in judicial review to hold the Executive to account without unnecessary disruption to the essential business of Government. Above all, the Bill will drive innovation across our courts to deliver a better service for the average citizen in this country. I commend the Bill to the House.
+
+15:33:00
+
+Mr David Lammy (Tottenham) (Lab)
+I begin by congratulating the right hon. Member for Esher and Walton (Dominic Raab) on his promotion to the office of Lord Chancellor and Secretary of State for Justice. I look forward very much to working with him and going toe to toe on the important issues of the day. I put on record how grateful I was for the manner in which his predecessor, the right hon. and learned Member for South Swindon (Robert Buckland), pursued his role. We were able to have very good Privy Council discussions on important issues relating to the justice system during the pandemic. I wanted to put that on record.
+
+Hon. Members may have seen that I am joined by my hon. Friend the Member for Hammersmith (Andy Slaughter), who returns to the Front Bench to assist the Opposition in all matters legal. I pay tribute to him and to my hon. Friend the Member for Kingston upon Hull East (Karl Turner), who does so much to advance the case for legal aid.
+
+To govern is to choose, and all Governments must choose what they will prioritise. No Government can do everything at once—not even this Government—and the Bill could not be a clearer indication of what they have chosen to prioritise and what they choose to ignore. As we come to debate the Bill, the justice system is at breaking point with more than 60,000 Crown court cases delayed, victims dropping out of the process due to waiting years for their case to go to court, and women up and down the country rapidly losing confidence in the criminal justice system. Yet here we are debating judicial review. Government Members might say that this is a manifesto commitment. Then again, so was not clobbering ordinary people with tax rises. What the Bill says about the Government’s priorities is that they are more concerned with constitutional vandalism than with fixing the mess they have made of the justice system.
+
+Joanna Cherry
+On constitutional vandalism, the Law Society of Scotland has said that the abolition of Cart judicial reviews in Scotland by clause 2 of the Bill
+
+“has the effect not of modifying a rule which is special to a reserved matter, but rather of creating such a rule, as it means that, in future, there will be a difference in the amenability of reserved and devolved tribunals to judicial review.”
+
+Does the right hon. Member agree that, if it is right about that, there should be a legislative consent motion for the Bill?
+
+Mr Lammy
+According to the devolved settlement, that must be the case. Perhaps the Secretary of State or the Minister will address that.
+
+“Judicial review is a cornerstone of British democracy. It empowers everyday people to challenge decisions made by public bodies. Whether it be central government or local authorities, rule makers are held accountable by ordinary people. This is a small, but important, check on the balance of powers in our democracy.”
+
+Those are not my words but the words of the right hon. Member for Haltemprice and Howden (Mr Davis), who I see in his place. He has described the reforms as “un-Conservative” and
+
+“an obvious attempt to avoid accountability.”
+
+I will let that hang in the air of the House of Commons.
+
+There is no legitimate need to meddle with judicial review, least of all when there are so many other pressing issues to deal with. What message does it send to the victims of serious crime in a time of crisis that the Government’s first objective is to weaken quashing orders —one of the tools available when a court finds that a public body or the Government have acted unlawfully?
+
+Kim Johnson (Liverpool, Riverside) (Lab)
+Does my right hon. Friend agree that the collapse of the Hillsborough trial identified flaws in our legal system and caused untold trauma to the families of the 97? Will he join me in urging the Government to bring the Bill back with amendments to include automatic non-means-tested public funding for bereaved families when public functions are involved?
+
+Mr Lammy
+My hon. Friend rightly raises the Hillsborough families, and she knows that, just like the Grenfell families, they have relied on judicial review. She raises that in relation to legal aid and will know that I have made such a commitment at the Dispatch Box. We will wait to see whether the Government will meet us with that important pledge on behalf of any individual facing tragedies of that sort.
+
+The Bill seeks to make profound changes to how quashing orders work and, crucially, to what redress victims of unlawful decisions can receive from the courts. Clause 1 creates new powers for courts to remove or limit the retrospective effect of a quashing order. It will also create a presumption that a judge issuing a quashing order should make it suspended or prospective only. The effect of that would be for courts to have less power to provide redress or to compensate those affected by past uses of the unlawful decision.
+
+On the face of it, that might seem to be quite a small change to judicial review, but the effects would be profound and chilling. The Government’s own consultation paper even conceded that a prospective-only quashing order would
+
+“impose injustice and unfairness on those who have reasonably relied on its validity in the past.”
+
+Let us look at how that would work in practice. When the Supreme Court quashed the employment tribunal fees in 2017, the effect of its declaration was that fees were identified as being unlawful from the start. Thousands of workers unlawfully denied access to justice therefore had their tribunal fees refunded. Had a prospective-only order been made, they would have been left out of pocket, despite the fees being ruled unlawful. How can that possibly be right? What would be the point of bringing a claim for judicial review, if people knew before they even started that they would be no better off? What is the purpose of judicial review if it cannot hold public bodies rightfully to account?
+
+That is just the tip of the iceberg. As more people are left without the redress they deserve, many more will be put off bringing their own claim, even if those were perfectly valid. As a result, unlawful decisions made by the Government—by any Government, of any colour or stripe—or a public body will go unchallenged. Perhaps, however, that is what the Government want, and the right hon. Member for Haltemprice and Howden certainly seems to think so, when he argues that the Bill is simply a way for them to dodge being held accountable. We all know that the ability of members of the public to challenge public bodies is vital to maintain a country built on good governance.
+
+Joanna Cherry
+I am grateful to the right hon. Gentleman for giving way a second time. Is the reason for the attack on judicial review that this Government have had a bloody nose repeatedly in the courts—on employment tribunal fees, asylum issues and benefits, and in the Prorogation case—and they do not like to be held to account?
+
+Mr Lammy
+The hon. and learned Lady’s point has so much merit. No Governments enjoy judicial review, but the point when in government is to be bigger than that. I say to the Secretary of State that this is his opportunity to be big.
+
+Dr Kieran Mullan (Crewe and Nantwich) (Con)
+Is the right hon. Gentleman familiar with and has he reflected on the words of a former Labour Home Secretary, who criticised
+
+“unaccountable and unelected judges usurping the role of parliament, setting the wishes of the people at naught and pursuing a liberal politically correct agenda of their own”?
+
+How have those words informed his remarks today?
+
+Mr Lammy
+I have not reflected on that statement very much.
+
+I was reminded recently of the importance of judicial review by the infamous “Judge over your shoulder” leaflet, which has been published since 1987 to remind civil servants of the importance of sound decision making. The leaflet advises civil servants of the importance of good governance and of making decisions effectively and fairly to avoid those decisions being found unlawful. It recognises that administrative law and, in this case, judicial review played an important part in securing good administration by providing a powerful method of ensuring that the improper exercise of power can be checked.
+
+Frankly, that is why having effective judicial remedies is so important to maintain good governance. The threat of judicial review is a powerful tool to encourage decision makers to make decisions well and fairly. If the power of quashing orders were to be neutered in the way clause 1 seeks, not only would that leave victims of unlawful decisions without the remedy they deserve, but it would reduce the motivation for public bodies to take care when making decisions. I agree with the Law Society of England and Wales when it says that that would have a truly chilling effect on justice in this country and we must question why the Government are even considering the changes in clause 1. Those changes go far beyond what was recommended by the Government’s own independent review of administrative law. The review made no recommendation that quashing orders should be prospective only. It specifically recommended against that type of presumption.
+
+Wera Hobhouse (Bath) (LD)
+Does the right hon. Gentleman agree that the sign of a mature democracy is that it protects the marginalised and vulnerable? Government Members completely misunderstand that point.
+
+Mr Lammy
+The hon. Lady is absolutely right. That ought to be a principle across the House, not a party political issue.
+
+To return to the review of administrative law that the Government set up, in their consultation response, the Government acknowledge that presumptions were not recommended by the review panel, and they were generally met with scepticism from respondents to the consultation. Indeed, it is not even certain whether prospective-only remedies would withstand a challenge before the European Court of Human Rights for failure to provide an effective remedy. Given the Government’s own panel of experts, and the sector, are opposed to that change, and given the harmful effect that it would have on victims of unlawful decisions, as well as on governmental decision making, we must ask why the Government are keen to make this change. Is it really, as they suggest, to provide courts with greater flexibility, or is it simply to insulate the Government from being held to account, and to weaken the power of claimants to seek compensation?
+
+Clause 2 seeks to abolish Cart-type judicial reviews. For Members who may not be familiar with what those are, Cart judicial reviews allow individuals to ask the High Court to review decisions made by the upper tribunal to refuse a right of appeal. The vast majority of Cart reviews are sought by those who find themselves in horrendously desperate situations and they invoke some of our most fundamental human rights, including in some cases the difference between life and death. During the review of administrative law that the Government set up and the consultation stage, the Immigration Law Practitioners Association provided the panel with 57 case studies of when Cart judicial review has been used to put right an incorrect decision made by the upper tribunal. Those case studies included parents’ applications to be reunited with their children, a child’s application to remain in the UK to receive lifesaving treatment, the asylum claim of a victim of human trafficking and female genital mutilation, and many other deportation and asylum decisions where, if deported, individuals faced persecution or their lives would be at risk.
+
+Mr David Davis (Haltemprice and Howden) (Con)
+I thank the right hon. Gentleman for giving way and I am pleased I have provided half his speech for him. I have an important point in support of his argument. Much of the Government’s argument on Cart appears to be that there are very few successful cases. First, I think they got that wrong—they thought it was less than 1%, but it is probably 6%. Secondly, the point the right hon. Gentleman is making is that, when they get it wrong, the consequences for the individual are dramatically bad. We must always think that through. When dealing with law, we must protect the weakest from the worst consequences.
+
+Mr Lammy
+The right hon. Gentleman makes his point very well. He is absolutely right. In each of the cases that I mentioned, judicial review was able to correct a wrong decision by the upper tribunal and enable fundamental injustices to be prevented, as he indicates. If the Government were successful in abolishing Cart, that crucial safeguard would be lost. That would not affect anyone in this Chamber, but it would affect very vulnerable people. Again, one must ask why the Government are attempting to make this change, and why they are using legislative time now to do it.
+
+When the panel that the Government set up to look at these issues first recommended abolishing Cart judicial reviews, it did so on the basis that only 0.22% of them were successful and that public money could be better spent elsewhere. We know now that that figure was based on wholly inaccurate data. Even the Government now accept that the success rate is likely to be at least 15 times as high as previously thought. It is indefensible for the Government to base decisions that could make the difference between life and death on evidence that is so hopelessly flawed.
+
+Laura Farris (Newbury) (Con)
+I hear what the right hon. Gentleman says about Cart judicial reviews, but can he explain why Lord Hope, the retired Supreme Court Justice who sat in the Cart case at the Supreme Court, spoke in the House of Lords on 22 March in favour of abolishing Cart-type judicial reviews? He said:
+
+“We set the bar as high as we could when we were defining the test that should be applied, but experience has shown that our decision has not worked”.—[Official Report, House of Lords, 22 March 2021; Vol. 811, c. 710.]
+
+Mr Lammy
+That is one reflection among many who sit on the other side of the debate, including those who have looked into this matter in great detail.
+
+Why are the Government still pushing ahead with this reform? If we accept the Secretary of State’s reasoning, it comes down to cost and
+
+“a disproportionate use of valuable judicial resource”.
+
+In reality, however, the cost of Cart reviews is no more than £400,000 a year. That is a drop in the ocean compared with the Ministry of Justice’s overall budget. It is less than the Department for Digital, Culture, Media and Sport spent on its art collection last year. Put another way, the Government Legal Department’s total administrative costs for the last year were £226.7 million, more than 500 times the upper estimate for yearly Cart judicial review costs.
+
+As with clause 1, there could be another, murkier reason that the Government are so keen to abolish Cart judicial reviews. In its press release, the Ministry of Justice said that
+
+“it is expected that the legal text that removes the Cart judgment will serve as a framework that can be replicated in other legislation.”
+
+With those words, the Government let their mask slip. If that is indeed their intention—I look forward to the Lord Chancellor confirming that it is not—that would allow them to insulate whole sections of Government decision making from challenge by members of the public. I am sure that Members on both sides of the House would agree that that would be a truly chilling development. Governments have to be challenged. Governments suffer defeats in the courts. Why would we start to oust Government decisions in other areas, beyond this small but important area of immigration law?
+
+Beyond judicial review, there are several provisions dealing with a shift towards greater use of online procedures and technology. While Labour supports measures that would make the justice system more efficient, we must ensure that no one is left behind and that adequate safeguards are in place to prevent serious injustices. As the Bill currently stands, there is only a vague duty for the Lord Chancellor to provide digital support
+
+“for those who require it”.
+
+Labour feels that a specific commitment to assist digitally excluded individuals would offer better protection. While the creation of an online procedure rule committee is a positive step, the Bill currently puts too much power in the hands of the Lord Chancellor. As it stands, the Lord Chancellor could amend, repeal or revoke any law he feels necessary to create the online procedure rules, and he would only have to consult the Lord Chief Justice and the Senior President of Tribunals before making amendments to them.
+
+The last area I want to address is the coroners court. As with provisions on criminal procedure, any efforts to reduce “unnecessary procedures” or allow for greater online participation must be accompanied with robust protections for those who could be excluded. More fundamentally, there is nothing in the Bill to address the inequality in the inquest system that sees bereaved families denied the legal aid that my hon. Friend the Member for Lewisham, Deptford (Vicky Foxcroft) mentioned earlier, while the state has the benefit of the finest Government lawyers that taxpayers’ money can buy.
+
+Yasmin Qureshi (Bolton South East) (Lab)
+Does my right hon. Friend agree that hospital authorities can hire Queen’s Counsel and spend millions of pounds on defending themselves, yet lone individuals cannot even get legal aid following the death of their immediate family? How disgusting is that?
+
+Mr Lammy
+It goes to the fundamental principle in our justice system of trying to have equality of arms. That is why the Bill is of so much concern.
+
+Vicky Foxcroft
+Just to reiterate the point about Colette, Andy and Amanda, and the pain they are going through after losing their daughter, they then have to crowdfund money to try to make sure that lessons are learnt. We must ensure we have a legal aid system in place that protects them. On the Labour Benches, I believe the shadow Secretary of State will be saying just that.
+
+Mr Lammy
+My hon. Friend’s championing of these issues is so important. The cupboard has been stripped bare and a real crisis is emerging, with vast legal aid deserts across the country. You cannot level up the country if people cannot get access to advice. That is the point and she is right to make it.
+
+The Secretary of State made much of my youthful endeavours at the Dispatch Box 17 years ago. I said to him from a sedentary position that, on reflection, I was young and naïve. I say very gently to the Secretary of State that he is a younger man than I am. He needs to reflect on that. I did table an ouster clause to the asylum Bill at that time, but I listened, reflected and removed it before it could be enacted. The question today is this: will he do the same? Will he be the big man we know he is capable of being and remove this clause from the Bill, as he is being encouraged to do by such a senior colleague as the right hon. Member for Haltemprice and Howden?
+
+The Bill is unnecessary and unwanted at a time of crisis in the justice system: it robs citizens of effective remedies when they have been wronged by the state; it would leave some of the most vulnerable people in society without a last defence against unlawful Government action; and it could act as a prelude to a wider assault on the rights and protections of individuals. I ask the Lord Chancellor, when the Government should be tackling the backlogs in the Crown courts, the magistrates and the employment tribunals, when they should be trying to repair their appalling record on prosecutions and convictions for rape and serious sexual assault, when they should be fixing the staffing crisis in prisons and probation, why have they chosen to protect themselves? Labour will be voting against the Bill today. I ask Members on both sides of the House to do the same.
+
+15:58:00
+
+Sir Robert Neill (Bromley and Chislehurst) (Con)
+It is a pleasure to participate in the debate and to follow the two Front Benchers. I welcome the Lord Chancellor and Secretary of State to the Treasury Bench, and thank him for the very generous and accurate tribute he paid to my right hon. and learned Friend the Member for South Swindon (Robert Buckland), whose conduct in office was of the very highest. I also welcome the hon. Member for Hammersmith (Andy Slaughter) to the Opposition Front Bench. He is a great loss to the Justice Committee, but very much the Opposition Front Bench’s gain. I look forward to seeing him in his reincarnated capacity. This is proof, I am glad to see, that the Labour party believes in recycling, and doing it in a good way, in this instance. If it is any help, I was recycled by David Cameron once—it happens to all the best, I promise. I am delighted to see the hon. Gentleman there.
+
+This is an important Bill and, in fairness, a measured and tightly focused one. One might not have thought that from some of the things we have heard, but that is  the reality. Again, that is in no little measure due to the focus of my right hon. and learned Friend the Member for South Swindon, the principal author of the Bill. I welcome the fact that he did that, and the fact that the Lord Chancellor has adopted the same approach to the Bill.
+
+There were a great deal of noises off around what might or might not happen on judicial review, and I am glad that the course was sensibly adopted of having an independent review panel, chaired by an eminent Queen’s Counsel, the noble Lord, Lord Faulks, who is a distinguished Member of the other House and who, as I think everyone conceded, had approached his duties as a Justice Minister with exemplary fairness and impartiality, was respected by both sides, and had many years of practice in the field. He led a panel of experts who were also distinguished in the field, and they produced a measured report, for which the whole House should thank them.
+
+That report was a great public service, and it is right that the Government have essentially built on the recommendations that the panel made, and the fact that the panel did not regard the judicial review as a major problem, but suggested sensible ways forward, is not something to be held against them. That seems to me exactly what one can expect if people follow the evidence, which is precisely what the panel did and what the Bill also does.
+
+It is important to recognise that judicial review is an important factor in our constitutional arrangements. When I started as a law student in the mid-’70s, judicial review in its modern concept was in its very early stages of development. The late and lamented Professor de Smith was still alive and had produced the first of his two textbooks, but the subject was still largely taught in terms of the old prerogative writs of mandamus, prohibition and certiorari.
+
+A lot has have moved on from then, and we have developed a much more sophisticated and wide-ranging corpus of administrative law. That is not of itself a bad thing, because it reflects the reality that, as I think the late Lord Hailsham of St Marylebone once observed, in the post-war years we have grown a regulatory state. Therefore, the actions of the state and of public bodies—state agencies, local authorities, hospital boards and a raft of others—impinge on many areas of citizens’ lives. That is not necessarily a criticism, but there are greater interactions between the state and its various agencies and the lives of its citizens.
+
+There will be impacts there, and by the nature of the human condition, errors will be made by decision makers. It is perfectly reasonable that we have seen that, but, as has been observed, there has been an exponential growth—I think that was the phrase used—in judicial review. That is worth bearing in mind, because it has sometimes come at the cost of complexity in administrative law.
+
+Lord Justice Haddon-Cave delivered a very useful lecture, the Gresham lecture, in June this year, which reflects wisely on the balances there: the fact that the growth of judicial review is not of itself a bad thing if it gives remedies to those who are wronged, versus the fact that in some areas of the law—the concept of Wednesbury unreasonableness and lawfulness being one—that has led to a degree of complexity. As Professor Richard Ekins of the University of Oxford has observed, that in turn can, in the fields of lawfulness, voidability of decisions and so on, lead to uncertainty. In so far as, according to the Bingham test of the rule of law, we want to see clarity and accessibility of law, we also want wherever possible to see certainty. Nothing can be an absolute in this world, but that is a reasonable objective, and I think the Bill seeks to strike a balance.
+
+What the Bill is not, in fairness, is an assault on judicial review. It is unfair to characterise it as such in every respect; I would not support the Bill if it were, nor do I think that any Conservative would. The truth is that judicial review—the ability of the individual to seek redress against the actions of the state or its agents—is fundamental to the English concept of liberties. In his role as an author, the Secretary of State wrote about these matters before he came to the House, so he recognises that point, as do I and as does the shadow Secretary of State, the right hon. Member for Tottenham (Mr Lammy).
+
+Judicial review—I say this to the wider public as well as to colleagues—is in the DNA not just of our British constitutional arrangements, but of the Conservative party. The ability to challenge the actions of the state and its agents when they get it wrong is fundamental to our concept of limited government. Supporting judicial review is an entirely Conservative thing for the Government to do and, dare I say it, an entirely British thing, across all the jurisdictions.
+
+Joanna Cherry
+As usual, the hon. Member is making a very learned and well-informed speech, but I want to challenge his assertion that the Bill is in line with Bingham rule-of-law principles. The Bingham Centre for the Rule of Law has produced a detailed briefing on the Bill, which says that clauses 1 and 2 are not in keeping with the Bingham principles on the rule of law and should be removed from the Bill. What is the hon. Member’s comment on that?
+
+Sir Robert Neill
+I have great respect for the Bingham Centre for the Rule of Law, but I think that it is wrong—it is as simple as that. I have come to the view, as I think the independent panel did, that the two clauses are not in conflict with the rule of law. That is precisely the sort of area in which there can be legitimate debate. I have worked with the Bingham Centre on many occasions, as the hon. and learned Lady knows, but I do not think that its conclusion is justified on the evidence. I think that that point is borne out by referring to the conclusions of the panel in relation to clauses 1 and 2, which I will come to in just a moment.
+
+We all believe in the importance of judicial review. It is regrettable if any side in political debate sees tension between Parliament and the courts, or between the Executive and the courts, as a bad thing. There is always an element of tension in any constitutional relationship. Sometimes a decision may not go in our favour when we are councillors, members of health authorities or Ministers —it happened to me when I was a Minister. We may not like it, but equally we have to respect the decision. I do not see anything in the Bill that changes that fundamental point at all.
+
+I will address the judicial review aspects of the Bill first, although I do not want to forget the other aspects. What we are dealing with is two very limited and specific proposals; that is a dangerous phrase to use under certain circumstances, but I think it works quite well in this regard. In relation to Cart reviews, I must say—with respect to those who seek to uphold Cart—that I understand the point that in a tiny number of instances there might be success, but overwhelmingly they have not proved successful.
+
+I commend to the House the observations of my hon. Friend the Member for Newbury (Laura Farris), who quoted Lord Hope. Of course there are others who argue to the contrary, but with all respect, I think that the views of a senior Law Lord who sat on the case in the Supreme Court and has said “We got it wrong” might carry just a little more weight than those of some other commentators. Certainly the conclusion of Lord Faulks’s panel was
+
+“that the continued expenditure of judicial resources on considering applications for a Cart JR cannot be defended, and that the practice of making and considering such applications should be discontinued”,
+
+so the Government have acted in line with their independent review and in line with the evidence.
+
+I will make an additional point, which has already been posited, but which is important. Many who practise law would say that in truth there is an inherent illogicality in giving one particular class of appeal, as opposed to others, a third bite of the cherry on the merits, when a decision on the merits both of fact and of law has already been taken by the Upper Tribunal, a tribunal of equivalent status and standards to the High Court. That is not an appeal to a superior tribunal; it undercuts the jurisdiction of an equivalent court. With respect, there is no logic to that at all, so it seems to me that it cannot be said that there is anything objectionable in a modest amendment that relates to removing Cart litigation.
+
+In relation to joint enterprise manslaughter, as hon. Members will recall, the Supreme Court used a phrase about the Court of Appeal taking “a wrong turn”. I think that this is an instance in which we can say—and Parliament is entitled to say, with respect—that the Supreme Court in Cart took a wrong turn, and that we are entitled as a matter of public policy, as is conceded to be Parliament’s prerogative in these matters, to reverse it in this limited measure.
+
+May I also deal with the issue in relation to quashing orders? It does not seem to me that it can be objectionable to increase the suite of remedies available to the courts. There can be difficulty when quashing arises, and I do not say that this is a complete solution to it—I shall return to that in a moment—but I think it is worth quoting, in full, the recommendation of the independent panel:
+
+“Accordingly, we recommend that section 31 of the Senior Courts Act 1981 be amended to make it clear that the courts have the power to make suspended quashing orders in appropriate cases. This could be done through the insertion into section 31 of a new subsection (4A), which would read, ‘On an application for judicial review the High Court may suspend any quashing order that it makes, and provide that the order will not take effect if certain conditions specified by the High Court are satisfied within a certain time period.’”
+
+That, broadly, is the scheme which the relevant provisions in the Act follow. They follow the recommendation of the independent review, and I therefore do not think that there are any significant grounds for criticism in that regard.
+
+The one question that I would raise about this—and I posed it in my intervention earlier—relates to ensuring that when we consider the way in which the statutory presumption which underpins this is set out and is then put into force in practice, we do not allow the individual litigant who has suffered tangible loss as a consequence of an impugned decision to be left without a genuine and meaningful remedy. A future declaration of illegality will not of itself recompense a person who has lost a business, lost an opportunity or lost employment, or something of that kind. Provided that this is applied in a way that ensures that that person does not lose out, I do not think that there is anything objectionable here.
+
+There will be some who are parties to litigation and wish to see a change of policy rather than the question of having suffered individual loss, but I should have thought in those cases, the suspended and future quashing orders are perfectly legitimate and proportionate. It is the need to deal with the individual who has lost out against the state that I think we need to safeguard, and I hope the Minister will confirm that that will be done. I am grateful to the Secretary of State for having done so in response to my intervention. That, I think, is the key test.
+
+Another point might be worth bearing in mind. Again, I refer to the helpful paper published by Professor Ekins this morning. This is a path that the Government are not going down, but I should like to know whether there will be some scope for the deferring rather than the suspending of a quashing order. There are circumstances in which that might enable remedies to be applied without some of the difficulties that could arise from uncertainty. I do not say that that is right, but it is worth looking at the paper from Professor Ekins, because it posits some modest amendments that may be worth considering at a later stage in the Bill’s progress. I do no more than float the idea. As it is, however, I see nothing that can be regarded as in any way an assault on judicial review in the first part of the Bill. These are sensible and modest reforms—and reform is not the same as an attack; reform is exactly what we do to keep law up to date.
+
+Let me now turn to the remaining parts of the Bill, starting with criminal procedure. It seems to me that there is nothing wrong with modernising procedure; technology changes, and we all learn. The shadow Secretary of State and I practised in criminal law for much of our careers—as, indeed, did the shadow Minister—and in our time we have all seen procedure change out of all recognition in some respects, often for the better. I think we all agree that serious sexual offences, for example, are handled much better now than they were when we started off in practice at the Bar. In particular, claimants get a far better deal. That is just one example, but I can think of other safeguards that have been built in—the Police and Criminal Evidence Act 1984, and a raft of other measures—and have acted to prevent abuses against defendants in the course of investigations.
+
+Procedure can always be improved, and we ought always to be able to take advantage of technology, as we do with video-recorded evidence and so on. Again, there is nothing objectional about that in principle, and I do not think there is any harm in greater flexibility either. Easy movement between the courts can certainly save time. However, I ask the Government to bear in mind that that needs to come with appropriate safeguards.
+
+My concerns about this have been well set out in the Bar Council’s briefing. For example, when moving from in-person proceedings—which at the moment are often remote proceedings—to a written procedure for certain types of offence, safeguards will be needed as to what precisely the specified offence is going to be. An example that the Justice Committee has highlighted in previous reports is that of a young person who has foolishly committed an act and who enters a guilty plea or accepts a caution, which is recordable. That plea is recorded and then, years down the track, because of the way our criminal records system currently works, they find that it is a serious obstacle to employment or educational opportunities that goes way beyond anything they had contemplated when they entered the guilty plea, perhaps to get it out of the way, at the time.
+
+I am concerned that these categorised offences should not involve anything that is imprisonable, and I also suggest that we should not use the provision for anything that is recordable. I can see that in certain types of offence, such as the non-payment of the television licence fee, this could certainly speed things along, but there needs to be a safeguard for anything that is likely to have an effect on someone’s character, reputation or future life chances. The safeguard is surely that we ensure that an informed decision has been made, which must imply access to legal advice before the decision to enter an online guilty plea is made.
+
+We all know that criminal proceedings are often dynamic and that things come to light as we go along. That can happen with the disclosure of material online as much as in person, and there must be a specific provision to withdraw a guilty plea at an appropriate time if it becomes apparent that an arguable defence could be raised. That seems to be a fair balance, and it needs to be specifically written in, either in the legislation or in regulations. I hope that the Ministers will undertake, at the very least, to reflect that in regulations; that is probably the most constructive way, rather than changing the primary legislation.
+
+We also have to look at one or two anomalies. I note, for example, that in relation to the provision for online procedures, the trigger age relates to someone over the age of 18. However, in clause 4, which deals with
+
+“Guilty plea in writing: extension to proceedings following police charge”,
+
+subsection (3)(b) states that the provision shall apply where
+
+“the accused had attained the age of 16 when charged”.
+
+I do not see the logic in that, so perhaps the Minister can help me when he responds to the debate. What is the logic in using the age of 18 in one provision and 16 in a provision that covers broadly similar grounds? We need particular safeguards for dealing with young offenders, to ensure that they do not enter a plea that is not fully informed, either through immaturity or a lack of good advice, as that could have permanent consequences for their future. It is not the principle that I object to; I am just concerned that we get those safeguards in place.
+
+While I am on the subject of criminal procedure, I must point out that modernisation is fine and has its place, but what happens tomorrow in the Budget is as important as anything else. I am all for making the best possible use of scant judicial resources and time, but none of the proposals compensates for the proper funding of the courts system. Sadly, we have a legacy of decades of underfunding—under Governments of all colours, let us be blunt. There is no party point to be made here. Under all Governments, the courts system has not been funded to the level it requires, and I hope that the Secretary of State will use his important position within the Government to take forward the ambitious spending bid that his predecessor talked about. If he does that, he will have my support and that of many others on both sides of the House. Investment in justice is investment in the fabric of society, and that is good for us all in the long term. That is a slight digression, but I hope I will be forgiven for raising it in the circumstances.
+
+I now turn to the remaining provisions. Moving tribunals across makes sense. Many people who practise in the tribunals would say that it is about time that tribunals were not regarded as slightly out on a limb and as a bit of a poor relation. A closer alignment will be beneficial for their interoperability. For example I noted during the pandemic that some tribunals’ rule systems, not being the normal Supreme Court rules, lagged behind the courts in adapting to online hearings, so the change can only be beneficial.
+
+I wish the Government had gone further and adopted the recommendations of the Justice Committee’s report on coroners. As far as it goes, the change is well and good but there is a missed opportunity to which we can perhaps return in due course. There is nothing in the Bill to which I object, and I see the good sense in greater flexibility on certain types of hearing, but that is no reason for not being more ambitious in relation to coroners either in this Bill or in future legislation. As the Bill proceeds, I hope we will be able to look at that again, because the coronial system is important to the country and particularly to victims and bereaved families, and it operates with variability, if I might put it that way, across the country. The Select Committee’s well-reasoned proposals deserve more consideration than they have perhaps had so far.
+
+There is an argument to be made about equality of arms, which is again about funding. Massive sums are not required to give the families of victims in complex inquests equality of arms with state agencies that do not appear on the other side in technical terms, because of the nature of a coroner’s inquiry, but in reality are making assertions that the families would rightly wish to challenge and explore. I hope the Government will reflect on that as a measure of fairness and equity.
+
+This Bill has proved to be less controversial than it was flagged up to be, and it is the better for that. It is a sensible, conservative set of incremental improvements and proposals that are welcome and should be supported. Parliament, the judiciary and the Executive have important and equal functions in our system. The rule of law does not mean that every public action has to be subject to judicial review, but it does mean that judicial review should be sufficient, strong and robust enough to ensure that victims of injustice are recompensed.
+
+It is also important that we who sit in this House and who operate in the political sphere recognise the integrity of the judiciary in their sphere. As Lord Faulks’s review concluded, we can trust that the judiciary will act properly, accordingly and fully within the limits of their powers, and we should respect that, as we can also be confident that they will respect us.
+
+16:23:00
+
+Anne McLaughlin (Glasgow North East) (SNP)
+I welcome the Secretary of State to his new role, and I pay tribute to his predecessor, who was courteous and respectful to me at all times.
+
+This Bill is just one part of a broader programme of constitutional reform designed to allow the Government to restrict the rights of some of their most vulnerable people, whether it is the Elections Bill putting barriers in the way of ordinary people being able to vote; the Police, Crime, Sentencing and Courts Bill restricting the right to protest publicly; the Nationality and Borders Bill potentially criminalising people for saving the lives of asylum seekers; or this Bill reducing access to justice for those who have been badly treated by a public body. As Liberty has said, there is
+
+“a concerted attempt to shut down potential routes of accountability and exert the power of the executive over Parliament, the courts and the public.”
+
+Since my first election in 2015 I have sought to ensure that my constituents understand what goes on in this place. I think we can all agree that there is much that perplexes people, and that there are many levers that we and they can use of which they are not aware. There is a huge learning curve for a new MP so, as I got to grips with things, I tried to pass on what I learnt.
+
+As time has moved on, I have turned my attention to the complexity of the language which can create barriers for people who do not do parliamentary speak. Since I became my party’s justice spokesperson, I have become acutely aware of the sometimes even more exclusive nature of legalese, so I feel something of a duty to interpret what is going on so that it can be readily understood by the average person in the street. To be clear, I am not questioning the average person’s ability to understand, but if someone does not use legal or parliamentary language regularly—and how many people out there do?—it will not come naturally. When we speak, we should remember that we are speaking not just to each other in here but to our constituents and to each other’s constituents. When they are losing their right to justice, we have an absolute duty to make sure that they know that that is what is happening. That is what I hope to do today. I am also happy to confirm that we are opposed to much of the Bill and will vote against its Second Reading.
+
+Clause 2 seeks to oust Cart judicial reviews and, in Scotland, Eba judicial reviews. If an individual feels that a public body—such as the NHS, their local council or the Department for Work and Pensions, to name but a few—has failed to follow the law correctly in its decision-making process, that individual can appeal to the first-tier tribunal. If the first tier finds against them and that individual believes it has made an error of law, perhaps by overlooking vital evidence or misinterpreting the rules, that individual can appeal to the upper tribunal. Currently, if the upper tribunal refuses an appeal on the decision of the first-tier tribunal, the individual can ask to have the decision judicially reviewed. All sorts of criteria have to be met—one cannot simply ask for and get a judicial review—but currently people can at least apply. The legislation before us will remove that right. One might say, “Well, they’ve already had two bites of the cherry,” but the independent oversight of judicial review is being removed only for the tribunal system; currently, all other judicial reviews will continue. I say currently, because I share the fears expressed today by the right hon. Member for Haltemprice and Howden (Mr Davis) in his article: we do not know where this will lead. We do know that it is so often the tribunal system that deals with the least powerful in our society, from whom the Bill removes the right to justice.
+
+As the Law Society of Scotland has pointed out, the decisions of the upper tribunal are often taken by a single judge, based on the paperwork alone, so the person bringing the appeal has no opportunity to make their case in person, or to answer any questions that the judge may have. The opportunity to judicially review the decision of the upper tribunal is a vital last line of defence in cases in which the most fundamental of human rights are engaged.
+
+We have heard much talk about the Government’s justification for taking away those rights, which appears to be the high volume of applications versus the low number of successful outcomes, but let us look at that. The evidence to support the Government’s position was so flawed that the Office for Statistics Regulation decided to investigate and found that the real success rate was at least 15 times higher than the Government figures showed. When the right hon. Member for Tottenham (Mr Lammy) mentioned that, I saw the Secretary of State laughing, as if that was a derisory amount, but if we use the figures calculated by the Public Law Project, we see that that would amount to 40 people every year being incorrectly denied their right to appeal in cases where, as we have heard, the stakes can be incredibly high.
+
+The Government seem to class an appeal as successful only if it first overturns the decision of the upper tribunal, is given permission to appeal and that appeal is then won further up the chain. They completely miss the point that Cart reviews serve to correct errors of law even if the appeal is ultimately unsuccessful. I cannot for the life of me see how all this can happen without a legislative consent motion from the Scottish Parliament, as my hon. and learned Friend the Member for Edinburgh South West (Joanna Cherry) has argued and will no doubt argue further in her speech.
+
+Throughout my speech, I feel like I should be saying, “As the right hon. Member for Tottenham said,” because it feels like we have swapped speeches. I am trying to find different examples. We have heard that even the Government’s own figures say that the change will save only around £400,000 per year. Never mind the spending on the art collection: £2.6 million was spent on refurbishing No. 9 Downing Street as a media centre, and the saving represents less than one sixth of that. What is more important?
+
+Let me return to why this type of judicial review is so important. I want to give an example of when it saved somebody’s life. This case concerns a Venezuelan man and his family who had fled to the UK after witnessing the violent murder of his friend by state actors. He arrived in Edinburgh and was refused asylum claimed on the grounds that if he was sent back to Venezuela, the perpetrators, who clearly had scant regard for human life, would seek to silence him. The first-tier tribunal and the upper tribunal surmised that, because he had suggested in evidence that he would not be able to recognise the killers, he had nothing to fear. Thankfully, he had that vital last line of defence and was able to judicially review the decision.
+
+During the proceedings, the court found that both tribunals had made an error of law in misunderstanding this traumatised man’s evidence. He could testify to the time and location of the murder and he could be a credible witness in an investigation—perhaps his memory would be jogged by viewing photographs or creating photofits. It was obvious that the perpetrators would surely know that and would do anything within their power to prevent him from speaking up on his return.
+
+The upshot was that the man was allowed to appeal. He won his appeal and was saved from deportation and almost certain persecution and death. How can the Government justify even to themselves taking away those rights?
+
+The reversal of Cart-type judicial reviews could, as Liberty and others have pointed out, affect cases of access to vital benefits, leaving people with disabilities and those facing destitution and homelessness without a last line of defence. Nobody can guarantee that they will not one day have a disability, and very few people can guarantee—perhaps a few in here can—that they will not be absolutely dependent on disability benefits to survive financially. If, for some reason, they were to be denied those benefits, as happens far too regularly, and appealed against it, they would deserve the right to question that decision-making process.
+
+I want to focus now on the suspended quashing orders and the prospective-only remedies in clause 1. They will not apply in Scottish courts, but because they can and will affect UK-wide laws, they will affect people living in Scotland—until, of course, we are independent, which I hope will not be too long from now. These changes could have a big impact on the Scottish courts for other reasons that I will come onto a little later—it is something known as forum shopping. Whether or not these orders are primarily for England and Wales, they are just plain wrong.
+
+Let us look at quashing orders. The right hon. Member for Tottenham talked about the case of the employment tribunal fees. Basically, in a landmark judicial review in 2017, the Supreme Court found in favour of the applicant. I will not repeat everything that he said, but given that people were being charged up to £1,200 to access justice, this was a great outcome that will have made a big difference to many. If clause 1 had been in place then, those extortionate fees could have stayed in place until a date determined by the court. That would have given the Government time to rectify the unlawful policy. In other words, they would have been able to change the law so that the thing that had just been judged to be unlawful was suddenly lawful. Is that not incredible?
+
+Angela Crawley (Lanark and Hamilton East) (SNP)
+Specifically on the important point about tribunal fees, this Government could have listened carefully to comments from across this House before introducing them. However, judicial review served as the primary purpose and vehicle for an individual to take action against this Government. How does my hon. Friend think this Government will be able to have that action taken against them in the future if they have their way with this Bill?
+
+Anne McLaughlin
+My hon. Friend is absolutely right, but she is wrong to think that I can suggest anything, because I cannot do so. I would love to know what the Secretary of State is saying about this. We really cannot underestimate the chilling effect that this will have. It will put people off attempting to access justice in the first place. Who would put themselves through all this for no tangible outcome? Clause 1 creates a perfect storm of claimants having no incentive to challenge the Government or other public bodies, whereas the said public bodies and Government can proceed safe in the knowledge that they can do what they like. It is the risk of being held to account and the potential for challenge that drives good decisions and policy making.
+
+As I said earlier, despite clause 1 being restricted to the courts of England and Wales, there will be an impact on the Scottish courts. If the Scottish courts are not directly subjected to clause 1, which they are not, what is to stop people from using the courts in Scotland to bring judicial review challenges on UK-wide legal matters? After all, it makes sense to take a case to a court where judges have more discretion and a wider set of legal remedies. So, while on the one hand, I am always happy to showcase anything that we do well in Scotland and certainly very happy to link that to reasons why Scotland should be independent. If such a practice became widespread, the Scottish courts could face pressure on valuable resources, which could result in delays.
+
+In conclusion, as Liberty reminds us in its evidence, the independent review of administrative law considered prospective-only remedies, but chose not to recommend them. It chose not to recommend a presumption for suspended quashing orders, nor did it recommend restricting judicial discretion to use alternative remedies. It did not recommend the use of ouster clauses. It based its recommendation to reverse Cart on later-to-be-discovered flawed Government statistics. However, the Government continue to push a Bill that blurs the separation of powers, restrains judicial discretion and, most importantly, discourages the public from challenging the decisions of the Government and public bodies. The SNP will be voting against Second Reading tonight, but I very much hope that some of the many concerns shared in here today by many Members will be considered before we proceed to scrutinise the Bill in Committee.
+
+I am now going to end in a way that I never, ever envisaged I would do, which is by quoting a Conservative MP—the aforementioned right hon. Member for Haltemprice and Howden, who has said:
+
+“Be warned: this government is robbing you of your right to challenge the state”.
+
+We should heed that warning seriously.
+
+16:35:00
+
+Jeremy Wright (Kenilworth and Southam) (Con)
+It is a pleasure to follow the hon. Member for Glasgow North East (Anne McLaughlin), although, unlike her, I find much to welcome in this Bill, particularly the parts of it that deal with sensible reforms to court processes, subject, of course, to the safeguards to which my hon. Friend the Member for Bromley and Chislehurst (Sir Robert Neill), the Chair of the Select Committee, quite sensibly referred.
+
+I want to concentrate my remarks on part 1 of the Bill, which focuses on judicial review. It is worth stressing at the outset, as others have done, just how important judicial review is to our constitutional balance. Judicial review is not, of course, there to be used as a route by which judges can run the country, and its limitations are not widely understood. Its focus in on the way a decision is made, not on the wisdom of the decision itself, which means that those whose decisions are ruled to be unlawful in the exercise of judicial review are, in fact, seldom precluded from reaching the same conclusion subsequently via a revised process.
+
+Judicial review has practical, as well as constitutional, benefits. It can improve decision making retrospectively, as it obliges badly made decisions to be made again, but also prospectively, as the shadow of judicial scrutiny tends to encourage Government Departments to give more thought to the rationale for decisions before they are made. The lawfulness of Government decisions is not just important for its own sake, but because it enhances their effectiveness by making it more likely that those subject to them will accept them. Surely that has rarely been more important than when the Government have sought to curtail our liberties during a pandemic for the sake of public health.
+
+Fundamentally, as a matter of constitutional principle, judicial review demonstrates that no one—not even Governments—is above the law. For me, nothing summed that up more clearly than when the Government of which I was part contested a judicial review case in the Supreme Court, on the hugely significant political question of whether the Government could initiate our departure from the European Union without further parliamentary sanction. When the Government lost that case, I—the Government’s Attorney General—could walk out of Court and confirm without hesitation or reservation that the Government accepted the Court’s judgment and would act accordingly. That is this country’s commitment to the rule of law in action.
+
+The fact that judicial review can be irritating to Governments is not only no reason to erode it; it may, in fact, be a positive reason not to. Changes to judicial review should be approached with caution and this Bill seeks to change it in two specific ways. Let me say just a little about each of them. I will start with judicial reviews against the class of decisions identified in the case of Cart. In those cases, clause 2 seeks to exclude what are, in effect, further appeals by another name. I have sympathy with the Government’s objective, although I do not find the argument of cost and inconvenience to the legal system persuasive. I am much more persuaded by the argument that the current situation undermines another fundamental principle of our constitutional settlement—that of parliamentary sovereignty.
+
+It is clear that Parliament intended there to be no appeal against the upper tribunal’s decision itself to refuse an appeal from the lower-tier tribunal. Constructing what is, in effect, a back-door route to such an appeal is a clear challenge to Parliament’s intent. I would therefore support a proportionate measure to exclude such replacement appeals as a matter of routine, but it is important for Parliament to reach a considered view on what it really wants to exclude. Having another go at the same argument is what Parliament has said it does not want, but I am not convinced that it said with clarity that it also wishes to exclude challenge to an upper tribunal acting in excess of its powers. I am not convinced, either, that Parliament should say that, but I fear that it may be what the current wording of the clause would achieve.
+
+This is no time for the fascinating arguments about the merits and demerits of ouster clauses, you will be relieved to hear, Mr Deputy Speaker, but I do think that if the Government seek to use the mechanism set out in clause 2 they must be rigorous in excluding only what is necessary to give effect to Parliament’s direct will and not to prevent a check on acts beyond the upper tribunal’s mandate or powers as given to it by Parliament. Such acts would be rare, but, if they happened, would constitute a challenge to what Government legislated for and therefore to the principle of parliamentary sovereignty, too. The wording of clause 2 will therefore need further discussion.
+
+I now come to the additional provisions on judicial review in clause 1. Although it may well be arguable that the court already has power to suspend the effect of a quashing order, I can understand the Government’s wish to make that clear, as I can see that a suspended quashing order is, at the very least, a more elegant option than making a declaration of illegality but stopping short of quashing a decision because of the potential administrative chaos it would likely cause. I have more concerns, though, about removing or limiting the retrospective effect of quashing an unlawful decision—not, in itself, a recommendation of the independent review of administrative law. In particular, I am concerned about the suggestion that this would be routine and not exceptional. Finding a decision to be unlawful but then saying that that unlawfulness applies only to those affected by it in the future and not in the past puts the court in a strange position.
+
+The general premise of judicial review has, for some time, been that if a court finds a decision to have been made in such a flawed way that it was made unlawfully, it is saying that, in effect, the decision was not made at all. Those adversely affected by its making, from the point of its making, are then entitled to rely on the court’s ruling to pursue redress for the effect on them of a decision that has been made void. Removing the opportunity for those individuals or organisations to do so may constitute a significant detriment to their interests and should not be done without consideration for those interests. In passing, I observe that others have said that it also gives considerable power to judges to keep unlawful decisions alive for some, which one might think jars with the apparent premise that some use for judicial review reform, justified or otherwise—that judicial review judges have too much power.
+
+Removing retrospective effect also presents a logical conundrum. A quashing order will be made only if the court believes that the decision was taken in such a defective way as to require it to be deemed unlawful and therefore of no effect. But removing retrospective effect requires the same court, at the same time, to determine that the decision was not so defective as to require all those subject to it up to the date of judgment to be protected from its impact. There may be circumstances where it is appropriate for the court to decide to do those two conflicting things at once, but they must be rare.
+
+The difficulty with the way in which clause 1(9), in particular, is constructed is that it suggests that in fact those circumstances should represent the norm. I do accept that clause 1(9) requires the court to regard such an order as offering adequate redress as well as giving the opportunity for the court to do otherwise if there is good reason to do so. However, the clause still creates a presumption in favour of limiting or removing retrospectivity. As I say, I am not convinced that that is the right approach, but, at the very least, Ministers will need to assure us that in the consideration of whether non-retrospective quashing orders offer adequate redress, the interests of those who would have relied on that retrospectivity, as well as those who may benefit from prospective effect, should be given particular weight in the balancing exercise the court must conduct before making the order.
+
+I finish where I began, with the fundamental importance of judicial review in our constitutional settlement. It is that importance that should cause us to be very slow to tamper with it, unless we are convinced first that there is a real need to do so that goes well beyond irritation with Government losses and, secondly, that any changes we make are well judged, thought through and do not cause collateral damage. Although I have no wish to impede the Bill’s Second Reading, given the positive effect of other parts of it, I am not convinced that part 1 on judicial review is yet in the right place to meet those objectives.
+
+16:45:00
+
+Wera Hobhouse (Bath) (LD)
+It is a pleasure to follow the right hon. and learned Member for Kenilworth and Southam (Jeremy Wright). As someone with no legal training, I always enjoy listening to people with legal training who make clear what the issues are. I hope the Government listen carefully to the concerns that he has raised about part 1 of the Bill. As always, the Government are putting forward perfectly reasonable proposals and mixing them up with something that is very controversial. On the Opposition side of the House, we are not at all convinced that this Bill is anything other than an attack on the most vulnerable and most marginalised in our society, and we want to protect them.
+
+The Government claim that this Bill will hand additional tools to judges. What the Bill actually does is restrict judicial review. Judicial review is working well in this country. Although these proposals might not go as far as many feared, I remind colleagues of Lord Neuberger’s words that judicial review
+
+“is what ensures that the executive arm of government keeps to the law and that individual rights are protected”.
+
+Government accountability is fundamental to our democratic society. That is the principle on which Liberal Democrats oppose this Bill.
+
+Taken against the Government’s broader programme of constitutional reform, it is difficult to see this Bill as anything other than part of a concerted effort to take power away from individuals and to stop them holding Governments to account. In the past year, we have seen: the Police, Crime, Sentencing and Courts Bill, which restricts people’s rights to peaceful assembly and protest; voter ID proposals under the Elections Bill that stop people from vulnerable and marginalised backgrounds from exercising their democratic right to vote; and attempts to weaken the Human Rights Act 1998 and the UK’s commitment to the European convention on human rights. Now we have a Bill that limits people’s ability to hold Governments to account through the courts.
+
+Key elements within the Bill are particularly concerning. Clause 2 permits the courts to abolish Cart judicial reviews and imposes de facto ouster clauses. That removes a vital safeguard in situations where tribunals make mistakes. We have heard about that several times already this afternoon. The vast majority—92%—of Cart judicial reviews are immigration and asylum cases. Many of the remaining cases concern access to benefits for disabled people and other people facing destitution. Those are all situations where the stakes are incredibly high for the people involved.
+
+Matt Rodda (Reading East) (Lab)
+The hon. Lady is making a fascinating speech and some very strong points. Does she agree that there is now an established body of judicial review going back a number of years that seems to demonstrate that this particular area of law has allowed the Executive to be held to account by the most vulnerable and weakest in our society? Does she also agree that an additional benefit, as mentioned by the former Attorney General, the right hon. and learned Member for Kenilworth and Southam (Jeremy Wright), is that it focuses the minds of those working in Government—in particular those in the civil service and Ministers—to provide better quality decision making in the first place?
+
+Wera Hobhouse
+This issue absolutely is about that particular section of society who seem to be under attack in this case. Decisions have been made where those people should have been supported in the first place, and then they do not even have a comeback under the law, and that is just wrong.
+
+What is more, the low success rate, which the Government are using to defend their plans, massively understates the number of Cart judicial reviews that secure a positive outcome for the claimant. Scrapping Cart judicial reviews goes against everything that a fair-minded liberal democracy stands for. We Liberal Democrats will never cease to stand up for such rights.
+
+The Government state in their press release that
+
+“it is expected that the legal text that removes the Cart judgment will serve as a framework that can be replicated in other legislation.”
+
+In other words, they are admitting that the Bill is the thin end of the wedge and that it could open the door to more ouster clauses in the future, which would create whole areas of Government action that could not be judicially reviewed, making them immune from accountability through the courts.
+
+Liberty has described the Bill as
+
+“part of this Government’s bid to make itself…untouchable.”
+
+The Law Society warns that the Bill
+
+“should ring alarm bells for people who come up against the might of the state.”
+
+There can be no justification for such a Bill in a democratic society. I urge colleagues across the House to vote against it.
+
+16:50:00
+
+Fay Jones (Brecon and Radnorshire) (Con)
+It is a pleasure to follow the hon. Member for Bath (Wera Hobhouse). I rise in support of the Bill and am keen to see it make progress through the House. Before I go on, this is my first opportunity to say how delighted I am to see the Secretary of State in his post and the new Minister in his place. I echo the comments made by the Secretary of State about the former Lord Chancellor, my right hon. and learned Friend the Member for South Swindon (Robert Buckland).
+
+The Government are committed to fulfilling their 2019 manifesto pledge, and I am pleased that we are committing to yet another pledge to protect our democracy. The Bill will—at last—streamline our judicial system in both England and Wales, making it much more efficient. It is a good example of justice machinery, and I am pleased that my constituency of Brecon and Radnorshire will experience the benefits of these improvements.
+
+I am glad that the Government recognise the impact of the pandemic on our court system and, as well as managing those pressures, are learning some helpful lessons and continuing with the steps they took during the pandemic to bring some court proceedings online, saving valuable time and resources. I acknowledge that the Bill benefits both England and Wales and, as the representative of a constituency with roughly 60 miles of the border between our two nations, very much welcome provisions that will remove the statutory requirement that magistrates courts must be divided into separate local justice areas. My constituents will often travel across the border for employment, education and other things, and the judiciary is no exception. In that spirit, I will focus my remarks on the courts elements of the Bill.
+
+I commend the Government for the work they have already done, particularly in the field of domestic abuse. I was proud last year to be a member of the Domestic Abuse Bill Committee and am even prouder that that Bill was prioritised by the Government during the height of the pandemic. The Government, conscious that coronavirus was not the biggest threat for those enduring lockdown with their abuser, made sure that the Committee could meet and that both sides of the House could scrutinise and improve that Bill.
+
+One of the many strengths of the Domestic Abuse Act 2021 is the improvements it has made to the family courts. On that, I would like to see this Bill go further. In family proceedings, the Domestic Abuse Act introduced an automatic ban on cross-examination in person when one party has been convicted of, given a caution for or charged with certain offences against the witness, or vice versa. The provisions also introduced an automatic ban on cross-examination in person when an on-notice protective injunction is in place between the party and witness or when there is other evidence of domestic abuse. That is a crucial step, and one that I am very proud of.
+
+Having praised the Government, I will ask the Minister to go further—he will not be surprised by this—and consider further amendments for family court proceedings. I do so on behalf of my constituent, Natalie Davies, who came to see me and has given me permission to mention her and raise her case. She lives in my constituency with her partner, baby and two primary school-aged children from her previous relationship. In February, she came to ask for advice due to the complexity and sensitivity of a legal dispute between her and her ex-partner.
+
+I will not go into too much detail about Natalie’s case. However, while the conclusion reached by the judge was in her favour, her experience in the family court was completely unacceptable. In her words, it was a “complete misery”. The way in which she was treated by the judge was simply wrong for a modern age. She claims that she was repeatedly undermined throughout her case, which caused her immense distress, and she felt as though a completely one-sided approach was taken. Her barrister later confirmed that the judge had to be persuaded to read both sides of the case. During her hearing, the judge referred to her as “young lady” and commented on the fact that she was “already”—his word—expecting a baby with her new partner. He also googled her home and searched for images of her new home on Rightmove.
+
+Natalie complained to the Judicial Conduct Investigations Office, as is proper, but she had no response, until two days before a further hearing with the same judge. She was hastily told that her complaint had been rejected. She was told that no misconduct had taken place. Had the judge fallen asleep, that would constitute misconduct, but patronising—even misogynistic—remarks and apparent predetermination on the part of the individual somehow did not constitute misconduct. I find that deeply troubling.
+
+All in the House would of course agree that the judiciary must be free from direction by Ministers. That is entirely appropriate. However, the existing system is not working. This might well be out of scope of the Bill, but it appears to me and the other individuals to whom Natalie has introduced me since coming to see me in my surgery that we have an imbalance here, which I wonder whether we may explore as the Bill travels through the House.
+
+We must look at a situation in which individuals do not have access to a clear and transparent complaints system. Natalie’s complaint was backed up with a written statement by her highly trained barrister, and yet it was still dismissed out of hand.
+
+Sir John Hayes (South Holland and The Deepings) (Con)
+My hon. Friend makes a compelling case along particular lines. She is right about access to legal recourse. I do not know whether she has had a chance to look at the important speech given last week by the Attorney General, which sets out how, in parallel, people are using the courts to perpetuate political debates. Ironically, some people do not have access to justice, and others are using the courts for political ends, which is why the Bill is so important.
+
+Fay Jones
+My right hon. Friend is absolutely right, and I bow to his experience in these matters. That should be considered as the Bill travels through the House. I want to see it make progress and I commend the Government for their ambitions thus far, but I would like, and would be grateful for, a conversation with the Minister about what we can do to ensure that all those who have the inevitably difficult experience of going through the family court are treated with the utmost respect.
+
+16:57:00
+
+Angela Crawley (Lanark and Hamilton East) (SNP)
+Scotland’s justice system remains devolved and, as such, the powers to amend the judicial review process are, thankfully, protected. The UK Justice Secretary’s predecessor recognised that separate nature in March when he told the House:
+
+“In respecting separate jurisdictions, as I always do, these proposals relate to England and Wales matters and have been carefully delineated in that way.”—[Official Report, 18 March 2021; Vol. 691, c. 510.]
+
+The Minister must give similar guarantees that, if the Bill becomes law, the Government will not look to expand its scope to impact on Scotland’s independent, unique and distinct legal system. He must also acknowledge that he should not have the authority to attempt unilaterally to unpick such a fundamental part of the UK constitution. The Scottish judicial review process has evolved over many years and the result is a proper system of checks and balances that does not need interference from Westminster.
+
+That separate and valued legal system means that most of the Bill will not impact on my constituents or on Scotland, but parts of it will, and that does not detract from my concern about the way in which the Government are operating towards the judiciary in England and Wales. It appears to me that the Bill is part of a broader drive to increase the power of the Executive, to limit oversight, and to reduce the ability to seek judicial remedy in the courts and to hold this Government and Governments after them to account.
+
+I say a broader drive, because the Bill is moving through this place at the same time as the Nationality and Borders Bill, the Elections Bill, the review of the Human Rights Act and the Police, Crime, Sentencing and Courts Bill.
+
+Each taken on their own merit should be cause for concern, but as a package they leave little doubt that the Government’s strategy is to roll back the rights of vulnerable groups, while simultaneously removing the checks and balances on the Government’s Executive power.
+
+The Prime Minister’s decision to prorogue Parliament in 2019 was the first step on the road to an increasingly authoritarian style of government. Since the two high-profile defeats on article 50 and prorogation, and several High Court rulings on immigration and employment tribunal fees, the Government have been vocal in their criticism of the justice system. The Home Secretary herself referred to “lefty lawyers” and “do gooders” looking to hamstring the legal system. In reality, the Bill is a crackdown by the Government, who are unable to move past the frustration of high-profile defeats in the Supreme Court. Rather than asserting their Executive authority and removing checks and balances, the Government should be listening to calls from senior legal experts across these islands and their own review.
+
+Lord Faulks, a former Conservative Justice Minister, wrote that Ministers should “think long and hard” before seeking to curtail the powers to the judiciary. He added: “Our view is that the government and Parliament can be confident that the courts will respect institutional boundaries in exercising their inherent powers to review the legality of government action. Politicians should, in turn, afford the judiciary the respect which it is undoubtedly due when it exercises these powers.”
+
+With that in mind, I urge Members to vote against the Bill and maintain the vital checks and balances in this crucial area of law.
+
+17:01:00
+
+Laura Farris (Newbury) (Con)
+I, too, will focus my comments on the first part of the Bill, which concerns judicial review. I support the exclusion of upper-tribunal permission decisions from the ambit of judicial review—the so-called Cart decisions. That is a merit-based argument. Briefing notes I received state that removing the option of recourse to judicial review in immigration risks injustice, and I hope Members will not mind if I set out briefly why I do not think that is the case.
+
+It is important to note what clause 2 on Cart decisions does not do. It does not mean that difficult immigration or asylum cases will not end up in the appeal courts. It is the case now, and will remain the case, that the most difficult cases concerning article 3 rights on freedom from torture, and article 2 rights on the right to life, are nearly always adjudicated in the Court of Appeal. That is because they have made a natural progression from the first tier to the upper tier and the Court of Appeal. All the clause does is deal with permission to appeal. The clause gives the applicant first the opportunity to go to the first-tier tribunal and seek permission to appeal, with the threshold being whether the case is reasonably arguable. They fail that. They go to the upper-tier tribunal and again say that they have a case that is reasonably arguable. That is refused. They then go to the High Court and seek judicial review. It is only that upper layer that is being removed.
+
+In no other area of law, in either the private or the public realm, does the applicant have three bites of the cherry—not in employment law, not in family law, not in education law, community care, or local government. You cannot leapfrog a decision of the upper court or tribunal to seek recourse through another means. I have listened carefully to the arguments made by those on the Opposition Benches, and no one has yet defined why immigration, and immigration alone, should belong in a special category where people have an extra bite of the cherry.
+
+The hon. Member for Bath (Wera Hobhouse), who is no longer in her place, suggested that it goes against every fair-minded decision of a Government to exclude Cart-type judicial reviews, but that overlooks the difficulty that the Supreme Court had when it determined this issue. Indeed, I say respectfully that it is rare to find such a nuanced decision in the Supreme Court. In the course of that judgment, at paragraph 91, Lord Phillips said:
+
+“My initial inclination was to treat the new two tier tribunal system as wholly self-sufficient… Can it not be left to the Senior President…to ensure that the tribunal judiciary is so deployed as to ensure the appropriate degree of judicial scrutiny of decisions of the lower tier?”
+
+Even Baroness Hale, who was the primary proponent, said:
+
+“There must be a limit to the resources”
+
+that we
+
+“devote to the task of trying to get the decision right in any individual case.”
+
+We on the Government Benches respectfully say that it must be right that, if the Supreme Court were faced with that decision again, it would answer in a different way. We know that because of Lord Hope’s remark in the Lords on 22 March that
+
+“experience has shown that our decision has not worked”.—[Official Report, House of Lords, 22 March 2021; Vol. 811, c. 710.]
+
+The other reason I support clause 2 is to do with the overriding objective that lies at the heart of all civil procedure and the issue of proportionality. I know that there has been some disagreement among Members about how many Cart judicial reviews succeed. The independent review of administrative law report put it as low as less than 1%, the Government say it is 3%, and Liberty, which argues strongly in favour, says it may be nearer 5%. However, we have to be realistic. On any reading, we have a system where over 95% of these judicial review cases go nowhere, yet we know that that is the most common form of judicial review.
+
+That is exactly what Lord Dyson warned against when permission was given in Cart. He said that “resources are limited” and that we do not want
+
+“a return to the pre-2002 Act days in immigration and asylum cases when the courts were overwhelmed with unmeritorious judicial review claims.”
+
+Anne McLaughlin
+I am a bit confused. The hon. Lady said that taking away Cart judicial reviews would not stop somebody going to the Court of Appeal from the tribunal system, so I just wonder what the route is. Perhaps I have misunderstood.
+
+Laura Farris
+For an applicant to end up in the Court of Appeal, they would win or lose at first instance and either appeal or be appealed by the Home Office, the upper-tier tribunal would give permission for that appeal, and it would be heard in the upper-tier tribunal. The applicant would either win or lose again, and then they would find themselves appealed to the Court of Appeal. That will not change where difficult areas of human rights law are engaged.
+
+The issue here is where the upper-tier tribunal says, “No, we won’t give permission to hear your appeal,” and then the applicant goes to the High Court and seeks a judicial review application. It is that narrow aspect that is excluded by the Bill. It is important to clarify that, because I think there is some uncertainty about whether human rights are being excluded, and I am glad that the hon. Lady asked me.
+
+Anne McLaughlin
+rose—
+
+Laura Farris
+I will make a little progress, because I know that time is limited.
+
+The Opposition frequently push Government Members on the issue of backlog and delay. In the early days of the pandemic, they were right to do so, but I do not think that they can sustain an argument where they simultaneously criticise delays that have arisen because of the pandemic and advocate a disproportionality in an area of litigation where over 95% of claims are unsuccessful, clearly clogging up court time.
+
+The second issue that I would like to address is the new flexibility in quashing orders, and particularly the issue of suspended quashing orders. I read the IRAL report very carefully. It reached its conclusion by reviewing the Court of Appeal’s decision in the case of Hurley and Moore. When it found that there had been a breach of the public sector equality duty, the Court made a declaration of illegality rather than a quashing order because it wanted to give the Secretary of State room to comply. As I see it, clause 1 is in keeping with that.
+
+A number of organisations have written to me to say that, while they perhaps understand the basis of the decision, they are generally opposed to suspended quashing orders where the provisions of a clause will be void. Respectfully, I think that fails to properly engage with what is at stake. The public sector equality duty is a really helpful starting point here. Let us look at the way those cases were litigated through the appeal courts in the early days. We had the library closure cases, with Somerset County Council, Gloucestershire County Council and Surrey County Council all losing public sector equality duty cases. We then had the care home cases, such as South West Care Homes v. Devon County Council, and the mental health cases. All of them were in 2011, 2012 or 2013.
+
+What is most striking about public sector equality duty cases now is that they almost never succeed; actually, I could not find an example of one that had succeeded since 2015. It occurred to me that it is at least possible that the reason the courts will not engage with those cases is that they think it is too onerous to quash. I think that the Bill provides more scope, not less, for some of the progressive principles that can be advanced for a judicial review to succeed if it is not immediately the subject of a quashing order.
+
+I also listened to observations made on the Opposition Benches about retrospective decisions and retrospective effect; what that would have meant in the Unison case and whether the Supreme Court would or would not have ordered the Ministry of Justice to repay the fees paid by litigants who were bringing claims during that period. I just do not think it is possible to read Lord Reed’s comments in that judgment and not find it was absolutely guaranteed that the Supreme Court would order the fees to be repaid. Let us look at clause 1(8) and (9), which set the criteria. The Supreme Court effectively applied them all and found that the repayment of fees was necessary, so I do not think it is a good example.
+
+It is, however, worth recalling the case of HM Treasury v. Ahmed, which the Secretary of State mentioned in his opening remarks. That was a critical case, one of the first cases the Supreme Court heard, because it dealt with important issues of constitutional consequence and public interest. The Labour Government had done what any right-minded member of the public would think was sensible. They found three people who they suspected, but were not convicted, of terrorism offences. As a precautionary measure, they froze their assets. They believed they were entitled to do so under the United Nations Act 1946. They were, in fact, not entitled to do so and the Supreme Court found them to have acted ultra vires and quashed. We know that at least one Supreme Court Justice was nervous about that. Lord Hope said:
+
+“I would however suspend the operation of the orders that I would make for a period of one month from the date of the judgment to give the Treasury time to consider what steps, if any, they should now take.”
+
+What if they had had the power to suspend the order? We know the judgment was handed down on 27 January 2010. By 5 February, Alistair Darling had introduced the Terrorist Asset-Freezing (Temporary Provisions) Act 2010. By 10 February, two weeks later, that had received Royal Assent. It was manifestly in the public interest for Parliament to have the opportunity to legislate on that. How much better if the Court had had the opportunity not to make a quashing order, but to suspend.
+
+That brings me to my final point, which is something I do not think anyone on the Opposition Benches has engaged with at all: what the doctrine of nullity is really about. In private law, the Court has the opportunity to consider and to decide that something is unlawful, but in public law it does not just decide that; it quashes altogether. I am of the view that allowing some discretion, where the effect of a quashing order would potentially run contrary to the public interest or conflict with what might be the will of Parliament, offers a more constructive opportunity to resolve public law problems.
+
+Anne McLaughlin
+I thank the hon. Lady for again letting me in. Surely this is ordering judges to have a presumption in favour of prospective, rather than retrospective, quashing orders? We are not giving them the opportunity to use it—we are saying, “You will use it as a default position.” That is the problem.
+
+Laura Farris
+I am not sure I entirely agree with that. I do agree that clause 1 sets out the criteria they need to apply, but in reality they are common sense principles and I do not agree that the Court’s discretion is being fettered in the way the hon. Lady suggests.
+
+17:12:00
+
+Rob Butler (Aylesbury) (Con)
+It is a pleasure—although always slightly daunting to follow my hon. Friend the Member for Newbury (Laura Farris)— to speak in this debate. I must start by declaring an interest. I served as a magistrate for 12 years prior to my election and spent almost five years as a member of the Youth Justice Board. It is on the subject of the magistrates and youth courts that I wish to focus my remarks. The proposals for changes to procedures in the magistrates courts strike me as sensible and balanced measures that will, in many respects, simply bring them into the 21st century. The new processes and procedures herald a marked improvement to the way courts run, saving time, improving efficiency and therefore helping to ensure speedier justice.
+
+It is appropriate to echo the remarks of my hon. Friend the Member for Warrington South (Andy Carter) and mention the tremendous achievements in the magistrates courts over the past 18 months. Following the inevitable disruption caused at the start of the pandemic, the magistrates courts were incredibly quick to adapt to new methods to prevent delays to justice. With more than 85% of criminal cases falling entirely within the jurisdiction of the magistrates courts, they are absolutely vital to the overall smooth running of our judicial system. We should not forget that magistrates are volunteers. I pay tribute to them for all their efforts, alongside the staff of Her Majesty’s Courts and Tribunals Service, the legal representatives and other services, such as victim and witness support—the latter also volunteers.
+
+The flexibility and adaptability of those working in the magistrates courts over the past 18 months is a clear demonstration of the capability, readiness and willingness of justices of the peace to embrace change.
+
+I particularly welcome the digitising and streamlining of preliminary pretrial court proceedings via the common platform, the removal of unnecessary courtroom hearings, and the strengthening of links between Crown Court and magistrates courts. Creating the option for online written pleas will enable defendants to sit with their legal adviser at a time of their own choosing and submit the required information via the common platform. That must be preferable to waiting in a courthouse for hours on end for a hearing that will likely last just a few minutes.
+
+Similarly, I believe that permitting an allocation decision to be made online or in the absence of the defendant, in the appropriate circumstances, will enable courts to progress cases and avoid unnecessary delays. This is especially welcome for indictable-only offences, where the appearance in the magistrates court is no more than a formality.
+
+I am aware that there are concerns about ensuring that defendants will be properly equipped to make decisions about their cases if they are not physically in a courthouse. I share those concerns, so I am therefore very pleased that there will be safeguards to ensure that defendants have the right advice and support and, crucially, that a full court hearing will always be available when needed and considered to be in the interests of justice. I am grateful to Ministers in the Ministry of Justice for reassuring me already that especial care will be paid to particularly vulnerable defendants and to children.
+
+The introduction of a new automatic online conviction and standard statutory penalty procedure is a further positive step. It has long struck me as disproportionate for someone to come to court if they have not paid for a rail ticket or have fished with an unlicensed rod. An online process that does not require the involvement of a magistrate seems a much more appropriate way of dealing with such cases. Of course, it will be necessary to ensure that only very low-level offences of such a type take place without direct judicial oversight, and I am pleased that the addition of any further offences to the mechanism would need to be explicitly agreed by Parliament.
+
+The decision to abolish local justice areas makes further good sense. The current system can result in arbitrary borders that prevent a magistrate from sitting in a court just a few miles from their home if it happens to be in a different LJA. The proposals in this Bill will mean that work and people can be distributed according to need and availability. One consequence will be the ability for closer working between Crown Court and magistrates courts. That greater alignment of different branches of the judicial family is undoubtedly another positive step.
+
+However, a few questions arise from the proposals to scrap LJAs. At present, each area has its own bench chairman, deputies, chair of youth court and so on—magistrates who volunteer to take on leadership and pastoral roles. It would be helpful to learn a little more from the Minister about how those functions will be carried out in future, and to have reassurance that magistrates will still have a degree of agency over decisions and practices affecting them directly. We also know that local areas can see different patterns of crime, distinct from one another. Until now, magistrates courts have been able to reflect that in their sentencing, so I am keen to hear from the Minister about how specific local factors will be reflected henceforth.
+
+Of course, magistrates courts can only function well when there are enough magistrates to sit in them. The number of those on the bench has fallen dramatically in recent years. I am pleased the Government are now attempting to recruit more people to the magistracy, but it is important that magistrates represent all walks of life, all ages and all backgrounds, and I wonder whether the Minister might tell the House a little about how he hopes that might be achieved in the years ahead.
+
+There are relatively few clauses in this Bill affecting the youth courts. There are provisions regarding the transfer of cases when a young person reaches the age of 18, but I will use this opportunity to repeat to the Minister and his colleagues in the Department my call for young people to be dealt with by the courts according to the age at which they committed their offence, rather than their age when they first appear in court, which is the current process.
+
+I was pleased to introduce a ten-minute rule Bill on this subject last February that received support from across the House, including from some very learned and distinguished hon. Members. As I said then, it would be a relatively simple change to make in legislation, because in many respects, it does no more than correct an anomaly. For those affected, however, its effect would be profound because of the different sentencing options that are uniquely available in the youth jurisdiction. Such a change would enable young people to put their mistakes behind them and make a constructive contribution to our society. It would put more emphasis on preventing reoffending, which is key to reducing the number of victims of crime—something that we all wish to see.
+
+The number of such cases may not be high, but they have a massive impact on the young people concerned. I heard only this week about the case of a boy who was arrested at 16 and is still waiting for his first court appearance three and a half years later, now he is nearly 20. That cannot be right, so I hope that as the Bill progresses through Parliament, Ministers will consider whether this could be the appropriate time and place to bring about a change that is supported throughout the justice system.
+
+Much of our debate on the Bill has focused on measures that relate to judicial review. They are certainly very important, but we should not overlook the other positive steps that are being taken to improve our justice system. I am grateful to have had the opportunity to highlight the Government’s strong and sensible changes to magistrates courts’ proceedings, which I am confident will bring benefits to defendants, witnesses, lawyers, court staff and magistrates themselves, as well as to victims of crime. That is why I am pleased to support the Bill.
+
+17:20:00
+
+Dr Kieran Mullan (Crewe and Nantwich) (Con)
+I welcome the chance to speak in this debate as a new member of the Select Committee on Justice. We have not considered judicial review in any great detail, but we have considered court capacity, the use of virtual hearings and remote technology, and the work of coroners’ courts.
+
+We are all aware by now of the challenges that the pandemic has caused for court capacity, but I think we can be proud of, and should recognise, the enormous efforts to ensure that our justice system across the country continued in a more robust way than in many similar jurisdictions. I thank and pay tribute to court staff for their work to enable that, and I echo the positive remarks of my hon. Friend the Member for Aylesbury (Rob Butler) about magistrates who give their time.
+
+Of course that does not mean that we do not face a backlog, but I think we should remind the Opposition, or what is left of them—certainly their spokespeople—that the backlogs that we faced prior to the pandemic were lower than some backlogs that victims faced under the last Labour Government. Outstanding cases at the Crown court were at just over 40,000 before the pandemic; they hit 50,000 under Labour. A quick search of Hansard does not produce the outrage that we have heard today from the right hon. Member for Tottenham (Mr Lammy) or that I suspect we will hear from the hon. Member for Hammersmith (Andy Slaughter) when he winds up. They were not so bothered about it when they were in government, but they seem particularly frustrated now.
+
+However, let us be in no doubt that backlogs are a problem and we need to bring them down. That is important, because delays in justice have an impact on victims and the innocent: importantly, we lose witnesses and victims, which ultimately means that people who should face justice do not. That is why it is right that we look at ways to innovate and do things differently if it can help with the backlog. Of course there is always risk when we do things differently, but we have to weigh it up against the injustice for those who are waiting for their day in court.
+
+The Justice Committee heard a variety of evidence about the benefits and drawbacks of remote hearings, which are similar to the benefits and drawbacks that we have debated in relation to remote healthcare. Rightly, victims’ advocates have highlighted that for some people, remote hearings are a real challenge, so I ask the Minister to outline the steps that the Government will take to protect vulnerable groups from being inadvertently disadvantaged by remote hearings and by other changes in the Bill.
+
+As hon. Members have said, reform cannot take place instead of investment; funding must be provided to help us to address the backlog with extra sitting days and Nightingale courts. We have seen some good progress in that regard.
+
+Yes, the justice system has historically faced cuts, but I want to take the opportunity to remind people that those cuts did not happen in isolation. At the time, £1 in every £4 spent by the Government was borrowed; we were spending in an unsustainable way. It is easy now to criticise cuts that were made, and perhaps the balance of cuts across all the Government’s work has not been correct—that is why many of us welcome the extra spending for justice—but to make out that those were easy choices at the time and blame everything on the cuts, when we know that ultimately the Government were reacting to a situation not of their making, is not fair.
+
+I thank the very many hard-working people who are struggling to deliver the important function of coroners’ courts and who did so over the pandemic, but I have to say that I feel concern. As we move away from full hearings, we will need some very clear routes available for decisions when people choose not to have a full hearing. The Government talk about cases being uncontroversial and simple, but I am afraid that the harsh reality we have heard from coroners’ courts is that although they are overwhelmingly conducted with care and attention to families and with open and transparent process, that is not always the case. Coroners’ courts still reflect the style and approach of individual coroners.
+
+I would not want the measures that the Government are introducing through the Bill to have inadvertent consequences where coroners took decisions in cases that would objectively have benefited from a full hearing, or that families might feel would have benefited from one. It would be good if the Minister outlined what opportunities families might have to challenge decisions that coroners make under the new legislation.
+
+I want to make some brief remarks about judicial review. I think we have to recognise that access to justice, in the broadest possible sense, is a public good, but too often some of those involved in the provision of this public good see it as sacrosanct, and seem to believe that there is some Utopia where demand for justice is perfectly met. They often strive for that without accepting that the provision of justice as a public good must compete for public resources alongside the provision of other public goods, such as education, healthcare and defence. It is perfectly legitimate for a Government to consider whether public money spent on judicial reviews funded by taxpayers is public money that might be better spent on other public goods—or whether it might be better spent in the judiciary on a more effective way of securing access to justice than the present system of judicial review. There might even be a simpler, better use of the courts’ time. I personally can see a vast public good in a certain fox killer having fewer opportunities to waste the courts’ time with repeated failed actions, especially given the stresses on the legal system that we have discussed.
+
+Of course, controversies in this area of law are not new to the Chamber. We heard earlier from the Justice Secretary how the Labour Government pushed these ouster clauses and saw their merits at the time. The Refugee Council has said:
+
+“this Bill threatens to deny asylum seekers a fair hearing of their…claim… We urge the Government to take these criticisms seriously and to act on them.”
+
+The council was not talking about the Bill that is now before us; it was talking about the Bill that the shadow Justice Secretary attempted to steer through Parliament.
+
+I think that we have to take a step back, and recognise that the public expect to see a balanced use of public resources in the courts across all the expenditure of public money. I am frequently appalled by the disproportionate amounts spent on legal aid for individuals to challenge decisions, including decisions made through judicial review. Does that serve the interests purely of justice? Perhaps yes, but does it represent a proportionate or justifiable allocation of public good in our society? Certainly not, and I think the British public understand that.
+
+The hyperbole that has been expressed today about the narrow changes that are being made to judicial review undermines the credibility of the Members making those claims. We have heard from my hon. Friend the Member for Newbury (Laura Farris) and others how restricted and limited these measures are. To suggest that people who have had a couple of bites at the cherry are being denied justice because they do not have the opportunity to make one further attempt is an exaggeration that undermines those Members’ arguments.
+
+17:27:00
+
+Bob Seely (Isle of Wight) (Con)
+Much of the Bill is eminently sensible, and there is much in it to support. Like most people, I am pretty fed up with politicised lawyers endlessly trying to game the system. We need the application of common sense, and to call this Bill authoritarian is an absolute misuse of the term.
+
+I will not speak for more than four minutes or so. I want to talk about how we can improve the general principles of the Bill in respect of coroners’ time and police time spent dealing with cases in which bodies are washed up on the coastline, and in particular about the need for the mandatory taking of DNA samples from people who are to be buried at sea. I thank the Isle of Wight coroner, Caroline Sumeray, for her advice on this, and indeed for her work on behalf of Islanders.
+
+There were three places in the UK where burial at sea was allowed: Tynemouth in the north-east, Newhaven in Sussex, and one and a half miles south-west of The Needles, on the Isle of Wight. Now, I understand, the area off The Needles is the only place where burial at sea is legal. At present there is no legal requirement for DNA samples to be taken from the bodies of the deceased.
+
+The proposal for DNA sampling originated from an action at the UK Missing Persons Unit, which at the time was investigating about 60 unidentified bodies which had washed up over the previous year—not all at once, I hasten to add. The pathology unit at the Home Office undertook to progress that action, because every investigation involving a body washed up at sea requires a pathologist—and an awful lot of police time—to discover where the body might have come from. There is also the emotional distress of families who give DNA samples in the hope that it might be a relative of theirs; and if Aunt Madge has recently been buried at sea and, sadly, parts of her are washed up, the family do not necessarily want to give DNA samples because it is an unnecessary process.
+
+There are about 10 burials at sea each year, and once or twice a year body parts are washed up on the coast of the Isle of Wight. At the end of 2016 a lower arm was found, and early in 2017 a matching skull was washed up. Later in the year, a man’s body was washed up near Brighstone, having come from Devon.
+
+In October, a headless torso was found at Brook chine. In 2018, a skeleton was found on Barton beach and a skull was found in St Helens, with another being found later in the year in Seaview. The year after, a lady’s skeleton was washed up from Fishbourne, although that dated back to the bronze age. Clearly the tides had brought it up from a beach somewhere around Britain and it had been washed up on the Island. This is most likely to happen after storms, which either break up a coffin or force a body on to the land. They are often discovered by dog walkers on the beaches, and that is clearly not the sort of thing that they want to see first thing in the morning.
+
+While this is a constituency issue for me, it could affect a coroner or police force anywhere in Britain that has a coastline. If we had a requirement for DNA sampling prior to burial at sea, it would be easy for the police or the coroner to check against the database and make a quick distinction about where the body part had come from. Clearly, if the database had no matching DNA sample, it could be a suicide, a murder or someone who had fallen off a liner somewhere in the world, but if a DNA sample could be matched, it would save police time, save the coroner’s time and save the emotional distress of the families involved.
+
+The costs of the coastguards, helicopters, police spotter planes and inquests all add up. One of the principles of the Bill involves using the coroners and the police to achieve more efficiency and, frankly, to do their work in a more productive way. I therefore believe that, as good as the Bill is, it could be improved by the facilitation of mandatory DNA sampling on the UK DNA database so that the police and coroners can quickly identify where body parts washed up on the UK coastline have come from.
+
+17:31:00
+
+Andy Slaughter (Hammersmith) (Lab)
+I welcome the Under-Secretary of State for Justice, the hon. Member for South Suffolk (James Cartlidge) to his place and wish him well on his first outing for the Ministry of Justice. He might be tempted to reciprocate when he speaks, but as this is my third time in the job, that would be unnecessary, just like significant parts of this Bill.
+
+I am sorry to be leaving the Justice Committee after a number of years, not least because of the able and consensual chairing of the hon. Member for Bromley and Chislehurst (Sir Robert Neill). I need not feel neglected, however, as so many members of the Committee have followed me to the Chamber today. This is almost like a meeting of the Justice Committee. With the hon. Members for Lanark and Hamilton East (Angela Crawley), for Newbury (Laura Farris), for Aylesbury (Rob Butler) and for Crewe and Nantwich (Dr Mullan) here, we almost have a full house. I commend all their contributions, and indeed the contributions of all other Members this evening. This has been an intelligent and considered debate that I hope will set a good precedent for the exchanges across the Dispatch Box.
+
+Parts of the Bill are functional and unexceptional, and we will not make points for the sake of it. Indeed, much of part 2 has been revived from previous Bills that fell in the political mêlées of the past few years. The debate has shown, however, that there are serious concerns around part 1, as the shadow Lord Chancellor, the Scottish National party and Lib Dem spokespersons and others have indicated. I particularly want to mention the contribution from the right hon. and learned Member for Kenilworth and Southam (Jeremy Wright), who, with his usual thoughtfulness, went through some of the problems in clauses 1 and 2 in forensic detail. Despite having had the benefit of some very learned briefings from organisations working in the field, I heard him make some points that had not occurred to me or to them. I hope that he will be joining us on the Public Bill Committee in order to pursue those matters further.
+
+I thank all Members for their contributions, and even though the right hon. Member for Haltemprice and Howden (Mr Davis) did not speak in the debate other than to intervene, we felt his presence in the room. His articles in The Guardian and elsewhere really have hit the nail on the head and shown that, despite what some Members have said, there are very real concerns about the Bill. It always needs to be said when talking about the Lord Chancellor that he was a protégé of the right hon. Member for Haltemprice and Howden, which we do not see very often these days. I am reminded of King Lear, rather than Edward Lear:
+
+“How sharper than a serpent’s tooth it is to have a thankless child!”
+
+Our primary concern with this Bill is that the proposals for judicial review are regressive and uncalled for, more especially when, as my right hon. Friend the Member for Tottenham (Mr Lammy) set out, many aspects of the justice system are in a state of profound crisis—aspects that these measures do nothing to address and much to distract from.
+
+The Ministry of Justice should be devoting all its efforts to tackling the record court backlog and working to restore women’s faith in the criminal justice system. We have heard several times today of the more than 60,000 outstanding Crown court cases, due in part to the shortage of practitioners, with proceedings delayed because barristers cannot be found to prosecute or defend, and the shortage of judges and recorders. The Lord Chancellor recently admitted that he cannot say when the backlog will get back to pre-pandemic levels, but last week’s National Audit Office report enlightened him by suggesting that the backlog could still be 25% above pre-pandemic levels three years from now.
+
+That is an important point. We often had this debate on the Justice Committee, and the hon. Member for Crewe and Nantwich said that backlogs have risen and fallen under different Governments. I concede that point, but the important point is that when the backlogs were high under a Labour Government they were quickly addressed and quickly fell back to low levels. There is little sign at the moment that the Crown court backlog is coming under control or is likely to reduce to acceptable levels.
+
+Rape prosecutions and convictions are at record lows, even as reports to the police rise steadily. The Government’s own review said that Ministers are deeply ashamed of this dire situation and pledge to get prosecutions and convictions back up to 2016 levels by the end of the Parliament, but the Prime Minister said during his party conference speech that he cannot guarantee the target will be met.
+
+We have recently seen two excellent reports on legal aid by the Justice Committee and the all-party parliamentary group on legal aid, and the Minister and I attended the launch of the latter last week. The reports document the collapse in access to justice since the Legal Aid, Sentencing and Punishment of Offenders Act 2012. In the face of this unprecedented crisis, what is the Government’s legislative priority? Why are we here today? This is another political attack on the judiciary.
+
+Weakening judicial review and attacks on human rights legislation have formed predictable purple passages in the last few Tory manifestos. The previous Lord Chancellor was a half-hearted cheerleader. To his credit he was half-hearted, so he had to go. The noble Lord Faulks proved to be too much of a lawyer and too little of a politician, so his review was set aside and a second consultation staged, and now we have this Bill.
+
+Although it is correct to say that some of the threatened intrusions on the judicial role have not yet materialised, although we have yet to see the new Lord Chancellor at full stretch, there is plenty of mischief in this Bill, with the hobbling of judicial review by prospective-only orders, the fettering of judicial discretion by presumptions in favour of prospective and suspended orders and the ousting of judicial intervention in Cart and perhaps other cases.
+
+The false dichotomy that the Government wish to argue, as in the recent speech by the Attorney General, is that democracy and the rule of law are two opposing forces that need to be brought more into balance by weakening the latter. Nothing could be further from the truth. They are two sides of the same coin, or rather one provides the tracks on which the other can smoothly run.
+
+This Government’s true motive is to escape accountability for malpractice. It is one of the defining features of this Government that they simply do not believe the same rules should apply to them as apply to everyone else, and that starts with the Prime Minister and works its way down. An unbiased observer—I offer myself for this role—might say that the Government want to mute every avenue of accountability, from the BBC to the Freedom of Information Act and now the courts.
+
+Specifically, the removal of the retrospective effect of a quashing order will have a chilling effect on judicial review. What is the point of the seeking of a remedy without redress? Victims of past unlawful state actions might not be compensated. Litigants who are similarly impacted before and after a judgment will be treated differently. Legal aid may be refused on the grounds that a remedy for past loss is not available. All in all, the Bill goes much further than the dry terminology of the statute suggests. It also goes further than the independent panel recommended: it saw no need for prospective-only orders and dismissed the idea of presumptions in favour of them.
+
+As we have heard, the Bill will also abolish Cart judicial reviews, which are most often used in serious asylum and human rights cases but have also been used in welfare cases when someone was on the brink of being made destitute or homeless. That is the answer to the point about the fact that the success rate may not be among the highest—albeit it is still higher than the Government previously said it was—and the reason why there is a special reason for retaining such reviews. Those points have been made but they are, with respect, not good points, because Cart reviews are a last-gasp defence for some of the most vulnerable people in the most desperate situations. The Bill’s impact assessment concedes that, saying:
+
+“The majority of Cart cases relate to Immigration and Asylum, therefore those who lose out…are more likely to have particular protected characteristics, for example in respect of race and/or religion or belief.”
+
+Cart reviews are an important safeguard and there is already a high threshold for bringing them. Moreover, the original proposal was based on wrong data, as I have said. I agree that the estimate of the percentage varied from the clearly wrong 0.22%, to the 3% that the Government now maintain, to the nearly 6%—30 times the originally cited figure—on which a number of learned and informed sources have made submissions to us.
+
+Let me give just one example—there will be time in Committee to give a lot more—of the type of case affected. G was trafficked into the UK from her home country of Nigeria. Traffickers in both countries had brutally mistreated her and subjected her to serious physical and sexual abuse. While she was in the UK, she gave birth to a child, whom she looked after alone. The Government did not dispute that G was a victim of trafficking, but a tribunal convened to decide what support and protection she ought to receive went beyond the statements of the parties and decided that she was not, in fact, a victim of any trafficking or exploitation. This meant that she could be removed from the UK and would have resulted in her falling back into her trafficker’s hands.
+
+The Cart procedure was used to re-evaluate the decision before the High Court. The Court found that the tribunal had made a series of errors leading to
+
+“elementary and serious breaches of the principles of procedural fairness”
+
+and that, as such, its decision could not stand. The High Court ruled that G’s case was not only arguable and should have proceeded, but that it was “bound to succeed” based on the strength of her claim. Without that ruling, the tribunal’s original “fundamentally flawed” ruling would have been put into effect, putting G and her child in the greatest danger imaginable. It is difficult to see why such a case should be refused the opportunity of legal remedy. That is certainly the opinion that the Bingham Centre for the Rule of Law and others have impressed on us in briefings, right up to and including today.
+
+The Government’s statements on matters going beyond Cart suggest that the use of an ouster cause will serve as a template to abolish other types of judicial review in future.
+
+The press release announcing the Bill stated that
+
+“the legal text that removes the Cart judgment will serve as a framework that can be replicated in other legislation.”
+
+That is quite chilling in itself. The Government would do better to heed the words of Lord Neuberger, former president of the Supreme Court, who said last week:
+
+“Ouster clauses…which are intended to ensure a particular class of decision cannot be judicially reviewed, carry with them the inevitable implication that whoever has the protection of the ouster clause has the right to break the law with impunity”.
+
+Perhaps with an eye on this latest legislative attempt to rein in our independent judiciary, he added that judicial review
+
+“is what ensures that the executive arm of government keeps to the law and that individual rights are protected.”
+
+Perhaps also the Conservative party is no longer a party of individual rights.
+
+Part 2 contains a number of measures to increase the use of technology and online justice procedures, some of which, as I have said, have been rehashed from earlier legislation. The justice system has to adapt to new technologies, just as the rest of us do—some with more success than others—but technological change does not affect everyone in society equally. We cannot have a justice system where people are locked out because they do not have the means or the knowhow to navigate the digital frontier. We must make sure that this drive to digitisation leaves no one behind. Justice must never be sacrificed for efficiency.
+
+If there is sufficient opportunity, for example, for taking advice on pleas to be heard before a tribunal for open justice, are corners being cut in the interests of rapid and economical disposal of cases? All those questions arise in revisions currently in part 2 of the Bill. We also have concerns around plans to set up an online procedure rules Committee. The Committee itself makes sense, but why, given that it is supposed to be a practical aid to practitioners, is it a creature of the Lord Chancellor, who merely has a duty to consult the Lord Chief Justice and the senior president of tribunals before making amendments to the rules?
+
+The last major area of concern we have is in the provisions relating to coroners’ courts. Again, there is a danger that, in a rush to reduce unnecessary procedures and facilitate greater online participation, people who are less capable of navigating the new system will be excluded. There is nothing to address existing problems with the coroners’ service and, on Thursday, we be will debating the Justice Committee’s excellent report—I was a member of the Committee at the time—which raises a number of serious issues, including, in particular, the inequality of arms, as we have heard from many Members today, faced by many bereaved families who are not entitled to legal aid at inquests where the state is representing. We can discuss that in Committee and we can discuss it on Thursday.
+
+The peremptory response and dismissal of many of the Committee’s major recommendations is something that the Government should look at again. It is another example of why this Bill is not fit for purpose. There is too much focus on areas where the law works well, and too little where it is failing. Above all, it is an unforgiveable distraction at a time when all focus should be on getting the justice system back on an even keel. The Bill seeks to undermine the rights of the individual against the state and it looks like another attempt by this Government to stoke a political war with the judiciary—something that would be more recognisable in Hungary or Poland.
+
+We can try to salvage the administrative good from the political bad as the Bill progresses through both Houses, but there is no way that any Member of this House who cares about the rule of law or the checks and balances of our constitution should be supporting this Bill on Second Reading tonight.
+
+17:49:00
+
+The Parliamentary Under-Secretary of State for Justice (James Cartlidge)
+I am grateful to all right hon. and hon. Members who have contributed today. It is an honour to follow the hon. Member for Hammersmith (Andy Slaughter). He asked if he should be welcoming me to my place; I am grateful to him for that. I also welcome him. I know that he performed his role for many years, from 2010 to 2016, but it is good to see him back in his place. I look forward to debating with him.
+
+This is my first opportunity to speak in the role of Courts Minister, so I want to take a moment to put on record my enormous gratitude to all those on the frontline in our court system, including our judiciary, practitioners, all court staff and clerks. They have all put in one hell of a shift during the pandemic to keep justice going in this country. It makes me proud to be British.
+
+The one thing that I would stress, having visited the courts and seen how they have had to adapt, is just how much social distancing rules disrupted the judiciary. The 2-metre social distancing particularly affected juries in the Crown court. It has been very difficult. For that reason, a significant backlog has accumulated and we have been open about that. The key thing is that we have been active in bringing forward positive measures to address that backlog. We provided £250 million of funding during the pandemic, which enabled us to lift the limit on sitting days in the Crown court, and rapidly to roll out technology to keep justice going online during lockdown, which was incredibly important. Of course, we also brought forward our famous Nightingale courts, which have done an amazing job in helping us, particularly with bail cases.
+
+This Bill plays its part in those positive steps to address the backlog. The common thread is streamlining justice: digitising in-person processes where appropriate; removing Cart judicial reviews, which use disproportionate resource; and enabling more triable either-way cases to be sent from the Crown court to the magistrates so that Crown courts have more capacity for dealing with very serious criminal trials, potentially including rape and murder. The Bill will build on the lessons of the pandemic. It streamlines our justice system by digitising a range of procedures so that we bear down on the backlog and at the same time improve the day-to-day experience of our constituents in the court system.
+
+We have had a wide-ranging debate. Inevitably, the focus has been on the measures on judicial review. My hon. Friend the Member for Bromley and Chislehurst (Sir Robert Neill), the Chair of the Justice Committee, made a wonderful speech, not least when he extolled the glories of English liberty. He said that the judicial review reforms are measured and focused, and I do not think that he would be described as an enemy of the judiciary or someone who supports revolutionary measures. These are sensible, proportionate measures.
+
+The right hon. Member for Tottenham (Mr Lammy), with whom I look forward to debating further, said that these measures weaken quashing orders. I take completely the opposite view. The measures strengthen quashing orders and thereby strengthen judicial review. The best way to prove that is to refer to an important and very real case study, which many hon. Members will remember, particularly those, like me, who served in the last Parliament and represent rural constituencies.
+
+Members may recall the problems caused in 2019 when Natural England decided to revoke general licences for shotguns—shotguns that enabled farmers, landowners and gamekeepers to shoot pest birds. That happened in response to a threatened judicial review. The decision created immediate widespread chaos for licence holders, who were left without the necessary legal certainty as to how they could protect their livestock. I know this because I was on the receiving end of emails about the issue from my constituents, as many other hon. and right hon. Members will have been.
+
+The uncertainty continued for a period of seven weeks, until Natural England was able to issue new licences. It is not for me to speculate about how the judicial review might have proceeded if it had gone right through the court. However, we can refer to the advice that might have been given to Natural England. Had the remedies included in clause 1 of this Bill been available at the time, we can suppose that Natural England might have been more willing to contest a judicial review in the knowledge that, even if the existing licence scheme were found by the court to be unlawful, the court had the ability to act prospectively—that is, to protect past reliance on old licences, which, after all, was made in good faith; farmers using those shotguns would have done so in the belief that they were acting lawfully.
+
+In my view, we should always seek to avoid, where possible and without good reason, acting retrospectively when the person concerned could not possibly have known what the case would be in the future. A remedy of suspension could also have been used, because of course it took three months to bring forward the new licences. If the suspension had been for that sort of period of time, we could have avoided detriment. That is the point. Those who brought the case would still have got their “victory in court”, as my hon. Friend the Member for Bromley and Chislehurst talked about earlier, but the key point is that we would have spared our constituents detriment. That is why these measures are positive. That is why they support a very important principle of judicial review that has not been mentioned, which is better public administration of the law in the best interests of our constituents. As the National Farmers Union said at the time, “People have been left without a legal means to control problem birds. Their inability to protect livestock, crops, wildlife and livelihoods in ways which the law has until now allowed has left them concerned and angry.” Now we would have a way to help them in practice.
+
+Turning to Cart judicial reviews, again there was lots of passionate argument on this very important point of the Bill. My right hon. and learned Friend the Member for Kenilworth and Southam (Jeremy Wright) made one of the most fundamental points about parliamentary sovereignty where we have to question whether it was the intention of this place to legislate so that appeals would go beyond what is effectively the superior court of appeal within the jurisdiction of the tribunal. We think that was not the case.
+
+My hon. Friend the Member for Newbury (Laura Farris) made an absolutely brilliant, barnstorming speech. On Friday she took apart Labour’s case for fire and rehire and today she has taken apart its case on Cart JR. She asked the very important question of why immigration should be the exception when so many other jurisdictions of law do not have, with no offence to the hon. and learned Member for Edinburgh South West (Joanna Cherry), three bites at the cherry. This is a very important point. The idea of having a superior court like the upper tribunal is absolutely consistent with the principles of article 13 of the European convention of human rights, so three bites at the cherry should not be needed to be consistent with that article of human rights. That is a fundamental point and we respect it with our reforms to judicial review.
+
+Turning to the right hon. Member for Tottenham, he said that he was young and naive when he supported remarkably similar measures back in 2004. I think it would be remiss of us not to have two bites at the cherry with regard to Labour’s Asylum and Immigration (Treatment of Claimants, etc. ) Act 2004. He may have been young and naive but the Prime Minister was Tony Blair, and he was not young and naive. Why does the right hon. Gentleman think that the Government led by Tony Blair thought they should bring forward a Bill like that—because it was some radical assault on the judiciary?
+
+Let us remind ourselves of what that Act did. It contained a provision to remove judicial review from immigration and asylum appeals. That probably sounds a bit familiar. What was the justification? I hope that the hon. Member for Glasgow North East (Anne McLaughlin) is listening. The justification, as revealed by the right hon. Gentleman in Committee at that time, because he was the Minister concerned, was that only 3.6% of cases were successful. That was the argument that Labour used in 2003 and 2004: does it ring any bells? What was the method? The method was an ouster clause, but not any ordinary ouster clause—not a tightly drawn ouster clause like the one in this Bill—but an ouster clause drafted so widely that in Committee the then Constitutional Affairs Minister admitted that it was the mother of all ouster clauses. Who was the Constitutional Affairs Minister? It was the right hon. Gentleman.
+
+Mr Lammy
+I hesitate to interrupt the hon. Gentleman in his oration, because he was getting into his groove, but I would just say to him that it was dropped—it was never enacted, so poor it was.
+
+James Cartlidge
+They pulled it because they were going to get hammered in the House of Lords.
+
+On Cart JR, the hon. Member for Bath (Wera Hobhouse) seemed to imply that somehow an ouster clause is fundamentally against the interests of holding Government to account. Every day that this place is sitting, hon. and right hon. Members will stand up and speak on behalf of their constituents on serious matters. I once spoke in a debate on the Adjournment—the one where our former colleague spoke many times. I spoke on a very serious case in my constituency of a very vulnerable man who had had a stroke and had, I felt, been let down by a company in my constituency. I was able to name that company in this House and hold it to account, as we all do. On what legal basis was I able to do that? It was article 9 of the Bill of Rights 1689—effectively a very ancient ouster clause that ensures that proceedings in this place are not subject to the courts, as you well know, Madam Deputy Speaker.
+
+We all benefit from an ouster clause, and it helps us to hold the Government to account.
+
+Joanna Cherry
+It was generously suggested earlier that the Minister might respond to my query about the impact of clause 2 on the treaty of Union and the Scotland Act 1998. It is a slightly complicated point, but if I write to him about it, will he get back to me, because it is a really important point? If the Law Society of Scotland is right, the Bill needs a legislative consent motion.
+
+James Cartlidge
+I have to be honest with the hon. and learned Lady: it is very kind of her to ask me to write to her, because that is what I would have suggested in my answer anyway. Speaking to her earlier question, we do not think a legislative consent motion is needed, because the Cart judicial review only covers reserved matters.
+
+Coming quickly on to the online procedures, these are incredibly important. I know from my own business—we started doing mortgages online in 2005—that those procedures we are used to doing face-to-face can be conducted online, provided there is good software and safeguards and support in place. I refer to the speech of my hon. Friend the Member for Crewe and Nantwich (Dr Mullan). He is a brilliant MP. He is my parents’ MP, and they tell me he is a fantastic campaigner. He asked, as did the hon. Member for Battersea (Marsha De Cordova), who was here earlier, what help would be provided for vulnerable users. I can assure my hon. Friend and the House that we take that incredibly seriously. With all these procedures that will be taking place online, or at least where there is an option to go online, there will be strong support and safeguards in place, in particular to protect vulnerable users. In those key choices of, for example, entering an early plea online, there would always be the option for the person concerned to ask for their case to be heard in the flesh in the traditional way.
+
+I have a few final points. We had a number of other excellent speeches. My hon. Friend the Member for Aylesbury (Rob Butler) served as a magistrate before coming to this place. We are all proud of the excellent work of our voluntary judiciary. A number of my hon. Friends, including my Parliamentary Private Secretary, my hon. Friend the Member for Hertford and Stortford (Julie Marson), have been or are magistrates, as I assume have Opposition Members. I would love to meet them to talk about what more we can do to support magistrates. My hon. Friend the Member for Aylesbury praised the very important measures in the Bill, not least the measure that will ensure we can remit cases from the Crown court to the magistrates court. That is so important because it frees up time in the Crown court to hear those important criminal cases that are backlogged—the rapes, the murders and so on.
+
+It is a great honour to be asked to become a Minister in the Department responsible for the world’s greatest justice system. It is so great is because of its fundamental core of the rule of law and the independence of the judiciary. If we are to sustain that system not just beyond covid recovery, but for the long term, we need to keep modernising our courts and to digitise and use technology as much as possible, while balancing that out with safeguards for the vulnerable. It is quite simple: with this Bill we can build back better and beat the backlog. I commend the Bill to the House.
+
+Question put, That the Bill be now read a Second time.
+
+Division 96
+26/10/2021 18:03:00
+The House divided:
+Ayes: 321
+Noes: 220
+Question accordingly agreed to.
+
+Bill read a Second time.
+
+JUDICIAL REVIEW AND COURTS BILL (PROGRAMME)
+
+Motion made, and Question put forthwith (Standing Order No. 83A(7))
+
+That the following provisions shall apply to the Judicial Review and Courts Bill:
+
+Committal
+
+1. The Bill shall be committed to a Public Bill Committee.
+
+Proceedings in Public Bill Committee
+
+2. Proceedings in the Public Bill Committee shall (so far as not previously concluded) be brought to a conclusion on Tuesday 23 November 2021.
+
+3. The Public Bill Committee shall have leave to sit twice on the first day on which it meets.
+
+Proceedings on Consideration and Third Reading
+
+4. Proceedings on Consideration shall (so far as not previously concluded) be brought to a conclusion one hour before the moment of interruption on the day on which those proceedings are commenced.
+
+5. Proceedings on Third Reading shall (so far as not previously concluded) be brought to a conclusion at the moment of interruption on that day.
+
+6. Standing Order No. 83B (Programming committees) shall not apply to proceedings on Consideration and Third Reading.
+
+Other proceedings
+
+7. Any other proceedings on the Bill may be programmed.—(Scott Mann.)
+
+Question agreed to.
+
+JUDICIAL REVIEW AND COURTS BILL (MONEY)
+
+Queen’s recommendation signified.
+
+Motion made, and Question put forthwith (Standing Order No. 52(1)(a)),
+
+That, for the purposes of any Act resulting from the Judicial Review and Courts Bill, it is expedient to authorise the payment out of money provided by Parliament of—
+
+(1) any expenditure incurred under or by virtue of the Act by the Lord Chancellor; and
+
+(2) any increase attributable to the Act in the sums payable under any other Act out of money so provided.—(Scott Mann.)
+
+Question agreed to.
+

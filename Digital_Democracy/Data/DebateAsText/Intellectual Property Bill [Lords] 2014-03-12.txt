@@ -1,0 +1,555 @@
+Intellectual Property Bill [Lords]
+
+Consideration of Bill, as amended in the Public Bill Committee
+
+New Clause 1
+
+Future of intellectual property
+
+‘(1) Subordinate legislation to implement the Government’s policy statement entitled “Modernising Copyright”, published in December 2012, may not be brought forward until the Secretary of State has published, and laid before both Houses of Parliament, a report setting out the Government’s long term plans for the future of intellectual property in the United Kingdom.’.—(Mr Iain Wright.)
+
+Brought up, and read the First time.
+
+12:43:00
+
+Mr Iain Wright (Hartlepool) (Lab)
+I beg to move, That the clause be read a Second time.
+
+Mr Speaker
+With this it will be convenient to discuss the following:
+
+Amendment 2, in clause 13, page 11, leave out lines 40 to 41.
+
+Amendment 3, page 12, leave out lines 6 to 7.
+
+Amendment 4, page 12, leave out line 19.
+
+Amendment 5, page 12, line 41, at end insert—
+
+‘(9) In this section “design right” includes an unregistered community design and a reference to the owner of the design right is also to be read as a reference to the owner of a community design right in a design.’.
+
+Amendment 1, in clause 17, page 17, line 31, at end insert—
+
+‘(3A) In making an order under this section which confers jurisdiction on a court, removes jurisdiction from a court or varies the jurisdiction of a court, the Secretary of State shall—
+
+(a) ensure he takes into account the views of—
+
+(i) HM Courts and Tribunals Service;
+
+(ii) the Scottish Courts Services;
+
+(iii) the Northern Ireland Courts and Tribunals Service; and
+
+(iv) any other appropriate body;
+
+and
+
+(b) where the number of patent cases is such as to meet the requirements as set out in Article 7 of the Agreement on a Unified Patent Court, to confer local divisional court jurisdiction on—
+
+(i) in England and Wales, the High Court;
+
+(ii) in Scotland, the Court of Session; and
+
+(iii) in Northern Ireland, the High Court.’.
+
+Amendment 6, in clause 20, page 18, line 32, leave out ‘obtained in the’ and insert
+
+‘created or obtained in the planning of, or’.
+
+Mr Wright
+It is good to be back discussing the Intellectual Property Bill.
+
+We discussed the new clause in Committee and are returning to it on Report because, in the intervening period, there has been no progress. I will remind the House about this long-running saga.
+
+The Government made proposals on copyright exceptions in 2012, during the passage of the Enterprise and Regulatory Reform Act 2013. In December 2012, the Government published “Modernising Copyright”.  One could be forgiven for thinking that that was a simple and straightforward means of implementing the recommendations of the Hargreaves review, as the Government try to maintain. I will come on to the crucial matter of implementation in a moment. However, the level of opposition from stakeholders and the delay in implementing the Government’s proposals suggest otherwise.
+
+In “Modernising Copyright”, Ministers stated:
+
+“The Government will publish draft legislation for technical review in 2013. It intends to introduce the measures in the smallest possible number of statutory instruments to minimise disruption to stakeholders, make best use of Parliamentary time and ensure that the revised system is implemented in a clear and consistent manner. The intention is that measures will come into force in October 2013.”
+
+None of those plans has proved successful.
+
+Major changes to copyright have usually been made through primary legislation. The Copyright Act 1911 placed provisions into one piece of legislation for the first time, and the Copyright Act 1956 put into statute the UK’s accession to the universal copyright convention, and protected for the first time media such as films and broadcasts by copyright. The Copyright, Designs and Patents Act 1988 provided a major reform of the copyright process, and currently remains the main legislative framework.
+
+When modernising copyright, however, the Government do not intend to make changes via primary legislation but rather through statutory instrument. As is clear from the document I have already cited, the Government always intended to bundle up the proposals on copyright exception into
+
+“the smallest possible number of statutory instruments.”—[Official Report, 4 February 2013; Vol. 558, c. 54W.]
+
+On Report of the Enterprise and Regulatory Reform Bill in October 2012, the Minister stated that
+
+“any proposed exceptions will be the subject of secondary legislation and will therefore be debated. Each separate element of a statutory instrument can be debated—that is the function of the secondary legislation procedure.”—[Official Report, 17 October 2012; Vol. 551, c. 406.]
+
+That is certainly true; each element can be debated separately, but the key point that will concern the House is that it will not necessarily be possible to vote on each element separately, and that still seems to be the Government’s position.
+
+On Second Reading the Minister stated that
+
+“the regulations will not be completely bundled up.”—[Official Report, 20 January 2014; Vol. 574, c. 83.]
+
+That is a curious phrase that I referred to in Committee, which gives rise to the strong possibility—even probability—that bundling will occur. In Committee, he said that he was not in a position to say how many different instruments there will be, and that the Government were still consulting on the matter with parliamentary counsel. It is six weeks or so since we discussed the issue in Committee on 30 January, but I do not think he is in a position to provide much of an update. In Committee the Minister said:
+
+“The problem with IP and copyright is not insufficient reviews, but insufficient implementation. We are implementing. That is what the Bill is about,”.––[Official Report, Intellectual Property Public Bill Committee, 30 January 2014; c. 91.]
+
+However, evidence shows that that is far from the case.
+
+Let us be clear and put on the record the dither and uncertainty that the Government have provided to those stakeholders involved with copyright. As I said, the Government’s response to “Modernising Copyright” was published in December 2012. In early June 2013, documents were published in relation to new exceptions for private copying, parody, quotation and amendments to exception for public administration. Later that month a new exception for data analysis for non-commercial research was published, as were amendments to exceptions for education and research, libraries and archives.
+
+In July 2013, further amendments to copyright exceptions for people with disabilities were published. All documents were subject to consultation periods that ended in the summer or early autumn of 2013. Since then, no tangible progress has been announced. On Second Reading the Minister pledged that regulations would be laid before the House in February, and in Committee I asked whether the Government still intended February to be the target date. The Minister responded:
+
+“That remains our intention; I cannot put it more strongly than that, can I?”––[Official Report, Intellectual Property Public Bill Committee, 30 January 2014; c. 93.]
+
+Well, he could. We are now into mid-March, and we have still not seen any white smoke from Victoria street. That delay is causing uncertainty among the creative industries, and undermining our competitiveness and attraction as a nation for this crucial sector in the new economy.
+
+The hon. Member for Hove (Mike Weatherley) is knowledgeable and diligent about these matters. He is the Prime Minister’s adviser on IP and served on the Committee, and I am pleased to see him in his place this afternoon. Last week, he received a response to a parliamentary question that he asked about progress made by the Department on drafting changes to copyright exceptions. I hope he will not mind my quoting the Minister’s response, because it is important and helped shape my view on whether we needed an amendment on Report. In his reply to the hon. Member for Hove, the Minister said:
+
+“The Government are grateful for the contributions of all those who responded to the various consultations and have continued to engage with stakeholders since the review closed. We have made a number of technical changes following the helpful input of stakeholders, and we consider the regulations have been improved as a result. So, the regulations will be different in light of the valuable consultation process.
+
+The draft regulations are subject to final checking and in accordance with routine practice the Department is currently consulting the legal advisers to the Joint Committee on statutory instruments. This process can help to avoid difficulties about powers, drafting, etc. arising at a later stage, and assists both the Department and the Committee in minimising any delay in the passage of an instrument. Unless otherwise agreed with the legal adviser, Departments should normally allow a period of not less than two sitting weeks for this advance scrutiny. The regulations will be laid before Parliament and published as soon as this process is complete. The regulations will be subject to affirmative resolution and will be debated in both Houses of Parliament.
+
+The Government will publish a response to the technical review, explanatory notes, guidance and other supporting documents alongside the regulations. This will explain the changes we have made to the drafts on which we consulted and why. Copies of all of these documents will be placed in the Libraries of both Houses and will be available on the IPO website.”—[Official Report, 6 March 2014; Vol. 576, c. 944W.]
+
+The Minister for Universities and Science (Mr David Willetts)
+That was a very good speech.
+
+Mr Wright
+Thank you very much.
+
+Does what the Minister said mean that we will see the regulations in less than a fortnight? When will they come before the House for consideration? Will it be before the next Session begins in June? Given that, as his answer states, the Government have made a number of technical changes, and as the regulations will be different, will he confirm that a further round of wider consultation is not needed? He cannot seriously suggest that a commencement date of 1 April 2014 is still feasible. Will he give further details?
+
+Mike Weatherley (Hove) (Con)
+Does the hon. Gentleman agree that the earlier part of that answer, in which the Minister stated that he welcomed the contributions and had made amendments accordingly, is potentially good news?
+
+Mr Wright
+It could be good news, but we are acting in the dark. The Minister said in Committee—the hon. Gentleman was there—that the Government are in implementation mode. However, the hon. Gentleman, who is a knowledgeable expert, must accept that it looks very much like the Government are making it up as they go along, with no long-term vision for the direction of IP or copyright.
+
+The Government have been left floundering. The hon. Member for Hove alluded to the fact that they have had to be rescued by stakeholders and have reinforced the impression that IP policy is not considered a priority, despite the importance now and in future of the creative industries. That is why new clause 1 is as relevant now as when we discussed it in Committee. The Government’s handling of this important matter has been shambolic, and I should like to test the opinion of the House on it. It is important that we send out a clear message that copyright is important. It is an important driver of wealth creation in the 21st century, and what the Government have done is not good enough.
+
+On amendments 2 and 3, clause 13 was debated at length in Committee and in the other place. I do not want to detain the House, but, as I have said several times during the passage of the Bill, it is the most contentious measure. It is a significant matter when Parliament decides to impose criminal sanctions. The provision that ensures that anybody convicted of deliberately infringing registered designs can go to prison for 10 years needs careful consideration.
+
+Some stakeholders have stated that such a provision will have a chilling effect on innovation in this country and that, as a result, Britain will lose something of our comparative advantage and competitiveness in creativity and innovation. We should not easily give away that advantage in innovation and design. As a result of that persuasive argument from industry—from Dyson and others—the Government tabled amendments in Committee to tighten the wording of clause 13 to ensure that unintentional infringement is not captured by the new criminal sanctions.
+
+Mr James Gray (North Wiltshire) (Con)
+rose—
+
+Mr Wright
+Given that the hon. Gentleman and I have discussed the involvement of Dyson, I am happy to give way to him.
+
+Mr Gray
+I am grateful to the hon. Gentleman for mentioning that outstanding company in my constituency. Dyson now employs some 1,500 designers and does groundbreaking design work in Britain. I am also grateful to the hon. Gentleman and the Opposition for agreeing to table the amendment. The word “intentional” should be included in clause 13, but will he explain why amendment 2, which removes insignificant changes from the exemption, makes any sense at all?
+
+Mr Wright
+I will come to that later, if I may. In Committee, Government amendments reworded the clause to ensure that it referred only to designs
+
+“with features that differ only in immaterial details from the design”.
+
+Amendment 3 would remove that wording. Let me explain the purpose of that to the hon. Gentleman. We do not want to set the bar lower than the Government intend, but the current wording will provide more uncertainty and the prospect of further litigation. Is there not a risk that the clause will focus on counterfeits rather than on intentional infringement and copying? Given what the Minister said in Committee, I am pretty sure that that is not what he intends.
+
+I mentioned in Committee the fascinating and informative case of Apple v. Samsung. In the context of that court case, is there not a need to consider the design corpus and the informed user? The test for infringement of community designs is whether the later design produces an overall different impression on the informed user. I believe that that is important and would like the Minister’s view. Why is he not using that wording from community designs legislation?
+
+The Minister might recall that in Committee I quoted the judge in the Apple v. Samsung case, who said:
+
+“When I first saw the Samsung products in this case I was struck by how similar they look to the Apple design when they are resting on a table. They look similar because they both have the same front screen. It stands out. However to the informed user (which at that stage I was not) these screens do not stand out to anything like the same extent. The front view of the Apple design takes its place amongst its kindred prior art.”
+
+Does the Minister accept that his current wording, which emphasises “immaterial designs”, will more than likely be concerned with counterfeits? Why has he not included in the clause the common community wording for infringement of community designs, which asks whether the later design produces an overall different impression on the informed user? That is the purpose of amendments 2 and 3.
+
+Like other proposals, amendment 5 has been debated several times during the Bill’s passage in the other place and the House. It is essentially about consistency and the scope of effectiveness. If the Government believe—it is a big “if”, and opinion is polarised—that intentional infringement of design rights should be subject to a prison sentence of up to 10 years, why should that criminal sanction apply solely to registered designs rather than also to unregistered designs?
+
+As I mentioned in Committee, about 4,000 designs are registered in the UK each year, and about 18,000 to 25,000 unregistered designs are lodged with the Anti Copying in Design database. I also mentioned in Committee a glaring inconsistency in the Government’s position—that is at the heart of the amendment. On the one hand, in Committee in the other place in June, the Minister said:
+
+“SMEs…do not tend to register their designs”.
+
+If so, what are the Government hoping to achieve with that provision? On the other hand, the same Minister said:
+
+“The introduction of criminal sanctions for unregistered rights could lead to a negative effect on business and innovation.”—[Official Report, House of Lords, 13 June 2013; Vol. 745, c. GC395-409.]
+
+If that is the case for unregistered designs, why is it not the case for designs that the innovator has gone to the trouble of registering? I cannot believe that the Government’s position is consistent.
+
+In Committee, the Minister gave a practical example to illustrate his opposition to the amendment by referring to the design of a sofa. Where I come from, we call a “sofa” a “settee”—that is the proper word for that piece of furniture. The Minister said that, if a case about an unregistered design of a settee—or a sofa—were to be brought before a criminal court, it would need to establish whether the right existed and which parts of the design were original. As we discussed in Committee, surely the concept of design corpus would apply not only in the civil court, but also for the higher standards demanded in the criminal court, where the Government are pushing, and to registered designs and unregistered designs.
+
+In Committee, the Minister said:
+
+“We should not forget the ultimate reason for the Bill and the clause. There are small and medium-sized enterprises up and down the country in the design business that are being ripped off. Their designs do not have the protections that they require.”––[Official Report, Intellectual Property Public Bill Committee, 30 January 2014; c. 67.]
+
+However, the vast majority of designs are unregistered, and the Government’s proposals will do nothing to help them. Small firms without resources will still run the risk of being ripped off by larger and unscrupulous businesses. Clause 13 in its original form did not address that, and the Government changes to the clause through the Bill’s passage in this House do not do so either. The Minister must accept that inconsistency, and amendment 5 tries to deal with it.
+
+13:00:00
+
+The Minister will recall that we debated amendment 6 in Committee as a means of clarifying the precise point at which exemption from freedom of information would apply to research. The purpose of this amendment, as it was in Committee, is to seek assurance that the pre-experimental stages of research would also be covered by the clause. In Committee, the Minister explained that the Government were responding to a request from the Justice Committee to give the same specific protection as exists in Scotland although, as I also mentioned in Committee, there is a difference in the wording of the legislation in that the Freedom of Information (Scotland) Act 2002 has the additional word “substantially” included.
+
+In responding to the Justice Committee’s recommendation, the Government said they recognise
+
+“that the adoption of a qualified exemption for research would provide additional clarity and reassurance, both to Higher Education institutions and non-public sector research partners. We accept that despite the wide applicability of existing exemptions, the lack of a dedicated research exemption can at least give the impression that FOIA does not provide adequate protection. On balance, therefore, the Government is minded to amend FOIA to introduce a dedicated exemption, subject to both a prejudice and public interest test, as recommended by the Committee. The Government  shares the Committee’s view that this would constitute a proportionate response to the concerns expressed.”
+
+That is a fair summary.
+
+The Minister also said in Committee that if the Government found any
+
+“genuine problem in the real world and that academics’ lab notes are being obtained under FOI—despite the range of protections that exist in FOI legislation at the moment—that would be something that we would review and consider.”––[Official Report, Intellectual Property Public Bill Committee, 30 January 2014;  c. 77.]
+
+I understand that representatives of the academic research community met officials from the Ministry of Justice and the Department for Business, Innovation and Skills on 4 March to discuss this matter. There remains some doubt whether the wording on the face of the Bill provides exemptions for information created during the planning phase of a research programme.
+
+Given that context and the meeting on 4 March, will the Minister confirm that if information that is created in the planning phase of a research programme is intended for future publication—and, if it found its way into the hands of competitors, would prejudice the research programme or the research institution having an interest in the programme—such information is covered under FOI and clause 20 of the Bill? The purpose of this amendment is for the Minister to provide that clarity.
+
+Would the Minister also respond again to the point that I made in Committee—why is the wording of the Scottish FOI legislation, especially the use of the word “substantially” not replicated in this clause? I look forward to the Minister’s response and I hope that he will look favourably on my arguments.
+
+Mike Weatherley
+May I start by paying tribute to all the members of the Bill Committee for an excellent couple of days of deliberations on the clauses? In particular, I pay tribute to the hon. Member for Hartlepool (Mr Wright) for drawing out points for debate without needlessly pushing for votes on each one, and of course to the Minister for reflecting on each point in a highly constructive manner—and not grumpily at all.
+
+There are several areas of concern in the Bill. The first is in relation to education. As a general rule, rights holders have lost the debate with the public generally. Many see creative output as something they should be able to access for free—after all, they have been doing it for years; it is not a tangible product; they probably would not have bought it anyway, so they are only increasing the awareness of performers; and the chances of getting caught are low and there is no penalty. On a positive note, there have been moves by industry to step up the game in terms of education, and we have had some Government-funded schemes such as those produced recently by the Intellectual Property Office. But with the Department for Education ruling out any formal copyright education in schools, we need a co-ordinated approach, led by Government and helped along by industry. In my view, the IPO is best placed to lead the charge on education on IP matters and it was my intention to add a clause to the Bill to formally require the IPO to report annually on what initiatives it had undertaken in the past year. In the end, I have not pushed for that amendment after hearing assurances from the Minister that education on the importance of IP will be at the heart of the IPO’s activities.
+
+My second concern related to the amendments tabled by the hon. Member for Hartlepool, especially in relation to the differences between offline and online crime penalties. Even with this Bill, there remains a worrying message that online crime is considered to be one fifth as serious as offline crime. It may be that the maximum penalty of 10 years for offline crime is too high and is unrealistic, and therefore online crime will never get the same penalty. I hear that argument. However, in Denmark they have recognised this and have a two-level crime, with 18 months maximum for less serious stealing and six years for serious commercial crime. Importantly though, in Denmark the penalty is the same for both online and offline crime. I was particularly pleased that in Committee the Minister accepted that this issue does need to be looked at, even if only to underpin the message that IP crime is equally serious, and has undertaken to review the anomaly and report back. That is a very positive step and I look forward to the results of the review. For that reason, I will not support the hon. Gentleman’s amendment.
+
+My third concern has been less easily satisfied and relates to criminal penalties for copying designs. I welcome the introduction of a criminal penalty for registered designs. While it has always been possible to claim for damages in the civil court, this was expensive, took a great deal of time and, ultimately, did not provide a sufficient deterrent. The threat of criminal proceedings almost certainly will. I also welcome the addition of the word “intentionally”. This may give rise to difficulties in proving intent, but ultimately no one should want to see anyone subject to criminal penalties for not knowing. I appreciate that ignorance is no defence normally in law, but in design it probably should be. Providing someone has undertaken reasonable checks to be sure that someone else has not already produced the idea, criminal sanctions would be a step too far.
+
+The Bill does not include a criminal offence in relation to unregistered designs. I fully understand that all designers should be encouraged to register their designs formally in most instances, and I fully understand that doing checks to ensure no infringement of an unregistered design is more difficult—and in many instances, impossible to check completely. However, given the insertion of the word “intentionally” into the Bill, one has to ask why the penalty cannot be a little harsher and more of a deterrent. As it stands, even if a designer can prove that a copy of an unregistered design was done intentionally, the only recourse the original designer will have in law is once again the civil courts, and that is often just not enough of a deterrent for someone who wishes to take others’ designs as their own. Nevertheless—
+
+Mr Iain Wright
+Oh!
+
+Mike Weatherley
+I am sorry to disappoint the hon. Gentleman. Nevertheless, I do not intend to support his amendment which would harmonise unregistered and registered designs, at this time. The Bill is a step in the right direction and I merely put down the marker that should evidence be provided that the law is failing in this regard, we should come back to this issue and consider it again. I am prepared to see where the legislation as it stands takes us, rather than supporting the amendment  now. All I ask now is that the Minister acknowledges the potential and agrees to return to the point in a future Bill.
+
+The hon. Gentleman should be aware that an IPO conference is coming up in June, which will address some of the IP issues that he was talking about. I will return to the issue on Third Reading, but it is important that the Prime Minister and No. 10 make a clear declaration about intellectual property being a property right. If that is done, it is not necessary to add new clause 1 to the Bill.
+
+Pete Wishart (Perth and North Perthshire) (SNP)
+I am glad to have caught your eye, Mr Speaker, in this not so crowded Chamber. I presume that everybody is paying great attention to the debate on their television screens. It goes to show the lack of interest in intellectual property issues, which disappoints me very much. As I have said before, we need a Minister who is answerable for intellectual property in this House, so that we can raise these very important questions, and so that an IP Minister can respond to these critical debates on this very important issue.
+
+Amendment 1 stands in my name. We have discussed the issue before—on Second Reading and in Committee—and we have had assurances from the Minister, but now is the time for a cast-iron commitment. He knows the anxieties and concerns about this issue, not just from the Law Society of Scotland and the Faculty of Advocates in Edinburgh, but from the whole legal community in Scotland, which remains very concerned that Scotland will lose the right to judge, assess and hear cases to do with patents.
+
+The Minister may have his views about me as a Member of Parliament, but the Faculty of Advocates and the Court of Session in Edinburgh could hardly be described as hotbeds of nationalist militancy. If even the Faculty of Advocates could write to the Minister in such graphic terms about its concerns, surely those concerns should be taken into account and treated seriously. We have heard enough warm words from the Minister; we must now start to hear him express a commitment to Scotland.
+
+It is possible that, after centuries, we will lose the right to consider patent issues in the Scottish courts. Clause 17 makes provision
+
+“to confer…remove… or vary the jurisdiction of a court”
+
+in relation to the new unified patent court, thus effectively allowing the United Kingdom to decide how to approach the whole issue of divisional courts. The UK can have up to three or four of them. Why can it not accept the Court of Session as one of those courts? My amendments would simply ensure that Scotland was once more a jurisdiction with the ability to rule on important patent cases.
+
+We all support the arrival of the new unified patent court. Of course it makes sense for patent hearings to be unified across all the jurisdictions in the European Union, and many of us have argued long and hard to that effect. It will make life so much easier for our inventors, creators and artists. However, it cannot come at a price for Scotland’s legal establishment. For Scotland, with its history of invention and creation, to be denied the ability to consider the issue of patents is—patently—absurd. For decades, if not centuries, the Court of  Session in Edinburgh has had the power to consider patent issues in Scotland. We have built up experience and skills that may be lost if we are denied access to a divisional court.
+
+Scotland has a distinct legal establishment. For the last 300 years, as members of the United Kingdom, we have been able to keep our own Scots law when it comes to matters such as this, and people have acquired the necessary experience of that law—and, of course, we in Scotland have a history and culture of creativity that goes back for centuries. As you know, Mr Speaker, Scotland practically invented the modern world: everything from tarmacadam to television was invented by Scotsmen, and today we are still achieving things through our biotechnologies and biosciences. There has been Dolly the sheep, for instance, and—I recall that the Minister rebuked me when I mentioned this in Committee—our contribution to the Higgs boson. Scotland has a culture of being able to invent and create, and we must be allowed to consider issues relating to that culture in our own courts.
+
+Yesterday, in advance of today’s debate, a programme on BBC Scotland showed some of our fantastic new creators and inventors, who are coming up with wonderful new products. They were discussing the importance of allowing these matters to be considered in Scotland. Our Scots law is a totem, an important centre. Some fantastic examples were shown during that BBC Scotland programme—and, I should add, there were some particularly good comments from me. The programme demonstrated the degree of interest in these issues that exists in Scotland, as indeed it should, because the creative industries are important to Scotland. Indeed, they are probably more important to Scotland than they are to the rest of the United Kingdom: we invest more in them, and they play a dynamic and important role in the overall Scottish economy.
+
+Our history of invention and creation makes it plain that Scotland is more than adequately equipped to be a successful independent nation. We know that we could be one of the wealthiest nations in the world because of the resources and skill of our people. If we were independent, this would not be an issue, because, as a member state of the European Union, we would be allowed direct access to the unified patent court. There is an especially important reason why that should happen. It is important to the legal establishment, and it is important to all the individuals who are involved in business. Why should Scottish business men have to bear the extra costs of going to a different jurisdiction to have their day in court and secure justice in relation to important patent issues? We have some incredible new industries in Scotland, not least in the renewable sector and particularly in oil and gas. Our businesses, including small and medium-sized enterprises, need to be able to come to Edinburgh for this purpose. Not being able to do so is an inconvenience that small businesses in Scotland can ill afford.
+
+This is in the Government’s gift. All the Minister need do is say “Yes, the court in Edinburgh will be one of the divisional courts.” London, of course, will have one of the central divisional courts, as will Paris and Munich. As I said in Committee, all that we need is New York: then we could have “Pop Muzik” by M. So London will be looked after, but what about the other capitals in the United Kingdom? We are always being  told that Scotland has a part to play in the UK—indeed, that is what the debate that we shall continue to have over the next few months is all about—so why has it been overlooked?
+
+13:15:00
+
+I shall tell the House why I think Scotland has been overlooked. My view—and perhaps the Minister will be able to confirm it—is that the Government simply did not think about it. As so often when it comes to issues to do with Scotland on their watch, they did not really consider it. Now they have been told about it, and they are saying “This must be addressed, because it is clearly a bit of an issue.” The Minister needs to say that this will be resolved, and to give a cast-iron commitment and guarantee that the Court of Session in Edinburgh will be one of the UK’s permitted divisional courts. If he were to do that, he would be a hero of the Scottish legal establishment. He would be carried through the streets of Edinburgh by the Faculty of Advocates. He would be celebrated. Moreover, he would be doing his bit for the Union. After all, the denial to Scotland of a divisional court could become an issue in the referendum. The Minister now has an opportunity to put that right, and I very much hope that he will be able to do so.
+
+This issue could be resolved very easily. It is in the Government’s gift. The Minister knows our concerns: he has heard them again and again. This is one issue that has united Scotland’s entire legal establishment. I say to the Minister “Just resolve it, for goodness’ sake. It is in your gift, and you could do it very easily.”
+
+I support new clause 1, and if the hon. Member for Hartlepool (Mr Wright) seeks to divide the House, I shall continue to support it. I am afraid that I missed the debate on this important new clause in Committee, and I apologise to the hon. Gentleman for not being present then. Such are the limited resources among the personnel of the Scottish National party that, unfortunately, I had to exercise my responsibilities for home affairs in relation to the Immigration Bill, but I am grateful to him for returning the new clause to us.
+
+The issue of copyright exceptions is proving to be the most controversial aspect of the Hargreaves process, and it has caused real angst and concern among members of our creative community. They are the people—the stakeholders, or rights-holders—who come to see the Minister regularly. They are the people who work day in, day out to ensure that the United Kingdom remains in the top five of every creative, artistic and inventive discipline in the world, whether that is music, films, television or design. We cannot mess about with that; we must ensure that we get it right.
+
+The people who come and speak to the Minister about these issues know their business, because they are involved in it day in, day out, bringing billions of pounds’ worth of economic activity to the United Kingdom. The Government must start to listen to them. They have been accused of “lobbynomics”, but not by the Minister; indeed, I have never heard any member of the Government use the term. I believe that it was used by Ian Hargreaves while he was conducting his review. I know that the Minister, members of his Department and representatives of the Intellectual Property Office frequently meet the stakeholders, consult them, discuss the issues with them, and take on board what they say, but they do not actually listen to them. We may have  consultation fatigue, but we certainly have no fatigue when it comes to trying to put the case to the Government and trying to ensure that they listen.
+
+Why does the issue of copyright exceptions cause so much grief to those who work so hard to ensure that our creative industries continue to be world-class? The answer is quite simple. The more exceptions there are to our copyright legislation, the more difficult it is to protect our creators, artists and inventors. They are the primary drivers of all the cogs and wheels of our creative economy, and they must be central to any discussion of that economy. Copyright protection is one of the things they can rely on to make sure that they continue to innovate, take risks and produce wonderful works that we uniquely are able to produce right across these islands.
+
+Those who argue for copyright exceptions continually suggest and assert that copyright is restrictive—that it somehow stifles creativity and is effectively a barrier to growth. That is what we continually hear from Ministers of whatever party, but nothing could be further from the truth. I just wish that some day we would have a Minister who will come to the Dispatch Box and tell us what a wonderful thing copyright is, and what a contribution it makes to the well-being of our artists, inventors and creators. I have never heard that in my 13 years in the House, and I am sure that most other Members have not heard it either.
+
+Copyright is not a barrier to economic growth and development and support for our artists. It enables that. We are successful in this country and we have such success in our creative industries not despite copyright, but because of copyright. It would be really good to hear about the contribution and value that copyright brings to our creative industries and how it enables and supports our artists, creators and inventors.
+
+I believe that this Government still see copyright as a barrier to growth. I believe that because of the way all this started. It started with the Googlesburg address from the Prime Minister, when he told us he could never foresee the arrival of a Google in the United Kingdom because our IP laws and copyright framework would restrict its emergence. The very process we are debating and concluding today, possibly along with the whole Hargreaves process, started with the assumption that somehow copyright is a barrier—that it is restrictive and gets in the way of economic development and growth. The whole of the Hargreaves process was predicated on that assumption, and as a result we are today looking at these particular exceptions and dealing with them in this way. The Government are again putting forward the idea that exceptions are required because they see copyright as a restrictive practice.
+
+That is so unimaginative. It is the language of the last decade. That battle has been fought and won. It was the battle of the Digital Economy Act 2010. We have moved on since then. The world view of copyright and supporting our artists has changed dramatically, yet we are still fighting the battles of the past. We are talking about intellectual property here, so let us be intelligent and creative; let us start to look at things differently. Let us stop going through the tired old prospectuses. Let us start looking at copyright as an enabler—at how we best support our artists, creators and inventors. This is a new world. We have moved on since the Digital Economy Act. We are in the world of complete digitisation and of e-commerce—of ensuring we can monetise people’s  works and efforts online. We have not done that with this measure. We have lost this opportunity because we have focused so much on copyright exceptions, inspired by the IPO, and taken forward by Ministers. It is such a dreary and unimaginative way to progress with such an important issue.
+
+If this Government are re-elected next year, let us try to do this differently. Let us try to be creative about how we take this forward. I cannot see that happening, however, because I still very much believe that in the heads of this Government’s Members, just as in those of previous Government Members, there is a difficulty and an issue with copyright that must be rectified and challenged to ensure that it is not going to be restrictive.
+
+We are going to have these particular statutory instruments, therefore, and the hon. Member for Hartlepool is absolutely right that we have no idea what is being taken forward. This is all still with parliamentary counsel and we do not know when we are going to see these SIs or how many there will be. Will there be one? Will there be several, and if so will they be put together? This debate goes all the way back to the Enterprise and Regulatory Reform Bill and we are still no clearer on how this is going to be taken forward. It would be totally unacceptable if these SIs were to be bundled together into one.
+
+The creative industries have concerns about some of the economic impact assessments that have been done, and there are concerns about compliance with European law in respect of some of the technical details of these exceptions. The parody issue is particularly important. Some of the economic impact assessments done by the IPO were totally bizarre and hardly worth the paper they were written on. For instance, the exception for parody is said to be worth £600,000. That figure was arrived at by taking the total value of the global entertainment market, which the IPO reckoned was about $2 trillion, and then it estimated that with the parody exception the UK share of that market would be up to 0.05%, which translates to something like £650 million in growth. What a fantastic way to look at these things.
+
+On private copying, the IPO said in its economic impact assessment that if a private copy exception were in place by 2020 it would bring £2 billion into the UK economy. That extraordinary figure was arrived at by assuming that all sorts of UK technology firms that otherwise would be restrained and held back would be bursting to come through with new ideas and new pieces of hardware. The contention is that the iPod could possibly have been invented in that period. That is how these economic impact assessments are worked out. That is why we must be able to consider all these SIs differently. We must be able to look at them so that we can challenge some of the figures and ask the Minister again and again about the detail and how we move forward.
+
+I support the amendment which asks for this to be done in the context of the Government’s view about how to move forward in respect of intellectual property. I would like to hear about that. I would like us to move forward with renewed vigour and with imagination and creativity.
+
+I also support the other amendments of the hon. Member for Hartlepool. I will start with the Scottish one. We have no issues at all in academia in Scotland.  Things work perfectly well for us in terms of freedom of information. I hope that this will be pursued and I think it can be brought forward.
+
+A case can be made for both registered designs and unregistered designs. That is where we find most of the business. We have seen the assets database and we know this can be done.
+
+This has been an interesting debate. We now move forward to considering these SIs. I sincerely hope that they will not be bundled together and that we have the opportunity to consider them properly and vote on them separately.
+
+Mr Willetts
+I am grateful for the opportunity to respond on the amendments and new clauses proposed by the hon. Members for Hartlepool (Mr Wright) and for Perth and North Perthshire (Pete Wishart), and to respond to the important contribution by my hon. Friend the Member for Hove (Mike Weatherley).
+
+Amendment 6 relates to the Freedom of Information Act. The new exemption in clause 20 should give substantial reassurance to the academic community that important research and related information obtained or derived from ongoing research programmes will receive appropriate protection under the FOI Act. Indeed, in the spirit of respect for Scotland, which the hon. Member for Perth and North Perthshire called for, we are implementing the so-called Scottish exemption. The provision already applies in Scotland and we are applying it to the rest of the UK. That is what we were asked to do and we are doing it.
+
+However, I understand that there are still some concerns about whether the Act provides effective protection in relation to premature release of information created during the planning stages of research programmes—for example, information contained in grant applications, plans and licences. The Government recognise the significant value that material may have to researchers and institutions. I want to place on the record why we believe the Act is capable of protecting such material.
+
+Section 22 of the FOI Act allows any material to be withheld if it is held with a view to future publication and it is reasonable and in the public interest to withhold it. That means that research material intended for future publication can already be protected. Also, clause 20 builds on the protection offered by section 22 by providing specific protection for material that is part of a research programme whose results are intended for publication. But the protection it offers is not just for the results; it extends to any information that is obtained in the course of, or is derived from, a research programme.
+
+13:30:00
+
+In addition to the provisions in clause 20 and section 22, the Freedom of Information Act already provides a range of other exemptions that may be used to protect research. For example, section 43 allows material to be withheld where it would prejudice the commercial interests of any person to release it, and where it would be in the public interest to do so. For example, that exemption allows valuable intellectual property to be protected, where appropriate. It might also extend to cases in which the premature release of research plans would inhibit a university from entering into partnerships with commercial partners for the purpose of pursuing research or creating future intellectual property.
+
+In addition, section 36 of the Act protects material whose release would, or would be likely to, prejudice the effective conduct of public affairs. That exemption does not refer to universities or research specifically, but universities and the research they undertake play a hugely important role in public life. Where the release of research material at an early stage would undermine a university’s ability to establish research programmes, and thus to do the job the public expect of it, that exemption might be highly relevant.
+
+Clause 20 also provides parity with Scottish public authorities already protected by section 27(2) of the Freedom of Information (Scotland) Act 2002. Such is our respect for Scottish wisdom and experience that we have spoken to the Information Commissioner in Scotland and the Scottish Government about these matters, and they consider that the Scottish legislation is effective in protecting pre-publication research information. I hope that that will assure Members on both sides of the House. We will keep this matter under review, and if there is evidence that further action is necessary, the Government will give it careful consideration.
+
+I will now respond to the hon. Member for Hartlepool’s amendments to clause 13. They would have a rather peculiar double effect. He wants to extend the criminal sanction to unregistered design, but his amendments would also narrow the circumstances in which the sanction would apply. We debated the question of unregistered design at length in Committee. The Government do not believe that unregistered design rights should be subject to criminal sanctions, because the risks involved would be too great.
+
+I can assure the House—and my hon. Friend the Member for Hove in particular—that if it were practical to introduce this measure, and if it would not have a stifling effect on innovation, the Government would see a case for extending criminal sanctions to the unregistered design right. However, our concern is that it would not be practical to do so, and that it would stifle innovation. That is because unregistered design rights are much harder to become aware of and to track than registered design rights. That does not mean that we do not understand the value to designers of unregistered designs, and there are other ways in which the Government can support UK designers with unregistered designs. We are working with relevant bodies, including A©ID—Anti Copying in Design—to establish the best way to do that.
+
+Unlike the hon. Member for Hartlepool, we believe that there are clear reasons for having criminal sanctions for registered designs and not having them for unregistered designs. Registered designs are logged on an official, easily accessible Government register, which shows the protected design, the owner and other key information. Unregistered design right protection can apply to the whole design, or to separate elements of that design. Those could belong to different people and have different time scales left to run on their protection. That could create uncertainty over whether a design could be used as the basis for legitimate activity.
+
+Mr Iain Wright
+We discussed this matter in Committee. Does the Minister think that, as a result of the implementation of clause 13, the ratio of registered   designs to unregistered designs would change? In a nutshell, does he think that more people would register their designs as a result of clause 13?
+
+Mr Willetts
+It is hard to give an estimate on that. I believe that the hon. Gentleman has underestimated the significance of registered designs. He suggested that their scope was quite narrow in comparison with unregistered designs. Let me give him the figures. There are already a large number of registered designs in existence. The UK’s and EU’s publicly accessible registers hold about 728,000 design registrations that are in force in the UK. That is a substantial number. I do not want to try to forecast whether it will become even greater, but we are extending criminal sanctions to cover those 728,000 design registrations. That is a significant step towards protecting our design community.
+
+It would be difficult to extend those sanctions further to include unregistered designs, given the uncertainties involved, but let me assure my hon. Friend the Member for Hove that we will evaluate the effects of this legislation. Following its conclusion, a suitable framework will be developed to evaluate its measures, including the criminal sanctions for copying a registered design. The evaluation will include an assessment of the effectiveness of this measure, and we will keep an eye on whether further changes need to be made to its operation and scope, and whether there might ever be a case for including unregistered design rights.
+
+Mr Wright
+It will obviously take some time for the system to bed in. Can the Minister give us a time scale? When will the evaluation take place and how long will it last?
+
+Mr Willetts
+I do not want to give a time scale. The hon. Gentleman has already referred to one that I gave upstairs that has come back to haunt me, so I am wary of offering him any more time scales when faced with his blandishments. All I can say is that it will take time for the new system to take effect, and we will need to monitor it. We will undertake to do that.
+
+I will now move on to the hon. Gentleman’s amendments 2 and 3. Having sought to broaden the criminal sanctions to cover unregistered designs, he is seeking in the same group of amendments to narrow the scope by effectively restricting the sanction to exact copying only. That would be the effect of amendments 2 and 3. That would go too far in narrowing the scope of the provision.
+
+I remind the House that the clause was introduced to assist designers who told us of the problems they had in dealing with copyists who set out to copy their designs intentionally and blatantly. That is what we are tackling in this important legislation. They believed that such copyists were skilled at playing the legal system and counted on smaller businesses running out of time and money to pursue them. They told us—as I am sure they told my hon. Friend the Member for Hove and others—that the issue was not restricted to exact copying. Copyists are clever enough not to implicate themselves in that crude way; the issue often involves tweaking an existing design. The sanction protects against that by referring not only to exact copying but to the copying of
+
+“designs which differ only in immaterial details”.
+
+The amendments would in effect restrict the penalties for copying to exact and counterfeit copies only. The sanction would therefore fail to address the very problem the designers have told us about.
+
+The combined effect of the amendments would be to create greater uncertainty by extending criminal penalties to unregistered designs, and to fail to tackle a genuine grievance by narrowing the provision to cover only exact copying. We are tackling that grievance in the Bill. I hope that, in the light of my comments, the hon. Gentleman will not press his amendments.
+
+Let me now turn to the hon. Member for Perth and North Perthshire. I always enjoy his speeches, in which he proudly talks of the contribution of Scotland, not only to the UK but to nothing less than world history. He is absolutely right about that. For me, the Scottish enlightenment is one of the great events in the history of ideas, and I always enjoy hearing celebration of it.
+
+I understand the principle behind the hon. Gentleman’s amendment and the importance of the issue to legal services and innovative businesses in Scotland. We have been working closely with the court services in Scotland and in Northern Ireland, as well as with Her Majesty’s Courts and Tribunals Service in England and Wales, so that we can take account of their views. Let me make it clear to him again: the Government will look favourably at any proposal to site a local division wherever there is a business need, and a local division can be located in Scotland should there be enough cases to support one. I said on Second Reading that it was very possible that there could be one in Scotland, and I stand by that.
+
+I assure the hon. Gentleman that the Government will consult with the devolved Administrations in Scotland and Northern Ireland and with the court services in those jurisdictions. It is not necessary to legislate to ensure that the consultation and co-operation will happen, because we are already doing it. It is also not necessary to legislate nationally in order to set up a local division, because the process for doing so is purely administrative. That process is set out in the unified patent court agreement. We will be following it with consultation.
+
+Pete Wishart
+I am reassured by what the Minister has said. He has been consistent in his responses on the issue. Let me try to put it in another way. Does he foresee any reason why the Court of Session in Edinburgh could not acquire one of the divisional courts of the unified patent court?
+
+Mr Willetts
+The only reason I can imagine for that not happening is if there were a conspicuous lack of demand for the services of a local division. That is the issue: if there is no demand for it, there is no point setting it up. The hon. Gentleman, however, assures us and we are hearing a lot of people say that there is a demand for it. We are saying that, if there is a demand, it is likely to go ahead, but we do not need to legislate for what is an administrative process to set something up in response to demand. If demand is substantial, it will happen. I hope that I have made our position clear.
+
+New clause 1 was tabled by the hon. Member for Hartlepool. On this, he is in a bit of a muddle. We have set out our plans on copyright exemptions, following the Hargreaves review. Some hon. Members may recall the large volume of reports and consultation exercises that I wielded in Committee. We have had an enormous amount of consultation and engagement with stakeholders  on the planned copyright changes. We do not need a new clause such as this to provide for yet more consultation and consideration. We are grateful to all those who have responded to the various consultations and we have continued to engage with stakeholders since the timetable for the last review came to an end. We have made a number of technical changes following the helpful input of stakeholders, and we consider that the regulations have been improved as a result. They will be different in the light of the valuable consultation process.
+
+The hon. Gentleman read out at great length my response to a parliamentary written question last week— I do not think there are any copyright exemption issues in quoting at such length from parliamentary answers—in which I said that the draft statutory instruments are now being finalised, and we anticipate that they will be laid before Parliament
+
+“as soon as this process is complete.”—[Official Report, 6 March 2014; Vol. 576, c. 945W.]
+
+I will go a tiny bit further for the hon. Gentleman and say that probably, and I very much hope that, they will be laid next week.
+
+I fully recognise that laying the draft statutory instruments next week, if we are able to do so, still means that this process will have taken longer than we forecast and expected. That is a source of great frustration, but we are dealing with parliamentary draftsmen, and they need time to sharpen their quill pens, to get the right parchment out and to prepare their processes. Nevertheless, we will be laying the draft statutory instruments very soon indeed.
+
+13:45:00
+
+I am not yet in a position to confirm the exact structure of the draft instruments, but—as I undertook upstairs, in Committee—I listened to concerns about bundling and expect to be able to lay a number of statutory instruments. I reiterate my commitment to write to hon. Members on the matter as soon as possible. What I said in Committee about unbundling wherever possible was simply so as to ensure that debate could happen in separate, coherent units. It might be the case that one or two have to be taken together, but we understand the crucial point, that each substantial area should have its distinctive debate. That is what we will try to secure.
+
+The measures included in the copyright exemption package will benefit innovation, competition, research and education and will increase respect for copyright law. The sooner we can bring the measures into force, the sooner the benefits will start to be realised. The hon. Member for Hartlepool, however, is now calling for a further delay in the process—that would be the effect of his new clause—but we do not need further delay. The Labour Government tried to tackle the problem; as we had the Hargreaves report, so his Government had the Gowers review. The difference is that after Gowers, they were not able to make any progress and they did not bring legislation before the House. I believe that they broadly accepted Gowers, which was not dissimilar to Hargreaves, but we are making far more progress in getting on and implementing measures in this important area than the Labour Government did.
+
+Pete Wishart
+The Minister simply cannot get away with that. I am not leaping to the defence of the hon. Member for Hartlepool (Mr Wright), which I am sure  he can do for himself, but the Labour Government did bring in the Digital Economy Act 2010, which the Conservative party said it would support and implement. Whatever happened to that?
+
+Mr Willetts
+We are talking about the copyright exemptions covered in new clause 1. Let me be absolutely clear that, by comparison with any previous Government, we are now moving on to implementation. I have said to the House that we will be aiming to lay the draft statutory instruments before Parliament soon.
+
+Mr Iain Wright
+When I was discussing new clause 1, I asked about the commencement date. Given the imminent and fast-moving laying of the draft regulations, does the Minister anticipate that the commencement date will be 1 April?
+
+Mr Willetts
+I have the experienced and wise Leader of the House beside me on the Front Bench, and I think that things are reaching the stage where, arithmetically, once we remove the weeks in which the House is not sitting, it will be hard to have the commencement date as 1 April. We recognise that it might be some time shortly after 1 April. That will depend on how the timetable pushes out.
+
+A paradox in the position of the hon. Member for Hartlepool is that we are here getting on with something that the Labour Government were not able to implement, but he is standing up to say that it is taking us too long, while bringing before the House a new clause that would make things take even longer. We do not need any more delay, we want to get on with it and we are trying to get on with it. The only effect of his new clause would be to bring the process to a grinding halt so that he can have yet another review, when the last thing we need is more reviews. I hope that in the light of that he will withdraw the new clause and not press his other amendments.
+
+Mr Wright
+It has been an interesting debate on this group of amendments. I thank all right hon. and hon. Members for taking part.
+
+The Minister started with amendment 6. He said, rightly, that the Government are implementing the Scottish exemption. The whole purpose is to provide as much reassurance as possible that, despite any premature disclosure, research plans are protected under freedom of information. I am not entirely certain that he has provided that to the satisfaction of the research community, but this is something that we will need to look at.
+
+The Minister went on to talk about clause 13, and I still maintain that there is a huge inconsistency between the approaches on the infringement of registered design rights and on the infringement of unregistered design rights. Looking at the body language and the eyes of the hon. Member for Hove (Mike Weatherley), I would say that he thinks that too. I cannot understand why having criminal sanctions in respect of unregistered design rights would have a chilling effect on innovation but such sanctions in respect of registered design rights would not. Surely the position is inconsistent. My other concern is that this is hindering and penalising micro-businesses and small businesses. Registering a design is a huge cost to business. The cost of registering a single design or the first design in a multiple application with  the Intellectual Property Office can be £60. For every additional design in a multiple application the cost can be £40. That cost and the time scale can be particularly prohibitive to design businesses, which is perhaps why we see only a relatively small proportion of designs being registered.
+
+The Minister may recall that in Committee I mentioned the different lengths of protection. Although registered design rights provide 25 years of protection compared with the 10 to 15 years of protection provided by unregistered design rights, registered design rights need to be renewed every five years. The cost of re-registering a design increases on a sliding scale by about an additional £100 each time, up to a cost of £450. So on a five-yearly basis the cost of re-registering a design for small businesses and micro-businesses could be in excess of £1,000. That seems to be penalising small businesses and micro-businesses, and inhibiting innovation as much as possible. That is not what we should be doing. I maintain that the costs of employing and commissioning a lawyer to deal with this process are prohibitive now and will be in the future. All this is costing designers a fortune and I am not convinced that the Minister has a consistent position.
+
+The Minister finished by discussing new clause 1 and saying that I am in a bit of a muddle on it. If I am in a bit of a muddle, most experienced stakeholders in the copyright business are, too. The Government have floundered. They have taken far too long, floundering in the dark. They are not providing the certainty and long-term vision that is so important to the future of the UK economy—it needs that. We need to show our lack of appreciation for what the Government are doing. He has not been able to provide any real certainties. We may have the measures in a couple of days or we may have them in a couple of months, but there does not seem to be any great co-ordination and certainty. We are also still in the dark on the issue of bundling. It is not good enough for him to take more than two years on this and I want to show my dissatisfaction by testing the opinion of the House on new clause 1, although I will not press the other amendments.
+
+Question put, That the clause be read a Second time.
+
+Division 231
+12/03/2014 13:53:00
+The House divided:
+Ayes: 209
+Noes: 254
+Question accordingly negatived.
+
+Third reading
+
+Queen’s consent signified.
+
+14:05:00
+
+Mr Willetts
+I beg to move, That the Bill be now read the Third time.
+
+I start by giving thanks to all those who served on the Committee and spoke on Report. I thank the hon. Member for Hartlepool (Mr Wright) for his lively scrutiny of the Bill and I congratulate my hon. Friend the Member for Hove (Mike Weatherley) on his close and constructive engagement with the Bill.
+
+The UK is in a strong position. As recently as January this year, the US Chamber of Commerce ranked our IP framework as second only to that of the US, and our IP enforcement as the best in the world. We are now maintaining and improving that global position. According to the most recent United Kingdom trade and industry business barriers survey, one in four British businesses had been put off doing business abroad because of the risk of IP theft. That is why we are working with businesses to improve their understanding of IP protection and providing specialist IP attachés for overseas markets.
+
+In the course of our debates, several Members have spoken specifically about China. On the basis of my recent visits to China, I can assure the House that we are noticing a significant change in China’s attitude towards IP. It is putting resources behind enforcement and we are engaging closely with it. Most recently, the Intellectual Property Office and City of London Police met senior Chinese police and customs officers and contributed to an Interpol training programme for 400 Chinese police managers.
+
+At home, we have been equally tough on tackling IP crime, and £2.5 million has been invested in the police IP crime unit, which has made 17 arrests since its launch in September and helped to suspend 690 worldwide websites that were selling counterfeit merchandise online. The new crime unit is also leading on a ground-breaking initiative in collaboration with the creative and advertising industries to target infringing websites offering illegal downloads of music, films and books, and to disrupt the advertising revenue on such sites. We are also making it easier, quicker and cheaper for businesses to resolve their IP disputes.
+
+My hon. Friend the Member for Hove and others have asked how we will ensure that businesses are educated appropriately about the changes that the Bill will introduce. We will be taking action in a number of ways to educate business. We will be building on existing guidance and we will incorporate education about the changes into our wide-ranging outreach programmes. We will be working with key organisations, such as Anti Copying in Design, to ensure that businesses are clear about what the new law means for them. But our focus will not just be on business. To raise awareness about the new criminal offence brought forward in the Bill, the Government will provide training for trading standards officers and engage in other measures.
+
+The Bill has been broadly welcomed by industry and by Members of this House and the other place. It will offer real support to Britain’s 350,000 designers, which is long overdue. The design measures in the Bill will improve the legal framework for both small designers and large businesses. The introduction of a criminal sanction for the intentional copying of a registered design in the course of business has sparked the most debate in this House and the other place. Opinion remains divided on whether a criminal sanction for design copying is necessary, but I believe that the right balance has been drawn and I look forward to seeing how the sanction has deterred criminal activity from taking place.
+
+Let me be absolutely clear. We believe that a culture of copying in design is not acceptable in this country. However, we have listened to concerns that the wording of the criminal sanction is not clearly enough defined. Amendments were made in Committee that were welcomed by industry organisations the Chartered Institute of Patent Attorneys, the Institute of Trade Mark Attorneys and the IP Federation. The Bill that we are sending back for the other place to consider has been further improved.
+
+Other changes to the designs legal framework made in the Bill have been widely welcomed. They include clarifying who owns a design and removing inconsistencies between EU and UK systems. Clarifying the IP landscape increases certainty for industry and makes it easier to use IP in the course of business. That aim is also carried through into the patent changes, such as marking products with an internet link and increased work sharing arrangements with overseas patent offices.
+
+In 2013 the total number of UK patents processed surpassed 2.5 million. Our numerous UK patent holders have benefited from the very successful patent opinions service, and the Bill provides a logical and useful extension of that service. The proposal to allow the Intellectual Property Office to initiate revocation proceedings has been welcomed by patent holders, with one SME stating:
+
+“It makes absolute sense that revocation proceedings should be able to be started by the IPO....as clearly SMEs cannot afford the high legal costs to challenge patent validity.”
+
+That is just one of the many ways in which the Bill will help SMEs.
+
+Finally, I wish to touch on the Freedom of Information Act exemption, which led to some debate in Committee and on Report. The exemption provides the appropriate parity with Scottish legislation, and I am certain that the Ministry of Justice will wish to review how it operates in practice.
+
+The Bill is not an attempt to solve every IP issue; it is part of a wider programme. Nevertheless, every measure in it is practical and desirable and reflects the views of our designers and creators. I very much hope that the House will support its Third Reading.
+
+14:12:00
+
+Mr Iain Wright
+As I said during my opening remarks on Second Reading, intellectual property matters and its importance is growing in the world of the 21st century. Britain will retain and extend its comparative advantage and ultimately create wealth, prosperity and rising living standards for all in this country, not by undermining employee rights, sacrificing the security of  those in work and racing to the bottom, but by commercially applying our research, innovation, creativity and design skills. That requires a robust legal framework to ensure that people’s creative efforts, whether in music, film, broadcasting, video games or high-value manufacturing, are not stolen.
+
+On Second Reading, I quoted the recent report of the Select Committee on Culture, Media and Sport on the creative industries. It is worth quoting again:
+
+“Given the importance of the creative sector to the UK economy and the relative importance to that sector of strong IP protection, strongly enforced, the Government must do more to protect and promote UK IP as a system for growth.”
+
+That is what we have tried to bring about during our deliberations. On a number of occasions in Committee, the Minister and I mentioned the recent Global Intellectual Property Index, produced last year by Taylor Wessing, in which the UK was placed at No. 1 in the world for IP. It should be the objective of the Bill and of IP policy that this country should retain that No. 1 spot in the face of fierce competition around the world.
+
+The desire to remain the best in the world drove the Opposition to question, challenge and scrutinise the Minister throughout the passage of the Bill. We do not want to see a chilling effect on innovation in this country—a concern raised by some senior industrialists—and the introduction of criminal sanctions for up to 10 years for infringing registered design rights needed to be considered extremely carefully. I hope that we have done that.
+
+There remains a concern. Last month, the Institute for Public Policy Research said in “March of the modern makers”, its excellent report on the creative industries:
+
+“Overall, government policy both on…promoting value in intellectual property and on protecting intellectual property from theft has unravelled somewhat.”
+
+The IPPR highlighted the fact that
+
+“Enforcement measures are delayed, proposals for new copyright exceptions are being brought before Parliament with unproven benefits and potential risks, and new systems for better access to copyright material have not yet been given a chance to prove their value.”
+
+There remains a risk that the UK will slip down the global rankings for IP faster than a music track slips down the download charts—
+
+Stephen Pound (Ealing North) (Lab)
+Very good!
+
+Mr Wright
+Thank you; I thought long and hard about that. It is copyrighted.
+
+The risk I mentioned will remain if the Government continue to provide such an unravelling policy with uncertainty, delay and lack of enforcement.
+
+I thank hon. Members for contributing during the Bill’s different stages, particularly in Committee. I am delighted to see in their places the hon. Members for Hove (Mike Weatherley) and for Perth and North Perthshire (Pete Wishart), who made excellent contributions. I would like to think that the deliberations were good natured throughout. I thank the Minister, who was never less than polite—if occasionally grumpy.
+
+Mr Willetts
+Never!
+
+Mr Wright
+He knows it is true. I also thank the Minister’s officials.
+
+In many ways, the Bill is brief and flimsy. However, like the issue of IP itself, it is important and often overlooked. We will continue to hold the Government to account, to ensure that we retain the No. 1 spot in something that gives us a significant comparative advantage in the modern economy, now and in the future.
+
+14:16:00
+
+Mike Weatherley
+The Bill is excellent as a step in the right direction. At times, back in 2010 and 2011, it felt as if the juggernaut that is intellectual property rights was heading towards dilution as the norm. However, I feel that the brakes have been applied recently and that the mood in both Parliament and elsewhere is now changing.
+
+We have an excellent IP Minister in Viscount Younger, and I found John Alty and others at the Intellectual Property Office to be very accommodating and helpful. However, given that the Bill is the main legislation on intellectual property over a full Parliament, it is important to mention some of the items that have not been included but should definitely be considered.
+
+The first is education. Government and industry must work together to inform the public better about the fact that IP is important to every single one of us. Is it too much of a stretch to say that our NHS depends on our protecting IP for our creative industries? I do not think so. Without the £71.4 billion added gross value that we generate from our creators, which includes £15.5 billion from overseas earnings, we would need to borrow or raise taxes elsewhere. Those are not attractive options.
+
+As a country, we should thank the creative industries for being such an important contributor to our economy. I welcome all Government measures to support the industry, and protecting IP is one measure of support. I have challenged the IPO to provide details of 100 forums a year that we need to be at to promote IP. Industry has committed to find representatives to go to those forums. That, and other measures, need to be carried out.
+
+The second item not included in the Bill is what I refer to as “follow the money”. If we can stop sites that host illegal material advertising and, additionally, find a way to stop payments being made for illegal material via Mastercard, Visa, PayPal and other forms of payment, we can take away the main reason why many of those sites exist. I recently met representatives of the police intellectual property crime unit and others on that very point. Following a very useful discussion, I hope we can produce a report with suggestions in the next month or two. I thank Steve Head, the commander of PIPCU, and his team for their excellent work and support. I have also just met Google representatives to discuss the same point.
+
+All that brings me to search engines generally. We often forget that it is not the search engines that create or consume illegal content. I am aware of a band that recently released a CD that was on 20 Russian torrent sites within an hour—it did not appear on Google rankings until some hours later. The CD was not on those Russian torrent sites because it was on Google; it was there because the Russian sites were monitoring what was on iTunes. I am currently working with Google on some suggestions and I have promised the Secretary  of State for Business, Innovation and Skills a report on the matter shortly. I thank the law firm Olswang for its assistance.
+
+There is one other point in the IP chain that needs to be mentioned—internet service providers. Like search engines, they are not the persons creating or using illegal content, but their lines are transporting the activity. They do not need to be the policeman, but they can be part of the solution. Whether that is via a levy on users to fund education enforcement or whether it is making the ISPs accountable for illegal activity is something to be debated. None the less, I am sure that they need to be part of the solution.
+
+A worrying footnote is that I am told that the voluntary copyright alert programme—VCAP—proposals cannot be implemented for at least a year once an agreement has been found on the other technicalities that we are going through at the moment. I must say that that feels more like prevarication than determination to implement, but I am not a technical expert, so I cannot comment on that further, but I would welcome others doing so.
+
+The industry has made it clear to me that it feels that a US-type IP tsar or director-general would be useful in co-ordinating Departments and industry and delivering IP-related initiatives.
+
+Mr Iain Wright
+It should be you.
+
+Mike Weatherley
+I thank the hon. Gentleman for that suggestion. I would like to see the Government at least look at the idea. I appreciate that we have an IP Minister, but his priorities would be different to those of a director-general.
+
+Finally, above all else, what the Bill needs is for the Prime Minister to state categorically that IP rights are the same as property rights, and are something to be cherished and protected. In many ways, Europe is looking to us, in the UK, for IP direction, and this repeated message is important so that rights are not drip fed away.
+
+The IPO is organising an IP enforcement conference for June, which will be important. Indeed we are renaming that conference “Respect for IP” and I am sure that it will form part of the Government’s direction on IP generally. In summary, there is still much to do, but this is a good Bill overall and a positive step in the right direction.
+
+14:21:00
+
+Pete Wishart
+Thank you, Mr Deputy Speaker, for giving me the last Back-Bench word in this Intellectual Property Bill. It is significant that this is the first dedicated intellectual property Bill that I have actually seen in my 13 years in the House, and I would like us to mark that. I hope that we see many more in the future.
+
+I thank all Members who have taken part, especially those on the Front Benches who have contributed so much to what has been a very friendly look at some of these issues. I did not know until Sunday that the Minister and I share a birthday. I wish him a belated happy birthday, and hope that he had as good a day  as I did.
+
+Jim Shannon (Strangford) (DUP)
+Who is older?
+
+Pete Wishart
+I would not dare to answer that one. None the less, I hope that the Minister had a good day on Sunday. No Minister could be better equipped to deal with a Bill on intellectual property than the one who is famously known as “Two Brains”. He has deployed those brains to a fantastic extent as we have discussed this over the past few weeks.
+
+Is the Chamber not quiet? We have had just one speech from the Opposition Benches and one from the Government Benches. That reinforces the point made by the hon. Member for Hove (Mike Weatherley), which is that we need a champion for IP in this House. We need to get this matter fixed properly. It is unsatisfactory that IP is placed in the Department for Business, Innovation and Skills when all the other disciplines that IP is there to serve—the creative industries, music, film and television—are handled by the Department for Culture, Media and Sport. There is something wrong in the way that this is managed across Departments. It is unsatisfactory that the Minister who is responsible for intellectual property is an unelected lord whom we do not get an opportunity to question and who does not lead debates in this House. We need to start thinking properly about how this matter is co-ordinated across Whitehall.
+
+It is surprising that there is so little interest in this matter. Let me just go over the figures again. The creative economy has grown by 8.6% in recent years and is now worth something like 4.3% of our total GDP. That is £71 billion a year—that is what the IP industry contributes to our economy. I would expect people to be rushing into the Chamber to contribute to debates such as this, but, as I have said, the House is empty. It is disappointing to see so many empty seats and to hear so few contributions on something that is so important and significant for our whole economy.
+
+When it comes to intellectual property, Governments only get one shot. We heard mention of the Gowers review, which was conducted in my first few years in the House under the first Labour Government. The Minister was right to say that progress on the matter was slow until Hargreaves stepped in. None the less, the Gowers review was really what defined that first Labour Government for me. I remember leading an Adjournment debate on the conclusions of the Gowers review in Westminster Hall. We managed to discuss some of the things that had been suggested.
+
+Under the second Labour Government—the Minister was a little unfair on them—we had the Digital Economy Act 2010. With exceptions, it was an important and meaty piece of work that was prepared to be quite brave and to take on vested interests. I do not know whether other Members remember this but we had thousands of e-mails about that legislation. I remember too the bravery of the Labour Government in pursuing it in the face of such orchestrated opposition. The sheer number of e-mails coming through from organised groups and self-proclaimed digital champions is the sort of thing that spooks Members of Parliament. The Labour Government were brave and it was unfair of the Minister not to recognise that or the efforts that were made to address some of the clear issues that we have in the creative economy, especially in digitisation.
+
+The Conservative Government said that they would pick up measures in the Digital Economy Act. I remember the then shadow Minister coming to the Dispatch Box passionately to support and defend the Digital Economy  Act, but what happened? Absolutely nothing. That is not entirely the fault of the Government. They have had legal disputes and ongoing tensions with the internet service providers. Now that we are just about there, we have no clear way forward for the Digital Economy Act. That Act, in terms of the Hargreaves process, is probably more important than this Bill. It is probably the one thing that could make a real difference in re-educating new generations of people who want to access content responsibly. We need measures on the statute book. We are running out of time in this Parliament, so it is very unlikely that we will see them. It is a big, big loss and a massive disappointment for all of us who want to address, productively and constructively, the very many issues that concern our creative economy.
+
+What has defined this Parliament is Hargreaves, and this Bill is probably the end of the process. Is it good enough? Well, there are good things in it. The digital copyright exchange is a fantastic innovation, and the things that Richard Cooper demonstrated proved that positive and good things can be done. There are obviously exceptions. I know that we will be looking at all that in a statutory instrument over the course of the next weeks. There is great anxiety and concern in the industry, and the Government must listen to it. Yes, I know that we consult stakeholders and hold meetings with them, but the Government must listen to these people and take what they are saying a little more seriously, because they run incredible creative industries.
+
+I thank the Minister for his response to my concerns about the divisional court in Scotland, which I raised on Second Reading and again in amendments. I assure him that we will produce the demand for such a court, if that is the only thing stopping Scotland securing it. I am pleased that that was the only barrier that he was able to detect to our having a divisional court in Scotland. I look forward to reporting that back to the legal establishment in Scotland, so that we can move the matter forward.
+
+Then we come to the huge elephant in the room—Google. We must address Google, because it is the gatekeeper—
+
+Mr Deputy Speaker (Mr Lindsay Hoyle)
+Order. This is about what is in the Bill, and not what is not in the Bill. I have given the hon. Gentleman a little bit of scope, but we are now running into danger. I know that we are not under any time pressure, but we need to talk about what is in the Bill and not what is not.
+
+Pete Wishart
+My last word on Google is that we must deal with it. We must ensure that we address the matter. This Bill is good, but thin. I know that the Hargreaves process was dealt with in a number of ways. There has been the Enterprise and Regulatory Reform Bill, statutory instruments and of course this Bill. As I have said, this is the first dedicated intellectual property Bill. The response from the design industry has been mixed. Obviously, it welcomes some of the very good measures, such as criminal sanctions in the areas of  registered designs. I note that there was disappointment that unregistered designs were not included, but we had a good debate about that. I hope that we can revisit that at some point and deliver more satisfaction to our design industry.
+
+All in all, we are where we are with this. We look forward to going forward. Let us be a little more creative and imaginative when it comes to dealing with intellectual property and copyright issues. The Government have more or less concluded their look at intellectual property. Now it is time to start thinking about how we go forward. Let us go forward constructively and with a bit more imagination.
+
+14:30:00
+
+Mr Willetts
+I want briefly to make two final comments. First, several Members referred to the need for an IP tsar. Let me make it clear that we have something better than a tsar—a viscount. In Viscount Younger of Leckie we have a Minister who is already discharging those responsibilities very well. Of course, for those who say that it is not right that he is in the House of Lords, it is worth pointing out that under the previous Government the Secretary of State for Business, Innovation and Skills, Lord Mandelson, was in the House of Lords. Having a Minister in the House of Lords is a very reasonable way of proceeding, and Viscount Younger does an excellent job.
+
+Finally, I am grateful for hon. Members’ contributions. I am not sure that I would describe the Bill as thin. I would certainly call it a slim but well-proportioned and effective Bill. On that basis, I hope that it will secure a Third Reading.
+
+Question put and agreed to.
+
+Bill accordingly read the Third time and passed, with amendments.
+
+Northern Ireland (Miscellaneous Provisions) Bill: Programme (No. 3)
+
+Motion made, and Question put forthwith (Standing Order No. 83A(7)),
+
+That the following provisions shall apply to the Northern Ireland (Miscellaneous Provisions) Bill for the purpose of supplementing the Orders of 24 June 2013 (Northern Ireland (Miscellaneous Provisions) Bill (Programme)) and 9 July 2013 (Northern Ireland (Miscellaneous Provisions) Bill (Programme) (No. 2)):
+
+Consideration of Lords Amendments
+
+1. Proceedings on consideration of Lords Amendments shall (so far as not previously concluded) be brought to a conclusion two hours after their commencement at today’s sitting.
+
+Subsequent stages
+
+2. Any further message from the Lords may be considered forthwith without any Question being put.
+
+3. The proceedings on any further Message from the Lords shall (so far as not previously concluded) be brought to a conclusion one hour after their commencement.—(Mark Lancaster.)
+
+Question agreed to.
+
