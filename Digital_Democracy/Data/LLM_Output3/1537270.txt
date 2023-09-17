@@ -1,0 +1,13 @@
+## Bing
+
+Thank you for your request. Here is my response based on the text file open in your current webpage:
+
+Summary - The text file is a transcript of a parliamentary debate on the Genetic Technology (Precision Breeding) Bill, which aims to regulate the use of gene editing in plants and animals, and the marketing of food and feed produced from them. The debate covers various amendments and new clauses proposed by different MPs, reflecting their views on the benefits and risks of the technology.
+
+For - Voting 'Ayes' in the division: Amendment 1 means supporting the removal of animals from the scope of the Bill[1][2]. This would prevent the use of gene editing in animals for any purpose, and only allow it in plants. The arguments for this amendment are based on ethical, environmental and animal welfare concerns.
+
+Against - Voting 'Noes' in the division: Amendment 1 means opposing the removal of animals from the scope of the Bill. This would allow the use of gene editing in animals for certain purposes, such as improving health, productivity, resilience and sustainability. The arguments against this amendment are based on scientific, economic and social benefits of the technology.
+
+Decision - Voting 'Aye' in the division: Amendment 1 is more associated with ethical considerations, regulation and tradition, in the context of Standards & Technology. This is because it reflects a cautious and conservative approach to the application of gene editing, which prioritises moral values and existing norms over innovation and progress.
+
+Sentiment - B

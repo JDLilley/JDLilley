@@ -1,0 +1,13 @@
+## Bing
+
+Thank you for your request. I have reviewed the text file open in your current webpage and here is my response:
+
+Summary - The text file is a transcript of a debate in the UK Parliament on the Judicial Review and Courts Bill, which aims to reform the judicial review process and the courts system. The debate focuses on the amendments made by the House of Lords and the Government's response to them.
+
+For - Voting 'Ayes' in the division means supporting the Government's motion to disagree with Lords Amendment 11, which would provide legal aid for bereaved families at inquests where public bodies are represented[1]. The Government argues that this amendment is too costly, unnecessary and goes against the principle of targeting legal aid at those who need it most[2].
+
+Against - Voting 'Noes' in the division means opposing the Government's motion to disagree with Lords Amendment 11 and supporting the amendment made by the House of Lords[3]. The amendment argues that there is an inequality of arms between bereaved families and state bodies at inquests, and that legal aid is essential to ensure access to justice, fairness and public interest.
+
+Decision - Voting 'Aye' in the division is associated with limiting Crime & Justice, as it would restrict the ability of bereaved families to challenge state actions or failures that may have caused or contributed to their loved ones' deaths. It would also undermine the accountability and transparency of public bodies and their duty of care.
+
+Sentiment - B

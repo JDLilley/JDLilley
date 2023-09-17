@@ -1,0 +1,11 @@
+## Bing
+
+Summary - The text file is a transcript of a parliamentary debate on the Product Security and Telecommunications Infrastructure Bill, which aims to improve the security and connectivity of digital networks and devices. The debate covers various amendments and clauses related to the electronic communications code, which regulates the rights and obligations of telecoms operators and landowners.
+
+For - Voting 'Ayes' in the division on amendment 14 means supporting the proposal to give telecoms operators automatic rights to upgrade and share apparatus in buildings owned by private landlords, such as blocks of flats[1]. This would enable faster and more widespread deployment of gigabit-capable broadband to residents in urban areas.
+
+Against - Voting 'Noes' in the division on amendment 14 means opposing the proposal to give telecoms operators automatic rights to upgrade and share apparatus in buildings owned by private landlords, such as blocks of flats[1]. This would protect the rights and interests of landowners, who should have a say in any works that affect their property. It would also prevent anti-competitive effects that could favour some operators over others.
+
+Decision - Voting 'Aye' in the division on amendment 14 is associated with innovation, progressivism, and flexibility in the context of standards and technology. It reflects a vision of improving digital infrastructure and connectivity for the public benefit, without being constrained by existing agreements or arrangements. It also shows a willingness to adapt to changing technologies and consumer demands.
+
+Sentiment - A

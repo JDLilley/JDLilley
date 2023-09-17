@@ -1,0 +1,11 @@
+## Bing
+
+Summary - The text file is a transcript of a parliamentary debate on the Financial Services and Markets Bill, which aims to update the UK's financial regulation after Brexit. The debate covers various amendments and new clauses proposed by MPs from different parties.
+
+For - Voting for New Clause 1 means supporting the Treasury to publish a national strategy for detecting, preventing and investigating fraud and associated financial crime, after consulting relevant stakeholders[1][2]. The strategy must include arrangements for a data-sharing agreement between law enforcement agencies, regulators and others to track stolen money[3].
+
+Against - Voting against New Clause 1 means opposing the Treasury's obligation to publish a national strategy for tackling fraud and financial crime, and preferring the existing measures and frameworks[1]. It may also mean having concerns about the costs, feasibility or effectiveness of the proposed data-sharing agreement.
+
+Decision - Voting for New Clause 1 is associated with stimulus and the free market, because it aims to enhance the security and integrity of the UK's financial system, which could boost confidence and innovation among consumers and businesses. It could also reduce the losses and damages caused by fraud and financial crime, which could free up resources for productive activities.
+
+Sentiment - A

@@ -1,0 +1,11 @@
+## Bing
+
+Summary - The text file is a transcript of a parliamentary debate on the Finance Bill, which introduces tax measures to support public finances and energy security. The debate covers topics such as inflation, living standards, R&D, inheritance tax and electric vehicles.
+
+For - Voting for the Bill means supporting the Government's fiscal policy, which aims to curb rising prices, restore economic credibility, invest in innovation and green infrastructure, and ask those with higher incomes to contribute more tax.
+
+Against - Voting against the Bill means opposing the Government's fiscal policy, which is seen as unfair, ineffective and damaging to growth. The opposition argues that the Bill raises taxes on working people, fails to address the cost of living crisis, and lacks a plan to boost the economy and create green jobs.
+
+Decision - Voting for the Bill is associated with austerity and regulation, because it increases taxes on personal income, dividends, capital gains and electric vehicles, and it freezes various allowances and thresholds. It also imposes a levy on energy profits to fund public spending.
+
+Sentiment - B

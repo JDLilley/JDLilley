@@ -1,0 +1,11 @@
+## Bing
+
+Summary - The text file is a transcript of a parliamentary debate on the Finance Bill, which contains various tax measures proposed by the government. The debate covers different clauses and amendments related to the energy profits levy, research and development tax relief, income tax thresholds, vehicle excise duty, company car tax and inheritance tax.
+
+For - Voting for clause 5 means supporting the government's decision to freeze the basic rate limit and personal allowance for income tax for two more years, until 2028. This is expected to raise revenue for the public finances and ensure that everyone contributes a little more towards fiscal sustainability[1].
+
+Against - Voting against clause 5 means opposing the government's decision to freeze the basic rate limit and personal allowance for income tax for two more years, until 2028. This is expected to increase the tax burden on low and middle-income earners and worsen the cost of living crisis.
+
+Decision - Voting for clause 5 is associated with austerity and regulation, because it reduces the real value of the tax-free personal allowance and the basic rate limit over time, and increases the amount of income that is subject to higher rates of tax. This implies a tighter fiscal policy and a more interventionist approach to taxation.
+
+Sentiment - B

@@ -1,0 +1,13 @@
+## Bing
+
+Thank you for your request. Here is my response based on the text file open in your current webpage:
+
+Summary - The text file is a transcript of a debate in the UK Parliament on the Judicial Review and Courts Bill, which aims to reform judicial review and court procedures. The debate focuses on the amendments made by the House of Lords and the Government's response to them.
+
+For - Voting 'Ayes' in the division means supporting the Government's motion to disagree with Lords Amendment 5, which would allow some appeals of upper tribunal decisions to the High Court and the Supreme Court. The Government argues that this type of judicial review, known as Cart, is unnecessary, costly and burdensome.
+
+Against - Voting 'Noes' in the division means opposing the Government's motion to disagree with Lords Amendment 5, and supporting the Lords' proposal to retain some scope for Cart judicial reviews. The Opposition argues that Cart is an important safeguard against serious errors of law that may affect vulnerable people.
+
+Decision - Voting 'Aye' in the division is associated with greater police powers, harsher punishments, and strengthening Crime & Justice. This is because Cart judicial reviews often involve cases related to immigration, asylum, human rights, mental health and social welfare, where the state may have acted unlawfully or unfairly. Removing Cart would limit the ability of individuals to challenge such decisions and hold the state accountable.
+
+Sentiment - A

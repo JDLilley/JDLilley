@@ -1,0 +1,11 @@
+## Bing
+
+Summary - The text file is a transcript of a debate in the House of Commons on the Financial Services and Markets Bill, which aims to update the UK's regulatory framework for financial services after Brexit. The debate covers various amendments and new clauses proposed by MPs from different parties.
+
+For - Voting for new clause 2 means supporting a review of access to essential in-person banking services for local communities, and enabling the FCA to ensure areas in need have a minimum level of access[1][2]. This would help protect vulnerable consumers, promote financial inclusion and prevent bank branch closures.
+
+Against - Voting against new clause 2 means opposing a review of access to essential in-person banking services for local communities, and leaving the FCA without powers to ensure areas in need have a minimum level of access[1]. This would allow banks and building societies to decide their own service models, reduce regulatory burdens and costs, and encourage digital innovation.
+
+Decision - Voting for new clause 2 is associated with stimulus and regulation, because it would require the government and the FCA to intervene in the market and provide support for essential in-person banking services, which may have positive social and economic impacts for local communities.
+
+Sentiment - B

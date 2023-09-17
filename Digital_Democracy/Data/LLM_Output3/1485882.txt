@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I can help you review the text file open in your current webpage. Here is my response based on your request:
+
+Summary - The text file is a transcript of a parliamentary debate on the Northern Ireland Troubles (Legacy and Reconciliation) Bill, which aims to address the legacy of the conflict in Northern Ireland and promote reconciliation. The debate covers various aspects of the Bill, such as investigations, prosecutions, immunity, memorialisation and information recovery.
+
+For - Voting 'Ayes' in the division: Clause 39 stand part means supporting the closure of existing Troubles-related inquests in Northern Ireland, England and Scotland. The argument for this is that the Bill provides a better alternative for information recovery and reconciliation through the independent commission for reconciliation and information recovery (ICRIR).
+
+Against - Voting 'Noes' in the division: Clause 39 stand part means opposing the closure of existing Troubles-related inquests in Northern Ireland, England and Scotland. The argument against this is that the Bill violates the right to life and effective investigation under Article 2 of the European Convention on Human Rights, and denies justice and truth to the families of the victims.
+
+Decision - Voting 'Aye' in the division: Clause 39 stand part is not directly associated with globalisation or protectionism, as it does not affect the UK's relations with the European Union or other foreign affairs. However, it could be seen as a sign of disrespect or indifference towards the Irish Government, which has made commitments to address the legacy of the Troubles in line with the Stormont House Agreement.
+
+Sentiment - C

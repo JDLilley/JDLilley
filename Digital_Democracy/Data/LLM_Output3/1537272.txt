@@ -1,0 +1,13 @@
+## Bing
+
+Thank you for your request. I have reviewed the text file open in your current webpage and here is my response:
+
+Summary - The text file is a transcript of a parliamentary debate on the Genetic Technology (Precision Breeding) Bill, which aims to regulate the use of gene editing technologies in plants and animals, and the marketing of food and feed produced from them. The debate covers various aspects of the Bill, such as its scope, purpose, benefits, risks, safeguards, and implications for the environment, animal welfare, public health, and trade.
+
+For - Voting 'Ayes' in the division: Amendment 4 means supporting the amendment that requires the Secretary of State to take into account a range of factors related to animal welfare when deciding whether to issue a precision bred animal marketing authorisation[1]. These factors include the potential adverse effects of the precision bred traits on the health or welfare of the animals or their progeny, the possibility of pain, suffering or lasting harm arising from fast growth or high productivity, and the availability of alternative methods that do not involve genome modification[2].
+
+Against - Voting 'Noes' in the division: Amendment 4 means opposing the amendment that requires the Secretary of State to take into account a range of factors related to animal welfare when deciding whether to issue a precision bred animal marketing authorisation[1]. This could imply that the existing criteria for issuing such authorisations are sufficient and proportionate, and that adding more factors would create unnecessary burdens or barriers for the development and marketing of precision bred animals and their products.
+
+Decision - Voting 'Aye' in the division: Amendment 4 is associated with ethical considerations, regulation, and tradition in the context of Standards & Technology. This is because it reflects a concern for the moral and legal aspects of using gene editing technologies on animals, and a preference for maintaining or enhancing existing standards of animal welfare. It also suggests a reluctance to embrace novel or disruptive innovations that could have negative impacts on animals or their natural environment.
+
+Sentiment - B

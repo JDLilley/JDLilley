@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I can help you review the text file open in your current webpage. Here is my response based on your request:
+
+Summary - The text file is a transcript of a parliamentary debate on the Northern Ireland Troubles (Legacy and Reconciliation) Bill, which aims to address the legacy of the conflict in Northern Ireland. The debate covers various aspects of the Bill, such as investigations, prosecutions, immunity, memorialisation and information recovery.
+
+For - Voting 'Ayes' in the division: Amendment 114 means supporting the amendment that would prevent a person who is granted immunity under the Bill from profiting from their conduct in relation to the offence[1]. This amendment is intended to deter the exploitation of Troubles-related offences by individuals who have received immunity[2].
+
+Against - Voting 'Noes' in the division: Amendment 114 means opposing the amendment that would prevent a person who is granted immunity under the Bill from profiting from their conduct in relation to the offence. This amendment could be seen as infringing on the freedom of expression and publication of individuals who have received immunity.
+
+Decision - Voting 'Aye' in the division: Amendment 114 is not clearly associated with either globalisation or protectionism, or with strengthening or independence from the European Union and other foreign affairs. It is more related to the ethical and moral issues of dealing with the legacy of the Troubles in Northern Ireland.
+
+Sentiment - C

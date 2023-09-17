@@ -1,0 +1,11 @@
+## Bing
+
+Summary - The text file is a transcript of a debate in the UK House of Commons on the Police, Crime, Sentencing and Courts Bill, which aims to reform various aspects of the criminal justice system. The debate focuses on the part 3 of the Bill, which deals with the powers of the police to impose conditions on protests.
+
+For - Voting 'Ayes' in the division means supporting the Government's motion to insist on disagreement with Lords Amendment 73, which would remove the noise trigger for police intervention in protests[1]. The Government argues that noise can cause serious harm and disruption to the public and that the police need more powers to deal with it.
+
+Against - Voting 'Noes' in the division means opposing the Government's motion and supporting Lords Amendment 73, which would retain the noise trigger for police intervention in protests[1]. The Opposition argues that noise is an essential part of protest and that the Government's proposals are anti-democratic and vague.
+
+Decision - Voting 'Aye' in the division is associated with greater police powers, harsher punishments, and strengthening Crime & Justice. This is because it would give the police more authority to restrict protests based on noise levels and impose penalties for non-compliance.
+
+Sentiment - A

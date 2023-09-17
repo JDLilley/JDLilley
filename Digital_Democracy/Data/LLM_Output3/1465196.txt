@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I will try to review the text file open in your current webpage and answer your questions. Here is my response:
+
+Summary - The text file is a transcript of a debate in the UK Parliament on a bill that aims to address the legacy of the Northern Ireland troubles. The bill proposes a new commission for information recovery, conditional immunity for troubles-related offences, and an end to most criminal investigations and civil claims.
+
+For - Voting 'Ayes' in the division means supporting the bill and its objectives. It means agreeing that the current system is broken and does not deliver justice or information to most families[1]. It means accepting that prosecutions are unlikely and that information recovery is a better way to achieve truth and accountability.
+
+Against - Voting 'Noes' in the division means opposing the bill and its objectives. It means rejecting the idea of conditional immunity for troubles-related offences and preserving the possibility of prosecutions, however remote. It means insisting that the Stormont House Agreement should be implemented and that the bill does not have consensus or support from victims groups or political parties.
+
+Decision - Voting 'Aye' in the division is not clearly associated with either globalisation or protectionism, or with strengthening or weakening ties with the European Union and other foreign affairs. It is more related to the internal affairs of the UK and Northern Ireland, and to the peace process that followed the Belfast/Good Friday Agreement.
+
+Sentiment - C

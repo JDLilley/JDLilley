@@ -1,0 +1,11 @@
+## Bing
+
+Summary - The text file is a transcript of a parliamentary debate on the Finance Bill, which contains various tax measures proposed by the Government. The debate covers different clauses and amendments related to the energy profits levy, research and development tax relief, income tax thresholds, vehicle excise duty, and other allowances.
+
+For - Voting for amendment 2 means requiring HMRC to contact every individual who becomes liable to pay standard tax or move from standard to higher rate, and how much additional tax they will have to pay as a result of the change[1]. This would increase transparency and accountability for the tax changes.
+
+Against - Voting against amendment 2 means rejecting the requirement for HMRC to contact every individual affected by the tax changes. This would save administrative costs and avoid unnecessary communication with taxpayers who can access their tax information online or through other means.
+
+Decision - Voting for amendment 2 is associated with austerity and regulation, as it implies a more intrusive and burdensome approach to tax collection and enforcement. It also suggests a lack of trust in the Government's fiscal policy and its impact on taxpayers.
+
+Sentiment - B

@@ -1,0 +1,13 @@
+## Bing
+
+Thank you for your request. Here is my response based on the text file open in your current webpage:
+
+Summary - The text file is a transcript of a parliamentary debate on the Genetic Technology (Precision Breeding) Bill, which aims to regulate the use of gene editing technologies in plants and animals, and the marketing of food and feed produced from them.
+
+For - Voting 'Ayes' in the division: Amendment 3 means supporting the requirement that a gene edited organism has been developed to provide one or more public benefit purposes, such as protecting the environment, improving animal welfare, or supporting human health[1].
+
+Against - Voting 'Noes' in the division: Amendment 3 means opposing the requirement that a gene edited organism has been developed to provide one or more public benefit purposes, and preferring a more market-driven approach that allows more flexibility and innovation for researchers and developers.
+
+Decision - Voting 'Aye' in the division: Amendment 3 is associated with ethical considerations, regulation, and tradition, in the context of Standards & Technology. This is because it implies a cautious and principled stance towards the use of gene editing technologies, and a respect for the existing legal and moral frameworks that govern them.
+
+Sentiment - B

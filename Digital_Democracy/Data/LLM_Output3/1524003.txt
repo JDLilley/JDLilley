@@ -1,0 +1,13 @@
+## Bing
+
+Here is my response based on the text file open in your current webpage:
+
+Summary - The text file is a transcript of a debate in the UK Parliament on whether to ban fracking for shale gas. The Labour party proposed a motion to introduce a bill to ban fracking, while the Conservative party proposed an amendment to consult on local consent and safety before allowing fracking.
+
+For - Voting 'Ayes' in the division means supporting the Labour motion to ban fracking. This is based on the arguments that fracking is unsafe, unpopular, ineffective in lowering energy prices, and inconsistent with tackling the climate crisis.
+
+Against - Voting 'Noes' in the division means supporting the Conservative amendment to consult on local consent and safety before allowing fracking. This is based on the arguments that fracking could provide energy security, economic benefits, and lower emissions than coal, and that local communities should have a say in the decision.
+
+Decision - Voting 'Aye' in the division is associated with prioritising environmental sustainability in the context of Environment & Energy. This is because banning fracking would prevent the extraction and burning of more fossil fuels, which contribute to greenhouse gas emissions and global warming. It would also protect the environment and public health from the potential risks of fracking, such as water contamination, air pollution, and seismic activity.
+
+Sentiment - A

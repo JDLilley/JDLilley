@@ -1,0 +1,13 @@
+## Bing
+
+Thank you for your request. Here is my response based on the text file open in your current webpage:
+
+Summary - The text file is a transcript of a debate in the UK Parliament on the Judicial Review and Courts Bill, which aims to reform the judicial review process and introduce other measures related to courts and tribunals.
+
+For - Voting 'Ayes' in the division means supporting the Government's motion to disagree with Lords Amendment 1, which would remove the power to make prospective-only quashing orders[1]. The Government argues that this power would enhance the flexibility and effectiveness of judicial review remedies.
+
+Against - Voting 'Noes' in the division means opposing the Government's motion and supporting Lords Amendment 1, which would retain the current position that quashing orders have retrospective effect[1]. The Opposition argues that prospective-only quashing orders would undermine the rule of law and deter meritorious challenges.
+
+Decision - Voting 'Aye' in the division is associated with greater police powers, harsher punishments, and strengthening Crime & Justice. This is because prospective-only quashing orders could allow unlawful decisions or actions by public authorities, such as the police or prosecutors, to remain valid and enforceable, even if they are successfully challenged in court. This could limit the rights and remedies of individuals who are affected by such decisions or actions.
+
+Sentiment - A

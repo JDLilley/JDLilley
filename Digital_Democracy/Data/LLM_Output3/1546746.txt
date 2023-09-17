@@ -1,0 +1,11 @@
+## Bing
+
+Summary - The text file is a transcript of a parliamentary debate on the Finance Bill, which contains various tax measures proposed by the government. The debate covers topics such as energy profits levy, research and development tax relief, income tax thresholds, electric vehicles and inheritance tax.
+
+For - Voting for New Clause 2 means supporting a review of the estimated revenue from the energy (oil and gas) profit levy in different scenarios, such as if the levy had been introduced earlier, or if the rate and investment allowance had been changed.
+
+Against - Voting against New Clause 2 means opposing a review of the estimated revenue from the energy (oil and gas) profit levy in different scenarios, and accepting the government's assessment of the impact of the levy on the oil and gas sector and the public finances.
+
+Decision - Voting for New Clause 2 is associated with austerity and regulation, because it implies a desire to scrutinise the government's tax policy and potentially raise more revenue from the oil and gas sector, which could discourage investment and production in that sector.
+
+Sentiment - B

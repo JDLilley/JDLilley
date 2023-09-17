@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I have reviewed the text file open in your current webpage. Here is my response:
+
+Summary - The text file is a transcript of a parliamentary debate on the Nationality and Borders Bill, which aims to reform the UK's asylum system and deter illegal migration. The debate focuses on the Lords amendments that the Government disagrees with[1].
+
+For - The Government argues that the Lords amendments are unnecessary, inappropriate, or unconstitutional. They claim that the Bill is compatible with international law, that it will end dangerous channel crossings, and that it will create a fair and efficient asylum system.
+
+Against - The Opposition argues that the Lords amendments are essential, humane, and just. They claim that the Bill breaches the refugee convention, that it will not deter people smugglers, and that it will create a cruel and chaotic asylum system.
+
+Decision - The Government motion to disagree to Lords amendments 7F and 7G would tighten immigration and borders, as it would prevent asylum seekers from working and accessing family reunion rights[1].
+
+Sentiment - A
