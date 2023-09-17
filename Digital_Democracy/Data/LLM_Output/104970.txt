@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I have reviewed the text file open in your current webpage and I will try to answer your questions as best as I can. Here is my response:
+
+Summary - The text file is a transcript of a debate in the House of Commons on the Fixed-term Parliaments Bill, which aims to set the length of parliamentary terms at five years and limit the Prime Minister's power to call early elections. The debate focuses on the Lords amendments that propose a sunset clause for the Bill.
+
+For - Voting 'Ayes' in the division means supporting the Government's rejection of the Lords amendments and insisting on the original version of the Bill. This implies that one agrees with the principle of fixed-term Parliaments and does not want to see constitutional changes made by simple resolutions or prerogative powers.
+
+Against - Voting 'Noes' in the division means opposing the Government's stance and accepting the Lords amendments. This implies that one disagrees with the idea of fixed-term Parliaments and wants to retain some flexibility for calling early elections. It also suggests that one supports a review of the Bill's operation after a full term.
+
+Decision - Voting 'Aye' in the division is associated with reduced bureaucracy and centralisation in the context of Parliamentary Procedures. This is because it would streamline the process of Dissolution and avoid frequent boundary reviews. It would also strengthen the Government's position and reduce the influence of the House of Lords.
+
+Sentiment - B

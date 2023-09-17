@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I can help you review the text file open in your current webpage. Here is my response based on your request:
+
+Summary - The text file is a transcript of a debate in the UK Parliament on the Welfare Reform Bill, which aims to reform the social security system. The debate focuses on the discretionary social fund, which provides emergency support to vulnerable people.
+
+For - Voting 'Ayes' in the division means supporting Amendment 42, which would delay the abolition of the discretionary social fund until a robust and effective replacement scheme is established. The amendment argues that the social fund is a vital safety net for the poorest and most vulnerable, and that localising emergency support without clear guidance, ring-fencing, or appeals mechanism would create inconsistency, inefficiency, and inequality.
+
+Against - Voting 'Noes' in the division means opposing Amendment 42, and accepting the Government's proposal to abolish the discretionary social fund and devolve responsibility to local authorities. The proposal argues that the social fund is flawed, inefficient, and outdated, and that localising emergency support would enable more flexibility, innovation, and responsiveness to local needs and circumstances.
+
+Decision - Voting 'Aye' in the division is associated with greater spending on, and provision of, welfare and social housing. The amendment seeks to preserve the existing level of funding and service for emergency support, and to ensure that any replacement scheme is adequately resourced and regulated. Voting 'Aye' would also protect the interests of people who need assistance with rent in advance, furniture, or other housing-related expenses.
+
+Sentiment - A

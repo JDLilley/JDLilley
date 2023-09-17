@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I can help you review the text file open in your current webpage. Here is my response:
+
+Summary - The text file is a transcript of a debate in the UK Parliament on the Welfare Reform Bill, which aims to reform the social security system and introduce Universal Credit. The debate covers various aspects of the bill, such as the social fund, housing benefit, disability living allowance, and child support.
+
+For - Voting 'Ayes' in the division means supporting the bill and its proposed changes to the welfare system. The supporters of the bill argue that it will simplify the benefits system, reduce dependency, encourage work, and save public money.
+
+Against - Voting 'Noes' in the division means opposing the bill and its proposed changes to the welfare system. The opponents of the bill argue that it will harm the most vulnerable people, increase poverty and inequality, create administrative problems, and fail to address the root causes of unemployment and low pay.
+
+Decision - Voting 'Aye' in the division is associated with cutting spending on, and provision of, welfare and social housing. The bill proposes to reduce the overall expenditure on benefits, cap the total amount of benefits that a household can receive, restrict the eligibility and amount of housing benefit, and abolish some elements of the social fund.
+
+Sentiment - B

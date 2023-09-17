@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I can help you review the text file open in your current webpage. Here is my response:
+
+Summary - The text file is a transcript of a parliamentary debate on the Health and Social Care (Re-committed) Bill, which aims to reform the NHS in England. The debate covers various aspects of the Bill, such as licensing, competition, mergers, and special administration.
+
+For - Voting 'Ayes' in the division means supporting the Government's new clause 2, which sets out the conditions for the continuation of the provision of services by licence holders in case of financial failure or insolvency. The clause also requires Monitor to assess the risks to the continued provision of services and to publish guidance for commissioners and licence holders[1].
+
+Against - Voting 'Noes' in the division means opposing the Government's new clause 2, which may be seen as giving Monitor too much power and discretion over the licence holders and their premises, information, and affairs. The clause may also be seen as undermining the autonomy and accountability of the licence holders and their commissioners.
+
+Decision - Voting 'Aye' in the division is associated with fiscal responsibility in the context of Health & Healthcare, as it aims to ensure the continuity and quality of services in case of financial failure or insolvency of licence holders. It also aims to protect the interests of patients and taxpayers by giving Monitor the authority and tools to intervene and assist in the management of licence holders' affairs, business, and property.
+
+Sentiment - B

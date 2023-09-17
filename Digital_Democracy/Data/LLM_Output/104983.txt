@@ -1,0 +1,13 @@
+## Bing
+
+Thank you for your request. Here is my response based on the text file open in your current webpage:
+
+Summary - The text file is a transcript of a debate in the UK Parliament on the Protection of Freedoms Bill, which aims to reduce the retention of biometric data of innocent people. The main issue is whether to keep the DNA and fingerprints of those arrested but not convicted for three or six years[1].
+
+For - Voting 'Ayes' in the division means supporting amendment 89, which proposes to delete the clause that allows the retention of biometric material of those arrested for a qualifying offence. This would limit the police's ability to keep the DNA and fingerprints of innocent people and protect their privacy and civil liberties.
+
+Against - Voting 'Noes' in the division means opposing amendment 89 and keeping the clause that allows the retention of biometric material of those arrested for a qualifying offence. This would enable the police to keep the DNA and fingerprints of innocent people for three years, or longer with the approval of a commissioner, and use them to prevent and detect crime.
+
+Decision - Voting 'Aye' in the division is associated with freedom and autonomy, limiting police powers and softer punishments, limiting Crime & Justice. This is because it would reduce the amount of biometric data that the police can retain and use, and respect the rights of those who are not proven guilty of any crime.
+
+Sentiment - B

@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I can help you review the text file open in your current webpage. Here is my response based on your request:
+
+Summary - The text file is a transcript of a parliamentary debate on the Legal Aid, Sentencing and Punishment of Offenders Bill, which aims to reform the legal aid system and the criminal justice system in England and Wales. The debate focuses on the scope and eligibility of legal aid for family and immigration matters, especially those involving domestic violence[1].
+
+For - Voting 'Ayes' in the division means supporting Amendment 74, which would expand the types of evidence that can be used to prove domestic violence for the purpose of qualifying for legal aid in private family law cases[2]. This would include evidence from doctors, social workers, domestic violence support organisations, or other sources.
+
+Against - Voting 'Noes' in the division means opposing Amendment 74, which would increase the risk of unfounded allegations and abuse of the legal aid system. The Government argues that legal aid should be available only when there is objective evidence of domestic violence from courts, prosecutors or other agencies[4][3].
+
+Decision - Voting 'Aye' in the division is associated with freedom and autonomy, limiting police powers and softer punishments, limiting Crime & Justice. This is because it would allow more victims of domestic violence to access legal aid and seek protection from their abusers, without having to rely on the decisions of the authorities.
+
+Sentiment - B

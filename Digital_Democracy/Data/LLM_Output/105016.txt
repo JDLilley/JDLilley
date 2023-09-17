@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I can help you review the text file open in your current webpage. Here is my response:
+
+Summary - The text file is a transcript of a parliamentary debate on the Legal Aid, Sentencing and Punishment of Offenders Bill, which aims to reform the legal aid system and criminal justice in England and Wales.
+
+For - Voting 'Ayes' in the division means supporting the amendment that would retain legal aid for welfare benefit cases, especially for disabled people who face difficulties in accessing the benefit system and appealing against unfair decisions.
+
+Against - Voting 'Noes' in the division means opposing the amendment and accepting the Government's proposal to cut legal aid for most social welfare law cases, except for those involving homelessness or domestic violence, and to shift to telephone advisory services.
+
+Decision - Voting 'Aye' in the division is associated with freedom and autonomy, limiting police powers and softer punishments, limiting Crime & Justice. This is because it would preserve the right of vulnerable people to challenge the state's decisions on their benefits and to access justice through legal representation.
+
+Sentiment - B

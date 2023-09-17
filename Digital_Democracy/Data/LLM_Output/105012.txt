@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I can help you review the text file open in your current webpage. Here is my response:
+
+Summary - The text file is a transcript of a debate in the UK Parliament about the Legal Aid, Sentencing and Punishment of Offenders Bill, which aims to reform the criminal justice system and reduce costs. The debate focuses on the abolition of indeterminate sentences for public protection (IPPs)[1].
+
+For - Voting 'Ayes' means supporting the Government's proposal to abolish IPPs and replace them with new mandatory life sentences, discretionary life sentences, and extended determinate sentences. The Government argues that IPPs are unfair, unclear, inconsistent, and have been used far more than intended. They claim that their new regime will protect the public and provide effective risk management.
+
+Against - Voting 'Noes' means opposing the Government's proposal and keeping IPPs as an option for the courts to deal with serious and violent offenders who pose a risk of reoffending. The Opposition argues that IPPs are necessary to protect the public from dangerous criminals who cannot be safely released. They claim that the Government's new regime will risk more crime, more victims, and more offenders being out on the streets.
+
+Decision - Voting 'Aye' is associated with freedom and autonomy, limiting police powers and softer punishments, limiting Crime & Justice. This is because voting 'Aye' means abolishing a sentence that allows the state to detain offenders indefinitely without a clear release criteria. It also means reducing the prison population and the costs of incarceration. Voting 'Aye' implies a preference for rehabilitation over retribution.
+
+Sentiment - B

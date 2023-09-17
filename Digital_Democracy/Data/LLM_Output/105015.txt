@@ -1,0 +1,11 @@
+## Bing
+
+Summary - The text file is a transcript of a parliamentary debate on the Legal Aid, Sentencing and Punishment of Offenders Bill, which aims to reform the legal aid system and the criminal justice system in England and Wales.
+
+For - Voting 'Ayes' means supporting the amendment 116, which would remove clause 12 from the Bill. Clause 12 gives the director of legal aid casework the power to decide whether to grant legal aid to people who are arrested and held in custody.
+
+Against - Voting 'Noes' means opposing the amendment 116, and keeping clause 12 in the Bill[1]. The Government argues that clause 12 is necessary to ensure that legal aid is targeted at those who need it most, and to reduce the costs of the legal aid system.
+
+Decision - Voting 'Aye' in this division is associated with freedom and autonomy, limiting police powers and softer punishments, limiting Crime & Justice. This is because clause 12 would give the director of legal aid casework, who is under the direction of the Lord Chancellor, the discretion to deny legal aid to people who are arrested and held in custody, potentially violating their right to a fair trial and access to justice.
+
+Sentiment - B

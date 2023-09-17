@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I can help you review the text file open in your current webpage. Here is my response based on your request:
+
+Summary - The text file is a transcript of a parliamentary debate on the Energy Bill, which aims to promote energy efficiency and low-carbon technologies. The debate covers various amendments and issues related to the green deal, the energy company obligation, and consumer protection.
+
+For - Voting 'Ayes' in the division means supporting amendment 47, which would require the Secretary of State to report annually on the progress of the green deal and the energy company obligation, and to review their effectiveness and impact on fuel poverty and carbon emissions.
+
+Against - Voting 'Noes' in the division means opposing amendment 47, which would impose an unnecessary burden on the Secretary of State and create duplication with existing reporting and monitoring mechanisms. The Government argues that the green deal and the energy company obligation are already subject to rigorous evaluation and scrutiny.
+
+Decision - Voting 'Aye' in the division is associated with prioritising environmental sustainability in the context of Environment & Energy, because it would ensure greater transparency and accountability for the green deal and the energy company obligation, which are designed to reduce energy demand and carbon emissions. It would also highlight the need to address fuel poverty and social justice in the transition to a low-carbon economy.
+
+Sentiment - A

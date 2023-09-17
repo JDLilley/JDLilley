@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I can help you review the text file open in your current webpage. Here is my response based on your request:
+
+Summary - The text file is a transcript of a debate in the UK Parliament about the Legal Aid, Sentencing and Punishment of Offenders Bill, which aims to reform the criminal justice system. The debate focuses on the abolition of indeterminate sentences for dangerous offenders.
+
+For - Voting 'Ayes' means supporting the government's proposal to abolish indeterminate sentences and replace them with new mandatory life sentences, discretionary life sentences, or extended determinate sentences. The supporters argue that indeterminate sentences are unfair, unclear, inconsistent, and ineffective in protecting the public.
+
+Against - Voting 'Noes' means opposing the government's proposal and keeping indeterminate sentences as a tool for the courts to deal with the most serious and violent offenders. The opponents argue that indeterminate sentences are necessary to ensure public safety and prevent reoffending by offenders who pose a high risk of harm.
+
+Decision - Voting 'Aye' is associated with freedom and autonomy, limiting police powers and softer punishments, limiting Crime & Justice. This is because voting 'Aye' implies that offenders should have a fixed and determinate sentence that reflects their crime, rather than an indefinite sentence that depends on their risk assessment. Voting 'Aye' also implies that offenders should have more opportunities for rehabilitation and release, rather than being kept in prison indefinitely.
+
+Sentiment - B

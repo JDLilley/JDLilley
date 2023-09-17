@@ -1,0 +1,13 @@
+## Bing
+
+Thank you for your request. Here is my response based on the text file open in your current webpage:
+
+Summary - The text file is a transcript of a debate in the UK Parliament on the Pensions Bill, which aims to raise the state pension age for men and women. The main issue is the impact of the bill on women born in the 1950s, who face a longer wait for their pensions.
+
+For - Voting 'Ayes' in the division means supporting amendment 3, which would limit the increase in state pension age for women born between April 1953 and April 1955 to 12 months. This would reduce the savings from the bill by £10 billion over 10 years[1].
+
+Against - Voting 'Noes' in the division means rejecting amendment 3, and accepting the Government's proposal to increase the state pension age for women born between December 1953 and October 1954 by up to 18 months. This would maintain the savings from the bill at £30 billion over 10 years[2].
+
+Decision - Voting 'Aye' in the division is associated with greater spending on, and provision of, welfare and social housing, because it would protect the income of half a million women who are more likely to rely on state benefits and public services. Voting 'Noe' in the division is associated with cutting spending on, and provision of, welfare and social housing, because it would reduce the cost of pensions and shift the burden of rising longevity onto women.
+
+Sentiment - A

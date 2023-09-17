@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I can help you review the text file open in your current webpage. Here is my response:
+
+Summary - The text file is a transcript of a debate in the House of Commons on the Health and Social Care Bill in 2023. The Bill aims to reorganise the NHS and increase competition and choice. The debate focuses on the programme motion that sets the time limit for further scrutiny of the Bill.
+
+For - Voting 'Ayes' means supporting the programme motion and agreeing that two days are enough to examine the Bill. It also means endorsing the Government's listening exercise and amendments that reflect the views of health professionals and patients.
+
+Against - Voting 'Noes' means opposing the programme motion and demanding more time to scrutinise the Bill. It also means rejecting the Government's claim that they have addressed the concerns of the public and the NHS staff. It means calling for the withdrawal or substantial revision of the Bill[1].
+
+Decision - Voting 'Aye' in this division is associated with fiscal responsibility in the context of Health & Healthcare. The Government argues that the Bill will reduce bureaucracy and waste, and enable the NHS to meet the financial challenge of rising demand and costs. They also claim that the Bill will improve quality and efficiency by introducing more competition and choice.
+
+Sentiment - B

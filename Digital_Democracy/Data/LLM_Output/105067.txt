@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I have reviewed the text file open in your current webpage and here is my response:
+
+Summary - The text file is a transcript of a parliamentary debate on the Local Government Finance Bill in 2023. The Bill aims to reform the system of business rates retention and introduce levies and top-ups for local authorities. The debate covers various aspects of the Bill, such as the calculation of tariffs and top-ups, the definition of disproportionate gains, the reset mechanism, and the impact on different types of authorities.
+
+For - Voting for the new clause NC7 means supporting the proposal to require the Secretary of State to publish a report on the impact of the Bill on different types of authorities, such as metropolitan, rural, and coastal. The supporters of the new clause argue that it is necessary to ensure transparency and accountability, and to assess whether the Bill delivers fair and sustainable funding for local government.
+
+Against - Voting against the new clause NC7 means opposing the proposal to require the Secretary of State to publish a report on the impact of the Bill on different types of authorities. The opponents of the new clause argue that it is unnecessary and burdensome, and that the Bill already provides sufficient information and safeguards for local authorities. They also claim that the new clause is motivated by political interests rather than genuine concerns.
+
+Decision - Voting for the new clause NC7 is associated with austerity and regulation, because it implies a lack of trust in the Government's ability to implement the Bill effectively and fairly. It also suggests a preference for more central oversight and intervention in local government finance, rather than allowing local authorities more autonomy and flexibility.
+
+Sentiment - B

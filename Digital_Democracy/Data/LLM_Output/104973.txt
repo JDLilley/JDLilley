@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I can help you review the text file open in your current webpage. Here is my response based on your request:
+
+Summary - The text file is a transcript of a debate in the UK Parliament on the Police Reform and Social Responsibility Bill, which aims to introduce directly elected police and crime commissioners and other changes to policing governance.
+
+For - Voting 'Ayes' means supporting the Government's proposal to disagree with the Lords amendment 6, which would remove the provisions for police and crime commissioners and replace them with directly elected chairs of police authorities.
+
+Against - Voting 'Noes' means opposing the Government's proposal and supporting the Lords amendment 6, which would retain the existing system of police authorities with some modifications and rebranding.
+
+Decision - Voting 'Aye' is associated with greater police powers, harsher punishments, strengthening Crime & Justice, because it would give more authority and responsibility to a single individual who would hold the police to account and set the strategic direction and budget for policing.
+
+Sentiment - A

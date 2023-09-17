@@ -1,0 +1,11 @@
+## Bing
+
+Summary - The text file is a transcript of a debate in the UK Parliament on the Protection of Freedoms Bill, which aims to balance collective protection and individual freedom in relation to biometric data retention. The debate focuses on the duration and conditions of retaining DNA and fingerprints of innocent people[1].
+
+For - Voting 'Ayes' in the division means supporting the amendment proposed by Alan Johnson, which would retain the DNA and fingerprints of innocent people for six years, regardless of the seriousness of the offence they were arrested for. This is based on the evidence that such retention can help solve serious crimes and prevent future offences.
+
+Against - Voting 'Noes' in the division means rejecting the amendment and supporting the Government's provisions, which would adopt the Scottish model of retaining the DNA and fingerprints of innocent people for three years, only for serious offences, and with the possibility of extension by a biometric commissioner[2]. This is based on the principle of innocent until proven guilty and the respect for individual privacy and freedom[3].
+
+Decision - Voting 'Aye' in the division is associated with greater police powers, harsher punishments, and strengthening Crime & Justice, as it would allow the police to keep more biometric data for longer periods and use it to identify and prosecute offenders. It would also reduce the chances of miscarriages of justice by preserving evidence on case files.
+
+Sentiment - A

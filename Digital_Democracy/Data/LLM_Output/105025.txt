@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I can help you review the text file open in your current webpage. Here is my response:
+
+Summary - The text file is a record of a debate in the UK House of Commons on the Schengen governance, which is a set of rules and policies for the border-free area in the European Union. The debate covers various issues related to the Schengen acquis, such as border control, evaluation mechanism, and the accession of Bulgaria and Romania.
+
+For - Voting 'Ayes' in the division means supporting the Government's approach for stronger governance of the Schengen area whilst safeguarding the Member States' primary responsibility in matters of internal security; securing an effective evaluation and monitoring mechanism which includes the UK in respect of Schengen provisions in which the UK takes part; and supporting the accession of Bulgaria and Romania to the Schengen area as they have met the criteria and standards required of them under the terms of their Acts of Accession.
+
+Against - Voting 'Noes' in the division means opposing the Government's approach for stronger governance of the Schengen area and preferring to maintain or restore national sovereignty over border control and internal security; rejecting or questioning the effectiveness of the evaluation and monitoring mechanism which includes the UK in respect of Schengen provisions in which the UK takes part; and opposing or delaying the accession of Bulgaria and Romania to the Schengen area due to concerns over corruption, crime, or migration.
+
+Decision - Voting 'Aye' in the division is associated with globalisation and strengthening ties with the European Union and other Foreign Affairs, as it implies a willingness to cooperate and integrate with other EU Member States on matters related to border-free movement, security, and enlargement.
+
+Sentiment - A

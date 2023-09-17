@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I can help you review the text file open in your current webpage. Here is my response based on your request:
+
+Summary - The text file is a transcript of a debate in the UK Parliament on the Finance (No. 3) Bill, which contains various measures related to taxation and spending. The debate covers topics such as bank levy, bank bonus tax, financial transaction tax, and youth unemployment.
+
+For - Voting for the Third Reading of the Bill means supporting the Government's fiscal policy, which includes reducing the deficit, cutting corporation tax, introducing a bank levy, and scrapping the bank bonus tax. The Government argues that this policy will promote growth, competitiveness, and fairness.
+
+Against - Voting against the Third Reading of the Bill means opposing the Government's fiscal policy, which is accused of being unfair, ineffective, and damaging to the economy and society. The Opposition calls for a repeat of the bank bonus tax, a higher bank levy, a financial transaction tax, and more investment in jobs and housing.
+
+Decision - Voting for the Third Reading of the Bill is associated with austerity and regulation. The Government's policy aims to reduce public spending and borrowing, and to impose a levy on banks based on their balance sheets. This contrasts with stimulus and free market approaches, which would favour more public spending and lower taxes.
+
+Sentiment - B

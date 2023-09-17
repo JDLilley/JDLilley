@@ -1,0 +1,13 @@
+## Bing
+
+Thank you for your request. Here is my response based on the text file open in your current webpage:
+
+Summary - The text file is a transcript of a debate in the House of Commons on the Welfare Reform Bill, which aims to reform the welfare system and reduce the deficit. The debate focuses on the amendments made by the House of Lords, especially on the time limit for contributory employment and support allowance (ESA).
+
+For - Voting 'Ayes' in the division means agreeing with the Government's proposal to limit the contributory ESA to one year for those in the work-related activity group, regardless of their condition or circumstances. This would save money and encourage people to find work or rely on other sources of income.
+
+Against - Voting 'Noes' in the division means disagreeing with the Government's proposal and supporting the Lords' amendment to extend the time limit to at least two years and make it flexible according to regulations. This would protect the rights and interests of those who have paid into the system and need more time to recover or find work.
+
+Decision - Voting 'Aye' in the division is associated with cutting spending on, and provision of, welfare and social housing. This is because it would reduce the number of people who are eligible for contributory ESA, which is not means-tested and does not depend on household income or savings. It would also affect their access to other benefits, such as housing benefit, which are linked to ESA.
+
+Sentiment - B

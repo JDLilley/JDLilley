@@ -1,0 +1,11 @@
+## Bing
+
+Summary - The text file is a transcript of a parliamentary debate on the Legal Aid, Sentencing and Punishment of Offenders Bill, which aimed to reform the legal aid system, reduce reoffending and tackle compensation culture. The debate covered various amendments to the Bill and their implications.
+
+For - Voting 'Ayes' for Amendment 142 means supporting the Government's proposal to introduce alcohol abstinence requirements as a sentencing option for offenders who commit alcohol-related crimes. This would allow courts to impose a condition that offenders do not consume alcohol for a specified period and are monitored by electronic tags.
+
+Against - Voting 'Noes' for Amendment 142 means opposing the Government's proposal and arguing that it is ineffective, disproportionate and impractical. Some of the objections raised include the lack of evidence for the effectiveness of alcohol abstinence requirements, the potential breach of human rights and civil liberties, and the practical difficulties of enforcing and monitoring the scheme.
+
+Decision - Voting 'Aye' for Amendment 142 is associated with greater police powers, harsher punishments and strengthening Crime & Justice. This is because the proposal would give courts more authority to impose restrictions on offenders' behaviour, increase the severity of sanctions for non-compliance, and enhance the role of the criminal justice system in addressing alcohol-related problems.
+
+Sentiment - A

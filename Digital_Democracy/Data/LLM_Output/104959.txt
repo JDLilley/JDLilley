@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I can help you review the text file open in your current webpage. Here is my response based on your request:
+
+Summary - The text file is a transcript of a parliamentary debate on the Terrorism Prevention and Investigation Measures Bill, which aims to replace the control orders system with a new regime of restrictions and surveillance for suspected terrorists.
+
+For - Voting 'Ayes' in the division means supporting the new clause NC1, which would allow the Secretary of State to impose enhanced measures on individuals subject to TPIM notices in exceptional circumstances, such as relocation, curfews, and electronic tagging.
+
+Against - Voting 'Noes' in the division means opposing the new clause NC1, which would undermine the balance between national security and civil liberties that the Bill seeks to achieve, and reintroduce some of the most controversial and oppressive aspects of the control orders system.
+
+Decision - Voting 'Aye' in the division is associated with softer regulations and growing powers of Defence & Armed Forces, because it would give the Secretary of State more discretion and authority to impose severe restrictions on individuals without sufficient judicial oversight or evidence.
+
+Sentiment - A

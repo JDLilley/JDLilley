@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I can help you review the text file open in your current webpage. Here is my response:
+
+Summary - The text file is a transcript of a parliamentary debate on a bill to create a programme for youth employment and training, funded by a levy on bank bonuses. The bill was proposed by Steve McCabe and opposed by John McDonnell on health and safety grounds.
+
+For - Voting for the bill means supporting a fresh initiative to tackle youth unemployment, which is high and has long-term negative effects. The bill aims to provide more opportunities for young people to access education, employment and training, especially in STEM skills. The bill also seeks to help small businesses employ apprentices and offer careers guidance.
+
+Against - Voting against the bill means rejecting the proposal as inadequate and flawed. The bill does not specify how the programme would be implemented, how much it would cost or who would be responsible. The bill also neglects the issue of health and safety for apprentices, which could lead to injuries and fatalities.
+
+Decision - Voting for the bill is associated with stimulus and the free market, because it proposes to use a levy on bank bonuses to fund the programme, rather than increasing taxes or cutting spending. It also promotes the expansion of apprenticeships and small businesses, which are part of the private sector.
+
+Sentiment - A

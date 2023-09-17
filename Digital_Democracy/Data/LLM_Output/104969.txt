@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I have reviewed the text file open in your current webpage and I will try to answer your questions as best as I can.
+
+Summary - The text file is a transcript of a parliamentary debate on the Health and Social Care (Re-committed) Bill, which aims to reform the NHS in England. The debate covers various amendments and clauses related to abortion, counselling, commissioning, and public health.
+
+For - Voting 'Ayes' in the division means supporting the Third Reading of the Bill, which would allow it to proceed to the House of Lords for further scrutiny. The supporters of the Bill argue that it would improve patient choice, quality of care, efficiency, and accountability in the NHS.
+
+Against - Voting 'Noes' in the division means opposing the Third Reading of the Bill, which would prevent it from advancing to the House of Lords. The opponents of the Bill argue that it would undermine the principles of the NHS, create fragmentation, increase bureaucracy, and risk privatisation.
+
+Decision - Voting 'Aye' in the division could be associated with both investment in public health and improving standards of care, and fiscal responsibility in the context of Health & Healthcare. The supporters of the Bill claim that it would achieve both objectives by introducing more competition, innovation, and transparency in the NHS.
+
+Sentiment - C

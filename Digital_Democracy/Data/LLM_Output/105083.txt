@@ -1,0 +1,13 @@
+## Bing
+
+Thank you for your request. Here is my response based on the text file open in your current webpage:
+
+Summary - The text file is a transcript of a debate in the UK Parliament on the Welfare Reform Bill, which aims to reform the welfare system and reduce the deficit. The debate focuses on the amendments made by the House of Lords, especially on the time limit for contributory employment and support allowance (ESA).
+
+For - Voting 'Ayes' in the division means supporting the Government's proposal to disagree with the Lords amendment 18, which would exempt cancer patients from the one-year time limit for contributory ESA[1]. The Government argues that this measure is necessary to save money, to apply a consistent principle to all conditions, and to avoid paying benefits to people who have not lived in the UK recently.
+
+Against - Voting 'Noes' in the division means opposing the Government's proposal and supporting the Lords amendment 18, which would protect cancer patients from the one-year time limit for contributory ESA. The Opposition argues that this measure is unfair, cruel and indefensible, as it would deprive people who have worked and paid into the system of vital support when they need it most.
+
+Decision - Voting 'Aye' in the division is associated with cutting spending on, and provision of, welfare and social housing. This is because the Government's proposal would reduce the number of people who are eligible for contributory ESA, which is a benefit that helps people with disabilities and health conditions to live independently and access suitable accommodation. By imposing a one-year time limit, the Government would force many people to rely on means-tested ESA, which is less generous and more conditional, or to lose their benefit altogether if they have other sources of income or savings.
+
+Sentiment - B

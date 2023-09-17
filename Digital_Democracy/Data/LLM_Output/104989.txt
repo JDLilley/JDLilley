@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I have reviewed the text file open in your current webpage and I will try to answer your questions as best as I can.
+
+Summary - The text file is a transcript of a debate in the UK Parliament on the Protection of Freedoms Bill, which aims to regulate the use of CCTV and other surveillance technologies by the police and local authorities. The debate covers various aspects of the bill, such as its impact on crime prevention, privacy, human rights, and public consultation.
+
+For - Voting 'Ayes' in the division means supporting the bill and its intention to create a code of practice and a commissioner for CCTV and other surveillance systems. It also means agreeing with the arguments that the bill will enhance civil liberties, protect personal data, and ensure proportionate and accountable use of surveillance.
+
+Against - Voting 'Noes' in the division means opposing the bill and its potential to restrict the use of CCTV and other surveillance systems by the police and local authorities. It also means disagreeing with the arguments that the bill will roll back state intrusion, improve public confidence, and provide clear guidance for surveillance operators.
+
+Decision - Voting 'Aye' in the division is associated with freedom & autonomy, limiting police powers & softer punishments, limiting Crime & Justice. This is because the bill aims to reduce the scope and extent of surveillance by public authorities, which could affect their ability to prevent and detect crime, as well as impose sanctions on offenders.
+
+Sentiment - B

@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I have reviewed the text file open in your current webpage and I will try to answer your questions as best as I can.
+
+Summary - The text file is a transcript of a debate in the UK Parliament on the Protection of Freedoms Bill, which aims to regulate the use of CCTV and other surveillance technologies by the police and local authorities. The debate covers different aspects of the bill, such as its impact on crime prevention, privacy, public consultation, and cost-benefit analysis.
+
+For - Voting 'Ayes' in the division means supporting the new clause NC18, which proposes to create a statutory code of practice for CCTV and other surveillance systems, and to appoint a surveillance camera commissioner to oversee the code's implementation and compliance. The supporters of the new clause argue that it will enhance the accountability, transparency, and proportionality of CCTV use, and that it will protect the public from excessive or intrusive surveillance.
+
+Against - Voting 'Noes' in the division means opposing the new clause NC18, and preferring the existing voluntary code of practice for CCTV and other surveillance systems. The opponents of the new clause argue that it will impose unnecessary bureaucracy, costs, and restrictions on the police and local authorities, and that it will undermine their ability to use CCTV effectively for crime prevention and detection. They also question the need for a separate commissioner for CCTV.
+
+Decision - Voting 'Aye' in the division is associated with freedom & autonomy, limiting police powers & softer punishments, limiting Crime & Justice. This is because the new clause NC18 aims to regulate CCTV and other surveillance systems in a way that respects the privacy rights and civil liberties of the public, and that prevents the abuse or misuse of such technologies by the state. It also implies a less punitive and more balanced approach to crime control, which does not rely solely on surveillance.
+
+Sentiment - B

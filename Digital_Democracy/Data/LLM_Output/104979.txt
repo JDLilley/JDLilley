@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I can help you review the text file open in your current webpage. Here is my response based on your request:
+
+Summary - The text file is a transcript of a debate in the UK Parliament on the Energy Bill, which aims to promote energy efficiency and reduce carbon emissions through the Green Deal scheme. The debate covers various amendments and issues related to the Bill.
+
+For - Voting 'Ayes' in the division means supporting amendment 4, which would require the Secretary of State to set a minimum standard of energy efficiency for rented properties by 2016. This would help to improve the quality of housing and reduce fuel poverty for tenants.
+
+Against - Voting 'Noes' in the division means opposing amendment 4, which would impose a burden on landlords and potentially reduce the supply of rental properties. This would harm the competitiveness of the private rented sector and discourage investment in energy efficiency measures.
+
+Decision - Voting 'Aye' in the division is associated with prioritising environmental sustainability in the context of Environment & Energy, as it would lead to lower carbon emissions and energy consumption from rented properties. It would also benefit the health and well-being of tenants by providing them with warmer and more comfortable homes.
+
+Sentiment - A

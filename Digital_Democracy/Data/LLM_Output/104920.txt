@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I have reviewed the text file open in your current webpage and I will try to answer your questions as best as I can. Here is my response:
+
+Summary - The text file is a transcript of a debate in the UK Parliament on the Armed Forces Bill, which aims to improve the welfare and support of service personnel and veterans. The debate covers various amendments and new clauses proposed by different MPs, such as creating a Minister for Former Armed Services Personnel, extending the network of Armed Forces Advocates, and introducing a Former Armed Services Personnel Rights Charter.
+
+For - Voting 'Ayes' in the division on New Clause NC17 means supporting the proposal to make public bodies and Ministers have regard to the commitments outlined in the Armed Forces Covenant, which is a statement of the moral obligation between the nation, the Government and the armed forces. The supporters of this clause argue that it would ensure that service personnel and veterans are not disadvantaged by their service and that they receive fair treatment in accessing public services.
+
+Against - Voting 'Noes' in the division on New Clause NC17 means opposing the proposal to make public bodies and Ministers have regard to the commitments outlined in the Armed Forces Covenant. The opponents of this clause argue that it is unnecessary and impractical, as the Government already has a duty to report annually on the covenant and to consult with relevant stakeholders. They also claim that it would create legal uncertainty and confusion, as the covenant is not a legally binding document.
+
+Decision - Voting 'Aye' in the division on New Clause NC17 is associated with increased accountability and limiting powers of Defence & Armed Forces, as it would impose a statutory obligation on public bodies and Ministers to consider the impact of their policies and decisions on service personnel and veterans, and to ensure that they are not disadvantaged or discriminated against. It would also give more weight and recognition to the Armed Forces Covenant, which is currently a voluntary and aspirational statement.
+
+Sentiment - B

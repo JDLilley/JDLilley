@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I have reviewed the text file open in your current webpage and here is my response:
+
+Summary - The text file is a transcript of a parliamentary debate on the Education Bill in the UK. The Bill aims to give more autonomy and accountability to schools, teachers and students. The debate covers various amendments proposed by the Lords and the Commons.
+
+For - Voting 'Ayes' in the division means supporting Lords amendment 36, which would require the Secretary of State to consult with relevant bodies before making regulations on school performance measures. This would ensure that the measures are fair, transparent and consistent with the aims of the Bill.
+
+Against - Voting 'Noes' in the division means rejecting Lords amendment 36, which would impose an unnecessary burden on the Secretary of State and delay the implementation of the new performance measures. This would undermine the Government's intention to raise standards and improve outcomes for all pupils.
+
+Decision - Voting 'Aye' in the division is associated with increased Education & Learning, because it would ensure that the school performance measures are based on evidence and consultation, and reflect the diverse needs and abilities of pupils. It would also promote accountability and transparency in the education system.
+
+Sentiment - A

@@ -1,0 +1,11 @@
+## Bing
+
+Summary - The text file is a transcript of a parliamentary debate on the Legal Aid, Sentencing and Punishment of Offenders Bill, which aims to reform the legal aid system and the criminal justice system in England and Wales.
+
+For - Voting 'Ayes' in the division means supporting the Government's motion to vary the programme order for the Bill, which sets out the timetable and procedure for its further consideration. This would allow the Government to make amendments to the Bill and avoid delays or filibustering by the opposition.
+
+Against - Voting 'Noes' in the division means opposing the Government's motion to vary the programme order for the Bill, which would limit the time and scope for its further scrutiny. This would enable the opposition to challenge the Government's proposals and raise concerns about the impact of the Bill on access to justice and civil liberties.
+
+Decision - Voting 'Aye' in the division is associated with greater police powers, harsher punishments, and strengthening Crime & Justice, as the Bill would introduce tougher sentences for offenders, reduce legal aid for civil and family cases, and restrict judicial review and appeals.
+
+Sentiment - A

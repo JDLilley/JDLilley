@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I have reviewed the text file open in your current webpage and I will try to answer your questions as best as I can.
+
+Summary - The text file is a transcript of a debate in the UK Parliament on the Terrorism Prevention and Investigation Measures Bill, which aims to replace the control orders regime with a new system of measures to manage the risk posed by suspected terrorists. The debate focuses on the amendments made by the House of Lords and the opposition's proposal to extend the transitional period from 42 to 365 days[1].
+
+For - Voting 'Ayes' in the division means supporting the opposition's amendment to extend the transitional period from 42 to 365 days[2]. The argument for this amendment is that it would provide more time and flexibility for the police and security services to prepare for the new regime and ensure that no unnecessary risks are taken in a year of major events such as the Olympics and the diamond jubilee.
+
+Against - Voting 'Noes' in the division means rejecting the opposition's amendment and agreeing with the Government's proposal to extend the transitional period from 28 to 42 days. The argument against this amendment is that it is not necessary and that the Government has received assurances from the police and security services that effective arrangements will be in place to manage the transition from control orders to TPIMs[3].
+
+Decision - Voting 'Aye' in the division is associated with increased accountability and limiting powers of Defence & Armed Forces, because it would maintain the more restrictive control orders regime for a longer period and subject it to more judicial oversight and review.
+
+Sentiment - B

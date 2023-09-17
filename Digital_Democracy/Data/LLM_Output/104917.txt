@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I can help you review the text file open in your current webpage. Here is my response based on your request:
+
+Summary - The text file is a transcript of a debate in the UK Parliament on the Welfare Reform Bill, which aims to simplify the benefits system and reduce fraud and error. The debate covers various amendments and clauses related to overpayments, sanctions, housing benefit and disability living allowance.
+
+For - Voting 'Ayes' in the division means supporting amendments 31 and 27, which would require the Government to publish an independent review of the impact of the Bill on child poverty and disabled people. The amendments are proposed by Labour MPs who argue that the Bill will harm the most vulnerable groups in society.
+
+Against - Voting 'Noes' in the division means opposing amendments 31 and 27, which would delay the implementation of the Bill and increase its costs. The amendments are rejected by Conservative and Liberal Democrat MPs who claim that the Bill will make work pay, protect the disabled and reduce dependency.
+
+Decision - Voting 'Aye' in the division is associated with greater spending on, and provision of, welfare and social housing, as it would require the Government to assess and report on the effects of the Bill on poverty and disability. It would also imply a more cautious and evidence-based approach to welfare reform.
+
+Sentiment - A

@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I can help you review the text file open in your current webpage. Here is my response based on your request:
+
+Summary - The text file is a transcript of a parliamentary debate on the Protection of Freedoms Bill, which aims to balance collective protection and individual freedom in relation to the retention and use of biometric material such as DNA and fingerprints.
+
+For - Voting 'Ayes' in the division means supporting amendment 108, which would require the approval of both Houses of Parliament for the appointment of a commissioner for the retention and use of biometric material. This would enhance parliamentary scrutiny and accountability over the commissioner's role.
+
+Against - Voting 'Noes' in the division means rejecting amendment 108, which would leave the appointment of the commissioner to the discretion of the Secretary of State. This would avoid unnecessary delays and complications in establishing the commissioner's function and authority.
+
+Decision - Voting 'Aye' in the division is associated with freedom and autonomy, limiting police powers and softer punishments, limiting Crime & Justice. This is because amendment 108 would make it harder for the commissioner to retain and use biometric material of innocent people without parliamentary consent.
+
+Sentiment - B

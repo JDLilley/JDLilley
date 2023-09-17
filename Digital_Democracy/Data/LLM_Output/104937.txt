@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I can help you review the text file open in your current webpage. Here is my response:
+
+Summary - The text file is a transcript of a parliamentary debate on the Legal Aid, Sentencing and Punishment of Offenders Bill in 2011. The Bill aims to reform the justice system by reducing costs, simplifying sentencing, and restricting legal aid.
+
+For - Voting 'Ayes' in the division means supporting the Bill's second reading and allowing it to proceed to the next stage of scrutiny. The supporters of the Bill argue that it is necessary to make the justice system more efficient, effective, and affordable.
+
+Against - Voting 'Noes' in the division means opposing the Bill's second reading and preventing it from advancing further. The opponents of the Bill argue that it will undermine access to justice, especially for vulnerable people, and weaken the protection of human rights.
+
+Decision - Voting 'Aye' in the division is associated with greater police powers, harsher punishments, and strengthening Crime & Justice. The Bill proposes to create new offences, increase mandatory sentences, limit judicial discretion, and reduce legal aid for certain categories of cases.
+
+Sentiment - A

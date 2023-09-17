@@ -1,0 +1,13 @@
+## Bing
+
+Thank you for your request. Here is my response based on the text file open in your current webpage:
+
+Summary - The text file is a transcript of a parliamentary debate in the UK House of Commons on October 24, 2011, about whether to hold a national referendum on the UK's membership of the European Union.
+
+For - Voting 'Ayes' in the division means supporting the motion to have a referendum on the EU. Those who voted 'Ayes' argued that the British people deserved a say on their relationship with the EU, which had changed significantly since the last referendum in 1975. They also expressed dissatisfaction with the loss of sovereignty and the costs of EU membership.
+
+Against - Voting 'Noes' in the division means opposing the motion to have a referendum on the EU. Those who voted 'Noes' argued that holding a referendum at a time of economic crisis and uncertainty would be irresponsible and damaging to the UK's interests. They also defended the benefits of EU membership, such as trade, security and influence.
+
+Decision - Voting 'Aye' in the division could be seen as associated with protectionism and independence from the European Union and other foreign affairs, as it implies a willingness to leave or renegotiate the terms of membership. Voting 'Noe' could be seen as associated with globalisation and strengthening ties with the European Union and other foreign affairs, as it implies a commitment to remain and cooperate within the EU framework.
+
+Sentiment - C

@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I can help you review the text file open in your current webpage. Here is my response:
+
+Summary - The text file is a transcript of a debate in the UK House of Commons on a bill to devolve some functions of Jobcentre Plus to the Welsh Government. The bill was proposed by Hywel Williams, a Plaid Cymru MP, and opposed by Guto Bebb, a Conservative MP. The bill was rejected by a large majority.
+
+For - Voting 'Ayes' means supporting the bill to transfer some powers over Jobcentre Plus to the Welsh Government[1]. The argument for this is that it would improve coordination and delivery of employment services in Wales, taking into account the local needs and conditions of the Welsh labour market, education and training, and social inclusion.
+
+Against - Voting 'Noes' means rejecting the bill to devolve some functions of Jobcentre Plus to the Welsh Government[1]. The argument against this is that it would create confusion and bureaucracy at a time when the UK Government is introducing major reforms to the welfare system and the Work programme. It would also undermine the expertise and motivation of Jobcentre Plus staff and the private sector contractors.
+
+Decision - Voting 'Aye' in this division is not clearly associated with either greater or lower spending on welfare and social housing. It depends on how the Welsh Government would use its devolved powers and resources to deliver employment services and support job seekers. It could potentially lead to more or less spending on welfare and social housing, depending on the effectiveness and efficiency of the devolved system.
+
+Sentiment - C

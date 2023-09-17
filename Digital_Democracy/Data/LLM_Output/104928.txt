@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I can help you review the text file open in your current webpage. Here is my response based on your request:
+
+Summary - The text file is a transcript of a debate in the UK Parliament about the Health and Social Care Bill, which aims to reform the NHS. The debate focuses on the programme motion, which sets the timetable and scope for further scrutiny of the Bill.
+
+For - Voting 'Ayes' in the division means supporting the Government's proposal to recommit only some parts of the Bill to a Public Bill Committee, and to limit the time for debate. The Government argues that this will avoid unnecessary delay and provide clarity and direction to staff and patients[1].
+
+Against - Voting 'Noes' in the division means opposing the Government's proposal and calling for the full Bill to be reconsidered in Committee, with more time to look at the detail of the amendments and their consequences. The Opposition argues that this will ensure proper parliamentary scrutiny and accountability.
+
+Decision - Voting 'Aye' in the division is associated with fiscal responsibility in the context of Health & Healthcare, because it implies that the Government wants to save money and time by speeding up the legislative process and implementing the reforms as soon as possible.
+
+Sentiment - B
