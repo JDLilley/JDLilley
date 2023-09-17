@@ -1,0 +1,13 @@
+## Bing
+
+Here is my response based on the text file open in your current webpage:
+
+Summary - The text file is a transcript of a parliamentary debate on the Charities Bill, which aims to reform the law on charitable purposes and public benefit. The debate covers various aspects of the Bill, such as the definition of religion and belief, the regulation of land disposal, and the promotion of sports.
+
+For - Voting 'Ayes' in the division on the Charities Bill means supporting the Government's proposal to modernise and simplify the law on charities, and to ensure that they serve the public interest. It also means rejecting the amendments that would widen the scope of religion and belief, or exempt certain sports from demonstrating public benefit.
+
+Against - Voting 'Noes' in the division on the Charities Bill means opposing the Government's proposal and favouring the status quo or alternative reforms. It also means supporting the amendments that would include non-religious beliefs as charitable purposes, or recognise sports that are open to international competition as beneficial to society.
+
+Decision - Voting 'Aye' in the division on the Charities Bill is not directly associated with either greater or lesser spending on, or provision of, welfare and social housing. The Bill does not affect the funding or regulation of these areas, nor does it change the criteria for charitable status for organisations that work in them.
+
+Sentiment - C

@@ -1,0 +1,13 @@
+## Bing
+
+Thank you for your request. Here is my response based on the text file open in your current webpage:
+
+Summary - The text file is a transcript of a parliamentary debate on the Welfare Reform Bill, which aims to replace incapacity benefit with a new employment and support allowance[1]. The debate focuses on the personal capability assessment, which determines eligibility for the new benefit.
+
+For - Voting 'Ayes' in the division means supporting the Government's proposal to reform the personal capability assessment, which they claim will be more accurate, fair and flexible for people with different types of disabilities and impairments.
+
+Against - Voting 'Noes' in the division means opposing the Government's proposal and expressing concerns about the lack of transparency, testing and consultation in the new assessment process. It also means questioning the validity and reliability of the medical judgments involved and the potential impact on vulnerable claimants.
+
+Decision - Voting 'Aye' in the division is associated with cutting spending on, and provision of, welfare and social housing. This is because the Government's intention is to reduce the number of people claiming incapacity benefit by making the eligibility criteria stricter and more selective. This could result in more people being denied or losing their benefit, and having to rely on other sources of income or support.
+
+Sentiment - B

@@ -1,0 +1,13 @@
+## Bing
+
+Here is my response based on the text file open in your current webpage:
+
+Summary - The text file is a transcript of a debate in the UK House of Commons on the Civil Aviation Bill, which aims to clarify the powers of airports to charge for noise and emissions. The debate focuses on the environmental impact of aviation and the role of local communities.
+
+For - Voting 'Ayes' in the division means supporting the Government's amendments, which reject the Lords' proposal to impose a legal duty on all airports to charge for noise and emissions. The Government argues that such a duty would be disproportionate, over-regulatory, and contrary to international guidance.
+
+Against - Voting 'Noes' in the division means supporting the Lords' amendments, which reflect the frustration with the Government's lack of action on reducing noise and emissions from aviation. The Lords argue that such a duty would be necessary, effective, and fair to protect the interests of people living near airports.
+
+Decision - Voting 'Aye' in the division is associated with reduced bureaucracy and centralisation in the context of Parliamentary Procedures. This is because it supports the Government's position of not imposing unnecessary regulation on business, and leaving the decision to charge for noise and emissions to the discretion of the Secretary of State[1].
+
+Sentiment - C

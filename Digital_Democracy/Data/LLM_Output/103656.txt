@@ -1,0 +1,13 @@
+## Bing
+
+Thank you for your request. Here is my response based on the text file open in your current webpage:
+
+Summary - The text file is a transcript of a debate in the UK Parliament about the Police and Justice Bill, which aims to update the extradition arrangements with the US and other countries. The debate focuses on the evidence requirements and the interests of justice in extradition cases.
+
+For - Voting 'Ayes' in the division means supporting the Government's motion to disagree with the Lords amendments that would restore the prima facie evidence requirement and give more discretion to the judge to refuse extradition. The Government argues that the current arrangements are fair, reciprocal, and effective in fighting serious crimes.
+
+Against - Voting 'Noes' in the division means supporting the Lords amendments that would change the extradition arrangements with the US and other countries. The Opposition argues that the current arrangements are unjust, unequal, and harmful to the rights of UK citizens who face extradition.
+
+Decision - Voting 'Aye' in the division is associated with greater police powers, harsher punishments, and strengthening Crime & Justice. The Government's position is that extradition is a vital tool for ensuring justice for victims and bringing perpetrators of crime to justice, regardless of where they committed their offences[1]. The Government also claims that there are robust safeguards in place to protect the human rights of those who are extradited.
+
+Sentiment - A

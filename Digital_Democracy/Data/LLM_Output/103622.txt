@@ -1,0 +1,13 @@
+## Bing
+
+Here is my review of the text file open in your current webpage:
+
+Summary - The text file contains the records of the proceedings of the House of Commons on 13th July 2006. It covers topics such as the European Union budget, human tissue regulations, and international development.
+
+For - Voting 'Ayes' in the division on European Documents means supporting the Government's efforts to maintain budget discipline in the European Union for the financial year 2007. It also means accepting the unnumbered Explanatory Memorandum from HM Treasury dated 23rd May 2006.
+
+Against - Voting 'Noes' in the division on European Documents means opposing the Government's efforts to maintain budget discipline in the European Union for the financial year 2007. It also means rejecting the unnumbered Explanatory Memorandum from HM Treasury dated 23rd May 2006.
+
+Decision - Voting 'Aye' in the division on European Documents is associated with globalisation and strengthening ties with the European Union and other Foreign Affairs. This is because it shows a commitment to cooperate with other member states on fiscal matters and to follow the guidelines set by the European Commission.
+
+Sentiment - A

@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I have reviewed the text file open in your current webpage and I will try to answer your questions as best as I can. Here is my response:
+
+Summary - The text file contains a transcript of a debate in the UK House of Commons on various motions related to parliamentary procedures and allowances. The debate took place on 7 March 2007 and involved different views and arguments from MPs of different parties.
+
+For - Voting 'Ayes' in the division on Legislative Process means supporting the proposal to change the way bills are scrutinised and amended by MPs. The supporters of this motion argue that it would make the legislative process more efficient, transparent and accountable, and allow more time for debate and scrutiny.
+
+Against - Voting 'Noes' in the division on Legislative Process means opposing the proposal to change the way bills are scrutinised and amended by MPs. The opponents of this motion argue that it would undermine the role of Parliament in holding the government to account, reduce the opportunities for MPs to influence legislation, and weaken the rights of backbenchers and minority parties.
+
+Decision - Voting 'Aye' in the division on Legislative Process is associated with greater police powers, harsher punishments, strengthening Crime & Justice. This is because the proposal would give more power to the government and its majority to pass laws without sufficient scrutiny or challenge from Parliament. This could lead to more legislation that favours law and order over civil liberties and human rights.
+
+Sentiment - A

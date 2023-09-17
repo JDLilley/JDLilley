@@ -1,0 +1,13 @@
+103714## Bing
+
+Thank you for your request. Here is my response based on the text file open in your current webpage:
+
+Summary - The text file is a transcript of a parliamentary debate on the Fraud (Trials without a Jury) Bill, which proposes to allow non-jury trials in complex fraud cases. The debate covers the arguments for and against the Bill, as well as some procedural and constitutional issues.
+
+For - Voting 'Ayes' in the division means supporting the Bill and agreeing that non-jury trials are necessary in some fraud cases to ensure the full culpability of the defendants, the efficiency of the justice system, and the avoidance of jury tampering or undue burden.
+
+Against - Voting 'Noes' in the division means opposing the Bill and defending the right to jury trial in all serious criminal cases. The arguments against the Bill include the lack of evidence that juries are incapable or unwilling to deal with complex fraud cases, the importance of public confidence and participation in the justice system, and the risk of undermining the adversarial nature of criminal trials.
+
+Decision - Voting 'Aye' in the division is associated with greater police powers, harsher punishments, and strengthening Crime & Justice. This is because it would give more discretion to the prosecution and the judge to decide whether a case should be tried without a jury, and it would potentially increase the conviction rate and the sentence length for fraud offences.
+
+Sentiment - A

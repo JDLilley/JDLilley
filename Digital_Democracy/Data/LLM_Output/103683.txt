@@ -1,0 +1,13 @@
+## Bing
+
+Thank you for your request. Here is my response based on the text file open in your current webpage:
+
+Summary - The text file is a transcript of a parliamentary debate on a bill that would allow some fraud trials to be conducted without a jury. The Solicitor-General argues that the bill is necessary to deal with complex and lengthy fraud cases, while the opposition parties challenge the proposal as an attack on the jury system.
+
+For - Voting 'Ayes' in the division means supporting the bill and agreeing that some serious and complex fraud trials should be tried by a judge alone[1]. This would enable the prosecution to present the full criminality of the fraud, reduce the burden on the jury, and prevent trials from collapsing.
+
+Against - Voting 'Noes' in the division means opposing the bill and defending the right to jury trial in all cases. This would uphold the principle of trial by peers, ensure public confidence in the justice system, and protect the accused from potential bias or error by a single judge.
+
+Decision - Voting 'Aye' in the division is associated with greater police powers, harsher punishments, and strengthening Crime & Justice. This is because it would make it easier for the authorities to prosecute and convict fraudsters, who might otherwise escape justice due to the difficulties of presenting complex evidence to a jury.
+
+Sentiment - A

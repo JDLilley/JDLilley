@@ -1,0 +1,13 @@
+## Bing
+
+Thank you for your request. Here is my response based on the text file open in your current webpage:
+
+Summary - The text file is a transcript of a debate in the UK House of Commons on the Police and Justice Bill, which deals with extradition arrangements, police powers, and criminal justice reforms. The debate focuses on the amendments proposed by the House of Lords, which the government disagrees with.
+
+For - Voting 'Ayes' in the division means supporting the government's motion to disagree with the Lords amendments. It means accepting the extradition treaty with the US, which does not require prima facie evidence, and allowing the judge to consider the interests of justice in deciding where to try a case.
+
+Against - Voting 'Noes' in the division means opposing the government's motion and supporting the Lords amendments. It means restoring the prima facie evidence requirement in US requests, and preventing the judge from extraditing a person if any of the conduct was carried out in the UK[1].
+
+Decision - Voting 'Aye' in the division is associated with greater police powers, harsher punishments, and strengthening Crime & Justice. It implies trusting the US legal system and prioritizing international cooperation in fighting crime. It also implies giving more discretion to the judge and the prosecutor in extradition cases.
+
+Sentiment - A

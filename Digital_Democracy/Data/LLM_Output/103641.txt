@@ -1,0 +1,11 @@
+## Bing
+
+Summary - The text file is a transcript of a debate in the UK Parliament about a bill to amend the Gambling Act 2005 and allow more casinos. The bill was proposed by a Labour MP and opposed by a Conservative MP. The bill was rejected by a large majority.
+
+For - Voting 'Ayes' in the division means supporting the bill and allowing more casinos in the UK. The arguments for the bill are based on the potential benefits of casinos for regeneration, investment and jobs in deprived areas.
+
+Against - Voting 'Noes' in the division means rejecting the bill and keeping the current limit of one regional casino. The arguments against the bill are based on the moral hazards of casinos and the risk of increasing problem gambling and its social costs.
+
+Decision - Voting 'Aye' in the division is associated with stimulus and the free market, because it would allow more competition and choice in the gambling industry and create more opportunities for economic growth and development.
+
+Sentiment - A

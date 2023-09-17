@@ -1,0 +1,13 @@
+## Bing
+
+Thank you for your request. Here is my response based on the text file open in your current webpage:
+
+Summary - The text file is a transcript of a debate in the UK Parliament about the NHS Redress Bill, which aims to create a fast-track settlement scheme for clinical negligence claims. The main point of contention is whether the investigation of facts should be independent of the trust involved[1].
+
+For - Voting 'Ayes' means supporting the Government's proposal to have the investigation carried out by the trust itself, with oversight by a person of specified qualifications and experience. The Government argues that this would foster a culture of openness, learning and accountability within the NHS, and reduce the costs and delays of litigation.
+
+Against - Voting 'Noes' means supporting the Opposition's amendment to have the investigation overseen by someone who is independent of the trust and the NHS Litigation Authority[2]. The Opposition argues that this would ensure a fair and impartial assessment of the facts, and increase the confidence and satisfaction of the patients who seek redress.
+
+Decision - Voting 'Aye' in the division: NHS Redress Bill is associated with fiscal responsibility in the context of Health & Healthcare. This is because the Government's scheme aims to save money for the NHS by avoiding expensive and lengthy legal processes, and by encouraging trusts to learn from their mistakes and prevent future claims.
+
+Sentiment - B

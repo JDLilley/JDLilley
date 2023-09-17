@@ -1,0 +1,11 @@
+## Bing
+
+Summary - The text file is a transcript of a parliamentary debate on the Civil Aviation Bill, which aims to clarify the powers of airports to charge for noise and emissions[1]. The debate covers the arguments for and against the bill, as well as the amendments proposed by the Lords.
+
+For - Voting 'Ayes' in the division means supporting the Government's position that airports should have the discretion to set noise and emission charges according to their local circumstances, and that the Secretary of State should have the power to intervene if necessary.
+
+Against - Voting 'Noes' in the division means opposing the Government's position and favouring the Lords' amendments, which would impose a legal duty on all airports to charge for noise and emissions, and would require them to set proportionate and non-discriminatory charges.
+
+Decision - Voting 'Aye' in the division is associated with reduced bureaucracy and centralisation in the context of Parliamentary Procedures, because it would avoid imposing unnecessary regulation on small airports, and it would give more authority to the Secretary of State to direct airports on their charging schemes.
+
+Sentiment - C

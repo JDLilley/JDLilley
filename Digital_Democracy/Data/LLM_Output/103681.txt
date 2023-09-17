@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I am happy to help you review the text file open in your current webpage. Here is my response:
+
+Summary - The text file is a transcript of a debate in the UK Parliament on the economy, public services, and poverty. The Chancellor of the Exchequer defends his record and criticises the opposition's proposals. The shadow Chancellor attacks the Chancellor's failures and policies.
+
+For - Voting 'Ayes' in the division: Treasury and Work and Pensions means supporting the Government's economic strategy, which includes investing in education, welfare reform, and pensions. It also means endorsing the Government's achievements in delivering growth, low inflation, low interest rates, and reduced unemployment.
+
+Against - Voting 'Noes' in the division: Treasury and Work and Pensions means opposing the Government's economic strategy, which includes increasing taxes, regulation, and spending. It also means condemning the Government's failures in improving productivity, public services, and child poverty.
+
+Decision - Voting 'Aye' in the division: Treasury and Work and Pensions is associated with greater spending on, & provision of, Welfare & Social Housing. The Government claims that its welfare reform and pensions policies will reduce poverty and increase social justice. The opposition argues that these policies are ineffective and wasteful.
+
+Sentiment - A

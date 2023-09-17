@@ -1,0 +1,13 @@
+## Bing
+
+Thank you for your request. Here is my response based on the text file open in your current webpage:
+
+Summary - The text file is a transcript of a debate in the UK Parliament on amendments to the Finance (No. 2) Bill, which deals with VAT fraud and group relief for companies.
+
+For - Voting 'Ayes' in the division means supporting the Government's amendments to introduce a reverse charge mechanism for certain goods to prevent missing trader intra-community fraud, which costs the UK billions of pounds in lost revenue.
+
+Against - Voting 'Noes' in the division means opposing the Government's amendments and preferring a different approach to tackle VAT fraud, such as a general reverse charge or more resources for enforcement and registration.
+
+Decision - Voting 'Aye' in the division is associated with austerity and regulation, as it aims to reduce the public deficit by cracking down on tax evasion and imposing stricter rules on VAT accounting and reporting.
+
+Sentiment - B

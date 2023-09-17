@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I can help you review the text file open in your current webpage. Here is my response based on your request:
+
+Summary - The text file is a transcript of a debate in the UK House of Commons on the renewal of the Prevention of Terrorism Act 2005, which allows the government to impose control orders on suspected terrorists who cannot be prosecuted or deported.
+
+For - Voting 'Ayes' means supporting the government's view that control orders are necessary and proportionate to protect the public from the serious and sustained threat of terrorism, and that they are compatible with human rights and subject to judicial oversight and review.
+
+Against - Voting 'Noes' means opposing the government's view and expressing concern about the effectiveness, legality and fairness of control orders, which restrict the liberty and privacy of individuals without charge or trial, and may create resentment and radicalisation in some communities.
+
+Decision - Voting 'Aye' is associated with softer regulations and growing powers of Defence & Armed Forces, because it allows the government to use control orders as a preventive measure against suspected terrorists without having to provide sufficient evidence or follow due process in court.
+
+Sentiment - A

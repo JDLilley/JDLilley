@@ -1,0 +1,11 @@
+## Bing
+
+Summary - The text file is a transcript of a parliamentary debate on the Finance (No. 2) Bill, which introduces changes to inheritance tax and other tax measures. The debate covers various aspects of the Bill, such as trusts, disability, life insurance, and relationship breakdown.
+
+For - Voting 'Ayes' in the division means supporting the Government's proposals to reform inheritance tax and prevent tax avoidance through trusts. The Government argues that the Bill is fair, balanced, and consistent with its overall fiscal strategy.
+
+Against - Voting 'Noes' in the division means opposing the Government's proposals and criticising them as retrospective, complex, and unfair. The Opposition argues that the Bill will hit hard-working families, vulnerable people, and small businesses, and that it was introduced without proper consultation.
+
+Decision - Voting 'Aye' in the division is associated with austerity and regulation, because the Government's aim is to raise more revenue from inheritance tax and tighten the rules on trusts. The Government claims that this is necessary to maintain fiscal discipline and reduce public debt.
+
+Sentiment - B
