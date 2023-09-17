@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I can help you review the text file open in your current webpage. Here is my response:
+
+Summary - The text file is a transcript of a debate in the UK Parliament on a bill that would ratify two protocols to the Geneva Conventions and the UN Convention on the Safety of UN Personnel. The bill is not controversial, but the government's use of a programme motion to limit the time for debate is challenged by some opposition MPs.
+
+For - Voting 'Ayes' in the division means supporting the bill and the programme motion. It means agreeing that the bill is important and uncontroversial, and that it should be passed quickly without further amendments or delays. It also means accepting the government's authority to manage the parliamentary business.
+
+Against - Voting 'Noes' in the division means opposing the bill or the programme motion. It means disagreeing that the bill is uncontroversial, and that it should be scrutinised more thoroughly and possibly amended. It also means challenging the government's authority to impose arbitrary time limits on debate.
+
+Decision - Voting 'Aye' in the division is not directly associated with either A or B, as the bill is not about crime and justice in the UK, but about international humanitarian law and the protection of UN personnel. However, one could argue that voting 'Aye' is indirectly associated with A, as it shows support for strengthening the legal framework for prosecuting war crimes and crimes against humanity, and for ensuring accountability for those who attack UN personnel.
+
+Sentiment - C

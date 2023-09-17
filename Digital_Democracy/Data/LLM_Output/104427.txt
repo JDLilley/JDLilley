@@ -1,0 +1,13 @@
+## Bing
+
+Thank you for your request. Here is my response based on the text file open in your current webpage:
+
+Summary - The text file is a transcript of a debate in the UK Parliament on the Finance Bill 2023, which contains various measures to tackle tax avoidance and evasion. The debate covers different clauses and amendments proposed by the Government and the Opposition, as well as their implications for businesses and individuals.
+
+For - Voting 'Ayes' in the division on new clause 3 means supporting the introduction of a general anti-avoidance rule (GAAR) to counter tax avoidance schemes that are abusive or artificial. The supporters of the new clause argue that a GAAR would simplify the tax system, increase fairness, protect the public revenue, and deter future avoidance.
+
+Against - Voting 'Noes' in the division on new clause 3 means opposing the introduction of a GAAR and preferring the current approach of targeting specific tax avoidance schemes with legislation and guidance. The opponents of the new clause argue that a GAAR would create uncertainty, complexity, and litigation, and that it would undermine the rule of law and the sovereignty of Parliament.
+
+Decision - Voting 'Aye' in the division on new clause 3 is associated with austerity & regulation, because it would restrict the freedom of taxpayers to arrange their affairs in a way that minimises their tax liability, and it would impose a higher standard of compliance and scrutiny on their transactions.
+
+Sentiment - B

@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I have reviewed the text file open in your current webpage and here is my response:
+
+Summary - The text file is a transcript of a debate in the UK House of Commons on 24 June 2009 about the Iraq war inquiry. The debate covers the scope, format, membership, and terms of reference of the inquiry, as well as the political and military implications of the war.
+
+For - Voting 'Ayes' in the division means supporting the original motion proposed by the Conservative party, which calls for a more open, diverse, and accountable inquiry than the one announced by the Government. It also calls for a substantive motion on the terms of reference and an interim report in early 2010.
+
+Against - Voting 'Noes' in the division means supporting the Government's amendment, which welcomes the announcement of an inquiry and asks the chairman of the inquiry to consult party leaders on its procedures and rules. It also rejects the need for a substantive motion and an interim report.
+
+Decision - Voting 'Aye' in the division is associated with increased accountability and limiting powers of Defence & Armed Forces, as it seeks to expose the flaws and failures of the Government's decision-making process and conduct of the war, and to learn lessons for the future.
+
+Sentiment - B

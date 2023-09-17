@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I can help you review the text file open in your current webpage. Here is my response based on your request:
+
+Summary - The text file is a transcript of a parliamentary debate on the Health Bill, which aims to improve the quality and accountability of NHS services. The debate covers various aspects of the bill, such as de-authorisation of failing foundation trusts, mental health services, and private income caps.
+
+For - Voting 'Ayes' in the division means supporting the Government's new clause 12, which gives Monitor and the Secretary of State powers to de-authorise foundation trusts that breach their authorisation or statutory requirements. This is intended to protect patients and restore public confidence in the NHS.
+
+Against - Voting 'Noes' in the division means opposing the Government's new clause 12, which may undermine the autonomy and independence of foundation trusts. This may also create uncertainty and instability in the NHS, and reduce the incentives for innovation and improvement.
+
+Decision - Voting 'Aye' in the division is associated with investment in public health and improving standards of care, in the context of Health & Healthcare. This is because de-authorisation is a measure to ensure that foundation trusts maintain high standards of performance and quality, and to intervene when they fail to do so.
+
+Sentiment - A

@@ -1,0 +1,13 @@
+## Bing
+
+Thank you for your request. Here is my response based on the text file open in your current webpage:
+
+Summary - The text file is a transcript of a debate in the House of Commons on the Coroners and Justice Bill, which deals with various issues related to death investigations, criminal justice, and human rights. The debate focuses on the use of intercept evidence and secret inquiries in certain cases.
+
+For - Voting 'Ayes' means supporting the Government's proposal to allow the Home Secretary to establish an inquiry under the Inquiries Act 2005 instead of a normal inquest with a jury, when there is sensitive material that cannot be disclosed to the public[1]. This is intended to ensure a fair and thorough investigation into the cause of death, while protecting national security and intelligence sources.
+
+Against - Voting 'Noes' means opposing the Government's proposal and supporting the Lords amendment 59, which would allow intercept evidence to be used in inquests, subject to the coroner's discretion and safeguards for national security. This is intended to preserve the integrity and transparency of the coronial system, while enabling the jury and the interested parties to have access to all relevant facts.
+
+Decision - Voting 'Aye' is associated with greater police powers, harsher punishments, and strengthening Crime & Justice, because it gives more authority to the Home Secretary and the intelligence agencies to decide what information can be revealed or withheld in death investigations, and it reduces the role of the jury and the public scrutiny in holding the state accountable for its actions.
+
+Sentiment - A

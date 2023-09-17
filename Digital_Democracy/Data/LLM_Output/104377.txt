@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I can help you review the text file open in your current webpage. Here is my response based on your request:
+
+Summary - The text file is a transcript of a debate in the UK Parliament on the Policing and Crime Bill, which aims to tackle trafficking and exploitation of women and children in prostitution. The debate covers different views on the definition of "controlled for gain", the use of strict liability, and the impact of the Bill on human rights and public health.
+
+For - Voting 'Ayes' means supporting the addition of a new clause to the Bill that would make it an offence to pay for sexual services of a person who is a victim of trafficking, coercion, or drug addiction. This would align with international law and human rights obligations, and deter demand for sexual exploitation[1].
+
+Against - Voting 'Noes' means opposing the addition of a new clause to the Bill that would make it an offence to pay for sexual services of a person who is a victim of trafficking, coercion, or drug addiction. This would create a vague and unfair offence that would violate the rights of the buyer, and drive prostitution underground, making it more dangerous and difficult to regulate.
+
+Decision - Voting 'Aye' in the division is associated with greater police powers, harsher punishments, and strengthening Crime & Justice. This is because it would give the police more authority to arrest and prosecute those who pay for sexual services of exploited persons, and impose higher penalties for such offences. It would also aim to reduce crime and protect victims of trafficking and prostitution.
+
+Sentiment - A

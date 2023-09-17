@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I have reviewed the text file open in your current webpage and here is my response:
+
+Summary - The text file is a transcript of a debate in the UK Parliament on the Finance Bill 2023, which contains various measures to tackle tax avoidance and reform the tax system. The debate covers different aspects of the Bill, such as new clauses, amendments, and schedules.
+
+For - Voting 'Ayes' in the division: Finance Bill, Question put, That the new clause 1 be read a Second time, means supporting the proposal to introduce a general anti-tax avoidance principle into the UK tax system. This would aim to prevent artificial and contrived schemes that exploit loopholes and reduce tax liabilities.
+
+Against - Voting 'Noes' in the division: Finance Bill, Question put, That the new clause 1 be read a Second time, means opposing the proposal to introduce a general anti-tax avoidance principle into the UK tax system. This would argue that such a principle would create uncertainty, complexity, and unfairness in the tax system and undermine the rule of law.
+
+Decision - Voting 'Aye' in the division: Finance Bill, Question put, That the new clause 1 be read a Second time, is associated with austerity & regulation. This is because such a principle would aim to increase tax revenues and reduce tax gaps by restricting the scope for tax planning and imposing penalties for tax avoidance.
+
+Sentiment - B

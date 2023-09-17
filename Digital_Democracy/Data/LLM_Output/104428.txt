@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I have reviewed the text file open in your current webpage and I will try to answer your questions as best as I can.
+
+Summary - The text file is a transcript of a debate in the UK House of Commons on the Finance Bill 2023, which contains various measures to amend the tax system. The debate covers topics such as tax avoidance, double taxation relief, terminal loss relief, and disclosure of tax schemes.
+
+For - Voting 'Ayes' in the division: Finance Bill, Question put, That the amendment 37 be made means supporting the amendment proposed by the Liberal Democrats to lower the threshold for reporting transactions that may have an effect on UK tax liabilities from £100 million to £10 million. The amendment aims to increase transparency and accountability in the tax system and prevent large-scale tax avoidance schemes.
+
+Against - Voting 'Noes' in the division: Finance Bill, Question put, That the amendment 37 be made means opposing the amendment proposed by the Liberal Democrats and supporting the Government's original proposal to set the threshold for reporting transactions that may have an effect on UK tax liabilities at £100 million. The Government argues that this threshold is appropriate and proportionate and that lowering it would impose unnecessary burdens and costs on businesses and HMRC.
+
+Decision - Voting 'Aye' in the division: Finance Bill, Question put, That the amendment 37 be made is associated with austerity & regulation. The amendment seeks to tighten the rules and requirements for disclosing transactions that may affect UK tax liabilities and to reduce the scope for tax avoidance. This could be seen as a more restrictive and interventionist approach to taxation.
+
+Sentiment - B

@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I can help you review the text file open in your current webpage. Here is my response based on your request:
+
+Summary - The text file is a transcript of a debate in the UK Parliament on a bill that would allow compensation for people with asbestos-related conditions, especially pleural plaques. The bill aims to reverse a House of Lords ruling that denied such compensation.
+
+For - Voting 'Ayes' in the division means supporting the bill and its intention to restore the right to compensation for people who have been exposed to asbestos and developed pleural plaques, which are benign but may cause anxiety and distress.
+
+Against - Voting 'Noes' in the division means opposing the bill and its retrospective nature, which would change the law back to what it was before the House of Lords ruling. It also means questioning the legal basis and consistency of compensating for a condition that does not cause physical impairment.
+
+Decision - Voting 'Aye' in the division is associated with investment in public health and improving standards of care, in the context of Health & Healthcare. It shows a concern for the well-being and dignity of people who have suffered from occupational hazards and a recognition of their right to justice and redress.
+
+Sentiment - A

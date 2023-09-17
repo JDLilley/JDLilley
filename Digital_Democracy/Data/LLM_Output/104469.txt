@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I have reviewed the text file open in your current webpage and I will try to answer your questions as best as I can. Here is my response:
+
+Summary - The text file is a transcript of a debate in the UK House of Commons on 14 October 2009 about the economic recovery and welfare. The main speakers are Kenneth Clarke from the Conservative party and Yvette Cooper from the Labour party. They disagree on the best policies to deal with the recession, unemployment, public debt, taxation and regulation.
+
+For - Voting 'Ayes' in the division means supporting the Conservative amendment that criticises the Government's failure to reduce the regulatory burden, increase competitiveness, support small businesses and tackle unemployment. It also calls for lower corporation tax, a new integrated programme for people out of work and better use of private and voluntary sector providers.
+
+Against - Voting 'Noes' in the division means rejecting the Conservative amendment and backing the Government's motion that defends its actions to stabilise the financial system, stimulate the economy, protect jobs and help the unemployed. It also praises its investment in skills, infrastructure, innovation and low-carbon industries.
+
+Decision - Voting 'Aye' in the division is associated with austerity and regulation. The Conservative amendment advocates for spending cuts, lower taxes and less intervention in the economy. It also implies a preference for market-based solutions over public services.
+
+Sentiment - B

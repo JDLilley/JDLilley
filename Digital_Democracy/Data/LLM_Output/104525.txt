@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I can help you review the text file open in your current webpage. Here is my response based on your request:
+
+Summary - The text file is a transcript of a debate in the UK Parliament on the Personal Care at Home Bill, which aims to provide free personal care to people with critical needs living at home. The debate covers various aspects of the Bill, such as its scope, cost, impact, and definition.
+
+For - Voting 'Ayes' in the division means supporting amendment 31, which would require the Secretary of State to consult with local authorities and other stakeholders before making regulations under the Bill. The amendment was proposed by the Conservative party, who argued that the Bill was rushed, flawed, and unfair to local authorities and care home residents.
+
+Against - Voting 'Noes' in the division means opposing amendment 31, and supporting the original version of the Bill. The amendment was rejected by the Labour party, who argued that the Bill was a necessary and progressive reform that would benefit thousands of people with critical needs. They also claimed that they had already consulted widely on the Bill and its regulations.
+
+Decision - Voting 'Aye' in the division is associated with cutting spending on, and provision of, welfare and social housing. This is because the amendment would delay or prevent the implementation of the Bill, which would provide free personal care to people with critical needs living at home. This would affect people who are eligible for welfare benefits or social housing, as they are more likely to have lower incomes and assets.
+
+Sentiment - B

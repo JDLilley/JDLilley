@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I have reviewed the text file open in your current webpage and I will try to answer your request as best as I can. Here is my response:
+
+Summary - The text file is a transcript of a debate in the UK House of Commons on 18 May 2009 about the failings of the Mid Staffordshire NHS Foundation Trust and the need for an independent public inquiry.
+
+For - Voting 'Ayes' means supporting the motion that calls for an independent public inquiry under the Inquiries Act 2005. The motion argues that the existing reports are not sufficient, independent, or comprehensive, and that a public inquiry is necessary to find out the causes and consequences of the poor quality of care at the trust, and to prevent such failures from happening again.
+
+Against - Voting 'Noes' means opposing the motion and supporting the amendment that rejects an independent public inquiry. The amendment argues that an independent public inquiry would be inappropriate, unnecessary, and distracting at the present time, and that the existing reports have already identified the problems and recommendations, which need to be implemented urgently by the trust and its local partners.
+
+Decision - Voting 'Aye' in this division is associated with investment in public health and improving standards of care, in the context of Health & Healthcare. This is because an independent public inquiry would aim to expose the truth, hold accountable those responsible, and learn lessons for the whole NHS. It would also show respect and compassion for the patients and families who suffered from the failings of the trust, and restore public confidence in the health service.
+
+Sentiment - A

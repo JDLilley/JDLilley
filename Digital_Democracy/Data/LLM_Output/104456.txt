@@ -1,0 +1,13 @@
+## Bing
+
+Thank you for your request. Here is my response based on the text file open in your current webpage:
+
+Summary - The text file is a transcript of a parliamentary debate on the Local Democracy, Economic Development and Construction Bill, which aims to reform the construction industry and promote local democracy. The debate focuses on various amendments and new clauses proposed by different parties.
+
+For - Voting 'Ayes' for new clause 3 means supporting the introduction of insolvency protection for parties to a construction contract. This would allow them to request adequate security from the other party, such as bank guarantees or bonds, and to suspend their obligations if the security is not provided.
+
+Against - Voting 'Noes' for new clause 3 means opposing the insolvency protection measure, which could interfere with the insolvency regime that applies to all businesses. This could create a different position for firms covered by the 1996 Act from those that are not, and undermine the principle of equality before the law[1].
+
+Decision - Voting 'Aye' for new clause 3 is associated with accountability and decentralisation in the context of Parliamentary Procedures, because it would empower the smaller and more vulnerable parties in the construction industry to protect themselves from the risk of non-payment due to insolvency. It would also reduce their dependence on the centralised insolvency regime, which may not be responsive or fair to their specific needs.
+
+Sentiment - C

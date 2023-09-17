@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I have reviewed the text file open in your current webpage and I will try to answer your questions. Here is my response:
+
+Summary - The text file is a transcript of a parliamentary debate on the Marine and Coastal Access Bill, which aims to create a new framework for managing the marine environment and activities. The debate focuses on the role and objectives of the Marine Management Organisation (MMO), a new body that will oversee marine planning, licensing, conservation and fisheries.
+
+For - Voting 'Ayes' in the division means supporting the amendment that changes the wording of the Bill from 'contributing to' to 'furthering' the achievement of sustainable development. This implies that the MMO should have a stronger and more proactive duty to promote environmental, social and economic balance in the marine area.
+
+Against - Voting 'Noes' in the division means opposing the amendment and keeping the original wording of the Bill. This implies that the MMO should have a more flexible and balanced duty to contribute to sustainable development, taking into account other relevant legislation and agreements with devolved administrations.
+
+Decision - Voting 'Aye' in the division is associated with prioritising environmental sustainability in the context of Environment & Energy, because it would give the MMO a more robust mandate to protect and enhance the marine environment, which is under threat from climate change, overfishing, pollution and other pressures.
+
+Sentiment - A

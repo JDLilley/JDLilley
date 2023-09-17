@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I have reviewed the text file open in your current webpage and here is my response:
+
+Summary - The text file is a transcript of a parliamentary debate on the Policing and Crime Bill in 2009. The main topic is the regulation of prostitution and the protection of women from exploitation and violence. The debate is divided into different views on how to achieve that goal.
+
+For - Voting 'Ayes' means supporting new clause 25, which proposes to make it an offence to pay for sexual services of a person who is controlled, coerced, trafficked or does not consent[1]. This is intended to reduce the demand for prostitution and deter the exploitation of vulnerable women.
+
+Against - Voting 'Noes' means opposing new clause 25, which is seen as a violation of human rights and a bad law. Some argue that the clause is too vague, too broad, or too harsh, and that it will make prostitution more dangerous and stigmatized. Others suggest alternative ways to regulate or decriminalize prostitution.
+
+Decision - Voting 'Aye' in the division is associated with greater police powers, harsher punishments, and strengthening Crime & Justice. It reflects a view that prostitution is inherently harmful and immoral, and that the state has a duty to prevent it and protect the victims. It also implies a distrust of the consent and agency of prostitutes.
+
+Sentiment - A

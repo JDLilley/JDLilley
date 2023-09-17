@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I can help you review the text file open in your current webpage. Here is my response based on your request:
+
+Summary - The text file is a transcript of a parliamentary debate on a bill that aims to promote local democracy and economic development in England. The bill introduces new duties and powers for local authorities, regional bodies and other organisations to involve and respond to local people, and to create integrated regional strategies[1].
+
+For - Voting 'Ayes' in the division means supporting the bill and its objectives. It means agreeing that the bill will strengthen local democracy, empower local communities, improve public services, and foster economic recovery and growth. It means trusting the Government's vision and leadership on these issues.
+
+Against - Voting 'Noes' in the division means opposing the bill and its objectives. It means disagreeing that the bill will achieve its intended outcomes, or that it will have negative or unintended consequences. It means criticising the Government's approach and policies on these issues, or proposing alternative solutions.
+
+Decision - Voting 'Aye' in the division is associated with accountability and decentralisation in the context of Parliamentary Procedures. This is because the bill aims to give more voice and influence to local people and local authorities, and to make other organisations more accountable to them. It also aims to devolve more responsibilities and resources to the regional and sub-regional levels, and to create more collaboration and integration among different actors.
+
+Sentiment - A

@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I can help you review the text file open in your current webpage. Here is my response:
+
+Summary - The text file is a transcript of a debate in the UK House of Commons on the Crime and Security Bill in 2023. The Bill aims to tackle crime and antisocial behaviour, protect victims of domestic violence, reduce police bureaucracy, and establish a new framework for DNA retention[1].
+
+For - Voting 'Ayes' means supporting the Bill and its measures. It means agreeing that the Bill will build on the achievements of reducing crime, provide greater protection to communities, address the root causes of problem behaviour, and respond to the European Court judgment on DNA records.
+
+Against - Voting 'Noes' means opposing the Bill and its measures. It means disagreeing that the Bill will balance human rights and public safety, provide adequate safeguards for privacy, reduce bureaucracy effectively, and prevent the misuse of DNA records.
+
+Decision - Voting 'Aye' is associated with greater police powers, harsher punishments, and strengthening Crime & Justice. It implies that the benefits of DNA retention outweigh the risks of violating human rights and privacy. It also implies that the police need more powers and tools to deal with crime and antisocial behaviour.
+
+Sentiment - A

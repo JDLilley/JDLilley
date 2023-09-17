@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I can help you review the text file open in your current webpage. Here is my response based on your request:
+
+Summary - The text file contains a debate on the Child Poverty Bill, which aims to set targets and measures to reduce child poverty in the UK. The debate covers various aspects of poverty, such as income, housing, education, and family structure.
+
+For - Voting 'Ayes' in the division means supporting the amendment proposed by Steve Webb, which would add a fifth target of relative low income after housing costs. This would capture the impact of housing costs on living standards and regional differences.
+
+Against - Voting 'Noes' in the division means rejecting the amendment proposed by Steve Webb, which would add a fifth target of relative low income after housing costs. This would complicate the existing four targets and not address the root causes of poverty.
+
+Decision - Voting 'Aye' in the division is associated with greater spending on and provision of welfare and social housing, because it would acknowledge the importance of housing costs as a factor of poverty and potentially lead to more support for low-income households with high housing costs.
+
+Sentiment - A

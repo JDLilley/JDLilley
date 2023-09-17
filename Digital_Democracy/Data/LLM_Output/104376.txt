@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I am happy to help you with your request. Here is my response based on the text file open in your current webpage:
+
+Summary - The text file is a transcript of a debate in the UK Parliament on the Policing and Crime Bill, which deals with various issues related to law enforcement and criminal justice. The debate focuses on the retention of DNA samples and profiles of people who are arrested but not convicted of any crime.
+
+For - Voting 'Ayes' in the division means supporting the Government's proposal to retain the DNA data of such people for six or 12 years, depending on the seriousness of the offence. The Government argues that this is necessary for public protection and crime prevention, and that it is compatible with human rights.
+
+Against - Voting 'Noes' in the division means opposing the Government's proposal and favouring a different approach to the retention of DNA data. The opposition parties argue that the proposal is disproportionate, ineffective and illegal, and that it violates the presumption of innocence and the right to privacy.
+
+Decision - Voting 'Aye' in the division is associated with greater police powers, harsher punishments and strengthening Crime & Justice. This is because it allows the state to keep personal information of people who are not proven guilty of any crime, and to use it for future investigations or prosecutions.
+
+Sentiment - A

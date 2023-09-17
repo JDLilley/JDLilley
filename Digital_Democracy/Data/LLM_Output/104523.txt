@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I can help you review the text file open in your current webpage. Here is my response based on your request:
+
+Summary - The text file is a transcript of a debate in the UK Parliament on the Children, Schools and Families Bill, which aims to improve education and welfare for children. The debate covers various topics such as curriculum, tuition, special needs, and home education.
+
+For - Voting 'Ayes' means supporting the Bill and its provisions to guarantee a high-quality education for every child, regardless of their background or ability. It means backing the Government's investment and reform agenda, which has raised standards and reduced inequalities in the education system.
+
+Against - Voting 'Noes' means opposing the Bill and its provisions to interfere with parental choice and school autonomy. It means challenging the Government's spending and regulation plans, which have increased bureaucracy and wasted resources in the education system.
+
+Decision - Voting 'Aye' is associated with increased Education & Learning, because it supports the measures that aim to ensure that every child receives a broad and balanced curriculum, personalised support, and access to opportunities that prepare them for the future.
+
+Sentiment - A

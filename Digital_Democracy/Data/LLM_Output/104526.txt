@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I can help you review the text file open in your current webpage. Here is my response based on your request:
+
+Summary - The text file is a transcript of a debate in the UK Parliament on the Personal Care at Home Bill, which aims to provide free personal care to people with critical needs living at home. The debate covers various aspects of the Bill, such as its scope, cost, impact, and implementation.
+
+For - Voting 'Ayes' in the division means supporting amendment 18, which would require the Secretary of State to consult with local authorities and other stakeholders before making regulations under the Bill. The amendment also seeks to ensure that the regulations are consistent with the principles of the Green Paper on social care and do not undermine the quality or availability of care services.
+
+Against - Voting 'Noes' in the division means opposing amendment 18, which would delay the implementation of the Bill and create uncertainty for people who need personal care at home. The amendment also implies that the Bill is incompatible with the Green Paper on social care and that it would have negative consequences for care providers and local authorities.
+
+Decision - Voting 'Aye' in the division is associated with greater spending on, and provision of, welfare and social housing, because it reflects a concern for the financial sustainability and fairness of the Bill, which would benefit people who are living at home and have low incomes or assets. It also shows a respect for the views and interests of local authorities and care providers, who are responsible for delivering welfare and social housing services.
+
+Sentiment - A

@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I can help you review the text file open in your current webpage. Here is my response based on your request:
+
+Summary - The text file is a transcript of a debate in the UK House of Commons on energy security. The main topics discussed are gas storage, renewable energy, nuclear power, and carbon capture and storage. The debate reflects different views on how to ensure reliable, affordable, and sustainable energy supplies for the UK.
+
+For - Voting 'Ayes' in the division means supporting the Conservative motion that criticises the Government's failure to change the energy policy framework and calls for immediate action to increase gas storage, diversify electricity generation, and improve energy efficiency.
+
+Against - Voting 'Noes' in the division means supporting the Government's amendment that defends its record on energy security and highlights its achievements and plans on renewable energy, nuclear power, carbon capture and storage, and fuel poverty.
+
+Decision - Voting 'Aye' in the division is associated with prioritising economic growth and development in the context of Environment & Energy. The Conservative motion emphasises the need to attract investment, reduce volatility in energy prices, and protect businesses and consumers from supply disruptions.
+
+Sentiment - B

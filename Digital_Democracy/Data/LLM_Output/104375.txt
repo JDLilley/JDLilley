@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I can help you review the text file open in your current webpage. Here is my response:
+
+Summary - The text file is a transcript of a debate in the UK House of Commons on a programme motion for the Policing and Crime Bill in 2009. The motion sets the time limits for the discussion of various parts of the Bill, which covers a wide range of issues related to policing and crime.
+
+For - Voting 'Ayes' in the division means supporting the Government's proposed timetable for the Bill, which allocates one day for the Report stage and Third Reading. The Government argues that this is sufficient time to debate the main issues, such as DNA, gangs and sex-related offences, and that the Bill has been amended in response to the Committee stage.
+
+Against - Voting 'Noes' in the division means opposing the Government's proposed timetable for the Bill, which is seen as inadequate and restrictive. The Opposition and some Back Benchers argue that this prevents proper scrutiny of the legislation, especially on important matters such as police reform, extradition and proceeds of crime, and that more time should be given to allow amendments and contributions from all Members.
+
+Decision - Voting 'Aye' in the division is associated with greater police powers, harsher punishments, strengthening Crime & Justice. The Bill contains measures that would increase the police's ability to retain DNA samples, impose gang injunctions, regulate prostitution and lap dancing, and confiscate criminal assets. These measures are intended to enhance public safety and deter crime.
+
+Sentiment - A

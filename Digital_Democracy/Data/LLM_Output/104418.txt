@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I have reviewed the text file open in your current webpage and here is my response:
+
+Summary - The text file is a transcript of a parliamentary debate on the Parliamentary Standards Bill, which aims to create an independent regulator and a code of conduct for MPs[1]. The debate covers various amendments and clauses related to the Bill, as well as the implications for parliamentary privilege and human rights.
+
+For - Voting 'Ayes' in the division means supporting amendment 100, which would remove clause 10 from the Bill. Clause 10 would allow the courts to review decisions made by the House or its Committees on matters of standards and privileges. Those who vote 'Ayes' argue that clause 10 would undermine the sovereignty of Parliament and expose its proceedings to judicial interference.
+
+Against - Voting 'Noes' in the division means opposing amendment 100, and keeping clause 10 in the Bill. Clause 10 would provide a safeguard for MPs' right to a fair hearing under article 6 of the European Convention on Human Rights[2]. Those who vote 'Noes' argue that clause 10 would enhance the accountability and transparency of Parliament and its disciplinary processes.
+
+Decision - Voting 'Aye' in the division is associated with accountability and decentralisation in the context of Parliamentary Procedures. By rejecting clause 10, MPs would assert their responsibility to regulate their own conduct and uphold their own standards, without relying on external authorities. They would also preserve the autonomy and diversity of Parliament as a separate branch of government, distinct from the judiciary.
+
+Sentiment - A

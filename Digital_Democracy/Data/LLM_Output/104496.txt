@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I can help you review the text file open in your current webpage. Here is my response:
+
+Summary - The text file is a transcript of a debate in the UK Parliament on the Financial Services Bill in 2023. The Bill aims to strengthen and reform financial regulation, support better corporate governance and give more rights to consumers[1].
+
+For - Voting 'Ayes' in the division means supporting the Government's proposed timetable for the Bill's passage through Parliament. It also means agreeing with the Chancellor's argument that the current regulatory system of the FSA and the Bank of England is effective and practical.
+
+Against - Voting 'Noes' in the division means opposing the Government's proposed timetable for the Bill's passage through Parliament. It also means siding with the Opposition's argument that the FSA should be abolished and its powers transferred to the Bank of England, which would be more accountable and responsible for financial stability.
+
+Decision - Voting 'Aye' in the division is associated with austerity & regulation, because it implies endorsing the Government's approach of maintaining and enhancing the FSA's objectives and powers, as well as co-operating with international and European regulators.
+
+Sentiment - B

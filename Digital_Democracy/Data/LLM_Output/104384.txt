@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I can help you review the text file open in your current webpage. Here is my response:
+
+Summary - The text file is a transcript of a parliamentary debate on the Local Democracy, Economic Development and Construction Bill [Lords] in 2009. The Bill aims to strengthen local democracy, promote economic recovery and growth, and establish a new boundary commission.
+
+For - Voting 'Ayes' in the division means supporting the Government's motion to approve the programme motion for the Bill, which sets out the timetable and procedure for its further consideration. This would ensure that the Bill is passed without delay and with sufficient scrutiny.
+
+Against - Voting 'Noes' in the division means opposing the Government's motion to approve the programme motion for the Bill, which sets out the timetable and procedure for its further consideration. This would allow more time and flexibility for debating and amending the Bill, or potentially block its progress.
+
+Decision - Voting 'Aye' in the division is associated with reduced bureaucracy and centralisation in the context of Parliamentary Procedures, because it would limit the scope and duration of parliamentary debate and give more power to the Government to control the legislative agenda.
+
+Sentiment - C

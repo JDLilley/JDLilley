@@ -1,0 +1,13 @@
+## Bing
+
+Thank you for your request. Here is my response based on the text file open in your current webpage:
+
+Summary - The text file is a transcript of a debate in the UK Parliament about a new clause to the Health Bill that would allow the de-authorisation of failing NHS foundation trusts.
+
+For - Voting 'Ayes' means supporting the new clause, which would give the regulator Monitor and the Secretary of State more powers to intervene and withdraw the privileges of foundation trusts that breach their authorisation or statutory requirements.
+
+Against - Voting 'Noes' means opposing the new clause, which would undermine the operational independence and accountability of foundation trusts and create a complex and cumbersome process for de-authorisation.
+
+Decision - Voting 'Aye' in the division is associated with investment in public health and improving standards of care, in the context of Health & Healthcare. The new clause is intended to protect patients from serious service failings and to ensure that foundation trusts maintain high standards and public confidence[1].
+
+Sentiment - A

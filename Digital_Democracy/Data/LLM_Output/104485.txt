@@ -1,0 +1,13 @@
+## Bing
+
+Thank you for your request. Here is my response based on the text file open in your current webpage:
+
+Summary - The text file is a transcript of a debate in the UK House of Commons on the Coroners and Justice Bill in 2009. The debate covers various issues related to the investigation of deaths, the use of intercept evidence, and the protection of national security.
+
+For - Voting 'Ayes' in the division means supporting the Government's proposal to use inquiries under the Inquiries Act 2005 instead of inquests in cases where sensitive material cannot be disclosed to the public or the jury. The Government argues that this is necessary to ensure compliance with article 2 of the European convention on human rights, which requires an effective investigation into deaths involving the state[1].
+
+Against - Voting 'Noes' in the division means opposing the Government's proposal and supporting the Lords amendment 55, which would allow coroners to use intercept evidence in inquests, subject to certain conditions and safeguards. The opponents argue that this would preserve the integrity and transparency of the coronial system, and that inquiries would undermine public confidence and accountability.
+
+Decision - Voting 'Aye' in the division is associated with greater police powers, harsher punishments, and strengthening Crime & Justice, because it would give more discretion to the Executive and the intelligence agencies to withhold information from the public and the jury, and potentially limit the scrutiny and challenge of their actions.
+
+Sentiment - A

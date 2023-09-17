@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I have reviewed the text file open in your current webpage and here is my response:
+
+Summary - The text file is a transcript of a parliamentary debate on the Parliamentary Standards Bill, which aims to create an independent regulator and a code of conduct for MPs[1]. The debate covers various amendments and clauses related to the bill, as well as the issues of privilege, fairness and accountability.
+
+For - Voting 'Ayes' in the division on amendment 5 means supporting the removal of clause 10 from the bill, which would allow IPSA to impose sanctions on MPs who breach the code of conduct. Those who vote 'Ayes' argue that clause 10 is incompatible with parliamentary privilege and would undermine the authority of the House to discipline its own members.
+
+Against - Voting 'Noes' in the division on amendment 5 means opposing the removal of clause 10 from the bill, which would allow IPSA to impose sanctions on MPs who breach the code of conduct. Those who vote 'Noes' argue that clause 10 is necessary to ensure public confidence and trust in MPs and to deter misconduct and corruption.
+
+Decision - Voting 'Aye' in the division on amendment 5 is associated with accountability and decentralisation in the context of parliamentary procedures, because it preserves the right of MPs to be accountable to their constituents and to the House, rather than to an external body. It also respects the principle of separation of powers between the legislature and the judiciary, and avoids potential conflicts and challenges.
+
+Sentiment - A

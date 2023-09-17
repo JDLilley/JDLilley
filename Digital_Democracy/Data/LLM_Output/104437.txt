@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I can help you review the text file open in your current webpage. Here is my response:
+
+Summary - The text file is a transcript of a debate in the UK Parliament about the Finance Bill, which proposes changes to air passenger duty (APD). The debate focuses on the environmental and economic impacts of APD, and the fairness of the four-band system based on distance. 
+
+For - Voting 'Ayes' in the division means supporting amendment 4, which would replace APD with a per-plane tax. The supporters of this amendment argue that it would be more environmentally friendly, as it would penalise flights that run near-empty and encourage cleaner aircraft. They also claim that it would be more equitable, as it would not discriminate against certain regions or passengers.
+
+Against - Voting 'Noes' in the division means opposing amendment 4, and keeping APD as a per-passenger tax. The opponents of this amendment argue that it would be disruptive and costly to change the tax system in the middle of an economic crisis. They also contend that it would have negative effects on regional airports and air cargo industry.
+
+Decision - Voting 'Aye' in the division is associated with stimulus and the free market, as it would reduce the tax burden on passengers and stimulate demand for air travel. It would also allow the market to determine the optimal use of planes and incentivise innovation in aviation technology.
+
+Sentiment - A

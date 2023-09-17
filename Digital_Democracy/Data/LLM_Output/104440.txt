@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I can help you review the text file open in your current webpage. Here is my response based on your request:
+
+Summary - The text file is a transcript of a parliamentary debate on the Political Parties and Elections Bill, which aims to reform the rules on party funding and electoral administration. The debate focuses on a motion to extend the carry-over period of the Bill until 29 October 2009[1].
+
+For - Voting 'Ayes' in the division means supporting the extension of the carry-over period, which would allow more time for the Bill to be considered and amended by both Houses. The Government argues that this is a prudent measure to ensure that the Bill does not lapse and that it reflects the consensus reached in the House of Lords.
+
+Against - Voting 'Noes' in the division means opposing the extension of the carry-over period, which would force the Government to withdraw the Bill and reintroduce it in the next session. The Opposition argues that this is a sign of the Government's weakness and incompetence, and that they have introduced major changes to the Bill at the last minute without proper consultation or scrutiny.
+
+Decision - Voting 'Aye' in the division is associated with reduced bureaucracy and centralisation in the context of parliamentary procedures, because it would enable the Government to pass the Bill with minimal delay and avoid having to start the legislative process again. It would also give more weight to the decisions made by the House of Lords, which is a less representative and more centralised chamber than the House of Commons.
+
+Sentiment - C

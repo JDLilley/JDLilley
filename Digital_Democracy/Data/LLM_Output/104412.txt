@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I have reviewed the text file open in your current webpage and here is my response:
+
+Summary - The text file is a transcript of a debate in the UK House of Commons on the Parliamentary Standards Bill in 2009. The Bill aimed to create an independent body to regulate MPs' allowances and conduct. The debate covered various aspects of the Bill, such as its name, scope, urgency, and impact on parliamentary privilege.
+
+For - Voting 'Ayes' for amendment 73 means supporting the removal of clause 10 from the Bill. Clause 10 would allow the Independent Parliamentary Standards Authority to impose sanctions on MPs who breach the rules on allowances or financial interests. Those who voted 'Ayes' argued that clause 10 was unnecessary, disproportionate, and incompatible with parliamentary privilege.
+
+Against - Voting 'Noes' for amendment 73 means opposing the removal of clause 10 from the Bill. Clause 10 would give the Independent Parliamentary Standards Authority the power to impose sanctions on MPs who break the rules on allowances or financial interests. Those who voted 'Noes' argued that clause 10 was essential, reasonable, and compatible with parliamentary privilege.
+
+Decision - Voting 'Aye' for amendment 73 is associated with accountability and decentralisation in the context of parliamentary procedures. This is because it would preserve the right of Parliament to discipline its own members and prevent an external body from interfering with its internal affairs.
+
+Sentiment - A

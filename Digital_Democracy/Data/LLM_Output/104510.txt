@@ -1,0 +1,13 @@
+## Bing
+
+Thank you for your request. Here is my response based on the text file open in your current webpage:
+
+Summary - The text file is a transcript of a parliamentary debate on the Child Poverty Bill in 2023. The bill aims to set targets and measures to reduce child poverty in the UK. The debate covers various aspects and causes of child poverty, such as income, housing, education, and family structure.
+
+For - Voting 'Ayes' in the division means supporting the new clause 1, which proposes to add a fifth target of income after housing costs to the bill. The supporters of the new clause argue that housing costs are a significant factor in determining living standards and poverty, and that they vary across regions and households.
+
+Against - Voting 'Noes' in the division means rejecting the new clause 1, which proposes to add a fifth target of income after housing costs to the bill. The opponents of the new clause argue that the bill already has four income targets that capture different dimensions of poverty, and that adding another one would complicate the measurement and implementation of the bill.
+
+Decision - Voting 'Aye' in the division is associated with greater spending on, and provision of, welfare and social housing. This is because income after housing costs reflects the impact of housing benefits and subsidies on poverty reduction, and because higher housing costs imply a greater need for public investment in affordable housing.
+
+Sentiment - A

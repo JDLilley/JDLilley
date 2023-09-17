@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I have reviewed the text file open in your current webpage and here is my response:
+
+Summary - The text file is a transcript of a debate in the UK House of Commons on economic recovery and welfare. The main topics are the impact of the recession, the role of public spending and taxation, and the support for businesses and the unemployed.
+
+For - Voting 'Ayes' in the division means supporting the Conservative motion that criticises the Government's failure to reduce the regulatory and tax burden on businesses, calls for more measures to increase competitiveness and tackle unemployment, and urges for an immediate start to cut the public deficit.
+
+Against - Voting 'Noes' in the division means opposing the Conservative motion and backing the Government's amendment that defends its fiscal stimulus, its schemes to help businesses access credit and workers find jobs, and its commitment to halve the deficit over four years.
+
+Decision - Voting 'Aye' in the division is associated with austerity & regulation, as it implies favouring a reduction in public spending and borrowing, and a simplification of the tax system. It also suggests a preference for private and voluntary sector involvement in welfare-to-work programmes.
+
+Sentiment - B

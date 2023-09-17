@@ -1,0 +1,13 @@
+## Bing
+
+Thank you for your request. Here is my response based on the text file open in your current webpage:
+
+Summary - The text file is a transcript of a debate in the UK Parliament on the Children, Schools and Families Bill, which aims to improve education and welfare for children. The debate covers various topics such as curriculum, tuition, special needs, and home education.
+
+For - Voting 'Ayes' in the division means supporting the amendment proposed by the Conservative party, which would remove clauses 26 to 32 from the Bill. These clauses relate to the registration and monitoring of home-educated children. The amendment argues that these clauses are unnecessary, intrusive, and disproportionate.
+
+Against - Voting 'Noes' in the division means opposing the amendment and keeping the clauses 26 to 32 in the Bill. These clauses aim to ensure that all home-educated children are safe and receive a suitable education[1]. The Government claims that these clauses are based on evidence and consultation, and that they provide more support and rights for home educators.
+
+Decision - Voting 'Aye' in the division is associated with limiting Education & Learning, because it would prevent the Government from ensuring that all home-educated children receive a high-quality education that meets their needs and potential. It would also deny home educators access to more resources and assistance from local authorities.
+
+Sentiment - B
