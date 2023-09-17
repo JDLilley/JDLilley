@@ -1,0 +1,854 @@
+Financial Services Bill
+
+Consideration of Lords amendments
+
+Mr Deputy Speaker (Mr Nigel Evans)
+I must draw the House’s attention to the fact that financial privilege is involved in Lords amendments 122, 125 to 128, 138 to 140, 146, 182 and 203. If the House agrees to them, I shall ensure that the appropriate entry is made in the Journal.
+
+Clause 1
+
+Deputy Governors
+
+17:55:00
+
+The Financial Secretary to the Treasury (Greg Clark)
+I beg to move, That this House agrees with Lords amendment 1.
+
+Mr Deputy Speaker
+With this it will be convenient to consider the following:
+
+Lords amendment 2.
+
+Lords amendment 3, and amendments (a) and (b) thereto.
+
+Lords amendments 4 to 15.
+
+Lords amendment 16, and amendment (a) thereto.
+
+Lords amendments 17 to 21 and 148 to 178.
+
+Greg Clark
+It is a pleasure to be muscling in at this late stage of our proceedings on the Bill, but I feel it is a bit of a cheek to do so given that many Members have laboured many hours over these clauses in Committee—
+
+Chris Leslie (Nottingham East) (Lab/Co-op)
+indicated assent.
+
+Greg Clark
+The hon. Gentleman was one such Member.
+
+We are in agreement with all their lordships’ amendments, and this first group demonstrates that the Government have listened to Parliament’s concerns and have amended the Bill accordingly.
+
+The governance of the Bank of England was one area of concern, and it was debated at length in this place and the other place. The Government agreed that the Bank’s expanded responsibilities warranted taking another look at its governance arrangements. The Treasury Committee produced an excellent report on this subject just over a year ago—I note that the Committee Chairman, my hon. Friend the Member for Chichester (Mr Tyrie), is present—recommending that the Bank’s non-executive directors be given a greater role in scrutinising the Bank’s work, including the ability to commission and publish reviews of the Bank’s performance.
+
+The current version of the Bank of England Act 1998 does not actually describe the non-executive directors as non-executive, but various amendments before us in this group will finally clarify the terminology in respect of the Bank’s court of directors by distinguishing explicitly between the non-executive and executive members.
+
+On more substantive governance matters, amendments 3, 6 to 9, 148, 149, 151, 152, 154, 155, 169, 172 and 173 fulfil the substance of the Treasury Committee’s recommendations in this area via the creation of a powerful new oversight  committee made up of the non-executive directors of the Bank’s court of directors. The oversight committee’s remit covers the entirety of the Bank’s objectives and strategy. This remit is already broad enough to allow the oversight committee to look at any aspect of the Bank’s work it believes appropriate to examine, including the effectiveness of its crisis management co-ordination with the Treasury, as suggested in an amendment proposed by the hon. Member for Nottingham East (Chris Leslie). I am sure he will comment on that.
+
+The oversight committee will have a statutory right to access the meetings and papers of the Financial Policy Committee and the Monetary Policy Committee, and it will have the power to commission reviews of the Bank’s performance from external experts or from the Bank’s own policy makers, and publish the reviews and monitor the Bank’s response to them. In line with the Treasury Committee report, these performance reviews will be undertaken retrospectively. The Committee recommended that they should take place at least a year after the period to be reviewed, in order to avoid second-guessing at the time of the policy decision. Just to be absolutely clear, the oversight committee’s remit to review the Bank’s performance is limited to the Bank’s objectives and strategy only; it does not extend to the Prudential Regulation Authority. The only role of the oversight committee in respect of the PRA is to determine the remuneration of the members of the PRA board. Because the PRA will be operationally independent in carrying out its statutory functions of regulation, it will be directly accountable to Parliament. The Government expect that the Treasury Committee will wish to summon the senior PRA executives and, where necessary, the non-executives to account for the PRA’s actions.
+
+Amendment 167 will require the court of directors to publish a record of each of its meetings, fulfilling another of the Treasury Committee’s recommendations from its report. We have also listened to concerns in respect of the Financial Policy Committee, which focused on the role of economic growth in its decision making and the balance of its membership. Amendment 10 gives the FPC a secondary objective to support the Government’s economic policies, including growth, which will sit alongside existing requirements, such as the brake on the FPC taking action that would damage long-term sustainable growth. Amendments 4, 5, 150, 156 and 157 aim to rebalance the FPC by removing one of the Bank members, leaving a voting membership of 10 people—five Bank members and five non-Bank members.
+
+Amendments 16, 17 and 19 to 21 go further to increase the transparency and accountability of the FPC. The FPC will be required to prepare an explanation of each of its actions, setting out publicly the reasons for its decision to take the action and its reasons for believing that the action is compatible with the FPC’s objectives, including to contribute to economic growth, and the various factors to which it must have regard, including proportionality. The FPC is also required to include an estimate of the costs and benefits of the action, where it is reasonably practicable to do so.
+
+Amendment 17 requires the FPC to review the decisions that it has already taken in order to consider whether the actions are still necessary, or whether they should be revoked or removed. That will help to ensure that the FPC’s directions and recommendations do not remain   in place for any longer than is necessary. The FPC must publish the explanations of its actions and a summary of its reviews in the next financial stability report.
+
+The remainder of the amendments in this group represent further agreements made in the House of Lords in response to points raised in debate. Amendment 168 makes it absolutely clear that the Chancellor must always appoint a non-executive member of the court to be its chair. Amendments 174 to 176 continue the immunities from liability for damages that the existing regulators have and extends them to the new regulators. The Government have made amendments in the House of Lords to ensure that if the PRA or FCA commissions the other regulator, or the Bank of England, to carry out an investigation or produce a formal report on its behalf, the body that has been commissioned is also covered by the immunity.
+
+This group of amendments represents a significant package of changes to the legislative framework for the Bank and the FPC, in response to points raised both in this House and in the House of Lords, and I commend it to this House.
+
+Chris Leslie
+It is a great pleasure to welcome the new Minister to these rather long-winded proceedings. I believe we started on this Bill back in February, but he should not worry, as this is shortly to be followed by the banking reform Bill and possibly even a banking standards Bill—to be determined—so we will probably have plenty more opportunities to chew over these issues then. It is a little preposterous to have a knife coming down at 7 o’clock, by which time we have to put the Question on 150 or so of these Lords amendments. That gives us about 25 seconds per amendment [Interruption.] I will get on with it; I lost about a dozen amendments just then.
+
+That is why we have tabled several amendments to those Lords amendments—you will be impressed with that, Mr Deputy Speaker—and I wish briefly to explain why we have done so. The first Lords amendment that we are seeking to amend is Lords amendment 3, which, as all hon. Members here know, deals with the creation of an oversight committee within the Bank of England as a sort of subset of the court of directors, where it is to have a reviewing and, supposedly, a scrutinising role. There is a problem: the oversight committee has a series of responsibilities, not one of which is set out, in overseeing what the Bank of England does. The committee has a set of responsibilities to monitor, to review procedures and to conduct performance reviews, but all of that is retrospective—it looks backwards, not forwards. May I gently suggest to the Minister that it might be more appropriate if he were to call this a “hindsight committee” rather than an oversight committee, because as things stand I do not think there is a sense in which this is a proper check and balance within the governance of the Bank of England?
+
+Why does that matter? It matters because the Government are giving phenomenal new powers to the Bank of England within our economy as an overarching financial regulator. The Minister says that the PRA is independent and will report to Parliament, but let us be honest: this is a creature of the Bank of England and the Bank will control very much what happens in the regulatory framework. Although we welcome the concession that was made to create an oversight committee, people  have misgivings—we will probably hear about some of them, perhaps from members of the Treasury Committee, in a moment—that there is still a very hierarchical and centralised set of governance structures in the Bank of England.
+
+We therefore need to make sure that this crucial verb “oversee” is included in the oversight committee’s remit. That would help to shift the balance of power between non-executives and executives in the Bank of England framework just that bit more. These are important lessons of governance, certainly from the private sector. While we are moving towards that executive and non-executive balance, it is important that we recognise that the Bank of England is being dragged into the 21st century. If we are taking the opportunity to do that in legislation, making that particular change would be very welcome.
+
+The other amendment we wish to make to Lords amendment 3 relates to crisis management. As I said, the Bill gives massive new powers to the Bank of England, but in a crisis there will be very little time to figure out and design standing orders, or to work out arrangements for who will meet whom and for how decisions can involve the right people. You will recall, Mr Deputy Speaker, how during the global financial crisis crucial decisions affecting billions of pounds of taxpayers’ money and whether people could access the cash machines were made in the space of hours over weekends. In hindsight, it would have been nice to have had a carefully planned set of arrangements, and this Bill needs to learn the lessons from that. We are concerned that the crisis management arrangements are still thin and inadequate. We have suggested that if there is going to be an oversight committee in the Bank of England, the Bill needs to set out explicitly that it is to have a duty to ensure the adequacy and effectiveness of arrangements with the Treasury for crisis management.
+
+There is no role for the new financial conduct authority in the drafting of the arrangements. Apparently it does have a veto, but it is not part of the drafting of that memorandum of understanding. The Government are still resisting proposals to ensure that deputy governors and the chief executive of the FCA can consult directly with the Treasury in circumstances where there might be differences of opinion. Given the import and the size of the FCA, the PRA and the FPC within the Bank, it is important that the deputy governors have an ability and a right to talk to the Treasury, so that everything is not hidden and suppressed within one view of the Governor of the Bank of the England.
+
+There is a very bizarre set of provisions excluding the ability of the memorandum of understanding to make provision about the relationship between the Bank of England and the PRA, which goes to prove that the PRA is very much a creature of the Bank. It also suggests that the Governor will have powers to suppress the voice of the PRA in a crisis. Shockingly, there is no parliamentary approval process for that MOU; no statutory instrument arrangement has been made, as I understand it. The crucial paragraph of the MOU that deals with what happens in the white heat of an emergency simply says, “Oh well, there will be ad hoc or standing committees just to sort these things out.”
+
+That is not good enough. The whole of best practice in preparedness and in emergency and contingency planning would suggest that now is the time for Her Majesty’s Treasury and the Bank of England to sit down and calmly and methodically work through what would happen in those circumstances. There should be some draft standing orders to pre-empt those scenarios.
+
+Mr Andrew Tyrie (Chichester) (Con)
+The hon. Gentleman will recall, of course, that the poorly drafted MOU that lay behind the tripartite agreement certainly played a role in the lack of understanding of how to handle the crisis. Does that not point all the more towards a need to think things through very carefully now? That MOU was scrutinised in Parliament; I was in Committee at that time and most of the points made were largely ignored. Surely now, while we have the time, we should think through what is required in such an MOU and take the opportunity to consider that in Parliament.
+
+Chris Leslie
+I entirely agree with the Chairman of the Treasury Committee, who is very knowledgeable and has some strong views on these questions. It is a pity that when we flick through the luminous list of Lords amendments, we find a gaping hole on those crisis management arrangements, where none was accepted by the Government. Some clauses in the Bill deal with that set of scenarios, and it is noticeable that such provision is not included there. That is in part why we have sought to amend Lords amendment 3, as one of the few areas where we can make an amendment is in respect of the role and duties of the oversight committee. I accept that that is only half of the scenario, as we also want Her Majesty’s Treasury to have a process for reviewing the adequacy and effectiveness of its arrangements with the Bank of England, but we do not have the opportunity today to propose such an amendment.
+
+If we are to have an oversight committee, it should be able to play a role in ensuring that the crisis management arrangements are up to scratch and that there is joined-up thinking between these variously important branches of governance to ensure that someone at the Bank of England is tasked with thinking these things through very carefully.
+
+Alison McGovern (Wirral South) (Lab)
+Does my hon. Friend agree that it is incredibly important that Parliament gives its view on such issues, given the weight of academic insight into the arrangements in place at the time of the crash? We are trying to learn some of the lessons from that, and one of the key lessons is the importance of rules and thinking them through ahead of the scenarios, since it is literally impossible to know what the next unforeseen shock might be and where it might come from.
+
+Chris Leslie
+My hon. Friend is correct that this is about learning the lessons of preparedness and of what level of forward thinking we can undertake at this point in time. It is still amazing—I know she agrees—that although the FSA conducted a comprehensive review of its role in the financial crisis and the Treasury and Government did the same, we have to this day still not had a comprehensive review by the Bank of England of its role in the financial crisis. That is amazing. It begrudgingly had three minor reviews dragged out of  it—it was like getting blood out of a stone—considering small particular areas where it had some failings. Those reviews concluded that there were serious issues to be addressed, and one of the individuals conducting one of those three small arrangements talked about the fact that the governance arrangements in the Bank of England were still too centralised. I hope that the Government will think more carefully about crisis management provisions.
+
+Alison McGovern
+I thank my hon. Friend for being so generous in giving way again. This is a crucial point: Parliament rarely discusses the strategic role of the Bank of England and rarely legislates, in part because the independence of the Bank of England is still a valid economic principle on which we hope to rebuild our economy. We must therefore get the discussion right at this time.
+
+18:15:00
+
+Chris Leslie
+It is worth noting that when we talk about the independence of the Bank of England we are talking about operational decisions of the Monetary Policy Committee. They have to be made, of course, without political interference. We can come on to the questions of quantitative easing and the Chancellor’s recent decisions on that, but we will put them to one side for now. The questions of governance of the Bank of England are a matter for Parliament to take very seriously indeed.
+
+As the debate progresses, we will discuss the vast powers that the Bank will be taking, which are known rather opaquely as macro-prudential powers of regulation. Essentially, the Bank of England can intervene in any number of financial services, products and transactions and affect the financial well-being of businesses, consumers and households in the constituency of my hon. Friend the Member for Wirral South (Alison McGovern). We are talking about mortgages, lines of credit and supply and so on. That is why we need to get the arrangements right, and it is a shame that the Government did not do that.
+
+I want to skip on, if I may, to Lords amendment 16, to which we have suggested another small amendment.
+
+Mr Gareth Thomas (Harrow West) (Lab/Co-op)
+While my hon. Friend has his arguments firmly in his mind, may I remind him that for some time many Members of this House have been concerned that the Bank of England has not done enough to encourage our high street banks to invest in deprived communities. Does he think that his amendment to Lords amendment 3 might help to encourage the Bank of England to pay a little more regard to those concerns?
+
+Chris Leslie
+Indeed, and I am grateful to my hon. Friend for taking the time to participate in this debate. A string of amendments that we will discuss later cover consumer credit and the interests of consumers, and we will talk about ease of access to financial services when we consider them. He is right, as the Bank of England is a key player in this regard.
+
+That point neatly takes me on to our amendment (a) to Lords amendment 16. It tries to ensure that under the new arrangements the Bank of England—in particular, the new powerful committee that is being established,  called the Financial Policy Committee—will, when it explains the decisions it is taking, also have to include an assessment of the impact of its decisions on economic growth. I know that the whole question of jobs and growth is somewhat of a blind spot for Treasury Ministers, but notwithstanding their rather peculiar inability to see the importance of these issues, we feel that it is important to put that requirement in the Bill.
+
+We are delighted and overjoyed that the Government finally relented and granted a concession in the other place, after months of labour in Committee in this place, by agreeing to Lords amendment 10. It was a major victory for the Opposition when the Government were forced to change the Bill to ensure that the FPC would not only contribute to the financial stability objective but, subject to that, support the economic policies of Her Majesty’s Government, including their objectives for growth and employment. That concession was made because of the amendments we tabled and the evidence heard in Committee from a wide number of organisations, including the British Bankers Association, the CBI, the London stock exchange and others. They all said in submissions to Parliament that the new regulators should have regard to growth, so we are glad that the FPC has that general backstop requirement on its shoulders. However, we do not think it goes far enough.
+
+As I said earlier, the powers the Bank of England will take—that rather opaquely described set of macro-prudential tools—will be very wide ranging. Each time it pulls one of those levers, each time it makes a particular decision, it should explain the impact of that change. The Bank of England will be able to affect a number of key areas. Perhaps the Minister will tell us when the draft order at the back of the Treasury’s consultation document is likely to find its way on to the Floor of the House for debate, because I know that a number of hon. Members will be interested in that.
+
+The Bank will have powers called counter-cyclical capital buffers. I know that the Treasury Bench has a difficulty with the concept of counter-cyclicality, but it essentially means that banks will be required to build up capital when times are rather exuberant and things are going well in the economy, but to unwind those capital buffers in a downturn. The Bank will say that there should be sectoral capital requirements. In other words, the FPC can make the residential mortgage sector have a certain amount of capital or structure its business in a particular way. The commercial property sector will have to do the same. This is a Bank of England decision, not the result of parliamentary or legislative changes. Consumer credit decisions will be made. If my hon. Friends have constituents who pay off their credit card, perhaps currently a 2% or 5% minimum repayment on a monthly basis, at the flick of a switch the Bank of England will be able to say, “No, you have to pay off 10% each month,” or perhaps even more. That is the sort of power that the Bank of England will have.
+
+Mr George Mudie (Leeds East) (Lab)
+The situation with mortgages will be similar. I am certain that the FSA’s and the Bank’s insistence on a higher deposit will harm the construction industry. The average price of a two or three-bedroom house is £160,000, and 10% of that is £16,000 and 20% £32,000. We are getting more and more tales of young couples who simply cannot get on to the housing ladder because they are paying excessive rents and cannot save that deposit.
+
+Chris Leslie
+My hon. Friend will not be surprised to learn that there was a little argy-bargy between the Treasury and the Bank of England. As I understand it, the Bank initially said, “Loan-to-value ratios on mortgages, and loan-to-income ratios, are an awfully big decision. There is a lot of politics in that. We are not that keen. Push that back to the Treasury.” I think the Treasury has been saying, “No, Bank of England, this is a decision for you to take.” These are inherently political issues and our constituents would rightly ask whom to hold to account for such big decisions that affect their daily lives: whether or not someone can get a mortgage, what is happening in the housing market, and so on. That is why we still have some reservations about the governance structures and the lack of accountability on policy making. That is why we are asking for an assessment of the impact on economic growth whenever these levers are pulled and whenever these decisions are taken. I accept that there are careful balances to be struck. The FPC of course has to have an eye to stability, but it also needs to recognise, as the Chancellor has said, that we do not want the risk-aversion of the graveyard so that there is no economic activity. That is why we have suggested this particular change.
+
+I am conscious of the time and I know that a number of hon. Members want to speak. Those are the main points that I have to make about our particular arrangements and it would useful if we could hear the views of others.
+
+Mr Tyrie
+The Bill came out of the other place only last Wednesday night and it was heavily amended there. It is the most complicated, and one of the most important, pieces of financial legislation for decades.
+
+Much of what we are considering today amends provisions in the Bill, which themselves amend the Financial Services and Markets Act 2000 and the Bank of England Act. The Bill is incomprehensible without constant referral to FSMA. I would go further and say that it is incomprehensible in parts even after considerable referral to FSMA. We now have a piece of legislation that passeth all man’s understanding, like God’s will. FSMA itself was arguably the most complex piece of legislation ever passed by Parliament. I was on the Bill Committee and it was certainly pretty testing.
+
+We are now legislating in a huge rush to get this on the statute book by the end of the year in order to meet an entirely arbitrary deadline. The deadline has been rendered all the more absurd by the fact that we will be back here next year anyway amending it as part of the banking Bill, which is required to give effect to the Vickers commission’s recommendations, parts of which have to be done by amending FSMA and cannot be done in any other way. I am not making some recondite point about parliamentary procedure; I am making a point about how to make the Bill effective. It is a point that is being made to me right now by senior regulators, who would very much prefer that we just take a little bit more time to get the legislation right.
+
+This group of amendments deals largely with Bank of England governance. Everyone is agreed that Bank of England governance is in a huge mess. That is why last April the Treasury Committee took the highly unusual step of tabling a new clause in an effort to try to sort it out. I am particularly grateful to colleagues from four parties on the Committee who all co-operated to  enable that amendment to go down with unanimous support. I am also particularly grateful to my deputy Chairman, who is sitting on the Opposition Benches, who assisted with the tabling of that clause. It was needed because the Bank has ramshackle governance arrangements that reflect their 17th century origins, as the name “court” demonstrates. As has already been pointed out, better governance would improve its accountability to Parliament. But much more important in some respects, it would also improve the Bank of England’s authority to act and to speak to the rest of the country as it takes tough decisions, such as those that have just been referred to. This is a point that is not lost on very senior people in the Bank of England right now, on the Monetary Policy Committee, the Financial Policy Committee, and also a number of deputy governors.
+
+The Treasury Committee clause would not have solved all that, but it would have gone some way to bringing the Bank into line with good practice on corporate governance generally. It would have placed a duty on the court to conduct retrospective reviews of Bank performance and to publish the results, and it would have required the court to publish its minutes. I withdrew the amendment in the Commons only when the Government gave undertakings to make those changes in the Lords. I will come back to that.
+
+In May, the Treasury Committee took another highly unusual step of reporting on the Financial Services Bill, after we had looked at it in the Commons, in order to assist the other place with its examination. Most of the conclusions that we came to in that report were raised as amendments in the Lords. The Government responded to some of them and that is what we are debating now. The Government’s Lords amendment 3 sets up, as we have heard, an oversight sub-committee of the court’s non-executives. That would give the court the power to commission retrospective reviews of the Bank’s performance —that is a step forward—to be carried out either externally or internally. The Government have also inserted an amendment to require the publication of court records of its meetings. While these amendments improve the Bill, they fall well short of what we were hoping for, and what in our view is still required, for several reasons.
+
+First, the amendments place the power of review in the hands of a sub-committee of the court, rather than the court itself. This will further confuse the lines of accountability, not least to Parliament and to the Treasury Committee. These accountability lines are now very complex. I urge the Minister to try drawing them on the back of an envelope. I wager that he will have quite a task on his hands. Senior regulators agree that they will not do as they stand, and they have been telling us that publicly and privately. They want an improvement. They want the legitimacy for their decisions that comes with effective parliamentary scrutiny. Senior people in the Bank of England have seen how the Monetary Policy Committee has been strengthened and bolstered as a result of effective scrutiny by the Treasury Committee.
+
+18:30:00
+
+Secondly, the amendments fall short of what is needed because they require publication not of the minutes of court meetings, but merely of a record of such meetings, which I do not think would necessarily amount to much. A moment’s thought can tell us how unrevealing a mere record might be.
+
+Thirdly, the Bill does not properly reform the court. It does not bring governance of the Bank into line with what most of us would consider to be the norms of corporate practice, whether public or private, right across the country.
+
+Fourthly, no statutory obligation is placed on the court or the oversight board to respond to reasonable requests for information from the Treasury Committee. In practice, they can stonewall. I do not think that is acceptable if we are to have high-quality governance. I think that good-quality scrutiny by Parliament will be much more difficult without such an obligation being placed on the court. I worry that, at worst, the sub-committee could end up owing more to form than to substance. That is, of course, what has been wrong with the court as a whole; it has been as dignified over the years as it has been ineffective.
+
+Fifthly, the Governor’s central and enhanced position is unaffected and the Bank’s hierarchical nature, with him at the apex, will remain. He is a single institutional point of systemic risk in the new governance arrangements. The danger of group-think will remain. Bill Winters recently drew attention in his review to that hierarchical problem and the need to place a requirement on the Governor to consult others, particularly the deputy governor.
+
+Alison McGovern
+May I take the hon. Gentleman back to his fourth point? He mentioned the Treasury Committee’s ability to get information from the Bank. What specifically is he concerned about, and does he think that his Committee ought to be able to access data from the Bank as part of its oversight role? First, how would he improve on that point? What specifics of governance does he think we must look for? Secondly, is it a question of getting data out of the Bank so that group-think can be laid bare and investigated? Am I right to take those points from what he has said?
+
+Mr Tyrie
+If the hon. Lady will forgive me, I will not linger on those points for too long, because the Committee has set that out in some detail in a number of reports. On her first point, in a nutshell, one need only look at the corporate governance arrangements of almost any public sector body, or indeed any public company, to see that the lines of accountability are powerfully drawn between their non-executives and the executive arm. That is almost completely lacking in the court, whose role is heavily circumscribed and, until recently, involved nothing more than oversight of the Bank’s budget. Indeed, I have been told informally that until recently an unspoken requirement of membership of the court was to have no great knowledge of financial matters, and certainly not to interfere with them. That strikes me as the negation of genuine oversight, but perhaps those who whispered such thoughts in my ear were making mischief.
+
+On the hon. Lady’s second point, it is of course crucial that somewhere in the accountability framework there is a group of people who are capable of asking for detailed information in order to make the scrutiny meaningful. The Treasury Committee, in our investigations into Royal Bank of Scotland, found that we needed to send specialist advisers into the FSA to obtain the necessary papers to ensure that they were taken into account in its report on RBS. I do not think that it  would be a healthy state of affairs if the Treasury Committee ends up having to send specialist advisers into the Bank of England to perform such a role. It would be far better to have a group of non-executives in the Bank of England whose explicit task is to look for those documents and to be available to help us do the scrutiny directly. My reply to her questions touches only the surface of the more detailed reply that could be given, but it has been set out in some detail in at least two Treasury Committee reports.
+
+Next year we will have a new Governor. He could, of course, grasp the opportunity to improve all this, and no doubt he will form views about governance, ones that might benefit from legislative change. The Banking Commission will also make recommendations on standards, culture, competition, governance, regulation and sanctions for rule-breaking by bankers. Any or all of those might require statutory action. I would be grateful for an assurance on that from the Minister, so will he commit the Government to broadening the scope of the banking Bill to ensure that further amendments to FSMA, including in the areas I have just mentioned, can, if necessary, be made next year?
+
+Greg Clark
+I can give my hon. Friend that assurance. The Government have already said, I think in response to the question of data on lending to deprived communities, that if we do not succeed in establishing agreement with the British Bankers Association, we will use the forthcoming banking Bill to make those changes. If the distinguished members of my hon. Friend’s Commission, following their considerations, have recommendations that will require legislative changes, we will of course have vehicles available for that.
+
+Mr Tyrie
+That reassurance is helpful. I will take it back to both the Treasury Committee and the Banking Commission.
+
+Mark Durkan (Foyle) (SDLP)
+The hon. Gentleman has referred to the new Governor. If it had been a condition of his appointment that he understood the Bill and could explain it, does the hon. Gentleman believe that he would have been appointed?
+
+Mr Tyrie
+Well, he is a very clever man. I am confident that at the time of his appointment he would have been unable to pass the FSMA test, but I have no doubt that by the time he comes before the Treasury Committee for his pre-appointment hearing he will have mugged up fully on it all.
+
+I have spoken for 14 minutes already, which is four minutes longer than I make a point of ever speaking in the House these days, so I will move swiftly to one last point. The Minister, as he pointed out, started looking at the Bill three quarters of the way through the process of putting in place a new system of financial regulation. I will wager a pound to a penny that he has found the tangled web of legislation that we have just been discussing extremely confusing. In fact, I wager that he has found it, in places, to be a nightmare and impossible to understand. I wager the same amount that the officials advising him do not always understand it either, and that is no reflection on the high-quality advice he is no doubt getting. Will he be prepared at least to consider rewriting FSMA afresh when he comes to adapt it to take account  of the banking Bill, because that is what regulators have told us they would prefer, what the Governor of the Bank of England said he would prefer and what would enable the industry, the public and Parliament to have a much more intelligible piece of legislation?
+
+It is a great shame that that approach, which was vigorously put forward at the time, was rejected when the Government first announced that they would proceed with amendments to FSMA. The Governor was pressing for it very strongly, and he had allies in Parliament. We now have a second chance, and I very much hope that the Minister will consider taking it. He will need to bear in mind that there will be 100—perhaps 1,000—official voices telling him not to do that, but just occasionally there are moments when a Minister can greatly improve the quality of the statute book. Would he be prepared at least to consider rewriting the Bill so that we have one fresh piece of legislation that everyone can understand?
+
+Greg Clark
+This has been a short but interesting debate, and I am grateful to the hon. Member for Nottingham East (Chris Leslie) and to my hon. Friend the Member for Chichester (Mr Tyrie) for contributing to it. I think that my hon. Friend does himself a disservice. If anyone can follow, and indeed have imprinted in his mind, every clause of FSMA, and be able to relate it to any future amendment, I know that he is capable of it. Let me first respond to some of the points made in the debate, including his.
+
+The Bank of England is obviously at the heart of the financial system, and the changes are among the important reforms of its powers in history, alongside nationalisation in 1946 and independence in matters of monetary policy in 1998. Notwithstanding the few remaining issues of debate, I think that the whole House would agree that the changes made in the Lords represent a significant improvement in this part of the Bill. The amendments will strengthen the governance and accountability of the Bank. They will give the Financial Policy Committee a more positive and proactive mandate around economic growth and shift its membership to reduce the influence of the Bank’s executives. In addition, there are clarifications to simplify the drafting and terminology, if perhaps not going as far as my hon. Friend would wish to go. The name “court” is retained, despite his preferences.
+
+On the Opposition amendments, I do not think that there is, in practice, a huge degree of difference between us. As the hon. Member for Nottingham East said, amendment (a) to Lords amendment 1 would add the word “overseeing” to subsection (2) of new section 3A of the Bank of England Act 1998. That was well debated in the House of Lords, as he will know. Some clarity was achieved there, in that the kind of oversight in which the oversight committee is expected to engage is common to non-executive directors elsewhere. Baroness Noakes made particular reference to that. The opportunity to review decisions and to consider how they are made is well understood in the context of the term “oversight”. The hon. Gentleman is proposing something that goes beyond that: that oversight should contain a more real-time role as well as a backwards-looking role. That could involve second-guessing the Bank’s policy decisions while they are being taken, which would not be appropriate. Indeed, it would go against the recommendations of the  Treasury Committee, which said in its report that it agreed with the Governor that the Bank’s governing body should place more emphasis on oversight and ex-post scrutiny that would not authorise it to become involved in second-guessing immediate policy decisions. That is the advice that we have taken.
+
+Mr Mudie
+That should be qualified by the fact that the current Governor of the Bank of England does not want to be second-guessed by anyone. In fact, he would suggest that the best decision-making process is himself sitting in a room taking the decisions, questioned by no one.
+
+Greg Clark
+The hon. Gentleman has more experience of questioning the Governor than I have. The Joint Committee on the draft Financial Services Bill, of which he was a member, volunteered to agree with the Governor on that assessment, at least. We followed the Committee’s advice on that, as was recognised in the other place.
+
+Chris Leslie
+I understand the Minister’s argument. However, we are talking about a lot of power in the hands of a single individual—the single point of potential institutional disruption, as the Chairman of the Treasury Committee called it. Surely the sun king is capable of responding to some internal questioning, scrutiny and challenge, and that would be a healthy thing to have. Some kind of more proactive oversight might therefore not be such a bad idea after all.
+
+18:45:00
+
+Greg Clark
+All those things are provided for in the Bill; the question is whether the word that the hon. Gentleman seeks to introduce is a matter of semantics or would bring in scrutiny of current decisions. That is a point of difference between us. In the House of Lords there are many people with experience of being very effective non-executive directors, as I know from my distinguished constituent, Baroness Noakes. Most people would recognise that she is meticulous and robustly independent in the scrutiny that she brings to matters, and she regarded the wording of the Bill as entirely compatible with that. It is not right to go against what the Treasury Committee recommended and to have the second-guessing of immediate decisions.
+
+Let me say something about the existing powers. The report by the Treasury Committee recommended that ex-post reviews of the Bank’s performance should be carried out, and those are provided for. In fact, the current wording of subsection (2) of new section 3A of the 1998 Act requires the oversight committee to
+
+“keep under review the Bank's performance”,
+
+and that is consistent with the Committee’s recommendations. We think that this wording strikes the right balance between ensuring effective retrospective scrutiny of the Bank’s policy performance and avoiding a situation whereby the non-executive members of the court would be constantly second-guessing the decisions taken by the Bank’s expert policy committees and executives.
+
+Amendment (b), tabled by the hon. Member for Nottingham East, would give the oversight committee an additional function to keep under review the adequacy and effectiveness of the Bank’s arrangements with the Treasury for crisis management. It is very important  that that should be under review, for all the reasons he said. Subsection (2) of new section 3A gives the oversight committee a broad remit to keep under review the Bank’s performance in relation to all its objectives and strategy. It is absolutely clear—I would like to confirm this from the Dispatch Box—that the effectiveness of the Bank’s relationship and co-ordination with the Treasury in crisis management is fundamental to the Bank’s achievement of its objective to protect and enhance stability. As such, the oversight committee can already undertake or commission a review into the effectiveness of these arrangements if necessary. In fact, in January this year the Bank said in its response to the Treasury Committee that the oversight committee should, among other things, assess whether the Bank is fulfilling effectively its duty to notify the Treasury of risks to public funds at the appropriate time. There is no substantial difference between us that the amendment is seeking to expose.
+
+Chris Leslie
+The problem is the threadbare nature of the memorandum of understanding, particularly the infamous paragraph 20, which says:
+
+“However, the Chancellor and the Governor may agree to establish ad hoc or standing committees.”
+
+That is so thin that it is important for the oversight committee to make it a top priority to ensure that there is preparedness and that it is thinking through the circumstances in which a crisis may occur, and that needs to be placed explicitly in the Bill.
+
+Greg Clark
+I am grateful for the hon. Gentleman’s clarification. We should bear it in mind that the Bill requires the Treasury to lay the MOU before Parliament and to publish it. It will be subject to full transparency. For example, I would be very surprised if my hon. Friend the Member for Chichester did not call the Chancellor or the Governor to explain it. The oversight committee will be responsible for overseeing the Bank’s performance and, clearly, the MOU is a key part of its work in bringing to bear the Bank’s financial stability work. The committee will, therefore, consider from time to time whether it is working well and Parliament will itself have every opportunity to address the issue.
+
+Amendment (a) to Lords amendment 16 would require the Financial Policy Committee to produce explanations of its decisions to exercise its recommendation and direction powers. Proposed new section 9QA(1) of the Bank of England Act makes it clear that the FPC’s explanations must set out how its decisions are compatible with its objectives, including the new objective to support the Government’s objectives for growth. It is clear that it has an explicit responsibility to do that. The FPC’s explanations will have to set out publicly how it has considered the impact on economic growth when deciding to take action and its reasons for believing that the action is compatible with its obligations in relation to economic growth.
+
+Lords amendment 16—specifically subsection (3) of proposed new section 9QA of the 1998 Act—already requires the FPC to produce estimates of the costs and benefits of the decisions, including those areas to which the hon. Member for Leeds East (Mr Mudie) has referred. This will cover the impact on financial stability, both directly and indirectly, and the impact, both positive and negative, on economic growth.
+
+I reassure the House that the FPC is giving considerable care and thought to the impact of these tools. The Bill requires the committee to produce and maintain policy statements for its direction tools. The statements will discuss the likely impact on both financial stability and economic growth. The Bank is preparing a draft of the statements, to be published early next year, so that they can be considered alongside the secondary legislation that will set out the FPC’s direction powers. We do not, therefore, think that amendment (a) to Lords amendment 16 is necessary.
+
+Mr Mudie
+Both the Treasury Committee and the Joint Committee on the draft Financial Services Bill were concerned about the important parts of the Bill that will be delivered through statutory instruments. That means a discussion in Committee for an hour and a half, with no provision for amendment. We would either have to accept the whole instrument or vote against it, and we would not have a majority on such a Committee. We pressed the Chancellor for a different, more flexible structure of decision making on secondary legislation so that the House or the Treasury Committee could debate it with the prospect of convincing the Chancellor, at some stage, to amend his direction of travel.
+
+Greg Clark
+I am grateful for the hon. Gentleman’s point. I am not able to produce a novel parliamentary procedure, but I can certainly tell him and the Chairman of the Treasury Committee that when the time comes to publish the statutory instruments, if they or their Committee would like to consider and advise on the discharge of the commitments, I would be happy to engage with them in good faith and take on board any suggestions.
+
+Chris Leslie
+I am delighted to hear that concession from the Minister. We have suggested a super-affirmative procedure for some of the regulations. That would give the Treasury Committee and others more time to look at the issues and ask the other Select Committees about the effect on, for example, housing and communities and local government. If the Minister is willing to open that door, we would support him.
+
+Greg Clark
+I give the hon. Gentleman an inch and he takes a mile. I will not commit to a different procedure but, as I have said, I will certainly commit, in good faith, to considering personally any points that are made. [Interruption.]
+
+Mr Mudie
+Has the Minister just been handed fresh instructions?
+
+Greg Clark
+They may be fresh instructions, but I have decided not to read them. I may be countermanded, but I will not retract my statement.
+
+I will conclude by addressing what the Chairman of the Treasury Committee has said. I am reliably informed by my predecessors that this Bill, though complex and voluminous, has been well considered in numerous Committee sittings in this House, and I think that most people will conclude that their lordships have done a good job in their scrutiny. The Bill is important and it is right that it has been scrutinised to the extent that   I think it now commands the broad support of the House, as evidenced by the relatively few amendments that have been tabled to their lordships’ amendments.
+
+As I said in response to an earlier intervention, opportunities will be presented to the House in the years ahead—new Bills are already gathering speed on the runway—to accommodate further changes, should they be necessary. If so, I am sure we will have further conversations about them.
+
+My hon. Friend the Member for Chichester issued me a challenge to rewrite the Financial Services and Markets Act 2000 and anticipated that I would be besieged by objections from officials and others.
+
+Mr Tyrie
+Turn around.
+
+Greg Clark
+I will not turn around and look at my officials in the Box, because I am sure I would get some black looks. My hon. Friend would not expect me to make a commitment, but I know—this is the case with everything he says—that he speaks from experience and that he examines the issues meticulously. I will look at what he has said, but I ought not, at this late stage, to raise his hopes too high.
+
+Lords amendment 1 agreed to.
+
+Lords amendment 2 agreed to.
+
+After Clause 2
+
+Oversight Committee
+
+Amendment (b) proposed to Lords amendment 3.—(Chris Leslie.)
+
+Question put, That the amendment be made.
+
+Division 118
+10/12/2012 18:57:00
+The House divided:
+Ayes: 224
+Noes: 293
+Question accordingly negatived.
+
+19:12:00
+
+Proceedings interrupted (Programme Order, this day).
+
+The Deputy Speaker put forthwith the Questions necessary for the disposal of the business to be concluded at that time (Standing Order No. 83F).
+
+Lords amendment 3 agreed to.
+
+Lords amendments 4 to 23 agreed to.
+
+Mr Andy Slaughter (Hammersmith) (Lab)
+On a point of order, Madam Deputy Speaker. On 29 February this year, I asked the Secretary of State for Justice whether he would name the 25 highest-paid lawyers and the amounts they received. I was told the information would be available in due course. I asked again on 19 April, and was told the information would be available later this summer—[Interruption.]
+
+Madam Deputy Speaker (Dawn Primarolo)
+Order. Will hon. Members who are leaving the Chamber please so do quietly? Those remaining in the Chamber should listen to the point of order and if they wish to have private conversations, they should leave the Chamber. I cannot hear what the hon. Gentleman is saying. I got as far as 29 February so perhaps he will pick up his point from there.
+
+Mr Slaughter
+My initial question on 29 February asked for the names of the 25 highest-paid lawyers and I was told the information would be available in due course. I asked again on 19 April and was told the information would be available later in the summer. Yesterday, the answer to my question was spread over the pages of The Sun and The Sunday Telegraph with the Justice Secretary’s inimitable spin put on it. This afternoon, I received a reply to my question from Lord McNally. Is it appropriate to wait nine months for a question to be answered, and for it to be leaked all over the Sunday press the day before that answer is received? Even by the standards of this Government that is poor. Will you give me some advice, Madam Deputy Speaker, on how I can avoid a repetition of that?
+
+Madam Deputy Speaker
+Clearly the Government thought long and hard about how to answer the question—a little too long, in fact—and information was released to the press before the hon. Gentleman received it in writing, although he has it now. There is not a great deal that I can do from the Chair, but I recommend that the hon. Gentleman takes the matter up with the Procedure Committee. Nine months is a little long, as I am sure most Members of the House would agree.
+
+Let us move on to the next group of amendments.
+
+Greg Clark
+I beg to move, That this House agrees with Lords amendment 24.
+
+Madam Deputy Speaker
+With this we may take Lords amendments 25, 41, 63, 78, 86, 128 to 138, 147, 231 to 233 and 236.
+
+Greg Clark
+The amendments in this group relate to key considerations that have underpinned the design of the new conduct regulator. The Government have been clear that regulation should focus on making financial markets work well, and on securing better outcomes for consumers.
+
+Access is critical. Without access to a bank account, for example, it is difficult for individuals to participate fully in the economy and even in society. To support access, Lords amendment 25 adds a new “have regard” to the Financial Conduct Authority’s competition objective. Therefore, when considering whether effective competition is in the interests of consumers, the FCA must have regard to
+
+“the ease with which consumers…including consumers in areas affected by social or economic deprivation, can access”
+
+the services they may wish to use.
+
+That reflects discussions in the other place, and it is right to make it clear that the regulator’s duties embrace those affected by deprivation.
+
+Mr Thomas
+The Minister gave the example of access to a bank account, but may I draw his attention to the issue of access to a bank branch in order to access one’s bank account? Already, a series of communities no longer have bank branches. Will he say how the FCA will use this new power to consider communities that lack not access to a bank account but access to a bank branch in the first place?
+
+Greg Clark
+The hon. Gentleman makes a reasonable point. However, having set up the FCA to put supervision into practice and added this concern to its objectives, it would be unreasonable for me to tell it how to exercise its powers before it has even come formally into existence. It will consider the issue of access and come to a view. That will be open to scrutiny by the Treasury Committee and, I dare say, other Committees of the House.
+
+Where the FCA has identified a problem with access, the regulator will consider whether it could take action to close gaps in provision by promoting competition in the interests of consumers. It may also consider whether its own rules and requirements are imposing a burden on competition and restricting access.
+
+Nicholas Soames (Mid Sussex) (Con)
+Does my right hon. Friend agree that it matters that it is not too difficult to open an account in the first place? Every  bank treats anyone who wants to open an account as a first-class money launderer, but it is essential that opening an account is not too complicated.
+
+Greg Clark
+My right hon. Friend is absolutely right. That is the import of the amendment I mentioned—we have stressed its importance. The Bill has substantially improved regard for competition, including by addressing the possibility that regulators, whether inadvertently or by neglect, might impede it. An explicit requirement to have regard to competition will help in that matter.
+
+Consumer credit is a topic of great interest. A number of provisions in the Bill enable the transfer of the regulation of consumer credit from the Office of Fair Trading to the FCA. That will take place by April 2014 and constitutes a major transformation in the regulation of consumer credit. As all hon. Members know, there was strong cross-party consensus in the House of Lords on the need for strong regulation of the payday loans market. Members on both sides of this House feel just as strongly.
+
+Tracey Crouch (Chatham and Aylesford) (Con)
+There has been a proliferation of payday loans companies setting up in Chatham high street. Hon. Members have raised the issue for some time, so I welcome the Government’s decision. When will the university of Bristol research into a cap be published? Will it be published before Christmas?
+
+Greg Clark
+My hon. Friend is a real campaigner—anyone who suffers poor treatment in Chatham can count on her vigorous support in defending themselves against people who have more power. My understanding is that the research being conducted by the university of Bristol is pretty close to completion. I am not certain whether it will be published just before or just after Christmas, but I will ensure that my hon. Friend is alerted as soon as it is laid before the House.
+
+Lords amendment 78 clarifies that the FCA will have the power to impose restrictions on the cost and duration of a regulated credit agreement. It ensures that potential loopholes that could be exploited by unscrupulous firms are addressed—for example, by ensuring that the FCA’s rules under the power cover linked charges and connected agreements. The amendment provides for the agreement to be unenforceable by the lender, for any money or property secured against the loan to be returned to the borrower, and for compensation arrangements to be put in place.
+
+Helen Goodman (Bishop Auckland) (Lab)
+Will the Minister clarify for the House whether the rules apply to organisations such as BrightHouse, which sells furniture and white goods at very high interest rates as well as via straightforward money transactions?
+
+Greg Clark
+The hon. Lady would not expect me to comment on a particular firm when I do not know the details, but she makes a perfectly reasonable general point. If a firm is a regulated provider of credit, the provisions apply to it in the same way.
+
+Helen Goodman
+But it sounds as if people selling goods at exceptionally high interest rates on hire purchase agreements are not regulated credit providers. Therefore, is there not a bit of a loophole in what the Minister offers?
+
+Greg Clark
+I do not believe there is a loophole. Firms are required to be regulated for those aspects of their business that provide credit to consumers. They therefore fall squarely under the FCA’s powers.
+
+The Government tabled a number of amendments in the Lords to ensure a smooth transfer of consumer credit regulation from the OFT to the FCA, and to ensure that the FCA regime is proportionate and gives the right protection to consumers. We also introduced amendments in response to concerns raised by the House of Lords Select Committee on Delegated Powers and Regulatory Reform. For example, Lords amendment 136 requires the Treasury to have regard to the importance of securing an appropriate degree of protection for consumers and for the principle of proportionality.
+
+Lords amendment 130 responds to the Committee’s concern about double jeopardy. It provides that when criminal sanctions under the Consumer Credit Act 1974 and regulatory sanctions under the Financial Services and Markets Act 2000 are available to the FCA in relation to the same act or omission, a person may not be convicted if he has already been subject to sanctions under FSMA.
+
+Lords amendment 233 and associated technical amendments address a possible loophole that might otherwise emerge as a result of moving from a CCA-based regime to a FSMA-based regime. Under FSMA, it is an offence to carry on a regulated activity without authorisation, whereas under the CCA it is an offence to lend money or collect debts without the right category of licence. The Government tabled amendments in the Lords to make it a criminal offence to lend or collect money without the correct permission. That addresses the risk of sophisticated illegal money lenders seeking authorisation for a lower-risk activity, only to use that as cover to engage in lending or debt collection, to the potential detriment of consumers. Lords amendment 233 also ensures that any agreements entered into or being enforced by a person without the necessary permission become unenforceable, meaning that important protections in the CCA for victims of illegal money lenders or debt collectors are replicated in the new regime.
+
+Lords amendments 63 and 232 make changes to how the appointed representatives regime under FSMA will operate when firms carry out a credit-related activity—for example, by acting as ancillary credit brokers. The amendments create a limited carve-out from the provision in FSMA that firms cannot be both an appointed representative and authorised at the same time. They provide that if a firm is authorised for a particular category of consumer credit activity, it would also be able to become an appointed representative.
+
+Consistent with CCA provisions, the Bill allows the Treasury to enable trading standards to prosecute offences under FSMA. Government amendments enable the Treasury to confer similar powers on the Department of Enterprise, Trade and Investment in Northern Ireland. They enable the Treasury to confer powers on trading standards and DETI to investigate offences under FSMA.
+
+The amendments to which I have spoken so far have been concerned with the new regime, but the transfer to the FCA will not take place until April 2014, and it is clear that there are problems in the sector that the OFT needs to address in the meantime. The findings of the recent OFT report into compliance standards in the payday lending market show that compliance levels are  low and that a number of practices that clearly cause consumer detriment are rife in the sector. To empower the OFT to operate as effectively as possible in the interim period, Lords amendments 138 and 147 give the OFT a new power to suspend consumer credit licences with immediate effect if it considers that necessary urgently to protect consumers.
+
+Finally, on social investment, the Government tabled Lords amendments 24 and 41 to ensure that the particular needs of different sectors and the consumers that use them are taken into account—they are not specific to social investment but apply to alternative and innovative business models more generally. Lords amendment 24 requires that, when the FCA is considering its consumer protection objective in future, it will be required to have regard to the different expectations of consumers in relation to different types of financial service. In other words, if people with their eyes open go into a social investment model, it will be entirely appropriate for advisers to advise on such products.
+
+Lords amendment 41 adds a new regulatory principle to clause 3B—the principle applies to both the Prudential Regulation Authority and the FCA. The measure requires them to have regard to the different nature and objectives of different financial services businesses. It is intended to make clear that there should not be a one-size-fits-all approach to regulation, because sectors such as social investment have an important part to play.
+
+Mr Thomas
+I apologise for interrupting the Minister’s strand of thinking on the social investment measures, but may I take him back to payday lenders? The noble Lord in the other place introduced a series of Government amendments designed to deal with the problem. Will the Minister offer the House a definition of payday lenders, so that we have a sense of who the Government seek to tackle with the amendments?
+
+Greg Clark
+I will not do that for much the same reasons I gave in response to the previous intervention. The Lords amendment clarifies that across all regulated lenders the FCA has broad and powerful powers, if I can put it that way, to intervene to protect consumers, including on the price or rates of interest they are charged, according to its assessment of the detriment faced by consumers. It is right to frame it in that way, and to empower the regulator to pursue sometimes even novel forms of credit that might be operating to the detriment of consumers, rather than to risk specifying in the Bill detail that might be overtaken by time or the ingenuity of people seeking to cause damage to our constituents.
+
+19:30:00
+
+Mr Thomas
+Will the Minister reflect on that answer? It would be helpful, in the context of the debate and understanding whether the amendments he supports today are effective enough to deal with the problem of payday lenders, if he considered providing a definition of what the Government see as being the problem with payday lenders. The Opposition might have different views on what constitutes a payday lender. It would be good to hear the Minister’s views, so we might determine whether the amendments will achieve the objectives he has set out.
+
+Greg Clark
+The hon. Gentleman knows that the term, “payday lender” is relatively informal and loose. It is important for the FCA to have the powers it needs to protect consumers. Its focus should be on the consumer, rather than on a current definition of a practice pursued by a supplier. That is the way it is cast and it is the right power. From the discussions in the House of Lords last week—as he might imagine, I paid close attention to them—it was apparent that everyone who has taken a close interest in the past weeks, months and, in some cases years, was content that the powers vested in the FCA, which are clarified in the amendment, address all the concerns shared by Members on both sides of the House.
+
+Stella Creasy (Walthamstow) (Lab/Co-op)
+I encourage the Minister to broaden his comments to encompass all our concerns about high-cost credit companies. Having seen the wonderful damascene conversion to the need to tackle these companies, many of us want to ensure that we do not inadvertently miss out on not just those payday or short-term lenders, but doorstep lenders, logbook loans and hire purchase agreements. High-cost credit encapsulates all those issues, and I think it would be welcome to the regulator to know that the intention of Parliament is precisely to tackle the whole industry.
+
+Greg Clark
+I am grateful to the hon. Lady for her point, which makes the point I was making to the hon. Member for Harrow West (Mr Thomas). To use the term “payday lenders” exclusively is to miss a broader range of potential practices that may cause detriment to consumers, and that is why this approach is about the powers vested in the regulator.
+
+Yvonne Fovargue (Makerfield) (Lab)
+Will the FCA be able to look at other concerns such as the misuse of continuous payment authority by both high-cost lenders and fee-charging debt management companies? The unrestrained use of continuous payment authority causes one of the biggest detriments to consumers that I have seen.
+
+Greg Clark
+The short answer to that is yes. The FCA’s powers will be broad, and defined by practice rather than activity. We have been clear that it might not be just the level of interest charged, but other practices associated with the lenders that come within the ambit of the regulator. It is clear that it will use those powers vigorously to promote the interests of all our constituents.
+
+I will leave my introductory remarks on that point. I am sure that Members wish to contribute and I will seek to respond to any points raised when I make my winding-up speech.
+
+Chris Leslie
+There is a large number of amendments in this group, that focus on consumer credit and the best interests of consumers. I want to concentrate on two in particular—Lords amendments 25 and 78.
+
+Lords amendment 25 was extracted from the Government and we are glad that they gave way on it. The amendment will henceforth make it clear that the new Financial Conduct Authority will have a requirement to ensure basic access to financial services particularly in deprived areas and neighbourhoods where some of our banks and financial institutions do not necessarily  think that they can make millions and millions of pounds. That is the hope placed on the shoulders of the FCA. The key question is whether the regulator will roll up its sleeves and use the full extent of the powers that the Bill should provide. I, for one, will be seeking a very early meeting with the new chief executive of the FCA to extract commitments on how it intends to use the new powers.
+
+It should not have taken months of persuading and cajoling Treasury Ministers for them to accede to the changes. Perhaps it was the fresh air provided by the new broom, the Financial Secretary to the Treasury, sweeping clean with perhaps more of an open mind than his predecessor on some of these issues. If that is the case, I commend him for it. We need to begin to look at the detail, so I have a series of questions for him, starting with Lords amendment 25.
+
+There are already what some people call lending deserts. In some communities, bank branches are not as readily available as they are in other, more affluent areas. In some deprived areas of the country, it is hard for consumers to access affordable credit. The key word—affordability—is of course now well known. If people want to be completely ripped off, they can pay for high-cost credit, often on a very short-term basis, with immense interest rate charges that can accumulate and get them into severe jeopardy. That will lead to further financial exclusion if they cannot keep up with the repayments, and to them being trapped in a spiral of poverty.
+
+It is important to hold the big five banks to account. As large institutions, they are not just private companies with no obligations beyond and above those that rest on the shoulders of any other private company. In this day and age, they are a social utility and have a duty to the community to ensure that all parts of the country have access to basic banking facilities. The work of the financial inclusion taskforce, under the previous Administration, sought to ensure that basic bank account facilities were available. With the onset of universal credit in April 2014, it will be even more important for everybody to understand and have access to those facilities. However, I am increasingly worried about the fragile deal put together under the previous Administration to support and extend those basic services. There are signs of a creeping onset of charges. As banks come out from the era where the taxpayer was essentially keeping them going, they are now starting to look to the consumer to extract more charges. I do not want a situation where banks get together and think about introducing basic charges on current accounts, especially for those who are taking care to ensure that they are in credit. There are worrying signs that that might be in the air. Even the regulators have started to say, “Well, let’s start charging a little bit for in-credit current accounts. It might be a way of ensuring we don’t have to charge such high costs for unauthorised overdrafts.”
+
+Sheila Gilmore (Edinburgh East) (Lab)
+My hon. Friend talks about regulating to ensure that these bank accounts remain available. Sometimes, if people find themselves being charged for an account, they simply give up, because it is too expensive, and sometimes they cannot open another account, because they have got into difficulty. That has been the experience in the past few years. I hope that the regulators will be alive to those issues.
+
+Chris Leslie
+Indeed, that is the case. Anxiety is spreading and rumours are circulating that people with credit impairments or county court judgments against them are finding it increasingly difficult to access basic bank account services. One of the most shocking changes has been the way some of the big banks have started gradually to pull out of the LINK cash machine network. That network depends on all the banks taking part, because, if some big banks withdraw, as has happened, more of the cost of maintaining the network falls on a minority of banks, which, as a result, are more likely to walk away. I have worries, therefore, not just about the basic bank account networks, but about the LINK cash machine system, and I would be grateful if the Minister set out to those banks in no uncertain terms that, given their social duties and responsibilities as a utility, we expect—as a de minimis requirement—that they maintain those basic, fundamental activities.
+
+Alison McGovern
+Will my hon. Friend slightly broaden his comments about the LINK system? In too many of our towns and cities, cash machines in the most deprived areas are the ones that charge. Unfortunately, the principle that those with the least pay the most is creeping back into financial services. If we do nothing else this evening, let us send the message to the financial services industry that such a principle is wholly unacceptable.
+
+Chris Leslie
+That is true. The Opposition take the view that the financial services sector needs to move away from the old model of essentially extracting profit on the basis either of the ignorance or lack of awareness of customers—basically taking advantage of the inertia in the system—or of the fact that the consumer has no other choice. We need to support a financial services sector that genuinely adds professional value and acumen to products fairly and transparently. That is the modern sort of financial services sector that this country deserves and can have. We need to get away from that old era, in which the banking system essentially raked in multiples of small penny packets of income and profit off the backs of people who were not necessarily aware they were being charged 25p or 50p for cash withdrawals. That is the sort of bad practice we need to move away from.
+
+The Opposition have called for action to ensure that pockets of the country are not left isolated and on their own. In the United States, they have clear safeguards requiring banks to reinvest in communities and provide basic coverage. That counts not only for consumers, but for small businesses, which, as we know, also struggle to access affordable loans.
+
+Mr Thomas
+My hon. Friend is making an extremely important point. He will be aware that President Obama, in backing stimulus legislation in Congress, ensured that it required banks to disclose their lending to businesses across the USA, allowing us to see the lending deserts not only for individual financial consumers, but for individual business financial consumers. Surely that is something the FCA might usefully consider requiring of our banks.
+
+19:45:00
+
+Chris Leslie
+In Labour’s view, amendment 25 ought to allow that. If we are talking about ease of access to affordable financial services, it should be a responsibility  of the FCA to think of new ways to map what is happening across the country and to ensure that there are not these deserts or vacuums of poor availability or no availability. That is why there should be a requirement for a map to be drawn up of where and what lending is available, perhaps on a postcode-by-postcode basis. It would provide transparency and enable hon. Members to find out what is happening in their constituencies. Anecdote is not adequate; we need a more rigorous system of regulation and monitoring. That is how it is often done in other developed countries, such as the US, as my hon. Friend said.
+
+In the past, Ministers have said that they are opposed to that level of transparency. I am not sure about this Minister—I know he will want to take a fresh perspective—but previous Ministers said: “It’s too burdensome to require transparency in respect of lending patterns, and there might be anti-competitive issues as well.” It would be entirely feasible to collect anonymised data in the way suggested, however, and I hope that Lords amendment 25 could be so interpreted.
+
+Mark Durkan
+Like my hon. Friend, I welcome amendment 25, which, I note, was something he laboured on valiantly when we spent our Lent in Committee. Does he recognise, however, that in one part of the UK —Northern Ireland—the five high street banks he referred to are not part of the banking profile? In Northern Ireland, we are facing a twilight zone of banking, with changes happening almost by default squared—as a result of changes here and in Dublin—and that will change further in the context of banking union. That is why we need to question how the FCA would use the powers being given to it under amendment 25.
+
+Chris Leslie
+Exactly. I imagine that what my hon. Friend describes is absolutely correct. Incidentally, I pay tribute to him for his endeavours in trying to improve the legislation, month after month after month, as we proceeded through Committee and on Report. The situation in Northern Ireland will be compounded by different factors, so how much more useful would it be if he and his neighbouring parliamentary colleagues had access to data about lending availability in a more rigorous form? That is how we want to interpret amendment 25 and how we will press the FCA to interpret it.
+
+Mr Thomas
+Is there not a danger that the Minister might see amendments 25 and 78 as a “Get out of Jail” card when it comes to taking real action to tackle the problem of payday lenders and the lack of access to financial services in many of our most deprived communities? Might he not say, “Well, 2014, when the FCA comes in, will be the time to act”? Does he not need to adopt the same initiative as my hon. Friend mentions by having a meeting with the chief executive of the FCA and saying, “We want action on these issues. We want you to set out clearly before you take office what you’re going to do about the problem of payday lenders and what steps you’re going to take to require better access to financial services in the most deprived communities”?
+
+Chris Leslie
+That is correct. The Minister ought to be meeting the FCA regularly, and clearly those are the questions the House expects Treasury Ministers to put to the new regulators.
+
+Lords amendment 78 was another concession that had to be dragged from the Government at great effort. I do not expect too much sympathy from you, Madam Deputy Speaker, but it is quite difficult for the Opposition to win votes in this House. Occasionally we have the odd success, such as on the EU budget—I do not want to talk about these things too much, as I know the Minister is a bit raw on that point—but by and large we try our best, we make our suggestions and we do not get very far. However, on this issue the Government were faced not just with the weight of argument by many hon. Members—including, of course, my hon. Friend the Member for Walthamstow (Stella Creasy)—but with the spiritual hand of assistance from the new Archbishop of Canterbury-designate in the other place, the Cross-Bench Bishop of Durham, as is. The Government had no choice but to make that historic concession when faced with the overwhelming moral and political case and the breadth of cross-party agreement.
+
+The Commercial Secretary to the Treasury admitted that amendment 78 would not be a silver bullet for the problem of high-cost credit—payday lending or however we characterise these things. Although we are slightly disappointed that the new expanded Lords amendment 78 does not refer to “consumer detriment”, we hope that some of the provisions will open the door to enabling the Financial Conduct Authority to take urgent action to clamp down on some of the high costs involved, as well as the duration and rolling over of some payday loans or high-cost credit arrangements again and again, getting people into a spiral of dependency with massive credit costs, which are severely damaging to very many people.
+
+My questions for the Minister are these. If the legislation no longer contains the “consumer detriment” litmus test, what will trigger intervention by the regulator? What will be the test? We are keen on many of the ideas in the amendment. The power to recover funds for consumers, the power to strike down enforcement action by an unreasonable lender and the power to insist on compensation for customers are all good, but we need the Minister to explain in slightly more detail how the Financial Conduct Authority will trigger those powers. Will individual complainants ring up the FCA hotline? Will litigation or a set of class-action cases be needed to get the FCA to take note, or might it send mystery shoppers around the country to undertake proactive investigations and say, “This is not good enough; we will see action”?
+
+We are glad that Lords amendment 78 also makes changes on unlawful communications. That is welcome. Hon. Members will be looking at the clock and thinking, “Well, usually about now”—some time between 7.30 pm and 8 o’clock—“we get text messages from companies trying to convince us that all our debts can be written off in a voluntary arrangement under new Government legislation.” We might get spam or a cold caller saying, “Did you realise you’ve got £2,500 overdue, if only you put in your PPI claim before Christmas?” It is around this time in the evening that people will be getting these sorts of automated calls. There are all sorts of advertising, text and cold-call arrangements proliferating across the country.
+
+Many of our constituents are totally baffled about what is being done and what can be done by the relevant authorities to stop such exploitative behaviour. Apparently, some of the companies trying to exploit vulnerable individuals use mechanised arrangement to poll thousands and thousands of people, and even if only 1% pick up the phone and say, “Oh well, I’d like more information”, the volume of calls means that they can make significant profits. A lot of these automated telephone arrangements are routed through foreign jurisdictions—often not even in the European Union—as a way of skating around advertising regulations.
+
+We want amendment 78 to get a grip on some of those questions. I know that financial services companies are not always the ones directly involved—it could be what are known as claims management companies. There are also organisations peddling debt management plans that have high fees associated with them. People are sold a product by a company that says, “Let’s consolidate all your expensive loans and we’ll take a single payment instead.” People think, “That sounds rather good,” and they start making payments. Perhaps months go by, during which they pay, thinking that they are defraying their debts, but when the company goes bust, they find that they have paid down absolutely none of their debts. All they have been doing is paying for the profits taken by a fee-charging DMP provider. Those are the sorts of services we want the Financial Conduct Authority to tackle.
+
+We have had a lot of shilly-shallying on these issues. Quite frankly, it should not have taken nine months of hard effort to extract this concession from the Government since we first tabled an equivalent amendment in Committee back in March. We are glad for small mercies—this is a step in the right direction—but it is now for the Minister to explain how Lords amendments 25 and 78 will bite and how they will help people in their daily lives. I look forward to hearing his response.
+
+Helen Goodman
+I want to speak to Lords amendment 25. The Minister was not terribly clear in his opening remarks about whether it concerned consumers as individuals or whether it would be interpreted more widely, to address the branch networks that the main clearing banks operate. When he winds up, I urge him to say something about the significance of having a nationwide branch network to ensure that all communities can be financially included.
+
+This issue came to my attention in July, when I received a letter from HSBC, which wanted to close its branch in Shildon in my constituency. Shildon is a town of slightly more than 10,000 people, many of whom have been banking with HSBC for a long time. Many local businesses—600 of them—bank at the Shildon branch. It is much cheaper for everybody to have a local branch than to get on the bus, go down to Bishop Auckland, put money into the bank or take it out, and then come back again. The round trip on the bus costs £4. It is absolutely ridiculous that people should face such barriers. We mounted a great campaign and a huge petition, but of course HSBC has paid no attention whatever to the needs of the people of Shildon. I happened to come across a man at the Labour party conference who revelled in the title of “Director for wealth management”, and who was apparently the person responsible for the branch network. It is true that there  is not a lot of wealth to manage in Shildon; none the less, people in Shildon need a proper banking service, just like those in other parts of the country.
+
+As well as thinking about that need, we need to think about the impact on the rest of us. Let us suppose that somebody who lives in a perfectly well-banked part of Durham wishes to make payments in Shildon, belong to an organisation there or make transactions with people there. It is far easier and better for everybody if they know that there is a proper national network of bank branches. I urge the Minister to comment on the branch network in his closing speech.
+
+I remind the Minister that over the last four years taxpayers have given the major banks a considerable amount of support through subsidies and guarantees, yet although they are too big to fail, they are not too big to fail their customers, which is exactly what they are doing. HSBC claims in its slogan to be “the world’s local bank”, but it is not very local in my constituency.
+
+20:00:00
+
+We were fortunate to have the divine intervention of the Bishop of Durham, who seems to have succeeded in reaching parts of the Government that we were unable to reach, but I want the Minister to understand that if we are to build a successful economy in the north of England, we need to support small businesses and the communities that are currently being marginalised. If we do not do that, and if we simply concentrate on investing in high-tech, high-success areas, we will end up with pockets of success in a sea of deprivation. That is not the kind of country that we want to live in.
+
+We want to see one-nation banking that will provide an opportunity for everybody to avail themselves of banking services. In a modern economy, people simply cannot function without a proper bank account. Without one, they cannot have a job, get a good deal from the utility companies or receive money from other people. A bank account is now an essential part of modern life, and I hope that the Minister will take this matter to heart, talk to the FCA about it and say more to us about it this evening.
+
+Mr Gareth Thomas
+I am grateful for this opportunity to take part in the debate tonight. I echo some of the concerns that have been expressed by my hon. Friends the Members for Bishop Auckland (Helen Goodman) and for Nottingham East (Chris Leslie). I hope that the Minister will see his response to the debate as an opportunity to convince the House that Lords amendments 25 and 78 are not part of an attempt to put off action on payday lenders or on lending deserts.
+
+I want to offer the House the example of the community of Thamesmead and Abbey Wood. It is a community of about 55,000 people in south-east London. The houses there were built in the 1960s in response to what was then seen as London’s housing crisis. There is no bank branch in the whole of that community. Not one of the big five banks has a branch there. The nearest branch is 30 to 45 minutes away by public transport. This is not for want of trying by a whole series of people to convince the big five banks to establish themselves in the area. An excellent organisation, the Thamesmead Trust, has tried to persuade the banks to set up there. The former Member of Parliament for Erith and Thamesmead, John Austin, has also tried many times,  and the present Member, my hon. Friend the Member for Erith and Thamesmead (Teresa Pearce), has made a number of efforts as well, but there is still no bank in the area.
+
+The community of Thamesmead and Abbey Wood is clearly not the only area without a bank, as my hon. Friend the Member for Bishop Auckland illustrated, but I worry that many of the lending deserts in this country are not yet out of the closet, if I can use that term. We do not have the necessary information to chronicle by postcode the lending that is taking place to businesses and to individual consumers. As my hon. Friend the Member for Nottingham East said, many of the banks in question are established in the United States, where they have to provide those data. As I said in an earlier intervention, President Obama supported calls for business lending to be publicised, on a postcode basis, so that people could see where lending was taking place and where it was not. That provision has now been written into American law.
+
+We have called not only for the publication of lending data by postcode but for an obligation to be placed on banks to lend into every community. If they are not prepared to do that themselves, there should be an expectation that they will do so through community development finance institutions, through charity banks or through credit unions, but the obligation should be on the banks to demonstrate that they were providing lending into communities through those alternative sources if they were not prepared to do so directly themselves.
+
+Helen Goodman
+My hon. Friend reminds me that I asked HSBC, when it was closing its branch in my constituency, if it would instead put £10,000 into the local credit union. I received a letter from the bank today saying that it would not.
+
+Mr Thomas
+My hon. Friend gives a good example of the lack of joined-up thinking in our financial services markets. It would be good to see the big beasts of the financial services jungle supporting the newer players that want to address the problem of lending deserts.
+
+Numerous websites offer comparisons between banking products, but the Centre for Responsible Credit has highlighted how, in practice, the banks release very little information about their lending at community level, either for businesses or for personal customers. Data on lending to and deposits from small businesses and third sector organisations, by postcode or at neighbourhood level, are not routinely available in the UK, even though much of that information is held by the banks and could be released.
+
+The last time I spoke to representatives of the British Bankers Association, they told me that they were looking at this issue. It would be good to hear what the Financial Secretary thinks about it. My hon. Friend the Member for Nottingham East clearly thinks that the Minister will be a new broom sweeping through the fusty ways of the Treasury, and I hope that he will use his considerable influence to maintain the pressure on the British Bankers Association to step up the release of those data. I also hope that he will use his meetings with the chief executive and board members of the Financial Conduct Authority  to require them to initiate similar pressure, in private before the FCA is properly established, and in public thereafter.
+
+Susan Elan Jones (Clwyd South) (Lab)
+My hon. Friend has been talking about bank deserts. Would he also accept that there is also a problem when small branches in rural communities close? We accept that some of those communities are very small, but there is a sense that once a bank has deserted a community, almost nothing can be done to support the businesses there. That is also something that we need to look at.
+
+Mr Thomas
+My hon. Friend makes a very good point. The situation is particularly stark in rural communities, but it is increasingly stark in many urban areas. North Harrow, in my constituency, no longer has a bank, and businesses in that area are extremely disappointed by the lack of easy access to banking services and the inability to have a proper discussion with a local bank manager about their finance needs.
+
+I hesitate to suggest that the Minister might enjoy and benefit from a foreign trip, but should he find time in his diary, he might like to go to Washington and spend a little time with the National Community Reinvestment Coalition. He would find a considerable amount of expertise there on the disclosure of lending data by banks to businesses and individual consumers. He might like to bring back to the House, and to his conversations with those in the financial services industry, the benefits of the US legislation, the most recent update of which has happened since 2010.
+
+Let me return briefly to the definition of payday lenders. If I may say so, I thought the Minister quite skilfully used an intervention made by my hon. Friend the Member for Walthamstow (Stella Creasy) to avoid defining payday lenders. I gently encourage the Minister to look again, not necessarily in the context of this debate, but separately, at how payday lenders should be defined. Even with the power proposed by the Lords, the question of definition is still ducked. If there is to be the interest rate cap for which so many Members, led by my hon. Friend the Member for Walthamstow, have campaigned, we must have clearer definitions of which financial services businesses are included within the term “payday lenders” or the high-cost credit definition that was just mentioned, so that proper action can be taken.
+
+I fear that many of the payday lenders who have looked at the amendment that the new archbishop has helped to force over the line, perhaps, in the House of Lords will recognise that there is no definition as yet, and so will not feel sufficiently worried to change their practices.
+
+Tracey Crouch (Chatham and Aylesford) (Con)
+I had not intended to speak in this debate, but I rise briefly to talk about Lords amendment 78. I want to speak partly so that I can place on the record my recognition of the hard work done by the hon. Member for Walthamstow (Stella Creasy) on this issue. She has been recognised already across the House in winning many awards for her campaigning. It is true to say that she has been tireless on this issue, on which she has achieved a huge success—at the early stages of what will no doubt be a long and distinguished career in the House.
+
+I want to thank their Lordships for the work they did the week before last on this issue, and to congratulate the Government on listening to the concerns across the House. This issue concerns many of us on both sides of the House, even though there may be an urban myth that those of us who represent south-east Conservative seats do not face many of the concerns about deprivation and the impact that the high-cost credit industry is having on our constituents.
+
+Chatham has two significantly deprived areas. One problem seen by the local citizens advice bureau is an increase in the number of people from the more affluent wards in the area coming in to talk to their debt advisers. In Medway we now have average personal debt levels of nearly £43,000, which I think is incredibly high. We in Medway have therefore joined up, across all the parties, to try to provide a solution to some of the problems. First and foremost, I joined the local citizens bureau to chair an inquiry to try to establish precisely what is driving people into increased personal debt. We have done so by, rather controversially, partnering with Wonga to do a proper survey across all the wards in the Medway authority, looking into what is causing people to increase their levels of debt. However, let there be no hesitation about the fact that, as I have already made clear, if it is payday loan companies that are driving people, particularly the more vulnerable members of society, towards debt, we shall make strong representations to ensure stricter regulation of these companies.
+
+The hon. Member for Nottingham East (Chris Leslie) raised what I thought were interesting issues about the definition of high-cost credit lending. One of the organisations that has not yet been debated here is  the pawnbroking industry. I recently saw an advert placed outside both a pawnbrokers and a payday loan company, inviting people to take out loans of up to £50,000. It turned out that this was for businesses. I have real concerns about businesses taking out payday loans where they are securing the entire company against such credit. I recognise an asset is being secured in pawnbroking, but entire businesses could suddenly be lost if they are unable to meet their repayments.
+
+I have some concerns about whether this regulation will cover pawnbroking companies, as there is a bit of a loophole in the credit regulations when it comes to pawnbrokers. I would like to see us take a proper look at how pawnbroking companies are offering increasing amounts to help with short-term cash supply. Although there are some limitations and I do not think it is recommended that businesses take a loan of more than £25,000, the fact is that pawnbroker loans can go up to £100,000. It is incredibly irresponsible for companies to be lending that to businesses, particularly when it is unlikely that the businesses are going to be able to meet their repayment plans.
+
+20:15:00
+
+I welcome the Government’s concession on this issue, which is hugely important for many vulnerable people across my constituency. I look forward to the Minister’s response to some of the questions raised, particularly on issues such as advertising and the definition of high- cost credit. I also look forward to the publication of the university of Bristol research, which I think will play an incredibly important part in how we take this issue forward for the future.
+
+Stella Creasy
+I shall speak to amendments 78, 137 and 148, which deal with the role of the Office of Fair Trading. Before I do, I want to place on record my gratitude to Members in the other place who, along with the hon. Member for Chatham and Aylesford (Tracey Crouch) have been so supportive of the sharkstoppers campaign. I mention Lord Mitchell, Lord Kennedy, the Right Reverend Welby—I think that is the appropriate term; apologies if it is not—Baroness Howe and Baroness Grey-Thompson. They have all been fantastic in championing a measure that I know has widespread support across the country.
+
+I also put on record my gratitude to many organisations that have been helping make the case for action on high-cost credit, whether it be R3, the insolvency practitioners, the co-operative movement and co-operative party, Unite, Community and the thousands of concerned citizens who been involved in part of the campaign. I thank the hon. Member for Chatham and Aylesford for her kind words and for using the term “tirelessly” rather than “tiresome”, which is how some people might have interpreted the doggedness with which we have persisted in campaigning on this issue. In that sense, this amendment and the damascene conversion of the Government to the need to act on the cost of credit is very welcome. Throughout this campaign, we have all said that when the Government accepted that we were right all along, we would be grateful and would take it within the spirit of cross-party agreement that something needs to be done about these companies and about the impact of debt on our constituents.
+
+With that in mind and in genuine appreciation of the fact that this moment has happened, I now want to press the Minister, as have many others, about the nature of the amendment and what will happen in the next year. Many of us are concerned that there is still a window of opportunity driven both by the delay in the implementation of these powers for the Financial Conduct Authority until April 2014 and by the continuing pressures that many in our constituencies will face, which might mean a bonzer Christmas for many of the legal loan sharks.
+
+We started to campaign on this issue because we could see that toxic mix in Britain of a crisis in the cost of living, of families struggling, having lost jobs or facing wage freezes in Britain and, indeed, of the lax regulation in the UK of the cost of credit. We know that those pressures have got worse, not better, for British families over the last couple of years, so we know that one in three of those families in Britain have suffered a pay freeze over the last 12 months at the same time as they have seen the cost of basics rise and continue to rise. We know that many consumers have borrowed about £2,000 on top of their secured debts—their mortgages—to try to make ends meet in the last year, but only a quarter of them have managed to pay that money back.
+
+The concern I bring to the House tonight is that when we look ahead to 2013, many of those pressures will not just increase, but explode over the course of the next year. The consequences for many, particularly those in the poorest communities, will be severe. We know that the pressures on the cost of living are not evenly distributed in British society. We know that the poorest 10% spend up to a quarter of their incomes on basics such as housing, fuel and energy, and we know that the prices of  those commodities will become higher, not lower, in the coming year. Today we heard from E.ON—the last of the big six companies to announce it—about the increase in the cost of energy that consumers will face in the new year. The companies’ average increase of between 6% and 11% means that the average annual household energy bill will reach an all-time high of £1,300 next year.
+
+I started to campaign on this issue because I could see the impact of debt on my community in Walthamstow, in north-east London. It gives me no pleasure to say that over the past 18 months many Members on both sides of the House, representing a range of communities, have approached me to discuss cost-of living issues, but I also know that London is a harbinger of the pressures that are to come. I know, because I have seen research-based predictions that London rents will increase by 26% over the next five years, that unless we do something about the cost of credit—unless we do something to help those who are struggling with the everyday cost of living—we shall face a society in which debt is just a way of life, with all the consequences that that will have for people.
+
+However, this is not just about the cost of housing or, indeed, the cost of energy. It is also about the everyday cost of getting to work, which is having a great impact in my local community. I have talked to people in Walthamstow who have managed to secure apprenticeships but are forced to travel around London because there are so few apprenticeships in my area. A travelcard covering zones 1 to 3 costs £35 a week. Only people who are able to live at home can afford to take the opportunity to become an apprentice earning £100 a week, and we now learn that rail fares are to rise next year.
+
+Those are pressures on the working poor in our community, but so are changes in the benefits system. Given that there is no spare supply of housing, it does not take a genius to recognise that the 1,000 families in my community who have been told that their housing benefit will be capped in April will have to borrow to make ends meet and keep a roof over their heads. The pressures that the legal loan sharks have decided to increase are the pressures that the amendment seeks to address.
+
+It is clear that these companies are stubbornly resisting what are now widespread concerns about them and the profits they are making. Last year the industry was worth £1.7 billion in the UK; it is predicted that next year one company alone, Wonga, will be worth £1 billion, and it is just one of more than 200 companies that are now operating here. Moreover, the companies are clearly targeting young people, including students, and they have begun to change the terms of their loans. We became aware this week that Wonga is now offering what are supposed to be short-term loans on a 60-day basis. As the Office of Fair Trading has pointed out, the companies are abusing even the most basic consumer protections in the industry. That is why we need the amendment as a starting point, but it is also why we need to look at what else the OFT can do in the year ahead.
+
+If we allow the pressures on consumers and their cost of living to continue and do nothing to curb the legal loan sharks now, we shall see another year in which  millions of people are pushed into debt by them. We already know that a third of payday loan users take out loans that they know they cannot repay, and that 50% of people who have taken out loans have missed a payment. Given the additional pressure that those people will face next year, it will be a disaster for Britain if we do not act, and that means that we should think about what the OFT itself can do. I hope that the Minister will tell us tonight whether he will support measures enabling action to be taken now.
+
+We know that the OFT will present new proposals in the new year, and that will present an opportunity for change that could set the tone for the new Financial Conduct Authority. I agree with my hon. Friend the Member for Nottingham East (Chris Leslie) and my hon. Friend the Member for Harrow West (Mr Thomas)—who is not in the Chamber now—that there should be regular meetings with the FCA to consider the industry now, but let us use the OFT to put down those markers.
+
+First, as was pointed out by the hon. Member for Chatham and Aylesford (Tracey Crouch), we must pin down the question of irresponsibility in lending. What is an irresponsible rate at which to lend to people? The irresponsible lending guidance should be redrafted to make clear precisely what the cap should be and precisely what constitutes consumer detriment, in terms of both duration and the amount lent and including the total cost of a loan. Secondly, it should be made clear that it is irresponsible for lenders not to use a real-time credit register and ensure that every loan is recorded.
+
+Justin Tomlinson (North Swindon) (Con)
+The hon. Lady is delivering a categorical and passionate speech about a very important subject, and she has just made one of the most important points that can be made about that subject. Does she agree that the sharing of credit information in the UK car industry has, to an extent, transformed what was a very murky market, and that lessons can be learned from that?
+
+Stella Creasy
+I pay tribute to the work that the hon. Gentleman has done in raising issues about debt and credit, and about the way in which companies such as this operate. We know that many of them use a get-out clause, arguing that they could not possibly have known that someone had eight or nine loans at the same time. That is partly because there is no register specifying rates of interest and the number of loans that people are taking out. The OFT should make it clear that that constitutes irresponsible lending, and that loans should be made on a real-time basis. It is no good for supposedly short-term credit to be provided on a monthly basis. I also agree with all those who have expressed concern about continuous payment authorities. I hope that, in the new year, the OFT will make it clear that we must end both the fraud and the debt that they cause.
+
+Yvonne Fovargue
+Continuous payment authorities also militate against affordability checks. As was established by the OFT’s last review, once companies know that they can dip into someone’s bank ad infinitum, they simply do not bother to carry out the checks .
+
+Stella Creasy
+My hon. Friend is right. I pay tribute to the work that she has done in this regard, and also in regard to debt management plans.
+
+Bad practice is widespread in this industry. The Financial Conduct Authority will have an opportunity to set the tone when it comes to the sort of consumer credit industry that we want in the future, but let us use the opportunity presented by the OFT to do something about the problems now, and to prevent 2013 from being boom time for the legal loan sharks.
+
+The Minister must be aware that three quarters of consumers are looking towards Christmas with severe financial concerns, and that 10 million of us in Britain feel financially squeezed. Will he state explicitly whether he will support my proposals and take them to the OFT, so that we can be certain that 2013 will be a time for legal loan sharks rather than consumers to be worried? I urge him to read the Bristol research findings—which are already in the pocket of the Department for Business, Innovation and Skills—in order to understand how measures such as this, and total cost-capping, can work, so that we can finally say that Britain is a legal loan shark-free zone.
+
+Damian Hinds (East Hampshire) (Con)
+It is an honour to follow the hon. Member for Walthamstow (Stella Creasy), and to speak in favour of the spirit of Lords amendment 78.
+
+The problems of high-cost sub-prime debt are widely acknowledged. Although they have come much more to the fore through opinion-formers of late because of payday lenders, they are not, of course, new, and by extension—this is somewhat at variance with what the hon. Lady said—it is not new that Government are not capping the cost of problem credit. It worries me slightly that we use the term “payday” as a catch-all shorthand for all these problems, and I hope that the Minister will reassure us that we are not just talking about payday lenders.
+
+Dealing with problems of this kind requires an integrated approach involving financial capability and the provision of alternatives for people who need access to credit, but it also requires regulation. Disclosure is not enough in this market, especially as it often involves very vulnerable consumers and the ready, easy availability of credit. It could be said that supply sometimes creates its own demand. Some people tend to opt not for the solution that best suits their needs, but for the most recent that they have seen. In seeking to address these costs, however, we need to look at costs in the broadest sense. This is not just about interest rate charges.
+
+Justin Tomlinson
+On the question of percentage charges, if we displayed everything in cash terms it would be far easier for even the most vulnerable consumer to make an informed decision.
+
+Damian Hinds
+Yes, total cost of credit information is a good way forward—although, ironically, that would please a lot of payday lenders because, relatively speaking, they would not look quite so bad.
+
+This is not only about interest rates; it is also about ensuring that credit is eventually paid down, and about behavioural charges, which can be difficult to pin down under the annual percentage rate as they apply to some consumers, but not others. An APR cap on its own might seem like a panacea, but, as Members on both sides of the House realise, it is not. Unfortunately, there are ways around caps. The experience of some states in  the United States where there has been a 30% cap on payday loans is that the rent-to-own sector gets a great boost, because money can be made in another way: by whacking up the base price of the goods.
+
+If there is to be a cap—and I think there can be a place for a cap—we must talk about what sort of cap it will be. I have always argued that a blunt general cap is a bad idea, because it can only be set either so high as to make no difference or so low as to put some parts of the market out of existence entirely and thereby run the risk of driving more people into the unlicensed part of the market, where someone’s idea of a late payment penalty is a cigarette burn to the forearm.
+
+20:30:00
+
+Some people say, “Well, let’s go for a product-specific cap”, under which there would be a different cap for payday loans, home credit and so forth. That is sensible in some respects, as it acknowledges the fundamental cost drivers in the market, such as that it costs more to make a short-term loan, that it costs more in percentage terms to make a small loan, and that it costs more to loan to riskier customers. The danger is that we then get cliff edges, however, and all sorts of distortions in the market, with operators shifting around between different categories in search of the most favourable regime.
+
+My preference is to have a more flexible type of cap that is, in fact, more like a curve, and which can operate effectively in all parts of the market without putting any of them entirely out of business. I discussed one version of that in a debate instigated by the hon. Member for Walthamstow (Stella Creasy) in February 2011. I called it a twin-cap approach, with a cap on interest rates—30%, perhaps—and also an arrangement fee cap, perhaps of 15%. Under such a regime, it would be possible to make money in very short-term loans—what we today call payday loans—but only in a responsible manner and at a decent level, and where operators were making longer term loans, the amounts they would be able to charge would fall.
+
+Stella Creasy
+It is wonderful to hear the hon. Gentleman talking about the positive aspects of capping. I suggest he look at total cost capping, because arrangement fees are not the only issue; there are also issues to do with late payment fees and the incentive they give lenders to push people to keep rolling loans over. Like the hon. Gentleman, I want this to be a future-proof—that is a dreadful term—proposal. We must also ensure lenders cannot get around it, however, which is why we need to cover all the costs involved.
+
+Damian Hinds
+The hon. Lady is entirely right, and I alluded to that point when I talked about behavioural charges. It is wrong to think we can legislate perfectly for all eventualities in advance, however. This market has an amazing ability to shapeshift and find its way around any regulation we might put in place, as has been seen in the United States.
+
+I would like to hear an assurance from the Minister that under the new regime it will be possible to have a flexible capping regime that allows for all parts of the market to operate while also insisting that they do so in a responsible way. I also seek an assurance that we will not just address “payday” loans, which are a relatively new phenomenon in this country. Home credit is massive,  and it has been with us since Victorian times, and has been a problem for quite a long time. There is also pawnbroking, which my hon. Friend the Member for Chatham and Aylesford (Tracey Crouch) mentioned. Logbook loans are a big market in the United States; they have not appeared in a major way here, but we can bet our bottom dollar that they would get a big boost if other parts of the market were capped. Rent-to-own is another area.
+
+On the basis of the Minister’s conversations across Government, can he assure us that the Government will continue with an integrated approach that addresses not just regulation but boosting financial capability, starting with children’s capability with mathematics in school? Will they also continue to support operators that provide responsible credit, in particular credit unions? I pay tribute to the work the Government are doing in supporting that sector, and would like them to go further in modernising it and making credit union services more widely available, such as through the post office network.
+
+Andrea Leadsom (South Northamptonshire) (Con)
+I want to speak briefly on Lords amendments 25 and 36, both of which deal with the issue of competition in respect of the new regulators: the Prudential Regulation Authority that will supervise the banking sector and the Financial Conduct Authority that will supervise business conduct in the banking sector. I seek reassurance from the Minister that having regard to the quality and level of competition in the marketplace will be sufficient to drive a radical improvement in respect of the new challenger banks.
+
+As the Minister knows, the five oligopoly banks in the UK currently have over 80% of all small and medium-sized enterprise bank accounts and personal current accounts. That means access to finance is very limited in respect of choice and types of finance, and as bank balance sheets are currently in a difficult position, it is extraordinarily hard for small businesses to get hold of the financing they need to grow, which in turn will help our economy to recover. So the Bill gives us a once-in-a-lifetime opportunity to ensure that the regulators are, in future, incentivised to ensure not only that banks do not fail, but that we encourage new entrants to the market. At the moment, many would-be bankers find that they are set enormous hurdles, such as having to set up a dealing room just to provide evidence of their ability to do so, yet at the end of an enormous obstacle course the FSA tells them that they cannot have a banking licence. What we cannot have in the future is the PRA and the FCA combining to make it as difficult or more difficult to encourage new entrants into the market. So I hope that the Minister will set out how the regulators of the future will not only tolerate, but encourage new competition.
+
+Greg Clark
+This excellent debate has covered a number of issues that colleagues from all parts of the House feel passionately about, and correctly so because they are of huge importance to all our constituents, especially the most vulnerable in our society.
+
+In the short time available, I wish to address some of the points that have been made directly by hon. Members. The shadow spokesman, the hon. Member for Nottingham  East (Chris Leslie), asked how the powers would be exercised by the Financial Conduct Authority. The powers come directly from the FCA’s remit, and he will be aware that the Bill establishes a far-reaching consumer protection objective. The overall objective is
+
+“securing an appropriate degree of protection for consumers.”
+
+The Bill goes into detail to require the FCA to consider the following: the different degree of risk to be tolerated by different types of consumers; the different needs of different types of consumers for the provision of information; and the general principle that those providing financial services should be expected to provide consumers with a level of care appropriate to their needs. I think that colleagues would recognise that this is a far-reaching objective which gives quite general powers to protect consumers, and it is right that that should be so.
+
+The hon. Gentleman mentioned basic bank accounts, on which some progress continues to be made. There is no universal legal right to a basic bank account, but the industry guidance still stands. It states that if a consumer asks to open a basic bank account and meets the qualifying criteria, the firm should offer them an account and that banks can refuse to open an account for a customer only where the customer has a history of fraud or is an undischarged bankrupt. Those provisions continue.
+
+Sheila Gilmore
+The previous Government had proposed creating exactly such an obligation, but the Minister’s predecessor, in a debate I had with him in Westminster Hall, refused to contemplate any such provision. Has there been any change of mind on the part of the Government?
+
+Greg Clark
+I did not have the privilege of participating in that debate, but I can tell the hon. Lady our policy. I also wanted to talk about the very important matter that the hon. Member for Nottingham East and several others raised about the transparency of the information that should be provided, as is the case in the United States, on the actual practice rather than just the intentions of lenders. This is a particularly important point, and what we have said in public—I mentioned this to the Chairman of the Treasury Committee earlier—is that the Government are working with the industry to get a commitment from the banks that they will publish granular data on their lending, particularly in deprived communities. We are meeting the British Bankers Association shortly on that. We have been absolutely clear that if we are not satisfied with that information we will use the forthcoming banking reform Bill to legislate to that effect. That will concentrate minds and I think everyone will be aware of the importance of that question.
+
+It is important to address the context in which we are operating. The Financial Conduct Authority must not regard itself simply as a regulator of incumbents, although it has important responsibilities in that regard. It also has the important objective that my hon. Friend the Member for South Northamptonshire (Andrea Leadsom) mentioned, which is to promote competition. I regard the degree of competition in retail banking as unacceptable. I would like to see more new entrants and I would like them to concentrate, in particular, on reaching those parts of the market that existing incumbents find it difficult to reach. I have made it absolutely clear in the  meetings I have had with the shadow Financial Conduct Authority that the competition objective is to be taken extremely seriously, and I and my colleagues in the Treasury will be looking for progress on that.
+
+George Freeman (Mid Norfolk) (Con)
+I am extremely grateful to the Minister for giving way, and I want to endorse his sentiments and those of my hon. Friend the Member for South Northamptonshire (Andrea Leadsom). Constituents in my area have come to wonder whether there is a danger of our regulating after the horse has bolted. They look to America, where there are more than 20,000 high street banks, and wonder whether we could be doing more to encourage an insurgency, as it were, of new banks to provide the high-street banking service that we need at a time when the old banks are locked up, dealing with the legacies of their mistakes. I echo the Minister’s remarks and wonder whether we can look to the Government to do anything—perhaps not in this Bill but in the coming years—to make that a reality.
+
+Greg Clark
+I completely agree with my hon. Friend. The Bill has a role to play, because it is very important that the authorities do not put insuperable barriers in the way of new banking bodies and entrants to the market that are seeking approval, because such prospective competitors could offer new services to consumers who are not well served at the moment.
+
+The hon. Member for Nottingham East raised questions about the scope of the FCA’s rule making. That relates to a point made by my hon. Friend the Member for Chatham and Aylesford (Tracey Crouch) too, so let me confirm that the FCA will be able to make rules on the cost of credit from payday lenders, as well as pawnbrokers and any other provider of consumer credit. It is important that the FCA’s discretion allows it to protect the consumer and the consumer’s interest in all these matters.
+
+The hon. Member for Bishop Auckland (Helen Goodman) is not in her place, but she was concerned about the branch network, as were certain others. It is not possible or right for the Government to require particular branches to be kept open and I am sure that no hon. Member would expect that. Lords amendment 25 will require the FCA to have regard to
+
+“the ease with which consumers…including consumers in areas affected by social or economic deprivation, can access”
+
+the services they wish to use. The FCA might wish to consider that.
+
+The hon. Member for Harrow West (Mr Thomas) is also not in his place, but I think I have addressed his concern about whether the information provided by the banks on their practice in lending will be sufficient. I have commented on the remarks made by my hon. Friend the Member for Chatham and Aylesford, and Lords amendment 78 also applies to the lenders about whom she was concerned.
+
+I join the tributes paid to the hon. Member for Walthamstow (Stella Creasy), who has been energetic in pursuing this issue. She was slightly unfair to refer to a damascene conversion, as some of us on the Government Benches have always regarded the powers that were going to be invested in the FCA as necessary. We have been pleased to clarify that. She will understand that the transition to the new regime will take some time during the next year. The Chairman of the Select Committee  chided me earlier for introducing these provisions in a hurry. It is necessary to have a degree of pace. The hon. Lady is absolutely right that during its remaining supervision of these matters the OFT in particular will have the opportunity and the power, given the amendments, to suspend a credit licence if it thinks it is necessary. The discussions that we will have, and I am sure she will have with it, will cause it to be forward-looking rather than simply regulate what has been in place so far. My hon. Friend—
+
+20:45:00
+
+Debate interrupted (Programme Order, this day).
+
+The Deputy Speaker put forthwith the Question already proposed from the Chair (Standing Order No. 83F), That this House agrees with Lords amendment 24.
+
+Question agreed to.
+
+Lords amendment 24 accordingly agreed to.
+
+The Deputy Speaker then put forthwith the Questions necessary for the disposal of the business to be concluded at that time (Standing Order No. 83F).
+
+Lords amendments 25 to 58 agreed to.
+
+Clause 6
+
+Extension of scope of regulation
+
+Greg Clark
+I beg to move, That this House agrees with Lords amendment 59.
+
+Mr Deputy Speaker (Mr Lindsay Hoyle)
+With this it will be convenient to consider the following:
+
+Lords amendment 60, and amendments (a), (b) and (c) thereto.
+
+Lords amendment 61, 62, 79, 115 to 121, 139, 140, 142, 146, 182, and 203 to 205.
+
+Greg Clark
+I come now to the Government’s implementation of the independent review of LIBOR conducted by Mr Martin Wheatley. I announced the Government’s response to the Wheatley review in mid-October and three sets of amendments to the Bill have been made to implement those recommendations that require legislation. The first is to enable activities in relation to benchmarks, such as LIBOR and potentially others, to be brought within the scope of regulation under FSMA. The second is to create criminal offences designed to tackle misconduct in the financial sector, including a new criminal offence for making false or misleading submissions in connection with the determination of a benchmark. The third is to provide the FCA with a rule-making power to require banks to submit to LIBOR and other benchmarks. Those amendments complement the market-led reforms to LIBOR as recommended by the Wheatley review. Martin Wheatley recommended that submission to, and the administration of, LIBOR become regulated activities, and amendments 59 to 62 create a framework to enable activities in relation to benchmarks to be specified as regulated activities under FSMA.
+
+Amendment 60 defines “ benchmark” as an “index, rate or price”, defined from time to time by reference to the state of the market and used in relation to investments. A benchmark is capable of being regulated only if it meets that definition. The precise benchmarks that are  subject to regulation will be specified by way of statutory instrument. The Government recently published a consultation paper on this legislation. Initially, the activities to become regulated will be LIBOR submission and administration, as recommended by the Wheatley review. However, further benchmarks can be added and the Government are considering and consulting on whether additional benchmarks should be brought within the regulatory perimeter. The types of benchmarks that could be eligible include equity or bond indices, derivatives and commodity or energy benchmarks. The definition of benchmark, as drafted, requires that it be used for one or more purposes that relate to section 22 of, and schedule 2 to, FSMA.
+
+The hon. Member for Nottingham East (Chris Leslie) has tabled an amendment that would extend that definition to include commodities. Let me say first that I totally understand the requirement that we should be able to address some of the alleged abuses that have taken place and have the powers in statute to include those benchmarks that are relevant to some of the concerns that have been expressed recently. We do not believe that there is any requirement to extend the legislation on that. In fact, the Bill was drafted to anticipate the Wheatley review and the work going on in other benchmarks. Benchmarks can represent many things, including commodities or energies, provided that they are traded financially in the way we often see. Under the definition, regulation by the FCA extends to benchmarks that involve financial matters consistent with FSMA and the objectives of the FCA as the financial services regulator.
+
+The Wheatley review also recommended that banks should be encouraged to participate in LIBOR—participation is currently voluntary. In the absence of such submissions, LIBOR would cease to be a representative benchmark and, in an extreme scenario, would not be published at all. Therefore, Lords amendment 79 allows the FCA to require firms to participate in particular benchmarks, while making reference to a “code or other document”. That allows the detail of the requirement to be determined by the benchmark administrator, not by the FCA. It might not be necessary for the FCA to use that power immediately, if at all, and it has recently opened a discussion on how and when the use of that power could be considered.
+
+The Wheatley review also recommended the creation of a new criminal offence in relation to the manipulation of benchmarks such as LIBOR and the re-examination of the criminal sanctions for market manipulation under FSMA. Although such conduct could already be a criminal offence under legislation, this is a helpful clarification of some of the powers. There will be three criminal offences: first, we are re-creating the offence of making a false or misleading statement; secondly, we are widening the offence in section 397(3) to include creating a false or misleading impression as to the market in, or the price or value of, an investment for the purposes of making a profit or avoiding a loss; and thirdly, we are creating a new criminal offence related to misleading statements and impressions in respect of specified benchmarks.
+
+The amendments also replicate the penalties for existing offences: a person found guilty might face a prison sentence of up to seven years and an unlimited fine. The  detail of the investments, agreements and benchmarks for which those criminal offences apply will be set out in secondary legislation. That is included in the public consultation currently under way.
+
+Under the current arrangements, where enforcement action results in a firm paying a financial penalty, that is applied as a discount to fees paid by other firms the following year. Without reform, unprecedented fines, such as those relating to the attempted manipulation of LIBOR, would have represented a significant windfall to regulated firms. In future, regulatory fines revenue in excess of enforcement case costs will go to the Consolidated Fund. The hon. Member for Nottingham East and I had an exchange about that earlier. The regulators will be able to net off enforcement case costs before handing over the penalties to the public purse. The new arrangements will apply to FSA fines received from 1 April 2012, so the measure will include the penalty imposed on Barclays in relation to the attempted manipulation of LIBOR.
+
+The Government have announced that £35 million of fines imposed from attempted LIBOR manipulation and other unacceptable behaviour received this year will be used to support Britain’s armed forces community. In addition, £5 million will go to the creation of new, groundbreaking first world war galleries at the Imperial War museum. I hope that the House will agree to these amendments but, of course, I stand ready to respond to any points Members make.
+
+Chris Leslie
+We have moved on to another series of amendments that have arisen largely as a result of the scandal that was discovered this summer, when it was found that some of the largest banks—obviously, we have heard about the concerns in relation to Barclays—had been manipulating LIBOR, the benchmark from which flows billions, if not trillions, in financial services products and investments worldwide.
+
+The scandal had massive ramifications across the banking sector. It was as though having gone through three or four years of attempted reform following the global financial crisis, after which it was clear that the risks that many in the banking sector had been taking were not properly understood or accounted for, the sector was again knocked sideways. It turns out that it was not just about exuberant risk-taking; it was, in fact, about corrupt manipulation of what people had thought was a trustworthy index. What is worse, it hit the reputation of the City of London in particular. It was all in the name: the London interbank offered rate. This was taken by many other international financial centres to be a moment of weakness for the UK financial services sector, and we saw several examples of other jurisdictions taking action swiftly to capitalise on the disarray in which many in the financial services sector found themselves. It was therefore important that the Government took urgent action and commissioned a review of what happened in the LIBOR scandal.
+
+At the time, we felt that the matter was of such significance that we called for an independent judicial inquiry into the whole question of banking standards and ethics. As I am sure you will recall, Mr Deputy Speaker, we had a very heated debate in which the Government said, “We’ll have a parliamentary banking commission,” while we said, “Go for an independent judicial variant.” Of course, the Government won the day, and hence the Chairman of the Treasury Committee  is now demonstrating his stewardship of that commission, which is due to report shortly. I hope that it has an opportunity to look into the wider issue of ethics and standards in banking. The Government have been keen that it starts to focus, almost in pre-legislative mode ahead of the banking reform Bill, on the Vickers reforms, but these questions of standards, ethics and culture also matter tremendously.
+
+The Government made several amendments to the Bill in the House of Lords. In amendment 79, it is envisaged that there will be new provisions for a benchmark administrator, but it is not certain that a private sector organisation, even if it has a certain amount of experience, will be totally immune from conflicts of interest. Did the Government give any consideration to establishing a more independent body or entity for that administrative process? It is vital that the process of finding a new benchmark administrator is open and transparent. Will the Minister give more details about the process that he is undertaking and how the tender process is happening?
+
+On amendment 115, it is important to ensure that the new criminal offences have a strong effect in respect of misleading statements on benchmarking and in general. In terms of its jurisdiction, is the amendment limited to British banking and financial services activities, or does it cover activities undertaken by UK organisations or UK-approved persons in operations in countries beyond our shores? Clearly, in a globalised world, that is relevant to how we see the behaviour of those in the sector.
+
+The Government’s proposals to regulate benchmarking currently apply only to investments. We want to ensure that the regulatory net is also cast around commodities, including oil trading, gas market trading, silver, gold, foodstuffs, and so on. I am sure, Mr Deputy Speaker, that you can think of a range of potential commodities. Therefore, in the marvellous parliamentary way in which we do these things, we are seeking to amend a Lords amendment to ensure that the definition is focused not only on investment but, for clarity’s sake, puts commodities into the Bill. The Government say that they are consulting on this arrangement and might have the power to include those things later down the line but do not believe that there is a requirement to do so at this stage. However, it is time that we got ahead of these issues early on.
+
+In the Public Bill Committee in March, after several hours of debate—it had been a bit of a long day—I asked the Minister’s predecessor, in relation to LIBOR and the benchmarking of these arrangements, “Do the Government have a view about whether there is manipulation and whether changes need to be made to the regulatory arrangements?” He stood up and answered with the single word, no. Of course, he came to regret that stance and several months later—I think it was in June—we learned that a tremendous scandal had taken place. If we have these legislative vehicles, it is important that we take the opportunity to deal with any potential issues.
+
+21:00:00
+
+Alison McGovern
+My hon. Friend mentioned ethics a moment ago. Although we need a financial services system that is internally ethical and that has the right culture, there is a broader problem. The LIBOR scandal bit in the way it did not because it was a usual Whitehall story, but because the Government rely on LIBOR, among other indices, to know what is going on in financial  services. This might not be the part of the Bill that has been most hotly debated this evening, but we are all reliant on these indices. Is that why my hon. Friend is suggesting that we should cast the net a little wider and try to get ahead of the problem rather than constantly chase ourselves?
+
+Chris Leslie
+My hon. Friend makes an excellent intervention. She is right. In our debates about financial services we sometimes talk in rarefied or esoteric technical terms, but this issue is certainly of relevance to all our constituents, whose mortgage rates, the interest they pay on loans, and, in the case of oil markets, the price they pay for petrol at the petrol station and the price they pay to heat their homes, as well as prices in the gas and food markets—the price of a loaf of bread, for example—are all too often rooted in the costs of these commodities and investments, as determined by the global trading environment.
+
+This is what it boils down to: it is a question of trust. Hitherto, people assumed that all the market benchmark arrangements were simply transparent exchanges of data and prices that showed the true value of an investment, product or commodity, and that people were buying and selling in an open and fair process. It turned out that those in the know, who were often highly paid traders in the bigger banks—incidentally, even more revelations will come out over the coming months about the banks that might have been involved in LIBOR—knew how to wangle the system and play the market in a way that helped not only the profits of their particular company, but that boosted their own personal bonus arrangements. It was a question of using other people’s money in order to shift massive volumes of trades. Even if the changes in price were fractional and seemed irrelevant, when they were multiplied by the billions of trades that were taking place they could have massive financial advantages to those traders involved.
+
+It was alleged recently that banks rigged electricity markets in the United States and record fines have been issued. That involved British institutions, so British regulators should be explicitly equipped to tackle attempts to rig commodities trading, whether it be spot trading, forward contracts, futures contracts or hedging arrangements. Global commodities markets include a vast range of products, such as grains, fibre, other food, precious and industrial metals, energy, carbon offsets and so on.
+
+As I have said, British households are affected by commodity market manipulation—perhaps even more than attempts to rig LIBOR. Commodity speculation has contributed to the record costs of staple foods in recent years. In fact, some people argue that the riots and social unrest in Egypt, Tunisia and other countries were influenced by pricing issues and distortions.
+
+Last month, after the Energy Secretary made a statement to Parliament, the Financial Services Authority and Ofgem confirmed that they were conducting an inquiry into claims that British companies manipulated the wholesale gas market on 28 September. The Government have said that it would not be appropriate to use legislation to cover pure commodities, such as gas, but that if commodities are referenced by derivatives or other financial instruments, it is covered by the definition of investments. However, a derivative instrument may essentially be a traded instrument and there is no  reason for it to fall within that definition. It could be regarded as an insurance product and so does not fall clearly within the definition of investments in Lords amendment 119.
+
+Total, the French oil company, recently made open allegations against one of the PRAs. That is not the PRA as we know and love it—the Prudential Regulatory Authority—but another acronym. Price reporting agencies are companies or organisations that essentially gather information, almost as a journalist might do, and figure out broadly what is happening in the market. However, it is not necessarily a true reflection of what is happening. Total alleged that there were erratic processes involved and that it was not a true reflection of the state of the market. There were also questions over the methodologies of the price reporting agencies. Does the Minister think that price reporting agencies need to be within the regulatory ambit? Again, they are important component players in the financial services sector, but are not familiar to all our constituents—but by goodness, they would become familiar to all our constituents if they were not trusted or were seen to be failing in some way.
+
+Mike Freer (Finchley and Golders Green) (Con)
+Much commodity trading is still focused on trading on the floor, rather than on the screen. Does the shadow Minister not accept that as the trend moves towards trading on the screen, that should drive transparency? Should we not let the transparency of the market work first, before we rush to regulate?
+
+Chris Leslie
+I do want to see more transparency. Electronic data exchanges certainly have the potential to provide the regulators, including the Bank of England, with more real-time transactional information about what is actually happening. I do not necessarily want to see regulators wading through reams of information, but I want to ensure that, if need be, they have the scope to act. It is not clear that the Financial Services Bill, as it first entered Parliament in February, would have captured the LIBOR benchmarking situation within the regulatory perimeter. There were suggestions from the FSA that it was not something that it could deal with. That was not good enough and the Government have come forward with amendments. I want to ensure that those amendments allow the regulators to trigger inquiries and oversight for all benchmarking indices and arrangements, especially in the commodities market.
+
+The hon. Member for Harlow (Robert Halfon), who has been campaigning on oil and petrol prices, has called for an OFT and FSA investigation into manipulation by oil firms in recent times. The United States Commodity Futures Trading Commission has raised questions about price fixing and manipulation in the silver market. That study was inconclusive, but questions linger over metals markets more broadly. The Minister’s good friend, the European Commissioner for Internal Market and Services, Commissioner Barnier, has suggested that all commodity indices should be covered in this way. Rather than waiting for European regulators to ensure that this happens, why do we not take this opportunity to deal with the issue?
+
+We should not just say that benchmarking means investments; it is vital that we put it beyond doubt that the question of commodities is included. It is a stitch in time to ensure that we cast the regulatory perimeter correctly. I commend amendments (a), (b) and (c) to Lords amendment 60 to the House.
+
+Alison McGovern
+I promise not to test your patience, Mr Deputy Speaker, or that of the House by speaking for too long. Some, I know, will be of the view that indices and benchmarks are dry, dull, technical subjects—[Hon. Members: “Never!”] Hon. Members may say that, but I suspect them of sarcasm.
+
+I begin with an explanation of why I think this part of the legislation so important, and why the amendments tabled by my hon. Friend the Member for Nottingham East (Chris Leslie) are crucial. In my view, they relate directly to the subject that currently fills our newspapers and television screens—the indignity and horror of food banks. The reason my constituents, and those of other hon. Members, cannot just pop to the shops and buy food is that food costs more than the amount of money in their pockets. In the long term, the answer to that problem is not charity—grateful though we are for those efforts—but a food system that provides sustenance for people to buy in shops at a price they can afford. Price is not a technical, dry issue that ought to be left to economists in the academy; it should be of importance to every family, as I know it is to every MP.
+
+Food prices unite those who are finding life difficult at the moment both at home and far away. Although I applaud the efforts of those who try to help people out, in the end we must seek a better solution. Whether we like it or not, since the 18th century this country has taken part in global trade. We had a strategic role in that which I will not bore the House with, but part of it means that we, more than others, have a special responsibility to understand global trading systems, not least the one that ensures there is enough food for us to buy here at home, and that farmers in this country and far away get paid a fair price.
+
+This morning I was with the UN Secretary-General’s special representative for food security. He described two current problems in the commodity market that I hope will help people to realise why we must understand that phenomenon. First, global food prices are currently extremely volatile. Secondly, although prices are moving sharply up and down, they are trending upwards. That means that those most vulnerable to the price change in that commodity face an ever-worsening scenario as they try to feed themselves and their families. How can benchmarks and a better understanding of the data help? Well, when we understand those movements we can try to find out what is behind volatility in global prices.
+
+Briefly, let me take hon. Members back in time to about 2005 until the end of 2007. Economists around the world were busy writing papers on derivatives and what we now call shadow banking, and saying that sharing risk in that way was a good idea and helped to manage investment and the finance markets globally. We now know that facts and information were available that we could not see, and my question concerns what is going on now that we cannot see, specifically in relation to food prices. Is there an issue with derivatives based on commodities? My hon. Friend has already given some indications of why we might think that.
+
+21:15:00
+
+The UN has done some work, and some academics around the world think there is a problem with derivatives based on commodities, and that just as sub-prime markets were an unseen problem for too long, there may be problems now that we cannot see. That is what makes benchmarks and indices so important. We need verifiable, trustworthy numbers that we can investigate to ascertain what is happening in global food markets. As I have said, this is not a techie, dry subject that matters only to economists and those who pore over numbers; the reality is that it matters to every one of our constituents, but most especially to those with the least money to spare.
+
+Sheila Gilmore
+Will my hon. Friend reflect on the fact that trading in commodity derivatives can skew investment and whole industries if not properly regulated? For example, I visited the jute museum in Dundee, where one display made the point that the jute lords made more from trading in futures than they made from production. That might have made them less interested in diversifying their manufacturing industry, which has completely died.
+
+Alison McGovern
+I thank my hon. Friend for that highly appropriate intervention. When the history of Great Britain is written, it will show that that part of the east coast of Scotland has had a great influence on economics throughout. The example from Dundee is a good one.
+
+All hon. Members look back at global financial trading and markets and wonder how we got to the situation we found ourselves in. When the shadow banking market and complex derivatives and products were created, people became much more interested in them than in the real economy and the fundamentals of our economy. They saw the financial system as a servant to the rest of the economy rather than the other way around. I hope that view is shared broadly on both sides of the House. The Minister is nodding, but I am not entirely sure he agrees with that specific point. I will live in hope and imagine he does.
+
+When the Minister is consulting on whether to broaden the Bill’s reach from the indices that I have mentioned to commodities, will he consider the impact of escalating food and oil prices not only on his constituents and mine, but on those who live closest to the extreme poverty line in the poorest countries? Will he consider the price of maize and wheat in very poor countries, where there is no social support system and no welfare state security net of the sort we have in this country? Will this country take a leading role in properly understanding what is happening in that market?
+
+Geoffrey Clifton-Brown (The Cotswolds) (Con)
+To use the increase in food commodity prices as an argument for increased control over derivatives trading is a little far-fetched. Surely increased prices have much more to do with the increased world population and the weather than they have to do with commodities trading.
+
+Alison McGovern
+As I have said, this morning I listened to a presentation from the UN Secretary-General’s special representative on global food security. We discussed the matters that the hon. Gentleman mentions, but there was strong interest in whether the trading of commodity derivatives has played a role or had an impact in increased  prices. The hon. Gentleman may suggest that its effect is negligible, and I would be happy to see any evidence he can forward to me. As I try to understand the phenomenon, I am happy to look at numbers and think about the evidence. I am an empiricist if nothing else; we should always consider the evidence. One of the problems to date, however, has been the availability of information, and making it clear and evident for all to see. I have tried to make the point that people looking at the world economy could not, for specific reasons, necessarily see the problems relating to sub-prime mortgages. As my hon. Friend the Member for Nottingham East has suggested, we should try to get ahead of the problem and ensure that there are no longer problems that we simply do not see.
+
+Gordon Birtwistle (Burnley) (LD)
+The hon. Lady is making a good point, but did the person whom she met this morning give her alternatives to the derivatives and commodities markets? The worldwide food supply is decided by commodities buying. There is a drought in America, so the price of wheat goes up. There is heavy rain in this country, so we have problems ourselves. There are problems in Bangladesh and all around the world that push up the price of food. The same is true for oil; when there is a shortage of oil, the oil price goes up. Did the gentleman whom she spoke to this morning provide an alternative to what we have now? Maybe we could look at it and come up with some suggestions ourselves.
+
+Alison McGovern
+I thank the hon. Gentleman for his intervention and his compliment that he thinks my point is not wholly without merit, but it might test your patience, Mr Deputy Speaker, if I tried to shoehorn into the debate on the amendment possible solutions to the global food crisis and productivity in agriculture.
+
+On derivatives, in agriculture production there is a need to hedge. There needs to be some kind of financial security to take account of unforeseen weather events and so on, so of course there is a need to hedge, but that is not what I am talking about. The question is whether some of the recent high-volume, high-speed forms of speculation and trading have had an impact on the global food price. I suspect that they might have, but it would be nice to have more information.
+
+Mark Durkan
+When some of us raised these issues in the previous Parliament, the then Government pooh-poohed the whole problem of speculation in relation to derivatives and so on. Does the hon. Lady share the concern that, as banks, hedge funds and all our pension funds try to work their way towards replenishing themselves after the crisis, there is a danger that they will go back to the bad ways of speculating in all sorts of commodities? Does she think the Government should prioritise this issue during their G8 presidency next year, and discuss with other Governments how to circumscribe the capacity of financial institutions to play dangerous games with this sort of speculation?
+
+Alison McGovern
+I thank the hon. Gentleman for his intervention, which was characteristically well made. I share his fear, and his point about the G8 is absolutely correct. It will be great to have the G8 summit in Northern Ireland. I am sure that the Minister has heard the hon. Gentleman’s point and will duly feed it back to the Prime Minister, because there is no doubt that it is important.
+
+In conclusion, underlying what we are trying to achieve is a financial system that has appropriate oversight. Given the importance—we now know this—to our everyday well-being and comfort of what appear to be financial technicalities and bits of information that people do not necessarily connect with the realities of life, I hope that the Government will pay the most careful attention to the results of the consultation on commodities, because we might have a genuine opportunity to set in train rules that will help us to spot the awful crashes and difficult phenomena of the future.
+
+Greg Clark
+It is a pleasure to respond to this short but important debate.
+
+The hon. Member for Nottingham East (Chris Leslie) referred to the heated exchanges before the summer. They were necessarily heated because they concerned a major scandal that did great damage to the country’s reputation. The whole House feels strongly about this matter because the industry is vital to the country’s economic future. About 2 million people are employed in the financial services and related industries, most of them in capacities far removed from the ability—and still more the inclination—to engage in the kind of behaviour that came to light in the LIBOR scandal. It is a particular source of outrage that many ordinary working people across the UK with careers in the banking industry have been besmirched by the behaviour of people far from them. As a result, in their ordinary working lives and in conducting their activities, they found themselves bracketed with people who were shaming an industry that they were proud to work in—an industry associated with high standards of sobriety and propriety—and it is particularly important that we act decisively and firmly against the perpetrators of the manipulation that came to light in the summer.
+
+The amendments do precisely that. All Members will recognise the pace with which we have responded, given that the allegations came to light in late June. We immediately asked an independent reviewer, Martin Wheatley, to look into the allegation. He conducted his work over the summer and reported in September. The Government considered all his recommendations and have adopted every one of them. The fact that we are here, in early December, reaching the final stages of legislation to act on those recommendations shows that the Government and the House have taken the allegations very seriously and are acting to restore the reputation not only of the City of London, but of the financial services industry in this country. I hope that the world will see that, when something comes to light that objectively is scandalous, we will not stand by and watch it happen, but will take legislative action immediately.
+
+I shall refer to some of the points made by the hon. Members for Nottingham East and for Wirral South (Alison McGovern). Let me deal first with the independence of benchmark providers. There are, of course, lots of different benchmark providers, not all of which—it is important to say—were associated with the problems that LIBOR and the British Bankers Association had. The Wheatley review recommended that the BBA step aside from setting LIBOR. Future administrators, which may be private, commercial or otherwise—there is no restriction—will be subject to the type of regulation  powers contained in these amendments. On LIBOR specifically, the tender committee chaired by Baroness Hogg is in its early stages. We will of course update the House on the progress it makes when it considers who will operate the LIBOR benchmark in future.
+
+21:30:00
+
+The hon. Gentleman asked whether the powers in the amendments will be restricted to the UK or whether they will cover other jurisdictions. The answer is that there needs to be some connection with the UK, as might be expected under legislation passed by this Parliament, but the amendments take a broad approach to the term “connection”. There will be a sufficient connection if, for example, a statement that could have contributed to the manipulation of benchmarks was made in or from the UK, if the person at whom it was aimed was in the UK, or if there was an agreement or conspiracy that such activity would be entered into in the UK. We take a broad view of that. He also asked whether the Bill was wide enough to bring PRAs—price reporting agencies, rather than the Prudential Regulatory Authority—into regulation. The answer is yes, through the secondary legislation that is provided for by the Bill. Where PRAs are used in relation to investments, including derivatives, futures and options, they will be included.
+
+The hon. Gentleman asked whether the powers should explicitly consider commodities. Let me make it absolutely clear that there is no question whatever but that it should be possible to include benchmarks such as those in the gas or energy markets. The consultation provides for that and it is precisely what Martin Wheatley’s report envisaged. Where benchmarks are used for financial investments and financial transactions, it is right that they should be vested in that way, but it would be wrong simply to vest powers for the regulation of every commodity in the Financial Conduct Authority, because commodities can represent many things. The term “commodities” is broad. We would not want the Financial Conduct Authority to regulate benchmarks relating to trading in live cattle or lean hogs, for example, even though they may fit the definition of “commodities”. The current definition means that the regulation of benchmarks by the FCA extends to all the benchmarks that involve financial matters, as is consistent with the Financial Services and Markets Act 2000 and the objectives of the FCA as a financial services regulator.
+
+For that reason—this has been considered in the other place as well as this place—the powers that we are taking have not just LIBOR in mind, but the other benchmarks that could give rise to similar concerns and which in recent days have done so. The criminal offence will pertain to those benchmarks as well as LIBOR. They will ensure that investors, whether in this country or around the world, can have confidence that we have the fullest possible regime of sanctions to prevent and govern any demonstrated misconduct or attempted manipulation of LIBOR.
+
+Let me say a little about the comments that the hon. Member for Wirral South made. She talked about her concerns about the use of derivatives in food commodities in particular. The use of derivatives in food markets can achieve precisely some of the advantages that she talked about—that is, enable farmers, whether in this country or around the world, to get investments into expanding production in anticipation of future demands. The process  brings forward into the present day the needs of the future; that is what futures markets are about. It is important that farmers in this country, but also around the world, who might not have access to capital can make those connections, so that they can supply in advance what will be required in the future. There is some research, which I would be happy to share, on the contribution that derivatives have made to ensuring adequate food supplies not just in this country but around the world.
+
+I shall conclude by saying that the regime that we are putting in place will provide a swift and robust response to the totally unacceptable set of practices that was unearthed before the summer. We have moved further and faster than any other jurisdiction in the world, and I hope that the House will see fit to approve the provisions tonight so that we can move forward and demonstrate to the world that this is the best jurisdiction in which to trade.
+
+Lords amendment 59 agreed to.
+
+Amendment (a) proposed to Lords amendment 60.—(Chris Leslie.)
+
+Question put, That the amendment be made.
+
+Division 119
+10/12/2012 21:35:00
+The House divided:
+Ayes: 200
+Noes: 266
+Question accordingly negatived.
+
+Lords amendment 60 agreed to.
+
+Lords amendments 61 to 97 agreed to.
+
+Mr Speaker
+With the leave of the House, I propose to put Lords amendments 98 to 290 together.
+
+Chris Leslie
+Amendment 98 is in a separate group relating to clearing houses, and I would like to make some remarks.
+
+Mr Speaker
+The Minister will need to move amendment 98, and can do so.
+
+Clause 27
+
+Powers in relation to recognised investment exchanges and clearing Houses of Parliament
+
+Motion made, and Question proposed,
+
+That this House agrees with Lords amendment 98.—(Greg Clark)
+
+Mr Speaker
+With this it will be convenient to consider Lords amendments 99, 122 to 127, 224 and 225.
+
+Chris Leslie
+I would have thought the Minister wanted to speak, as Lords amendment 98 is the lead amendment of a group relating to the extension of resolution schemes from banks and building societies to investment firms and in particular UK clearing houses. There is a wider set of issues, therefore.
+
+UK clearing houses stand between two parties in a trade, ensuring that a deal goes through in the event of one party defaulting. Once a deal is agreed, the transaction is honoured even if one party goes bust.
+
+The Government’s decision to extend a set of resolution arrangements to clearing houses is incredibly important, as the debates in the other place set out. Clearing houses are highly significant entities nowadays. After the 2009 G20 summit, it was clear that several hundred trillion dollars of market transactions, especially in over-the-counter derivative arrangements, were part of the clearing house ambit. Therefore, a failure in a clearing house could clearly mean a big problem—a series of problems—for the financial services sector more broadly.
+
+I have a series of questions for the Minister, as I would be grateful for his help in respect of the provisions of this amendment and others in this group. First, I want to ask him about today’s Financial Times, the front page of which talks interestingly about the extension of resolution plan arrangements from covering just companies within the UK to an agreement between the United States and the UK that the Bank of England seems to have struck which will mean, for the first time, that there is a template for larger, serious, significant international financial institutions to have resolution arrangements that span borders. Clearly that is relevant to these amendments on clearing houses. [Interruption.] I can tell that hon. Members are very familiar with these arrangements. Clearing houses have a great deal of cross-border interoperability, they cut across jurisdictions and there is a need to co-ordinate their work. Will the Minister assure the House that steps will be taken to ensure that international efforts are made to promulgate resolution arrangements that also cut across borders for clearing houses?
+
+Central counterparty clearing arrangements these days contain a requirement also to hold Government bonds as collateral. As we know, Government bonds are not what they once were; there have been some questions about their safety. The Minister needs to explain: are we guarding against the deterioration of standards in central counterparty collateral arrangements? If we are increasingly reliant on gilt-edged securities of an international variety, are we actually ensuring that there is sufficient strength behind our central counterparty clearing arrangements?
+
+Finally, may I ask the Minister a further question? Basel III arrangements will be ensuring that banks that are members of clearing houses need to capitalise their exposure to central counterparty contingent liabilities. Can he just give us a sense of the impact on the UK   banking system, particularly on its capital adequacy, of processes that will see a rapid change on central counterparty arrangements from an over-the-counter arrangement to an exchange-based arrangement? If the regulators are insisting more and more on exchange-traded arrangements in those clearing houses, there will be an imperative for those clearing houses to become more and more price sensitive and they will be more desirable for the market more generally. That is why we are seeing so many mergers and acquisitions of clearing houses. Are these costs eventually going to be finding their way on to customers and our constituents? I would be grateful if the Minister replied.
+
+Greg Clark
+Let me give a bit of context to amendments 98 and 225. Taken together, they make provision with regard to the Bank of England’s role in insolvency proceedings relating to a UK clearing house. The amendments will ensure that the Bank of England is put on notice of any application for administration in respect of a UK clearing house, of any petition for a winding-up order in respect of a UK clearing house, of any resolution for the voluntary winding up of a UK clearing house and of the proposed appointment of an administrator of a UK clearing house. That will give the Bank the opportunity to consider whether to exercise a stabilisation power provided for in part 1 of the Banking Act 2009 in order to minimise the impact of the clearing house’s failure on financial stability. Amendment 225 gives the Bank of England the power to direct insolvency practitioners appointed in relation to a company that  is or has been a UK clearing house. The direction  would operate without prejudice to the existing statutory requirements relating to company insolvency.
+
+The financial crisis of 2008-09 highlighted many deficiencies in the regulation of the global financial system. Most importantly, we found that the disorderly failure of systemically important banks could have catastrophic effects on the stability of the UK and international financial markets.
+
+The hon. Member for Nottingham East (Chris Leslie) mentioned the piece that featured in the Financial Times today, which was a joint paper, in effect, between the Bank of England and the Federal Deposit Insurance Corporation on plans for resolving global systemically important financial institutions. The Bank of England and FDIC paper is a perfectly proper collaboration between brother regulators across the world and is exactly the sort of approach we would expect regulators to take to make the financial system safer. It should be seen as part of the wider international and European work to deliver a credible resolution regime for the biggest banks and for—
+
+22:00:00
+
+Debate interrupted (Programme Order, this day).
+
+The Speaker put forthwith the Question already proposed from the Chair (Standing Order No. 83F), That this House agrees with Lords amendment 98.
+
+Question agreed to.
+
+Lords amendment 98 accordingly agreed to.
+
+The Speaker then put forthwith the Questions necessary for the disposal of the business to be concluded at that time (Standing Order No. 83F).
+
+Lords amendments 99 to 290 agreed to, with Commons financial privileges waived in respect of Lords amendments 122, 125 to 128, 138 to 140, 146, 182 and 203.
+

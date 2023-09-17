@@ -1,0 +1,730 @@
+Gambling (Licensing and Advertising) Bill
+
+Consideration of Bill, not amended in the Public Bill Committee
+
+New Clause 1
+
+Facilities for remote gambling
+
+‘(1) Section 235 of the Gambling Act 2005 (gaming machines) is amended as follows.
+
+(2) In subsection (2)—
+
+(a) in subparagraph (h)(ii), leave out “and”, and
+
+(b) after paragraph (i) insert—
+
+“(j) a machine is not a gaming machine by reason only of the fact that it is remote gambling equipment (within the meaning of section 36) which is made available for use in a casino.”.
+
+(3) After subsection (4) insert—
+
+“(4A) The Secretary of State may by regulations provide for the maximum number of machines to which subsection (2)(j) applies that may be made available for use in a casino.”.’.—(James Duddridge.)
+
+This amendment clarifies that a remote gambling terminal provided in a casino is not a gaming machine and provides for the Secretary of State to be able to make regulations setting the maximum number of such machines which may be made available in a casino.
+
+Brought up, and read the First time.
+
+12:42:00
+
+James Duddridge (Rochford and Southend East) (Con)
+I beg to move, That the clause be read a Second time.
+
+Mr Speaker
+With this it will be convenient to discuss the following:
+
+New clause 2—Licence compliance, stipulations and control—
+
+‘(1) Notwithstanding the regulation of spread betting by the Financial Conduct Authority, operators licensed for remote gambling by the Gambling Commission shall, to ensure their continued fitness as such, be obliged to comply with Condition 15.1 of the Consolidated Licensing Conditions and Codes of Practice 2011 (or its equivalent from time to time) in relation to all areas of their gambling operations, including spread betting and any other operations not within the jurisdiction of the Gambling Commission.
+
+(2) In the event of any breach of subsection (1) which the Gambling Commission believes calls into question the fitness of the relevant operator, the Gambling Commission may require the operator to provide an explanation of such breach within one month and may, if not satisfied with such explanation, revoke the operator‘s licence.’.
+
+New clause 3—Kite mark—
+
+‘(1) The Gambling Commission shall require all licensed online gambling operators to display a standard kite mark on all their promotional materials, websites and webpages, to indicate that such operators are licensed by the United Kingdom Gambling Commission.
+
+(2) The Gambling Commission shall design and determine the form of the kite mark, which will provide a link to information and advice on its website for customers.’.
+
+New clause 4—Remote gambling licensees and customer protection—
+
+‘Holders of licences for remote gambling operations shall be required to participate in a programme of research into and treatment of problem gambling in accordance with arrangements to be determined by the Secretary of State in regulations in the   form of a statutory instrument approved by both Houses of Parliament, and a levy for that purpose may be imposed under section 123 of the Gambling Act 2005.’.
+
+New clause 5—Reporting of suspicious activities and power to obtain financial information—
+
+‘(1) In order to promote consistency of sports betting regulation, regulation of remote sports spread betting operators and of all sports spread betting as defined herein shall be transferred from the Financial Conduct Authority to the Gambling Commission, which shall thereupon—
+
+(a) have power to require and obtain from its licensees including spread betting organisations information concerning actual or potential suspicious activities in relation to sporting events, and to share such information with the relevant sports governing body;
+
+(b) have power to require and obtain information on financial transactions by licensees which it reasonably suspects might be germane to the investigation of suspicious betting activity, money laundering or other criminal activities, or the protection of vulnerable individuals.’.
+
+(2) “Sports spread betting” shall for this purpose mean spread bets in relation to sports as governed under Schedule 6, Part 3 of the Gambling Act 2005.’.
+
+New clause 6—Consultation on self-exclusion—
+
+‘Having regard to the significance of the remote gambling market in relation to potential problem gambling, the Secretary of State shall consult on a system of standardised self-exclusion for the gambling industry, to include means of addressing exclusion from remote gambling access in the context of other gambling media.’.
+
+New clause 7—Dormant accounts—
+
+‘(1) The Secretary of State shall consult on appropriate ways to require licensed remote gambling operators to disclose (as a condition of their licence) the amounts held by them by way of—
+
+(a) winnings of UK customers unclaimed for a period of more than one calendar year; and
+
+(b) sums in dormant accounts of UK customers.
+
+(2) A dormant account shall for this purpose be an account which has been inactive for at least one calendar year.’.
+
+New clause 8—Discussions between gambling regulatory bodies and sports governing bodies—
+
+‘The Secretary of State shall have power to make regulations, to be laid before and approved by both Houses of Parliament, stipulating the manner and time of regular meetings between any and all of the gambling regulatory bodies and sports governing bodies.’.
+
+New clause 9—Advertising watershed—
+
+‘The Secretary of State shall consult on the current regulatory position concerning advertising of gambling before the nine o‘clock watershed and shall lay before the House a report of the findings not later than the final sitting day before the summer recess 2014.’.
+
+New clause 10—Application of the horserace betting levy—
+
+‘In article 2 of the Gambling Act 2005 (Horserace Betting Levy) Order 2007/2159, for paragraph 3 substitute—
+
+“(3) Subject to paragraph (4), expressions used in sections 24 to 30 of the 1963 Act shall have the meanings given to them by section 55(1) of the 1963 Act (as that provision had effect immediately before 1st September 2007).
+
+(4) For the purposes of paragraph (3), the definition of ‘bookmaker’ as set out in section 55(1) of the 1963 Act (as that provision had effect immediately before 1st September 2007) shall be modified by—
+
+(a) replacing the comma at the end of paragraph (b) of the definition of ‘bookmaker’ with ‘; or’; and
+
+(b) after paragraph (b) of the definition of ‘bookmaker’ inserting—
+
+‘(c) holds a remote gambling operating licence under the Gambling Act 2005 which authorises that person to provide facilities for betting,’.”.’.
+
+New clause 11—Power to extend the horserace betting levy to overseas bookmakers—
+
+‘(1) The Secretary of State may by regulations amend any provision or provisions of the Betting, Gaming and Lotteries Act 1963 (c 2) (at a time when the provisions listed in section 15(1)(a) to (c) of the Horserace Betting and Olympic Lottery Act 2004 (horserace betting levy system) have not been entirely repealed by order under that section), the Gambling Act 2005 and/or the Gambling Act 2005 (Horserace Betting Levy) Order 2007/2159 for the purposes of ensuring that each person who holds a remote gambling operating licence under the Gambling Act 2005 which authorises that person to provide facilities for betting shall be—
+
+(a) liable to pay the bookmakers’ levy payable under section 27 of the Betting, Gaming and Lotteries Act 1963 (c 2); and
+
+(b) subject to the provisions of section 120 of the Gambling Act 2005 (as modified in accordance with the Gambling Act 2005 (Horserace Betting Levy) Order 2007/2159) if that person is in default of such bookmakers’ levy.
+
+(2) Regulations under this section must be made by statutory instrument.
+
+(3) A statutory instrument containing regulations under this section may not be made unless a draft of the instrument has been laid before and approved by a resolution of each House of Parliament.’.
+
+New clause 12—Financial blocking—
+
+‘After section 122 (information) of the Gambling Act 2005, insert—
+
+“122A (1) The Commission may give a direction under this section if the Commission reasonably believes that a person or organisation who does not hold a remote gambling licence is providing remote gambling services in the United Kingdom.
+
+(2) A direction under this section may be given to—
+
+(a) a particular person operating in the financial sector;
+
+(b) any description of persons operating in that sector; or
+
+(c) all persons operating in that sector.
+
+(3) A direction under section (1) may require a relevant person not to enter into or continue to participate in—
+
+(a) a specified transaction or business relationship with a designated person;
+
+(b) a specified description of transactions or business relationships with a designated person; or
+
+(c) any transaction or business relationship with a designated person.
+
+(4) Any reference in this section to a person operating in the financial sector is to a credit or financial institution that—
+
+(a) is a United Kingdom person; or
+
+(b) is acting in the course of a business carried on by it in the United Kingdom.
+
+(5) In this section—
+
+“credit institution” and “financial institution” have the meanings given in Schedule 7, paragraph 5 of the Counter-Terrorism Act 2008;
+
+“designated person”, in relation to a direction, means any of the persons in relation to whom the direction is given;
+
+“relevant person”, in relation to a direction, means any of the persons to whom the direction is given.”.’.
+
+This New Clause allows the Gambling Commission to prevent a person or organisation without a remote gambling licence from accessing the UK market by financial transaction blocking.
+
+New clause 13—Comparison of codes and technical standards in white listed jurisdiction with UK—
+
+‘(1) The Commission shall review the social responsibility provisions of the codes of practice and technical standards of—
+
+(a) EEA states; and
+
+(b) the places to which section 331(2) of the Gambling Act 2005 has applied.
+
+(2) The Commission shall amend the codes of practice and technical standards issued in pursuance of section 24(2) of the Gambling Act 2005 so that the code and technical standards reflects the strongest social responsibility provisions identified in subsection (1).
+
+(3) In this section “social responsibility provisions” means a provision of the code identified as—
+
+(a) ensuring that gambling is conducted in a fair and open way.
+
+(b) protecting children and other vulnerable persons from being harmed or exploited by gambling; and
+
+(c) making assistance available to persons who are or may be affected by problems related to gambling.’.
+
+This New Clause requires the Gambling Commission to review the codes of white listed jurisdictions to establish which has the most comprehensive and sophisticated provisions to protect problem gamblers and to ensure that the UK codes and technical standards provide as robust standards for consumer protection.
+
+New clause 14—Self-exclusion for remote gambling—
+
+‘After section 89(1) (remote operating licence) of the Gambling Act 2005, insert—
+
+“( ) The Commission shall hold a list of persons who have registered to be excluded from remote gambling.
+
+( ) It shall be a condition of a remote operating licence that an operator must exclude any person who has registered for self-exclusion with the Commission.”.’.
+
+This New Clause would give the power for the Commission to hold a list of those who wish to self-exclude. It would be a condition of a remote operating licence that individuals on the list must be excluded.
+
+Amendment 1, in clause 1, page 2, line 11, at end add—
+
+‘(8) The Secretary of State shall publish a report to Parliament one year after the commencement of this Act, and annually thereafter, on the enforcement activity of the Gambling Commission in respect of unlicensed operators attempting to provide facilities for gambling in the UK.’.
+
+James Duddridge
+New clause 1 seeks to allow online as well as offline gambling in casinos. In other words, it seeks for casinos to be able to provide people with the type of gambling offered by smartphones and tablets.
+
+I think in all candour that the Department for Culture, Media and Sport has an old-fashioned view of the world—one that was once true and where there was a clear division between on and offline gaming. I suspect there is also an element of divide and rule involved. The gambling industry is a powerful body and it would be attractive to regulate both forms of gaming separately and get them to compete actively against one another.
+
+The reality is different: online and physical provision of services have been merged in many industries. It is possible to order a product online from Asda and then collect it from a bricks-and-mortar store. It is possible to visit the clothing department at Marks &amp; Spencer and order boxer shorts online for delivery. The on and offline worlds have merged in a number of environments. I hope that my examples are not an advertisement for those two institutions.
+
+Mr Speaker
+I would not accuse the hon. Gentleman of advertising for one moment. It is always of great interest to the House to learn about his personal arrangements.
+
+James Duddridge
+Thank you, Mr Speaker. For a moment, I feared that I was getting my knickers in a twist.
+
+My constituency of Rochford and Southend East is home to three, soon to be four, casinos, which are bricks- and-mortar or physical ones. Such establishments employ thousands of people nationally. Locally, 277 people are employed in the existing three casinos, which will go up to about 400 when the fourth casino is launched. About 80% of the staff have been issued with personal licences by the Gambling Commission, while 100% of them receive annual training in responsible gambling, so they are well qualified.
+
+Reports, such as an excellent one from GamCare, have outlined the details of the significant work that the industry is already doing, with much greater protection of vulnerable individuals being provided in casinos than online. I do not necessarily want more gambling, but I want more of the existing gambling to take place in such licensed and heavily regulated environments.
+
+I am glad to say that new clause 1 is supported by my hon. Friend the Member for Maldon (Mr Whittingdale), the Chair of the Select Committee on Culture, Media and Sport, who did an awful lot of work with the Committee on pre-legislative scrutiny of the Bill; by the hon. Member for Bradford South (Mr Sutcliffe), an ex-Minister with responsibility for gambling, who is well respected, particularly in relation to gambling problems and the care of those with such problems; by the hon. Member for Manchester, Withington (Mr Leech), which shows that all parties support this cross-party issue; and by my hon. Friend the Member for Shipley (Philip Davies), who is a guru of all things gambling.
+
+Bricks-and-mortar casinos are highly regulated. They are at the top of the regulatory pyramid in gambling. They are one of the safest places to be in Southend because of the security; they are certainly one of the safest places in which to gamble. I therefore find it hard to understand why casinos are restricted from offering a full range of products to their customers.
+
+A bricks-and-mortar casino can advertise online products inside its premises, but it is not allowed to provide a remote gaming machine for customers to play inside its walls. That anomaly certainly needs to be corrected. Bizarrely, if it had a small area outside, customers—rather like having a fag at the back of a pub—would be able to gamble there, but they cannot do so inside.
+
+Mr David Nuttall (Bury North) (Con)
+Given that the Government have told us that the Bill’s whole rationale is to protect gamblers, can my hon. Friend think of any reason why they would not want to support his new clause?
+
+James Duddridge
+In an ideal world, I would hope that the Government supported new clause 1, or tabled a suitable amendment in the House of Lords or, in  the broadest sense, took note. The argument against the new clause is one made against several others in the group, which is that it will add complexity when, for good reason, we want to move quickly. New clause 1 is quite tightly worded, however, and for a little complexity, it would give a lot of benefit.
+
+Some people have been critical of my speech on Second Reading and my contributions in Committee, fearful that I was promoting irresponsible gambling, but that is a lazy and incorrect interpretation of my view and new clause. I am not attempting to liberalise regulation within casinos—that could not be further from the truth—but to get a level playing field to allow online customers to play online games in casinos with proper protection.
+
+Mr John Leech (Manchester, Withington) (LD)
+I pay tribute to the hon. Gentleman for tabling the new clause. Does he agree that making online gambling available in casinos is far better than people spending hours and hours in the completely uncontrolled environment of their own bedrooms?
+
+James Duddridge
+I could not agree more with the hon. Gentleman, who makes his point eloquently. That arrangement is better for those who have a developing problem, because they have the support of professionals who are there to monitor their behaviour. There is nothing to stop someone sitting in their bedroom and gambling away a fortune while drinking half a bottle of Scotch, but that would not be allowed at a roulette table. Under my new clause, someone gambling in that way would be stopped by staff within the casino, so the hon. Gentleman’s point is absolutely true.
+
+Paul Farrelly (Newcastle-under-Lyme) (Lab)
+We have tried to avoid complexity in the Bill because there is the prospect that it might be challenged. However, it will not be challenged on the grounds that it clears up a simple anomaly, which is what new clause 1 would do. I thoroughly support the new clause. Does the hon. Gentleman agree that it is odd that we have gone through extensive pre-legislative scrutiny, but the Government have ignored this central recommendation of the Culture, Media and Sport Committee?
+
+James Duddridge
+I agree with the hon. Gentleman. It is disappointing that more has not been taken on from the pre-legislative scrutiny. Otherwise, what is the point of having it? However, the Government have been right to resist the obvious temptation to tag too many things on to the Bill. There is a balancing act to be done, but some kind of enabling legislation in the Bill would allow the tinkering to take place later and with more consultation.
+
+Customers should be allowed to choose what they want to do and where they want to do it. Customer choice is moving in favour of gambling in casinos and the legislation should not stand in the way of that. In many ways, the new clause is deregulatory.
+
+Robert Neill (Bromley and Chislehurst) (Con)
+My hon. Friend is making a powerful case. I hope that the Minister listens to it sympathetically. His experience corresponds to my experience of speaking to organisations in my constituency that deal with the problem of gambling. It is much better if gambling happens in a regulated environment. Does he agree that his approach is consistent with the approach that the Government have adopted in promoting drinking in pubs because they are a safe and controlled environment in which to indulge in a  practice that is lawful, but that can be abused? It is better to do such things in a controlled environment than at home.
+
+James Duddridge
+My hon. Friend draws a strong parallel and teases out the point that if something is done in the open in society, there is greater protection than if it is done in private, whether it be drinking or gambling.
+
+The Minister has been exceptional in listening to the concerns that have been raised. There has been a strong dialogue with the industry and the Culture, Media and Sport Committee. I hope that she reflects on the debate and is able to assist us. The ideal response would be for her to say that new clause 1 is absolutely perfect and fabulously crafted, that there are no errors whatsoever, and that the Government are desperately thankful for all our work and will accept it immediately. I suspect that that will not be the case. It is not normal practice for a lowly Back Bencher to craft a perfect amendment that takes all points into consideration.
+
+If the new clause is flawed, perhaps the Minister will consider bringing forward a consultation on the issue and setting a time scale for it. It would be unsatisfactory if consultation was offered, but it did not happen for several years and the report sat on the shelf for several months afterwards. In addition to considering a timed consultation, will she go into a bit more detail about what will happen if the consultation shows that the substance of the new clause is needed? We will not have another gambling Bill in the next couple of years, so if primary legislation is required, it needs to go into this Bill. That might not happen today, but it could happen in another place. There is significant concern in the industry that there is no mechanism for making this change through secondary legislation if a consultation shows that it is the right change to make.
+
+I look forward to hearing the Minister’s comments. I will be happy if she restricts herself to commenting on the Bill, rather than my shopping habits. I thank hon. Members for their help in drafting the clause and for their support.
+
+Mr Gerry Sutcliffe (Bradford South) (Lab)
+I will speak in support of new clause 1 and other new clauses in the group. I refer colleagues to my declaration in the Register of Members’ Financial Interests, which states that I am a trustee of the Responsible Gambling Trust.
+
+I support new clause 1 for the reasons set out so ably by the hon. Member for Rochford and Southend East (James Duddridge). The Culture, Media and Sport Committee discovered that the Gambling Act 2005 had been the first piece of legislation on this matter for more than 40 years. It was controversial to say the least. The provisions on the casino industry were messed about with a bit in the final stages of the passage of that Act. I have always felt that there has been a problem with how casinos have been treated. The former Minister for Sport, Richard Caborn, admitted in evidence to the Select Committee that we did not get everything quite right in the casino legislation. That was a brave thing for him to say, but he was right.
+
+As the hon. Member for Rochford and Southend East has said, we are unlikely to see another gambling Bill in the next two years or even longer. It has taken  three years for this small Bill to reach this stage. Although I accept that the Government do not want to widen the Bill’s remit, it is important to put things right that have been wrong. The Government want better regulation and to help businesses to create more jobs. The hon. Gentleman was right to point to the impact that the casino industry and the gambling industry in general have on the economy and on jobs. Gambling is an important industry, but it attracts unwelcome attention from the likes of the Daily Mail, who do not want to see people enjoying gambling. Gambling is an integral part of our way of life. One need only look at the people who bet on the national lottery and at how people enjoy horse racing and sports betting in general.
+
+New clause 1 sets out what needs to happen in casinos. Casinos are the most regulated and, I would argue, the safest environments in the gambling sector. I hope that the all-party support for new clause 1 will give the Minister some cover in arguing elsewhere that it is important to put this anomaly right. The hon. Member for Rochford and Southend East said that we might not press the new clause today, but there is a strong feeling among Members that something must happen during the passage of the Bill. That is a strong message for the Minister. I hope that she will hear it and support the proposal. We look forward to hearing what she has to say about the timetable of meetings that she will have with the casino industry and what she intends to do during the passage of the Bill through the other place.
+
+I will briefly mention some of the other new clauses. The purpose of the Bill is consumer protection. I fully agree that it is important that there is consumer protection. There is a school of thought which says that the Bill is about raising tax revenues. I hope that that is not the case. I know that the hon. Member for Shipley (Philip Davies) will speak about tax revenues and what would be a fair rate of tax.
+
+There is an important relationship between sports and the betting industry. That is why I support new clause 5, which was tabled by my hon. Friend the Member for Eltham (Clive Efford). It relates to the reporting of suspicious activity and the power to obtain financial information. The relationship between sports and gambling is unique. The problem is that there is no sports betting right. Sports governing bodies have no control over the bets that gambling companies offer on their sports. For instance, in football, there might be betting on the number of times the ball goes out of play or on the number of corners. The concern is that such bets can lead to match fixing and betting irregularities. The Government need to consider this issue, with regard to the scandals in cricket and football that have emerged in recent months and years.
+
+New clause 7 relates to dormant accounts. The Minister heard people’s feelings on that matter loudly and clearly in Committee. There is money on the table that could go into sports or into research, education and treatment. I look forward to hearing what she has to say about that.
+
+I also wish to consider the advertising watershed. I was the Minister responsible for introducing the clauses on advertising and advice about betting and gambling, and our view was that such advertising would be shown around horse races and sports matches. We did not envisage so much advertising for sports betting before the 9 pm watershed. As I said in Committee, I am a big  fan of Ray Winstone, but he almost pressures people into betting in those adverts. There is a need to consider advertising in terms of the watershed and gambling, as in new clause 9.
+
+13:00:00
+
+Perhaps the most important provisions for the sector are new clauses 10 and 11 on the horserace betting levy, and the British Horseracing Authority is keen to ensure that we address that issue in the Bill. I was impressed that both sides of the equation—the betting and horse racing industries—came together, and we have a new four-year arrangement on the levy. However, when the Bill is enacted it will be a nonsense if people offshore do not contribute to that levy, and it is important to pursue that issue. Now that there is an agreement for the next four years, there will be a tendency to put the issue to one side, but I think that would be a grave mistake for both racing and betting. We have an important opportunity to try and put things right, and those who are offshore should certainly contribute to the horserace betting levy when they come onshore. That levy maintains support for the horse racing industry, which is important to many Members of the House, whether they have a race course in their constituency or are involved in promoting horse racing through a variety of support mechanisms.
+
+The all-party racing and bloodstock industries group recently visited Wincanton and looked at the yard of Paul Nicholls, a race horse trainer. We saw the impact of racing on that local community. Not only were the horses being trained by a well-respected trainer, there were other jobs supporting the horse, and veterinary surgeons. That is why the horserace betting levy is important and should be supported.
+
+I have experienced the frustrations in negotiations between both sides, but I urge the Minister to consider the issue because it is important for the industry to move forward in the knowledge that it will get the money it deserves. As I understand it, even if the Bill is enacted, contributors will not contribute until the end of December next year, so there is an opportunity to ensure that the levy is updated and supported by those who need to contribute, to ensure that racing can move forward.
+
+I think this is an excellent Bill and we considered each clause appropriately in Committee. There is cross-party support for new clause 1, and I hope the Minister will accommodate requests for that in support of the casino industry. As the hon. Member for Rochford and Southend East said, this is not about promoting more gambling or being irresponsible. The industry takes its responsibilities seriously, which is why more than £5 million has been raised for the Responsible Gambling Trust for research, education and treatment. It is important that such work continues, but those in the industry are getting frustrated by regulations that seem to hit them hardest, even though they are perhaps the ones that protect gamblers the most. I hope we can support the new clauses before the House, and I wish the Bill well.
+
+Philip Davies (Shipley) (Con)
+As ever, it is a pleasure to follow the hon. Member for Bradford South (Mr Sutcliffe) who, as people have said, is an expert in these matters and did an excellent job when he was the Minister responsible for them. I agree with his comments about new clause 1, although I think he was  characteristically —and perhaps unnecessarily—generous to his Front-Bench colleague, the hon. Member for Eltham (Clive Efford), about his new clauses.
+
+Before I go any further I refer Members to my entry in the Register of Members’ Financial Interests. I congratulate my hon. Friend the Member for Rochford and Southend East (James Duddridge) on new clause 1, which is absolutely spot on and follows the conclusions we reached in the Culture, Media and Sport Committee during pre-legislative scrutiny. His point about the clear anomaly in this area is right. It seems ridiculous that somebody can play on a tablet or remote machine three paces outside the door of a casino, but is not allowed to do so three paces inside that door. It is about time legislation in that area caught up with modern technology. We cannot allow the law to be so behind the times; some of us may be considered luddites, but the law should not exist to protect luddites in such a way.
+
+Paul Farrelly
+Before the hon. Gentleman goes on to being under-generous to the shadow Minister, does he agree that throughout this debate, the Government have yet to give a reason for why they are rejecting a provision such as new clause 1 to remove that anomaly?
+
+Philip Davies
+I agree with the hon. Gentleman; he is absolutely right and I am sure we all look forward to the Minister’s response. I hope we can look forward to hearing her accept new clause 1. It seems that Governments often refuse to accept amendments and new clauses simply because they have been tabled by a Back Bencher rather than the Government. It would be to the Government’s credit if they were to accept that the new clause is sensible and has cross-party support and support from the Select Committee that scrutinised it. The new clause does not add a great deal of complexity to the Bill; it is fairly straightforward and would be easy to implement. When the Minister responds, I hope she will say that she has listened to the argument and realised that we should pursue this sensible measure.
+
+Mr Nuttall
+I am grateful to my hon. Friend for giving way on that point. Clause 5 provides that
+
+“Section 1(4) to (7)…come into force on the day on which this Act is passed…The other provisions of this Act come into force”
+
+on whatever day the Secretary of State determines by way of statutory instrument. Does my hon. Friend agree that there is therefore no reason why the new clause could not be inserted in the Bill and the Secretary of State could trigger it at some point in the future?
+
+Philip Davies
+My hon. Friend is right and if the Minister felt it necessary, she would be able to do that. The other point that has been well made is that we are not likely to have another suitable Bill in the foreseeable future to deal with this issue. To be honest, it would be unacceptable for the Minister simply to give the House some warm words and agree to look into it at some future date, as that would, in effect, be kicking it into the long grass for an indeterminate time. If we are going to implement this measure, as seems sensible, there seems to be no reason why we cannot just crack on and do it now. I support new clause 1, and if the Minister will not accept it, I encourage my hon. Friend the Member  for Rochford and Southend East to push it to a vote. I think he will see that the new clause finds a great deal of favour in the House, although I hope it does not come to that.
+
+The next group of new clauses are tabled by the hon. Member for Eltham and I consider them a combination of the unnecessary and the undesirable. I will attempt a quick canter round the course for each of them. I do not intend to delay proceedings for long, but it is worth setting out why I would not agree to any of the new clauses, and why I hope that the Minister will follow suit.
+
+New clause 2 on licence, compliance, stipulations and control of spread betting seems completely unnecessary, and I hope the Minister will reject it on those grounds. New clause 3 has an interesting idea about ensuring there is a kitemark on all licensed and legitimate websites. I understand why some might think that idea superficially attractive, but my view is that the new clause is completely pointless. A kitemark does not attract people to a particular gambling website or company—it tends to be the odds being offered that attract people to those websites or companies. I admire the naivety, I suppose, of the shadow Minister who thinks that if we put a kitemark on the bottom of every licensed website, every punter in the country will ignore all better odds available and just bet blindly because of the kitemark. It would be nice if the world worked that way, but that is cloud cuckoo land. It is completely naive and unnecessary.
+
+New clause 4 concerns remote gambling licensees, customer protection and making sure licensees participate in a programme of research into and treatment of problem gambling. I do not have a problem with that; it is quite desirable that all of those companies participate in providing finance to research problem gambling and to provide treatment. The issue with the new clause putting that into statute is that it is already happening on a voluntary basis by the gambling industry. The hon. Member for Bradford South knows all about this because he was involved in it.
+
+Mr Sutcliffe
+The hon. Gentleman is quite right that this would provide statutory underpinning. One of the difficulties is that it is a voluntary arrangement. A large percentage of the companies contribute, but there are a few notable exceptions. One thing that might flow from the clause is that the Minister might be able to support the Responsible Gambling Trust in getting those companies that do not contribute to do so.
+
+Philip Davies
+I take his point and, as Minister, he basically got the gambling companies to agree to the voluntary levy, which raises around £5 million or £6 million a year. It was he who said that if they did not do it voluntarily, he would legislate to ensure that they did it. How voluntary that would have made it is a different matter; we can debate the definition of “voluntary”. The upshot is that the companies are doing this and are doing so on a voluntary basis. The hon. Gentleman is absolutely right; not every single gambling company contributes and it relies on some of the larger ones—such as Ladbrokes and William Hill—to make what might be considered a disproportionate contribution to raise the required amount. But the money that is being requested is being raised each year. We do not really need new clause 4; the money that people are seeking, properly, for the treatment of problem gamblers and  research into problem gambling is already being raised. New clause 4 is unnecessary. If the money were not being raised, I could see the point.
+
+Dame Angela Watkinson (Hornchurch and Upminster) (Con)
+Does my hon. Friend agree that the percentage of gamblers who could be called “problem gamblers” is very small? It is important that they have the proper treatment and that establishments are aware of the problem and have active policies. However, the vast majority of gamblers are controlled.
+
+Philip Davies
+My hon. Friend is absolutely right. The proportion of gamblers who are problem gamblers is 0.9 per cent, according to the latest research. Obviously it is right that anyone who has an addiction to or a problem with gambling has treatment made available to them to try to help them. That is what we should be focusing on and the gambling industry is contributing to ensure that that is the case. It is a small number, but that does not detract from the problems it causes for those individuals and their families. That is why it is right that that finance is provided.
+
+The gambling industry provides finance to people who have a problem with gambling in a way that other industries do not; for example, for alcoholics or for people with an addition to tobacco. I do not notice the cream cake industry producing a voluntary levy to deal with the problem of obesity. The gambling industry, to its credit, does make this contribution and we should recognise that it does, even if it is for a small number of people.
+
+New clause 5 is about the reporting of suspicious activities and the power to obtain financial information by the Gambling Commission. I do not think that this is necessary. As far as I am aware from all the evidence that we have had from the Gambling Commission, it gets the information that it requests from gambling companies, so I do not see that there is a problem. It seems to be a solution looking for a problem. I have not heard evidence from the Gambling Commission that it has not been able to access the relevant information from the people that it regulates and licences.
+
+On the issue of match fixing and sports betting there are two points that make the new clause undesirable as well. The first thing, which never comes out, is that bookmakers are the victims of match fixing, not the cause of it. It is usually people involved in a particular sport, or referees or umpires, who conspire in effect to defraud bookmakers. On the principle that the polluter should pay, it seems bizarre to say that the bookmakers are being ripped off by people involved in sport and that we should therefore penalise bookmakers for being the victims of the crime. The people who should be paying to clean up their sports are the sports. It is the participants, umpires or referees who are causing the problem and causing a cost to the bookmaker.
+
+Mr Sutcliffe
+I am with the hon. Gentleman most of the way, but part of the problem is that the sports are not in control of the types of bet that can be put on their sport. That is how players—particularly young players—can be corrupted. There is an issue in terms of the relationship between betting and sports and it would be better if the sports had control over what could be bet upon.
+
+Philip Davies
+I never like disagreeing with the hon. Gentleman, not least because he is a constituent of mine and it might jeopardise my chances of him voting for me at the next election. But to say that bookmakers offer products that therefore encourage sportsmen to fix matches is like blaming retailers for shoplifting by putting products on display. It is a bizarre way of looking at things and it is certainly not the way I look at it.
+
+The other point on match fixing—for example, all the issues recently in cricket, with no-balls being bowled and issues related to the Pakistan team—is that much of the money gambled was not with legitimate bookmakers in the UK but with illegal bookmakers in the far east. All the proposals in new clause 5 will not make a blind bit of difference because much of the activity is not taking place with legitimate bookmakers. It is completely pointless and I hope for that reason the Minister will reject it.
+
+New clauses 6, 7 and 9 in effect ask the Government to legislate to be able to consult on something. It seems bizarre that we would put into law a requirement on the Government to consult. The Government can consult on all these issues without legislating to do so. I suspect that, as all these issues are important, the Minister will be consulting the industry and others on an ongoing basis. It is rather bizarre that these new clauses should seek to put into a Bill a statutory obligation for the Minister to consult. If we started going down that line and placing in Acts of Parliament requirements on Ministers to consult, legislation would look very bizarre in this place. I hope that my hon. Friend the Minister will reject all those new clauses, too.
+
+It is sad that the Labour party is once again resorting to its nanny state instincts on the advertising watershed. This ludicrous idea of a watershed for advertising is a complete nonsense particularly when children are not even allowed to gamble. If the issue is that children are gambling, the best way to deal with it is to enforce the existing law that prevents children from gambling. I am wholly opposed to children gambling. I am one of the few Members who believe that it is wrong for 16-year-olds to play the national lottery; I think it should not be played until people are 18, which is the right age for people to be allowed to gamble. If the issue that the hon. Member for Eltham is trying to address is one of children gambling, we should make sure that the law as it stands is enforced.
+
+I have heard the argument that we need to deal with “marketing grooming”—the idea that people are subjected to adverts when they are very young, so that when they become adults, they are addicted to the product before they have even started. I used to work in marketing for Asda, and the idea that any company would spend its marketing budget to try to get a new customer eight years down the line is one of the most ridiculous things I have ever heard in my entire life. I would like to meet anyone working for any marketing department that has that as its strategy, as I have never encountered any such person. Most business organisations cannot see beyond the end of their nose; they certainly cannot see beyond the end of the financial year in which they are operating. The idea that they would use marketing on TV to boost their sales in five or eight years’ time is absolutely ridiculous. New clause 9, therefore, is not only unnecessary; it is completely ridiculous.
+
+New clauses 10 and 11 relate to a horse racing levy. I spoke on that on Second Reading, but given that most of my speeches—or probably all of them—are not memorable, I will briefly repeat for the benefit of Members why I think these provisions are unnecessary. First, I think the Minister will confirm that extending the Bill to include a levy would introduce a legal problem, or certainly a complication, that might scupper the Bill in its entirety. It is not worth risking the Bill as a whole to introduce the levy.
+
+As I mentioned on Second Reading, it seems to me as an onlooker that what tends to happen if any Government have to determine the levy—let us hope that we keep the current position of an agreement being reached between bookmakers and the racing industry without the intervention of Ministers—is that they look to produce a certain figure that they think should be raised by the gambling industry to pay towards the levy. Most Ministers would think £75 million was a roughly appropriate sum. The formula for the levy is then worked out to generate the £75 that the Government think should go to the industry.
+
+All that will happen by forcing through these new clauses is that the Government will still come to the conclusion that the gambling industry should pay about £75 million, and will adjust the formula accordingly to make sure that that amount is raised in this way rather than in another way. The new clauses are completely unnecessary and I do not think they will generate an extra penny piece for racing and the racing industry. To risk legally scuppering the whole Bill to put in a provision that will not make any difference is pointless.
+
+Mr Sutcliffe
+Will the hon. Gentleman go through what he believes the legal impediments are? If he is referring to the European Union, it appears that the French have overcome any problems emanating from that. Is he arguing that the advice of the DCMS lawyers is inappropriate?
+
+Philip Davies
+As the hon. Gentleman knows, I am no lawyer and no legal expert. I am regurgitating the Government’s position when they said that this might cause a legal problem. We have seen in the past how legal decisions taken by the European Court of Justice on gambling issues related to the levy came as a great surprise to all concerned at the time. We are not in a position to be clear about what the result of any legal challenge would be. All we could be clear about is that there would be a legal challenge, at which point the result would become uncertain. I do not see any great gain—to be honest, I do not see any gain—in precipitating such a legal challenge. For that reason, I hope that new clauses 10 and 11 will be rejected.
+
+New clause 12 is about financial blocking for illegal sites. Superficially, it seems attractive that measures should be taken to try to stop people gambling through sites that are not properly licensed or illegal. The problem with new clause 12, however, is that other countries have shown that financial blocking does not work. Other countries have tried to restrict online gambling and tried to make licences available only to a few operators, but this has failed in every single country that has tried it. It fails because there are ways around financial blocking—by  using PayPal and other methods, for example, which cannot be blocked by the banks. It does not work. New clause 12 is well meaning, and I understand why the shadow Minister wishes to pursue it, but it is pointless because it simply will not work.
+
+New clause 13—the last of the new clauses proposed by the hon. Member for Eltham—is also unnecessary, so I hope that the Minister will reject all the shadow Minister’s new clauses. Although I do not doubt his motives in bringing them forward—the motives are good—I think that they are either unnecessary or undesirable.
+
+New clause 14 was tabled by the hon. Member for Strangford (Jim Shannon), who represents the Democratic Unionist party. Again, I think it has much to commend it on a superficial level and I understand exactly what he is trying to do and why he is trying to do it. Again, too, the motives are very good. I doubt whether many people would disagree with the principle of what is suggested. The hon. Gentleman wants to make sure that there is a register of people who should be self-excluded. The self-exclusion is done through the Gambling Commission and would then apply to every operator who had a licence with it. If someone is self-excluded once, they are self-excluded with everybody. We would like to get to that scenario.
+
+The problem with putting this provision into statute is that it will put many gambling operators in a very difficult position. Once someone who has self-excluded goes on to gamble, the gambling operator would be breaking the law, but the new clause does not provide for a sufficient “due diligence defence”. If someone self-excludes and tries to use different names, different addresses, different bank accounts and slips through the net in that way, my worry would be that, through no fault of their own, they will be in breach of the law.
+
+If we are to go down the line of the new clause—as I say, I have no problem with the principle and view it as a desirable outcome for someone self-excluded from one operator to be self-excluded across the industry—without some kind of due diligence defence, it could put gambling operators in an impossible position. We would be asking them to do something that would be impossible to achieve if someone were determined to get round it. Perhaps the other place could consider the problem and I would be happy for the Minister to look further at it. As the new clause stands, however, I cannot support it.
+
+I would like to think that, unusually for me, my amendment 1 is non-controversial and could easily be accepted by the whole House. It simply requests:
+
+“The Secretary of State shall publish a report to Parliament one year after the commencement of this Act, and annually thereafter, on the enforcement activity of the Gambling Commission in respect of unlicensed operators attempting to provide facilities for gambling in the UK.”
+
+One of my concerns about the Bill—certainly one I expressed on Second Reading—is that it might lead to an increase in the number of people gambling with unlicensed operators, with the tax bill encouraging some companies to go outside of the licensing regime. The Treasury forecast of how much tax will be collected—about 20%—seems to confirm the danger that 20% of gambling will take place with unlicensed operators. If we are to go down the route suggested by the Bill, we need to focus the Gambling Commission’s attention on stopping gambling with unlicensed operators.
+
+Justin Tomlinson (North Swindon) (Con)
+May I suggest to my hon. Friend—who is making a characteristically powerful speech—that it is a question not just of tax, but of advancing technology? Who would have thought, a few years ago, that there would be such a big growth in online gambling? There will always be something new coming forward, and this just helps to sharpen the mind.
+
+13:30:00
+
+Philip Davies
+I agree with my hon. Friend, and I take it from what he has said that he agrees with my amendment. The fear has been expressed, both in the Treasury’s forecast and during the debate, that the number of people gambling with unlicensed operators could increase. I therefore think it only right for the Government to present a report to the House once a year—it need not be an oral report; it could be in written form—to update us on what the Gambling Commission has been doing and how successful it has been, so that we can decide whether it is dealing properly with a problem that we all fear may arise.
+
+Paul Farrelly
+The hon. Gentleman said that the report need not be in written form, but the amendment says:
+
+“The Secretary of State shall publish a report to Parliament”.
+
+That implies that it should indeed be a written report. Will the hon. Gentleman provide some guidance for the Government and the Gambling Commission by saying a few words about what he expects to be its form and content?
+
+Philip Davies
+I think that the hon. Gentleman misheard me. I actually said that the report need not be oral, and could be written. The amendment is worded as it is because otherwise there could simply be a written report with no accompanying oral statement.
+
+I should like the Gambling Commission to explain, in its own words, exactly what actions it has taken to try to close down unlicensed operators in order to prevent people from gambling with them; to update us on how successful it has been; and to give us an idea of how big the issue remains each year. That will enable us to decide whether the legislation that we have passed has succeeded, or whether we need to revisit it. If we are to proceed with the Bill, all of us will want to ensure that people gamble only with properly licensed legal operators, and any measure that focuses the minds of the Gambling Commission and the Government on that can only be a good thing.
+
+Paul Farrelly
+Does the hon. Gentleman think it advisable for the Gambling Commission to give us an annual running commentary on its estimate of the percentage of the market that is captured by licensed operators and the percentage that is lost to unlicensed operators? That might help the Treasury to determine the amount of the necessary tax levy, which will clearly be crucial in the context of how much of the gambling market is captured by licensed operators in the future.
+
+Philip Davies
+I am not entirely sure whether an annual report constitutes a “running commentary”, but if it does, then yes, I do want a running commentary on the steps that the Gambling Commission is taking, how  effective those steps are proving to be, and how big the market is. Only if we know that will we know whether the Bill has been successful or whether we need to change it in some way.
+
+When I table an amendment, I can often understand why the Government would not accept it, but I genuinely cannot understand why they would not accept this amendment, which is modest and which goes to the heart of some of the concerns that have been expressed about the Bill. On that basis, I hope that the Minister will accept my amendment and new clause 1, but will reject the new clauses tabled by Opposition Members.
+
+Jim Shannon (Strangford) (DUP)
+I am very pleased to have an opportunity to speak about new clause 14, and, indeed, about the other new clauses.
+
+Some Members have suggested that the Government’s basic objective is to close a tax loophole that led numerous online gambling companies to relocate from the United Kingdom to white-listed or European economic area jurisdictions back in 2007. However, the Government have made clear that that is not the case, arguing that the Bill is actually all about consumer protection, and I am very pleased that they are focusing on that issue.
+
+On the face of it, the Bill requires all online gambling providers that are located beyond the UK but are accessed by the UK market to have UK licences. That too is good news, but it seems to me that the Government’s good intention breaks down on two bases. It is all very well to have good intentions, but those good intentions must be translated into specific rules and legislation if we are to help problem gamblers, who are vulnerable people. I had the impression in Committee that both Government and Opposition were in favour of that, and I therefore think that all Members should feel able to support new clause 14.
+
+First, as has been said in earlier debates, although the Bill presents companies outside the UK with a carrot in the form of the offer of advertising, it does not provide any kind of stick. There is nothing to prevent companies without licences from continuing to access the UK market; they just cannot advertise. That first failing feeds directly into the second. If there is nothing to prevent companies without licences from accessing the UK market, the primary practical implication of the Bill will be that there is more advertising for online gambling, which has increased hugely in recent years in any event. There is a risk that a Bill that was supposed to be about better consumer protection will quickly become, to a significant extent, the “Liberalisation of Gambling Advertising Bill”, although I am sure that that is not the intention.
+
+The prospect of further advertising liberalisation for online gambling is particularly worrying, because online gambling has one of the highest “problem prevalence” figures. To understand the basis for public concern about that prospect, we need to have an understanding of the very real issue of problem gambling, which is a profoundly destructive addiction that ruins lives and, on occasion, ends in suicide. According to the gambling prevalence survey of 2010, there are approximately 450,000 problem gamblers in the UK today. However, if we are to understand that problem fully, we must remember that no man—or woman—is an island, and that each of those people is likely to be connected to family members who feel the destructive impact of problem gambling on  their lives as well. Problem gambling goes beyond the problem gamblers themselves; it affects their families too, which means that the 450,000 figure can quickly increase to some 2 million.
+
+In Committee, the hon. Member for Bradford South (Mr Sutcliffe) expressed concern about those with gambling addictions, and suggested that the Secretary of State for Health should look into the possibility of money from the gambling profession being set aside to help people with addictions. I am sure that many of us agree with that valuable suggestion, which served as another indication of the concern about the Bill that was felt by all members of the Committee. When we focus on remote gambling, we discover that while the average problem prevalence figure is 0.9%, the figure relating to online slot machines is over 9%. On a monthly basis, it shoots up even further, to over 17%. That problem will continue unless we establish robust legislation to deal with it.
+
+Before the Bill was published, concern had already been expressed about discrimination in the provision of less credible care for online problem gamblers than for terrestrial online gamblers with respect to “self-exclusion”, which is one of the key measures to help problem gamblers. Problem gamblers have the option of going to a gambling provider and excluding themselves from the services of that provider for a fixed period such as six months. That works in practice, because, as with other addictions, while people have weak days, they also have strong days. On a strong day, problem gamblers will be able to get around the five betting shops in their town to exclude themselves and thus ensure that they are protected from accessing gambling from the place where they live for a full six months, during which time they can build up their defences, obtain help, and decide what they want to do when the self-imposed period of exclusion ends.
+
+What is the problem with that? The key problem is that, while in an offline context there is a credible opportunity for problem gamblers to benefit from a key tool that has been developed for them, there is no such credible opportunity online. As I have said, it is quite possible for a problem gambler to self-exclude from all five betting shops in his town on a strong day, but the same is not true online. The problem gambler could self-exclude from five online gambling sites that he can access from his or her bedroom, but could still have access to hundreds of other sites from that bedroom. It would be physically impossible for the online gambler to self-exclude from all online gambling opportunities that are accessible to him in his bedroom.
+
+In short, we offer the offline problem gambler a credible form of protection through self-exclusion, but deny it to the online gambler. I believe that that anomaly must be addressed, because it is not just at a time when providing a credible one-stop shop is technologically possible. A one-stop shop self-exclusion mechanism, as set out in new clause 14, would mean that people have only to self-exclude from online gambling once by registering with the Gambling Commission. The commission would keep a list of all those who had self-excluded, and all those in receipt of an online gambling licence from the commission would be required to respect the list. This idea, which has been backed by many academics, was discussed in Committee, but is worth repeating today.
+
+Dr Sally Gainsbury, author of “Internet Gambling: Current Research Findings and Implications”, published by Springer in its SpringerBriefs in Behavioral Medicine, series 2012, states that “a significant limitation” of self-exclusion
+
+“is the lack of collaboration between different online gambling sites and venues, so that excluded individuals may find it easy to gamble at another site or venue.”
+
+She argues that the technology is available and points to its feasibility, particularly in the UK, owing to the current existing licensing conditions and code of conduct upheld by the Gambling Commission. In demonstrating that the provision of a one-stop shop facility is technologically possible, Dr Gainsbury highlights a program called VeriPlay.com, developed by Bet Buddy, which allows the secure exchange of anonymous data and has been successful in some parts of the world.
+
+The hon. Member for Shipley (Philip Davies) referred to due diligence and the support across the House on this subject. I believe we have to start somewhere, and we should start here today. The bones might come from the House of Lords, but new clause 14 would give this House the opportunity to decide in what direction we want to go, and if we want to go in the direction of helping these problem gamblers and vulnerable people, new clause 14 would be a step in the right direction. The Bet Buddy system enables operators to check whether someone is on a centralised list of players who have self-excluded. Dr Gainsbury argues that collaborative efforts would help strengthen self-exclusion, and research presented to the Canadian-based Responsible Gambling Council in 2011 by British-based GamCare and the university of Salford, along with Bet Buddy, endorsed the proposal—further examples of support from within the gambling sector and also, I hope, from the Gambling Commission.
+
+The arguments I have made for a one-stop shop in terms of non-discrimination hold at the moment, but with the proposal in the Bill to make people in the UK—and therefore problem gamblers in the UK—more aware of online gambling opportunities, the failure to provide a credible model of self-exclusion for those gambling online becomes much more serious. We already effectively discriminate against online problem gamblers in the care that we offer by providing them with a far weaker self-exclusion opportunity than that afforded to other problem gamblers. The Bill not only gives us an opportunity to put that right, but massively compounds the imperative for us to do so by introducing new arrangements that will make problem gamblers more aware of online gambling opportunities.
+
+Given that online problem gambling has one of the higher problem prevalence figures, that one of the key accepted tools to help problem gamblers—self-exclusion —does not work as effectively online as it does in a terrestrial context, and that it is technologically possible to make good this shortcoming through the provision of a one-stop shop self-exclusion mechanism, the only possible reason for inaction can be a lack of political will within the House. I am sure that that is not the case. Given that we are proposing to make life even more difficult for online problem gamblers by making them more aware of online gambling opportunities and that we have the opportunity to introduce new compensatory measures to help them, a failure to act could only be the result of a terrible failure of moral will. Why is there a  political and moral will to address online safety challenges in other contexts, but not in this context? Given that doing so would help thousands of online problem gamblers, what possible justification can there be for not backing new clause 14 as a step in that direction?
+
+13:45:00
+
+When this issue was discussed in Committee, the Minister’s response seemed to be twofold. First, she said that the matter was “complicated”, and secondly she said the industry was working hard and that she wanted to give it more time. First, I know it is complicated —online regulation is complicated—but it is also technologically possible, for the reasons I have explained. The question is not whether it is complicated, but whether we care about, and can we be bothered to help, the thousands of problem gamblers in this country and their families whose lives are being ruined by online gambling and to whom we currently do not afford the same protections as terrestrial gamblers. Like others Members, I see people in my surgeries who have addictions, whether it be to alcohol, gambling or something else. Whenever someone takes a stand and says, “I’ve got a problem”, that is the first stage, but they cannot beat it on their own; they need help, and all of us—Government bodies and ourselves—have to gather around and help. That is what I am trying to do with new clause 14.
+
+Secondly, what is the industry doing specifically about a one-stop shop for self-exclusion? That is a direct question to the Minister. I am not aware of any one-stop shop initiatives, so I would be delighted if she could tell me of some. At the end of the day, our response to new clause 14 will depend simply on whether we care about online problem gamblers, with their higher online problem prevalence figure—about the fact that they are currently denied access to a form of self-exclusion that is as robust as terrestrial self-exclusion, and that the Bill proposes to make them more aware of online gambling opportunities. If we care, mindful of the technological possibility of what new clause 14 proposes, we should find the political will and make it happen, as we have in other efforts to promote online safety. If we do not care, we will make excuses and move on. I hope the Government will support the new clause, and I look forward to the Minister’s response. I intend to press new clause 14 to a vote.
+
+Mr Leech
+I am grateful for the opportunity to speak in this debate and would like to make some brief points about several new clauses, particularly new clause 1, which stands in my name and that of the hon. Member for Rochford and Southend East (James Duddridge) and colleagues from the Culture, Media and Sport Committee.
+
+One of the recommendations of our Select Committee’s pre-legislative scrutiny was to allow British casinos to offer their online gaming products on their premises. It is nonsense that people can play on remote internet sites using mobile phones or other mobile devices in their own homes or anywhere else, while a casino may advertise its own online products in the casino but is not allowed to make customers aware that the product is available from an internet-linked computer inside the casino or to advertise its online sites on or around an internet-linked computer. Given that casinos have the most rigorously controlled premises, it is absurd that that anomaly remains.
+
+New clause 1, in the name of the hon. Member for Rochford and Southend East, would make it clear that a remote gambling terminal provided in a casino was not a gaming machine and would give powers to the Secretary of State to regulate the number of remote machines allowable in a casino. On Second Reading, the Minister argued that the proposed change would undermine existing regulatory controls on gaming machine provisions, but the new clause would ensure that the effective size of the virtual part of the casino remained controlled, while giving added protections to customers gambling online in the casino environment. I understand why the Government might be reluctant to support the new clause, because there is a danger that casinos could be encouraged to promote the online sections of their casino at the expense of the bricks and mortar parts simply to reduce their tax, so the new clause must go hand in hand with the introduction of a tax regime that creates a level playing field for the onshore gambling industry.
+
+I would like also to speak briefly to amendment 1, which stands in the name of my Select Committee colleague, the hon. Member for Shipley (Philip Davies). Given his comments and line of questioning to the Gambling Commission in Committee, Members could be forgiven for thinking that he was trying to cause a little mischief with this amendment, but I am sure that that was not the case. In fact, there is a lot of sense in ensuring that Parliament receives some feedback from the commission on how successful enforcement action has been and whether additional measures, perhaps along the lines of new clause 12, which stands in the name of the hon. Member for Eltham (Clive Efford), might be required to avoid a proliferation of gambling on unlicensed sites. I hope the Minister will be able to reassure the House that we will be updated on the effectiveness of enforcement. Will she tell us how that  is to be achieved if it is not to be specifically covered in the Bill?
+
+On new clause 3, there is some sense in making customers aware of whether a site is licensed or not. The hon. Member for Shipley was rather uncharitable in describing the shadow Minister as naive in proposing the new clause. I agree that punters are likely to be looking for odds rather than for a kitemark when deciding whether to place a bet, but from a consumer protection perspective, it is preferable that customers go into this with their eyes open, and that they know whether they will be covered by the protection provided by a licensed operator or whether they are running the risk of not getting a pay-out from some dodgy unlicensed operator. Will the Minister tell us how she will ensure that customers will be made aware of whether an operator is licensed by the Gambling Commission?
+
+On new clause 7, the Minister will be aware that my right hon. Friend the Member for Bath (Mr Foster) produced a report for the Government on dormant accounts. Following that report, what action do the Government plan to take on dormant accounts and on the potential for using the money in them for the benefit of the gambling public?
+
+Robert Neill
+I do not have the same degree of hands-on experience of the gambling industry as some hon. Members who have spoken—unless we count my past part-ownership of a greyhound, which offered little financial success  but a certain amount of entertainment value. I support new clause 1, tabled by my hon. Friend the Member for Rochford and Southend East (James Duddridge) and others. He has made the case for it very powerfully, and I hope that the Government will take it on board. He and I have been known to shop in the same establishments and outlets, but I can assure the House that we are not advocating a one-size-fits-all policy. I hope that the Minister will take the new clause on board.
+
+The hon. Member for Bradford South (Mr Sutcliffe) has pointed out that we are unlikely to get another legislative opportunity to adopt this provision. During my two and a half years as a Minister at the equivalent level of the Under-Secretary of State for Culture, Media and Sport, my hon. Friend the Member for Maidstone and The Weald (Mrs Grant), I was repeatedly told by my advisers in the civil service that although this or that measure was a good idea, there was no legislative vehicle with which to achieve it. Good, sensible reforms can often miss the bus owing to the lack of such a vehicle, and I merely point out to the Minister that we have a bus available here and it would be sensible to make use of it.
+
+Clive Efford (Eltham) (Lab)
+I echo what the hon. Gentleman is saying. In that spirit, does he agree that we should take this legislative opportunity to adopt the amendments on the horseracing levy?
+
+Robert Neill
+I understand the hon. Gentleman’s point, and I have some sympathy with his argument. There might be other ways of achieving his aims, however, and I hope that the Minister will touch on them when she responds to the debate.
+
+I pointed out in an earlier intervention that new clause 1 would be consistent with Government policy on alcohol. Alcohol and gambling are lawful, enjoyable activities but, because they can hold some risk for certain vulnerable people, society accepts that it is reasonable that they should be used or engaged in under certain controls and in controlled environments. Throughout my time as pubs Minister, I actively promoted the value of the public house as a safe place in which to enjoy alcohol. My hon. Friend’s new clause adopts the same principle; if someone is gambling using a tablet, a casino will offer a more controlled environment in which to do so than their home. I hope that the Minister will reflect on that point.
+
+New clause 13 has been tabled by the hon. Member for Eltham (Clive Efford). I am not sure that its format provides the answer, but I hope that the Minister will reflect on the serious issue that the hon. Gentleman raises. A great deal of offshore gambling that is currently regulated by the white-listed countries will move back into the UK jurisdiction and the UK’s Gambling Commission will have responsibility for it. We need to ensure that there is no diminution in the standards of consumer protection or of any other aspects of regulation. Is the Minister satisfied that the Gambling Commission has the capacity, resources and expertise effectively to carry out the greater degree of regulation that will be required of it under the new arrangements?
+
+Will the Minister also take on board the fact that some of the white-listed jurisdictions—I am thinking particularly of the Alderney gambling commission and  that of Gibraltar—have built up a considerable degree of expertise in the fields of public protection, regulation and enforcement? It would be a tragedy if that expertise were lost. What steps will she take to ensure that, if firms migrate from the white-listed jurisdictions to the UK, the Government will work with them to move that expertise across so that it can remain available to protect the interests of the consumer and the taxpayer?
+
+There is concern that a period of dual regulation could exist during the transitional period, during which firms are registered in a white-listed jurisdiction and in the UK. I hope that we can reflect on that fact, perhaps while the Bill is in the other place, and ensure that no confusion arises over who is responsible for what during that time. I urge the Minister to commit to working more closely with the white-listed jurisdictions to ensure that their expertise in this area is not lost.
+
+Clive Efford
+Notwithstanding the views of the hon. Member for Shipley (Philip Davies), the new clauses and amendments have allowed us to have a wide-ranging debate on gambling, and to explore concerns about this area of regulation. That is only fit and proper. The hon. Gentleman’s amendment 1 is a sensible proposition; I have no objection to his proposal for a report that would give us an opportunity to keep an eye on what was going on. We often pass legislation that simply drifts off into the ether and seldom comes back to us, and we rarely have the chance to see how our work is functioning out there. I therefore welcome his sensible suggestion.
+
+Sadly, I cannot say the same about new clause 1. I will listen carefully to what the Minister says about it, and I entirely respect the views of the Select Committee. I understand its point about the anomaly of someone being able to gamble on a hand-held device outside a casino but unable to do so perhaps only a few paces away inside the building. I have looked at some of the websites and seen the sums of prize money increasing at an alarming rate. Sometimes, total prizes of £8 million are advertised. The proposed change for casinos would therefore represent a very big step. If there is a case for such a change, we should consider it in more detail.
+
+Mr Sutcliffe
+Has my hon. Friend had a chance to read the briefing from the National Casino Industry Forum? It deals with the way in which casinos would implement and monitor the proposed change, if new clause 1 were to be accepted. It has been stated that our casino industry is the most regulated of the lot, and I would say it is also the safest of the lot. I understand my hon. Friend’s fears about new clause 1, but because of the way in which the industry is regulated and the way in which it protects people with gambling problems, I do not share his concerns.
+
+Clive Efford
+I have seen that document. I agree with my hon. Friend: the UK gambling industry is highly regulated and highly regarded. I have a great deal of respect for the way in which it conducts its affairs, and I would not suggest for a minute that it would not deal with this new area of the market in a responsible way, were the new clause to be accepted. The proposal does, however, represent a major step forward, because unlimited prizes would be offered on machines—albeit remote gambling machines—inside casinos. We have regulated  on that cautiously in the past. If we are to take that step, it would need consideration in separate legislation or a change in the licensing rules, whichever is required. Having looked at these websites, I think that we need to consider the matter further and that it would not be appropriate to take this step in this Bill.
+
+14:00:00
+
+New clauses 2 and 5 stand in my name and deal with spread betting, the licensing of remote gambling, and compliance. The Gambling Commission needs to have all the weapons it can possibly have at its disposal. New clause 2 would allow the Gambling Commission to take into consideration the performance of an operator that is licensed in the UK in respect of activities that take place outside the Gambling Commission’s jurisdiction. The Gambling Commission could take that significant power unto itself so that it could consider whether that operator is fit and proper to operate in the UK.
+
+I listened to what the hon. Member for Shipley said about spread betting, but I fundamentally disagree with him. There is a gaping anomaly in the current regulations: licence condition 15.1 simply does not apply to spread betting operators. That is a very important area of the regulation, because it requires the operator to share information about any suspicious activity with the national governing body for the relevant sport. This is an important area of activity because it allows the governing bodies to have some influence over how their sport is being policed and what is being done to address things, and to share information where they suspect that fixed betting may be taking place.
+
+New clause 5 is a slight change from the proposal we discussed in Committee—I have changed it out of deference to the hon. Member for Rochford and Southend East (James Duddridge), whose eagle eye spotted a possible defect in the drafting of the earlier proposal. New clause 5 therefore makes specific reference to schedule 6 to the Gambling Act 2005, which defines what a sport’s governing body is and what sports would be covered by this new clause. Schedule 6 defines the governing bodies of sport, national and international, that the Gambling Commission is committed to sharing information with. It also allows for the transfer of betting data and customer information between the Gambling Commission and sports bodies without the need to worry about issues such as data protection. Schedule 6 was updated by the Government ahead of the London Olympics, when the Government did a lot of work in establishing an anti-corruption betting framework and wanted to be able to share information with the International Olympic Committee.
+
+My proposal is supported by a wide range of sports governing bodies. In Committee, the Minister said in response to this issue:
+
+“gambling operators, whether they provide spread betting or fixed odds betting services, should be subject to obligations to report suspicious market activity.”––[Official Report, Gambling (Licensing and Advertising) Public Bill Committee, 19 November 2013; c. 99.]
+
+That is exactly what my new clause would do, so I urge her to reconsider her position. If she is not minded to accept the new clause, will she confirm that there is a timetable for the Financial Conduct Authority to adopt condition 15.1? Will that be done ahead of this Bill reaching the Lords? Will a plan of action be in place so  that we can consider exactly what the FCA is doing in this area of licensing, where there appears to be a gap? The Minister also said that she would write to the FCA to follow up on what action it has taken since the sports bodies first wrote to it more than three years ago. Has she yet written and made inquiries? Will she place a copy of the correspondence in the Library?
+
+On the kitemark and new clause 3, I say to the hon. Member for Shipley that if he were to look on the websites, he would have to accept, as the Gambling Commission does, that what is on them at the moment is a mess. We are talking about tiny writing that is confused with a lot of other information at the bottom of the sites. He undersold my new clause, because I was not suggesting that the kitemark should be at the bottom; I suggested it should be in a prominent position at the top of the websites, where people can find it easily. It should not just be a symbol. It will be a tool that will connect people with the Gambling Commission and all sorts of information about what to do if they are not happy with the service they have been provided with; who regulates and on what basis; and how to get help if they have problems with gambling. There will be a link to all other sorts of sites that will assist people. Having a common feature such as a symbol that is used regularly on all websites and that regular punters will recognise will be an important tool for consumers, so I just beg to differ with the hon. Gentleman on that issue.
+
+Philip Davies
+If these sites are illegal and, as is probable, in some far-flung part of the world, what would prevent people from just putting the kitemark on there themselves?
+
+Clive Efford
+It would have to be policed, would it not? Like anything else that is happening on the internet, it would have to be policed. The ultimate argument the hon. Gentleman is making is: what is the point in regulating at all? I think we are getting to the root of his position on all these issues.
+
+On research and treatment, the figure of 0.9% has been used a lot. The 2010 gambling prevalence survey identified that for problem gambling in respect of online slots the figure rises to 9%—we are dealing with online gambling here, so we are talking about almost one in 10 and something that is very serious. The overall figure of 0.9% equates to 450,000 people and we should take note of that, because it equates to 700 people per constituency. It is not the insignificant number it may seem when we say 0.9%—we see that when we talk in terms of 700 people per constituency.
+
+Mr Sutcliffe
+I agree with the point my hon. Friend is making, and nobody would want to underestimate the issues relating to problem gambling. The industry has a voluntary levy and it raises more than £5 million. Is it not the case that the health service provides no budget at all to deal with problem gambling, whereas it does make provision to deal with problem drinkers and those dealing with other addictions?
+
+Clive Efford
+My hon. Friend is right about that. Of course, a significant duty is levied on alcohol and tobacco, which does contribute towards providing public services, for just the reason he outlines. He rightly says that just about £5.7 million is spent on treatment and research,  but the overall value of the gambling industry is about £6 billion. The online gambling industry is worth about £2 billion, so it is not unreasonable to expect that more could be contributed towards the treatment of problem gambling in the future.
+
+I am getting a little bogged down, so I will try to move quickly through my amendments. On self-exclusion, the Minister failed to convince us in Committee that she was going to be robust enough in ensuring that we will deliver a one-stop shop—a single exclusion system right across the gambling industry regulated by the Gambling Commission. We reached a point where I kept asking the same question and I got several evasive answers, so I put my simple question to her again: will she require the Gambling Commission to introduce a single, one-stop shop self-exclusion system across the gambling industry? That is what we are pushing her to do.
+
+When we talk about dormant accounts, we are also talking about bets that are void because the horse did not run, about unclaimed winnings and about the accounts of people who have left money sitting in them for more than a year. That money should be put to use for good causes, such as treatment. I know that an element of it is used in that way, but we do not know how much. [Interruption.] If the hon. Member for Shipley, who is trying to intervene from a sedentary position, were to look at the report written by the right hon. Member for Bath (Mr Foster), he would see how difficult it is to identify how much money there is in those accounts. This is an opportunity for us to deal with that.
+
+We are recommending financial blocking because it should be part of an overall package of measures that the Gambling Commission needs to have at its disposal. Much has been made of the Ofcom report, which concluded that financial blocking, as part of an overall basket of measures, could be an effective means of intervention, and we would certainly recommend that it should be so. Other countries use financial blocking and, taking on board the comments of the hon. Member for Bromley and Chislehurst (Robert Neill), we ask that none of our standards fall below those of other white list countries.
+
+Finally, the horserace betting levy is an extremely important element that we have debated during the passage of the Bill. The horserace betting industry suggests that racing is missing out on £20 million a year that could be made if online remote betting companies were contributing to the betting levy. New clause 10 redefines the definition of a bookmaker in the Betting, Gaming and Lotteries Act 1963 to bring those remote gambling companies into line with the onshore companies that currently pay the levy.
+
+Rather than saying to the Minister here and now that we can pass a system under this Bill that would require everyone to pay the betting levy long into the future, we are suggesting in new clause 11 that there is all-party agreement on the betting levy and that we all accept the principle of it. In fact, several of her hon. Friends have attempted to take a private Member’s Bill through on this specific issue. As we have said before, this is a rare opportunity to legislate in this area, and another such opportunity may be many moons away. In the meantime, the horse racing industry is missing out on vital income. The Minister has an opportunity in the legislation to  take reserve powers away, to consult on what would be a long-term acceptable method of raising the horserace betting levy into the future and to come back to the House with her conclusions. It would be the waste of an opportunity not to do that at this time. If she is not minded to set such a timetable for the betting levy, we will put this new clause to the vote.
+
+I hear what the hon. Member for Strangford (Jim Shannon) said about his amendment on self-exclusion and I know that he intends to put it to the vote. If he does, I will urge my hon. Friends to support his amendment as well.
+
+The Parliamentary Under-Secretary of State for Culture, Media and Sport (Mrs Helen Grant)
+I thank Members for a highly stimulating debate on a wide range of issues including casinos, enforcement, spread betting, consumer protection, dormant accounts, the advertising watershed and, of course, the levy.
+
+I will start with new clause 1, which relates to casinos. We have heard important contributions from my hon. Friends the Members for Rochford and Southend East (James Duddridge), for Shipley (Philip Davies), for Manchester, Withington (Mr Leech), and for Bromley and Chislehurst (Robert Neill) and the hon. Member for Bradford South (Mr Sutcliffe). Members will not be surprised to hear that I have had several iPhones waved at me recently, with the implication that such devices can be played on trains and in bedrooms, so why not in casinos? Let me make it clear, those devices can be played in casinos, and can indeed be offered by casinos to customers but within the limits of the machine stakes and prize regulations.
+
+14:15:00
+
+This debate is about the ability of casinos to promote and encourage the use of such devices—including their own—outside of those controls. It is because we are talking about promotion and encouragement to play such games in casinos that I remain firmly of the opinion that it is right to consider potential flexibility within the structure of the existing machine stakes and prize regulations. The amendment completely sweeps away those controls and places the devices fully outside those regulations. Let us not forget that we are talking about the promotion and encouragement to play unlimited stakes and prizes. This means a category A type gaming machine in a casino, which is promoted by the casino.
+
+I have heard arguments from my hon. Friends the Members for Rochford and Southend East and for Bromley and Chislehurst and from the hon. Member for Bradford South that a separate case should be made for casinos because they are at the top of the regulatory pyramid. The fact that casinos are at the top of the pyramid is exactly why I want to consider properly whether there is merit in the regulations for flexibility that reflects technical developments. I said several times in Committee and on Second Reading that I shall undertake such consideration. I have written to the Casino Forum in such terms and my Department has already commenced discussions with the sector about flexibility and modernisation.
+
+Mr Sutcliffe
+I understand the point the Minister makes; it is quite proper that she speaks to the industry, but there is concern over the time scale. Is she going to  try to do this while the Bill is going through both Houses, or is she looking at another date? The concern is that if we miss this opportunity, the boat will have gone. Just so I can be clear, is she talking about trying to do this within the time frame of the Bill passing through both Houses?
+
+Mrs Grant
+That is a fair question that I am just about to come on to. I know that the hon. Gentleman wants progress here, and I am aware that people need us to get on with this and I assure him that it is my intention to get on. I am committed to bringing the conversations that we have already started to a conclusion by March 2014. That may be a little later that he would like, but I want to do this properly, because that is far better than not doing so. Furthermore, I reassure him and my hon. Friend the Member for Rochford and Southend East that primary legislation is not needed in relation to the casinos’ aspirations. Those aspirations could be achieved by secondary legislation, if we felt that to be wise. For all those reasons I am firmly opposed to the new clause, because it removes important controls for consumer protection, which is what the Bill is about, and paves the way for unintended consequences.
+
+I thank my hon. Friend the Member for Shipley and the hon. Member for Eltham (Clive Efford) for their important suggestions about enforcement, including reporting on enforcement activity and financial transaction blocking. However, amendment 1 is unnecessary as the Gambling Commission already publishes annual information and data about its activities, including its regulatory and enforcement activities as well as industry statistics, which include those on betting integrity. I draw the attention of my hon. Friend the Member for Shipley to the Gambling Commission’s 2012-13 annual review, which already details the enforcement activity it has undertaken. A further separate report would not significantly add anything to the material already published by the commission and would therefore involve unnecessary duplication. I know that he is a stickler, and I want to assure him that the commission is constantly improving its coverage of information and has assured me that it is willing to ensure that it includes information about its enforcement activities in relation to remote gambling as part of the material that it already publishes. For those reasons, I do not intend to accept my hon. Friend’s amendment.
+
+Paul Farrelly
+Will the Minister give way?
+
+Mrs Grant
+I want to make some progress; I have too much to get through. When I have made some progress, I will come back to the hon. Gentleman.
+
+New clause 12 would permit the Gambling Commission to introduce financial transaction blocking. The evidence on the effectiveness of financial transaction blocking is far from convincing and, as we heard in Committee, the industry clearly has doubts about its effectiveness. I do not wish to rule out the blocking of financial transactions in the future should it become appropriate or necessary and if we can see that it is effective. As the range of tools at the Gambling Commission’s disposal has already been shown to be effective, I do not feel that it would be appropriate to seek that power in this Bill.
+
+I thank hon. Members for raising the important issue of sporting integrity and the need to ensure that operators have an obligation to report suspicious market activity.  Although I am satisfied that strong and effective measures are in place to ensure that that happens, I am pleased to be able to confirm, to the shadow Minister in particular, that the Financial Conduct Authority will issue guidance to the two sports spread betting firms operating in the United Kingdom and that will reinforce the current arrangements. The new guidance provides an opportunity for the FCA to clarify the meaning of its rules and to state precisely what it requires of the sports spread betting firms. That will allow greater consistency in how suspicious market activity is reported.
+
+Clive Efford
+I want to clarify what the Minister has just said about the FCA and what is being confirmed. She said, I think, that the FCA was confirming the current arrangements, which are far from satisfactory. Will it adopt all the requirements of licence condition 15.1?
+
+Mrs Grant
+No, I did not say that at all. In evidence given in Committee, the FCA clearly said that it would consider publishing further guidance to the two spread betting operators that it regulates. The FCA has come back since then and said that it will do that. I am sure that the shadow Minister is aware of the teeth that such guidance has, particularly if it is specific. If there is a breach of guidance, that will clearly have serious consequences for those who have breached it. In my opinion, this is a highly proportionate response to an issue that, although important, does not require intervention through primary legislation. I hope that the hon. Gentleman agrees that there is absolutely no evidence that the regulation of sports spread betting by the FCA has compromised sporting integrity. I do not believe there is a case for a fundamental change to the arrangements and it is right to allow the FCA, which is an independent regulator, to get on with issuing the guidance. If appropriate, the FCA will, of course, assess its effectiveness in due course. I encourage the authority to do that very quickly.
+
+New clause 3 would require a kitemark to be displayed on licensed operators’ websites. I continue to argue that we are all batting for the same aim. I support the arguments made by the hon. Member for Eltham in Committee and today that providing clarity for consumers that they are using a Gambling Commission-regulated site is an important element of consumer protection. I hope that it would provide a strong element of promotional advantage to the operators licensed by the Gambling Commission. As I said in Committee, I will follow through on my intention to see progress on the work that the commission has already commenced to ensure that consumers can quickly and clearly establish that they are transacting with a GB-licensed site. I certainly do not intend to get involved in clarifying with the commission how many centimetres the logo should measure or what colour it should be. It is reasonable to leave the regulator to get on with that. Accordingly, I see no need for a new clause to achieve the end result that we clearly all want.
+
+New clause 4 would end the voluntary approach to operator contributions for research into, education on and treatment for problem gambling, making it compulsory for all operators licensed by the Gambling Commission. The voluntary arrangements were revised only recently, in 2012, and I am satisfied that they are working. I will, of course, continue to monitor the effectiveness of the voluntary arrangements and therefore do not intend to accept the new clause.
+
+New clause 6 would enshrine in statute a one-off commitment to consult on standardised self-exclusion. At present, the Gambling Commission’s licence conditions and codes of practice include the requirement for remote licensees to put into effect procedures for self-exclusion. We recognise that operators could do more by co-operating and working together to help players self-exclude from local gambling premises and online sites, but the industry is already taking steps. A good example is the imminent harm minimisation conference being organised by the Responsible Gambling Trust. I expect to see progress on player protection over the coming months, including the development of better tools to help players to gamble safely. If we are still having this conversation in 12 months’ time, there will be little alternative but to embark on a process of mandating controls.
+
+New clause 14, tabled by the hon. Member for Strangford (Jim Shannon), would enshrine in statute the requirement for the Gambling Commission to hold a list of those who wish to self-exclude. It would be a condition of the remote operating licence that individuals on the list must be excluded. A one-stop shop might be an appropriate goal and I know that it would do considerable good, but I do not wish to make a commitment to pursue that option alone—given the complexities and practicalities involved—when other elements of harm minimisation might be even more significant, such as player feedback and information on betting habits as well as in-play alerts on losses. We should also not lose sight of the fact that self-exclusion is just one tool in a suite of player protections. I urge the industry to make the fastest possible progress. The shadow Minister pressed me on this point in Committee and has done so again today, and I am prepared to commit to driving all the parties to make good their commitments on developing and implementing player-protection measures and to consider using the powers I have, including the imposition of licence conditions, if I am not satisfied.
+
+New clause 13 seeks to ensure that the social responsibility provisions adopted by the Gambling Commission reflect the highest possible standards. As I said in Committee, I am confident that the British regulatory system is a model of international best practice and the commission’s requirements are robust and of the highest standard. I do not accept that the commission lags behind in its social responsibility requirements.
+
+Robert Neill
+I understand the Minister’s point, but is she satisfied that, regardless of the quality of the standards, there is the capacity in the system effectively to enforce those standards on a larger scale? What can she say about not losing expertise from the white-listed countries?
+
+Mrs Grant
+My hon. Friend makes a good point, but I must tell him that I am absolutely satisfied that the Gambling Commission has all the tools it needs at its disposal properly to enforce the regulations. There will, of course, always be grey areas, but when the commission comes up against them, it is up to it to make proper decisions according to risk and proportionality.
+
+The Gambling Commission is internationally respected. It engages extensively with overseas regulators, participates in international and European regulatory forums and  hosts numerous visits each year from overseas regulators who are keen to learn from it. The new clause is therefore unnecessary and I do not intend to accept it.
+
+Clive Efford
+I am grateful to the Minister, who is being very generous in giving way as I know she has a lot to get through. The issue is that although it is easy to self-exclude from, for example, four betting shops on the high street, there are a multiplicity of ways of gambling on the internet without a single system of self-exclusion—that is, a one-stop shop. Is that the minimum standard that she will require?
+
+Mrs Grant
+I have made it clear that the industry has made various commitments, and I want it to get on with what it has said it will do. There are issues and complexities with the one-stop-shop method of self-exclusion. I will keep it under review and if I am not satisfied within a reasonable period that the Government are doing everything we should be doing, I will look at it again.
+
+14:30:00
+
+I thank hon. Members for their suggestions about dormant betting accounts in new clause 7. I have noted the strength of feeling both today and in earlier debates, especially the comments of the shadow Minister and the hon. Member for Bradford South (Mr Sutcliffe) about the opportunities that might be afforded to grass-roots sports, and I will take those comments into account when considering my right hon. Friend’s report at the appropriate time. For the reasons I have given, I do not think that the time is right. We want the Bill to go through first. I am not prepared to accept the new clause.
+
+I thank the hon. Member for Bradford South for highlighting the subject of gambling advertising in new clause 9. The Government acknowledge the growth of gambling advertising since 2007, following the introduction of greater freedoms. As I made clear in Committee, I am already examining what impact that might be having on the licensing objectives of the Gambling Act 2005 and whether the current arrangements, including the 9 pm watershed, remain adequate.
+
+The research that I mentioned in Committee, which was published by Ofcom last week, is an important step in clarifying the extent to which advertising has grown and where that growth has been concentrated. It also reveals the extent to which children and adults are exposed to gambling advertising. The research also shows that, while advertising has increased, the scheduling restrictions have been effective in limiting the exposure of children to gambling advertising, and that the vast majority of sports betting advertising is after the watershed.
+
+While I find it reassuring that the scheduling restrictions have limited the exposure of children to gambling advertising, the Government continue to pay close attention to developments in the gambling advertising market and are working closely with Ofcom, the Gambling Commission and the Advertising Standards Authority. The Secretary of State and I met last month with my officials and several of those organisations to discuss the situation.
+
+I can assure hon. Members that the Government take the issue very seriously indeed and are already working to assess the adequacy of the current arrangements. For this reason, there is no need to accept new clause 9, but I will ensure that Parliament is kept informed of our assessment of the impact of gambling advertising and,  should I uncover evidence in the course of this work that suggests that advertising codes no longer provide effective protections, I will not hesitate to act.
+
+Last but not least, new clauses 10 and 11 would extend liability to pay the horserace betting levy to offshore bookmakers who hold a remote gambling operating licence from the Gambling Commission. I have made my commitment to consider levy reform abundantly clear, but let me repeat yet again that I want to take the opportunity—the hon. Member for Bradford South used the word “opportunity”—that has been created by the financial stability of the four-year voluntary arrangement to take a proper look at levy reform and consult widely on the sustainable, enforceable and legally sound options that emerge. We must look beyond extending a system that is agreed to be out of date and consult properly before any measures are put in place.
+
+I am resisting the new clauses for two principal reasons. First, I do not believe that we should assume that genuine levy reform lies in merely extending the existing levy scheme. No one has disputed the view that it no longer reflects the modern betting and racing industries. The new clauses would not achieve genuine levy reform; they would merely extend the current system. Secondly, as I have said previously, any extension of the levy to offshore bookmakers as a result of the new clauses would require EU Commission approval because the levy is a state aid scheme. I will not implement the proposals, for which we do not have EU approval in respect of state aid. Nor am I convinced that we should seek EU approval for an extension of the current levy when we do not know that it will satisfy the need for proper reform. I am not prepared to act in a way that could jeopardise the stability provided by the recent voluntary arrangement.
+
+I have also been urged to take a power to extend the levy at a future point, but that assumes that all that we might wish to do is extend the existing system, and that would not be genuine levy reform. Even if we took such a power, we could find that it was too narrowly scoped to enable us to achieve what we wanted—for example, to meet the EC requirements for any reform scheme to be state aid compliant.
+
+Clive Efford
+There is agreement among Members on both sides of the House about this, and many Government Back Benchers have supported a private Member’s Bill that would have a similar effect. We are suggesting not that we solve the problem now but that she takes a reserve power and comes back to the House. In the meantime, we should allow the levy to be applied to remote gambling operators, because in the intervening period the horse racing industry is missing out on £20 million per year. When will she regulate if not now?
+
+Mrs Grant
+I think I have made it clear to the shadow Minister that I am happy to look at this; I will consult on any workable proposal that is put to me which is sustainable, enforceable and legally sound, but we have to do it properly. I am not prepared to cut corners—we owe that to betting and to racing. We have waited 50 years; we now have a four-year opportunity and I am determined to make the most of it.
+
+Horse racing is enjoyed by millions of people and is the second most attended sport in Britain after football. It supports 85,000 jobs across the country and contributes to local economies both through employment and by  attracting a considerable number of visitors. We owe it to racing and the betting industries to get this right, and hon. Members will have repeatedly heard my determination to do exactly that. That is why it is important to get levy reform right and not to accept either of the new clauses, which could so easily set limits on what can be achieved.
+
+For all the reasons that I have stated, I cannot accept any of the new clauses or amendment 1.
+
+James Duddridge
+While I am clearly disappointed that new clause 1 was not accepted, we have had an interesting debate and moved things forward a little. The Minister will continue to have discussions with the industry. I was concerned about how long those would take, and the Minister has assured me and other hon. Members that this process will come to a conclusion in March 2014. I expressed some concerns about whether we would be able to take this forward in secondary legislation. The Minister has asserted that that would not be a problem. Time did not permit her to go into detail, but I take her at her word. Perhaps she will look at how it will happen again, and reflect on the suggestion made by the hon. Member for Bury North (Mr Nuttall) that an amendment should be tabled in the House of Lords that would permit her to make this change if at the end of the consultation the Minister believed it was the right thing to do.
+
+I beg to ask leave to withdraw the motion.
+
+Clause, by leave, withdrawn.
+
+New Clause 11
+
+Power to extend the horserace betting levy to overseas bookmakers
+
+‘(1) The Secretary of State may by regulations amend any provision or provisions of the Betting, Gaming and Lotteries Act 1963 (c 2) (at a time when the provisions listed in section 15(1)(a) to (c) of the Horserace Betting and Olympic Lottery Act 2004 (horserace betting levy system) have not been entirely repealed by order under that section), the Gambling Act 2005 and/or the Gambling Act 2005 (Horserace Betting Levy) Order 2007/2159 for the purposes of ensuring that each person who holds a remote gambling operating licence under the Gambling Act 2005 which authorises that person to provide facilities for betting shall be—
+
+(a) liable to pay the bookmakers’ levy payable under section 27 of the Betting, Gaming and Lotteries Act 1963 (c 2); and
+
+(b) subject to the provisions of section 120 of the Gambling Act 2005 (as modified in accordance with the Gambling Act 2005 (Horserace Betting Levy) Order 2007/2159) if that person is in default of such bookmakers’ levy.
+
+(2) Regulations under this section must be made by statutory instrument.
+
+(3) A statutory instrument containing regulations under this section may not be made unless a draft of the instrument has been laid before and approved by a resolution of each House of Parliament.’.—(Clive Efford.)
+
+Brought up.
+
+Question put, That the clause be up added to the Bill.
+
+Division 138
+26/11/2013 14:39:00
+The House divided:
+Ayes: 213
+Noes: 271
+Question accordingly negatived.
+
+14:53:00
+
+More than two hours having elapsed since the commencement of proceedings on consideration, the proceedings were interrupted (Programme Order, 5 November.)
+
+The Deputy Speaker put forthwith the Question necessary for the disposal of the business to be concluded at that time (Standing Order No. 83E).
+
+New Clause 14
+
+Self-exclusion for remote gambling
+
+‘After section 89(1) (remote operating licence) of the Gambling Act 2005, insert—
+
+“( ) The Commission shall hold a list of persons who have registered to be excluded from remote gambling.
+
+( ) It shall be a condition of a remote operating licence that an operator must exclude any person who has registered for self-exclusion with the Commission.”.’. —(Jim Shannon.)
+
+This New Clause would give the power for the Commission to hold a list of those who wish to self-exclude. It would be a condition of a remote operating licence that individuals on the list must be excluded.
+
+Brought up.
+
+Question put, That the clause be added to the Bill.
+
+Division 139
+26/11/2013 14:53:00
+The House divided:
+Ayes: 223
+Noes: 283
+Question accordingly negatived.
+
+Third Reading
+
+15:04:00
+
+Mrs Grant
+I beg to move, That the Bill be now read the Third time.
+
+I begin by thanking all those from across the House and outside who have taken part in the debates on the Bill. In particular, I thank the Chairmen of the Committee, my hon. Friend the Member for Wellingborough (Mr Bone) and the hon. Member for Arfon (Hywel Williams).
+
+The Bill has its origins in the previous Administration’s review of the remote gambling regulatory framework. I thank the hon. Member for Bradford South (Mr Sutcliffe) in particular for his contribution during the Bill’s progress. I thank the Culture, Media and Sport Committee for its thoughtful and thorough pre-legislative scrutiny, which was key in helping to strengthen the Bill.
+
+I believe I am right in saying that the Bill enjoys support from across the House, although some believe that it does not go far enough. Several issues have been debated at various stages, including today, and several new clauses have been tabled. I have explained as carefully as I can the reasons we have chosen not to accept them. Although the Government have not accepted any amendments on these matters, as we do not believe the Bill is the right vehicle for such changes, we have noted the concern on these matters and hope to make progress on them through a non-legislative avenue.
+
+The Bill is a prudential measure which will provide greater protection for consumers based in Great Britain. It will tighten current legislation to ensure that all  remote gambling, whether provided in Britain or overseas, is a licensed activity, subject to the Gambling Commission’s standards and controls. I commend the Bill to the House.
+
+15:06:00
+
+Clive Efford
+In spite of all the amendments that we tabled, we welcome the Bill, as far as it goes. It brings an industry that has grown to £2 billion a year under the UK Gambling Commission as the licensing authority and, in respect of licensing, it will create a level playing field between remote gambling operators, those that have remained onshore and our high street betting shops.
+
+The questions that we have raised will be tested by how well the Gambling Commission enforces the requirements that are laid out in the Bill and implicit in the licence. Aspects such as research, treatment, the protection or self-exclusion of individuals, enforcement tools using IP blocking, financial blocking, and possible change to the watershed will all be subject to enforcement by the Gambling Commission. We will have to remain vigilant and see how that is implemented to ensure that the Bill has the desired effect, as expressed by Members in all parts of the House.
+
+I pay tribute to my hon. Friend the Member for Bradford South (Mr Sutcliffe) for the work that he initiated in government. Shortly after the remote gambling regulations were put in place in 2007, he and the present Comptroller of Her Majesty’s Household, the right hon. Member for Bath (Mr Foster), who is not in his place and to whom I pay tribute, identified the need for further regulation. It has taken some time for us to get to the point where we have the legislation before us, but we are here now and the Bill, as far as it goes, has support from all parts of the House, because we want to set the very highest standards here in the UK, which others will follow across the world in the regulation of remote and online gambling.
+
+We certainly want the Gambling Commission to set the very highest standards so that people can enjoy the pastime of gambling in safety and in the knowledge that everything is being done to ensure that they can do so without fear of any harm. We commend the Bill and hope sincerely that everything required by it will be realised under the licensing regime applied by the Gambling Commission.
+
+15:09:00
+
+Philip Davies
+I, too, rise to support the Bill, although not necessarily for the reasons it was introduced. The Government introduced the Bill—if we believe what they say—for the purposes of regulation, but it seems to me that for the purposes of regulation it is completely unnecessary. In fact, it will probably make the regulatory system worse, because although virtually every gambling operator used by UK consumers is currently properly regulated, either here or in other places such as Gibraltar, the chances are—the Treasury’s own forecasts show this—that as a result of the Bill around 20% of betting will take place with unlicensed and unregulated operators. As far as the regulation of gambling is concerned, the Bill represents a step backwards, rather than a step forwards.
+
+However, I support the Bill for the real reason behind it, which the Government dare not say: it will allow them to tax gambling companies currently based in places such as Gibraltar and allow people in the UK who place bets with those companies to be subject to taxation. I think that is a perfectly legitimate thing for the Government to do, but I understand that for legal reasons within the EU they do not want to say it. I am pretty certain that is the reason for the Bill, and on that basis I support it.
+
+I have one question for the Minister, which I hope she can answer. She will be relieved to know that it is not about sport. I was tempted to ask her the name of this year’s winner of the grand national—a clue is that it was trained in my constituency—but I will resist that temptation. Will she give me a guarantee that the Bill will not lead to any empire building by the Gambling Commission, which could claim that it needs ever more resources, ever more money and ever bigger fees to do the regulation that will be expected of it as a result of the Bill? The Culture, Media and Sport Committee was keen to get assurances on that during our pre-legislative scrutiny. I hope that she will make it clear to the Gambling Commission that the Bill cannot be used as an excuse.
+
+Robert Neill
+My hon. Friend makes a fair point. Does he accept that one way to avoid the needless spread of bureaucracy would be for the UK’s Gambling Commission to use some of the expertise that exists in the Alderney gambling control commission or Gibraltar’s commission, where there is likely to be spare capacity? Using what is already there, rather than inventing new methods and posts, might be a way of achieving sensible regulation at a reasonable price.
+
+Philip Davies
+I very much agree with my hon. Friend. He gets to the nub of my concern about the Bill, which is that companies based in places such as Gibraltar are already particularly well regulated by the authorities there, which is why the Bill is complete nonsense from any regulatory or licensing perspective—it is clearly about taxation. Once we get over the emperor’s new clothes situation, I hope that the Government will take my hon. Friend’s advice, because the most effective way to license and regulate those industries will be by using the expertise that already exists.
+
+Notwithstanding my concerns about empire building by the Gambling Commission, which I hope will not be a consequence of the Bill, and the fact that I consider the regulatory system for gambling to have taken a step backwards, I support the Bill and hope that the revenue raised will be useful in paying down our debts. The success or failure of the Bill will depend not on the legislation, but on the rates of taxation the Treasury places on the gambling industry as a consequence of it. The Treasury—I hope that the Minister will take this message back—must not stifle some of the smaller niche gambling companies, which employ many people in this country, because they would be finished off by a rate of 15%. The big gambling companies can look after themselves, but the smaller ones need a competitive rate. Otherwise, they will go out of business and we will end up losing jobs and tax revenue. Notwithstanding those concerns, I support the Bill.
+
+15:14:00
+
+Mr Sutcliffe
+It is a pleasure to follow the hon. Member for Shipley (Philip Davies). We disagree on some things, but he is an excellent advocate for the horse racing and betting industries. We might draw different conclusions on the purpose of the Bill, but I think that we agree that it is important. I pay tribute to the Minister for bringing it forward. The process started, as my hon. Friend the Member for Eltham (Clive Efford) said, more than three years ago. I also pay tribute to the officials in the Department for Culture, Media and Sport, because it is important that they work with the Gambling Commission and the sector to understand the nature of the industry, which is very important to this country given the number of jobs it creates, the amount of tax that it pays and the investment it makes in the economy.
+
+Opportunities to discuss the gambling industry in the House are few and far between. One of the difficulties is that some people take a blanket approach to gambling and oppose anything to do with it because they think that it is alien to our country, but in reality that is not the case. As we have seen with the success of the national lottery and national institutions such as the derby, the grand national and many other racing events, sport and gambling are interlinked.
+
+The important thing about the Bill is that it offers a consumer safeguard, and in that respect it fills a gap in the previous legislation, the Gambling Act 2005. However, we have put a lot of trust in the Minister today—I do not doubt that it will be honoured—to do things we have asked her to do. We have asked her to look at the casino industry and, outside the scope of the Bill, the opportunity to put right some of the wrongs for that industry. I look forward to hearing what she has to say as a result of her consultation with the sector in due course.
+
+I think that the Minister is wrong not to support the new clause on the horserace betting levy. The horse racing industry is important to the country. The problem is that if it takes four years to reach a conclusion for the next negotiations, some race courses and parts of the industry might not survive. I hope that she can give some momentum to that. I referred in Committee to the other place, and I am sure that when the Bill goes to the other place its Members who are even more committed to racing than we are in this House—if that is possible—will remind her of the levy’s impact on the industry.
+
+The Bill is a good one. I am grateful to the Minister for listening to the comments that have been put to  her from both sides of the House. I look forward to its   passage through the other place. However, I feel that the House needs to look at the impact of gambling on society, because there are people who have problems, and the hon. Member for Strangford (Jim Shannon) is right to raise those concerns. It might sound like a small percentage—0.9%—but my hon. Friend the Member for Eltham is right about the number of people affected, so there needs to be adequate research, education and treatment. I support the Bill.
+
+15:17:00
+
+Jim Shannon
+I thank the Minister for her response. Although we did not get the response we wanted, as the Minister acknowledged, she did make a commitment to consider pushing the industry in the direction in which we all want it to go. From the Government’s point of view, and that of the Opposition, I think that the overall consensus is that we need to help those who need help. That is where I and many others come from in relation to problem gamblers and vulnerable people.
+
+With regard to new clause 14, I hope that when the Bill goes to the other place, with due diligence—to use that terminology—perhaps something might be added that this House can endorse. I would be glad to see such a move in the right direction. I would also be pleased to see money from dormant bank accounts going to help those with gambling addictions—
+
+Mr Deputy Speaker (Mr Lindsay Hoyle)
+Order. The debate is on Third Reading, not the clauses.
+
+Jim Shannon
+I understand that, Mr Deputy Speaker—
+
+Mr Deputy Speaker (Mr Lindsay Hoyle)
+Order. It is not about understanding it; the point is that you have to talk about it. I am not too worried about the understanding.
+
+Jim Shannon
+I stand corrected, Mr Deputy Speaker. I understand it very well and I will now get it right.
+
+When the Bill returns to the House, I hope that we will have an opportunity to address all those issues. I look forward to legislation that empowers problem gamblers and vulnerable people to get help when they need it most. If we can achieve that, we will have achieved a lot.
+
+Question put and agreed to.
+
+Bill accordingly read the Third time and passed.
+

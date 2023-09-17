@@ -1,0 +1,406 @@
+Financial Services and Markets Bill
+
+Consideration of Lords amendments.
+
+Madam Deputy Speaker (Dame Eleanor Laing)
+I must draw the House’s attention to the fact that financial privilege is engaged by Lords amendment 35. If Lords amendment 35 is agreed to, I will cause the customary entry waiving Commons financial privilege to be entered in the Journal.
+
+Clause 25
+
+Regulatory principles: Net Zero emissions target
+
+17:58:00
+
+The Economic Secretary to the Treasury (Andrew Griffith)
+I beg to move, That this House disagrees with Lords amendment 7.
+
+Madam Deputy Speaker (Dame Eleanor Laing)
+With this it will be convenient to discuss:
+
+Government amendments (a) to (c) in lieu of Lords amendment 7.
+
+Lords amendment 10, and Government motion to disagree.
+
+Lords amendment 36, Government motion to disagree, and Government amendment (a) in lieu of Lords amendment 36.
+
+Lords amendments 1 to 6, 8, 9, 11 to 35 and 37 to 86.
+
+Andrew Griffith
+I am delighted to speak again to the Bill, following its passage through the other place. I thank my colleagues, Baroness Penn and Lord Harlech, for their expert stewardship of the Bill, as well as the Opposition spokespeople for their generally constructive tone.
+
+Hon. and right hon. Members will be aware that the Bill is a crucial next step in delivering the Government’s vision of an open, sustainable and technologically advanced financial services sector. Members will also recall that this sector is one of the crown jewels of our economy, generating 12% of the UK’s economic activity and employing 2.5 million people in financial and related professional services. Few constituencies will be untouched by those jobs and economic benefits. For example, Scotland benefits from £13.9 billion of gross value added and an estimated 136,000 jobs.
+
+The Bill seizes the opportunities of Brexit, tailoring financial services regulation to UK markets to bolster the competitiveness of the UK as a global financial centre and deliver better outcomes for consumers and businesses.
+
+The Bill repeals hundreds of pieces of retained EU law relating to financial services and gives the regulators significant new rule-making responsibilities. These increased responsibilities must be balanced with clear accountability, appropriate democratic input, and transparent oversight. There has been much debate in this House and in the other place about how to get that balance right. As a result of the considered scrutiny, the Government introduced a number of amendments in the Lords that improved the Bill in this regard.
+
+Lords amendments 32 to 34 require the regulators to set out how they have considered representations from Parliament when publishing their final rules. Lords amendments introduced by the Government require the regulators to report annually on their recruitment to the statutory panels, including the new cost-benefit analysis panels created by the Bill. The amendments also require the Financial Conduct Authority and the Prudential Regulation Authority to appoint at least two members of authorised firms to their CBA panels. This will ensure that their work is informed by practical experience of how regulatory requirements impact on firms. My hon. Friends the Members for North East Bedfordshire (Richard Fuller), for North Warwickshire (Craig Tracey) and for Wimbledon (Stephen Hammond) may recognise that amendment and I thank them for their efforts to ensure that the Bill delivers proper accountability.
+
+Amendments from the Government also provide a power from the Treasury to require statutory panels to produce annual reports. The Treasury intends to use this power in the first instance to direct the publication of annual reports by the CBA panels and the FCA consumer panel. I hope the hon. Member for Blaenau Gwent (Nick Smith) will welcome this as he tabled a similar amendment on Report.
+
+Lords amendment 37 will enhance the role of the Financial Regulators Complaints Commission, which is an important mechanism for raising concerns about how the FCA, the PRA and the Bank of England carry out their functions. The amendment requires the Treasury, rather than the regulators themselves, to appoint the complaints commissioner, significantly strengthening the independence of the role.
+
+In response to a debate in this House, the Government amended the Bill to introduce a power in clause 37 for the Treasury to direct the regulators to report on various performance metrics. On 9 May, I published a call for proposals, seeking views on what additional metrics the regulators should publish to support scrutiny of their work, focused on embedding their new secondary growth and competitiveness objectives. We have already had a number of helpful responses and we will come forward with proposals at pace following the expiry of the deadline next week. To further support that, Lords amendment 6 requires the FCA and the PRA to publish two reports on how they have embedded those new objectives within 12 and 24 months of the objectives coming into force. Taken together, these are a significant package of improvements to hold the regulators to account.
+
+I know that access to cash is an issue of huge importance to many Members on both sides of the House. Representing the rural constituency of Arundel and South Downs, where the constituents are older than the UK average, this has always been at the forefront of my mind during the passage of the Bill. I also pay tribute to the campaigning work done by the Daily Mail and the Daily Telegraph on behalf of their readers as well as by groups such as Age UK and the Royal National Institute of Blind People.
+
+Let me be clear: the Government’s position is that cash is here to stay for the long term. It provides a reliable back-up to digital payments, can be more convenient in some circumstances, and many, particularly the vulnerable, rely on cash as a means to manage their finances. The Bill already takes significant steps forward in protecting the ability of people and businesses across the UK to access cash deposit and withdrawal facilities for the first time in UK law. I am pleased to report that we have gone even further and introduced Lords amendments 72 to 77, which will protect people’s ability to withdraw and deposit cash for free. The amendments will require the FCA to seek to ensure reasonable provision of free cash access services for current accounts of personal customers. This will be informed by regard to a Government policy statement, which I expect to publish no later than the end of September.
+
+Many Members are concerned about the separate issue of face-to-face banking. The FCA already has guidance to firms around the closure of bank branches and I hope that they and the industry will listen to the concerns of Members on behalf of their constituents on that issue.
+
+Many Members across the House will have experienced the disproportionate application of rules requiring enhanced due diligence for politically exposed persons—PEPs. They and their families should not face some of the challenges and behaviours by banks that I have heard about. The Government are taking action to ensure that PEPs are treated in a proportionate manner. Lords amendment 38 requires the Treasury to amend the money laundering regulations to explicitly distinguish between domestic and foreign PEPs in law.
+
+Peter Grant (Glenrothes) (SNP)
+Will the Minister be more explicit as to what the close associates of domestic PEPs might include? Will it include, for example, somebody who has been elevated to the Lords by a former Prime Minister against the advice of the security services?
+
+Andrew Griffith
+In the interests of making progress on this substantial Bill, I shall not be tempted to comment on this further other than to say that I undertake, as I have to many other Members, to look very closely at that issue. For example, if by “associates” we mean either the adult children of people who have no real connection to the business that happens in this House, or family businesses that, again, are not directly connected to those who have put themselves forward for public service, I shall look closely at that. That is why we have tabled the amendments.
+
+Lords amendment 39 requires the FCA to conduct a review into whether financial institutions are adhering to its guidance on the treatment of PEPs, and to assess the appropriateness of its guidance in light of its findings. Together, the amendments will lead to a change in how parliamentarians and their families experience the regime, and I am confident that they will be welcomed by all.
+
+I will now set out the Government’s response to the non-Government amendments made in the Lords. The Bill introduces a new regulatory principle requiring the regulators to have regard to the Government’s net zero emissions target. Lords amendment 7 seeks to add conservation and the enhancement of the natural environment and other targets to this regulatory principle. The Government cannot accept the amendment as drafted, which is very broad and open to interpretation. The regulators must balance their objectives carefully, and they have a very important job to do. At a time when the Bank of England is rightly occupied by getting a grip on inflation, and the FCA is dealing with a range of challenges including working with lenders to ensure that there is support in place for those experiencing increases in mortgage interest rates, we must not overburden them with other considerations, particularly when they are vague or of uncertain relevance.
+
+Philip Dunne (Ludlow) (Con)
+My hon. Friend is making a very clear exposition of the Government’s position on the Lords amendments. On replacing Lords amendment 7 with a Government amendment, will he make it clear, for the benefit of the House and the other place, that his proposal is both effective in law and will give effect to the substance of what their lordships were seeking, which is that nature should be a key responsibility under the Bill?
+
+Andrew Griffith
+I give my right hon. Friend that assurance. This is not about a different destination; the Government have a proud record of action on net zero, on nature and, as we will come on to talk about, on deforestation. This is simply the best mechanism by which we can get from here to there. It builds upon the well-defined targets set in the groundbreaking Environment Act 2021, and in so doing produces something that we think regulators can advance while giving the right clarity to those objectives.
+
+Lords amendment 36 seeks, laudably, to require financial services firms to introduce a due diligence regime to ensure that they do not support illegal deforestation in their activities. I see no fundamental conflict between having a vibrant, competitive, world-leading financial services sector and taking the very toughest approach on deforestation. The House considered a similar amendment from my right hon. Friend the Member for Epsom and Ewell (Chris Grayling) on Report. As I set out then, the Government fully support the intention behind the amendment, but further work is needed to ensure that a practical regulatory framework can adequately address this important topic.
+
+I am grateful for the work of the Global Resource Initiative and in particular for its May 2022 finance report, which directly addresses these issues. The GRI talked about the need to take a staged approach and said that further work would be needed to come forward with a set of detailed standards and due diligence requirements to prevent the financing of forest risk commodities. Any intervention must therefore be scoped in detail and ensure that the UK moves in lockstep with international partners to ensure the true effectiveness of the regime in tackling the scourge of financing illegal deforestation.
+
+The GRI report acknowledged that the well-developed work of the task force for nature-related financial disclosures, TNFD, will be increasingly important, especially as it has now included recommendations on deforestation in its draft standards. That is an organisation that the UK Government support and have provided finance to, and it is supported by the finance leaders of both the G7 and G20.
+
+Philip Dunne
+My hon. Friend is being very generous with his time. Without wanting to pre-empt the work of the Environmental Audit Committee, which is doing an inquiry into the whole subject of financing deforestation and what this country can do, I congratulate him on the amendment he has tabled in lieu of the Lords amendment. I think his amendment will do precisely what our Committee is likely to call for when we report in a few weeks’ time.
+
+Andrew Griffith
+I thank my right hon. Friend for his work and the work of his Committee, and for being so kind as to suggest that we may be anticipating his conclusions—not that I had prior knowledge of them. The important thing, a point made well by my right hon. Friend the Member for Epsom and Ewell, is that we get on and do this from a practical perspective. We have committed to convening a series of roundtables during the remainder of 2023, which will form the basis of a taskforce to drive forward the work of that important review and support the development of clear due diligence standards.
+
+Chris Grayling (Epsom and Ewell) (Con)
+I am grateful for how my hon. Friend the Minister has picked up the agenda and moved forward, following pressure both in this House and in the other place. The key to the taskforce that he is establishing is that it delivers not just a direction of travel but tangible recommendations on monitoring a system of due diligence, in a form that is actionable by the Government and by Parliament. Will he give that mandate to those he puts in to the taskforce for the job that he expects them to do?
+
+Andrew Griffith
+I would love if it “Action” were my middle name. Certainly, my right hon. Friend has that commitment from me and from Baroness Penn, who leads on green finance. The whole purpose of the taskforce is to drive forward action and support the development of clear due diligence standards. That is the important unlocking that we seek. We commit to doing that against a genuinely ambitious timeframe of just nine months following the first relevant regulations under the Environment Act 2021 being made. Those are important, as they are the starting point, but we will not sit idly by; once the Bill receives Royal Assent, that work can happen quickly. I pay tribute to him for his consistent work in this area and for raising the matter throughout these debates, and I hope he recognises the Government’s dedication to tackling illegal deforestation through our amendment.
+
+18:15:00
+
+Finally, I will speak to Lords amendment 10. The Government of course support targeted action on financial inclusion, such as the unprecedented action we have taken in this Bill to protect free access to cash. However, we do not feel we can support this amendment. It would not be appropriate to change the regulators’ objectives, which are central to the way financial services operate in the UK, at short notice—this amendment came late in the stages of the Bill—and without the appropriate consultation. Doing so would expose the firms regulated by the FCA to uncertainty.
+
+Financial inclusion is a much broader social policy issue, and the FCA confirmed in its evidence to the Bill Committee, on which I and the hon. Member for Hampstead and Kilburn (Tulip Siddiq) sat, that it feels it is already able to take action to promote financial inclusion, where appropriate, within its existing remit. Furthermore, the FCA’s new consumer duty comes into force in just a few weeks’ time, on 31 July. The duty seeks to set a higher and clearer standard of care that firms owe their customers, and includes a new principle requiring firms to act to deliver good outcomes for customers. It is important that the sector is given the opportunity to embed those profound new requirements and that time is taken to consider their effectiveness. I therefore ask the Opposition to join me in giving the sector that time, and I and hope that the House will accept the Government’s motion to overturn Lords amendment 10.
+
+This Bill and the Government’s amendments made in the Lords make important changes to ensure that the legislation delivers the Government’s ambitious vision for the future of the UK’s financial services sector and reflects the comprehensive scrutiny of the Bill in both Houses. I hope the House will approve the Government’s motions.
+
+Tulip Siddiq (Hampstead and Kilburn) (Lab)
+I thank the Lords for their work in considering this important Bill. In particular, I thank Lord Tunnicliffe, Lord Livermore and Baroness Chapman, who led for the Opposition in the relevant debates. I also put on record my thanks to the Minister and his office for briefing me and my office in good time on the Government amendments.
+
+The Labour Party supports the various amendments tabled by the Government in the other place; they represent an important step in supporting the City to take advantage of opportunities outside the EU, whether that is creating a welcoming environment for fintech or unlocking capital in the insurance industry for investment in infrastructure through the reform of Solvency II. In particular, we welcome Lords amendments 6, 11 and 16 to 25, which strengthen the accountability of the FCA and the PRA.
+
+This Bill facilitates an unprecedented transfer of responsibilities and powers from retained EU law to the regulators. We recognise that in this new context it has never been more important that the FCA and the PRA are appropriately held to account by democratically elected politicians. That is why Lords amendments 16 to 23 are so important to ensure that Parliament can take full advantage of the expertise in the other place when assessing the effectiveness of regulators.
+
+However, accountability cannot be left to Parliament alone. That is why we support the principle behind Lords amendment 11, which will require the regulators to set out the process for how consumer groups and industry can make representation to review a rule that they believe is not working. We must ensure that regulation works for both consumers and the financial services sector. We also support Lords amendment 6, which will require the FCA and the PRA to report after 12 and 24 months on how they have complied with their duty to advance the secondary competitiveness and growth objective. However, as I am sure the Minister will agree, that new requirement must not detract from the regulator’s primary duties of promoting financial stability and consumer protection. As the banking turbulence of recent months has reminded us all, the success of the City depends on the UK’s reputation for strong regulatory standards.
+
+I turn now to Lords amendments 72 to 77. I am delighted that, after months of voting against Labour’s amendments to protect free access to cash, the Government have finally U-turned. I congratulate in particular my hon. Friend the Member for Mitcham and Morden (Siobhain McDonagh) on all her tireless campaigning on that topic. It was her determination that got us over the line.
+
+If you will indulge me for a minute, Madam Deputy Speaker, I wish to send my condolences to my hon. Friend. I pay tribute to her sister, who was the first female secretary-general of the Labour party and an inspiration to many young women across the party.
+
+Lords amendments 72 to 77 are especially important because they will ensure that millions of people across the country who rely on free access to cash will not be cut off from the goods and services that they need. However—the Minister will have anticipated this—I am disappointed that the amendments will do nothing to protect essential face-to-face services. Analysis published by consumer group Which? found that over half of the UK’s bank and building society branches have closed since January 2015—a shocking rate of about 54 closures each month—which risks excluding millions of people who rely on in-person services for help with opening new accounts, applying for loans, making or receiving payments, and standing orders.
+
+Alison Thewliss (Glasgow Central) (SNP)
+The hon. Lady is making an excellent point on bank closures. Even in urban constituencies such as mine, banking closures are forcing people into the city centre to get their cash. The Albert Drive branch in Pollokshields is the latest closure proposed by the Bank of Scotland. Does she agree that such closures are very difficult for many communities to bear?
+
+Tulip Siddiq
+It is a similar story across my constituency. A Labour Government would give the FCA the powers it needs to protect essential in-person banking services, which would help a lot of the constituents the hon. Lady is talking about.
+
+To be clear to the Minister, Labour is not calling for banks to be prevented from closing branches that are no longer needed. We recognise that access to face-to-face services could and should be provided increasingly through banking hubs, be they delivered at the post office, in shared bank branches or by other models of community provision. But so far, only four hubs—I repeat: only four—have been delivered. [Interruption.] The Minister is indicating that there are six, which I do not think is a massive improvement, but I will take it. Six banking hubs have been delivered, about which he seems very proud. Figures from LINK reveal that only a further 52 hubs are in the pipeline. On top of that, many of those planned banking hubs will not even provide the essential in-person services that I am speaking about, so although we welcome the progress made in Lords amendments 72 to 77, there is a lot more to do to ensure that no one is left behind.
+
+I am disappointed that the Government have decided not to back Lords amendment 10 on financial inclusion, for which my hon. Friend the Member for Kingston upon Hull West and Hessle (Emma Hardy) has been a powerful advocate. The amendment is an important opportunity to rethink fundamentally how financial resilience, inclusion and wellbeing issues are tackled in the UK, and to empower the FCA to confront issues such as the poverty premium—the extra costs that poorer people pay for essential services such as insurance, loans or credit cards.
+
+Although I agree with the Minister that financial inclusion is a broader social policy issue, I do not believe that that is a legitimate argument for rejecting the Lords amendment fully. As the Treasury Committee found it its report last year:
+
+“The regulations made by the FCA, and the manner in which it supervises and enforces those regulations, could have a significant impact on financial inclusion”,
+
+such as restricting the practice of charging the poorest in society more for paying insurance in monthly instalments. That is why the Labour party will vote for Lords amendment 10.
+
+Finally, I will address Lords amendment 5 on sustainability disclosure requirements, and the Government amendments tabled in lieu of Lords amendment 7 on expanding the regulatory principle on net zero emissions, and in lieu of Lords amendment 36 on forest risk commodities. We welcome once again that the Government have finally U-turned and acknowledged concerns that our regulatory system must play a role in protecting nature and ending deforestation. However, as I am sure the Minister will agree, that can only be the first step in ensuring that the transition to net zero and the protection of nature are primary considerations across the financial system. The Treasury’s review of deforestation must be meaningful and put forward concrete proposals. The Government cannot continue to kick the can down the road.
+
+Similarly, although we welcome the new requirements in Lords amendment 5 for the FCA and PRA to have regard to the Treasury’s sustainability and disclosure requirements policy statement, we have been calling on the Government to move on that for months. Even now, the Government have yet to confirm the date on which the sustainability disclosure requirements will be introduced. We need clear timing and direction so that we give businesses the confidence to invest and do not undermine their certainty.
+
+The Labour party will support the amendments. As I am sure the Minister knows, I will continue to hold him to account on his actions regarding green finance, financial inclusion and in-person banking services.
+
+Dame Andrea Leadsom (South Northamptonshire) (Con)
+May I start by sending my condolences to my fellow Treasury Committee member, the hon. Member for Mitcham and Morden (Siobhain McDonagh)? Her sister will be greatly missed by Members across all parties.
+
+I am delighted at the Bill’s progress. I congratulate my hon. Friend the Minister on all his work in taking into account the views expressed across the House. Of course, the existence of the Bill is a huge Brexit dividend in itself, enabling us to deregulate while strengthening financial services in the UK, which is in the top two financial services sectors in the world and creates up to 2 million jobs right across the UK.
+
+So far, the Treasury Committee has proven to be a good overview body for the financial services and markets regulation that is coming back to the UK. That Committee has done a great job, and I can say that without appearing to boast because I was not on the Committee when it did that scrutiny. We have done a good job, and the Treasury Committee will continue to be the right place to provide the scrutiny and checks and balances that will always be needed in the financial services sector.
+
+I point out, however, that their lordships need carefully to consider their approach to the Bill. Far from enabling us to seize the opportunity and recapture the initiative, they seem to be trying to over-burden the regulators, pinning them down with reports and further obligations and duties that would militate against the UK continuing to be one of the most successful places on earth for financial services.
+
+Peter Grant
+As a counter to that point, is the right hon. Lady as concerned as I am about the fact that, as well as being a successful breeding ground for financial services businesses, the United Kingdom is now seen worldwide as one of the best places to commit financial fraud?
+
+Dame Andrea Leadsom
+The hon. Gentleman raises an extremely important issue. He will know that huge efforts are being made to clamp down on financial fraud. It has been an insoluble issue over many decades, and of course, with advances with technology and so on, scammers and financial fraud continue to be a big problem, but that does not detract from the fact that the UK is hugely successful in financial services. I predict that the UK will also be hugely successful in green financial services around the world, enabling the net zero transition to take place using UK expertise and exports in that crucial area.
+
+I was delighted to see the new competitiveness and growth objective, and that the PRA and FCA will be required to provide reports on how well it is being addressed. The Treasury Committee has taken evidence from both organisations, which welcome the opportunity to focus not just on stability but on how it affects our competitiveness around the world. That is important and represents a big opportunity for UK plc.
+
+The complaints function is a great initiative that will definitely address the absolutely valid concerns of so many constituents across the UK about the poor behaviour in some of the responses to inquiries led by the FCA or the PRA. That independent, Treasury-led complaints function will be very important.
+
+It is vital that my constituents in South Northamptonshire can have access to cash, so I am delighted that an obligation to ensure that that remains the case will be enshrined in this legislation. I share the concerns of the hon. Member for Hampstead and Kilburn (Tulip Siddiq) about the closure of banks. The Government initiative to create a new arrangement for post offices to provide “the last bank in town” services was a good one. I wonder whether over time we can expand that, because the loss of banks continues to be a big issue.
+
+18:30:00
+
+Finally, I want to raise the issue of politically exposed persons, which I am glad the Bill is addressing. There are enough drawbacks to taking on a life of public service without them being added to by finding that our adult children—as is the case with my kids—struggle to open a bank account on the grounds of having a mother who is in politics. That really is not fair. The Government need to do everything possible to ensure that the very real need to protect politically exposed persons does not extend to their offspring, who have got absolutely nothing to do with it. Overall, I think this is an excellent Bill, and I look forward to supporting the Government.
+
+Madam Deputy Speaker (Dame Eleanor Laing)
+I call the SNP spokesman.
+
+Peter Grant
+As has been said throughout the passage of the Bill, our chief concern has always been that too many provisions in it do not go far enough. I am pleased to say that the other place has tightened up some aspects of the Bill. It is disappointing that this evening the Government seem determined to oppose some amendments that could have addressed more of our concerns and, in at least one case, seem determined to make an amendment that makes things even worse.
+
+In the interests of brevity, I will not go through all the Lords amendments that the Government are happy to accept; I ask Members to take those as read. The first Government proposal that I have some concern about is their motion to disagree with Lords amendment 7. I appreciate that they have tabled alternative amendments, which they might think say pretty much the same thing or better, but Lords amendment 7 explicitly refers to targets set by any of the UK’s national Parliaments. They are not mentioned anywhere in the Government’s amendment (a) in lieu. I hope the Minister can explain why the Government are opposed to giving targets set by the devolved nations of this Union of equals the same status as those set in this place, because some of those targets and activities will relate to responsibilities that are explicitly devolved to one or more of the other nations of the United Kingdom. It does not seem very equal that some Parliaments can have their targets effectively regulated and others cannot.
+
+I do not have any issue with Government amendments (b) and (c) in lieu of Lords amendment 7, although it seems strange that they have been tabled as alternatives, because they are entirely compatible with it. In fact, the Government could quite easily have tabled them in the Lords at the time.
+
+As was said by the Opposition spokesperson, the hon. Member for Hampstead and Kilburn (Tulip Siddiq), Lords amendment 10 is a good amendment. I do not understand why the Government want to take it out. Are they against financial inclusion? If they think that financial inclusion is a good idea but that this amendment is not best way to pursue it, I would remind them that they have had months to come up with a better amendment. “Take it back, don’t agree it just now, and we promise to bring something back in the near future.” However, we have been promised effective measures on financial inclusion since before I was a Member of this place, but it has not happened yet, and the problem is getting worse all the time.
+
+To answer the right hon. Member for South Northamptonshire (Dame Andrea Leadsom), it is all very well for the Government to find ways to make post offices the last bank in town, but they are being shut left, right and centre as well, so there is no long-term protection for access to cash, especially in our poorest and most deprived communities, of which I represent more than my fair share. It is no comfort to them to be told, “The bank has closed, but you can use the post office,” if, as I have seen happen literally at the same time, the Post Office is saying, “We’re going shut the post office, but you can still use the bank.” That does not give any protection or comfort whatsoever.
+
+Lords Amendment 36, on illegal deforestation and so on, is also a good amendment that we would have supported. We are willing to accept the Government alternative as an improvement in some regards. The biggest concern we have—it is one on which we would very much want the opportunity to give the House the chance to express its will this evening—is about one of the crazy ways in which this place deals with things, especially once legislation has been back and forth between here and the Lords. If this House wanted to disagree with Lords amendment 38, as I think quite a few of us will, we will not be allowed to do that unless the debate finishes within three hours. The ability of the democratically elected House of Commons to scrutinise and perhaps overturn a decision taken by the undemocratic, unelected House of Lords along the corridor therefore depends on how many people want to speak, how long they want to speak for, and how fast they want to talk.
+
+Lords amendment 38 is about politically exposed persons and the way they are risk-assessed in relation to money laundering. It makes a very broad assumption about the amount of due diligence that needs to be exercised to prevent money laundering in the case of a politically exposed person from the UK—someone who, in the words of the amendment, is
+
+“entrusted with prominent public functions by the United Kingdom”.
+
+The assumption is that they are always less of a potential money laundering risk, as are their family and “close associates”, whatever that means. That is far too broad and sweeping an assumption.
+
+I do not have an issue with any regulation being worded in a way that is proportionate to the risk, and I can understand the attraction of being able to designate some individuals as less of a risk than others, but this exemption is far too sweeping. What do we mean by “entrusted with prominent public functions”? As we all know, we have had very recent examples of people who were entrusted with the most prominent public function of all—the office of Prime Minister—turning out to be totally untrustworthy. How do we define a “close associate”? Would, for example, Evgeny Lebedev have been regarded as low risk simply because he could accurately have been described as a close associate of the then Prime Minister, who himself has turned out, as the House now agrees, to have been untrustworthy? When is a close associate not a close associate?
+
+Chris Grayling
+I want to probe a little on this. Would the hon. Gentleman classify somebody who, for example, gave a parking space to a camper van as a close associate?
+
+Hon. Members
+Aah!
+
+Peter Grant
+I think that both that intervention and the muttering from a sedentary position on the Treasury Bench give an indication of just how seriously this Government take money laundering. Perhaps we can all speculate as to the reasons why.
+
+We are not against the idea that any regulation should be applied proportionately, but it is too sweeping a generalisation to say that, because of someone’s job or who they know, they somehow become less of a risk. Let me give just one example. Would Baroness Mone of PPE Medpro have been regarded as being at low risk of anything because she was a Member of the House of Lords and a one-time Government envoy?
+
+Mr Deputy Speaker (Mr Nigel Evans)
+Order. I gently remind the hon. Member that we are not allowed to directly criticise Members of the House of Lords by name.
+
+Peter Grant
+I stand corrected, Mr Deputy Speaker. Unless I said more than I intended to, I think I was asking a question; I was not expressing an opinion.
+
+Let us not forget that over the last 10 to 15 years a huge amount of dirty money from Russia and other former Soviet republics has been laundered into the United Kingdom by people who, at least financially and in terms of their donations, were very closely associated indeed with leading politicians. It has to be said that, had Putin not carried out a second invasion of Ukraine last year—if he had been satisfied with the original illegal activity in Ukraine 2014—that money would probably still be coming in, because the Government only moved in a big way on dirty Russian money after the second invasion of Ukraine. They did not do anything, or anything like enough, in 2014 or afterwards, so we have to ask whether they are really serious about cutting off this dirty Russian money at source and handing it back to the people that it was originally stolen from.
+
+I thought it was quite interesting that the Minister said that it was a bad idea to agree Lords amendment 10, to improve financial inclusion, at such a late stage, when the Government are happy to accept Lords amendment 38, to weaken our defences against money laundering, at the same late stage. That may give an indication of what the priorities might be of people who wield a lot of influence over the Government—maybe not the Minister’s own priorities.
+
+As I have said, we in the SNP continue to support the Bill. Our concerns on almost all counts have been in areas that did not go far enough, such as the accountability of the regulators—the Financial Conduct Authority, for example. My issue is that the regulators have not been held properly to account for the myriad times they have failed to regulate and have simply not protected the public and investors. Other authorities have not protected pensioners. We can look at Blackmore Bond, London Capital and Finance, Premier FX, the British Steel pension scheme, the AEA Technology pension scheme, and hundreds of other financial scandals that were allowed to happen—or certainly allowed to happen as badly as they did—because the regulators did not do the job they were set up to do. They should be held accountable to this place and to the public for their failures to regulate. I am concerned that if we tie them up with too much regulation about how they regulate, and if they are worried about being dragged into Parliament or politically overruled when they do regulate, there is a danger that they will start to lose their independence from political interference, without which no regulator on these islands can ever be effective.
+
+It is disappointing that the Government seem determined to reject some Lords amendments that would have made the Bill better, and to push through at least one that will significantly weaken it. It would be sad indeed if this elected Chamber were not allowed to express its will on whether amendment 38 makes the Bill better or worse. I for one believe that it makes it worse, and I hope we will be able to divide the House on it tonight.
+
+Chris Grayling
+I find it slightly ironic that I am following an SNP spokesman demanding more action on financial fraud, but there is always a place for a bit of amusement in the House. I will focus my remarks on the issue of deforestation.
+
+Peter Grant
+I am absolutely confident that the Scottish National party Westminster group will submit clean audited accounts to the Electoral Commission before the deadline. Is the right hon. Gentleman aware that the Conservative party parliamentary group will not?
+
+Chris Grayling
+I think I may have touched a slightly raw nerve there, Mr Deputy Speaker.
+
+First, I am personally grateful to the Minister, who has been extremely responsive on an issue that is crucially important, not just to the future of this country but the future of our planet. The loss of forest cover around the world—cleared for the growing of soy, the planting of palm oil plantations and beef cattle ranching—has been ecologically disastrous for the planet. Of course, in many of those areas, it has not created sustained agricultural land, but land that has been used for a few years and is now lying semi-derelict.
+
+One of the great challenges for us as a planet is to restore some of the land that has been lost and replant some of the forest that has been lost, but we cannot tackle this problem unless we bring it to a halt now, and in many parts of the world, there are still real issues with illegal deforestation to produce those products. As a Government, we have already taken steps that I think are pathfinders: the introduction of the Environment Act 2021 has set a path for dealing with forest risk products, particularly in the supply chain and our retailers. That was a positive step that I think will make a real difference, and I look forward to seeing that process completed through the secondary legislation that identifies the individual products we are tackling. Through his amendments, the Minister has clearly set that as a starting point for financial services as well.
+
+However, there is now a broadening consensus about the need to extend the due diligence provisions that we have introduced for the retail sector to financial services. The financial sector is lending money to, investing in, and doing bond issues for international businesses that have sometimes done a good job of monitoring their supply chains, but other times simply do not do enough to protect the products they are sourcing from the risk of illegal deforestation. The Minister may reference the Global Resource Initiative work led by Sir Ian Cheshire, who has been a great champion of this issue, and the Minister was very right to have been willing to pick up the initiatives set out in that report.
+
+It is also something that is increasingly backed by the financial sector itself. I do not believe there is any contradiction between a successful financial services sector and proper responsibility in key areas such as deforestation, and we now see that the GRI report and the direction of travel set out in Lords amendment 7 is attracting support from institutions, including well-known ones such as Aviva, that amount to nearly £3 trillion of funds under management. The support is there, and I am grateful to the Minister for picking up that initiative and being willing to run with it. My request of him is not simply that we get on with it; we need to ensure that what he has announced today does not end up as just another review. Governments have review after review—not all lead to action. I take the Minister at his word that he will make this a process of action, rather than simply a further stage of looking at the issues again.
+
+18:45:00
+
+In particular, we need two things. The first is a framework for that due diligence: what do we expect the companies to actually do? My view is that they already do due diligence when they make investments. They check the solvency of the people they are lending to and all the different issues around the terms of the loan. This due diligence is an extra part of something they already do, rather than a completely new departure, but we need to set out in detail for the institutions that will be using the rules exactly what is expected in that due diligence.
+
+We also need to establish exactly how those institutions will be held to account. I do not want a vast extra layer of bureaucracy; I want simple mechanisms that do not penalise the good guys who are doing the right thing, but that drive institutions to identify and deal with those who are not. Often, rules and regulations simply make life more complicated for the people who are doing the right thing, rather than tackle the people who do not do the right thing.
+
+I very much welcome the amendments that are before the House tonight. I would have been pleased to see Lords amendment 7, which I tabled in the Commons on Report, included in the Bill as well, but the Minister has responded very promptly, very well and very thoughtfully on that issue. Taking all the steps that we can to prevent illegal deforestation is something that should unite us across the House. If we can create a financial services sector in London and across the UK that is an exemplar for the world, I think others will follow and we will make a real difference to the planet. As such, I am grateful to the Minister, and I am delighted to see these amendments before the House tonight.
+
+Nick Smith (Blaenau Gwent) (Lab)
+I rise in support of Lords amendment 27. First, I thank the Ministers in this House and the other place for this important concession. I also express gratitude to those Members from all parties in this House and the other place who supported my campaign on this matter. We are all glad that there will be a mechanism for greater parliamentary oversight of our financial services regulators. The specialist insight from statutory panels on the performance of regulators will be invaluable, particularly on the Financial Conduct Authority’s fulfilment of its all-important consumer protection objective.
+
+To help take things further, I hope to meet the chair of the FCA consumer panel shortly. I will explain why the FCA’s handling of the British Steel pension scheme in 2017 was so very disappointing. It is simple: the FCA faced the City of London, not the homes of vulnerable steelworkers in Ebbw Vale, Port Talbot and Scunthorpe. As parliamentarians, we found it hard to influence the dilatory regulator in support of our steelworker constituents, who deserved much better protection against the financial sharks.
+
+Having said that, amendment 27—in addition to the FCA’s new consumer duty—makes me a little bit hopeful that we will encourage the FCA to become more outward looking and capable of adapting to the changing needs of Britain’s consumers. I am more optimistic that there will be a different way of working; that oversight and scrutiny will be embraced; and that scandals such as the British Steel pension scheme will not happen so easily again.
+
+However, our fight for the proper protection of consumers does not stop there. I declare an interest: the Labour Treasury spokesperson in the other place is my wife, Baroness Chapman. I will speak in support of Lords amendment 10, which she moved in the other place. Financial inclusion is crucial to the regulation of financial services, so I urge the Government to reconsider their opposition to that amendment. The design, marketing and administration of financial products and the quality of financial advice have a direct impact on whether vulnerable groups are properly included in our financial system.
+
+Just last week, I met steelworkers who, once bitten, were twice shy about what to do next with their pension pots. They are smart and highly skilled, yet understandably they do not have the financial knowledge nor the right impartial support on their investment needs. Across our country, there is still the danger of millions like them being at risk of exploitation by bad actors in the financial sector. Financial inclusion should therefore be at the forefront of our regulatory framework. After all, consumers are our financial services sector. They need to have confidence in a regulatory framework that prioritises them and faith in our financial sector.
+
+Duncan Baker (North Norfolk) (Con)
+I rise to support the Bill, and primarily to speak about access to cash and, therefore, my support for Lords amendments 72 to 77.
+
+I have spoken many times in this place about banking provisions. I brought in a ten-minute rule Bill, the Banking Services (Post Offices) Bill, which the Government did not in the end take up. I have said time and again in this place that the UK is not ready to go cashless. That is why I am particularly pleased with the provisions in this Bill. The reasons for that are manifold. The elderly, the vulnerable and particularly those living in rural locations such as mine of North Norfolk simply rely on cash, and I think I can speak for many Members in the Chamber on that. If Members do not believe me, they have only to look at what the access to cash group said in its research, which is that 5 million adults would struggle without access to cash, and those are often the people on the lowest incomes and the tightest budgets.
+
+Robin Millar (Aberconwy) (Con)
+My hon. Friend can add to that list residents in my constituency of Aberconwy who have seen the banks withdraw, first from the market towns and towards the coast, and then from coastal towns along the coast—a withdrawal only matched by their move online. Does he agree that this is a good move by the Government, and that it will be welcomed by many people specifically because it retains access to cash for those in societies, communities and demographics for whom cash is a crucial part of their everyday lives?
+
+Duncan Baker
+I am very happy to agree with my hon. Friend, but I want to go even further. Particularly in the rural and coastal areas he mentions, which is indeed the case with North Norfolk, access to cash is just not good enough. Yes, there are the provisions in the Bill, but we have to go even further. That is why I want to talk about the disgraceful attitude of the banks and what we can do about this through the advent of banking hubs.
+
+Since 1988, some 14,000 bank branches have shut across the United Kingdom. There are only approximately 6,000 left, and what is even more worrying is the acceleration with which they are being shut. We heard the shadow Minister, the hon. Member for Hampstead and Kilburn (Tulip Siddiq), say that 54 branches continue to be closed every single month, and that accelerating trend is a particular worry. In my view, there is an absolute lack of corporate social responsibility from the big banks. Given that the UK taxpayer bailed them out in 2008 with such a high number that it is extremely difficult to ascertain what it is—in some cases, it was up to £1 trillion—I think it is particularly poor not to give a hoot about the people affected in these communities.
+
+In my constituency, Lloyds bank, which announced about a month ago that it was going to embark on another wave of closures, is going to close not just one bank branch, but two. I cannot even begin to put into words how upset my constituents are about that, and I have had countless emails. Both at Cromer, which is on the north Norfolk coast and is visited by many thousands of tourists, and further inland at North Walsham, people will suffer a Lloyds bank closure and be left with one bank in the town.
+
+Sara Britcliffe (Hyndburn) (Con)
+Does my hon. Friend agree that when we question why the banks are closing and ask them for evidence, some banks supply evidence from during the pandemic, when obviously banks were closed and not many people were able to access them?
+
+Duncan Baker
+My hon. Friend makes an extremely important point. So much of this research has been conducted during a window when, of course, footfall was incredibly low because the pandemic meant we were not able to go out and use our high streets in the same way. I think they have used that data to help extrapolate the views and opinions they want, and they then go on and close branches. That goes to the root of what they are doing.
+
+These branches are simply saying, “Don’t worry. You can go online. Oh, there’ll be a community banker to help you. Of course, you can then go and use your local post office.” We know that, in so many communities up and down the land, that just is not appropriate. To take my constituency, I have the oldest cohort of individuals in the entire country: one third of people are over the age of 65. In some coastal towns, the vast majority of my constituents cannot go online, because in many cases they are in their 70s or older and such suggestions are just not appropriate. How can communities of 8,000 people in Cromer and of 13,000 people in North Walsham be left with one bank? The other point not taken into consideration is the expansion of these towns. Under the local plan, North Walsham will see at least another 2,500 homes built over the next decade. The banks take no account whatsoever of the increase in population, and therefore do not factor that into their numbers.
+
+Banking hubs are often given as one answer. Of course, there are others. There is a notable case in Frome in Somerset, which is a similar scheme to a banking hub but is slightly different, and that was also reasonably successful. The big issue with all of this is the regulations on how to get a banking hub. I think we can already see that this is not working as well as it should if only six have opened so far. The criteria include that people have to wait until the last bank in town shuts before they are eligible to have a hub. To me, the rigidity of that structure does not work. We have different sized towns, different sized populations, different age cohorts and towns that are miles away from the nearest bank, so how on earth can certain towns be using that rigid structure? It does not seem right to me. I ask the Minister to keep under review how the banking hub solution, which is being run in conjunction with Link, is being operated. It seems that it is not working well.
+
+The Minister is a really good man. He has met me many times to talk about this issue, and he is certainly in listening mode. He could do a lot worse than dusting off my old Banking Services (Post Offices) Bill and having a look at it. The principle in that Bill was to look at the post office network—it has an 11,500-strong footprint—which I do not think we invest in enough. Instead of having a sweetheart deal between the Government and the banking institutions, let us regulate this with proper legislation saying that we will use our post office network and invest in it as the real future for banking. So many post offices could be banking hubs. It would give real solidity to the market and help many hard-working postmasters know what their future will be.
+
+Finally, the Department for Levelling Up, Housing and Communities is sitting on £150 million in the community ownership fund. Why can we not have a special provision as part of that to give planning permission to buildings that can be used as banking hubs? Again, we could further accelerate the roll-out of these hubs. There is a bit of food for thought there, but I now want to close my remarks. I thank the Minister for listening, but please will he look at our banking hubs and the way they are working? I think we can do a much better job of it.
+
+Sara Britcliffe
+I agree with everything my hon. Friend the Member for North Norfolk (Duncan Baker) said.
+
+I rise to speak in favour of amendments 72 to 77 on provision for access to cash. I, like many of my colleagues in this Chamber, understand the need of my constituents to have continued access to cash. This demand is concentrated in, although not exclusively restricted to, more disadvantaged groups who may still use cash for budgeting reasons or because they are not technologically literate.
+
+That is why I have campaigned on this. In my constituency of Hyndburn and Haslingden, the number of free-to-use ATMs has fallen by nearly 40% since January 2021. Also, some towns in my constituency, including Great Harwood, have seen all their high street banks close, severely limiting access to cash compared with even a few years ago.
+
+7 pm
+
+We all understand the challenges. I have met with banks in my constituency and companies like LINK, and I am well aware that the long-term trends in digital payments and card payments are only going one way. But I strongly believe that even in the face of that evidence, we need to protect those individuals and businesses that still use cash.
+
+I was a local business owner in Oswaldtwistle and we had to run between local businesses just to make sure we had the change we needed to run them. This is therefore very important, especially when the post offices close, which happened in Oswaldtwistle. We must make sure that provision is still in place and is easily accessible, especially for the older residents who live in all our constituencies.
+
+Recently, I have been talking to businesses in Great Harwood, where all the high street banks have closed and the impact of the lack of ATMs is severe, especially if a business is cash-only or its card facilities are down. I am speaking to LINK and trying to get a banking hub in Great Harwood, and I am feeding in the issues facing local businesses, some of whom must travel out of the constituency to Blackburn or to Mr Deputy Speaker’s patch of wonderful Ribble Valley.
+
+That is why I welcome the Chancellor accepting the Lords amendments on free access to cash. Having spoken to people across my constituency, I know how important that is. It is great to see the Government standing up for those who would struggle were the stark decline in cash access to continue.
+
+I thank the Minister for his engagement throughout the process. I warmly welcome Lords amendments 72 to 77.
+
+Alun Cairns (Vale of Glamorgan) (Con)
+It is a privilege to have an opportunity to contribute on the amendments made in the other place. I want to speak briefly about the accountability and scrutiny of the regulators, and the crypto and digital assets recognition in the Bill.
+
+Chapter 3 refers in general to the accountability of the regulators and amendments 6 to 9 refer to the obligation to promote growth. The amendments are extremely important and I welcome the Government’s response to them and their setting the tone in accepting and working with such changes early on. International competitiveness is important for all our constituents. As Members have said, it is inevitable that consumer-focused elements in social media drive campaigns that rightly receive attention in the broader media, forcing change from regulators and established institutions, but the regulator must also strike a balance to ensure that businesses and the industry itself are internationally competitive. This is an important sector to the UK economy. As the Minister said in his introductory remarks, all constituencies will be affected by the Bill. There will be hardly a constituency that does not have someone employed in the sector, so amendments 6 to 9 on international competitiveness are important in striking the right balance between consumer demands for cash and ensuring that the sector is competitive so as to be sustainable over the long term.
+
+Scrutiny and accountability of the regulators are also important. My right hon. Friend the Member for South Northamptonshire (Dame Andrea Leadsom) complimented the Treasury Committee, and it is important to do so, but Select Committees have limited capacity to scrutinise the role of all regulators on all occasions. I should probably declare an interest as a member of the regulatory reform group that is working to reform the approach that regulators take, hence my comments on the international competitiveness of sectors in general. The regulatory reform group has highlighted that there could be a role within Parliament for a Joint Committee to scrutinise the activities of regulators, to ensure that measures such as the clauses on international competitiveness are lived up to and met.
+
+Has the Minister formed a view about how the scrutiny referred to in the Bill can best be achieved, because clearly that will be not in the Bill but in regulations thereafter? It is up to the House to decide on how best to scrutinise this, but the Joint Committee as suggested by the regulatory reform group is a good starting point for the debate. Does the Minister recognise that there is a strong need for additional parliamentary scrutiny of the regulators, and not only in financial services, although this Bill enables him to comment on that sector? It is good to see that my hon. Friend the Member for Wimbledon (Stephen Hammond), who also sits on the regulatory reform group, is present. Brexit has provided a great opportunity to deliver for many of our constituents, but it can only do so if the regulators take a different, more proactive and positive approach to supporting industries, rather than, as some might say, restricting them, in addition to the excellent work done by the Treasury Committee and other Select Committees thereafter.
+
+I turn to chapter 2 generally and clauses 21 and 22 and clause 65 referring to cryptoassets and digital assets and distributed ledger technology, or stablecoins as others would refer to them. The Minister will be aware that I have raised cryptoassets and digital assets on a number of occasions and called for strong direction. I pay tribute to the Government, as the Bill gives the framework for a clear policy direction so that regulators can rightly support and offer confidence to those getting involved in the sector. This is also an opportunity to start delivering on some of the calls made in the Kalifa review and to provide the certainty that many seek as they research cryptoassets, digital assets and distributed ledger technology. When can we look forward to the strong policy direction that we need to ensure that the UK is ahead of the curve in this sector and repeats the fantastic success that the fintech sector has had as a result of the clear policy direction and framework given in the past?
+
+Stephen Hammond (Wimbledon) (Con)
+As many colleagues across the House have said, the Bill addresses one of our most important industries and therefore is one of the most important Bills we will be considering in this Session. At the outset the Government said their aim with the Bill was to make UK regulation appropriate and proportionate, to be internationally competitive, to boost growth and to enable better outcomes for consumers and business, and those themes come through strongly in the Lords amendments. I should have said at the outset that I refer the House to my entry in the Register of Members’ Financial Interests.
+
+It was a pleasure to serve on the Bill Committee, which the Minister conducted in a constructive way, listening to a number of comments about accountability and transparency, which I shall come on to later. In Committee we spent a lot of time discussing financial inclusion, and the hon. Member for Glenrothes (Peter Grant) was critical of the Minister and rejected the proposal for having arrived late. Actually, that guard for financial inclusion is already in the substance of the consumer duty being digested and implemented by the FCA. Much as I am sometimes cautious about what a regulator says, the fact of the matter is that the regulator says that it has those powers already.
+
+I will not detain the House on the work that the Minister has done on deforestation, because my right hon. Friend the Member for Epsom and Ewell (Chris Grayling) has spoken about that more eloquently. I ask the House to think carefully and to support the Government’s amendments in lieu on the net zero objective, because the amendments in lieu sensibly ensure not only that the Bill builds on the Climate Change Act 2008 and the Environment Act 2021, but that regulators consider the exercise of their functions “relevant” to the making of such contributions. At I said at the outset, the Government intended the Bill to be both appropriate and proportionate, and for regulators conducting functions in this area, “relevant” seems to be a key point.
+
+The Minister will know that throughout Committee, I was keen to discuss the secondary competitive objective and ensuring transparency and accountability. Throughout Committee, my hon. Friend the Member for North Warwickshire (Craig Tracey) and I raised issues about membership of panels, metrics and the need for reports, and I congratulate the Minister on listening, because, with some of the amendments that he proposed on Report and the tranche of Government amendments coming from the Lords, the Bill has a lot of good. Much as I agree with my right hon. Friend the Member for Vale of Glamorgan (Alun Cairns) that a Joint Committee of the House to scrutinise and hold the regulator transparent would be the perfect solution, I do not think we should let perfect get in the way of good, and there is a lot of good in this Bill, particularly with a number of the amendments that create a need for a report. I also congratulate the Minister on looking at the membership of panels. Far too often, there is a temptation of regulators to mark their own homework, and we must ensure that does not happen if the regulator is to be accountable and, therefore, regarded as effective.
+
+It is clear that the secondary objective is a secondary objective, but if we are to have a thriving financial services industry in the future, this jurisdiction must enjoy international confidence and be internationally competitive. It has been said any number of times, but the costs of becoming a new entrant—with new applications, in some cases—are 14 times more than in other jurisdictions. That cannot be right. The movement in this Bill to sort that out and place a burden on the regulator for international competitiveness is key.
+
+My final point, the Minister will not be surprised to hear, is that I am pleased to see what amendments 37 and 38 do. They seem utterly sensible and in line with the need, first, to be transparent, as in amendment 37, and secondly, to be appropriate and proportionate, as in amendment 38. When the Government produce the secondary legislation, I am keen that they define carefully the metrics for how the reports that the regulator produces are judged, to consist of operational effectiveness, the health of the market and the regulatory burden, as well as international comparisons, because that will be the key test of the Bill. I know he will take those things on board in future discussions. I look forward to supporting the Government this evening.
+
+Anna Firth (Southend West) (Con)
+I rise to speak in support of Lords amendments 72 to 77, which seek to protect the right to free cash access services for customers. I thank the Minister very much for his hard work in preserving this valuable resource and also for listening to and engaging with Back Benchers from all parts of the House.
+
+19:15:00
+
+The amendments will be welcomed by my constituents in Southend West, where more than a fifth of the people I represent are over 65—that is well over 10,000 people—and more than 6% are over 80, which is significantly higher than the national average. I have a huge number of old people in my constituency who are heavily reliant on cash, which is why I have spoken up repeatedly on this issue. They are not unusual, however. We have heard other evidence, but if I may add some more, the FCA found in its 2022 “Financial Lives” survey that 6% of all adults in the UK used cash to pay for everything or most things over the 12 months from May 2021. That figure increases to 9% for the most vulnerable.
+
+The most telling thing is that more than a fifth of over-65s used cash for almost all their payments, and 40% of over-65s did not bank online. It is vital that we protect this resource, which is fundamental to their daily lives. Cash is also important for businesses and charities across Southend West. Only this weekend I was at the brilliant Leigh folk festival—Glastonbury, eat your heart out; Members are all welcome next year—where people were brandishing their buckets for many charities and stalls, and people were putting cash in them.
+
+My second and final point is on the loss of banking services, which underpins the need for Lords amendments 72 to 77. As the Minister knows, I have spoken many times about the loss of banking services and bank closures in Southend West. We have now lost every single one of our high street banks over the past four years. We are now left with just a Nationwide. There are none in Westcliff, none in Belfairs and none in Eastwood. People have to go five miles to the Metro in Southend. That is why we need access to cash, but we must recognise that banks are taking advantage of customers.
+
+The interbank rate now is 5%. According to the Bank of England, instant access accounts, which are the ones that old people tend to use the most, are at 1.4%. That is a huge spread, and that is money that the banks are making and putting in their pockets when they could be returning it to their customers. The last time rates went to 5%, banks were paying 3%—double what they are paying now. Estimates for what banks are stealing from customers who, through the Government, supported them during the financial crisis range from £15 billion up to £23 billion. That is an absolute outrage that I have spoken about many times. I hope the banks are listening and doing something about it. They should pass the rates through to savers. It is because of these developments in banking that it is so vital we put these Lords amendments on to the statute book to enshrine the right to deposit and withdraw cash for free. That must be protected.
+
+The cash system is an essential piece of infrastructure, like utilities such as the post and broadband. These Lords amendments will help not only millions of citizens of all ages who risk otherwise being excluded if cash is allowed to die, but businesses, charities and many residents in Southend West.
+
+Andrew Griffith
+I am grateful to all hon. and right hon. Members who have contributed to this debate. I welcome my hon. Friend the Member for North East Bedfordshire (Richard Fuller), who together with my right hon. Friend the Member for Salisbury (John Glen) started this Bill’s progress through the House. I spoke at length and tried to cover as many topics as possible in my opening remarks, so I will be brief.
+
+I extend my thoughts to the hon. Member for Mitcham and Morden (Siobhain McDonagh). I have never actually made it to the cash machine promised in her constituency, but her words echo whenever we talk about access to cash. I did make it to the constituency of the hon. Member for Ealing Central and Acton (Dr Huq), one of the lucky constituencies to have one of the six hubs, of which we seek to see many more.
+
+I welcome hon. Members’ acknowledgement of the substantial steps that the Government have taken to further enhance regulatory accountability through the passage of the Bill. The hon. Members for Blaenau Gwent (Nick Smith) and for Glenrothes (Peter Grant), my hon. Friend the Member for Wimbledon (Stephen Hammond) and my right hon. Friends the Members for South Northamptonshire (Dame Andrea Leadsom) and for Vale of Glamorgan (Alun Cairns) all talked about that.
+
+The largest part of the debate was about the importance of access to cash, and the Government have introduced Lords amendments for precisely that. I wish my hon. Friend the Member for Hyndburn (Sara Britcliffe) good luck with procuring a hub for Great Harwood. My hon. Friend the Member for Aberconwy (Robin Millar) spoke about access to cash, as did the Member with the most formidable knowledge of the important role played by the Post Office, my hon. Friend the Member for North Norfolk (Duncan Baker), and my hon. Friend the Member for Southend West (Anna Firth). I and, I hope, the banks have heard the debate. It is important that they have been listening to the strong points made about not just access to cash but access to face-to-face branch facilities.
+
+We heard from the hon. Member for Glenrothes about why Lords amendment 7 does not cover the devolved Administrations. I understand that this is not necessarily his desired outcome, but financial services legislation is a reserved matter. As an outcome, I hope to deliver a Brexit dividend—he may not particularly welcome that—for citizens in all parts of the country to protect those 140,000 jobs that, as we heard, Scotland relies on.
+
+Peter Grant
+Just to be clear, the Minister is saying that if the Scottish Government set a higher target for something than the UK Government do on behalf of England, the regulators will go with the UK Government’s low target, and if the UK Government set a higher target than the Scottish Government feel comfortable with, the regulator will go with the UK Government’s higher target, even in areas where an activity is devolved.
+
+Andrew Griffith
+We are always happy to listen to the hon. Member, but we are in danger of repeating ourselves.
+
+Let me briefly give my right hon. Friend the Member for Epsom and Ewell (Chris Grayling) the assurance he seeks that we will not just have another review. We seek action. We will be looking for a framework for due diligence and for how we can hold the financial sector to account. Both he and my right hon. Friend the Member for South Northamptonshire talked about how we can make the UK financial sector an exemplar on deforestation and support for nature. That is my aspiration, and I believe that it is shared across the House. The Government’s amendment in lieu of Lords amendment 36 will do that.
+
+Government amendments made throughout the passage of the Bill reflect the comprehensive scrutiny and engagement of both sides of the House, just as we have heard tonight, and the Bill is the better for it as a result. I hope that their lordships will listen to the voice of this House. It is now time to pass the Bill and begin the really important work of tailoring our financial services regulation to serve the interests of the UK, bolster our competitiveness as a global financial centre, power growth in every part of the country and every part of the economy and, above all else, deliver better outcomes for the consumers and residents we represent.
+
+Question put, That this House disagrees with Lords amendment 7.
+
+Division 268
+26/06/2023 19:23:00
+The House divided:
+Ayes: 301
+Noes: 48
+Question accordingly agreed to.
+
+Lords amendment 7 disagreed to.
+
+Government amendments (a) to (c) made in lieu of Lords amendment 7.Question put, That this House disagrees with Lords amendment 10.
+
+Division 269
+26/06/2023 19:38:00
+The House divided:
+Ayes: 303
+Noes: 201
+Question accordingly agreed to.
+
+Lords amendment 10 disagreed to.
+
+Lords amendment 36 disagreed to.
+
+Government amendment (a) made in lieu of Lords amendment 36.
+
+Lords amendment 1 to 6, 8, 9, 11 to 35, and 37 agreed to, with Commons financial privileges waived in respect of Lords amendment 35.
+
+After Clause 71
+
+Politically exposed persons: money laundering and terrorist financing
+
+Question put, That this House agrees with Lords amendment 38.
+
+Division 270
+26/06/2023 19:50:00
+The House divided:
+Ayes: 303
+Noes: 36
+Question accordingly agreed to.
+
+Lords amendment 38 agreed to.
+
+Lords amendments 39 to 86 agreed to.
+
+Ordered, That a Committee be appointed to draw up Reasons to be assigned to the Lords for disagreeing with their amendment 10;
+
+That Andrew Griffith, Andrew Stephenson, Mark Fletcher, Duncan Baker, Tulip Siddiq, Liz Twist and Peter Grant be members of the Committee;
+
+That Andrew Griffith be the Chair of the Committee;
+
+That three be the quorum of the Committee.
+
+That the Committee do withdraw immediately.—(Andrew Stephenson.)
+
+Committee to withdraw immediately; reasons to be reported and communicated to the Lords.
+

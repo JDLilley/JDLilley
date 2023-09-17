@@ -1,0 +1,1009 @@
+ Genetic Technology (Precision Breeding) Bill
+
+Consideration of Bill, not amended in the Public Bill Committee
+
+New Clause 1
+
+The Genetic Technology Authority
+
+“(1) There is to be a body corporate called the Genetic Technology Authority.
+
+(2) The Authority is to consist of—
+
+(a) a chairman and deputy chairman, and
+
+(b) such number of other members as the Secretary of State appoints.
+
+(3) Schedule [Genetic Technology Authority: supplementary provisions] to this Act (which deals with the membership of the Authority, etc.) has effect.”—(Daniel Zeichner.)
+
+Brought up, and read the First time.
+
+18:56:00
+
+Daniel Zeichner (Cambridge) (Lab)
+I beg to move, That the clause be read a Second time.
+
+Mr Deputy Speaker (Mr Nigel Evans)
+With this it will be convenient to discuss the following:
+
+New clause 2—Accounts and audit—
+
+“(1) The Authority must keep proper accounts and proper records in relation to the accounts and must prepare for each accounting year a statement of accounts.
+
+(2) The annual statement of accounts must comply with any direction given by the Secretary of State, with the approval of the Treasury, as to the information to be contained in the statement, the way in which the information is to be presented or the methods and principles according to which the statement is to be prepared.
+
+(3) Not later than five months after the end of an accounting year, the Authority must send a copy of the statement of accounts for that year to the Secretary of State and to the Comptroller and Auditor General.
+
+(4) The Comptroller and Auditor General must examine, certify and report on every statement of accounts received by him under subsection (3) above and must lay a copy of the statement and of his report before each House of Parliament.
+
+(5) The Secretary of State and the Comptroller and Auditor General may inspect any records relating to the accounts.
+
+(6) In this section “accounting year” means the period beginning with the day when the Authority is established and ending with the following 31st March, or any later period of twelve months ending with the 31st March.”
+
+New clause 3—Reports to Secretary of State—
+
+“(1) The Authority must prepare and send to the Secretary of State an annual report as soon as practicable after the end of the period of twelve months for which it is prepared.
+
+(2) A report prepared under this section for any period must deal with the activities of the Authority in the period and the activities the Authority proposes to undertake in the succeeding period of twelve months.
+
+(3) The Secretary of State must lay before each House of Parliament a copy of every report received by him under this section.”
+
+New clause 4—General functions of the Authority—
+
+“(1) The Authority must—
+
+(a) keep under review information about the use of genetic technology in plants and animals and any subsequent development of genetic technology and advise the Secretary of State about those matters,
+
+(b) publicise the services provided to the public by the Authority or provided in pursuance of release notification requirements or marketing authorisations under this Act,
+
+(c) provide, to such extent as it considers appropriate, a code of practice, advice and information for persons to whom release notification requirements or marketing authorisations under this Act apply,
+
+(d) maintain a statement of the general principles which it considers should be followed—
+
+(i) in the carrying-on of activities governed by this Act, and
+
+(ii) in the carrying-out of its functions in relation to such activities,
+
+(e) promote, in relation to activities governed by this Act, compliance with—
+
+(i) requirements imposed by or under this Act, and
+
+(ii) the Authority’s code of practice,
+
+(f) perform such other functions as may be specified in regulations.
+
+(2) The Authority may, if it thinks fit, charge a fee for any advice provided under subsection (1)(c).”
+
+New clause 5—Duties in relation to carrying out its functions—
+
+(1) The Authority must carry out its functions effectively, efficiently and economically.
+
+(2) In carrying out its functions, the Authority must, so far as relevant, have regard to the principles of best regulatory practice (including the principles under which regulatory activities should be transparent, accountable, proportionate, consistent and targeted only at cases in which action is needed).”
+
+New clause 6—Power to delegate and establish committees—
+
+“(1) The Authority may delegate a function to a committee, to a member or to staff.
+
+(2) The Authority may establish such committees or sub-committees as it thinks fit (whether to advise the Authority or to exercise a function delegated to it by the Authority).
+
+(3) The members of the committees or sub-committees may include persons who are not members of the Authority.
+
+(4) Subsection (1) has effect subject to any enactment requiring a decision to be taken by members of the Authority or by a committee consisting of members of the Authority.”
+
+New clause 7—Labelling of food or feed produced by precision bred organisms—
+
+“(1) Food or feed produced from a precision bred organism or its progeny that is placed on the market must be labelled to inform prospective purchasers that it has been produced from a precision bred organism or its progeny.
+
+(2) The labelling required under subsection (1) must be in easily visible and clearly legible type and, where packaging is used, it must be placed on the front outer surface of the packaging.
+
+(3) Regulations must lay down the labelling terms to be used to meet the requirements of subsection (1).
+
+(4) Before making regulations under this section, the Secretary of State must—
+
+(a) consult representatives of—
+
+(i) consumers,
+
+(ii) citizens and civil society,
+
+(iii) food producers,
+
+(iv) suppliers,
+
+(v) retailers,
+
+(vi) growers and farmers,
+
+(vii) the organic sector,
+
+(viii) other persons likely to be affected by the regulations, and
+
+(ix) any other persons the Secretary of State considers appropriate; and
+
+(b) seek the advice of the Food Standards Agency on the information to be required to be provided on labelling.
+
+(5) Regulations under this section are subject to the affirmative procedure.”
+
+This new clause would require the Secretary of State to make regulations about the labelling of precision bred organisms and food and feed products made from them and to consult with named stakeholders before doing so.
+
+New clause 8—Labelling of food or feed produced by precision bred animals—
+
+“(1) Food or feed produced from a precision bred animal or its progeny that is placed on the market must be labelled to inform prospective purchasers that it has been produced from a precision bred animal or its progeny.
+
+(2) The labelling required under subsection (1) must be in easily visible and clearly legible type and, where packaging is used, it must be placed on the front outer surface of the packaging.
+
+(3) Regulations must lay down the labelling terms to be used to meet the requirements of subsection (1).
+
+(4) Regulations under this section are subject to the affirmative procedure.”
+
+New clause 9—Power of the Scottish Parliament to legislate on the marketing of precision bred organisms—
+
+“(1) Schedule 1 of the United Kingdom Internal Market Act 2020 is amended as follows.
+
+(2) After paragraph 11 insert—
+
+‘Marketing of precision bred organisms
+
+11A The United Kingdom market access principles do not apply to (and sections 2(3) and 5(3) do not affect the operation of) any Act of the Scottish Parliament, or any subordinate legislation made under or by virtue of such an Act, relating to the marketing of—
+
+(a) precision bred organisms, or
+
+(b) food or feed produced from precision bred organisms.’.”
+
+Amendment 1, in clause 1, page 1, line 4, leave out
+
+“or a precision bred animal”.
+
+This amendment removes animals from the scope of the Bill.
+
+Amendment 11, page 1, line 14, at end insert—
+
+“(2A) But for the purposes of this Act an organism is not “precision bred” if any feature of its genome results from any technique or process which involves the insertion of exogenous genetic material, whether or not such material is subsequently removed.”
+
+This amendment would exclude the use of exogenous genetic material in the creation of precision bred organisms.
+
+Amendment 3, in clause 3, page 3, line 35, at end insert—
+
+“(c) the organism has been developed for or in connection with one or more of the following purposes—
+
+(i) producing food in a way that protects or enhances a healthy, resilient and biodiverse natural environment;
+
+(ii) growing and managing plants or animals in a way that mitigates or adapts to climate change;
+
+(iii) producing food in a way that prevents, reduces or protects from environmental hazards;
+
+(iv) protecting or improving the health or welfare of animals;
+
+(v) conserving native animals or genetic resources relating to any such animal;
+
+(vi) protecting or improving the health of plants;
+
+(vii) reducing the use of pesticides and artificial fertiliser;
+
+(viii) conserving plants grown or used in carrying on an agricultural, horticultural or forestry activity, their wild relatives or genetic resources relating to any such plant;
+
+(ix) protecting or improving the quality of soil;
+
+(x) supporting or improving human health and well-being;
+
+(xi) supporting or improving the sustainable use of resources.”
+
+This amendment would require that a precision bred organism has been developed to provide a public benefit, if it is to be released into the environment.
+
+Amendment 4, page 9, line 20, at end insert—
+
+“(za) that the precision bred traits will not have a direct or indirect adverse effect on the health or welfare of the relevant animal or its qualifying progeny,
+
+(zb) that the relevant animal and its qualifying progeny are not likely to experience pain, suffering or lasting harm arising from or connected with fast growth, high yields or any other increase in productivity,
+
+(zc) that the precision bred traits will not facilitate the keeping of the relevant animal or its qualifying progeny in conditions that are crowded, stressful or otherwise likely to have an adverse effect on animal welfare,
+
+(zd) that the objective of the precision bred traits could not reasonably have been achieved by means that do not involve modification of the genome of the animal.”
+
+The amendment requires a range of factors to be taken into account by the Secretary of State when deciding whether to issue a precision bred animal marketing authorisation.
+
+Amendment 12, page 9, line 20, at end insert—
+
+“(za) that the scientific evidence does not indicate that the precision bred traits are likely to have a direct or indirect adverse effect on the health or welfare of the relevant animal or its qualifying progeny, and if so”.
+
+This amendment would prevent the Secretary of State from issuing a precision bred animal marketing authorisation if the scientific evidence indicated that the precision bred traits are likely to have a direct or indirect adverse effect on the health or welfare of the relevant animal or its qualifying progeny.
+
+Amendment 6, in clause 26, page 16, line 29, leave out “may” and insert “must”.
+
+This amendment would require the Secretary of State to regulate the placing on the market in England of food and feed produced from precision bred organisms.
+
+Amendment 7, page 16, line 31, leave out “may” and insert “must”.
+
+This amendment would require the Secretary of State to make regulations prohibiting the marketing of food or feed produced from a precision bred organism on the market in England except in accordance with a marketing authorisation, and imposing requirements for the purpose of securing traceability.
+
+Amendment 8, page 16, line 36, after “traceability”, insert “through supply chain auditing”.
+
+This amendment makes supply chain auditing the method of securing traceability in relation to food or feed produced from precision bred organisms that is placed on the market in England.
+
+Amendment 9, page 17, line 1, leave out “may” and insert “must”.
+
+This amendment requires the prescribing of requirements that must be satisfied in order for the Secretary of State to issue a food and feed marketing authorisation in relation to a precision bred organism.
+
+Amendment 10, page 17, line 4, leave out “may” and insert “must”.
+
+This amendment prescribes which requirements must be satisfied in order for the Secretary of State to issue a food and feed marketing authorisation in relation to a precision bred organism.
+
+Amendment 5, in clause 43, page 28, line 6, at end insert—
+
+“(7) No regulations may be made under this Act unless—
+
+(a) a policy statement on environmental principles has been laid before Parliament under section 18(6) of the Environment Act 2021, and
+
+(b) section 19 of the Environment Act 2021 is in force.
+
+(8) Regulations under this Act must be made in accordance with—
+
+(a) the environmental principles set out in section 17(5) of the Environment Act 2021, and
+
+(b) Article 391 (Non-regression from levels of protection) of the Trade and Cooperation Agreement between the United Kingdom of Great Britain and Northern Ireland, of the one part, and the European Union and the European Atomic Energy Community, of the other part, done at Brussels and London on 30 December 2020.”
+
+This amendment would prevent the exercise of any powers granted by the Bill until the Government’s policy statement on environmental principles has been finalised and Ministers are under a statutory duty to have due regard to it.
+
+Amendment 13, in clause 48, page 30, line 20, at end insert—
+
+“(5A) Regulations may not be made under or by virtue of this section unless a common framework agreement relating to the release and marketing of, and risk assessments relating to, precision bred plants and animals, and the marketing of food and feed produced from such plants and animals, has been agreed between a Minister of the Crown, the Scottish Government and the Welsh Government.
+
+(5B) “Common framework agreement” has the meaning given by section 10(4) of the United Kingdom Internal Market Act 2020.”
+
+This amendment would prevent the operative parts of this Bill coming into force until a common framework agreement on the regulation of precision breeding had been agreed between the UK Government and the Scottish and Welsh Governments.
+
+New schedule 1—The Authority: Supplementary Provisions—
+
+“Status and capacity
+
+1 The Authority is not to be regarded as the servant or agent of the Crown, or as enjoying any status, privilege or immunity of the Crown; and its property is not to be regarded as property of, or property held on behalf of, the Crown.
+
+2 The Authority has power to do anything which is calculated to facilitate the discharge of its functions, or is incidental or conducive to their discharge, except the power to borrow money.
+
+Expenses
+
+3 The Secretary of State may, with the consent of the Treasury, pay the Authority out of money provided by Parliament such sums as he thinks fit towards its expenses.
+
+Appointment of members
+
+4 (1) All the members of the Authority (including the chairman and deputy chairman who are to be appointed as such) are to be appointed by the Secretary of State.
+
+(2) The following persons are disqualified for being appointed as chairman or deputy chairman of the Authority—
+
+(a) any person who is, or has been, concerned with the creation, release or marketing of plant or animal organisms, gametes or embryos created using genetic technology, and
+
+(b) any person who is, or has been, directly concerned with commissioning or funding any research involving such creation, release or marketing, or who has actively participated in any decision to do so.
+
+(3) The Secretary of State must secure that at least one-third but fewer than half of the other members of the Authority fall within sub-paragraph (2)(a) or (b), and that at least one member falls within each of paragraphs (a) and (b).
+
+5 (1) A person (“P”) is disqualified for being appointed as chairman, deputy chairman, or as any other member of the Authority if—
+
+(a) P is the subject of a bankruptcy restrictions order,
+
+(b) in the last five years P has been convicted in the United Kingdom, the Channel Islands or the Isle of Man of an offence and has had a qualifying sentence passed on P.
+
+(2) For the purposes of sub-paragraph (1)(b), the date of conviction is to be taken to be the ordinary date on which the period allowed for making an appeal or application expires or, if an appeal or application is made, the date on which the appeal or application is finally disposed of or abandoned or fails by reason of its non-prosecution.
+
+(3) In sub-paragraph (1)(b), the reference to a qualifying sentence is to a sentence of imprisonment for a period of not less than three months (whether suspended or not) without the option of a fine.
+
+Tenure of office
+
+6 (1) Subject to the following provisions of this paragraph and paragraph 7, a person holds and vacates office as a member of the Authority in accordance with the terms of his appointment.
+
+(2) A person may not be appointed as a member of the Authority for more than three years at a time.
+
+(3) A member may at any time resign his office by giving notice to the Secretary of State.
+
+(4) A person who ceases to be a member of the Authority is eligible for re-appointment (whether or not in the same capacity).
+
+(5) A person holding office as chairman, deputy chairman or other member of the Authority is to cease to hold that office if the person becomes disqualified for appointment to it.
+
+(6) If the Secretary of State is satisfied that a member of the Authority—
+
+(a) has been absent from meetings of the Authority for six consecutive months or longer without the permission of the Authority, or
+
+(b) is unable or unfit to discharge the person's functions as chairman, deputy chairman or other member,
+
+the Secretary of State may remove the member from office as chairman, deputy chairman or other member.
+
+(7) The Secretary of State may suspend a member from office as chairman, deputy chairman or other member of the Authority if it appears to him that one of the conditions in paragraph (6) is or may be satisfied in relation to the member.
+
+7 (1) This paragraph applies where the Secretary of State decides to suspend a member under paragraph 6(7).
+
+(2) The Secretary of State must give notice to the member of the decision and the suspension takes effect on receipt by the member of the notice.
+
+(3) A notice under subsection (2) is treated as being received by the member—
+
+(a) in a case where it is delivered in person or left at the member's proper address, at the time at which it is delivered or left;
+
+(b) in a case where it is sent by post to the member at that address, on the third day after the day on which it was posted.
+
+(4) The initial period of suspension must not exceed 6 months.
+
+(5) The Secretary of State may review the member's suspension at any time.
+
+(6) The Secretary of State must review the member's suspension if requested in writing by the member to do so, but need not carry out a review less than 3 months after the beginning of the initial period of suspension.
+
+(7) Following a review the Secretary of State may—
+
+(a) revoke the suspension, or
+
+(b) suspend the member for another period of not more than 6 months from the expiry of the current period.
+
+(8) The Secretary of State must revoke the suspension if at any time—
+
+(a) he decides that neither of the conditions mentioned in paragraph 5(5) is satisfied, or
+
+(b) he decides that either of those conditions is satisfied but does not remove the member from office as chairman, deputy chairman or other member of the Authority.
+
+Disqualification of members of Authority for House of Commons and Northern Ireland Assembly
+
+8 In Part II of Schedule 1 to the House of Commons Disqualification Act 1975 and in Part II of Schedule 1 to the Northern Ireland Assembly Disqualification Act 1975 (bodies of which all members are disqualified) the following entry is inserted at the appropriate place in alphabetical order—
+
+“The Genetic Technology Authority”.
+
+Remuneration and pensions of members
+
+9 (1) The Authority may—
+
+(a) pay to the chairman such remuneration, and
+
+(b) pay or make provision for paying to or in respect of the chairman or any other member such pensions, allowances, fees, expenses or gratuities,
+
+as the Secretary of State may, with the approval of the Treasury, determine.
+
+(2) Where a person ceases to be a member of the Authority otherwise than on the expiry of his term of office and it appears to the Secretary of State that there are special circumstances which make it right for him to receive compensation, the Authority may make to him a payment of such amount as the Secretary of State may, with the consent of the Treasury, determine.
+
+Staff
+
+10 (1) The Authority may appoint such employees as it thinks fit, upon such terms and conditions as the Authority, with the approval of the Secretary of State and the consent of the Treasury, may determine.
+
+(2) The Authority must secure that any employee whose function is, or whose functions include, the inspection of premises is of such character, and is so qualified by training and experience, as to be a suitable person to perform that function.
+
+(3) The Authority must, as regards such of its employees as with the approval of the Secretary of State it may determine, pay to or in respect of them such pensions, allowances or gratuities (including pensions, allowances or gratuities by way of compensation for loss of employment), or provide and maintain for them such pension schemes (whether contributory or not), as may be so determined.
+
+(4) If an employee of the Authority—
+
+(a) is a participant in any pension scheme applicable to that employment, and
+
+(b) becomes a member of the Authority,
+
+he may, if the Secretary of State so determines, be treated for the purposes of the pension scheme as if his service as a member of the Authority were service as employee of the Authority, whether or not any benefits are to be payable to or in respect of him by virtue of paragraph 7 above.
+
+Proceedings
+
+11 (1) Subject to any provision of this Act, the Authority may regulate its own proceedings, and make such arrangements as it thinks appropriate for the discharge of its functions.
+
+(2) The Authority may pay to the members of any committee or sub-committee such fees and allowances as the Secretary of State may, with the consent of the Treasury, determine.
+
+12 (1) A member of the Authority who is in any way directly or indirectly interested in a release notification or marketing authorisation under this Act must, as soon as possible after the relevant circumstances have come to his knowledge, disclose the nature of his interest to the Authority.
+
+(2) Any disclosure under sub-paragraph (1) above must be recorded by the Authority.
+
+(3) Except in such circumstances (if any) as may be determined by the Authority under paragraph 9(1) above, the member must not participate after the disclosure in any deliberation or decision of the Authority with respect to the release notification or marketing authorisation, and if he does so the deliberation or decision is of no effect.
+
+13 The validity of any proceedings of the Authority, or of any committee or sub-committee, is not affected by any vacancy among the members or by any defect in the appointment of a member.
+
+Instruments
+
+14 The fixing of the seal of the Authority must be authenticated by the signature of the chairman or deputy chairman of the Authority or some other member of the Authority authorised by the Authority to act for that purpose.
+
+15 A document purporting to be duly executed under the seal of the Authority, or to be signed on the Authority’s behalf, may be received in evidence and is deemed to be so executed or signed unless the contrary is proved.
+
+Investigation by Parliamentary Commissioner
+
+16 The Authority is subject to investigation by the Parliamentary Commissioner and accordingly, in Schedule 2 to the Parliamentary Commissioner Act 1967 (which lists the authorities subject to investigation under that Act), the following entry is inserted at the appropriate place in alphabetical order—
+
+“Genetic Technology Authority”.”
+
+Amendment 2, in title, line 2, leave out
+
+“and animals, and the marketing of food and feed produced from such plants and animals”
+
+and insert
+
+“, and the marketing of food and feed produced from such plants”.
+
+This amendment, which is contingent on Amendment 1, would change the long title to reflect the removal of animals from the scope of the Bill.
+
+Daniel Zeichner
+This Bill is now on its third Secretary of State, and I think the Minister of State, Department for Environment, Food and Rural Affairs, the right hon. Member for Sherwood (Mark Spencer), is the fourth Minister to speak to it.
+
+I welcome back the Under-Secretary of State for Environment, Food and Rural Affairs, the hon. Member for Taunton Deane (Rebecca Pow), who took the Environment Act 2021 through Committee. She will be delighted to know that I will never cease to remind her that the Government’s 25-year environment plan was supposed to be for 25 years, not to take 25 years.
+
+On Friday, we once again saw why the Conservatives cannot be trusted on the environment. They are breaking their own law by failing to come up with critical air, water and biodiversity targets on time. On the same day, the Prime Minister gave up on the UK’s leadership role on climate change by ducking COP27.
+
+When the Government bring forward such a vague, thin Bill, asking the country to trust them to get the secondary legislation right, they can hardly be surprised that people are sceptical, and we are. Their failure fails Britain, and we all deserve better. This is an important Bill that, with the right regulatory safeguards, will reassure the public and provide the right environment for the research and investment we all want to see. Labour is pro-science and pro-innovation, but we also know that good regulation is the key to both innovation and investor confidence.
+
+This Bill concerns our food. After 12 years of Conservative government, people are fighting to keep their head above water against the rising tide of inflation, which is even higher for essentials such as food. It is no exaggeration to say that people are at breaking point, and the fears for this winter are very real. Despite the possible gains that science and innovation might bring, this Bill does not bring urgent relief to families across the country, but it is an important step in enabling scientific advancements with the potential to deliver huge benefits by helping us to produce our food more efficiently and sustainably.
+
+Labour Members are enthusiasts for science and innovation, which can help to find ways to maintain and improve the efficiency, safety and security of our food system, while addressing the environmental, health, economic and social harms that the modern system has unfortunately caused. These are the challenges that Henry Dimbleby’s national food strategy set out to tackle, but the Government have, of course, completely failed to engage with it seriously.
+
+However, alongside the challenges, there are opportunities. The UK has the opportunity to create a world-leading regulatory framework that others would follow. Even though they rejected them in Committee, there is still time for the Government to accept the improvements that we and many stakeholders believe are necessary to achieve that goal.
+
+19:00:00
+
+Gene editing technologies have the potential to deliver great benefits, as well as healthy hard-earned rewards for those who are skilled in developing them. Let me repeat my thanks to the many serious people from learned societies and institutions who have done the thinking, and have spent time briefing me and my team as we grapple with some very big issues. I am grateful for the serious and engaged contributions from those who are deeply sceptical about this technology; they raise serious points, which should be properly addressed.
+
+Let me particularly cite the work from the Nuffield Council on Bioethics. Unlike this Bill, which takes the narrowest approach possible, it stood back and asked the bigger questions about our food system, about our treatment of animals, about where traditional selective breeding has brought us to, and about how we might approach novel foods and the great changes that we may see in a very few years. In its recent public dialogue, the results of which were published just a few weeks ago, it demonstrated that the public are quite capable of taking a sensible and considered view, one that sits well with the amendments we tabled in Committee, some of which we raise again today.
+
+Those who took part in that detailed discussion would not be satisfied with the Bill as it stands, and I hope the Government have taken note. They, like us, want animal welfare concerns addressed. They want transparency and a stronger framework, and they want to be sure that the technology is used for the wider good, not just to maximise returns.
+
+John Spellar (Warley) (Lab)
+I am grateful to my hon. Friend for the constructive, pro-science approach that he is taking—it is not surprising, given the constituency he represents. Do we not also need to learn from the experience of the vaccine taskforce, which demonstrated how we can achieve results at pace without in any way infringing on safety and while still applying proper regulation? Is that not the challenge for the Government tonight?
+
+Daniel Zeichner
+My right hon. Friend, as always, speaks good sense. He is absolutely right; with focus and a proper attempt to meet the challenges we face, it is remarkable what can be done. But this needs leadership and, as ever, it is missing.
+
+Let me turn in detail to the public interest test and our amendment 3. The potential benefits of gene edited crops include creating plants resistant to extreme weather conditions and diseases, which could reduce the need for pesticides and create higher yields to address rising food insecurity driven by climate change and other factors. Genetic editing could also be used to improve the nutritional quality of food. For example, giving farmers the tools to beat virus yellows without recourse to neonicotinoids is a prize worth having.
+
+However, we must recognise that any new technology also carries risks: risks of unintended consequences; risks of technology being misused; and risks of commercial pressure being exerted in ways that might not be for the benefit of the wider public. Those are all risks that must be properly recognised and addressed, because unless public and investor confidence is maintained, research will stall and opportunities will be squandered. Unfortunately, the Government’s blind faith in the market means this is a laissez-faire, minimalist Bill, which does not come close to an effective regulatory framework to guide and oversee the work of researchers and developers.
+
+Amendment 3 would therefore require that a gene edited organism has been developed to provide one or more of the public benefit purposes listed, if it is to be released into the environment. The amendment neatly recycles much of the wording in section 1 of the Government’s own Agriculture Act 2020, which lists the public goods that can be funded. We are simply applying the same approach to the development and use of gene editing technologies. We believe they should be used only where that is clearly in the public interest, including, for instance, in protecting a healthy, resilient and biodiverse natural environment; mitigating climate change; improving the health or welfare of animals or plants; and supporting human health and wellbeing.
+
+Kerry McCarthy (Bristol East) (Lab)
+During the Bill Committee, we heard that one of the potential benefits of these innovations was a possible reduction in the overuse of antibiotics on farms, because we would be able to breed things that are more resistant to disease. Although I welcome that, does my hon. Friend share my concern about the comments on antibiotics made by the new Secretary of State for Environment, Food and Rural Affairs, the right hon. Member for Suffolk Coastal (Dr Coffey), when she was briefly Health Secretary? Is he concerned about her seemingly relaxed attitude towards these entering the food chain and the impact on public health?
+
+Daniel Zeichner
+I am grateful to my hon. Friend for her intervention. She is absolutely right; people should not be careless about antibiotics and that was not an approach to be encouraged at all. I share her concerns.
+
+Amendment 3 would strengthen the Bill by harnessing the good that can be created through such technologies and ensuring that they are not developed and used for purposes that would not deliver beneficial outcomes—surely that is an objective we can agree on across the House. We believe that would take the Bill much further forward in establishing the kind of regulatory framework that really would place the UK in a leading position. That sits alongside our new clauses, which would establish a single, robustly independent regulator, along the lines of the very successful and genuinely world-leading Human Fertilisation and Embryology Authority. That regulator does not just approve an application, but tracks, traces and checks over time. That is an important and very different approach, and one discussed in Committee by expert witnesses.
+
+Our new clauses would ensure that Ministers’ decisions on gene editing are properly guided by the environmental principles set out under the Environment Act 2021, and that there is no regression from the environmental standards agreed in the trade and co-operation agreement, which is pretty important when it comes to trade issues. Our new clauses would build an environment in which the UK really could attract the worldwide talent and investment in gene editing research and development that we all want to see.
+
+On animal health and welfare, I turn to our amendment 4, which I am delighted to see has been endorsed by Compassion in World Farming and 12 other animal protection organisations, including the Royal Society for the Prevention of Cruelty to Animals and the Conservative Animal Welfare Foundation. The amendment would require a range of animal health and welfare factors to be taken into account by the Secretary of State when deciding whether to issue a marketing authorisation for a gene edited animal. We appreciate that gene editing can be used in the same way as “traditional” selective breeding to produce fast growth, high yields and large litters, which, sadly, we also know are capable of causing suffering in farmed animals.
+
+Clearly, we have existing legislation to protect animal health and welfare, but the concern is that we should be very clear at the outset that we do not want to see gene editing used in ways that make it more possible for animals to endure harm and suffering. As the Nuffield Council on Bioethics put it,
+
+“animals should not be bred merely to enable them to endure conditions of poor welfare more easily or in a way that would diminish their inherent capacities to live a good life.”
+
+Some researchers aim to use gene editing to improve disease resistance in livestock. Of course, that could be hugely beneficial and could help to reduce the serious harm caused by the overuse of antibiotics, for instance. It would be hugely beneficial if we could find ways to tackle porcine reproductive and respiratory syndrome in pigs or avian flu. But the public would not want to see gene editing used to allow animals to be kept in poorer, more crowded, stressful conditions by making them resistant to the diseases that would otherwise result.
+
+Jim Shannon (Strangford) (DUP)
+When it comes to this genetic technology, the farmers I represent are keen to see this happening in a way that does not harm their animals. They are not out to harm them; they want to protect them. I know that the Minister understands that, as my local farmers and I do. Does the hon. Gentleman agree that the farmers do not want to see anything happening that will harm the animals?
+
+Daniel Zeichner
+I am grateful to the hon. Gentleman for making that point, but of course there are always economic pressures and this is about making sure we guard against those. The Minister will be familiar with the chlorine-washed chicken debate, where lower welfare standards are disguised and the Government are always at pains to assure us, “We’re not going to tolerate that.” So they must not allow new scientific developments to be the tech equivalent; there must be no backsliding.
+
+Referring to the power of gene editing to reduce the risk of disease, Nuffield’s 2016 ethical review of genome editing highlighted the problem. It said:
+
+“If this risk were reduced or removed altogether then it might be easier to pack more animals together in crowded spaces.”
+
+That is the concern, so let us guard against it. We believe we can create a regime that can do much better than that, but it requires this Bill to be strengthened to make it happen.
+
+On transparency and labelling, the research carried out by the Food Standards Agency and others has clearly found that although consumers support genetically edited foods having a different regulatory system from genetically modified foods, they overwhelmingly want effective regulation of gene edited products, with transparent information and clear labelling.
+
+The Government are trying to gloss over the issues by inventing the entirely non-scientific term “precision breeding”. I could speak at length about this term; I will not, but there is much dispute about it. It is a term without clear scientific meaning. Frankly, it has been invented by the Government for their convenience and is a misnomer. Telling us in a rather paternalistic tone that we need not worry because there is no difference between gene edited or traditionally bred crops and livestock does not convince. There is a risk that, as worded, the Bill will allow trans-genetic transfer—effectively, GM through the back door. I know the Government deny and dispute that, and we had a lengthy discussion about it in Committee, but I and many others remain unconvinced.
+
+Leaving that matter aside, it is perfectly reasonable for people to want, and to be able to know, how their food has been produced. Clear labelling is the way to deal with another potentially difficult issue: the legitimately held views of different Administrations in the UK. It is fair to say that the devolved Administrations are not happy with the way in which the issue has been handled so far. I suggest that the Government tread carefully. Clear labelling is a sensible way forward.
+
+Labour is also concerned at the number of key elements of the Bill left to secondary legislation, with little or no opportunity for scrutiny or amendment. The Government must spell out the detail to boost confidence for businesses and consumers. The organic sector and those developing cultivated meat have expressed concerns over the lack of clarity in the Bill, which once again risks driving investment and research elsewhere.
+
+It should not be forgotten that the Regulatory Policy Committee made a damning impact assessment of the Bill, giving it a red rating because it failed to take into account the impact of creating a new class of genetically modified organism; failed to assess the impact on businesses, especially SMEs; failed to acknowledge and assess competition, innovation, consumer and environmental impacts; and failed to address the impacts arising from removing labelling and traceability requirements. I hope the Minister will address those points.
+
+In addition to that list of failures, the Bill fails to address the trade implications of the misalignment in regulation of genetically engineered organisms between the UK’s devolved nations and with our EU neighbours. That could have a significant impact on many food businesses that are struggling to rebuild trade with EU countries despite all the self-inflicted red tape, added costs and barriers that the Government have created.
+
+John Spellar
+Is not the EU in a slightly difficult position because of a perverse judgment from the European Court of Justice against the views of many EU nations, which would have taken the same rational position as my hon. Friend on gene editing? If we take the lead on this issue and do not wrap ourselves up in endless judicial review and litigation, could we not work with our European neighbours and partners to bring an advance not only in this country, but across Europe?
+
+Daniel Zeichner
+My right hon. Friend speaks good sense once again. Of course, that quite legalistic judgment was met with surprise by many. The question is how we go forward. Others in Europe are going forward as well. I suspect that we will end up in similar places at similar times, but it would be sensible to end up in a much more similar place than looks likely if we pursue the Bill as it has been developed so far. The worry is the effects that the changes are already having on sectors such as the organic sector, which used to have exports to the EU worth some £45 million a year, according to Organic Farmers and Growers, which rightly remains concerned about the Bill as it stands.
+
+Much more could be said on a topic that is as fascinating as it is interesting and important, but I will spare the House and direct those Members who are interested to look at the detailed discussion in Committee. Tonight I will end where I started and restate Labour’s commitment: we are pro science and pro innovation. We are in no doubt that gene editing could bring real gains in improving environmental sustainability and reducing food insecurity. Science and technology used for public good can be a huge boon, but to achieve that—to give investors, researchers and the general public confidence—we need a much stronger regulatory framework.
+
+At the moment, as ever with this Government, the approach is simply to leave it to the market. They think that minimalist regulation is the way forward, whereas we say that good regulation is the way forward—a fundamental divide in this Chamber. I would simply say that, given the evidence from the fundamentalist deregulatory experiment carried out on our country over the last few weeks, one hopes that those on the Treasury Bench might just have learned something.
+
+The Minister of State, Department for Environment, Food and Rural Affairs (Mark Spencer)
+I will address new clause 1 directly. The hon. Member for Cambridge (Daniel Zeichner) said, “We are very pro science and pro this technology,” and then spent the next 15 minutes explaining why he was not in favour of this technology, so I will address some of his comments.
+
+The objective of the Bill is to achieve proportionate regulation of precision breeding organisms, which are currently regulated as genetically modified organisms. Science is at the heart of this policy, and the Bill rightly requires the Secretary of State to make decisions based on the advice of the Advisory Committee on Releases to the Environment—ACRE—which advises on the regulation of genetically modified organisms.
+
+19:15:00
+
+ACRE has considerable scientific experience on precision breeding technologies, and has an exemplary record. It is well regarded nationally and internationally for its advice, guidance and insight, and I assure the House that it operates to the highest standards of impartiality, integrity and objectivity.
+
+Precision breeding technologies mimic traditional breeding processes, but more precisely and efficiently, which means that products from precision bred plants or animals contain only genetic changes that would occur through traditional breeding or natural transformation.
+
+Mr Jonathan Djanogly (Huntingdon) (Con)
+There is concern among the cultured meat industry, which is unsure about the impact of the Bill on its research and trade. Will my right hon. Friend take this opportunity to show our support for this important new technology, which the UK is currently at the forefront of developing?
+
+Mark Spencer
+My hon. Friend makes an important point. There are many new technologies out there that we want to embrace and give the opportunity to come forward, albeit in a regulated format so that we can have confidence in our food systems, and that is the exact process that the Bill seeks to correct.
+
+We do not label food products that have been produced through traditional techniques such as chemical mutagenesis, and we do not label foods as “novel” because precision bred products are indistinguishable from their traditionally bred counterparts. It would not be appropriate to require labelling to indicate the use of precision breeding in the production of food or feed. That view is shared internationally; many of our partners across the world, such as Canada, the US and Japan, do not require labelling for precision bred products.
+
+The Food Standards Agency is developing a new authorisation process to ensure that any food or feed product will only go on sale if it is judged to present no risk to health, does not mislead consumers, and does not have lower nutritional value than its traditionally bred counterparts. In order to ensure transparency, the Bill enables regulations to make a public register through which information about precision bred food and feed products can be assessed by consumers.
+
+I do not know whether it is appropriate to speak to other amendments now, Mr Deputy Speaker.
+
+Mr Deputy Speaker (Mr Nigel Evans)
+It is up to you, but you will have an opportunity to speak again at the end of the debate.
+
+Mark Spencer
+I think I will leave it there and speak to other amendments at the end of the debate.
+
+Jim Shannon
+rose—
+
+Mark Spencer
+Before I sit down, I will of course take an intervention from the hon. Gentleman.
+
+Jim Shannon
+I thank the Minister for giving me the chance to intervene. I am very conscious that because of the status of the Northern Ireland Protocol Bill, Northern Ireland is currently under EU rules in this area. That means that the Genetic Technology (Precision Breeding) Bill, which my party and many farmers across Northern Ireland would like to see in place, will not apply to Northern Ireland. Will the Minister assure me that it is the intention of the Government to ensure that every part of this great United Kingdom of Great Britain and Northern Ireland has the same opportunities? We want those opportunities in Northern Ireland as well.
+
+Mark Spencer
+The last thing I want is to see farmers in Northern Ireland disadvantaged. There will be a huge advantage to English farmers over other parts of the United Kingdom, so we want to share this technology. There are parts of the United Kingdom, outside of England, particularly with James Hutton in Scotland and the Roslin Institute at Edinburgh University, where we are world leading in this technology. We have some of the best scientists in the world who genuinely lead this field and we want to share that technology across the United Kingdom and to see it embraced and celebrated.
+
+David Duguid (Banff and Buchan) (Con)
+rose—
+
+Mark Spencer
+I shall take one last point from my hon. Friend.
+
+David Duguid
+A UK-wide approach would be preferred by food producers and farmers right across the country. Can the Minister confirm that the invitation is still open to the devolved Administrations, such as the Scottish Government, to help progress this technology on a UK-wide basis?
+
+Mark Spencer
+Of course it is. I encourage those devolved Administrations to get on board and to support this new tech. They should embrace it and give their farmers the same advantage that we will hopefully achieve in the world marketplace.
+
+John Spellar
+rose—
+
+Mark Spencer
+I keep saying that I will take a final intervention—the Whips will start to get upset with me, but I will take the right hon. Gentleman’s intervention none the less.
+
+John Spellar
+I was hoping the Minister would expand on some other areas, but can he respond to my point about how the vaccine taskforce has shown that science and proper regulation can work at pace for the benefit of our people? Moreover, will he address the question of what protection the Government will give to institutions engaged in this area, whose facilities may be targeted for vandalism by those who are anti-science?
+
+Mark Spencer
+I can address many of those points when I sum up the debate, but I am interested to hear other comments from Members around the Chamber before I do so. However, I say to the right hon. Gentleman that the sector already has some robust regulatory bodies, and we want to give them the power to regulate and oversee this technology. What we do not want to do is bind the hands of those bodies so that, in 20 years’ time, we have to re-legislate for another similar structure. We will have a robust regime in place, albeit heavily regulated, that allows the flexibility for this technology to go in directions that we cannot foresee at this moment.
+
+Mr Deputy Speaker, I look forward to further comments from colleagues and to responding to them later in the debate.
+
+Kirsty Blackman (Aberdeen North) (SNP)
+We are concerned about the disadvantageous position that the Bill will likely put farmers in and about the knock-on impact on farmers in Scotland, despite the fact that the Scottish Government are not yet at the stage to approve the technology in Scotland.
+
+The regulation of genetically modified organisms is a devolved matter. There is no question about that, and the Scottish and Welsh Governments have made that clear in their responses. The Scottish Government have been clear in their opposition to the UK Government’s moves on this. We do not presently intend to amend the GMO regulatory regime in Scotland, as we want to await the outcome of the EU’s consultation on whether some gene-edited organisms will be excluded from the GM definition.
+
+According to the Office for Budget Responsibility, we are already suffering a 4% reduction in GDP due to this hard Tory Brexit. We do not need to see the introduction of further trade barriers caused by the UK’s rush to make this change. A delay to see the outcome of the consultation early next year would be far more sensible than passing the legislation now. This is relevant because of the impact of the United Kingdom Internal Market Act 2020, which tramples over devolved competencies, and prevents the Scottish Parliament from refusing the sale of these products.
+
+I wish to speak to new clause 9 in the name of my hon. Friend the Member for Edinburgh North and Leith (Deidre Brock), which ensures that the democratic principle of devolution is upheld and that the Scottish Parliament still has the authority to legislate on the marketing of precision bred organisms. We have raised concern after concern about the implementation of the 2020 Act. If the UK Government intend to respect devolution, which the people of Scotland voted for, they must ensure that the Scottish Parliament can continue to take those decisions.
+
+There are both animal welfare and environmental concerns relating to precision breeding. We must ensure that those are properly considered and that all information and evidence is available before taking any decision. We strongly welcome more research into gene editing and new genetic technologies, but that must precede the wide-scale deployment of such technologies.
+
+The Scottish Government want to ensure that Scotland operates to the highest environmental and animal welfare standards, so that our world-class Scottish grown food continues to be outstanding. The impact assessment of the Department for Environment, Food and Rural Affairs for the precision breeding Bill acknowledges divergence from the EU approach, which could have implications for compliance costs and future trade. We must be able to export our produce and the Bill risks our farmers being further hamstrung—in addition to all the hardships they already face as a result of this Tory Brexit.
+
+David Duguid
+The hon. Member will be aware of the expression of disappointment from Martin Kennedy, president of NFU Scotland, that the Scottish Government have not become more involved in a UK-wide approach to this matter. None the less, she is absolutely right to say that this is a devolved competency. Does she agree that the UK Government have done nothing but be positive in terms of inviting the Scottish Government to be as involved in this matter as they possibly can be?
+
+Kirsty Blackman
+I cannot answer a question about the conversations that the Scottish Government and the UK Government have had on this matter, because I am not aware of exactly how those conversations have gone. What I am concerned about is the significant amount of produce that we export to the EU and the fact that the Bill poses a risk, for example, to the export of Scottish salmon. That is because the Scottish Government will lose some of their competency over this due to the internal market Bill and to the way that this framework is laid out.
+
+Should amendment 1 from the Green party be pushed to a vote, the SNP will support it. The paucity of evidence is particularly acute in relation to animals. The Bill also risks violating the intention and application of the Animal Welfare (Sentience) Act 2022, passed for England and Wales earlier this year. The RSPCA has highlighted the fact that the public would not and do not support that.
+
+New clause 8 relates to the labelling of food or feed produced by precision-bred animals. Eighty four per cent of people polled consider it important that all GE products introduced for sale in the UK are labelled as such, and only 8% do not consider that to be important. We are disappointed, therefore, that the UK Government no longer plan to consider requiring labelling for these products, despite the Minister saying in January 2022 that they would look at the matter. This will have a double impact in Scotland, because, even though the Scottish Parliament does not currently permit the marketing of these products, consumers will not be able to make an informed choice due to the lack of labelling requirements.
+
+Mr Deputy Speaker, now is not the time for this Bill to pass. The UK Government have failed to make the case for “why now?” and have failed to ensure that the devolved competencies of the Scottish Parliament are respected as they seek to push through this legislation.
+
+George Eustice (Camborne and Redruth) (Con)
+As the former Secretary of State who introduced this Bill on Second Reading, I rise to express a little sympathy for amendment 4—not so much sympathy that I would vote for it if it went to a Division tonight. Nevertheless, I believe that it highlights some important issues that are worthy of further consideration.
+
+First, amendment 1 proposes removing animals altogether from the scope of the Bill. Undoubtedly, using gene editing on animals raises complex ethical issues, along with the animal welfare dimension, and it was during such discussion when the Bill was being drafted that I considered excluding animals from the Bill. However, I want to explain to the House why, after reflection, I decided that we should include them.
+
+First, from my experience in government and, indeed, in this place, there is always a tendency to put off things that are difficult or complex and to kick the can down the road, but the right thing to do is to grapple with these complex matters and chart a course through them. Secondly, when considering some of the issues that we might be able to address through precision breeding, it became clear to me that, if this technology was used properly, we could actually enhance animal welfare in certain areas. When I first became a Minister in the Department for Environment, Food and Rural Affairs, the Beak Trimming Action Group set up by the last Labour Government was concluding its work. Beak trimming, using infrared beak tipping on day-old chicks, is required particularly for free-range systems, because otherwise there may be injurious pecking of laying hens. Through that work, we concluded that, while there were things we could do such as paying special regard to the feeding regime, it was against the welfare of those birds not to carry on the beak trimming.
+
+19:30:00
+
+However, something else emerged from that work. The white-feathered birds, which lay white eggs, are much less prone to injurious pecking. In fact, if white-feathered birds had the docility and behavioural traits we see in the brown-feathered birds that lay the brown eggs that dominate the UK market, the door would be open to regulatory changes that could ban beak trimming. It is the long-standing position of both main parties in this House that mutilations in the livestock industry should be phased out.
+
+There is a second area, which I saw first-hand, relating to the fate of male chicks in hatcheries producing laying hens. Every Easter, we will see pictures of yellow chicks on Easter eggs to celebrate spring and the birth of new life, but the fate of yellow chicks is not a particularly happy one. In the inter-war years, commercial laying flocks were bred specifically so that male chicks would be yellow, with the express purpose that somebody working on the production line could helpfully put the yellow chicks on to the right conveyor belt so that their life could be ended, since they had no use as laying hens.
+
+Leipzig University has explored the possibility of changing the eggshell colour so that a male egg can be identified much earlier and sentient beings are not hatched and then killed. I think precision breeding techniques could phase out that very bleak practice of killing day-old male chicks, which is a clear part of the laying hen system.
+
+Kerry McCarthy
+I am very pleased to hear what the right hon. Gentleman says, as I have spent quite a lot of time trying to convince people that that does happen to day-old chicks. Is it not the case that some other European countries have introduced legislation on that point, so it is not necessarily linked to genetic technology? I think they have acted to prevent so many chicks being killed.
+
+George Eustice
+What a number of countries have done—the UK was in the vanguard of this—was to move away from maceration of day-old chicks towards the use of carbon dioxide and argon gas as a means of dispatching them. However, I think we could accelerate the process of identifying the eggs through the use of genetic technology.
+
+Dehorning cattle is another mutilation that we would like to phase out over time. Progress has been made for some breeds on polled cattle—that is, cattle born without horns, so that we do not have to use a hot iron, albeit under anaesthetic, to de-bud them. Again, it is difficult to perfect without precision breeding techniques, but if we had that technology, we could have more polled cattle and reduce the need for conventional dehorning of cattle, or even pave the way for a regulatory change to prevent it.
+
+There is also the prospect of breeding more resistance to diseases. In the dairy herd some selection is already done for natural resistance to bovine tuberculosis. It is limited in its ability, but if we had the technology, we might be able to go further.
+
+At the moment, the Government plan to phase out and remove badger culling is predicated on a lot of confidence that a cattle vaccine will be viable and deployable, but it would be helpful to have additional tools in the box, and resistance to TB could be one of them. Of course, we are about to face another very difficult winter when it comes to avian flu, and this technology might have some application there.
+
+However, my sense when I read amendment 4 was that whoever drafted it had had one sector in particular in mind—the broiler chicken sector. There is a genuine concern that the production speed of broiler chickens, reduced now to around 32 to 33 days, is so fast that they are having all sorts of leg problems, and we might be able to make some changes there. That is a legitimate point, because while we might say it has improved the welfare of a broiler chicken that it is bred to finish within 32 days, we might say it is in its welfare interest to ensure that it does not have leg problems. There is a second question, which is whether it is the ethical and right thing to do to produce a chicken within 32 days rather than, say, 37 days, in which case the welfare problem goes away.
+
+A less obvious and less talked-about situation might be commercial duck production. We know that ducks need and want open water—it is part of their physiology and the way their beaks work. However, many commercial duck producers do not give ducks access to water. I have come across vets who will argue that it is in the interest of ducks not to have access to water, since that can spread disease and that is not in their welfare interest, but that goes to the root of the issue with animal welfare. We can either see animal welfare in the conventional five freedoms sense—freedom from pain, hunger, thirst and so on—or we can see it in the more modern sense of a life worth living.
+
+The amendment does not work, because the more we put into an amendment the more we inadvertently exclude. If we accepted an amendment that proscribed certain things but missed certain things, at a future date a breeder might bring a judicial review and say, “Well, this wasn’t covered by the Bill and everything else was.” Therefore, we would not be future-proofing the importance of animal welfare.
+
+However, that is where guidance could work. After Second Reading of the Bill, I asked our officials to give some thought to the idea of guidance, which might give organisations such as Compassion in World Farming and people such as Peter Stevenson, who is very thoughtful on these matters, the reassurance they need in the absence of a legislative change on the face of the Bill, which is difficult to do. The Minister may find that there is some guidance helpfully drafted—or it may be that it was not drafted, but it is not too late, because the Bill has time in the other House.
+
+Will the Minister consider whether this issue of how the animal welfare body should approach its task and how it should assess the impacts on animal welfare could be dealt with in a non-statutory way through guidance. He and his officials will have to issue terms of reference anyway to the animal welfare body, which is likely to be a sub-committee of the Animal Welfare Committee, and it would not take much to set out some parameters for the things we want it to bear in mind when making assessments.
+
+Tim Farron (Westmorland and Lonsdale) (LD)
+I will not speak for too long, but I want to address a couple of the amendments and some of the issues affecting the Bill overall.
+
+I will start by being extremely critical of the European Commission—[Hon. Members: “Hear, hear.”] Indeed. Most of us in this House think that science is broadly a good thing, or certainly at least neutral; it is a case of what we do with it. One of the things that has irritated me most about part of the Commission over a 20 or 30-year period is its knee-jerk objection to science in this area and the idea that there can be a moratorium not just on the application of knowledge, which is an issue, but on the very knowledge and research in the first place. That troubles me greatly. We should weigh all issues up and make wise, evidence-based decisions.
+
+On the one hand, I welcome the Bill and I certainly welcome and support science-based approaches to technologies such as genetic modification and what the Government refer to as precision breeding. They have the potential to deliver a major improvement in productivity and on the environmental front, reducing the impact of farming. Genetic modification can have a positive impact by allowing us to address pest and disease pressures on crops and farm animals, and so reduce our reliance on fertilisers and pesticides; that helps more broadly in the fight against climate change. Genetic modification also provides opportunities for us to meet global need, including the food requirements of the global poor. However, there are problems with the Bill, and reasons why I would support the Government being more open to amendments from the other place, and especially to amendments 3 and 4 tonight.
+
+Let me mention some areas in which the Bill is weak. It does not solve the intellectual property and commercial issues surrounding genetic modification technology. If we allowed science to be better used in farming, for the reasons we have set out relating to the environment and the quality and scale of production, but ended up making farmers, particularly tenant farmers, entirely beholden to the commercial interests of large, multinational agribusinesses, that would be an outrage. That is not what farmers in this country want; they want science applied, and they want freedom. They do not want to be pawns in a multinational game. That major area of concern is not addressed in the Bill.
+
+The Bill is also light on the details of the new regulatory requirements for crops and animals. I accept that animals should be in the scope of the Bill, but we are transitioning from a very high regulation system to a relatively low regulation system. The lack of detail on how the new system will work makes it hard to support the Bill.
+
+Amendment 12, tabled by the right hon. Member for North Thanet (Sir Roger Gale), would prevent the Secretary of State from authorising a new product if scientific evidence indicated
+
+“that the precision bred traits are likely to have a direct or indirect adverse effect on the health or welfare of the relevant animal or its qualifying progeny”.
+
+Lack of detail on those kinds of situations makes it hard for us to go into the Aye Lobby and support the Bill this evening. Editing a pig’s genes could, for example, make it resistant to disease—that would obviously be a welcome advantage of this technology—but the Bill must not be a shortcut that allows pigs to be reared in less hygienic, more crowded conditions. Again, that issue is not covered. Animals’ welfare must not only continue to be protected but be continuously improved.
+
+We do not want all the effort that has been put into the high standards in British farming to be wasted as a result of a back-door watering down of standards; but if there was such a watering-down, it would be part of a pattern, I am afraid. It would fit the pattern of the trade deals that are being designed and agreed to. The deals with Australia and New Zealand in particular basically throw away the high standards we have developed. It is not only that it is morally right to have those standards; they make the provenance of our produce important, make it high-quality, and give it high ethical value. What a desperate shame that free trade, which is a good thing, should be done so badly that our farmers are thrown under the bus, have their livelihoods threatened, and cannot take advantage of the benefits that free trade ought to provide. If the Bill is part of a deregulatory framework, or part of an agenda that seeks to unfairly disadvantage British farmers or throws the standards that they have developed under the bus, that is unacceptable. Unamended, the Bill forms part of a pattern of this Government throwing our farmers to the wolves.
+
+Farmers do not benefit from the application of science envisaged in the Bill if they do not survive the transition from the current payment scheme to the new one. Reshuffle upon reshuffle has followed on from great uncertainty, which the Government introduced in September when they indicated that they might be prepared to rip up the environmental land management scheme. There are many problems with that scheme, by the way; the fact that only 1% of eligible farmers have applied for the sustainable farming incentive shows how poorly the Government are rolling out a scheme that most Members agree with in principle. The worst thing the Government could do is rip it all up; the best thing they could do is invest in protecting the £3.5 billion supposedly ringfenced for ELMS and allow the process to take place, so that farmers survive. Farmers will be in no position to protect our environment, produce our food or apply the science that the Government want them to apply if they do not survive.
+
+In short, we strongly support the principle underlying the Bill, but we strongly urge the Government to consider the amendments before us this evening, and those that will undoubtedly be tabled in the other place, to improve regulation, safety and animal welfare, and protect farmers from the damage that could be done to them if they end up being the pawns of multinational global enterprises. I would hate the United Kingdom to end up a mirror image of the European Commission, which regulated to such an extent that applying science was impossible. Alternatively, the Government may deregulate to such an extent that it is hard to defend the science, and that would be a real shame for all of us who genuinely care about the application of science in farming.
+
+19:45:00
+
+Sir Roger Gale (North Thanet) (Con)
+I will speak to amendment 12; I hope to be commendably brief. A fundamental principle of veterinary science is that procedures should be carried out in the interests of the animal and animal welfare. Many of the proposals brought forward will, I believe, be in the interests of animal welfare, and I have no problem with them whatever. I simply seek an assurance from the Minister that, if it becomes apparent that a change that is to be made would have an adverse effect on animal welfare, no licence for the change would be granted. That is all I ask for.
+
+Caroline Lucas (Brighton, Pavilion) (Green)
+It is a pleasure to follow the important speech by the right hon. Member for North Thanet (Sir Roger Gale), with which I agreed. As I said on Second Reading, this is a flawed Bill; it is unclear and it is not robust, and legal experts have said that it is staggeringly imprecise. Nothing that has happened since Second Reading has caused me to change my mind, so I have tabled a number of amendments, and welcome the opportunity to speak to them, starting with amendments 1 and 2, which would remove animals from the Bill’s scope and title. For the record, it is my intention to press amendment 1 to a vote.
+
+As I say, amendment 1 would remove animals from the scope of the Bill, but the intention is not, as the right hon. Member for Camborne and Redruth (George Eustice) suggested, to kick the can down the road; I genuinely believe that we need more time to look more carefully at what kind of regulatory framework we need, so that we can make the most of potential benefits, but also safeguard ourselves against risk. I acknowledge that there may well be potential benefits to the legislation, but I hope that others will acknowledge that there may well be serious risks, and I do not think that the work has been done to get the balance right in the Bill. We need more safeguards that are commensurate with the risks. That is why—for the moment, at least—we should remove animals from its scope. If the Government wish to legislate on gene editing of animals, they need to give much more thought to defining the circumstances in which that is acceptable, and to provide much more detail on how it will be regulated.
+
+I recognise that clauses 10 to 15 are an attempt to prevent the significant risks that are associated with precision breeding, but I do not think that those measures are sufficient. When we debated the animal sentience legislation, the Government were prepared to accept that there should be a mechanism, via the animal welfare hub, through which the impact of animal sentience legislation could be properly considered by independent experts with the relevant skills. There is an urgent need for something similar that allows us to judge whether genetic engineering will be harmful to animals, how it can be better regulated, and how that can be done transparently. The model in clause 11, however, gives the person applying for authorisation and the Secretary of State far too much authority and responsibility, and the proposed animal welfare advisory body is given only a weak, secondary, advisory role. I worry that that suggests that welfare considerations will carry very limited weight in decision making.
+
+It is also of concern that, under the Bill, the full regulatory system is supposed to be set through secondary legislation. That vastly reduces the scope for vital parliamentary scrutiny on issues of animal welfare and gene editing.
+
+The claims made for gene editing mainly focus on increasing productivity and disease resistance. The Government argue that gene editing is simply an extension of traditional breeding, such as selective breeding, but is more precise and efficient. I assume that is intended to be reassuring, but over the last 50 years selective breeding has itself caused substantial health and welfare problems in most of the main farmed species. We have already heard about the concerns about broiler chickens who have been bred to grow so quickly that many suffer from leg disorders, while others succumb to heart disease. Hens have been bred to lay over 300 eggs a year. They have to draw on their own bone calcium to produce egg shells. This results in osteoporosis, leaving them susceptible to bone fracture. A cow producing milk for her calf would normally produce just over 1,000 litres in her 10-month lactation. Many of today’s dairy cows have been bred to produce 10,000, or even 11,000 or 12,000 litres of milk a year. That contributes, unsurprisingly, to many suffering from lameness, mastitis and reproductive disorders, and the animals live with those welfare problems for a substantial part of their lives.
+
+Gene editing for even faster growth and higher yields would exacerbate the suffering caused by selective breeding. I believe it would be unethical to permit it for increased productivity, and it simply should not be necessary for disease resistance. The proper way to reduce diseases that are generated by keeping animals in poor conditions is to move instead to health-oriented farming systems, in which good health is inherent in the farming methods. Indeed, gene editing could lead to animals being kept in even more crowded and stressful conditions, as they would be resistant to the disease risks that are inherent in those conditions.
+
+I cannot be the only Member who has been lobbied hard to remove animals from the Bill’s scope. I urge the Government to listen to the public and look again at this. They should return the legislation on this subject only once they have given much more detailed consideration to the issues that I have raised. Another of those issues is that nobody involved in drafting this legislation could, I imagine, have honestly envisaged it applying to, for example, domestic cats and dogs. Yet, without clarification, that is exactly what the current drafting could result in.
+
+Our constituents want to be confident that there is consistency in the Government’s ambition for improving animal welfare. They want to know that gene editing cannot be used as some kind of techno-fix and that it will not entrench intensive farming, with its inherent environmental and animal welfare shortcomings. If my amendments are a step too far, I would urge Ministers, as a form of compromise, to bring forward an amendment of their own in the other place that will at the very least limit the scope much more explicitly to farmed animals. In the meantime, my amendments 1 and 2 would remove animals from the scope of the Bill.
+
+Let me move on briefly to a few other amendments in my name. New clause 7 is about informing consumers about what they are buying. It would require the Secretary of State to make regulations on the labelling of this new class of GMO and to do so in consultation with key named stakeholders. Clear labelling is something that we know consumers want. The Food Standards Agency found that:
+
+“Consumers wanted transparent labelling…if genome edited foods reach the UK market.”
+
+My new clause does not prescribe what form that labelling should take; the groups and organisations that it lists for consultation are much better placed to determine that. They include the FSA, food producers, retailers, consumers and anyone else the Government think appropriate. In other words, it would allow for co-operative, sensible, well-informed approaches. I hope Members will back new clause 7 on that basis. Finally, labelling—in either the form set out in my clause or some other form—could represent a step towards resolving the differences with the devolved Governments, which we have already heard about, for whom, for example, alignment with EU standards is a major priority and a current source of disagreement with Westminster.
+
+Amendments 6, 7, 8, 9 and 10 are a group designed to ensure that regulation is sufficiently robust when it comes to authorising activities involving so-called precision-bred organisms. They seek to convert the powers afforded to the Secretary of State into requirements. In addition, amendment 8, alongside amendment 7, would require obligations relating to supply chain traceability. Without amendment 7, the Bill fails to mandate any such traceability for the new category of precision-bred organisms.
+
+That would be inconsistent with the current long-standing requirement for mandatory traceability for GMOs and would create significant trade barriers for organic businesses in the UK wanting to export products to, for example, the EU or Northern Ireland. The UK organic sector is worth £3 billion, so it makes no economic sense not to amend the Bill and ensure mandatory supply chain traceability. Traceability of genetically engineered organisms is also essential to support recall in the event that novel allergens or toxins, or other safety issues emerge after release.
+
+I believe the Bill is badly conceived and badly drafted. My amendments are all designed with one of two things in mind: to bring either clarity or robustness to the regulatory framework for precision-bred organisms. It is with that intention that I lent my name to a number of other amendments, on behalf of the official Opposition in particular. I hope that they might support mine in the same spirit.
+
+Dr Neil Hudson (Penrith and The Border) (Con)
+It is a great pleasure to speak in this debate and to follow the hon. Member for Brighton, Pavilion (Caroline Lucas), who is a passionate advocate for the environment and animal welfare issues.
+
+I firmly believe that this Bill is an important piece of legislation. I first declare an interest: as a veterinary surgeon, I am passionate about animal health and welfare. I also represent Penrith and The Border, a huge rural constituency with a huge farming footprint. We have the most fantastic farmers in Cumbria, and across the UK, who farm to the highest animal welfare standards. I firmly believe that we do not have anything to fear from this legislation, but I do understand some of the concerns that have been raised, and I will speak to some of the amendments and new clauses.
+
+It is important to reaffirm from the outset that this Bill is to do with gene editing, which is very different from genetic modification, where genetic material from an exogenous species is potentially inserted. That is not the case with what this Bill is concerned with. Gene editing is very different from genetic modification. When the Government move forward with this Bill, it is important that they keep articulating and communicating that to the public, to try to alleviate some of those concerns.
+
+I firmly believe that there are huge benefits to be gained from this legislation to animals, plants, the environment and the human race. I respectfully disagree with amendment 1, because I firmly believe that it is important that animals are included within the scope of the legislation. I will try to articulate why I believe that. There will be huge benefits to animal health and welfare from the development of animals and potentially birds that have more resistance to diseases, as colleagues have touched on. As a veterinary surgeon, I firmly believe that is a good cause, because if we can reduce the incidence of disease, that is an animal health and welfare gain.
+
+We have talked about birds becoming more resistant to avian flu, and we have seen how this country is being ravaged at the moment by avian influenza. Technology that helps us to mitigate that is to be welcomed. In addition, in the pig world, pigs with resistance to porcine reproductive and respiratory syndrome, PRRS, will be another good development. Anything that can reduce morbidity and mortality in the animal world is something to be welcomed. As some Members have touched on in interventions, ultimately that could also lead to a reduction in the use of veterinary medicines. That will be of benefit to the animals, but it will also be of indirect benefit to humans. If we can reduce the amount of antimicrobials used, that will mitigate the blight of antimicrobial resistance that is affecting the whole world. I firmly believe that there are indirect benefits to the human race as well.
+
+As I have touched on, we are seeing widespread cases of avian flu across the UK, which leads me to stress to the new ministerial team that we really need DEFRA to adequately fund the Animal and Plant Health Agency. Certainly, the Weybridge headquarters in Surrey is in urgent need of refurbishment, which has been estimated at £2.8 billion. The Public Accounts Committee has looked at that, as has the Environment, Food and Rural Affairs Committee. I really push the Government to invest in the APHA to try to prevent diseases and outbreaks in the future. That is very important.
+
+I firmly welcome anything that can reduce morbidity and mortality in farming. I speak as a vet with a lot of first-hand experience through the patients I have treated, but also through my experiences in the foot and mouth crisis of 2001. The trauma that infectious diseases can create for rural communities is something that we are still living with in Cumbria and other parts of the UK. When a farmer who is farming his or her stock gets the vets involved to treat disease, that has a toll on the vets and on the farmer. No one working there wants to see animals suffering from disease.
+
+I firmly believe that if we can improve animal health and welfare with such technology, that will have an indirect benefit on human mental health. We on the Environment, Food and Rural Affairs Committee have looked at that in our rural mental health inquiry. If we reduce the amount of medicines, that will help animals and people.
+
+20:00:00
+
+I also firmly believe that the Bill will help with food security, as other hon. Members have said. If we can develop climate resilient and disease resistant crops, that will reduce the need to use pesticides and fertiliser. In the food security crisis in the UK and across Europe, we have seen how critical the supply of fertiliser is to the country. We have two plants, one of which, the Ince plant, has been mothballed and one of which, the Billingham plant, has ceased to produce ammonia. Anything that can help to reduce the use of fertilisers will help with critical infrastructure too.
+
+As I said, I understand some of the concerns that have been raised tonight and in Committee. To mitigate and alleviate some of those concerns, the Government could tweak the Bill in the other place, or the Minister could give reassurances at the Dispatch Box tonight that the Government are looking at some of those suggestions and will move forward with them.
+
+On amendment 11, regarding exogenous material, that point has been well made. As I said earlier, however, gene editing is different from genetic modification where exogenous material comes in. If the Government could be clearer with the public and articulate again that the gene editing procedure does not include exogenous genetic material being inserted, many of the fears outside this place would be mitigated.
+
+I share some of the concerns about consumer confidence in terms of transparency, the providence of our food and how it is produced, so the Government could indicate that they will look at giving more information to consumers through labelling and information about how some of those products are produced. We have nothing to fear from this technology, so I do not think that we have anything to fear from being clear with the public about the technology. If the Government could give reassurances on that, it would help people inside and outside this place.
+
+I take on board the concerns about animal health and welfare. People fear that the Bill might lead to different practices that will exacerbate animal health and welfare issues in farmed animals. It is important to remember that in this country, we farm to the highest animal welfare standards and that there are robust mechanisms for monitoring animal health and welfare in our farming practices. People should be reassured by that, but equally, there is scope within the Bill for increased monitoring of animal health and welfare in terms of the animals that are produced through this technology. So again, we have good regulatory mechanisms and there is scope within the Bill to improve them. If the Government could give reassurances on that, it would alleviate some of the fears.
+
+We in this country should be proud of farming to the highest animal health and welfare standards and we can be a beacon for the rest of the world in that area. I support the Bill, but I understand some of the concerns that have been raised. If we can get some clarity and assurances from the Government, the House could come together, as the Bill progresses to the other place, to say that this will ultimately benefit animal health and welfare. As I said, I think it will help animal health and welfare and the environment, and support human and public health and the mental health of people working with animals. I wish it well as it progresses.
+
+Jim Shannon
+It is a pleasure to speak in this debate and to follow the hon. Member for Penrith and The Border (Dr Hudson). He brings much knowledge to the debate and I thank him for sharing that with us.
+
+I welcome the Bill and I declare an interest, as I must, as a member of the Ulster Farmers Union and a farmer in Northern Ireland. The Bill will bring great benefits, not just to England but to the whole United Kingdom. In my earlier intervention, I mentioned the Northern Ireland Protocol Bill, which I will touch on later. I welcome the Minister’s response.
+
+I live among farmers, who are incredible people. They love their animals and the job they do. They are very efficient. Near me, they have high-quality dairy herds, beef cattle, lamb, pork and poultry. My farmers want the best, and that is what I want for Northern Ireland. It is no secret that Northern Ireland’s high-quality produce is some of the best in the world and is much envied. Northern Ireland leads the way, but we want to be part of the Bill. The Northern Ireland Protocol Bill, however, does not enable us to do the same as the farmers here.
+
+As the Member for Strangford, a strong agricultural constituency, legislation to unlock new technologies to boost food production, support farmers and grow more productive crops is certainly of great interest to me and those I represent—my neighbours across Strangford and across Northern Ireland. As always, one of my first ports of call was to see what the farmers thought about it. They were clear and quickly explained to me that gene editing is different from GM and gives us an opportunity to be more efficient and farm better. It does not result in the introduction of DNA from other species and creates new varieties similar to those that could be produced more slowly by natural breeding processes. It will potentially provide a greater yield and better farming practices.
+
+Crucially, precision breeding technologies will help to develop foods with direct benefits to the public, such as products of better quality, increased nutritional value and a longer shelf life. Those are things that we are all striving for and we should all try to make those ambitions happen, so the technology can only be a good thing as long as it is safe and has farmer buy-in. From my discussions with farmers, it clearly has that buy-in.
+
+We must be realistic and say that farmers have been gene editing for generations but did not have a fancy name for it; they knew it as splicing. I am old enough to remember my grandmother splicing the peas and beans to make bigger and better varieties of peas and beans. That goes back to the ’60s—it was not yesterday—but even in those early days, perhaps my grandmother was a bit of a pioneer in doing such things. Today we do not call it splicing but genetic technology. That is a much fancier name, and much greater, because it is about more than that, which is why the Bill is important. Through trial and error, science has allowed us to go to the next level, yet we must be mindful of the difficulties that can come by decimating the wonderful structure of nature that God has put in place. I believe that the Bill provides safety and security, and a way forward to UK food security.
+
+A fortnight ago, I had the opportunity to meet a constituent, Stephen Alexander, who keeps 130 Dexter cattle—an almost-unique herd across Northern Ireland. He takes 60 acres of land at Orlock in North Down, he has some land at home in Greyabbey, and he takes other land just down the road. He made a deal with the National Trust, which was that he would not use fertilisers or bring anything new on to the land—it all had to be natural; the grass was natural—which was quite unique. Along with the Department of Agriculture, Environment and Rural Affairs Minister Edwin Poots and others, I had a chance to see how that works. It does work: it is an organic farm in every sense of the word, yet all the cattle are exceptional.
+
+That is another reason why it is essential to bring in the Northern Ireland Protocol Bill as a matter of urgency. As Edwin Poots outlined:
+
+“The introduction of the Genetic Technology (Precision Breeding) Bill in England will not apply to Northern Ireland. The Protocol requires alignment to EU rules so gene-edited crops developed in England under the Bill”—
+
+that we could take advantage of in Northern Ireland—
+
+“would not be available for cultivation in Northern Ireland.”
+
+We need parity of opportunity and of legislation. When the Northern Ireland Protocol Bill returns to this House from the other place, we need to see that we will have that opportunity.
+
+The fact is that for any British gene-edited crops we would have to apply to the European Food Safety Authority for approval before they could be sent to Northern Ireland, which imports, among other things, grain for animal feed. Even then, the crops could still be banned by Dublin, and that is what this really is: the EU and Dublin, with their hand—their dead hand—upon us on many occasions. That would present a fresh headache in ensuring the affected plants did not cross that invisible Irish border.
+
+It is clear that while this Bill is a stand-alone one, the fingerprints of European intransigence are all over it. I again make the point that it is not this Bill, but the Northern Ireland Protocol Bill, whenever it comes back, that will give us in Northern Ireland the same chance as the Genetic Technology (Precision Breeding) Bill. I would ask the House and the Government to reinstate their support for us whenever the Bill, which I think is going through the other place tomorrow, comes back to us.
+
+As someone who loves the land and always supports the farmers, I trust those who have farmed for generations when they say that this is an enhanced version of splicing and that there is a need to be open to all possibilities. I say the Bill is the right way to go to ensure that the facility is there and so suits the farmers and food producers, and allows Northern Ireland to play a crucial and important role to advance our markets across the world. It will also ensure that we can grow and provide more jobs and a stronger economy, and that we can determine this for ourselves, rather than have the unelected EU, with no Northern Ireland voices, dictating our food security and farming practices.
+
+That is my bid for the Minister about what has been brought here tonight. I really do support this, and I think it is the right thing to do. I will say in advance that amendment 4—perhaps the Minister can clarify this for me at the end, if possible—while it has been put forward by the Labour Opposition, has I believe been done in the best possible sense. I understand that the Minister’s colleague, the hon. Member for Crawley (Henry Smith), was going to put forward something similar, and we were apt to support that. So if the Opposition move amendment 4, which would ensure that the Secretary of State takes into account animal welfare in relation to Northern Ireland, that is the one on which we will probably disagree with the Minister, unless clarification can be given to us. However, on everything else, I fully support the Minister and the Government as they bring this Bill forward.
+
+Jo Gideon (Stoke-on-Trent Central) (Con)
+It is always a pleasure to follow the hon. Member for Strangford (Jim Shannon). I think we have had a very thoughtful and good-humoured discussion. It is clear that animal welfare is a key feature for both sides of this House. I just want to mention amendment 7, with which I have a great deal of sympathy, but I will not be supporting it because I think the question of labelling needs to be looked at in a much wider context. I would very much urge the Minister, within that wider context, to look at consumer information, which I think is a really important issue.
+
+Last week, I spoke in the Chamber on the national food strategy and food security. Much has changed since Henry Dimbleby published his recommendations last summer. The cost of everyday staples continues to rise as the war in Ukraine pushes food price inflation to its highest level in 14 years. So this is the right time to consider alternative ways that our Government can strengthen the nation’s food security.
+
+By removing barriers to precision breeding, the Genetic Technology (Precision Breeding) Bill will open the future to developing crops that are more resistant to pests, disease and climate change, reducing the need for fertilisers and pesticides. Genome editing provides the opportunity to achieve the outcomes of plant breeding, which has been so successful in controlling diseases and improving yields, but in a much more precise manner.
+
+In encouraging this innovation, placing UK researchers and commercial breeders at the forefront of exploring what these technologies have to offer, we can use science to move away from chemical use and make land more productive, both reducing the cost of food and restoring the balance of nature. However, the UK’s world-leading animal welfare standards must be upheld, so I support the step-by-step approach to legislation, with a focus on plants and maintaining our high standards in animal welfare. I am sure that the Minister has listened to some of the concerns that have been expressed, and that will probably be reflected in looking at the wording of the Bill.
+
+This Bill is a real opportunity to make a positive contribution to a more sustainable food system. For instance, by reducing the spoiling and browning of foods and increasing their shelf life, we can help reduce food waste. It could enable us to improve the nutritional profile of foods—for example, by increasing antioxidants, phenols and tannins in fruit and vegetables, or improving oil and carbohydrate profiles, delivering foods that benefit consumers and reduce the burden on healthcare providers.
+
+Precision breeding represents an opportunity to develop crops with modified macronutrient status, such as increased resistant starch, which naturally reduces the calorific content of food, but increases the level of fibre. Through agritech innovations, farmers around the world will have the opportunity to make better use of their land, fight off harmful pests and better regulate the nutrients in their soil, while removing unnecessary barriers, and helping the world grow more and strive towards a greener tomorrow. In that spirit, I think the Bill is the right step forward, and I just hope that we can all get behind it.
+
+20:15:00
+
+Mark Spencer
+Can I say how much I have enjoyed the comments from across the Chamber? I will seek to give colleagues some reassurance.
+
+I will start with the comments from the hon. Member for Aberdeen North (Kirsty Blackman), who spoke to new clause 9, in the name of her hon. Friend the Member for Edinburgh North and Leith (Deidre Brock). The mutual recognition principle in the UKIM Act means that goods that comply with the relevant legislative requirements in one part of the United Kingdom can automatically be sold in other parts of the United Kingdom without complying with any differing relevant legislative requirements in those parts. Consequently, should UK Government legislation allow precision bred plants, seeds, animals, food and feed to be placed on the market in England, such products would be able to be placed on the market in Wales and Scotland. However, this would not be the case if a UKIM exclusion was put in place for precision bred products.
+
+The hon. Member for Aberdeen North may recall that when this matter was raised in Committee, my predecessor explained that there is an established process for considering exclusions to the application of the market access principles of the UK Internal Market Act in the common framework areas. This process has been agreed by the UK Government, the Scottish Government, the Welsh Government and the Northern Ireland Executive. No formal request for a UKIM exclusion has been received from the Scottish Government in the context of ongoing intergovernmental discussions on the Bill between DEFRA and devolved Administration officials. As a result, we do not consider amending the UKIM Act itself to be appropriate, but rather that the UKIM exclusion process would be the appropriate route to consider the rationale and potential impact of a UKIM exclusion.
+
+Turning to amendment 13, which is in addition to new clause 9, the hon. Member may once again recall that this was discussed extensively in Committee, and my predecessor explained that the common framework covering GMO marketing and cultivation was within the scope of the common frameworks programme. However, all four Administrations agreed that a common framework in this area was not required because the administration and co-ordination of this policy area was already provided for through existing intergovernmental arrangements under the GMO concordat.
+
+In addition to engagement between DEFRA and genetic technology officials in the devolved Administrations, it is worth noting that the precision breeding policy interacts with four provisional common frameworks: animal health and welfare; plant varieties and seeds; food and feed safety and hygiene; and food compositional standards and labelling. Engagement among the respective officials is ongoing through these relevant frameworks.
+
+We will continue to engage with our devolved Administration counterparts to address their specific concerns in connection with the Bill, but I encourage the hon. Member to embrace the opportunity that the Bill presents to unlock the benefits of science and research and development in this country, and ensure that the UK continues to invest in innovation in the agrifood industry. It would be a tragedy for Scottish farmers not to be able to embrace this new technology and I urge her to come with us on this journey and not to disadvantage Scottish farmers.
+
+On amendment 3, we are very much aligned with the intentions of the hon. Member for Cambridge (Daniel Zeichner) and his colleagues to embed public interest into the Bill. We want precision breeding technologies to secure real benefits. I believe that they are a vital part of our toolkit to secure benefits for our food and environment. The amendment applies to release into the environment, which principally covers field trials. These are crucial in building our understanding of how genetic changes impact organisms under field conditions, and they are an integral part of the pure research as well as for breeding programmes. It is not necessary to place restrictions on research using these technologies, and we have no evidence to suggest that developers are doing anything other than what occurs in traditional breeding or in nature by creating new, stronger varieties that allow us to grow better and harvest better.
+
+We also recognise the need to safeguard animal welfare, which is why we intend to take a step-by-step approach to implementing the Bill. We intend that precision bred animals will remain regulated under the GMO regime until the regulatory system outlined in the Bill is developed, to safeguard animal welfare. Delivering public good is what we strive for across Government and we are fully committed to developing a new, sustainable, resilient and productive food system, and I hope Members see that our interests and those of researchers in the UK are aligned.
+
+On amendment 5 and environmental principles, the hon. Member for Cambridge and his colleagues have made it explicit that regulations made under this Act must be made in accordance with the environmental principles and the policy statement in the Environment Act 2021 and article 391 of the trade and cooperation agreement between the UK and the EU. Section 19 of the Environment Act provides that Ministers must have due regard to the policy statement on the environmental principles. DEFRA has already published and laid a draft version of the statement before Parliament for debate. Parliamentary scrutiny of the draft policy statement concluded in June and we are considering the feedback received from Parliament and will publish a final statement in due course.
+
+As we are making good progress in this regard, it is unnecessary to amend the Bill with a provision that will be unnecessary by the time the regulations under the Bill come into force. Of primary importance is the advice from the Advisory Committee on Releases to the Environment that the provisions in the Bill do not have the effect of weakening or reducing environmental protections. The esteemed independent experts who sit on ACRE have provided the Government with this assurance, and it is this guidance that gives the Government the assurance to take the legislation forward. I would emphasise that Ministers before me have found that the Bill is consistent with our non-regression commitment to the EU and does not reduce our environmental protections.
+
+On the debate about aligning with the EU, as some Members want, we recently closed the consultation on a potential new regulatory framework for precision bred plants. Some 80% of people considered the current regulations not to be fit for purpose. The EU intends to reform its own regulatory system as early as 2023 and we await the details on that.
+
+Amendments 1 and 2 caused a great deal of debate and clearly many colleagues have concerns, so I am grateful to the hon. Member for Brighton, Pavilion (Caroline Lucas) for this opportunity to address this area. As with plants, there are potential benefits in enabling precision breeding in animals to improve the health, welfare and resilience of those animals, and we have a real opportunity to harness the great research taking place across the UK. Ensuring that these technologies are used responsibly without compromising animal health and welfare is vital. That is why we intend to take a stepwise approach in implementing the Bill, with regulatory changes to the regime for plants coming first, followed by animals at a later date. We want to ensure that the framework for animal welfare set out in the Bill is effective and workable, and we will not bring the measures in the Bill into force in relation to animals until the system is in place.
+
+We are also clear that the system to protect animal health and welfare in the Bill will work with our existing animal welfare regulatory framework for protecting animals. We want to maintain and build on our strong record of animal welfare. If we want to drive investment in new research with potential for innovation and precision breeding in animals, we need to move forward with this Bill. It provides a clear signal that the UK is the best place to conduct research and bring products to the marketplace.
+
+Building on this, and turning to amendment 4 in the name of the hon. Member for Cambridge and his colleagues, I recognise the level of concern about animal welfare. The suggestions outlined in the amendment represent issues that we will make sure are explored further as we develop the technical details underpinning the system for safeguarding the welfare of relevant animals and their qualifying progeny. That is why we have commissioned a research project to gather the evidence required to develop the health and welfare assessment. We have published an update note on animal welfare to explain our approach. I do not, however, consider this amendment to be necessary. Clause 13 will make sure the Secretary of State for Environment, Food and Rural Affairs will need to be satisfied with the animal welfare declaration before issuing a precision bred animal marketing authorisation. This goes to the heart of what my right hon. Friend the Member for North Thanet (Sir Roger Gale) was concerned about. Further, the power in clause 25 allows us to set out in regulations what constitutes an adverse effect on health or welfare, including parameters needed for assessment.
+
+The welfare declaration and the welfare advisory body’s assessment will be based on the principle that precision bred relevant animals will need to be kept in conditions that satisfy existing requirements on the keeping of animals set out in the Animal Welfare Act 2006 and the Welfare of Farmed Animals (England) Regulations 2007. I understand hon. Members’ concerns but reiterate that we have welfare-led legislation in place and this Bill is intended to work alongside it to enable responsible innovation.
+
+I will take the opportunity of turning to amendment 12 to expand on the process set out in the Bill to ensure that the Secretary of State for Environment, Food and Rural Affairs will have the necessary information to determine whether it is appropriate to issue a precision bred marketing authorisation. An application for such authorisation will have to include a declaration, with supporting evidence, that the notifier does not expect the health or welfare of the relevant animal or its qualifying progeny to be adversely affected by any precision bred traits. Any adverse effect could cover any direct or indirect effect and as such specifying this is not required in the Bill. The Secretary of State will need to refer the welfare declaration and all required accompanying information to a welfare advisory body with independent scientific expertise, which will report its conclusions to the Secretary of State.
+
+These steps will provide a rigorous and proportionate basis for ensuring that the Secretary of State’s decisions on whether to issue precision bred marketing authorisations are appropriately informed by scientific evidence. As set out in our recently published policy update on animal welfare, the power in clause 25 could include consideration of any known health or welfare issues in selective-bred animals. I hope that gives my right hon. Friend the Member for North Thanet the reassurance he seeks.
+
+Amendment 8 would require provisions in regulations for securing traceability of precision bred organisms in food and feed through supply chain auditing. The Bill proposes powers to introduce specific traceability requirements for food and feed produced from precision bred organisms placed on the market in England. That will be in addition to general rules on traceability that apply to all food and feed and to specific traceability rules that apply to particular food products regardless of the production method used. The Food Standards Agency will develop and design evidence-based options on how best to secure traceability of food and feed from precision bred organisms placed on the market in England. Any options on traceability must be sufficiently future-proofed and strike a proportionate balance between ensuring food safety and enabling innovation. Additionally, any new measure to secure traceability of precision bred organisms will need to build on existing infrastructure for general traceability, which food businesses already have a statutory obligation to secure.
+
+The Food Standards Agency will advise on proportionate measures for securing traceability, making use of the advice from its scientific advisory committee, and will ensure that proposals are subject to a public consultation before any specific measures are implemented. The amendment proposed by the hon. Member for Brighton, Pavilion would not allow for that process to happen as it would restrict traceability to supply chain auditing.
+
+20:30:00
+
+I will turn briefly to my hon. Friend the Member for Penrith and The Border (Dr Hudson), who had some concerns about exogenous DNA—I hesitate, Madam Deputy Speaker, because I do not want to use the word “erogenous” rather than “exogenous”, so I will not use that word again. Amendment 11 would exclude any organism from the definition of a precision bred organism if a technique or process involving the insertion of said genetic material was used during any step of its development. Under the amendment, such important research would fall outside the scope of the Bill and such plants would be classed as genetically modified organisms.
+
+Professor Napier’s research illustrates the situation that would arise for much of the other great research taking place across the country if the amendment were to stand. Innovation through technology such as precision breeding can help to create new markets, support a sustainable economy and help British businesses to compete globally. If we were to accept the amendment, countries elsewhere in the world with proportionate regulations would be able to use the technology with its huge potential and benefits as it develops whereas we would remain impeded by our current legislation. I hope that I have reassured my hon. Friends and hon. Members across the House and that they will not press their amendments so that we can continue to progress this important piece of legislation.
+
+Daniel Zeichner
+I do not have much to add and do not want to detain the House. All I will say is that I am slightly disappointed that the Minister does not feel able to join us in looking for a stronger regulatory framework. We really think that would help, and some contributions from colleagues on the Government Benches indicated that there are concerns. Ultimately, the Opposition will support the Bill tonight, but we would much prefer it if it came with the amendments that we have proposed, which would much strengthen it. We do not propose to press new clause 1, so I beg to ask leave to withdraw the motion.
+
+Clause, by leave, withdrawn.
+
+New Clause 9
+
+Power of the Scottish Parliament to legislate on the marketing of precision bred organisms
+
+‘(1) Schedule 1 of the United Kingdom Internal Market Act 2020 is amended as follows.
+
+(2) After paragraph 11 insert—
+
+“Marketing of precision bred organisms
+
+11A The United Kingdom market access principles do not apply to (and sections 2(3) and 5(3) do not affect the operation of) any Act of the Scottish Parliament, or any subordinate legislation made under or by virtue of such an Act, relating to the marketing of—
+
+(a) precision bred organisms, or
+
+(b) food or feed produced from precision bred organisms.”.’—(Kirsty Blackman.)
+
+Brought up, and read the First time.
+
+Question put, That the clause be read a Second time.
+
+Division 81
+31/10/2022 20:33:00
+The House divided:
+Ayes: 37
+Noes: 282
+Question accordingly negatived.
+
+Clause 1
+
+Precision bred organism
+
+Amendment proposed: 1, page 1, line 4, leave out
+
+“or a precision bred animal”.—(Caroline Lucas.)
+
+This amendment removes animals from the scope of the Bill.
+
+Question put, That the amendment be made.
+
+Division 82
+31/10/2022 20:48:00
+The House divided:
+Ayes: 159
+Noes: 280
+Question accordingly negatived.
+
+Clause 3
+
+Restrictions on release of precision bred organism in England
+
+Amendment proposed: 3, page 3, line 35, at end insert—
+
+“(c) the organism has been developed for or in connection with one or more of the following purposes—
+
+(i) producing food in a way that protects or enhances a healthy, resilient and biodiverse natural environment;
+
+(ii) growing and managing plants or animals in a way that mitigates or adapts to climate change;
+
+(iii) producing food in a way that prevents, reduces or protects from environmental hazards;
+
+(iv) protecting or improving the health or welfare of animals;
+
+(v) conserving native animals or genetic resources relating to any such animal;
+
+(vi) protecting or improving the health of plants;
+
+(vii) reducing the use of pesticides and artificial fertiliser;
+
+(viii) conserving plants grown or used in carrying on an agricultural, horticultural or forestry activity, their wild relatives or genetic resources relating to any such plant;
+
+(ix) protecting or improving the quality of soil;
+
+(x) supporting or improving human health and well-being;
+
+(xi) supporting or improving the sustainable use of resources.”—(Daniel Zeichner.)
+
+This amendment would require that a precision bred organism has been developed to provide a public benefit, if it is to be released into the environment.
+
+Question put, That the amendment be made.
+
+Division 83
+31/10/2022 21:01:00
+The House divided:
+Ayes: 136
+Noes: 279
+Question accordingly negatived.
+
+Clause 13
+
+Issue of precision bred animal marketing authorisation
+
+Amendment proposed: 4, page 9, line 20, at end insert—
+
+“(za) that the precision bred traits will not have a direct or indirect adverse effect on the health or welfare of the relevant animal or its qualifying progeny,
+
+(zb) that the relevant animal and its qualifying progeny are not likely to experience pain, suffering or lasting harm arising from or connected with fast growth, high yields or any other increase in productivity,
+
+(zc) that the precision bred traits will not facilitate the keeping of the relevant animal or its qualifying progeny in conditions that are crowded, stressful or otherwise likely to have an adverse effect on animal welfare,
+
+(zd) that the objective of the precision bred traits could not reasonably have been achieved by means that do not involve modification of the genome of the animal.”—(Daniel Zeichner.)
+
+The amendment requires a range of factors to be taken into account by the Secretary of State when deciding whether to issue a precision bred animal marketing authorisation.
+
+Question put, That the amendment be made.
+
+Division 84
+31/10/2022 21:13:00
+The House divided:
+Ayes: 141
+Noes: 275
+Question accordingly negatived.
+
+Third Reading
+
+King’s consent signified.
+
+21:25:00
+
+Mark Spencer
+I beg to move, That the Bill be now read the Third time.
+
+I put on record my sincere thanks to the fantastic officials in the Department for Environment, Food and Rural Affairs, who assisted with the drafting and delivery of the Bill. I also thank previous Secretaries of State: my right hon. Friend the Member for Camborne and Redruth (George Eustice), who put an enormous amount of work into the Bill, and my right hon. Friend the Member for North East Hampshire (Mr Jayawardena). I pay tribute to a series of Ministers who assisted at various stages of the Bill: my hon. Friends the Members for Bury St Edmunds (Jo Churchill), and for Banbury (Victoria Prentis), who are present; my hon. Friend the Member for Dartford (Gareth Johnson), who assisted with the Bill when he was a Whip; and of course my hon. Friend the Member for Brecon and Radnorshire (Fay Jones), the Whip who is assisting today.
+
+The Bill is a fantastic example of the opportunities we now have outside the EU. I am delighted that we have got to Third Reading. I wholly commend the Bill to the House, and I look forward to its progress in the other place.
+
+21:26:00
+
+Ruth Jones (Newport West) (Lab)
+I welcome the new Secretary of State back to her Department, as well as her team, some of whom are new, and some of whom are recycled; obviously, in the Department for Environment, Food and Rural Affairs, that is a good thing. I am grateful for the opportunity to say a few words as this important Bill completes its passage through this House.
+
+We are pleased that the Bill is finally before us. The continual leadership crisis in the Tory party has meant that environmental and animal welfare legislation has been pulled, delayed and ignored, and we learned on Friday that the Government have missed today’s legal deadline to set clean air targets. The lawbreaking just goes on. This Bill was an opportunity to tackle one of the great issues of our time, but instead of rising to that challenge, I am afraid that the Government have flunked it. We may have got a new Prime Minister last week, but it is the same old Tories.
+
+Labour Members are pro-science and pro-innovation, as my hon. Friend the Member for Cambridge (Daniel Zeichner) stated. We want to find ways to maintain and improve the efficiency, security and safety of our food system, and address the environmental and health damage that the modern food system has caused. Our United Kingdom has the opportunity to create a world-leading regulatory framework that others will follow. That is what we would do in government. The public need assurance that new technologies are being used for the public good, not narrow commercial advantage.
+
+Labour is the party of food safety; we established the Food Standards Agency. Different approaches to food production must be respected, and there must be proper safeguards for organic production. The issues covered by the Bill require us to take a long-term view, and to have an understanding and appreciation of the wider public good, but this Government stagger on from day to day, focused only on how they can get to the end of next week without yet another change at the top.
+
+Labour Members have no doubt about the possible benefits of gene editing. We understand the pressure that it puts on farmers when we rightly say that they cannot use neonicotinoids because of the harm they cause to pollinators, but there are so many questions still unanswered as the Bill travels on its journey. Do we want to use gene editing to modify an animal to allow it to tolerate more cramped conditions? No. We want a regulatory system that ensures that technologies are used for the right purposes. We fully understand that the laws designed 30 years ago for genetically modified products do not reflect advances in understanding and technology, and many countries recognise that gene editing needs to be treated differently. Labour Members want our scientists to succeed and use their skills for good here in the UK. Over the years, traditional crop development and innovation has brought us all significant gains.
+
+But as we enter new territory, we need a strong regulatory framework to get it right, and this Bill badly needs strengthening. Far too much is being left to secondary legislation. Although we understand that this is attractive to Ministers, it largely means “trust us”. That is increasingly difficult to do, because we all know that it means a blank cheque on an issue that requires trust and public acceptance, and that is not a good starting point. We needed much more detail on the face of the Bill.
+
+That detail is necessary because the Bill covers both plants and animals. That makes the legislation much more complicated and difficult, and important too. The Government originally said that they would introduce new measures for animals only after looking at plants and after extensive consultation on the right regulatory frameworks for animals had been established. So far as we can see, there is nothing in the Bill to make that happen. Frankly, it is the wrong way round. We need to sort out the preferred regulatory framework first and then put it into law, not the other way round.
+
+Philip Davies (Shipley) (Con)
+On a point of order, Mr Deputy Speaker. Am I wrong in thinking that Third Reading is about what is actually in the Bill, rather than what is not? The shadow Minister seems to be referring to what is not in the Bill. My understanding was that on Third Reading we are supposed to talk about what is actually in the Bill.
+
+Mr Deputy Speaker (Mr Nigel Evans)
+I thank the hon. Member for his point of order. I must say that the hon. Lady does seem to be making rather an extensive speech, but I am sure she will be coming to her point shortly.
+
+Ruth Jones
+Thank you, Mr Deputy Speaker; yes, of course.
+
+I want to acknowledge all the animal welfare organisations that have expressed their concern—indeed, the RSPCA says in its brief that it is “incredibly concerned”. I say to them and all those following the passage of the Bill, now that it is out of Committee, that we require stronger animal safeguards.
+
+I pay tribute to my hon. Friend the Member for Cambridge (Daniel Zeichner) for leading on the Bill and to the folks in his team—Milly, George and Jenna—who have worked on it. I thank Rob Wakely and Adam Jogee, who have worked to support me too. I also thank the officials in this House and in the Department for their work on this important Bill. As it now moves on, we on the Labour Benches wish it well and hope that it will be strengthened and given the detail that it so desperately needs.
+
+21:31:00
+
+Tim Farron
+Briefly—I promise—I thank the many, many Ministers who have helped to lead this Bill through Parliament. Let me say on behalf of farmers in Cumbria that we would be grateful if this Government did not take us for granted in the transition to the new payment system, which has been botched so badly, or any indeed in the trade deals that have thrown so many of my farmers underneath the bus.
+
+Science has an important role in farming. That includes GM, and there is no doubt in my mind that the European Commission’s stifling position on GM was massively regrettable. It is good to have a debate on it in this place and to try to move forward with it. GM and science in agriculture can reduce harm to the environment, reduce the reliance on damaging and expensive pesticides and fertiliser, increase productivity and help to meet global food needs, but to achieve those advances the Bill would need to provide proper detail and regulation, to protect animals and consumers and to protect farmers from being sold out and their livelihoods placed at the mercy of multinational businesses. We must not replace the European Commission’s knee-jerk opposition to science with a reckless lack of detail. I fear that that is where we are.
+
+21:33:00
+
+Sammy Wilson (East Antrim) (DUP)
+I rise to support the Bill, which we will of course be voting for if there is a vote on Third Reading.
+
+It is important in modern farming that we look for ways of increasing productivity and breeding out some of the imperfections and difficulties and, in doing that, improve animal welfare. As my hon. Friend the Member for Strangford (Jim Shannon) pointed out earlier in the debate, this is not something new. In fact, his granny practised it, with the splicing of beans and peas to improve their productivity, size, disease resistance and everything else. It is important that we find ways of applying science, especially as agriculture is such a big part of our economy.
+
+Of course, one of the good things about being out of the European Union is that we have the opportunity to break away from some of the stifling rules that were imposed as a result of our being attached to the European Union.
+
+I noticed that the Minister avoided responding to the point my hon. Friend the Member for Strangford made. Although farming is important in Northern Ireland, and although exports, and therefore competitiveness, are important to our farmers, when this legislation is passed and its fruits begin to be seen, they will not apply in Northern Ireland. The Minister pleaded with the Scots Nats, who appear to want to keep their economy in the stone age so they can have devolution and defend their devolution settlement—that is the price they are prepared to pay for independence and for safeguarding the role of the Scottish Parliament—not to be backward looking, but the Government, through refusing or being unable to remove the impact of the Northern Ireland Protocol Bill, will do exactly that in Northern Ireland.
+
+I hope that there is some joined-up thinking in Government and that they recognise that as we change laws in the United Kingdom, that must not be seen to drive a wedge between Northern Ireland and the rest of the United Kingdom, constitutionally or economically. We will support the Bill, but I hope that events and developments will ensure that farmers in Northern Ireland benefit from it as much as farmers elsewhere.
+
+Question put and agreed to.
+
+Bill accordingly read the Third time and passed.
+
+Product Security and Telecommunications Infrastructure Bill: Programme (No. 3)
+
+Motion made, and Question put forthwith (Standing Order No. 83A(7)),
+
+That the following provisions shall apply to the Product Security and Telecommunications Infrastructure Bill for the purpose of supplementing the Order of 26 January 2022 in the last Session of Parliament (Product Security and Telecommunications Infrastructure Bill (Programme)), as varied by the Order of 25 May 2022 (Product Security and Telecommunications Infrastructure Bill Programme (No. 2)):
+
+Consideration of Lords Amendments 
+
+(1) Proceedings on consideration of Lords Amendments shall (so far as not previously concluded) be brought to a conclusion one hour after their commencement.
+
+(2) The Lords Amendments shall be considered in the following order: 17, 1 to 16.
+
+Subsequent stages 
+
+(3) Any further Message from the Lords may be considered forthwith without any Question being put.
+
+(4) The proceedings on any further Message from the Lords shall (so far as not previously concluded) be brought to a conclusion one hour after their commencement.—(Stuart Anderson.)
+
+Question agreed to.
+
