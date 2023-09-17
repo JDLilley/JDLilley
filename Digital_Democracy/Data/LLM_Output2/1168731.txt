@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I can help you review the text file open in your current webpage. Here is my response based on your request:
+
+Summary - The text file is a transcript of a parliamentary debate on the European Union (Withdrawal Agreement) Bill, which implements the Brexit deal negotiated by the UK and the EU. The debate covers various aspects of the Bill, such as citizens' rights, trade, immigration, and the transition period.
+
+For - Voting 'Ayes' in the division: Programme Motion means supporting the government's timetable for passing the Bill. This would allow the UK to leave the EU by 31 January 2020 and avoid further delays and uncertainty.
+
+Against - Voting 'Noes' in the division: Programme Motion means opposing the government's timetable for passing the Bill. This would allow more time for scrutiny and amendments of the Bill and prevent a rushed and potentially flawed legislation.
+
+Decision - Voting 'Aye' in the division: Programme Motion is associated with protectionism and independence from the EU and other foreign affairs. This is because it shows a preference for leaving the EU as soon as possible, regardless of the consequences for the UK's relations with its neighbours and allies.
+
+Sentiment - B

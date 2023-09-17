@@ -1,0 +1,13 @@
+## Bing
+
+Thank you for your request. Here is my response based on the text file open in your current webpage:
+
+Summary - The text file is a transcript of a debate in the UK Parliament on the Crime (Overseas Production Orders) Bill, which aims to facilitate data sharing between the UK and other countries for the purpose of investigating and prosecuting serious crimes.
+
+For - Voting 'Ayes' in the division on New Clause 1 means supporting the amendment that would require the Secretary of State to seek assurances from foreign countries that the data obtained under the Bill would not be used in connection with proceedings for a death penalty offence.
+
+Against - Voting 'Noes' in the division on New Clause 1 means opposing the amendment and accepting the Government's position that seeking such assurances would jeopardise the treaty with the US, which is essential for accessing data held by US-based companies and preventing crimes such as child abuse and terrorism.
+
+Decision - Voting 'Aye' in the division on New Clause 1 is associated with freedom & autonomy, limiting police powers & softer punishments, limiting Crime & Justice. This is because it would impose a restriction on the use of data by foreign authorities and potentially prevent some prosecutions or convictions that could result in the death penalty.
+
+Sentiment - B

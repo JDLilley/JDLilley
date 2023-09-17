@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I can help you review the text file open in your current webpage. Here is my response based on your request:
+
+Summary - The text file is a transcript of a parliamentary debate on the Mental Capacity (Amendment) Bill, which aims to reform the system of deprivation of liberty safeguards for vulnerable people. The debate covers various amendments and issues related to the Bill, such as brain injury, advocacy, care home managers, and human rights.
+
+For - Voting 'Ayes' in the division: Mental Capacity (Amendment) Bill [Lords] Report Amdt 49 means supporting the amendment that would broaden the provision of advocacy, ensuring that advocates are provided as a default unless the cared-for person does not want one. This would enhance the representation and support for people who may lack mental capacity.
+
+Against - Voting 'Noes' in the division: Mental Capacity (Amendment) Bill [Lords] Report Amdt 49 means opposing the amendment that would broaden the provision of advocacy, and instead favouring the Government's amendment that would provide an independent mental capacity advocate only in certain circumstances. This would reduce the burden and cost of the system and avoid unnecessary duplication.
+
+Decision - Voting 'Aye' in the division: Mental Capacity (Amendment) Bill [Lords] Report Amdt 49 is associated with investment in public health and improving standards of care, in the context of Health & Healthcare. This is because providing more advocacy for people who may lack mental capacity would ensure that their best interests are protected and their rights are respected, which could improve their health and wellbeing outcomes.
+
+Sentiment - A

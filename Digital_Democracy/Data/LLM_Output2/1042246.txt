@@ -1,0 +1,13 @@
+## Bing
+
+Here is my review of the text file open in your current webpage:
+
+Summary - The text file is a record of a parliamentary debate and vote on whether the UK should opt in to Eurojust, an EU agency for criminal justice cooperation. The majority of MPs supported the opt in, while a few opposed it.
+
+For - Voting 'Ayes' means supporting the UK's participation in Eurojust, which provides a valuable service to the UK and helps to fight cross-border crime and terrorism. It also means maintaining operational continuity and minimising disruption for UK law enforcement and prosecution authorities during the proposed Implementation Period.
+
+Against - Voting 'Noes' means rejecting the UK's participation in Eurojust, which could be seen as an infringement of the UK's sovereignty and judicial independence. It also means risking losing access to vital information and cooperation mechanisms that help to protect the UK's security and interests.
+
+Decision - Voting 'Aye' in the division is associated with globalisation and strengthening ties with the European Union and other Foreign Affairs, as it shows a willingness to cooperate with other countries on matters of common concern and benefit from the collective resources and expertise of the EU.
+
+Sentiment - A

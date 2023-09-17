@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I can help you review the text file open in your current webpage. Here is my response based on your request:
+
+Summary - The text file is a transcript of a parliamentary debate on the Telecommunications Infrastructure (Leasehold Property) Bill, which aims to improve broadband access for tenants in leased properties. The debate covers various aspects of the bill, such as tenants' rights, competition, national security, and cyber-security[1].
+
+For - Voting 'Ayes' in the division: Amendment 1 means supporting the proposal to ban high-risk vendors, such as Huawei, from providing electronic communications services after 31 December 2022. This is based on the concerns about Huawei's ties to the Chinese government and the potential risks to the UK's security and sovereignty.
+
+Against - Voting 'Noes' in the division: Amendment 1 means opposing the proposal to ban high-risk vendors, such as Huawei, from providing electronic communications services after 31 December 2022. This is based on the arguments that Huawei's involvement is limited and manageable, and that banning it would cause delays and costs to the roll-out of 5G and broadband.
+
+Decision - Voting 'Aye' in the division: Amendment 1 is associated with ethical considerations, regulation, and tradition, in the context of Standards & Technology. This is because it reflects a cautious and principled approach to the use of foreign technology in the UK's critical infrastructure, and a preference for maintaining existing standards and alliances.
+
+Sentiment - B

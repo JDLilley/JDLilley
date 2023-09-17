@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I can help you review the text file open in your current webpage. Here is my response based on your request:
+
+Summary - The text file is a transcript of a debate in the UK Parliament on the withdrawal agreement from the European Union. The Attorney General defends the agreement and answers questions from MPs. The debate ends with a division on an amendment proposed by Mr Baron.
+
+For - Voting 'Ayes' on amendment (f) means supporting the UK's right to terminate the backstop unilaterally, without the consent of the EU. This would give the UK more control over its future relationship with the EU and avoid being trapped in a customs union indefinitely.
+
+Against - Voting 'Noes' on amendment (f) means rejecting the UK's right to terminate the backstop unilaterally, and accepting the legal assurances given by the EU. This would preserve the integrity of the withdrawal agreement and avoid undermining the trust and goodwill between the UK and the EU.
+
+Decision - Voting 'Aye' on amendment (f) is associated with protectionism and independence from the European Union and other Foreign Affairs. It reflects a desire to prioritise the UK's sovereignty and autonomy over its economic and political ties with its neighbours.
+
+Sentiment - B

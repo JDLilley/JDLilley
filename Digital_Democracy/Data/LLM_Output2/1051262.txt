@@ -1,0 +1,13 @@
+## Bing
+
+Thank you for your request. Here is my response based on the text file open in your current webpage:
+
+Summary - The text file is a transcript of a debate in the UK Parliament on the Crime (Overseas Production Orders) Bill, which aims to facilitate data sharing between the UK and other countries for law enforcement purposes. The main issue of contention is whether the Bill should include safeguards against the use of data in death penalty cases.
+
+For - Voting 'Ayes' in the division on amendment 18 means supporting the Government's new clause 1, which requires the Secretary of State to seek assurances from foreign countries that data obtained under the Bill will not be used in connection with proceedings for a death penalty offence.
+
+Against - Voting 'Noes' in the division on amendment 18 means opposing the Government's new clause 1 and preferring alternative amendments that would prohibit or restrict data sharing with countries that have the death penalty, unless they provide stronger guarantees that the data will not be used for capital punishment.
+
+Decision - Voting 'Aye' in the division on amendment 18 is associated with greater police powers, harsher punishments, and strengthening Crime & Justice, because it allows data sharing with countries that have the death penalty, albeit with some assurances, and prioritises the prevention and prosecution of serious crimes over human rights concerns.
+
+Sentiment - A

@@ -1,0 +1,13 @@
+## Bing
+
+Thank you for your request. Here is my response based on the text file open in your current webpage:
+
+Summary - The text file is a transcript of a debate in the UK Parliament on the European Union (Withdrawal Agreement) Bill, which implements the Brexit deal. The debate covers five amendments made by the House of Lords, which the Government opposes.
+
+For - Voting 'Ayes' in the division means supporting the Government's motion to disagree with Lords Amendment 3, which would allow any court to depart from EU case law and refer the matter to the Supreme Court. The Government argues that this would recreate the EU's preliminary reference procedure and undermine parliamentary sovereignty.
+
+Against - Voting 'Noes' in the division means opposing the Government's motion and supporting Lords Amendment 3, which was proposed by a former Conservative Lord Chancellor. The amendment aims to protect the separation of powers between the Executive and the judiciary, and to avoid legal uncertainty and inconsistency in interpreting retained EU law.
+
+Decision - Voting 'Aye' in the division is associated with protectionism and independence from the European Union and other Foreign Affairs, as it would give the Government more power to diverge from EU standards and regulations, and to limit the role of the courts in scrutinising its decisions.
+
+Sentiment - B

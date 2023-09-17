@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I can help you review the text file open in your current webpage. Here is my response based on your request:
+
+Summary - The text file is a transcript of a debate in the UK Parliament about the Human Medicines (Amendment) Regulations 2019, which aim to deal with medicine shortages and implement EU safety measures.
+
+For - Voting 'Ayes' means supporting the Government's regulations, which are designed to manage the supply of medicines efficiently, prevent falsified medicines from reaching patients, and allow drug treatment services to supply naloxone hydrochloride in different forms[1].
+
+Against - Voting 'Noes' means opposing the Government's regulations, which are seen as a power grab that allows Ministers to issue protocols for pharmacists to override GP prescriptions, without proper consultation or impact assessment, and potentially putting patients at risk.
+
+Decision - Voting 'Aye' in the division is associated with fiscal responsibility in the context of Health & Healthcare, because it aims to save NHS costs associated with GP time and reduce the burden on the supply chain. However, it may also compromise patient safety and quality of care.
+
+Sentiment - B

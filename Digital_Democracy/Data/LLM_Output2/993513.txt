@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I can help you review the text file open in your current webpage. Here is my response based on your request:
+
+Summary - The text file is a transcript of a parliamentary debate on the Civil Liability Bill, which aims to reform the personal injury claims system and reduce insurance costs. The debate covers various aspects of the Bill, such as the small claims limit, the whiplash tariff, and the vulnerable road users.
+
+For - Voting 'Ayes' in the division: amendment 2 means supporting the proposal to exclude children and protected parties from the increase in the small claims limit for whiplash injuries[1]. This would ensure that these groups have access to legal representation and are not disadvantaged by the reforms.
+
+Against - Voting 'Noes' in the division: amendment 2 means opposing the proposal to exclude children and protected parties from the increase in the small claims limit for whiplash injuries. This would maintain consistency with other types of claims and avoid creating loopholes for fraudulent or exaggerated claims.
+
+Decision - Voting 'Aye' in the division: amendment 2 is associated with freedom & autonomy, limiting police powers & softer punishments, limiting Crime & Justice. This is because it would allow children and protected parties to pursue their claims without being deterred by the cost or complexity of the small claims process. It would also protect their rights and interests against potential negligence or abuse by insurers or defendants.
+
+Sentiment - B

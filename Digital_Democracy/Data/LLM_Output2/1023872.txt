@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I can help you review the text file open in your current webpage. Here is my response based on your request:
+
+Summary - The text file is a transcript of a debate in the UK Parliament on a bill that would allow some judicial functions to be delegated to non-judicial staff. The bill is part of a wider court reform agenda and aims to save costs and modernise the civil justice system[1].
+
+For - Voting 'Ayes' in the division means supporting the Government's proposal to let the procedure rule committee decide the appropriate level of delegation and qualifications for the authorised staff. It also means trusting the independence and expertise of the judiciary to ensure fairness and access to justice.
+
+Against - Voting 'Noes' in the division means supporting the Opposition's amendment to require that authorised staff have at least three years of legal experience and that any decision made by them can be reconsidered by a judge. It also means expressing concern about the potential impact of the bill on human rights and the rule of law.
+
+Decision - Voting 'Aye' in the division is associated with greater police powers, harsher punishments, and strengthening Crime & Justice. This is because it would enable more efficient and streamlined court procedures, reduce delays and backlogs, and free up judicial resources for more serious cases. It would also reflect the Government's commitment to modernise and reform the court system.
+
+Sentiment - A

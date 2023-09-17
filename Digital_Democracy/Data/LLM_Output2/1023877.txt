@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I can help you review the text file open in your current webpage. Here is my response based on your request:
+
+Summary - The text file is a transcript of a debate in the UK Parliament on the Courts and Tribunals (Judiciary and Functions of Staff) Bill, which aims to delegate some judicial functions to authorised staff. The debate covers the amendments proposed by the opposition and the arguments for and against them.
+
+For - Voting 'Ayes' in the division means supporting the amendments, which would require more qualifications and experience for authorised staff, more parliamentary scrutiny of the regulations, and more rights to judicial reconsideration for parties affected by the decisions of authorised staff.
+
+Against - Voting 'Noes' in the division means rejecting the amendments, which would impose unnecessary restrictions on the procedure rule committee and the judiciary, who are best placed to decide the appropriate level of delegation. It also means trusting the safeguards already in place to ensure fairness and access to justice.
+
+Decision - Voting 'Aye' in the division is associated with limiting police powers and softer punishments, as it would make it harder for authorised staff to perform judicial functions that could affect people's rights and liberties. It would also give more opportunities for parties to challenge the decisions of authorised staff.
+
+Sentiment - B

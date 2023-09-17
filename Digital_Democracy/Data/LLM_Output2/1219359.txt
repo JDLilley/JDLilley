@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I have reviewed the text file open in your current webpage and here is my response:
+
+Summary - The text file contains a debate on the Immigration and Social Security Co-ordination (EU Withdrawal) Bill, which aims to end free movement of EEA and Swiss nationals in the UK. The debate covers various new clauses proposed by MPs to amend the bill.
+
+For - Voting for (Ayes) in the division: Yvette Cooper's New Clause 29 means supporting the continuation of existing arrangements for unaccompanied asylum-seeking children, spouses and vulnerable adults to have access to family reunion with close relatives in the UK[1].
+
+Against - Voting against (Noes) in the division: Yvette Cooper's New Clause 29 means opposing the continuation of existing arrangements for unaccompanied asylum-seeking children, spouses and vulnerable adults to have access to family reunion with close relatives in the UK.
+
+Decision - Yvette Cooper's New Clause 29 would soften immigration and borders by allowing more people to join their family members in the UK based on humanitarian grounds.
+
+Sentiment - B

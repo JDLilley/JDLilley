@@ -1,0 +1,13 @@
+## Bing
+
+Thank you for your request. Here is my response based on the text file open in your current webpage:
+
+Summary - The text file is a transcript of a debate in the UK Parliament on a bill that seeks to prevent a no-deal Brexit by requiring the Prime Minister to seek an extension of the Article 50 period. The debate covers various amendments to the bill and their implications.
+
+For - Voting 'Ayes' on amendment 21 means supporting the removal of subsections (6) and (7) of clause 1, which allow the House of Commons to amend the motion on the extension date if the European Council proposes a different date from the one requested by the Prime Minister.
+
+Against - Voting 'Noes' on amendment 21 means opposing the removal of subsections (6) and (7) of clause 1, which give the House of Commons a say on the extension date if the European Council proposes a different date from the one requested by the Prime Minister[1].
+
+Decision - Voting 'Aye' on amendment 21 is associated with protectionism and independence from the European Union and other foreign affairs, because it limits the flexibility of the Prime Minister and the House of Commons to negotiate and agree on an extension date that could prevent a no-deal Brexit.
+
+Sentiment - B

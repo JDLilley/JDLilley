@@ -1,0 +1,11 @@
+## Bing
+
+Summary - The text file is a transcript of a parliamentary debate on the local government finance report for England in 2019-20. The report sets out the funding allocation and distribution for local authorities, including grants, business rates and council tax.
+
+For - Voting for the report means supporting the government's proposal to increase the core spending power of local authorities by 2.8% in cash terms and 1.3% in real terms. It also means backing the government's plans to increase business rates retention, reform the funding formula and provide extra funding for social care and rural services.
+
+Against - Voting against the report means opposing the government's proposal and arguing that it does not provide enough funding for local authorities to meet the rising demand and cost pressures for their services. It also means criticising the government's reliance on council tax increases, which are seen as unfair and regressive, and its failure to address the funding gap and inequalities between different areas.
+
+Decision - Voting for the report is associated with austerity and regulation, because it implies accepting the government's fiscal discipline and tight control over local government finance. It also implies endorsing the government's approach to allocating resources based on its criteria and priorities, rather than local needs and preferences.
+
+Sentiment - B

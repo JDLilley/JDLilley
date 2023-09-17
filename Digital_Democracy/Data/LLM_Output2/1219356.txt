@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I have reviewed the text file open in your current webpage and here is my response:
+
+Summary - The text file contains a debate on the Immigration and Social Security Co-ordination (EU Withdrawal) Bill, which aims to end free movement of EEA and Swiss nationals in the UK. The debate covers various new clauses proposed by different MPs on various aspects of immigration policy.
+
+For - Voting for (Ayes) in the division: Mr David Davis's New Clause 7 means supporting a time limit of 28 days on immigration detention for EEA and Swiss nationals, unless there are exceptional circumstances or national security reasons. The supporters of this clause argue that indefinite detention is inhumane, costly and ineffective.
+
+Against - Voting against (Noes) in the division: Mr David Davis's New Clause 7 means opposing a time limit on immigration detention for EEA and Swiss nationals, and maintaining the current system of administrative discretion. The opponents of this clause argue that a time limit would undermine immigration enforcement, encourage abuse and litigation, and create a two-tier system.
+
+Decision - Mr David Davis's New Clause 7 would soften immigration and borders, as it would reduce the use of detention as a tool of immigration control and provide more safeguards and rights for EEA and Swiss nationals who are subject to detention.
+
+Sentiment - B

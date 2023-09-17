@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I can help you review the text file open in your current webpage. Here is my response:
+
+Summary - The text file is a transcript of a parliamentary debate on a bill that would end free movement of EU citizens to the UK after Brexit and change the immigration and social security system.
+
+For - The supporters of the bill argue that it would deliver on the referendum result, give the UK full control over its borders, create a fair and skills-based immigration system, and protect the rights of Irish citizens and EU nationals already living in the UK.
+
+Against - The opponents of the bill criticise it for being vague, damaging to the economy and society, discriminatory against low-skilled workers and students, and undermining the rights of EU citizens and British nationals abroad. They also question the need for ending free movement.
+
+Decision - The bill would tighten immigration and borders, as it would end free movement, introduce stricter rules and criteria for migrants, and reduce net migration to more sustainable levels, according to the Government.
+
+Sentiment - A

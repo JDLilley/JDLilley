@@ -1,0 +1,13 @@
+## Bing
+
+Here is my response based on the text file open in your current webpage:
+
+Summary - The text file is a transcript of a parliamentary debate on a bill that aims to implement EU financial legislation in the UK in case of a no-deal Brexit. The bill grants the Treasury wide powers to make changes to the legislation via statutory instruments.
+
+For - Voting for the bill means supporting the government's preparation for a no-deal scenario and ensuring that the UK's financial regulatory framework does not fall behind its international counterparts[1]. It also means trusting the Treasury to make appropriate adjustments to the EU legislation in the UK's interest.
+
+Against - Voting against the bill means opposing the government's approach as undemocratic, incoherent and risky. It also means rejecting the transfer of significant powers to the Treasury and the regulators without proper parliamentary scrutiny and stakeholder engagement. It also means calling for a deal that avoids a no-deal Brexit[2].
+
+Decision - Voting for the bill is associated with austerity and regulation, because it involves implementing EU financial legislation that was designed to prevent another financial crisis and to protect consumers and markets. It also involves accepting the UK's position as a rule-taker rather than a rule-maker in financial services.
+
+Sentiment - B

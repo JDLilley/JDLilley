@@ -1,0 +1,13 @@
+## Bing
+
+Thank you for your request. Here is my response based on the text file open in your current webpage:
+
+Summary - The text file is a transcript of a debate in the UK Parliament on the European Union (Withdrawal Agreement) Bill, which implements the Brexit deal. The debate covers five amendments made by the House of Lords, which the Government opposes and asks the House of Commons to reject.
+
+For - Voting 'Ayes' in the division: Government motion to disagree with Lords Amendment 1 means supporting the Government's position that EU citizens living in the UK should apply for a digital status under the EU settlement scheme, rather than having a declaratory system and a physical document to prove their rights.
+
+Against - Voting 'Noes' in the division: Government motion to disagree with Lords Amendment 1 means supporting the Lords' position that EU citizens living in the UK should have their rights automatically recognised by law and be issued with a physical document to evidence their status, rather than having to apply for a digital status that may be insecure or inaccessible.
+
+Decision - Voting 'Aye' in the division: Government motion to disagree with Lords Amendment 1 is associated with protectionism and independence from the European Union and other Foreign Affairs, because it implies that EU citizens should be treated differently from other non-UK citizens and that their rights are conditional on applying for a digital status that may be revoked or changed by the Government.
+
+Sentiment - B

@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I will try to review the text file open in your current webpage and answer your questions. Here is my response:
+
+Summary - The text file is a transcript of a parliamentary debate on a bill that would introduce new national insurance charges on termination awards and sporting testimonials. The bill is opposed by Labour and SNP MPs, who argue that it would harm workers and charities, while the Government defends it as a simplification and anti-avoidance measure.
+
+For - Voting 'Ayes' in the division: Third Reading means supporting the bill and its provisions. The Government claims that the bill would make the tax system fairer, simpler and more consistent, and that it would prevent employers from manipulating termination payments to avoid tax and national insurance.
+
+Against - Voting 'Noes' in the division: Third Reading means opposing the bill and its provisions. The Opposition argues that the bill would reduce the net value of termination payments for workers, especially women, older workers and pregnant women, who are already vulnerable to redundancy[1]. They also say that the bill would discourage charitable donations from sporting testimonials.
+
+Decision - Voting 'Aye' in the division: Third Reading is associated with cutting spending on, and provision of, welfare and social housing. This is because the bill would reduce the amount of money that workers receive when they lose their jobs, which could affect their ability to afford housing and other essential needs. It could also reduce the funds available for charities that support welfare and social housing causes.
+
+Sentiment - B

@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I can help you review the text file open in your current webpage. Here is my response based on your request:
+
+Summary - The text file is a transcript of a debate in the UK Parliament on a bill that would allow some judicial functions to be delegated to non-judicial staff. The bill is part of a wider court reform agenda and aims to save costs and modernise the civil justice system[1].
+
+For - Voting 'Ayes' in the division means supporting amendment 2, which would require the non-judicial staff to have at least three years of legal experience and qualifications. This amendment is proposed by the Labour party and endorsed by the Law Society and the Bar Council[2].
+
+Against - Voting 'Noes' in the division means rejecting amendment 2 and keeping the bill as it is. This amendment is opposed by the Conservative party and some senior judges, who argue that it would restrict the flexibility and efficiency of the procedure rule committee and the delegation of functions.
+
+Decision - Voting 'Aye' in the division could be seen as associated with freedom and autonomy, limiting police powers and softer punishments, limiting Crime & Justice. This is because it would ensure that only qualified and experienced legal professionals can make judicial decisions that affect people's rights, and that those decisions can be reconsidered by a judge if needed.
+
+Sentiment - B
