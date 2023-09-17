@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I have reviewed the text file open in your current webpage and here is my response:
+
+Summary - The text file is a transcript of a parliamentary debate on the Trade Bill, which aims to ensure continuity of trade agreements after Brexit. The debate covers various amendments and new clauses proposed by different MPs and parties.
+
+For - Voting for amendment 19 means supporting the requirement that the Government consults with business, trade unions, devolved administrations and other parties before ratifying new free trade agreements that replace existing EU agreements[1].
+
+Against - Voting against amendment 19 means opposing the requirement that the Government consults with business, trade unions, devolved administrations and other parties before ratifying new free trade agreements that replace existing EU agreements.
+
+Decision - Voting for amendment 19 is associated with stimulus and the free market, because it implies that the Government should take into account the views and interests of various stakeholders in the economy and society, and not impose trade agreements that may harm them or limit their opportunities.
+
+Sentiment - A

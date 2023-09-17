@@ -1,0 +1,13 @@
+## Bing
+
+Thank you for your request. Here is my response based on the text file open in your current webpage:
+
+Summary - The text file is a transcript of a parliamentary debate on universal credit and related regulations in the UK. The debate covers the impact of the changes on claimants, especially those who are low-income, self-employed, or have children.
+
+For - Voting 'Ayes' means supporting the government's proposals to reform universal credit and related benefits[1]. The government claims that these changes will make work pay, simplify the system, and help more people into work. The government also says that these changes will benefit more children with free school meals and childcare.
+
+Against - Voting 'Noes' means opposing the government's proposals and calling for them to be annulled. The opposition argues that these changes will make many families worse off, create a cliff-edge for earnings, and reduce work incentives. The opposition also says that these changes will deprive more than a million children of free school meals and childcare[2].
+
+Decision - Voting 'Aye' in the division: Universal Credit (S.I., 2018, No. 65) is associated with cutting spending on, and provision of, welfare and social housing. This is because the changes will reduce the amount of support that many claimants receive, especially those who are self-employed or have fluctuating incomes. The changes will also limit the eligibility for free school meals and childcare, which are important forms of welfare for low-income families.
+
+Sentiment - B

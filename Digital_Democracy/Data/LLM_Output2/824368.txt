@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I have reviewed the text file open in your current webpage and I will try to answer your questions as best as I can. Here is my response:
+
+Summary - The text file contains a debate on the European Union (Withdrawal) Bill, which aims to transfer EU law into UK law after Brexit. The debate covers various amendments and new clauses proposed by MPs to modify the bill.
+
+For - Voting 'Ayes' in the division: New Clause 12 means supporting the proposal to require the Secretary of State to produce a report on the loss of environmental protection as a result of the UK's exit from the EU, and to prepare an Environmental Protection Bill to make up for any loss of environmental protections, and the monitoring and enforcement of environmental protections[1]. It also means requiring the Secretary of State to produce annual reports which make an assessment of the impact of the UK's withdrawal from the EU on UK environmental protection[2].
+
+Against - Voting 'Noes' in the division: New Clause 12 means opposing the proposal to require the Secretary of State to produce a report on the loss of environmental protection as a result of the UK's exit from the EU, and to prepare an Environmental Protection Bill to make up for any loss of environmental protections, and the monitoring and enforcement of environmental protections[1]. It also means rejecting the requirement for the Secretary of State to produce annual reports which make an assessment of the impact of the UK's withdrawal from the EU on UK environmental protection[2].
+
+Decision - Voting 'Aye' in the division: New Clause 12 is associated with globalisation and strengthening ties with the European Union and other Foreign Affairs, because it implies that the UK values the EU's environmental standards and principles, and wants to maintain or enhance them after Brexit. It also suggests that the UK is willing to cooperate with the EU and other international bodies on environmental issues, and to be transparent about its environmental performance.
+
+Sentiment - A

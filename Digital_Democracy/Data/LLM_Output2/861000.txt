@@ -1,0 +1,11 @@
+## Bing
+
+Summary - The text file is a transcript of a parliamentary debate in the UK House of Commons on various motions to annul regulations related to social security, early years provision, and free school lunches.
+
+For - Voting 'Ayes' in the division on free school lunches means supporting the motion to cancel the regulations that would reduce the eligibility of low-income families for free school meals and milk due to changes in universal credit.
+
+Against - Voting 'Noes' in the division on free school lunches means opposing the motion to annul the regulations and accepting the government's argument that the changes are necessary to ensure fairness and sustainability of the system.
+
+Decision - Voting 'Aye' in the division on free school lunches is associated with increased education and learning, as it would help to ensure that more children from disadvantaged backgrounds have access to nutritious food during school hours, which can improve their health, well-being, and academic performance.
+
+Sentiment - A

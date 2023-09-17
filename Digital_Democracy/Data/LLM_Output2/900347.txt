@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I have reviewed the text file open in your current webpage and here is my response:
+
+Summary - The text file is a transcript of a debate in the UK House of Commons on 9 May 2018. The main topic is the Education (Student Support) (Amendment) (No. 2) Regulations 2018, which would remove the bursary for postgraduate nursing students and replace it with a loan system.
+
+For - Voting 'Ayes' means supporting the Government's proposal to remove the bursary and increase the number of postgraduate nursing places by 25%. The Government argues that this will unlock additional places, provide more funding for living costs, and offer more routes into nursing through apprenticeships and medical schools.
+
+Against - Voting 'Noes' means opposing the Government's proposal and calling for the restoration of the bursary. The Opposition argues that this will worsen the nursing shortage, deter mature and diverse applicants, create more debt for students, and have negative impacts on patient care and safety.
+
+Decision - Voting 'Aye' in the division is associated with limiting Education & Learning, because it reduces the financial support and incentives for postgraduate nursing students, who are essential for the quality and sustainability of the NHS. It also ignores the evidence and warnings from the nursing sector and the impact assessments.
+
+Sentiment - B

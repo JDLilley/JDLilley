@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I have reviewed the text file open in your current webpage and generated the following response based on your request:
+
+Summary - The text file is a transcript of a debate in the UK Parliament on the Financial Guidance and Claims Bill, which aims to improve consumer protection and financial guidance on various issues, such as pensions, claims management, and high-cost credit.
+
+For - Voting for amendment 39 means supporting the proposal to make the single financial guidance body allocate resources for specially trained advisers and guidance for people in vulnerable circumstances, such as those who suffer long-term sickness, disability, low income, or are carers or benefit recipients.
+
+Against - Voting against amendment 39 means opposing the proposal to make the single financial guidance body allocate resources for specially trained advisers and guidance for people in vulnerable circumstances, and preferring a more general approach to providing information and guidance to all consumers.
+
+Decision - Voting for amendment 39 is associated with austerity and regulation, because it implies that the single financial guidance body should prioritise the needs of vulnerable consumers who may be affected by cuts in public spending and welfare benefits, and that it should impose specific standards and requirements for delivering financial guidance to this group.
+
+Sentiment - B

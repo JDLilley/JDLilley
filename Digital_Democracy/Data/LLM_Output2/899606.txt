@@ -1,0 +1,13 @@
+## Bing
+
+Thank you for your request. Here is my response based on the text file open in your current webpage:
+
+Summary - The text file is a transcript of a parliamentary debate on the Nuclear Safeguards Bill, which aims to establish a domestic nuclear safeguards regime after the UK leaves Euratom. The debate focuses on Lords amendment 3, which would require the government to seek an extension of Euratom arrangements if certain international agreements are not in place before exit day.
+
+For - Voting 'Ayes' in the division means supporting Lords amendment 3, which would provide a fallback option to avoid a cliff edge in nuclear safeguards and trade. Those who vote 'Ayes' argue that this is necessary to ensure continuity and certainty for the nuclear industry and to protect the UK's reputation as a responsible nuclear state.
+
+Against - Voting 'Noes' in the division means opposing Lords amendment 3, which would require the government to request a suspension of the UK's withdrawal from Euratom if certain international agreements are not in place before exit day. Those who vote 'Noes' argue that this is not needed, as the government is making good progress in negotiating new agreements and has agreed on an implementation period with the EU that will maintain existing Euratom arrangements.
+
+Decision - Voting 'Aye' in the division is associated with increased accountability and limiting powers of Defence & Armed Forces. This is because it would ensure that the UK does not leave Euratom without having adequate alternative arrangements in place for nuclear safeguards, which are essential for preventing the proliferation of nuclear weapons and ensuring the peaceful use of nuclear energy.
+
+Sentiment - B

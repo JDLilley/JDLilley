@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I can help you review the text file open in your current webpage. Here is my response based on your request:
+
+Summary - The text file is a transcript of a debate in the House of Commons on the European Union (Withdrawal) Bill, which aims to ensure a smooth and orderly exit from the EU. The debate covers various amendments proposed by the House of Lords and the Government's response to them.
+
+For - Voting 'Ayes' in the division on Lords amendment 39 motion to disagree means supporting the Government's position that the Bill should not include a power for Ministers to make regulations to prevent or remedy any breach of the UK's international obligations arising from its withdrawal from the EU. The Government argues that this power is unnecessary and that there are better ways to ensure compliance with international law.
+
+Against - Voting 'Noes' in the division on Lords amendment 39 motion to disagree means opposing the Government's position and supporting the Lords amendment that would insert such a power in the Bill[1]. The Lords argue that this power is essential to avoid legal uncertainty and potential litigation, and that it would provide a flexible and efficient mechanism to address any issues arising from Brexit.
+
+Decision - Voting 'Aye' in the division on Lords amendment 39 motion to disagree is associated with protectionism and independence from the European Union and other Foreign Affairs[1]. This is because it would limit the Government's ability to adapt UK law to comply with international obligations that may be affected by Brexit, and it would signal a disregard for the potential impact of Brexit on the UK's international reputation and relations.
+
+Sentiment - B

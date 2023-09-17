@@ -1,0 +1,11 @@
+## Bing
+
+Summary - The text file is a transcript of a debate in the UK Parliament on the Finance (No. 2) Bill, which contains various tax and spending measures. The debate covers topics such as equality, regional impact, Brexit, and the Scottish budget.
+
+For - Voting for the amendment 10 means supporting a review of the impact of the Bill on child poverty and wellbeing. The amendment is proposed by Labour MPs who argue that the Bill will worsen inequality and harm vulnerable children.
+
+Against - Voting against the amendment 10 means rejecting the need for such a review. The amendment is opposed by Conservative MPs who claim that the Bill will reduce inequality and improve living standards. They also question the methodology and data of the proposed review.
+
+Decision - Voting for the amendment 10 is associated with austerity and regulation, as it implies that the Bill will have negative effects on child poverty and wellbeing that need to be monitored and mitigated. Voting for the amendment 10 also suggests a preference for more public spending and intervention to support children.
+
+Sentiment - B

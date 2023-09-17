@@ -1,0 +1,11 @@
+## Bing
+
+Summary - The text file is a transcript of a parliamentary debate in the UK House of Commons on 13 March 2018. It records three motions to annul regulations related to free school lunches, early years provision, and social security contributions, all of which were rejected by the majority of MPs.
+
+For - Voting 'Ayes' in the division on early years provision means opposing the amendment that reduces the number of eligible children for free childcare from 30 hours to 15 hours per week. The 'Ayes' argue that this would harm working families and undermine the quality of early education.
+
+Against - Voting 'Noes' in the division on early years provision means supporting the amendment that cuts the entitlement to free childcare by half for some children. The 'Noes' argue that this would save money for the government and target the most disadvantaged families.
+
+Decision - Voting 'Aye' in the division on early years provision is associated with increased education and learning, as it would allow more children to access high-quality childcare and early education, which are proven to have positive effects on their development and outcomes.
+
+Sentiment - A
