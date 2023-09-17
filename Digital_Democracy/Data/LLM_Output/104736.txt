@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I have reviewed the text file open in your current webpage and I will try to answer your questions as best as I can. Here is my response:
+
+Summary - The text file is a transcript of a debate in the UK House of Commons on the Parliamentary Voting System and Constituencies Bill, which proposes to change the voting system and the number of constituencies for UK parliamentary elections.
+
+For - Voting 'Ayes' in the division means supporting the Government's amendment 7, which would allow the referendum on the voting system to be combined with the Scottish Parliament, Welsh Assembly and Northern Ireland Assembly elections on 5 May 2023.
+
+Against - Voting 'Noes' in the division means opposing the Government's amendment 7, and supporting the original clause 4, which would prevent the referendum on the voting system from being combined with any other poll on 5 May 2023.
+
+Decision - Voting 'Aye' in the division is associated with reduced bureaucracy and centralisation in the context of Parliamentary Procedures, because it would simplify the administration of the polls and reduce the costs for the UK Government.
+
+Sentiment - B

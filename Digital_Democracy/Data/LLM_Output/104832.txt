@@ -1,0 +1,11 @@
+## Bing
+
+Summary - The text file is a transcript of a debate in the House of Commons on the Parliamentary Voting System and Constituencies Bill, which proposed a referendum on the alternative vote system and changes to the number and size of constituencies.
+
+For - Voting 'Ayes' means supporting the government's amendments to the Bill, which would set a minimum turnout threshold of 40% for the referendum to be valid, and allow some flexibility in the size of constituencies based on geographical factors.
+
+Against - Voting 'Noes' means opposing the government's amendments to the Bill, which would undermine the legitimacy of the referendum by imposing an arbitrary turnout requirement, and create unfair variations in the size of constituencies based on subjective criteria.
+
+Decision - Voting 'Aye' is associated with reduced bureaucracy and centralisation in the context of Parliamentary Procedures, because it would make the referendum more dependent on the government's approval and reduce the influence of local communities on the boundaries of their constituencies.
+
+Sentiment - B

@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I have reviewed the text file open in your current webpage and I will try to answer your questions as best as I can. Here is my response:
+
+Summary - The text file is a transcript of a debate in the UK Parliament about the Police Reform and Social Responsibility Bill, which proposes to introduce directly elected police and crime commissioners. The debate focuses on the arguments for and against the new clause 4, which calls for an inquiry into the impact of the reform.
+
+For - Voting 'Ayes' in the division means supporting the new clause 4, which would delay the implementation of the police and crime commissioners until an inquiry by HMIC is completed. The supporters of the new clause argue that the reform is based on ideology, not evidence, and that it poses risks to the independence, accountability and effectiveness of policing.
+
+Against - Voting 'Noes' in the division means rejecting the new clause 4, which would allow the government to proceed with the police and crime commissioners as planned. The opponents of the new clause argue that the reform is necessary to enhance local democratic control over policing, and that it has been supported by the electorate and some local authorities.
+
+Decision - Voting 'Aye' in the division is associated with limiting police powers and softer punishments, as it would prevent the introduction of a single individual who would have a strong mandate and influence over policing decisions. Voting 'Aye' would also imply a preference for a more collaborative and consultative approach to policing governance, rather than a top-down and centralised one.
+
+Sentiment - B

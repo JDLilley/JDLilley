@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I can help you review the text file open in your current webpage. Here is my response based on your request:
+
+Summary - The text file is a transcript of a debate in the UK Parliament on the Parliamentary Voting System and Constituencies Bill, which proposes to change the voting system for general elections and to reduce the number of MPs. The debate covers various amendments and issues related to the Bill.
+
+For - Voting 'Ayes' in the division on Amendment (b) means supporting the proposal to postpone the referendum on the voting system until 30 October 2011, instead of 5 May 2011. The supporters of this amendment argue that holding the referendum on the same day as other elections would cause confusion and unfairness.
+
+Against - Voting 'Noes' in the division on Amendment (b) means opposing the proposal to postpone the referendum on the voting system until 30 October 2011, and keeping it on 5 May 2011. The opponents of this amendment argue that delaying the referendum would waste money and time, and that voters are capable of making informed choices on different issues.
+
+Decision - Voting 'Aye' in the division on Amendment (b) is associated with accountability and decentralisation in the context of Parliamentary Procedures, because it implies that the referendum on the voting system should be held separately from other elections, and that each issue should be given its own attention and scrutiny by the public and the Parliament.
+
+Sentiment - A

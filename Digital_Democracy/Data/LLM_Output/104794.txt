@@ -1,0 +1,11 @@
+## Bing
+
+Summary - The text file is a transcript of a debate in the UK Parliament on a bill that would provide a national insurance holiday for new businesses in certain regions. The bill aims to stimulate job creation and economic growth, but faces opposition from some MPs who argue that it is unfair, ineffective and costly.
+
+For - Voting 'Ayes' means supporting the bill and the government's policy of targeting the national insurance holiday to regions with high public sector employment and low private sector growth. It means believing that the bill will help new businesses to create jobs and boost the economy in those areas.
+
+Against - Voting 'Noes' means opposing the bill and the government's policy of excluding London, the south-east and the east from the national insurance holiday. It means believing that the bill will create regional inequalities, distort the market and fail to address the underlying causes of unemployment and deprivation.
+
+Decision - Voting 'Aye' is associated with cutting spending on, and provision of, welfare and social housing. This is because the bill is part of the government's wider agenda of reducing public spending and welfare dependency, and encouraging private sector-led recovery. The bill also implies that regions with higher levels of welfare and social housing, such as London, are less deserving of support than other regions.
+
+Sentiment - B

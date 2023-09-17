@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I have reviewed the text file open in your current webpage and I will try to answer your questions as best as I can.
+
+Summary - The text file is a transcript of a parliamentary debate on the Fixed-term Parliaments Bill, which aims to set regular intervals for general elections and limit the Prime Minister's power to dissolve Parliament. The debate covers various aspects of the Bill, such as its constitutional implications, its political motivations, and its practical effects.
+
+For - Voting 'Ayes' in the division means supporting Clause 1 of the Bill, which sets the polling days for parliamentary general elections as the first Thursday in May of the fifth year after the previous general election. The arguments for this clause are that it provides stability, predictability, and fairness for the electoral system, and that it prevents the Prime Minister from calling an early election for partisan advantage.
+
+Against - Voting 'Noes' in the division means opposing Clause 1 of the Bill, which sets the polling days for parliamentary general elections as the first Thursday in May of the fifth year after the previous general election. The arguments against this clause are that it is unnecessary, inflexible, and undemocratic for the electoral system, and that it restricts the Prime Minister's ability to respond to changing circumstances and public opinion.
+
+Decision - Voting 'Aye' in the division is associated with accountability and decentralisation in the context of Parliamentary Procedures, because it reduces the Prime Minister's discretion over the timing of general elections and makes them more accountable to Parliament and the electorate. It also decentralises power from the executive to the legislature by giving Parliament more control over its own dissolution.
+
+Sentiment - A

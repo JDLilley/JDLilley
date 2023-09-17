@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I can help you review the text file open in your current webpage. Here is my response based on your request:
+
+Summary - The text file is a transcript of a debate in the UK Parliament on a bill about police reform and social responsibility. The bill covers various issues such as licensing fees, late-night levy, alcohol disorder zones, and primary care trusts. The debate includes arguments for and against the bill, as well as amendments and votes.
+
+For - Voting 'Ayes' in the division means supporting the bill to be read the third time and passed. This implies agreeing with the government's proposals to give more powers and flexibility to local authorities and police in dealing with licensing and alcohol-related problems, as well as to introduce new responsible authorities under the Licensing Act 2003.
+
+Against - Voting 'Noes' in the division means opposing the bill to be read the third time and passed. This implies disagreeing with the government's proposals and raising concerns about the impact of the bill on businesses, consumers, civil liberties, and public health. Some of the arguments against the bill include the lack of evidence, consultation, and cost-benefit analysis.
+
+Decision - Voting 'Aye' in the division is associated with greater police powers, harsher punishments, and strengthening Crime & Justice. This is because the bill aims to enhance the enforcement and prevention of alcohol-related crime and disorder, as well as to make licensing authorities more accountable and responsible for their decisions.
+
+Sentiment - A

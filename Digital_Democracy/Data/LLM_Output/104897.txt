@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I can help you review the text file open in your current webpage. Here is my response based on your request:
+
+Summary - The text file is a transcript of a debate in the UK Parliament on the Education Bill in 2023. The Bill aims to give more autonomy and freedom to schools, especially academies and free schools, and to improve standards and outcomes for pupils. The debate covers various aspects of the Bill, such as admissions, exclusions, alternative provision, pupil referral units, and boarding academies.
+
+For - Voting 'Ayes' in the division means supporting Amendment 13, which would require the Secretary of State to consult with relevant stakeholders before making any changes to the national curriculum or assessment arrangements. This would ensure that any reforms are based on evidence and consensus, and that they do not disrupt the continuity and quality of education for pupils and teachers.
+
+Against - Voting 'Noes' in the division means opposing Amendment 13, which would limit the Secretary of State's power to make necessary and timely changes to the national curriculum or assessment arrangements. This would undermine the Government's vision of giving more autonomy and flexibility to schools, especially academies and free schools, and of raising standards and expectations for pupils and teachers.
+
+Decision - Voting 'Aye' in the division is associated with limiting Education & Learning, because it would constrain the Government's ability to implement reforms that could improve the curriculum and assessment system. It would also reduce the scope for innovation and diversity among schools, especially academies and free schools, which could offer more choice and opportunity for pupils and parents.
+
+Sentiment - B

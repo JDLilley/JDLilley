@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I have reviewed the text file open in your current webpage and I will try to answer your questions as best as I can.
+
+Summary - The text file is a transcript of a parliamentary debate on the Parliamentary Voting System and Constituencies Bill, which proposes to change the electoral system and reduce the number of MPs. The debate covers various amendments and clauses of the bill, and the arguments for and against them.
+
+For - Voting 'Ayes' in the division means supporting clause 11, which sets out the rules for the boundary commissions to review and redraw the constituencies. The main argument for this is to ensure more equal representation of voters and to avoid creating anomalies or exceptions.
+
+Against - Voting 'Noes' in the division means opposing clause 11, which sets out the rules for the boundary commissions to review and redraw the constituencies. The main argument against this is to preserve the historical, geographical, and cultural factors that shape the constituencies and to allow some flexibility or discretion for the boundary commissions.
+
+Decision - Voting 'Aye' in the division is associated with reduced bureaucracy and centralisation in the context of parliamentary procedures, because it aims to simplify and standardise the process of boundary reviews and to reduce the influence of local or regional interests.
+
+Sentiment - B

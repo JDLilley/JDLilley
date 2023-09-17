@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I can help you review the text file open in your current webpage. Here is my response based on your request:
+
+Summary - The text file is a transcript of a debate in the UK Parliament on the Finance (No. 3) Bill, which contains various tax measures. The main focus is on clause 7, which increases the rate of supplementary charge on oil and gas companies.
+
+For - Voting 'Ayes' means supporting the Government's decision to raise the supplementary charge from 20% to 32%, which is expected to generate £2 billion of extra revenue per year. The Government argues that this is fair and necessary to fund a cut in fuel duty and reduce the deficit.
+
+Against - Voting 'Noes' means opposing the Government's decision and siding with the oil and gas industry, which warns that the increase will harm investment, jobs and production in the sector. The Opposition argues that this is a short-sighted and risky move that will damage the UK's energy security and competitiveness.
+
+Decision - Voting 'Aye' in this division is associated with austerity and regulation, because it implies accepting higher taxes on a profitable industry to reduce public spending and borrowing, and imposing more burdens on businesses that operate in a volatile market.
+
+Sentiment - B

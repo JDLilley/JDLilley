@@ -1,0 +1,13 @@
+## Bing
+
+Thank you for your request. Here is my response based on the text file open in your current webpage:
+
+Summary - The text file is a transcript of a parliamentary debate on the Fixed-term Parliaments Bill, which aims to remove the Prime Minister's power to call an early general election[1]. The debate covers various amendments and scenarios related to the bill.
+
+For - Voting 'Ayes' for amendment 6 means supporting the proposal to require the Speaker to certify that a motion of no confidence or confidence has been passed by the House of Commons, and to make that certification conclusive for legal purposes.
+
+Against - Voting 'Noes' for amendment 6 means opposing the proposal to give the Speaker such a certification power, and to leave the determination of no confidence or confidence motions to the House of Commons itself.
+
+Decision - Voting 'Aye' for amendment 6 is associated with reduced bureaucracy and centralisation in the context of Parliamentary Procedures, because it simplifies the process of triggering an early general election and gives more authority to the Speaker over the House of Commons.
+
+Sentiment - B

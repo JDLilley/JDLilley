@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I can help you review the text file open in your current webpage. Here is my response based on your request:
+
+Summary - The text file is a transcript of a debate in the UK Parliament about the Police Reform and Social Responsibility Bill, which proposes to introduce directly elected police and crime commissioners. The debate focuses on the arguments for and against the reform, and the amendments proposed by different parties.
+
+For - Voting 'Ayes' in the division means supporting the Government's proposal to create police and crime commissioners, who would be accountable to the public and have more power over policing priorities and budgets. The supporters of this reform argue that it would enhance local democracy, improve police performance, and reduce bureaucracy.
+
+Against - Voting 'Noes' in the division means opposing the Government's proposal and supporting an alternative model of police governance, such as directly elected chairs of police authorities or enhanced police and crime panels. The opponents of this reform argue that it would undermine the operational independence of the police, increase politicisation, and create additional costs.
+
+Decision - Voting 'Aye' in the division is associated with greater police powers, harsher punishments, and strengthening Crime & Justice. This is because the reform would give more authority and responsibility to the police and crime commissioners, who would be expected to deliver on their electoral promises and respond to the public's demands for more effective and efficient policing.
+
+Sentiment - A

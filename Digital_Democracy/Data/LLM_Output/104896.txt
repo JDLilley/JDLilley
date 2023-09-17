@@ -1,0 +1,13 @@
+## Bing
+
+Thank you for your request. Here is my response based on the text file open in your current webpage:
+
+Summary - The text file is a transcript of a debate in the UK Parliament on the Education Bill 2023, which aims to reform various aspects of the education system, such as pupil referral units, boarding academies, alternative provision, and free schools.
+
+For - Voting 'Ayes' in the division means supporting the new clause 9, which would allow academies to purchase places for pupils aged 14 at a private school, if they think it would benefit their education and life chances[1]. The new clause was proposed by Mr Frank Field, who argued that it would give more freedom and choice to academies and pupils.
+
+Against - Voting 'Noes' in the division means opposing the new clause 9, which would allow academies to purchase places for pupils aged 14 at a private school[1]. The new clause was not supported by the Government or the Opposition, who raised concerns about the cost, impact, and fairness of such a policy. They also questioned the evidence and rationale behind it.
+
+Decision - Voting 'Aye' in the division is associated with limiting Education & Learning, because it would create a two-tier system that would favour some pupils over others, based on the decisions of academies. It would also divert resources away from improving the quality of education in all schools, regardless of their status or location. It would undermine the principle of equality of opportunity and social cohesion in education.
+
+Sentiment - B

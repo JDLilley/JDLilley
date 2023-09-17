@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I can help you review the text file open in your current webpage. Here is my response based on your request:
+
+Summary - The text file is a transcript of a debate in the UK Parliament on the Police Reform and Social Responsibility Bill, which aims to change various aspects of policing and licensing. The debate covers several amendments and new clauses proposed by different MPs.
+
+For - Voting 'Ayes' in the division on amendment 162 means supporting the proposal to remove the power of the Secretary of State to impose a cap on locally set licensing fees. This would give more autonomy and flexibility to local authorities to recover their costs of administering the Licensing Act 2003.
+
+Against - Voting 'Noes' in the division on amendment 162 means opposing the proposal to remove the power of the Secretary of State to impose a cap on locally set licensing fees. This would maintain a national limit on fee levels to provide consistency and reassurance for fee payers, especially small businesses[1].
+
+Decision - Voting 'Aye' in the division on amendment 162 is associated with freedom and autonomy, limiting police powers and softer punishments, limiting Crime & Justice. This is because it would reduce the central control over licensing fees and allow local authorities to decide how much to charge for their services, which could affect the enforcement and regulation of licensed premises.
+
+Sentiment - B

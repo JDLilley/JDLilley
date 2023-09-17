@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I can help you review the text file open in your current webpage. Here is my response based on your request:
+
+Summary - The text file is a transcript of a debate in the UK Parliament on the European Union Bill, which aims to give the British people more say on EU treaty changes and decisions. The debate focuses on the role of referendums and Parliament in approving such changes.
+
+For - Voting 'Ayes' in the division means supporting amendment 85, which proposes to establish a European Union Referendum Committee to examine and recommend whether a referendum is required for any EU treaty change or decision. This would reaffirm the role of Parliament and avoid unnecessary referendums on technical issues.
+
+Against - Voting 'Noes' in the division means opposing amendment 85, which would give too much power to a committee of MPs and Lords to decide whether a referendum is needed. This would undermine the sovereignty of the people and the principle of direct democracy. The Bill provides clear and detailed criteria for when a referendum should be held[1].
+
+Decision - Voting 'Aye' in the division is associated with protectionism and independence from the European Union and other Foreign Affairs, as it implies a reluctance to accept any EU treaty change or decision without parliamentary scrutiny and approval. It also suggests a distrust of the Government's discretion and judgment on EU matters.
+
+Sentiment - B

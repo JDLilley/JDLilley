@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I can help you review the text file open in your current webpage. Here is my response based on your request:
+
+Summary - The text file is a transcript of a debate in the UK Parliament on a bill to provide payments to Equitable Life policyholders who suffered losses due to regulatory failure. The bill is controversial and has several amendments proposed by different MPs.
+
+For - Voting 'Ayes' for amendment 1 means supporting the inclusion of pre-1992 with-profits annuitants in the compensation scheme. The argument for this amendment is based on the moral obligation to treat all annuitants equally and fairly, regardless of when they purchased their policies.
+
+Against - Voting 'Noes' for amendment 1 means rejecting the inclusion of pre-1992 with-profits annuitants in the compensation scheme. The argument against this amendment is based on the practical difficulties and costs of calculating and verifying the losses of this group, as well as the possibility that they were overcompensated by Equitable Life in the past.
+
+Decision - Voting 'Aye' for amendment 1 is associated with greater spending on, and provision of, welfare and social housing. This is because the amendment would increase the amount of public money allocated to compensate Equitable Life policyholders, who are mostly elderly and vulnerable people. This would reflect a commitment to social justice and protection of pensioners' rights.
+
+Sentiment - A

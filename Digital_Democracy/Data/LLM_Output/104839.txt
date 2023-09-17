@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I can help you review the text file open in your current webpage. Here is my response based on your request:
+
+Summary - The text file is a transcript of a debate in the House of Commons on 17 February 2011 about the uprating of social security benefits and pensions according to the consumer prices index (CPI) instead of the retail prices index (RPI).
+
+For - Voting 'Ayes' means supporting the Government's proposal to use CPI as a more appropriate, consistent and stable measure of inflation for uprating benefits and pensions, which will strike a fair balance between the interests of recipients and taxpayers[1].
+
+Against - Voting 'Noes' means opposing the Government's proposal to use CPI as a permanent change that will reduce the value of benefits and pensions every year relative to RPI, which will harm the living standards of millions of people who rely on them.
+
+Decision - Voting 'Aye' is associated with cutting spending on, and provision of, welfare and social housing, because CPI tends to be lower than RPI on average over the long term, and therefore will result in lower increases for benefits and pensions that support people on low incomes.
+
+Sentiment - B

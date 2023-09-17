@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I have reviewed the text file open in your current webpage and I will try to answer your questions as best as I can.
+
+Summary - The text file is a transcript of a debate in the UK Parliament about the education maintenance allowance (EMA), a financial support scheme for students aged 16 to 19 from low-income households. The debate took place on 19 January 2011 and involved arguments from both sides of the political spectrum.
+
+For - Voting 'Ayes' in the division means supporting the original motion that calls on the Government to rethink its decision on EMA and retain practical support for disadvantaged young people to access further and higher education. The motion argues that EMA has played a valuable role in increasing participation, retention, achievement and choice for students from less well-off backgrounds.
+
+Against - Voting 'Noes' in the division means supporting the Government's amendment that rejects the original motion and defends the abolition of EMA. The amendment argues that EMA is ineffective, costly and poorly targeted, and that the Government is committed to raising the participation age to 18 and providing a more flexible and responsive system of financial support for students.
+
+Decision - Based on the information in the text file, I think that voting 'Aye' in the division is associated with increased education and learning, because it supports a policy that has been shown to have positive impacts on students' outcomes and opportunities. Voting 'Aye' also reflects a belief that education should be accessible and affordable for all, regardless of their socio-economic background.
+
+Sentiment - A

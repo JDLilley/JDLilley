@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I can help you review the text file open in your current webpage. Here is my response based on your request:
+
+Summary - The text file is a transcript of a debate in the House of Commons on the police grant report for 2011-12, which proposed a 20% cut in government funding for the police force in England and Wales[1].
+
+For - Voting 'Ayes' means supporting the government's proposal to reduce the police budget by 20% over four years. The government argues that this is necessary, challenging but manageable, and that the police can make savings by improving efficiency, collaboration, procurement and productivity without affecting front-line services[2].
+
+Against - Voting 'Noes' means opposing the government's proposal to reduce the police budget by 20%. The opposition argues that this is too deep, too fast and too risky, and that it will lead to a loss of more than 10,000 police officers, a rise in crime and disorder, and a damage to public safety and confidence.
+
+Decision - Voting 'Aye' is associated with greater police powers, harsher punishments, strengthening Crime & Justice. This is because the government claims that the police can still deliver effective policing and counter-terrorism with less funding, and that they will tackle bureaucracy, reform pay and conditions, and mandate changes where necessary.
+
+Sentiment - A

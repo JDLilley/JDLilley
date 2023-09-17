@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I have reviewed the text file open in your current webpage and I will try to answer your questions as best as I can.
+
+Summary - The text file is a transcript of a debate in the UK Parliament on the Finance (No. 3) Bill in 2023. The bill contains various measures related to taxation, spending and borrowing. The debate focuses on the bank levy, a tax on the liabilities of banks, and its adequacy and fairness.
+
+For -  Voting 'Ayes' in the division means supporting amendment 10, which proposes to review the bank levy and publish a report on its analysis, impact and expected revenues. The amendment is moved by the Labour opposition, who argue that the bank levy is too low, too complex and too lenient on the banks.
+
+Against - Voting 'Noes' in the division means rejecting amendment 10 and keeping the bank levy as it is. The amendment is opposed by the Conservative-Liberal Democrat coalition government, who claim that the bank levy is sufficient, simple and fair. They also accuse the opposition of being inconsistent and irresponsible on banking regulation.
+
+Decision - Voting 'Ayes' in the division is associated with austerity and regulation, because it implies that the banks should pay more tax and be more accountable for their role in the financial crisis. It also suggests that the government should use the revenues from the bank levy to reduce the deficit and fund public services.
+
+Sentiment - B

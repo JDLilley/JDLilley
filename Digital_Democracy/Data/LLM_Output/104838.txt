@@ -1,0 +1,13 @@
+## Bing
+
+Here is my response based on the text file open in your current webpage:
+
+Summary - The text file is a transcript of a debate in the House of Commons on the Parliamentary Voting System and Constituencies Bill, which proposes a referendum on the alternative vote system and changes to constituency boundaries. The debate focuses on whether to accept or reject the Lords amendments that introduce a turnout threshold for the referendum.
+
+For - Voting 'Ayes' means supporting the Government's motion to insist on its disagreement with the Lords amendments and propose a new amendment that requires the Electoral Commission to publish the turnout in each part of the UK. This would uphold the principle that the referendum result should be decided by those who vote, not by those who abstain, and that there should be no artificial barrier to change.
+
+Against - Voting 'Noes' means opposing the Government's motion and supporting the Lords amendments that make the referendum result indicative, not binding, if the turnout is less than 40%. This would reflect the view that a constitutional change of such significance should have a minimum level of public participation and legitimacy, and that Parliament should have the final say on whether to implement it.
+
+Decision - Voting 'Ayes' in this division is associated with reduced bureaucracy and centralisation in the context of Parliamentary Procedures, because it would simplify the referendum process and give more power to the Government to enact the result without further parliamentary scrutiny.
+
+Sentiment - B

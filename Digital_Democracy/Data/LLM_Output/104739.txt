@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I have reviewed the text file open in your current webpage and I will try to answer your questions as best as I can. Here is my response:
+
+Summary - The text file is a transcript of a debate in the UK Parliament on the Finance (No. 2) Bill, which contains provisions about tax relief for video game production and other matters. The debate covers various aspects of the video game industry, such as cultural content, innovation, employment, and regulation.
+
+For - Voting 'Ayes' in the division means supporting the new clause NC3, which proposes to introduce a video game tax credit for video game production companies that meet certain criteria. The arguments in favour of this clause are that it would stimulate the growth of the video game sector, create jobs, enhance cultural diversity, and promote innovation.
+
+Against - Voting 'Noes' in the division means opposing the new clause NC3, which proposes to introduce a video game tax credit for video game production companies that meet certain criteria. The arguments against this clause are that it would be costly, ineffective, unnecessary, and unfair. The government claims that it already provides sufficient support for the video game industry through other measures, such as research and development tax credits and creative sector reliefs.
+
+Decision - Voting 'Aye' in the division is associated with stimulus and the free market, because it implies favouring a lower tax burden and more incentives for video game production companies, which would increase their competitiveness and profitability in the global market.
+
+Sentiment - A

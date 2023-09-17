@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I have reviewed the text file open in your current webpage and I will try to answer your questions as best as I can.
+
+Summary - The text file is a transcript of a debate in the House of Commons on the Parliamentary Voting System and Constituencies Bill, which proposes to hold a referendum on the alternative vote system and to reduce the number of MPs and equalise the size of constituencies. The debate covers various amendments made or rejected by the House of Lords.
+
+For - Voting 'Ayes' in the division means that the House of Commons disagrees with the Lords in their amendment 20, which would require a minimum turnout of 40% for the referendum to be valid. The supporters of this motion argue that a turnout threshold would undermine the legitimacy of the referendum and that it is not consistent with other constitutional referendums.
+
+Against - Voting 'Noes' in the division means that the House of Commons agrees with the Lords in their amendment 20, which would require a minimum turnout of 40% for the referendum to be valid. The opponents of this motion argue that a turnout threshold would ensure that the referendum reflects the will of the majority of the electorate and that it is a reasonable safeguard against a low turnout.
+
+Decision - Voting 'Aye' in the division is associated with reduced bureaucracy and centralisation in the context of parliamentary procedures, because it would make the referendum simpler and easier to implement and it would give more power to the Government to change the electoral system without a strong mandate from the voters.
+
+Sentiment - B

@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I can help you review the text file open in your current webpage. Here is my response based on your request:
+
+Summary - The text file is a transcript of a debate in the UK House of Commons on the European Union Bill, which aims to require a referendum for any transfer of power from the UK to the EU. The debate covers various amendments and issues related to the Bill, such as justice and home affairs, citizenship rights, and enhanced co-operation.
+
+For - Voting 'Ayes' for amendment 100 means supporting the exclusion of EU patents from the referendum requirement. The proponents of this amendment argue that EU patents are beneficial for innovation and competitiveness, and that they do not affect the UK's sovereignty or legal system.
+
+Against - Voting 'Noes' for amendment 100 means opposing the exclusion of EU patents from the referendum requirement. The opponents of this amendment argue that EU patents are harmful for small businesses and consumers, and that they involve a transfer of power to the EU Court of Justice, which should be subject to a referendum.
+
+Decision - Voting 'Aye' for amendment 100 is associated with globalisation and strengthening ties with the European Union and other foreign affairs. This is because EU patents are intended to facilitate cross-border trade and co-operation, and to harmonise the patent system within the EU and beyond.
+
+Sentiment - A

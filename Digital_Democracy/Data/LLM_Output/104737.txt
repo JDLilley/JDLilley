@@ -1,0 +1,13 @@
+## Bing
+
+This is Bing. I can help you review the text file open in your current webpage. Here is my response:
+
+Summary - The text file is a transcript of a debate in the UK Parliament on the Parliamentary Voting System and Constituencies Bill, which proposed to change the electoral system and reduce the number of MPs. The debate covered various amendments and issues related to the Bill.
+
+For - Voting 'Ayes' in the division means supporting the Bill's third reading and sending it to the House of Lords for further scrutiny. The supporters of the Bill argued that it would make the voting system more fair, democratic and representative, and that it would save money by cutting the size of Parliament.
+
+Against - Voting 'Noes' in the division means opposing the Bill's third reading and trying to stop or delay its progress. The opponents of the Bill argued that it was rushed, flawed and partisan, and that it would undermine the devolved administrations, create unequal constituencies and confuse voters.
+
+Decision - Voting 'Aye' in the division is associated with reduced bureaucracy and centralisation in the context of Parliamentary Procedures, because it would reduce the number of MPs and their influence over the Government, and because it would impose a uniform electoral system across the UK without consulting the devolved nations.
+
+Sentiment - B

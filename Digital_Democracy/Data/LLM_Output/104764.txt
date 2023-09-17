@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I have reviewed the text file open in your current webpage and I will try to answer your questions as best as I can. Here is my response:
+
+Summary - The text file is a transcript of a parliamentary debate on the Fixed-term Parliaments Bill, which aims to remove the Prime Minister's power to call an early general election[1]. The debate covers various amendments and scenarios related to the mechanism of triggering an election after a vote of no confidence.
+
+For - Voting 'Ayes' for amendment 36 means supporting the proposal to exclude the time when Parliament is prorogued or adjourned for more than four days from the 14-day period for government formation after a no confidence vote[3]. This would prevent the Prime Minister from delaying or avoiding an alternative government from receiving a vote of confidence.
+
+Against - Voting 'Noes' for amendment 36 means opposing the proposal to exclude the time when Parliament is prorogued or adjourned for more than four days from the 14-day period for government formation after a no confidence vote[2]. This would maintain the fixed and certain timetable for an early election and avoid prolonging the uncertainty or instability.
+
+Decision - Voting 'Aye' for amendment 36 is associated with accountability and decentralisation in the context of parliamentary procedures, because it would limit the Prime Minister's ability to manipulate the timing of an election and give more power to the House of Commons to decide whether a new government can be formed.
+
+Sentiment - A

@@ -1,0 +1,13 @@
+## Bing
+
+Thank you for your request. Here is my response based on the text file open in your current webpage:
+
+Summary - The text file is a transcript of a parliamentary debate on the Parliamentary Voting System and Constituencies Bill, which proposes to change the electoral system and reduce the number of MPs. The debate covers various amendments and arguments for and against the Bill.
+
+For - Voting 'Ayes' in the division on amendment 234 means supporting the proposal to exclude prisoners from being counted as electors for the purpose of boundary reviews. This would reduce the number of constituencies with high prison populations and avoid over-representing them.
+
+Against - Voting 'Noes' in the division on amendment 234 means opposing the proposal to exclude prisoners from being counted as electors for the purpose of boundary reviews. This would maintain the current practice of using population data from the census, which includes prisoners, and avoid under-representing constituencies with high prison populations.
+
+Decision - Voting 'Aye' in the division on amendment 234 is associated with reduced bureaucracy and centralisation in the context of parliamentary procedures, because it would simplify the calculation of electoral quotas and create more uniform constituencies across the country.
+
+Sentiment - B

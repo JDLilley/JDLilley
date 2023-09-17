@@ -1,0 +1,11 @@
+## Bing
+
+Summary - The text file is a transcript of a parliamentary debate on the Finance (No. 3) Bill, which introduces tax and spending measures to support the government's economic plan. The bill is opposed by the Labour party, which argues that it puts jobs and growth at risk.
+
+For - Voting 'Ayes' in the division means supporting the bill and the government's fiscal strategy. It means agreeing that the bill will promote growth, provide relief for households and businesses, tackle the deficit, and create a fairer and greener tax system[1].
+
+Against - Voting 'Noes' in the division means rejecting the bill and the government's fiscal strategy. It means arguing that the bill will harm the economy, increase unemployment, raise living costs, and favour the banks and the wealthy over ordinary people.
+
+Decision - Voting 'Aye' in the division is associated with austerity and regulation. The bill aims to reduce public spending and borrowing, and to increase taxes on certain sectors and activities. It also introduces new rules and levies on banks, carbon emissions, and pensions.
+
+Sentiment - B

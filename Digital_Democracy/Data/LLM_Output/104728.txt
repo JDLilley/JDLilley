@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I can help you review the text file open in your current webpage. Here is my response based on your request:
+
+Summary - The text file is a transcript of a debate in the UK Parliament on a bill that would end some government payments to pregnant women and children's savings accounts. The bill was proposed by the coalition government as part of their plan to reduce the budget deficit.
+
+For - Voting 'Ayes' means supporting the bill and agreeing that the government payments are unaffordable, ineffective and unfair. It means prioritising spending on health, education and social mobility for the poorest children and families, and avoiding higher taxes and interest rates in the future.
+
+Against - Voting 'Noes' means opposing the bill and arguing that the government payments are important for promoting health, savings and asset-building among low-income groups. It means protecting universal benefits for children and pregnant women, and challenging the government's austerity agenda.
+
+Decision - Voting 'Aye' in the division is associated with austerity and regulation, because it involves cutting public spending and reducing the role of the state in providing financial support to individuals. It reflects the coalition government's fiscal consolidation plan and their belief in personal responsibility.
+
+Sentiment - B

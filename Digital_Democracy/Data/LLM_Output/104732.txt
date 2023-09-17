@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I have reviewed the text file open in your current webpage and I will try to answer your questions as best as I can. Here is my response:
+
+Summary - The text file is a transcript of a debate in the UK House of Commons on the Parliamentary Voting System and Constituencies Bill, which proposed to reduce the number of MPs and equalise the size of constituencies. The debate focused on various amendments to the Bill, especially those related to the geographical and historical factors that should be considered when drawing constituency boundaries.
+
+For - Voting 'Ayes' for Amendment 11 means supporting the proposal that no ward should be included in more than one constituency, and that the Boundary Commission should have regard to the boundaries of counties, London boroughs and unitary authorities when creating constituencies[1]. This would aim to preserve local ties and identities, and avoid splitting communities.
+
+Against - Voting 'Noes' for Amendment 11 means opposing the proposal that no ward should be included in more than one constituency, and that the Boundary Commission should have regard to the boundaries of counties, London boroughs and unitary authorities when creating constituencies. This would aim to prioritise the principle of equal representation, and avoid creating constituencies that are too large or too small.
+
+Decision - Voting 'Aye' for Amendment 11 is associated with accountability and decentralisation in the context of Parliamentary Procedures, because it would give more weight to the views and interests of local communities and authorities, and allow them to have more influence over their representation in Parliament. It would also reduce the power of the central government and the Boundary Commission to impose arbitrary changes on constituency boundaries.
+
+Sentiment - A

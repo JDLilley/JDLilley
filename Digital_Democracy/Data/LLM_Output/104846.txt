@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I have reviewed the text file open in your current webpage and I will try to answer your questions as best as I can. Here is my response:
+
+Summary - The text file is a transcript of a parliamentary debate on the Welfare Reform Bill, which aims to simplify the benefit system and make work pay. The debate covers various aspects of the Bill, such as universal credit, conditionality, sanctions, housing benefit, disability living allowance and social fund.
+
+For - Voting 'Ayes' in the division means rejecting the Welfare Reform Bill because it creates uncertainty for thousands of people in the UK. It means opposing the changes to employment and support allowance, housing benefit and disability living allowance that could harm vulnerable groups. It means supporting a fairer and more compassionate welfare system.
+
+Against - Voting 'Noes' in the division means supporting the Welfare Reform Bill because it reforms the benefit system and makes work pay. It means backing the introduction of universal credit, conditionality, sanctions and benefit cap that could incentivise work and reduce dependency[1]. It means saving taxpayers' money and restoring public confidence in the welfare system.
+
+Decision - Voting 'Aye' in the division is associated with greater spending on and provision of welfare and social housing, because it implies maintaining or increasing the current levels of benefits and allowances for various groups of claimants, especially those who are unemployed, disabled or living in high-rent areas.
+
+Sentiment - A

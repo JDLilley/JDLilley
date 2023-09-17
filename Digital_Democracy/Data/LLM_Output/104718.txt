@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I have reviewed the text file open in your current webpage and I will try to answer your questions as best as I can.
+
+Summary - The text file is a transcript of a parliamentary debate on the Parliamentary Voting System and Constituencies Bill, which proposes to change the electoral system and reduce the number of MPs. The debate focuses on clause 8 and 9, which deal with the timing and criteria of boundary reviews.
+
+For - Voting 'Ayes' in the division means supporting amendment 364, which would allow the Boundary Commission to take into account local ties, geographical features, and existing boundaries when drawing constituencies. This would preserve the link between MPs and their communities and respect the diversity of the UK.
+
+Against - Voting 'Noes' in the division means opposing amendment 364, which would undermine the principle of equal representation and create more exceptions to the rule of equal-sized constituencies. This would favour some regions over others and make the system less fair and democratic.
+
+Decision - Voting 'Aye' in the division is associated with accountability and decentralisation in the context of parliamentary procedures, because it would give more weight to local factors and preferences when determining constituencies. It would also allow more flexibility for the Boundary Commission to consult with stakeholders and adjust its proposals accordingly.
+
+Sentiment - A

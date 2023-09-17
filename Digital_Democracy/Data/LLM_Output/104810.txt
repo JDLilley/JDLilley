@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I can help you review the text file open in your current webpage. Here is my response:
+
+Summary - The text file is a transcript of a debate in the UK Parliament on the European Union Bill, which aims to increase parliamentary sovereignty and control over EU matters. The debate focuses on the EU's accession to the European Convention on Human Rights and its implications for UK law and human rights.
+
+For - Voting 'Ayes' in the division means supporting amendment 82, which would require a referendum before the UK could approve the EU's accession to the ECHR. The supporters of the amendment argue that this would enhance democratic accountability and protect UK sovereignty from external interference by the ECHR.
+
+Against - Voting 'Noes' in the division means opposing amendment 82, which would require a referendum before the UK could approve the EU's accession to the ECHR. The opponents of the amendment argue that this would be unnecessary and costly, and that the EU's accession to the ECHR would not affect UK law or human rights, but rather improve the EU's accountability and consistency.
+
+Decision - Voting 'Aye' in the division is associated with protectionism and independence from the European Union and other foreign affairs, because it implies a distrust of the EU's legal order and a desire to limit its influence on UK matters. It also reflects a preference for national sovereignty over international cooperation on human rights issues.
+
+Sentiment - B
