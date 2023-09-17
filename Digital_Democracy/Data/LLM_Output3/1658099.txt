@@ -1,0 +1,11 @@
+## Bing
+
+Summary - The text file is a transcript of a parliamentary debate on the Energy Bill [Lords], which aims to promote low-carbon energy, regulate nuclear energy, and protect consumers. The debate covers various amendments and new clauses proposed by different MPs.
+
+For - Voting 'Ayes' in the division: Third Reading means supporting the Energy Bill [Lords] as amended by the House of Commons. It means agreeing with the Government that the Bill will help to achieve net zero emissions, secure energy supply, and protect consumers from rising costs[1].
+
+Against - Voting 'Noes' in the division: Third Reading means opposing the Energy Bill [Lords] as amended by the House of Commons. It means disagreeing with the Government that the Bill will help to achieve net zero emissions, secure energy supply, and protect consumers from rising costs.
+
+Decision - Voting 'Aye' in the division: Third Reading is associated with prioritising environmental sustainability in the context of Environment & Energy. The Bill contains measures to support low-carbon energy sources, such as offshore wind, hydrogen, and nuclear power, and to reduce greenhouse gas emissions from fossil fuels.
+
+Sentiment - A

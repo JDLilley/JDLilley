@@ -1,0 +1,13 @@
+## Bing
+
+This is the summary of the text file in the current web page context:
+
+Summary - The text file is a transcript of a debate in the House of Commons on the Economic Crime and Corporate Transparency Bill, which aims to combat economic crime and improve corporate transparency. The debate covers various amendments proposed by the Lords and the Government, as well as some non-Government amendments.
+
+For - Voting 'Ayes' in the division: Amendment (a) to Lords Amendment 151 means supporting the Government's proposal to exempt small and medium-sized entities from the failure to prevent fraud offence. The Government argues that this would avoid imposing disproportionate and duplicative burdens on legitimate businesses.
+
+Against - Voting 'Noes' in the division: Amendment (a) to Lords Amendment 151 means opposing the Government's proposal and supporting the Lords' original amendment, which would apply the failure to prevent fraud offence to all UK businesses regardless of size. The Lords argue that this would create a level playing field and deter fraudsters from exploiting loopholes.
+
+Decision - Voting 'Aye' in the division: Amendment (a) to Lords Amendment 151 is associated with freedom & autonomy, limiting police powers & softer punishments, limiting Crime & Justice. This is because it would reduce the regulatory and compliance costs for small businesses and make them less liable for criminal prosecution.
+
+Sentiment - B

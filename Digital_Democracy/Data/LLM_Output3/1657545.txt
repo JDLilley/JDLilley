@@ -1,0 +1,13 @@
+## Bing
+
+This is the summary of the text file in the current web page context:
+
+Summary - The text file is a transcript of a debate in the House of Commons on the Economic Crime and Corporate Transparency Bill, which aims to tackle economic crime and improve corporate transparency. The debate covers various amendments proposed by the Lords and the Government, as well as some non-Government amendments.
+
+For - Voting 'Ayes' in the division: Amendment (a) to Lords Amendment 23 means supporting the Government's amendment to remove lines 84 to 96 from Lords Amendment 23. The Government argues that those lines are unnecessary and would impose disproportionate burdens on companies and shareholders to declare nominee arrangements, which are already covered by the person with significant control framework.
+
+Against - Voting 'Noes' in the division: Amendment (a) to Lords Amendment 23 means opposing the Government's amendment and supporting Lords Amendment 23 as it stands. The Lords argue that those lines are necessary and would improve transparency and accountability of companies and shareholders who use nominee arrangements to hide beneficial ownership or exert significant influence.
+
+Decision - Voting 'Aye' in the division: Amendment (a) to Lords Amendment 23 is associated with freedom & autonomy, limiting police powers & softer punishments, limiting Crime & Justice. This is because it would reduce the information requirements and compliance costs for companies and shareholders, and make it harder for law enforcement and civil society to investigate economic crime.
+
+Sentiment - B

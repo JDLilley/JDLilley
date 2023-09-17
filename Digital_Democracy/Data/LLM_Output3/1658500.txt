@@ -1,0 +1,13 @@
+## Bing
+
+This is the summary of the text file in the current web page context:
+
+Summary - The text file is a transcript of a debate in the UK Parliament on a bill that aims to address the legacy of the Northern Ireland troubles. The bill proposes to grant immunity from prosecution to those who provide truthful information about their involvement in the conflict. The debate focuses on whether the families of victims should have a say in granting immunity and whether immunity should be subject to licence conditions.
+
+For - Voting 'Ayes' means supporting the Government's motion to disagree with the Lords amendments that would give families a role in granting immunity and impose licence conditions on those who receive it[1]. The Government argues that these amendments would undermine the effectiveness of the information recovery process and discourage participation.
+
+Against - Voting 'Noes' means opposing the Government's motion and supporting the Lords amendments that would give families a voice in granting immunity and impose licence conditions on those who receive it. The Opposition argues that these amendments would respect the rights and wishes of victims and ensure accountability for those who receive immunity.
+
+Decision - Voting 'Aye' in the division: Motion to disagree is associated with protectionism and independence from the European Union and other Foreign Affairs. This is because the Government's approach is driven by the Conservative party manifesto, which prioritises ending vexatious prosecutions of British soldiers over international human rights obligations and co-operation with the Irish Government.
+
+Sentiment - B

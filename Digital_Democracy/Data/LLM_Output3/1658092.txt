@@ -1,0 +1,11 @@
+## Bing
+
+Summary - The text file is a transcript of a parliamentary debate on the Energy Bill [Lords], which covers various aspects of energy policy and regulation in the UK. The debate includes several proposed new clauses and amendments to the bill, some of which are voted on by the MPs.
+
+For - Voting 'Ayes' in the division on New Clause 12 means supporting a ban on flaring and venting of natural gas after 1 January 2025[1]. Flaring and venting are practices that release methane and other greenhouse gases into the atmosphere, contributing to climate change[2].
+
+Against - Voting 'Noes' in the division on New Clause 12 means opposing a ban on flaring and venting of natural gas after 1 January 2025[1]. Flaring and venting are sometimes necessary for safety reasons or to avoid wasting gas that cannot be used or transported. A ban could have negative impacts on the oil and gas industry.
+
+Decision - Voting 'Aye' in the division on New Clause 12 is associated with prioritising environmental sustainability in the context of Environment & Energy. This is because flaring and venting are major sources of greenhouse gas emissions, which cause global warming and harm the environment. A ban would reduce these emissions and help the UK meet its climate targets.
+
+Sentiment - A

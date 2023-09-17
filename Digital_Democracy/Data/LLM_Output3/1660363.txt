@@ -1,0 +1,11 @@
+## Bing
+
+Summary - The text file is a transcript of a debate in the House of Commons on the Economic Crime and Corporate Transparency Bill, which aims to tackle money laundering, fraud and corruption. The debate focuses on three Lords amendments that the Government wants to disagree with or insist on.
+
+For - Voting 'Ayes' means supporting the Government's position of excluding small and medium-sized enterprises from the 'failure to prevent' fraud offence, and rejecting the cost protection for law enforcement in civil recovery cases. The Government argues that this is a proportionate and balanced approach that does not impose unnecessary burdens or risks on businesses[1].
+
+Against - Voting 'Noes' means opposing the Government's position and supporting the Lords amendments that would apply the 'failure to prevent' fraud offence to non-micro entities, and introduce a cost cap for law enforcement in civil recovery cases. The opponents argue that this is a necessary and effective way to deter and prosecute economic crime, and to protect the public interest.
+
+Decision - Voting 'Aye' is associated with freedom & autonomy, limiting police powers & softer punishments, limiting Crime & Justice. Voting 'Aye' would mean that fewer businesses would be subject to the 'failure to prevent' fraud offence, which could reduce their compliance costs and liability risks. It would also mean that law enforcement would not have a cost cap in civil recovery cases, which could discourage them from pursuing complex and expensive cases.
+
+Sentiment - B

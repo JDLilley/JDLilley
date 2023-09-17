@@ -1,0 +1,11 @@
+## Bing
+
+Summary - The text file is a transcript of a parliamentary debate on the Energy Bill, which covers various aspects of energy policy, such as nuclear financing, low-carbon heating, renewable electricity and energy efficiency. The debate includes several proposed amendments and new clauses to the Bill.
+
+For - Voting 'Ayes' in the division on New Clause 57 means supporting the establishment of a Nuclear Decommissioning and Waste Handling Authority, which would be responsible for managing the decommissioning of nuclear power stations and the disposal of nuclear waste.
+
+Against - Voting 'Noes' in the division on New Clause 57 means opposing the creation of a Nuclear Decommissioning and Waste Handling Authority, and preferring to maintain the current arrangements for nuclear decommissioning and waste handling, which involve several different bodies and agencies.
+
+Decision - Voting 'Aye' in the division on New Clause 57 is associated with prioritising environmental sustainability in the context of Environment & Energy, because it would aim to ensure that nuclear decommissioning and waste handling are carried out in a safe, efficient and environmentally responsible manner.
+
+Sentiment - A

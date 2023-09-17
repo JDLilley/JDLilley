@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I have reviewed the text file open in your current webpage and here is my response:
+
+Summary - The text file is a transcript of a debate in the UK Parliament on the Illegal Migration Bill, which aims to deter irregular arrivals and remove asylum seekers to third countries. The debate covers various Lords amendments and the Government's objections to them.
+
+For - Voting for (Ayes) in the division means supporting the Government's motion to disagree with Lords Amendment 102, which would place a duty on the Government to establish safe and legal routes to asylum. The Government argues that such a duty is vague, unworkable and undermines their objective of preventing illegal migration.
+
+Against - Voting against (Noes) in the division means opposing the Government's motion to disagree with Lords Amendment 102, and supporting the Lords' proposal to place a duty on the Government to establish safe and legal routes to asylum. The Lords argue that such a duty is essential, feasible and humane, and would reduce the reliance on dangerous and irregular routes.
+
+Decision - The motion to disagree with Lords Amendment 102 would tighten immigration and borders, as it would reject the Lords' attempt to make the Government provide more options for refugees to seek protection in the UK without resorting to illegal entry or smuggling.
+
+Sentiment - A

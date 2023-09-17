@@ -1,0 +1,11 @@
+## Bing
+
+Summary - The text file is a transcript of a parliamentary debate on the Energy Bill, which covers various aspects of energy policy, such as nuclear financing, low-carbon heating, renewable electricity and energy efficiency.
+
+For - Voting 'Ayes' in the division on New Clause 61 means supporting the establishment of a Nuclear Energy (Financing) Act 2022, which would enable the government to enter into contracts with developers of new nuclear power stations and collect payments from electricity suppliers to fund them.
+
+Against - Voting 'Noes' in the division on New Clause 61 means opposing the establishment of a Nuclear Energy (Financing) Act 2022, which would expose the government and consumers to financial risks and liabilities associated with new nuclear power stations and undermine the competitiveness of renewable energy sources.
+
+Decision - Voting 'Aye' in the division on New Clause 61 is associated with prioritising economic growth and development in the context of Environment & Energy, as it would facilitate the construction of new nuclear power stations that could provide reliable and low-carbon electricity, but at a high cost and with environmental and safety concerns.
+
+Sentiment - B

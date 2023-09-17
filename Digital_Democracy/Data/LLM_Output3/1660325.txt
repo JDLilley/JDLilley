@@ -1,0 +1,11 @@
+## Bing
+
+Summary - The text file is a transcript of a debate in the House of Commons on the Procurement Bill, which aims to create a new framework for public procurement after Brexit. The main issue discussed is whether to include a clause to exclude suppliers involved in forced organ harvesting[1].
+
+For - Voting 'Ayes' means supporting the Government's motion to disagree with the Lords amendment 102B, which would add the clause on forced organ harvesting[2][3]. The Government argues that the amendment is unnecessary, burdensome and already covered by existing provisions on professional misconduct[4].
+
+Against - Voting 'Noes' means opposing the Government's motion and supporting the Lords amendment 102B. The Opposition argues that the amendment is necessary, reasonable and sends a clear message to China and other countries where forced organ harvesting occurs[5].
+
+Decision - Voting 'Aye' in the division is associated with austerity & regulation, because it rejects a measure that would impose stricter ethical standards on suppliers and contracting authorities, and potentially reduce the number of eligible bidders for public contracts.
+
+Sentiment - B
