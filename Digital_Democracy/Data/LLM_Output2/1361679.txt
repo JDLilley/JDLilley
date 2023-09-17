@@ -1,0 +1,13 @@
+## Bing
+
+Here is my response based on the text file open in your current webpage:
+
+Summary - The text file is a transcript of a debate in the UK Parliament on the Environment Bill, which aims to set environmental targets and standards after Brexit. The debate covers various amendments proposed by the House of Lords, such as air quality, soil health, and climate emergency.
+
+For - Voting 'Ayes' in the division to disagree with Lords Amendment 65 means supporting the Government's position that the Office for Environmental Protection (OEP) should not have the power to initiate judicial review proceedings against public authorities for breaching environmental law.
+
+Against - Voting 'Noes' in the division to disagree with Lords Amendment 65 means opposing the Government's position and supporting the Lords' amendment that would give the OEP the power to initiate judicial review proceedings against public authorities for breaching environmental law.
+
+Decision - Voting 'Aye' in the division to disagree with Lords Amendment 65 is associated with prioritising economic growth and development in the context of Environment & Energy, because it would limit the OEP's ability to hold public authorities accountable for environmental harm and potentially allow more flexibility for development projects that may have negative environmental impacts.
+
+Sentiment - B

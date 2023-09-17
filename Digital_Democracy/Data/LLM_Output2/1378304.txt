@@ -1,0 +1,13 @@
+## Bing
+
+Thank you for your request. Here is my response based on the text file open in your current webpage:
+
+Summary - The text file is a transcript of a debate in the House of Commons on the Social Security (Up-rating of Benefits) Bill, which deals with the annual increase of state pensions and other benefits. The main issue is whether to suspend the earnings link in the pensions triple lock for one year due to the covid-related distortion of average earnings growth.
+
+For - Voting 'Ayes' in the division means supporting the Government's motion to disagree with Lords amendment 2, which would restore the earnings link in the pensions triple lock. The Government argues that using the actual earnings growth figure of 8.3% would be unfair, unaffordable and legally unsound, and that a double lock of inflation or 2.5% would still protect pensioners' spending power.
+
+Against - Voting 'Noes' in the division means opposing the Government's motion and supporting Lords amendment 2, which would require the Government to use an alternative measure of underlying earnings growth that excludes the covid-related effects. The Opposition argues that this would honour the Government's manifesto commitment, address the cost of living crisis and ensure a sound foundation for pension saving.
+
+Decision - Voting 'Aye' in the division is associated with cutting spending on, and provision of, welfare and social housing, because it would reduce the value of state pensions and other benefits relative to earnings and inflation, and create savings for the Treasury that could be used for other purposes. Voting 'Aye' would also weaken the pension framework that aims to keep the state pension in line with earnings over time[1].
+
+Sentiment - B

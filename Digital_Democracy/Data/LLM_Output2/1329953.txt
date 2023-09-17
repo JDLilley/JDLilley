@@ -1,0 +1,13 @@
+## Bing
+
+Thank you for your request. Here is my response based on the text file open in your current webpage:
+
+Summary - The text file is a transcript of a parliamentary debate on the Advanced Research and Invention Agency Bill, which aims to create a new agency to fund high-risk, high-reward research. The debate covers various amendments and new clauses proposed by different parties.
+
+For - Voting 'Ayes' for Amendment 1 means supporting the idea that ARIA's primary mission should be to support the development of technologies and research that support the UK's transition to net zero carbon emissions or reduce the harmful effects of climate change[1][2].
+
+Against - Voting 'Noes' for Amendment 1 means opposing the idea that ARIA's primary mission should be restricted to a specific area of research, and preferring to give ARIA the freedom to explore a wide range of scientific fields and challenges without political interference.
+
+Decision - Voting 'Aye' for Amendment 1 is associated with ethical considerations, regulation, and tradition, in the context of Standards & Technology. This is because it reflects a concern for the environmental and social impact of scientific research, as well as a respect for the existing commitments and targets that the UK has made on climate change.
+
+Sentiment - B

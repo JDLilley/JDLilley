@@ -1,0 +1,13 @@
+## Bing
+
+Here is my response based on the text file open in your current webpage:
+
+Summary - The text file is a transcript of a debate in the UK Parliament on the Environment Bill, which aims to protect and improve the environment after Brexit. The debate covers various amendments proposed by the House of Lords, such as air quality, soil health, and environmental principles.
+
+For - Voting 'Ayes' in the division means supporting the Government's motion to disagree with Lords Amendment 43, which would require the Government to set a target for reducing plastic pollution by 31 December 2022. The Government argues that this amendment is unnecessary and impractical.
+
+Against - Voting 'Noes' in the division means opposing the Government's motion and supporting Lords Amendment 43, which would require the Government to set a target for reducing plastic pollution by 31 December 2022. The amendment's supporters argue that this is a vital and urgent issue for the environment and public health.
+
+Decision - Voting 'Aye' in the division is associated with prioritising economic growth and development in the context of Environment & Energy, as it would allow the Government more flexibility and time to consider the impact of plastic reduction measures on businesses and consumers.
+
+Sentiment - B

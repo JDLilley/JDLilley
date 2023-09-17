@@ -1,0 +1,11 @@
+## Bing
+
+Summary - The text file is a transcript of a debate in the UK Parliament on a bill that would suspend the pensions triple lock for one year due to the covid-19 pandemic. The bill was supported by the government and opposed by some opposition parties and MPs.
+
+For - Voting 'Ayes' in the division means supporting the bill and agreeing to set aside the earnings link for the state pension uprating for 2022-23. It also means accepting the government's argument that the bill is necessary to ensure fairness and fiscal responsibility in light of the pandemic.
+
+Against - Voting 'Noes' in the division means rejecting the bill and insisting on maintaining the earnings link for the state pension uprating for 2022-23. It also means rejecting the government's argument and claiming that the bill is a breach of trust and a betrayal of pensioners.
+
+Decision - Voting 'Aye' in the division is associated with cutting spending on, and provision of, welfare and social housing. This is because the bill would reduce the amount of money that pensioners would receive compared to what they were promised under the triple lock. This could have a negative impact on their living standards and their ability to afford essential services such as housing, heating, and food.
+
+Sentiment - B

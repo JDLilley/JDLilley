@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I can help you review the text file open in your current webpage. Here is my response:
+
+Summary - The text file is a transcript of a debate in the UK House of Commons on the Domestic Abuse Bill. The debate focuses on four issues: child contact centres, data sharing for immigration purposes, leave to remain for migrant victims, and management of domestic abuse perpetrators.
+
+For - Voting 'Ayes' means supporting the Government's motion to disagree with Lords Amendments 40B and 40C, which would require the Government to take action to protect victims of domestic abuse from data sharing for immigration purposes. The Government argues that these amendments are premature and that a review and a code of practice are sufficient.
+
+Against - Voting 'Noes' means opposing the Government's motion and supporting Lords Amendments 40B and 40C, which would require the Government to take action to protect victims of domestic abuse from data sharing for immigration purposes. The Opposition argues that these amendments are reasonable and necessary, and that a review and a code of practice are not enough.
+
+Decision - Voting 'Aye' in this division is associated with limiting freedom and autonomy for migrant victims of domestic abuse, and strengthening police powers for immigration enforcement. Voting 'Aye' implies that immigration control is more important than protecting victims from harm.
+
+Sentiment - B

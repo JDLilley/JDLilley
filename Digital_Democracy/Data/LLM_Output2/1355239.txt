@@ -1,0 +1,13 @@
+## Bing
+
+Thank you for your request. Here is my response based on the text file open in your current webpage:
+
+Summary - The text file is a transcript of a debate in the UK Parliament on the Health and Social Care Levy Bill, which introduces a new tax to fund health and social care services.
+
+For - Voting 'Ayes' means supporting the Government's plan to raise funds for health and social care by increasing national insurance contributions and creating a new levy[1]. It also means accepting the existing allocation of funds between the four nations of the UK and between health and social care.
+
+Against - Voting 'Noes' means opposing the Government's plan to raise funds for health and social care by increasing national insurance contributions and creating a new levy[1]. It also means challenging the existing allocation of funds between the four nations of the UK and between health and social care.
+
+Decision - Voting 'Aye' in the division: Second Reading is associated with investment in public health and improving standards of care, in the context of Health & Healthcare. This is because the Government claims that the levy will provide additional resources for the NHS to recover from the pandemic, reduce waiting lists, improve access to services, and reform the social care system to cap lifetime costs and increase support for low-income people.
+
+Sentiment - A

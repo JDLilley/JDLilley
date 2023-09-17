@@ -1,0 +1,11 @@
+## Bing
+
+Summary - The text file is a transcript of a parliamentary debate on the Finance (No. 2) Bill, which implements the measures announced in the Budget. The Bill covers various aspects of taxation, spending and economic policy.
+
+For - Voting for the Bill means supporting the Government's plan to create a stronger economy, with higher wages, skills and productivity. It also means backing the tax changes that will fund public services, tackle social care and address economic crime.
+
+Against - Voting against the Bill means opposing the Government's plan to raise taxes to their highest level in 70 years, while cutting taxes for banks and frequent flyers. It also means criticising the Government's failure to invest in growth, jobs and fundamental reforms to business rates.
+
+Decision - Voting for the Bill is associated with austerity and regulation, because it increases the tax burden on working people and businesses, while introducing new levies and sanctions to combat tax avoidance and money laundering. It does not provide sufficient stimulus or incentives for the free market.
+
+Sentiment - B

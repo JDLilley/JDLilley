@@ -1,0 +1,11 @@
+## Bing
+
+Summary - The text file is a transcript of a debate in the UK Parliament on a bill that aims to prevent employers from using fire and rehire tactics to change workers' contracts. The bill is supported by Labour and opposed by Conservatives.
+
+For - Voting for the bill means supporting workers' rights and dignity, and preventing unscrupulous employers from exploiting the pandemic to cut pay and conditions. It also means rewarding good employers who do not use fire and rehire.
+
+Against - Voting against the bill means opposing primary legislation that would interfere with the flexibility and adaptability of the labour market, and create unintended consequences for businesses and workers. It also means favouring a code of practice with financial penalties as a better solution.
+
+Decision - Voting for the bill is not clearly associated with either stimulus or austerity, or free market or regulation. It depends on how one views the impact of the bill on the economy and employment. One could argue that it is associated with regulation, as it imposes legal restrictions on employers' actions, but one could also argue that it is associated with stimulus, as it protects workers' income and morale.
+
+Sentiment - C

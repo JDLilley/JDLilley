@@ -1,0 +1,13 @@
+## Bing
+
+Thank you for your request. Here is my response based on the text file open in your current webpage:
+
+Summary - The text file is a transcript of a parliamentary debate on the Advanced Research and Invention Agency Bill, which aims to create a new agency to fund high-risk, high-reward research. The debate covers various amendments and new clauses proposed by different MPs, as well as the general principles and objectives of the Bill.
+
+For - Voting 'Ayes' in the division on Amendment 14 means supporting the inclusion of ARIA as a public authority under the Freedom of Information Act 2000 and the Public Contracts Regulations 2015[1]. This would make ARIA subject to transparency and accountability requirements, such as disclosing information and following procurement rules.
+
+Against - Voting 'Noes' in the division on Amendment 14 means opposing the inclusion of ARIA as a public authority under the Freedom of Information Act 2000 and the Public Contracts Regulations 2015[1]. This would make ARIA exempt from transparency and accountability requirements, such as disclosing information and following procurement rules.
+
+Decision - Voting 'Aye' in the division on Amendment 14 is associated with ethical considerations, regulation, and tradition, in the context of Standards & Technology. This is because it would uphold the principles of openness, fairness, and public interest in ARIA's activities and decisions, and align with existing standards and practices for public bodies.
+
+Sentiment - B

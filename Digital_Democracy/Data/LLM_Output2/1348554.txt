@@ -1,0 +1,11 @@
+## Bing
+
+Summary - The text file is a transcript of a parliamentary debate on the Nationality and Borders Bill, which aims to reform the UK's asylum and immigration system. The debate covers various aspects of the Bill, such as its impact on refugees, human rights, legal routes, and illegal crossings.
+
+For - Those who vote for (Ayes) in the division support the Bill as a way to address the problem of illegal entry into the UK, especially by migrants crossing the Dover straits[1]. They argue that the Bill will make the system firm but fair, deter people smugglers, and create safe and legal routes for genuine refugees.
+
+Against - Those who vote against (Noes) in the division oppose the Bill as a violation of the 1951 Refugee Convention and a breach of international human rights obligations[2]. They argue that the Bill will create a two-tier system that penalises asylum seekers based on how they arrive, and that it will cause more harm, delays, and costs to the system.
+
+Decision - The Second Reading of the Bill will tighten immigration and borders, as it will introduce new offences and penalties for illegal entry and facilitation, create differential treatment of asylum claims based on mode of arrival, and enable offshore processing and removal of asylum seekers to third countries.
+
+Sentiment - A

@@ -1,0 +1,11 @@
+## Bing
+
+Summary - The text file is a transcript of a parliamentary debate on the Finance Bill, which contains various tax measures proposed by the UK government. The debate covers different aspects of the Bill, such as the super deduction, the global minimum corporate tax rate, and the impact on investment and workers' rights.
+
+For - Voting for the Third Reading means supporting the Finance Bill as a whole and agreeing with the government's fiscal policy. The supporters of the Bill argue that it will boost investment, create jobs, and ensure fair taxation of multinational companies.
+
+Against - Voting against the Third Reading means opposing the Finance Bill as a whole and disagreeing with the government's fiscal policy. The opponents of the Bill argue that it will benefit large tech firms, harm small businesses, and fail to address tax avoidance and workers' rights.
+
+Decision - Voting for the Third Reading is associated with stimulus and the free market, because the Bill aims to stimulate the economy by offering tax incentives for capital expenditure and reducing corporation tax rates. It also reflects a preference for market-based solutions over international co-operation on tax matters.
+
+Sentiment - A

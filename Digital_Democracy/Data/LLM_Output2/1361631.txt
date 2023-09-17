@@ -1,0 +1,13 @@
+## Bing
+
+Here is my response:
+
+Summary - The text file is a transcript of a debate in the UK Parliament on the Environment Bill, which aims to set targets and policies for environmental protection after Brexit. The debate covers various amendments proposed by the House of Lords, such as declaring a climate emergency, setting air quality standards, and strengthening the Office for Environmental Protection.
+
+For - Voting 'Ayes' in the division means supporting the Government's motion to disagree with Lords amendment 31, which would give the Office for Environmental Protection (OEP) the power to initiate judicial review proceedings against public authorities for breaching environmental law. The Government argues that this power is unnecessary and disproportionate, and that the OEP should use other means of enforcement first.
+
+Against - Voting 'Noes' in the division means opposing the Government's motion to disagree with Lords amendment 31, and supporting the Lords' proposal to give the OEP the power to initiate judicial review proceedings against public authorities for breaching environmental law. The Lords argue that this power is essential and appropriate, and that the OEP should have the same level of independence and authority as the European Commission had before Brexit.
+
+Decision - Voting 'Aye' in the division is associated with prioritising economic growth and development in the context of Environment & Energy, because it would limit the ability of the OEP to hold public authorities accountable for environmental harm, and potentially allow them to pursue policies or projects that are detrimental to the environment but beneficial to the economy.
+
+Sentiment - B

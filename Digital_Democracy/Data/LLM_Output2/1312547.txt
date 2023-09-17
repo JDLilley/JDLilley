@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I can help you review the text file open in your current webpage. Here is my response:
+
+Summary - The text file is a transcript of a parliamentary debate on the National Security and Investment Bill, which aims to protect the UK from hostile foreign takeovers. The main issue is whether the Intelligence and Security Committee should oversee the new regime or not.
+
+For - Voting 'Ayes' means supporting the Government's motion to disagree with the Lords amendments 11B and 11C, which would require the Intelligence and Security Committee to scrutinise the decisions made by the Secretary of State for Business, Energy and Industrial Strategy under the new regime[1].
+
+Against - Voting 'Noes' means opposing the Government's motion and supporting the Lords amendments 11B and 11C, which would ensure that the Intelligence and Security Committee has access to classified information and can provide robust and sensitive oversight on matters of national security[2].
+
+Decision - Voting 'Aye' is associated with softer regulations and growing powers of Defence & Armed Forces, because it would allow the Government to intervene in mergers and acquisitions without adequate parliamentary scrutiny or accountability. It would also reduce the role of the Intelligence and Security Committee, which has expertise in national security issues.
+
+Sentiment - A

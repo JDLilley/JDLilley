@@ -1,0 +1,13 @@
+## Bing
+
+Thank you for your request. Here is my response based on the text file open in your current webpage:
+
+Summary - The text file is a transcript of a parliamentary debate on the Advanced Research and Invention Agency Bill, which aims to create a new agency to fund high-risk, high-reward research. The debate covers various amendments and new clauses proposed by different parties.
+
+For - Voting 'Ayes' for Amendment 12 means supporting the idea that ARIA should have a core mission that is aligned with the UK's climate change goals, and that its mission should be reviewed every five years by Parliament.
+
+Against - Voting 'Noes' for Amendment 12 means opposing the idea that ARIA should have a core mission that is aligned with the UK's climate change goals, and that its mission should be reviewed every five years by Parliament.
+
+Decision - Voting 'Aye' for Amendment 12 is associated with ethical considerations, regulation, and tradition, in the context of Standards & Technology. This is because the amendment seeks to ensure that ARIA follows the existing legal framework of the Climate Change Act 2008, and that it is accountable to Parliament for its activities.
+
+Sentiment - B

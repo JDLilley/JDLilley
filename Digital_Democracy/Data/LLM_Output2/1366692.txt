@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I can help you review the text file open in your current webpage. Here is my response based on your request:
+
+Summary - The text file is a transcript of a parliamentary debate on the Environment Bill in the UK. The main topics are the regulation of storm overflows, sewage discharges, and the role of the Office for Environmental Protection.
+
+For - Voting 'Ayes' means supporting the Government's amendments to the Bill, which place a legal duty on water companies to reduce the adverse impact of sewage discharges on the environment and public health, and give the Secretary of State the power to issue guidance to the OEP on its enforcement functions[1].
+
+Against - Voting 'Noes' means rejecting the Government's amendments and preferring the Lords amendment, which would prohibit sewage discharges from storm overflows except in exceptional circumstances, and limit the Secretary of State's influence on the OEP's enforcement policy.
+
+Decision - Voting 'Aye' is associated with prioritising economic growth and development in the context of Environment & Energy, because it allows water companies more flexibility and lower costs in complying with the law, and it gives the Government more control over the OEP's actions.
+
+Sentiment - B

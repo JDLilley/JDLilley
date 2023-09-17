@@ -1,0 +1,11 @@
+## Bing
+
+Summary - The text file is a transcript of a parliamentary debate on the Finance Bill, which contains various amendments and new clauses related to corporation tax, investment and tax avoidance. The debate covers different perspectives on the impact of the Bill and the proposed changes on the UK economy, businesses and public services.
+
+For - Voting for amendment 29 means preventing the biggest tech firms that are liable for the digital services tax from benefiting from the super deduction, a tax break for investment[1]. The amendment aims to stop public money from subsidising profitable multinationals that avoid paying their fair share of tax in the UK.
+
+Against - Voting against amendment 29 means allowing all companies, regardless of their size or digital activities, to access the super deduction. The amendment is seen as unnecessary, burdensome and potentially harmful to the UK's competitiveness and attractiveness for investment. The Government argues that it is already leading the global efforts to tackle tax avoidance[2].
+
+Decision - Voting for amendment 29 is associated with austerity and regulation, as it seeks to restrict the scope of a tax relief and increase the tax burden on some large corporations. It also reflects a concern for fiscal responsibility and fairness in the tax system.
+
+Sentiment - B

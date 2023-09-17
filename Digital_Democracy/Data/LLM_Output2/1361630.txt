@@ -1,0 +1,13 @@
+## Bing
+
+Thank you for your request. Here is my response based on the text file open in your current webpage:
+
+Summary - The text file is a transcript of a debate in the UK Parliament on the Environment Bill, which aims to set environmental targets and standards after Brexit. The debate covers various amendments made by the House of Lords, such as declaring a climate emergency, improving air quality, and removing exemptions for certain policy areas.
+
+For - Voting 'Ayes' in the division: motion to disagree with Lords amendment 28 means supporting the Government's view that defence, national security, tax, spending and resource allocation should not be subject to the environmental principles in the Bill. The Government argues that these are matters of high-level policy that require flexibility and discretion.
+
+Against - Voting 'Noes' in the division: motion to disagree with Lords amendment 28 means opposing the Government's view and supporting the Lords' amendment that would remove the exemptions for defence, national security, tax, spending and resource allocation from the Bill. The amendment argues that these are important policy areas that have significant environmental impacts and should be guided by the environmental principles.
+
+Decision - Voting 'Aye' in the division: motion to disagree with Lords amendment 28 is associated with prioritising economic growth and development in the context of Environment & Energy. This is because the exemptions would allow the Government to pursue policies that may not be consistent with environmental protection or improvement, such as increasing defence spending, cutting taxes or allocating resources without regard to environmental consequences.
+
+Sentiment - B

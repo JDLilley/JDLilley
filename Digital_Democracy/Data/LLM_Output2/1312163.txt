@@ -1,0 +1,13 @@
+## Bing
+
+Thank you for your request. Here is my response based on the text file open in your current webpage:
+
+Summary - The text file is a transcript of a parliamentary debate on the National Security and Investment Bill, which aims to protect the UK from hostile foreign takeovers. The main issue is whether the Intelligence and Security Committee should have oversight of the new regime.
+
+For - Voting 'Ayes' in the division means supporting the Government's motion to disagree with Lords Amendment 11, which would require the Secretary of State to provide classified information to the ISC[1]. The Government argues that this is unnecessary and that the BEIS Committee can provide adequate scrutiny.
+
+Against - Voting 'Noes' in the division means opposing the Government's motion and supporting Lords Amendment 11. The ISC and other peers argue that this amendment is essential for providing effective oversight of the national security aspects of the Bill, and that the BEIS Committee cannot access or handle top-secret material.
+
+Decision - Voting 'Aye' in the division is associated with softer regulations and growing powers of Defence and Armed Forces, because it would limit the ISC's ability to scrutinise the security risks posed by foreign investment and takeovers, and give more discretion to the Secretary of State and the new Investment Security Unit.
+
+Sentiment - A
