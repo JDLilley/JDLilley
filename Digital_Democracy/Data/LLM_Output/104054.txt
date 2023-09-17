@@ -1,0 +1,13 @@
+## Bing
+
+Thank you for your request. Here is my response based on the text file open in your current webpage:
+
+Summary - The text file is a transcript of a debate in the UK Parliament on the Finance Bill, which contains various tax measures. The main topics discussed are the small companies rate of corporation tax, the annual investment allowance, and the impact of the Budget on small businesses.
+
+For - Voting 'Ayes' in the division means supporting the Government's decision to increase the small companies rate of corporation tax from 19% to 21% in 2008 and 22% in 2009. The Government argues that this is necessary to tackle tax avoidance, to fund a cut in the main rate of corporation tax, and to provide incentives for investment through the annual investment allowance.
+
+Against - Voting 'Noes' in the division means opposing the Government's decision to increase the small companies rate of corporation tax and calling for it to be reduced to 20%. The Opposition argues that this is a damaging and unfair tax rise for small businesses, which are already facing higher costs and a more uncertain economy[1]. They also criticise the annual investment allowance as a complex and distortionary relief that does not compensate for the tax increase.
+
+Decision - Voting 'Aye' in the division is associated with austerity & regulation, as it implies a higher tax burden and a more interventionist approach to business taxation. Voting 'Aye' also goes against the principle of lower taxes for lower income and smaller companies, which could stimulate growth and entrepreneurship.
+
+Sentiment - B

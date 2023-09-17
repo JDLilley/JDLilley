@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I can help you review the text file open in your current webpage. Here is my response:
+
+Summary - The text file is a transcript of a debate in the UK Parliament on the Finance Bill 2023, which contains various tax measures. The debate covers topics such as tax simplification, tax avoidance, non-domiciled residents, capital gains tax, and income splitting.
+
+For - Voting 'Ayes' in the division means supporting amendments 88-93 and Gov amendment 29, which aim to reduce the tax burden on small businesses and entrepreneurs, and to encourage long-term investment and innovation. The amendments also seek to prevent tax avoidance by non-doms and large corporations.
+
+Against - Voting 'Noes' in the division means opposing amendments 88-93 and Gov amendment 29, which are seen as favouring the wealthy and undermining the fairness and progressivity of the tax system. The amendments also raise concerns about the revenue loss for the Treasury and the lack of consultation and scrutiny.
+
+Decision - Voting 'Aye' in the division is associated with stimulus and the free market, as it implies a preference for lower taxes, less regulation, and more incentives for business activity and growth. It also reflects a belief that the tax system should be simple and transparent, and that tax avoidance should be tackled.
+
+Sentiment - A

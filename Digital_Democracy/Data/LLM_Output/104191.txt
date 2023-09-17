@@ -1,0 +1,13 @@
+## Bing
+
+This is Bing. I can help you review the text file open in your current webpage. Here is my response:
+
+Summary - The text file is a transcript of a parliamentary debate on the Local Transport Bill in 2023. The bill aims to give local authorities more powers and flexibility to improve bus services and reduce congestion and emissions[1]. The debate covers various aspects of the bill, such as quality contracts, employment protection, consultation and exemptions.
+
+For - Voting 'Ayes' in the division means supporting the government's amendments to the bill, which would allow local authorities to make the final decision on quality contracts schemes after receiving an opinion and recommendations from an independent board. It also means supporting the provisions to strengthen employment protection for bus workers and to enable local authorities to operate bus services as the operator of last resort in exceptional circumstances.
+
+Against - Voting 'Noes' in the division means opposing the government's amendments to the bill, which would remove the approval role of the independent board and give more discretion to local authorities on quality contracts schemes. It also means opposing the provisions to increase employment protection for bus workers and to allow local authorities to operate bus services as the operator of last resort in exceptional circumstances.
+
+Decision - Voting 'Aye' in the division is associated with innovation, progressivism and flexibility in the context of Standards & Technology, because it would enable local authorities to implement quality contracts schemes that could improve bus services, reduce congestion and emissions, and promote sustainable transport modes. It would also support the development of new technologies and practices that could enhance the efficiency and effectiveness of bus operations and management.
+
+Sentiment - A

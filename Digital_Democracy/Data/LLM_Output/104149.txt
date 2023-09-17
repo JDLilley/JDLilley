@@ -1,0 +1,13 @@
+## Bing
+
+Thank you for your request. Here is my response based on the text file open in your current webpage:
+
+Summary - The text file is a transcript of a debate in the UK Parliament on the Finance Bill, which contains various tax measures and reforms. The debate covers topics such as capital gains tax, non-domiciled residents, income splitting, and tax simplification.
+
+For - Voting 'Ayes' in the division means supporting the Finance Bill and the Government's proposals for tax changes. It means agreeing with the Government's arguments that the Bill is fair, balanced, and necessary to maintain public services and fiscal stability.
+
+Against - Voting 'Noes' in the division means opposing the Finance Bill and the Government's proposals for tax changes. It means agreeing with the Opposition's arguments that the Bill is complex, unfair, and damaging to business and enterprise.
+
+Decision - Voting 'Aye' in the division is associated with austerity & regulation, because the Finance Bill increases taxes on some groups of taxpayers, such as non-domiciled residents and high earners, and introduces more rules and complexity in the tax system.
+
+Sentiment - B

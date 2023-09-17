@@ -1,0 +1,13 @@
+## Bing
+
+This is Bing. I have reviewed the text file open in your current webpage. Here is my response:
+
+Summary - The text file contains a transcript of a debate in the UK House of Commons on a programme motion for the Human Fertilisation and Embryology Bill in 2023. The Bill deals with various issues related to assisted reproduction and embryo research, but also attracts amendments on abortion.
+
+For - Voting 'Ayes' for the programme motion means supporting the Government's proposal to limit the time and order of debate on the Bill. It also means prioritising the original clauses of the Bill over the amendments on abortion, which are seen as irrelevant or inappropriate for this legislation.
+
+Against - Voting 'Noes' for the programme motion means opposing the Government's attempt to curtail the discussion and voting on the Bill. It also means demanding more time and opportunity to debate the amendments on abortion, which are seen as important and urgent for this legislation.
+
+Decision - Voting 'Aye' for the programme motion is associated with ethical considerations, regulation, and tradition, in the context of Standards and Technology. This is because it reflects a respect for the original purpose and scope of the Bill, which aims to update and regulate the practices and research in human fertilisation and embryology. It also shows a reluctance to change or challenge the existing law on abortion, which is a sensitive and moral issue.
+
+Sentiment - B

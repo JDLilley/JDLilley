@@ -1,0 +1,13 @@
+## Bing
+
+This is Bing. I have reviewed the text file open in your current webpage and here is my response:
+
+Summary - The text file is a transcript of a debate in the UK Parliament on the Human Fertilisation and Embryology Bill in 2008. The bill aimed to update the law on assisted reproduction and embryo research. The debate focused on the controversial issue of the need for a father for children conceived through IVF.
+
+For - Voting 'Ayes' in the division on New Clause 9 means supporting the amendment that would retain the reference to the need for a father in the bill. The supporters of this amendment argued that fathers play an important role in the welfare and development of children, and that removing the reference would undermine the value of fatherhood.
+
+Against - Voting 'Noes' in the division on New Clause 9 means opposing the amendment and accepting the Government's proposal to replace the need for a father with a requirement to consider the child's need for supportive parenting. The opponents of this amendment argued that the reference to the need for a father was discriminatory and outdated, and that it did not reflect the diversity of family forms in modern society.
+
+Decision - Voting 'Aye' in the division on New Clause 9 is associated with ethical considerations, regulation, and tradition, in the context of Standards & Technology. This is because it implies a preference for preserving the existing legal framework that was based on child development theory from two decades ago, and a reluctance to embrace new scientific and social developments that challenge the conventional notion of family.
+
+Sentiment - B

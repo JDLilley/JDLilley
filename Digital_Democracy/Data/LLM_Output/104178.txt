@@ -1,0 +1,11 @@
+## Bing
+
+Summary - The text file is a transcript of a UK Parliament debate on immigration controls in 2008. The Conservatives proposed a motion to limit economic migration from outside the EU and reform the marriage visa system. The Labour government opposed the motion and defended its points-based system and border security measures.
+
+For - The Conservatives argued that immigration had increased too fast and too much under Labour, causing pressure on resources, community tensions and economic costs. They called for a cap on the number of migrants based on population policy and consultation with employers and public services.
+
+Against - The Labour government rejected the idea of a cap as arbitrary and inflexible. They claimed that their points-based system allowed them to select only those migrants who had the skills the UK needed and adjust the criteria according to the labour market and the national interest. They also highlighted their actions to strengthen the borders, enforce the rules and promote integration.
+
+Decision - The division on the question of adding the proposed words by the Conservatives was a vote on whether to tighten or soften immigration and borders. The Ayes voted to tighten them by imposing a limit on economic migration from outside the EU and reforming the marriage visa system. The Noes voted to soften them by maintaining the points-based system and border security measures.
+
+Sentiment - A

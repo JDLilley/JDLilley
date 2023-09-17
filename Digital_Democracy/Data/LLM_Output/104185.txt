@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I can help you review the text file open in your current webpage. Here is my response based on your request:
+
+Summary - The text file is a transcript of a debate in the UK Parliament on the Human Fertilisation and Embryology Bill in 2008. The Bill aimed to regulate the use of human embryos for research and treatment. The debate focused on several amendments that sought to restrict or prohibit certain practices, such as reproductive cloning, genetic modification, and mixing of human and animal gametes.
+
+For - Voting 'Ayes' in the division means supporting amendment No. 41, which would ban human reproductive cloning in primary legislation[1]. The supporters of this amendment argued that cloning is contrary to human dignity and violates the international consensus against it. They also expressed concern about the loophole in the Bill that could allow cloning for mitochondrial disease treatment.
+
+Against - Voting 'Noes' in the division means opposing amendment No. 41, which would ban human reproductive cloning in primary legislation[1]. The opponents of this amendment argued that cloning is already prohibited by the existing regulatory framework and that the Bill does not intend to change that. They also defended the need for flexibility and innovation in research for mitochondrial disease treatment.
+
+Decision - Voting 'Aye' in the division is associated with ethical considerations, regulation, and tradition, in the context of Standards & Technology. This is because the amendment reflects a moral stance against cloning as a violation of human dignity and a respect for the international norms and conventions on this issue. It also implies a preference for maintaining the status quo and avoiding potential risks and uncertainties of new technologies.
+
+Sentiment - B

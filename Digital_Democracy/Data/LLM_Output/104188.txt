@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I can help you review the text file open in your current webpage. Here is my response based on your request:
+
+Summary - The text file is a transcript of a debate in the UK Parliament on the Human Fertilisation and Embryology Bill in 2008. The Bill aimed to update the law on assisted reproduction and embryo research. The debate covered various ethical, scientific, and social issues related to the Bill.
+
+For - Voting 'Ayes' in the division means supporting the Bill and its provisions on allowing certain types of embryo research, such as creating human admixed embryos, cloning embryos for stem cell therapy, and modifying embryos to prevent mitochondrial diseases. Those who voted 'Ayes' argued that the Bill would enable scientific progress, medical innovation, and social justice.
+
+Against - Voting 'Noes' in the division means opposing the Bill and its provisions on allowing certain types of embryo research. Those who voted 'Noes' argued that the Bill would violate human dignity, natural law, and moral values. They also raised concerns about the safety, effectiveness, and regulation of the research.
+
+Decision - Voting 'Aye' in the division is more associated with innovation, progressivism, and flexibility in the context of Standards & Technology. This is because the Bill would allow new and emerging technologies to be used for research and treatment purposes, and would reflect the changing needs and demands of society.
+
+Sentiment - A

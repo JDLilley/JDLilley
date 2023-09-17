@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I have reviewed the text file open in your current webpage and here is my response:
+
+Summary - The text file contains a transcript of a debate in the UK Parliament on the Finance Bill, which deals with various tax and financial matters. The debate covers topics such as severance payments for the London Mayor, taxation of termination payments, and the impact of the financial crisis.
+
+For - Voting 'Ayes' in the division on New Clause 1 means supporting a proposal to require the Treasury to review the effects of the Finance Bill on child poverty and equality. The supporters of the clause argue that it is important to assess how the Bill will affect the most vulnerable groups in society and to ensure that it does not widen the gap between rich and poor.
+
+Against - Voting 'Noes' in the division on New Clause 1 means opposing a proposal to require the Treasury to review the effects of the Finance Bill on child poverty and equality. The opponents of the clause argue that it is unnecessary and impractical to conduct such a review, as the Bill already contains measures to help low-income families and to promote fairness and efficiency in the tax system.
+
+Decision - Voting 'Aye' in the division on New Clause 1 is associated with austerity & regulation, as it implies a concern for the social impact of the Finance Bill and a desire to impose more scrutiny and accountability on the Treasury.
+
+Sentiment - B

@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I can help you review the text file open in your current webpage. Here is my response:
+
+Summary - The text file is a transcript of a debate in the UK Parliament on the Finance Bill 2023, which contains various tax measures. The main topics discussed are the small companies rate of corporation tax, the capital gains tax and the abolition of the 10p income tax rate.
+
+For - Voting 'Ayes' in the division on amendment No. 18 means supporting the proposal to reduce the small companies rate of corporation tax from 21% to 20%. The argument for this is that it would help small businesses to invest, grow and create jobs, especially in the context of rising costs and a credit squeeze.
+
+Against - Voting 'Noes' in the division on amendment No. 18 means opposing the proposal to reduce the small companies rate of corporation tax from 21% to 20%. The argument against this is that it would reduce the tax revenue for the Government and that it would not address the issue of tax avoidance by some small companies.
+
+Decision - Voting 'Aye' in the division on amendment No. 18 is associated with stimulus and the free market, as it implies a preference for lower taxes and less government intervention in the economy. It also reflects a belief that small businesses are the drivers of economic growth and innovation.
+
+Sentiment - A

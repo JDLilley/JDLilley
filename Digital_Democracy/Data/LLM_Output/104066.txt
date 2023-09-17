@@ -1,0 +1,13 @@
+## Bing
+
+Here is my response based on the text file open in your current webpage:
+
+Summary - The text file is a transcript of a debate in the UK House of Commons on the Criminal Justice and Immigration Bill in 2008. The main issue is whether to abolish suspended sentences for summary offences[1].
+
+For - The Minister of State argues that suspended sentences are being used instead of non-custodial sentences, leading to more people in prison and higher reoffending rates. He says that removing this option will make courts use community sentences more effectively and save prison places.
+
+Against - The opposition parties argue that suspended sentences are a useful tool for the courts, providing a deterrent and a chance for rehabilitation. They say that the Government's proposal is driven by the prison crisis and will undermine judicial discretion and flexibility.
+
+Decision - The Criminal Justice and Immigration Bill, Question put, That this House disagrees with the Lords amendment Nº 9 would tighten immigration and borders, because it would make it harder for offenders who are foreign nationals to avoid deportation by receiving a suspended sentence instead of an immediate custodial sentence.
+
+Sentiment - A

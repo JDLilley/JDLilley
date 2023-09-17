@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I have reviewed the text file open in your current webpage and I will try to answer your questions. Here is my response:
+
+Summary - The text file is a transcript of a debate in the UK Parliament on the Human Fertilisation and Embryology Bill in 2008. The bill aimed to regulate the use of human embryos and gametes for research and treatment. The debate focused on the ethical and scientific implications of creating human-animal hybrid embryos.
+
+For - Voting 'Ayes' in the division on amendment 4 means supporting the creation of human-animal hybrid embryos for research purposes. Those who voted 'Ayes' argued that such research could lead to breakthroughs in treating diseases such as Alzheimer's, Parkinson's and motor neurone disease. They also claimed that there was a shortage of human eggs for embryonic stem cell research and that animal eggs could provide a viable alternative[1].
+
+Against - Voting 'Noes' in the division on amendment 4 means opposing the creation of human-animal hybrid embryos for research purposes. Those who voted 'Noes' argued that such research was ethically wrong and crossed a fundamental boundary between humans and animals. They also questioned the scientific validity and necessity of such research, given the availability of other sources of stem cells and the lack of evidence for its effectiveness.
+
+Decision - Voting 'Aye' in the division on amendment 4 is associated with innovation, progressivism and flexibility in the context of Standards & Technology. This is because it reflects a willingness to explore new avenues of scientific research that could potentially benefit humanity, as well as an openness to change and adapt to new challenges and opportunities.
+
+Sentiment - A

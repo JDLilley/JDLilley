@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I am here to help you review the text file open in your current webpage. Here is my response:
+
+Summary - The text file is a transcript of a debate in the UK Parliament on the Human Fertilisation and Embryology Bill, which allows the creation of human-animal hybrid embryos for research purposes. The debate focuses on the ethical and scientific implications of such research[1].
+
+For - Voting 'Ayes' in the division means supporting the Bill and allowing the creation of human-animal hybrid embryos. Those who vote 'Ayes' argue that such research is necessary to find cures for diseases such as Alzheimer's, Parkinson's and motor neurone disease. They also claim that such research is tightly regulated and does not violate human dignity[2].
+
+Against - Voting 'Noes' in the division means opposing the Bill and banning the creation of human-animal hybrid embryos. Those who vote 'Noes' argue that such research is ethically wrong and crosses a fundamental boundary between humans and animals. They also doubt that such research has any realistic prospect of success and that there are alternative sources of stem cells.
+
+Decision - Voting 'Aye' in the division is associated with innovation, progressivism and flexibility in the context of Standards & Technology. This is because it supports a new and controversial form of scientific research that aims to advance medical knowledge and treatment. It also shows a willingness to adapt to new challenges and possibilities in biotechnology.
+
+Sentiment - A

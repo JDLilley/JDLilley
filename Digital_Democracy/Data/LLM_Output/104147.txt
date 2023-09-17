@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I can help you review the text file open in your current webpage. Here is my response based on your request:
+
+Summary - The text file is a transcript of a debate in the UK Parliament on the Finance Bill 2023, which contains various tax measures. The debate covers topics such as tax simplification, tax avoidance, non-domiciled residents, capital gains tax, and environmental taxes.
+
+For - Voting 'Ayes' in the division on new clause 8 means supporting the proposal to introduce a carbon tax on aviation fuel. The supporters of this clause argue that it would reduce greenhouse gas emissions, promote environmental justice, and raise revenue for public services.
+
+Against - Voting 'Noes' in the division on new clause 8 means opposing the proposal to introduce a carbon tax on aviation fuel. The opponents of this clause argue that it would harm the aviation industry, increase the cost of travel, and have a negative impact on tourism and trade.
+
+Decision - Voting 'Aye' in the division on new clause 8 is associated with austerity and regulation. This is because a carbon tax on aviation fuel would increase the tax burden on businesses and consumers, and impose a regulatory constraint on the aviation sector.
+
+Sentiment - B

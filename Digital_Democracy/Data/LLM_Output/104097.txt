@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I can help you review the text file open in your current webpage. Here is my response based on your request:
+
+Summary - The text file is a transcript of a debate in the UK Parliament on the Human Fertilisation and Embryology Bill in 2008. The main topic is whether the Bill should include a reference to the need for a father and a mother for children conceived by assisted reproduction.
+
+For - Voting 'Ayes' for amendment 21 means supporting the status quo of requiring clinics to consider the welfare of the child, including the need for a father and a mother[1]. The argument is based on the evidence of the positive role of fathers and mothers in child development and the rights of the child to have such parents.
+
+Against - Voting 'Noes' for amendment 21 means rejecting the need for a father and a mother and replacing it with a need for supportive parenting. The argument is based on the principle of non-discrimination against lesbian couples and single women who seek assisted reproduction and the protection of their human rights[2].
+
+Decision - Voting 'Aye' for amendment 21 is associated with ethical considerations, regulation, and tradition, in the context of Standards & Technology. This is because it implies a preference for a conventional family structure and a moral judgment on what constitutes the best interest of the child. It also involves imposing legal restrictions on who can access reproductive technologies.
+
+Sentiment - B

@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I have reviewed the text file open in your current webpage and here is my response:
+
+Summary - The text file is a transcript of a debate in the UK House of Commons on the Political Parties and Elections Bill in 2009. The Bill aimed to reform the Electoral Commission, the disclosure of donations, and the control of spending by parties and candidates[1].
+
+For - Voting 'Ayes' in the division means supporting the Bill as it was presented by the Government. The supporters argued that the Bill would improve the transparency, accountability, and effectiveness of the electoral system and the regulation of party funding.
+
+Against - Voting 'Noes' in the division means opposing the Bill or seeking amendments to it. The opponents argued that the Bill was inadequate, flawed, or unfair in addressing the issues of party funding, spending limits, and electoral administration.
+
+Decision - Voting 'Aye' in the division is associated with accountability and decentralisation in the context of Parliamentary Procedures. The Bill would give more powers and responsibilities to the Electoral Commission, which is an independent body accountable to Parliament. It would also allow more scrutiny and participation by the public and other stakeholders in the electoral process.
+
+Sentiment - A

@@ -1,0 +1,11 @@
+## Bing
+
+Summary - The text file is a transcript of a parliamentary debate on the Criminal Justice and Immigration Bill in 2008. The Bill covers various aspects of criminal law, sentencing, and immigration policy. The debate focuses on the Lords amendments to the Bill and the Government's response.
+
+For - The Government argues for disagreeing with the Lords amendment 86, which would allow magistrates to impose suspended sentences for summary-only offences. The Government claims that this would increase the use of custody, blur the custodial threshold, and undermine community sentences.
+
+Against - The Opposition and some Liberal Democrats argue against disagreeing with the Lords amendment 86, which they see as a useful tool for the courts to deter and rehabilitate offenders. They accuse the Government of trying to reduce prison overcrowding by removing sentencing options and ignoring evidence.
+
+Decision - The Criminal Justice and Immigration Bill, Motion made, and Question put, That this House disagrees with the Lords amendment Nº 86 would tighten immigration and borders, because it would limit the discretion of magistrates to deal with low-level offences that may be committed by immigrants or asylum seekers. It would also increase the likelihood of deportation for foreign nationals who receive immediate custodial sentences.
+
+Sentiment - A

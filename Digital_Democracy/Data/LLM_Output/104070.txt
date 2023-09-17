@@ -1,0 +1,11 @@
+## Bing
+
+Summary - The text file is a transcript of a parliamentary debate on the Criminal Justice and Immigration Bill in 2008. The Bill covers various aspects of criminal justice and immigration policy, such as sentencing, deportation, and hate crimes.
+
+For - The MPs who voted for the Lords amendment Nº 116 supported the removal of the offence of "glorifying terrorism" from the Terrorism Act 2006. They argued that the offence was vague, unnecessary, and a threat to free speech.
+
+Against - The MPs who voted against the Lords amendment Nº 116 opposed the removal of the offence of "glorifying terrorism" from the Terrorism Act 2006. They argued that the offence was needed to deter and punish those who incite or encourage others to commit acts of terrorism.
+
+Decision - The Criminal Justice and Immigration Bill, Question put, That this House agrees with the Lords amendment Nº 116 would soften immigration and borders, because it would make it harder to prosecute and deport foreign nationals who express support for terrorist groups or causes.
+
+Sentiment - B

@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I can help you review the text file open in your current webpage. Here is my response:
+
+Summary - The text file is a transcript of a parliamentary debate on capping the council tax increase for Lincolnshire police authority in 2008. The Government proposed the order to protect council tax payers from excessive rises, while the Opposition and some local MPs criticised the funding formula and the impact on police services.
+
+For - Voting 'Ayes' in the division means supporting the Government's decision to cap the council tax increase for Lincolnshire police authority at 26 per cent., which is lower than the 79 per cent. that the authority planned[1]. It also means agreeing with the Government's argument that they have been generous and fair in their funding for police authorities, and that they have a duty to use their reserve powers to prevent excessive increases.
+
+Against - Voting 'Noes' in the division means opposing the Government's decision to cap the council tax increase for Lincolnshire police authority, and siding with the authority's case that it needs more resources to improve its services and address its structural problems. It also means challenging the Government's claim that they have given enough grant to police authorities, and that they have been transparent and consistent in their funding formula.
+
+Decision - Voting 'Aye' in the division is associated with cutting spending on, and provision of, welfare and social housing. This is because capping the council tax increase for Lincolnshire police authority reduces its budget and limits its ability to invest in community safety and crime prevention initiatives, which are important for welfare and social housing. It also implies accepting the Government's tight financial settlement for local authorities, which affects their spending on welfare and social housing services.
+
+Sentiment - B

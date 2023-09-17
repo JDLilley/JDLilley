@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I can help you review the text file open in your current webpage. Here is my response based on your request:
+
+Summary - The text file contains a debate on the Finance Bill in the UK Parliament in 2023. The main topics are the tax treatment of severance payments for the Mayor of London and other elected officials, and the amendment to reduce the basic rate of income tax.
+
+For - Voting 'Ayes' for the amendment means supporting a lower income tax rate for most taxpayers. The argument is that this would stimulate the economy, increase consumer spending, and reduce the tax burden on hard-working families.
+
+Against - Voting 'Noes' for the amendment means opposing a lower income tax rate for most taxpayers. The argument is that this would reduce the public revenue, increase the budget deficit, and benefit the wealthy more than the poor.
+
+Decision - Voting 'Aye' for the amendment is associated with stimulus and the free market, as it implies a preference for lower taxes and less government intervention in the economy.
+
+Sentiment - A

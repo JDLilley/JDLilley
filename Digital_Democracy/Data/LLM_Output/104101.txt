@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I can help you review the text file open in your current webpage. Here is my response based on your request:
+
+Summary - The text file is a transcript of a debate in the UK Parliament on the Human Fertilisation and Embryology Bill in 2008. The bill aimed to update the law on assisted reproduction and embryo research. The debate focused on the controversial issues of the need for a father, abortion, and human-animal hybrids.
+
+For - Voting 'Ayes' in the division on New Clause 5 means supporting the amendment that would require clinics to take into account the need for a father and a mother when providing IVF treatment. The supporters of this amendment argued that fathers play an important role in child development and welfare, and that the bill should not disregard the value of traditional family structure.
+
+Against - Voting 'Noes' in the division on New Clause 5 means opposing the amendment that would require clinics to take into account the need for a father and a mother when providing IVF treatment. The opponents of this amendment argued that it was discriminatory and unnecessary, as it would exclude lesbian couples and single women from accessing IVF services. They also claimed that there was no evidence that children raised by same-sex or single parents were worse off than those raised by heterosexual couples.
+
+Decision - Voting 'Aye' in the division on New Clause 5 is associated with ethical considerations, regulation, and tradition, in the context of Standards & Technology. This is because it reflects a conservative and moralistic view of what constitutes a proper family and who should be allowed to have children through assisted reproduction. It also implies a preference for restricting and regulating the use of IVF technology based on social norms and values.
+
+Sentiment - B

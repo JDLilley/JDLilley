@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I have reviewed the text file open in your current webpage and I will try to answer your questions as best as I can.
+
+Summary - The text file is a transcript of a parliamentary debate on the Human Fertilisation and Embryology Bill in 2008. The debate focuses on the clause that requires clinics to consider the need for a father and a mother before providing IVF treatment. The arguments for and against the clause are based on different views of the role of fathers, the rights of children, and the implications for lesbian and single women.
+
+For - Voting 'Ayes' in the division means supporting the amendment that would retain the reference to a father and a mother in the clause. The supporters of the amendment argue that fathers play a vital role in the welfare of children and that removing the reference would undermine the importance of fatherhood. They also claim that there is no evidence of discrimination against lesbian and single women under the current law[1].
+
+Against - Voting 'Noes' in the division means opposing the amendment and accepting the Government's proposal to replace the reference to a father and a mother with a reference to supportive parenting. The opponents of the amendment argue that the clause is outdated, discriminatory, and irrelevant to the quality of parenting. They also claim that the clause violates human rights law and causes confusion and distress for lesbian and single women seeking IVF treatment.
+
+Decision - Voting 'Aye' in the division is associated with ethical considerations, regulation, and tradition, in the context of Standards & Technology. This is because voting 'Aye' implies that there is a moral value attached to having a father and a mother as parents, that there is a need to regulate access to IVF treatment based on this value, and that there is a respect for the existing law and social norms.
+
+Sentiment - B

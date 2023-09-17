@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I can help you review the text file open in your current webpage. Here is my response based on your request:
+
+Summary - The text file is a transcript of a parliamentary debate on the Human Fertilisation and Embryology Bill in 2008. The debate focuses on the clause that requires clinics to consider the need for a father or a male role model for children conceived through assisted reproduction.
+
+For - Voting 'Ayes' for amendment 12 means supporting the retention of the clause that mentions the need for a father or a male role model. The supporters of this amendment argue that fathers play an important role in the welfare and development of children, and that removing the clause would be discriminatory against men and detrimental to society.
+
+Against - Voting 'Noes' for amendment 12 means opposing the retention of the clause that mentions the need for a father or a male role model. The opponents of this amendment argue that the clause is outdated, unnecessary and discriminatory against lesbian couples and single women who seek assisted reproduction[1]. They also argue that the clause is incompatible with human rights law and that the welfare of the child should be the paramount consideration[2].
+
+Decision - Voting 'Aye' in the division: Human Fertilisation and Embryology bill, amendment 12, is associated with ethical considerations, regulation, & tradition, in the context of Standards & Technology. This is because voting 'Aye' implies that one values the traditional notion of family and parenthood, and that one wants to regulate the access and conditions of assisted reproduction based on moral and religious principles.
+
+Sentiment - B

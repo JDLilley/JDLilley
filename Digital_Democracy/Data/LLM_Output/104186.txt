@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I will try to review the text file open in your current webpage and answer your questions as best as I can. Here is my response:
+
+Summary - The text file is a transcript of a debate in the UK Parliament on the Human Fertilisation and Embryology Bill in 2008. The Bill aimed to regulate the use of human embryos for research and treatment purposes. The debate covered various ethical, scientific, and legal issues related to the Bill.
+
+For - Voting 'Ayes' in the division on clause 4 amendments 4 and 47 means supporting the Government's position that human reproductive cloning should be banned, but allowing some exceptions for research and treatment of mitochondrial diseases. This would enable scientists to create embryos with genetic material from three or more people, but only for specific purposes and under strict regulation.
+
+Against - Voting 'Noes' in the division on clause 4 amendments 4 and 47 means opposing the Government's position and supporting a complete ban on human reproductive cloning, without any exceptions. This would prevent scientists from creating embryos with genetic material from three or more people, regardless of the potential benefits for research and treatment of mitochondrial diseases.
+
+Decision - Voting 'Aye' in the division on clause 4 amendments 4 and 47 is associated with innovation, progressivism, and flexibility in the context of Standards & Technology. This is because it would allow scientists to explore new possibilities and techniques for advancing medical knowledge and improving human health, while also respecting ethical principles and legal boundaries.
+
+Sentiment - A

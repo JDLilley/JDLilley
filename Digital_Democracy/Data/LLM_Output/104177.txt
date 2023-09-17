@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I can help you review the text file open in your current webpage. Here is my response:
+
+Summary - The text file is a transcript of a debate in the UK House of Commons on immigration policy in 2008. The main parties disagree on the need for a cap or limit on immigration numbers and the impact of immigration on the economy and society.
+
+For - Voting for (Ayes) in the division means supporting the Conservative motion that calls for a limit on economic migration from outside the EU, a reform of the marriage visa system, and a criticism of the Government's immigration policy as resulting in a quadrupling of net immigration since 1997.
+
+Against - Voting against (Noes) in the division means supporting the Government's amendment that welcomes the actions of the Government in undertaking the biggest shake-up of the immigration system in decades, introducing the points based system for migration, issuing identity cards for foreign nationals, and taking tough action against employers who exploit illegal workers.
+
+Decision - The Immigration Controls, Question put, That the original words stand part of the Question would tighten immigration and borders if passed, as it would reduce the inflow of migrants from outside the EU and make it harder for people to enter or stay in the UK through marriage.
+
+Sentiment - A

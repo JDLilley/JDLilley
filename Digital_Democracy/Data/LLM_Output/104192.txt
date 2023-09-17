@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I can help you review the text file open in your current webpage. Here is my response based on your request:
+
+Summary - The text file is a transcript of a parliamentary debate on the Local Transport Bill, which aims to give local authorities more powers and flexibility to improve bus services and reduce congestion. The debate covers various amendments to the bill proposed by the Government and the Opposition.
+
+For - Voting 'Ayes' in the division means supporting the Government's amendments, which are intended to devolve decision making to local authorities, strengthen employment protections for bus workers, enable local authorities to operate bus services in exceptional circumstances, and clarify some technical aspects of the bill.
+
+Against - Voting 'Noes' in the division means opposing the Government's amendments, which are seen by some as undermining the role of independent scrutiny, creating uncertainty and instability for bus operators, allowing local authorities to compete unfairly with private companies, and introducing unnecessary complications to the bill.
+
+Decision - Voting 'Aye' in the division is associated with innovation, progressivism, and flexibility in the context of Standards & Technology, because it supports giving local authorities more tools and options to improve bus services and address transport challenges in their areas.
+
+Sentiment - A

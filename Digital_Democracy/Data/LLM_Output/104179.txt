@@ -1,0 +1,11 @@
+## Bing
+
+Summary - The text file is a transcript of a debate in the UK Parliament on the economic performance and business situation in 2008. The debate covers the causes and effects of the global financial crisis, the Government's actions to support the banking system and small businesses, and the Opposition's criticisms and proposals.
+
+For - Voting 'Ayes' means supporting the Government's amendment, which defends its record of creating jobs, growth and low inflation, and praises its interventions to restore stability and confidence in the financial sector. It also rejects public spending cuts and calls for more lending to small businesses.
+
+Against - Voting 'Noes' means opposing the Government's amendment, and backing the Opposition's motion, which blames the Government for raiding pension funds, increasing taxation, reducing savings, encouraging debt, increasing borrowing and unemployment, and failing to prepare for the downturn. It also proposes measures to reduce taxes and defer VAT bills for small businesses.
+
+Decision - Voting 'Aye' is associated with stimulus and regulation, as the Government's approach involves injecting public funds into the banking system, recapitalising the banks with conditions on lending, and maintaining public spending levels to support the economy.
+
+Sentiment - B

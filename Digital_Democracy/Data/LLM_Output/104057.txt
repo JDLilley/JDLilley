@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I have reviewed the text file open in your current webpage and here is my response:
+
+Summary - The text file is a transcript of a debate in the UK Parliament on the Finance Bill 2023, which contains various tax measures. The main topics discussed are the small companies rate of corporation tax, the annual investment allowance, and the capital gains tax.
+
+For - Voting 'Ayes' in the division means supporting the clause that increases the small companies rate of corporation tax from 20% to 21% in 2023 and 22% in 2024. The Government argues that this is necessary to fund the reduction of the main rate of corporation tax and to address the tax gap between incorporated and unincorporated businesses.
+
+Against - Voting 'Noes' in the division means opposing the clause that increases the small companies rate of corporation tax[1]. The Opposition argues that this is a damaging and unfair tax hike for small businesses, especially in the context of rising costs, economic uncertainty, and regulatory burdens. They propose to scrap the annual investment allowance and use the savings to keep the small companies rate at 20%[2].
+
+Decision - Voting 'Aye' in the division is associated with austerity & regulation, because it implies a preference for higher taxes and narrower reliefs for small businesses, which could constrain their growth and competitiveness. It also reflects a desire to align the tax treatment of different forms of business activity, regardless of their impact on innovation and entrepreneurship.
+
+Sentiment - B

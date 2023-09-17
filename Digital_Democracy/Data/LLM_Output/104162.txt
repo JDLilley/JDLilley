@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I can help you review the text file open in your current webpage. Here is my response based on your request:
+
+Summary - The text file is a transcript of a debate in the UK Parliament about the Regulatory Enforcement and Sanctions Bill, which aims to improve consistency and efficiency in regulatory enforcement. The debate focuses on the amendments proposed by Lorely Burt, a Liberal Democrat MP, who wants to give businesses more rights to challenge civil sanctions imposed by regulators.
+
+For - Voting 'Ayes' for amendment No. 10 means supporting the option for businesses to elect for criminal trial instead of accepting a fixed monetary penalty[1]. This would protect the reputation of businesses that feel they have been wrongly accused of regulatory breaches and allow them to seek justice in court.
+
+Against - Voting 'Noes' for amendment No. 10 means opposing the option for businesses to elect for criminal trial instead of accepting a fixed monetary penalty[1]. This would preserve the efficiency and effectiveness of civil sanctions as a way of ensuring compliance and deterrence without resorting to costly and lengthy criminal proceedings.
+
+Decision - Voting 'Aye' for amendment No. 10 is associated with freedom and autonomy, limiting police powers and softer punishments, limiting Crime & Justice. This is because it would give businesses more control over how they respond to regulatory violations and reduce the role of regulators and police in enforcing the law.
+
+Sentiment - B
