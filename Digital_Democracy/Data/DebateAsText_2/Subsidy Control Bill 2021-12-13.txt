@@ -1,0 +1,829 @@
+Subsidy Control Bill
+
+[Relevant Documents: Oral evidence taken before the Business, Energy and Industrial Strategy Committee on 30 November on Post-pandemic economic growth: State Aid and Post-Brexit Competition Policy, HC 742.]
+
+Consideration of Bill, as amended in the Public Bill Committee
+
+New Clause 1
+
+Exemption: agriculture
+
+‘(1) The subsidy control requirements in Part 2 of this Act do not apply to—
+
+(a) the giving of an agricultural subsidy, or
+
+(b) the making of a subsidy scheme, so far as it relates to the giving of agricultural subsidies.
+
+(2) For the purpose of subsection (1), a subsidy is “agricultural” if it is subject to the provisions of Part IV or Annex 2 of the Agreement on Agriculture.
+
+(3) In this section “the Agreement on Agriculture” means the Agreement on Agriculture, contained in Annex 1A to the Marrakesh Agreement Establishing the World Trade Organization, done at Marrakesh on 15 April 1994 (read with any adjustments necessary for context).’ —(Kirsty Blackman.)
+
+This new clause exempts agricultural subsidies from the subsidy control requirements.
+
+Brought up, and read the First time.
+
+18:23:00
+
+Kirsty Blackman (Aberdeen North) (SNP)
+I beg to move, That the clause be read a Second time.
+
+Madam Deputy Speaker (Dame Rosie Winterton)
+With this it will be convenient to discuss the following:
+
+New clause 2—Annual report on climate change impacts—
+
+‘(1) The Secretary of State must once every 12 months lay a report before Parliament setting out the impact of subsidies granted in the preceding 12 months on the environment and climate change.
+
+(2) Any report under subsection (1) must include an assessment of the impact of subsidies granted in the preceding 12 months on the UK’s ability to achieve net-zero emissions by 2050.
+
+(3) The first report must be laid before Parliament within 12 months of this Act being passed.’
+
+This new clause would require the Secretary of State to lay an annual report before parliament detailing the climate change impacts of subsidies granted that year.
+
+New clause 3—Post-award investigations—
+
+‘(1) The CMA may conduct an investigation in relation to a subsidy that has been granted or a subsidy scheme that has been made.
+
+(2) A decision under subsection (1) may be made in relation to any subsidy or subsidy scheme in respect of which the CMA considers—
+
+(a) that there has or may have been a failure to comply with the requirements of Chapters 1 and 2 of Part 2, or
+
+(b) that there has or may have been a failure to comply with the transparency obligations set out in Chapter 3 of Part 2.
+
+(3) Where the CMA makes a decision to investigate a subsidy or scheme under subsection (1), it must direct the public authority to provide it with—
+
+(a) any assessment carried out by the public authority as to whether the financial assistance fell within the meaning of “subsidy” or “subsidy scheme” for the purposes of this Act, and the reasons for that conclusion,
+
+(b) any assessment carried out by the public authority as to whether the financial assistance if assessed to constitute a subsidy or subsidy scheme would comply with the requirements of Chapter 1 and 2 of Part 2 and the reasons for that conclusion,
+
+(c) any evidence relevant to those assessments,
+
+(d) in a case where such assessments were not provided, the reasons for the assessments not being provided,
+
+(e) any information that the public authority failed to enter in the subsidy database in accordance with Chapter 3 of Part 2, and
+
+(f) such other information as is specified in regulations under section 60(8)(a).
+
+(4) Where the CMA decides to conduct an investigation under subsection (1), the direction given under subsection (3) must be made before the end of 20 working days beginning with the day on which the subsidy is given or the scheme is made.
+
+(5) The CMA must send a copy of the direction given under subsection (3) to the public authority and the Secretary of State.
+
+(6) The public authority must provide to the CMA the information required under subsection (3) before the end of the information period as defined in section 60(7).’
+
+This new clause provides the CMA with the power to conduct a post-award investigation where the public authority has or may have failed to comply with its requirements.
+
+Amendment 10, in clause 10, page 6, line 31, leave out paragraph (a) and insert—
+
+‘(a) is made by—
+
+(i) a Minister of the Crown,
+
+(ii) the Welsh Ministers,
+
+(iii) the Scottish Ministers, or
+
+(iv) a Northern Ireland department; and’.
+
+This amendment allows devolved administrations to make streamlined subsidy schemes.
+
+Amendment 18, page 6, line 33, at end insert—
+
+‘(4A) A streamlined subsidy scheme may be made, in particular, to support areas of relative economic deprivation.’
+
+This amendment would allow for streamlined subsidy schemes to be made for the purposes of supporting areas of deprivation.
+
+Amendment 19, in clause 11, page 7, line 9, at end insert—
+
+‘(4) Before making regulations under this section, the Secretary of State must seek the consent of the Scottish Ministers, the Welsh Ministers and the Department for the Economy in Northern Ireland.
+
+(5) If consent to the making of the regulations is not given by any of those authorities within the period of one month beginning with the day on which it is sought from that authority, the Secretary of State may make the regulations without consent.
+
+(6) If regulations are made in reliance on subsection (5), the Secretary of State must make a statement to the House of Commons explaining why the Secretary of State decided to make the regulations without the consent of the authority or authorities concerned.’
+
+This amendment would require the Secretary of State to seek the consent of the Devolved Administrations before making regulations under this section. Where such consent is not given within one month, the Secretary of State may make the regulations without that consent, but must make a statement to the House of Commons explaining their decision.
+
+Amendment 20, in clause 32, page 17, line 10, at end insert—
+
+‘(c) the subsidy database is subject to routine audit to verify the accuracy and completeness of entries.’
+
+This amendment requires the Secretary of State to ensure that the database is subject to routine audit.
+
+Amendment 1, in clause 33, page 17, line 21, leave out “£500,000” and insert “£500”.
+
+This amendment would reduce the threshold for entering subsidies into the subsidy database from £500,000 to £500.
+
+Amendment 2, page 17, line 24, leave out “one year” and insert “one month”.
+
+This amendment would require subsidies or schemes to be entered in the database within one month of being made, rather than one year, if given in the form of a tax measure.
+
+Amendment 13, page 17, line 24, leave out paragraph (a) and insert—
+
+‘(a) if given in the form of a tax measure, an entry with a provisional tax deduction value must be entered within one month, and a final value entered within one month of the date of the tax declaration, or’.
+
+This ensures that tax measure subsidies are entered in the subsidy database within one month.
+
+Amendment 3, page 17, line 26, leave out “six months” and insert “one month”.
+
+This amendment would require subsidies or schemes to be entered in the database within one month of being made, rather than six months, if given in any form other than a tax measure.
+
+Amendment 4, page 17, line 33, leave out “one year” and insert “one month”.
+
+See explanatory statement for Amendment 2.
+
+Amendment 5, page 17, line 35, leave out “six months” and insert “one month”.
+
+See explanatory statement for Amendment 3.
+
+Amendment 6, in clause 34, page 18, line 27, at end insert—
+
+“(j) the date the subsidy or scheme was entered onto the database.”
+
+This amendment would require the date a subsidy or scheme was entered onto the database to be included in the information public authorities are required to enter into the database.
+
+Amendment 14, in clause 36, page 19, line 17, after “requirements” insert
+
+“with the exception of duties under section 33,”.
+
+This amendment requires that subsidies under the minimal financial assistance threshold are entered in the subsidy control database.
+
+Amendment 7, page 20, line 4, at end insert—
+
+‘(7) In this section, the reference to the subsidy control requirements does not include the requirements as to transparency in Chapter 3 of Part 2.’
+
+This amendment requires that “minimal financial assistance” subsidies are not exempt from the database transparency requirements, while remaining exempt from other subsidy control requirements.
+
+Amendment 21, in clause 41, page 23, line 15, leave out “£14,500,000” and insert “£500”.
+
+This amendment would make section 33 applicable to SPEI subsidies worth more than £500.
+
+Amendment 22, page 23, line 16, leave out subsection (b).
+
+This amendment would make section 33 applicable to SPEI subsidies worth more than £500.
+
+Amendment 23, in clause 55, page 30, line 40, after “State” insert
+
+‘, the Scottish Ministers, the Welsh Ministers and the Department for the Economy in Northern Ireland’.
+
+This amendment extends the call-in powers under this section to the Devolved Administrations.
+
+Amendment 24, page 31, line 2, after “State” insert
+
+‘, the Scottish Ministers, the Welsh Ministers and the Department for the Economy in Northern Ireland’.
+
+This amendment relates to Amendment 23.
+
+Amendment 25, page 31, line 7, after “State” insert
+
+‘, the Scottish Ministers, the Welsh Ministers and the Department for the Economy in Northern Ireland’.
+
+This amendment relates to Amendment 23.
+
+Amendment 9, in clause 66, page 37, line 39, leave out paragraphs (a), (b) and (c) and insert—
+
+‘(a) all subsidies and subsidy schemes granted in the past 12 months, and
+
+(b) an assessment of the extent to which they satisfy the subsidy control principles and the energy and environment principles.
+
+(2) Any report made under this section must be formally laid before parliament by the Secretary of State.
+
+(3) The Secretary of State must make an oral statement to the House of Commons when any report under this section is laid.’
+
+This amendment ensures that the annual report prepared by the CMA includes all subsidies along with its assessment of the extent to which they fulfil the 7 principles set out in the Bill. The report also places a requirement for the Secretary of State to report to Parliament when a report is laid.
+
+Amendment 26, in clause 68, page 39, line 1, at end insert—
+
+‘(3A) The Chair of the CMA Board may appoint up to three non-executive members to the Subsidy Advice Unit established under subsection (1) in order to ensure that the Unit includes at least one person with relevant experience in relation to each of Wales, Scotland and Northern Ireland.’
+
+This amendment would allow the CMA Chair to appoint up to three non-executive members to ensure that the Unit includes at least one person with experience in relation to each of Wales, Scotland and Northern Ireland.
+
+Amendment 8, in clause 70, page 39, line 35, leave out subsection (2).
+
+This amendment intends to allow individual subsidies given under a subsidy scheme to be reviewed, without the requirement for the broader subsidy scheme to be reviewed too.
+
+Amendment 12, page 40, line 16, at end insert—
+
+‘(c) the Welsh Ministers,
+
+(d) the Scottish Ministers, or
+
+(e) a Northern Ireland department;’.
+
+This amendment includes the devolved administrations in the list of those who can apply to the Competition Appeal Tribunal for a review of a subsidy decision.
+
+Amendment 27, in clause 79, page 46, line 3, at end insert—
+
+‘(5A) Before issuing guidance under this section, the Secretary of State must seek the consent of the Scottish Ministers, the Welsh Ministers and the Department for the Economy in Northern Ireland.
+
+(5B) If consent to the making of the regulations is not given by any of those authorities within the period of one month beginning with the day on which it is sought from that authority, the Secretary of State may make the regulations without that consent.
+
+(5C) If regulations are made in reliance on subsection (5B), the Secretary of State must publish a statement explaining why the Secretary of State decided to make the regulations without the consent of the authority or authorities concerned.’
+
+This amendment would require the Secretary of State to gain the consent of the Devolved Administrations before issuing guidance under Clause 79.
+
+Amendment 15, in schedule 1, page 51, line 8, after “concerns” insert
+
+‘and areas of relative economic deprivation’.
+
+This amendment includes areas of relative economic deprivation as an example of the equity rationales that subsidies should address.
+
+Amendment 16, page 52, line 6, at end insert—
+
+‘(c) consistency with the United Kingdom achieving its net-zero commitments established under the Climate Change Act 2008.’
+
+This amendment adds consistency with the UK’s net-zero commitments as a particular consideration for public authorities before deciding whether to give a subsidy.
+
+Amendment 11, page 52, line 6, at end insert—
+
+‘Net Zero
+
+H Subsidies should not normally encourage behaviour which will have a negative effect on the achievement of the UK’s net-zero commitments.’
+
+This amendment adds a subsidy control principle relating to the UK’s net zero commitments.
+
+Amendment 17, in schedule 2, page 52, line 15, at end insert—
+
+‘(c) delivering the UK’s net-zero commitments established under the Climate Change Act 2008.’
+
+This amendment would ensure that subsidies related to energy and the environment incentivise the beneficiary to help deliver the UK’s net-zero commitments.
+
+Kirsty Blackman
+Thank you for calling me to speak in this important debate, Madam Deputy Speaker. It is a delight to be present in this incubation Chamber, where viruses from all around these islands—every corner of them—can come to mix freely, so that we can return this toxic cocktail to our constituents, constituencies and families. I am delighted to be able to be physically present at this time.
+
+I will speak briefly to new clause 1, which is in my name and those of my colleagues, as well as the other amendments that stand in my name. My hon. Friend the Member for Edinburgh North and Leith (Deidre Brock) will fill in the rest of the details and explain more about our rationale for the new clause.
+
+The logic behind new clause 1 is that agricultural subsidies do not fit neatly into subsidy control regimes. That has been recognised by the World Trade Organisation, which is the reason for its agreement on agriculture; it has been recognised by the European Union, which is the reason for the common agricultural policy; indeed, it has been recognised across the world. We, and the Scottish Government, still have no idea why the UK Government decided to go against the flow and include agricultural subsidies in the Bill, rather than providing a separate arrangement for them.
+
+The new clause simply removes agriculture from the consideration. It does not mean that we should not have a control regime of some sort for agriculture, and it does not mean that we should not have rules relating to agriculture. It means that agriculture does not fit neatly here, and should not form part of the main subsidy control regime in the Bill.
+
+Amendment 10 relates to streamlined subsidy schemes. The change for which we are asking would allow devolved Administrations to make such schemes. Given that those Administrations have devolved competences by law, it makes no sense that the schemes can only be made by the Secretary of State in the UK Government. Obviously we would like Scottish independence, but in the absence of a vote on that, we are not asking for devolved Administrations to be able to overstep their devolved competences. We are merely asking for parity—for the ability of devolved Administrations to create streamlined subsidy schemes. They would still only be able to do that within their areas of devolved competence, and they would still only be able to do it within their limited financial envelopes. We are not asking for anything strange or unusual; we are not seeking some sort of power grab; it is simply to do with parity.
+
+Jim Shannon (Strangford) (DUP)
+I understood from discussions I have had with the Minister in the past that the intention was to give the regional Administrations a say in this process so that their views could be taken on board if necessary, but the hon. Lady seems to be saying that that will not happen. Have I got it wrong, or have I got it right?
+
+Kirsty Blackman
+Some parts of the Bill give the devolved Administrations a say, but many others do not. The key part concerns the issue of interested parties, which I will explain in some detail later.
+
+Streamlined subsidy schemes can go through a “streamlined” process rather than being made by, for instance, a local authority in order to benefit organisations. We are not asking for all granting authorities to have access to that process; we are simply asking for parity of esteem for the devolved Administrations, specifically on streamlined subsidy schemes.
+
+Jim Shannon
+The point that I was trying to make relates to farmers’ subsidies and environmental schemes, which are critically important to Northern Ireland, as they are to Scotland.
+
+Kirsty Blackman
+The hon. Gentleman is absolutely correct. We are asking for the agricultural references to be removed from the Bill because we do not think that this gives us, or any of the devolved Administrations, the flexibility we need. The Welsh Government have raised concerns similar to those raised by the Scottish Government, particularly in relation to legislative consent. As I said earlier, my hon. Friend the Member for Edinburgh North and Leith will speak in more detail about agriculture in particular, so it may be worth questioning her at that stage.
+
+Let me now turn to the issue of tax declarations and the transparency database. There is already a subsidy control database, which is rubbish. There is very little on it because a huge amount of information is missing. The Minister has made it clear that this is a preliminary database, an interim measure, and not the final database. We have had a degree of reassurance from him that the new database will be better, but the way in which the legislation is drafted—the number of exemptions, and the length of time that authorities have to upload information—causes us great concern. and was raised a number of times in Committee.
+
+Amendment 13 would amend clause 33 in respect of a local authority or granting authority giving a subsidy in the form of a tax measure—a tax rebate or tax reduction. To give a theoretical example, if an authority says in April 2022, “We’re going to subsidise this company by not having them pay a certain kind of tax,” it does not have to put that on the database until the year after it appears on a tax declaration. It can be made in April 2022, it can appear on the tax declaration first in April 2023, and there would be no requirement to upload it to the database until April 2024, which is almost two years after the subsidy was made. By that time, an organisation that had been egregiously damaged by the subsidy would have sunk—it would have gone under.
+
+18:30:00
+
+There is no rationale for the two-year period. The Minister made it clear that he was concerned that public authorities or granting authorities would not be able to give an absolutely accurate number for the tax rebate’s financial value. However, I am clear—as are a number of Members across the Chamber—that an indicative value would be better than no value at all. Having an indicative value in the subsidy control database as early as possible would provide the best opportunity for organisations to challenge the subsidy as it was being given and before they went under as a result of it.
+
+Having been a local authority councillor for eight years, I am well aware that, when a granting authority makes a subsidy or any decision to do with funding, it knows how much it is funding. It knows how much it is budgeting for it. It may not know the exact number of pounds and pence, but it knows what size envelope it is budgeting for that spend or, in this case, subsidy. Therefore, the authority could very easily put on the database, “We expect that it will not be more than £750,000,” or whatever the number is. Given the way in which the Minister hopes the legislation will work, I suggest that that would be a much more sensible way to proceed than the two-year period in the Bill, which is frankly ridiculous.
+
+Amendment 3, which was tabled by the hon. Member for Weston-super-Mare (John Penrose), would introduce a one-month declaration deadline for non-tax-related subsidies. Under the Bill, there is a six-month period to upload a subsidy that is not in the form of a tax measure and then only one month to challenge it. That is backwards—it does not make sense.
+
+If the Minister is saying that seven months is the right period for the total length of time for it to be uploaded and for the challenge to take place—he has raised a number of concerns about not wanting the uncertainty to be prolonged—I suggest that the balance is incorrect. I think the hon. Member for Weston-super-Mare is also suggesting that, but he can speak for himself. I think that, actually, the upload should happen much more quickly so that the transparency data is available on the database, and that there should be a longer period for challenge. To my mind, it is not about increasing the seven-month period; it is about rebalancing the seven-month period so that there is a longer time for challenge and a shorter time for upload.
+
+As I have said, granting authorities know how much they are spending. They have to write a letter that says how much they are spending. It would be the work of a few moments to put the details from that letter on to the database at the same time. In the interests of transparency, in the interests of having the best possible legislation and in the interests of ensuring that subsidies—this is surely the point of the Bill—can be made and can be challenged when they need to be, the Minister needs to consider these amendments seriously.
+
+Next, I will talk about the amendments to the minimal financial assistance provisions, about which I raised a number of concerns in Committee as well. The Bill talks about minimal financial assistance, which is when a subsidy is under a certain level. Over a three-year period, an organisation cannot have a subsidy of more than £315,000. If a granting authority is giving a subsidy to company A, and it gives a subsidy of £100,000, it knows that is below minimal financial assistance, so it knows it does not need to worry about uploading it to the database —but what if somebody else has already given that organisation a £200,000 subsidy and somebody else has given it another £200,000 subsidy? The authority has no way of telling, because those all come under the £315,000 limit, so not one of them requires to be uploaded to the database.
+
+That is a concern, because we could find granting authorities, through no fault of their own, giving a subsidy to somebody who is not eligible to receive a subsidy, a subsidy they should be uploading on the subsidy database, because it comes over the minimal financial assistance amount. The logic behind amendments 14 and 7 is ensuring that all subsidies, whether or not they are under the minimal financial assistance level, require to be uploaded to the database.
+
+That is not about granting authorities’ necessarily having to jump through a huge amount of extra hoops; it is about transparency and the ability to monitor whether this legislation is working as intended. It is also about the ability to ensure that they are kept on the right side here and are not worried about giving a subsidy to somebody and then finding themselves on the wrong end of the law because they have accidentally pushed somebody over the £315,000 without having any idea that they had done so.
+
+In the event that the grant is under £315,000, granting authorities must send the company a letter to say, “This is a subsidy that we are giving you. We are giving you a £100,000 subsidy.” It then rests with the company to say to a granting authority, “Oh yes—we’ve had three of these letters.” It rests with them; there is no ability for that to be stored anywhere other than the company and the granting authority itself.
+
+I represent Aberdeen North in Aberdeen city, which is bounded with Aberdeenshire. There are a lot of people and organisations and a lot of stuff happening between the two authorities. Aberdeen city is surrounded by Aberdeenshire. It is not out of the question that an organisation could be eligible for a subsidy from both local authorities because of the work it does across the boundary. That issue might arise because both local authorities could be giving a subsidy—particularly because it might not be uploaded in the subsidy control database until six months later. That compounds the problem, even if the Minister agrees to make the change to the MFA rules.
+
+Kevin Hollinrake (Thirsk and Malton) (Con)
+The hon. Lady makes some very fair points, but to be fair to the Government there are requirements under clause 37(6) for the business to keep records of the subsidies received and report them. That is probably in many ways more practical. That subsidy might be given to all kinds of different subsidiaries of that particular enterprise and therefore, even if she wanted local authorities to determine what they had received in the past, it would potentially be difficult to do so by checking against the database. It makes sense to give the business some responsibility for recording that.
+
+Kirsty Blackman
+Actually, what the legislation does is to give the business a responsibility to keep the letter. It does not give the business much more responsibility, in my mind, although I will go back and have a look at the clause the hon. Gentleman points me to. I think having the subsidy on the subsidy control database would make all the difference, but if he wishes to come back in, he can.
+
+Kevin Hollinrake
+Clause 37(6) states:
+
+“The enterprise must keep a written record detailing—
+
+(a) that it has received a subsidy,
+
+and
+
+(b) the date on which it was given, and
+
+(c) the gross value amount of the assistance.”
+
+That to me indicates that it must keep a full record of what it has received.
+
+Kirsty Blackman
+Once again, yes, it has to keep a full record, but it does not have to show Aberdeen City Council that record. There is no requirement on the company to be transparent about that record; there is a requirement to keep it, but not to share it. Having it on the database or adding the requirement to share that record, should a granting authority ask in advance of granting a subsequent subsidy, would make the difference we are asking for.
+
+However, that does not fix the issue in relation to transparency of data and ensuring that the database and the scheme are working properly. This was mentioned in the witness sessions. We need to know whether this is working, and we will only know if it is working if we have an idea of the subsidies being granted, even if they are below the MFA threshold.
+
+I said I would come on to the definition of interested parties. Amendment 12 adds devolved Administrations to the list of interested parties. Again, we discussed this at some length in Committee and the Minister gave some assurances. I shall quote a couple of questions that I asked and the response that the Minister gave. I said:
+
+“Does a devolved Administration’s interests include indirect interests?”
+
+I also asked:
+
+“What if a number of organisations in their jurisdiction are potentially affected by a subsidy given?”
+
+The Minister answered:
+
+“Yes. I would say that is a direct interest rather than an indirect interest. Public authorities, including devolved Administrations, may be interested parties.”––[Official Report, Subsidy Control Public Bill Committee, 16 November 2021; c.308-309.]
+
+I am glad that he gave some clarity. It is sort of because of the way the questions were asked that the Minister’s response was slightly woolly. I would very much appreciate it if, when he responds to the debate, he could make it absolutely clear from the Dispatch Box that, in cases of indirect interests, devolved Administrations are considered as interested parties.
+
+Let us say that a subsidy was given somewhere else in the UK, or even in Scotland, and that subsidy negatively affected the chances of seven businesses in Scotland. I think that the Scottish Government should be able to bring a request to the tribunal to say that that needs to be looked at and that they believe that that is an issue. Under the definition of interested parties, it is only those people whose interests have been affected. The Scottish Government’s interests would not have been directly affected by that, but they would have been indirectly affected. I was trying to tease out from the Minister that he believed that, definitely, the Scottish Government or any of the other devolved Administrations could bring a challenge on behalf of organisations within their area. I am quite happy for that to be limited to devolved competences even. However, if they are not in the Bill as interested parties, we very much need that commitment from the Minister. If they are not in the Bill as interested parties, why is the Secretary of State included in the Bill as an interested party? If the definition is wide enough to cover all those areas—
+
+Kevin Hollinrake
+The Secretary of State is not necessarily an interested party, which is why he needs to be named in here; he might not be affected. The hon. Lady’s point about being directly or indirectly affected is covered under clause 70(7), which says that an interested party means
+
+“a person whose interests may be affected”.
+
+That could be directly or indirectly, surely.
+
+Kirsty Blackman
+We discussed this at length, with a lot of banter, in Committee. But I have a concern that the provision does not say “directly” or “indirectly”. It does not make that as clear as it could. A clear statement from the Minister at the Dispatch Box would give me a level of comfort. I do not think that it is the intention of the Government to exclude the Scottish Government, the Welsh Government, or the Northern Ireland Assembly from making these challenges, but I think that the Bill is written in a woolly enough way that it potentially accidentally excludes them.
+
+Jim Shannon
+The hon. Lady has outlined the issue very well on behalf of the Northern Ireland Assembly. This has to be an equality issue. If it should happen that some other part of the United Kingdom affects businesses in my constituency or in Northern Ireland, equality is part of that. Should not the Minister and the Government address the issue of equality for all those reasons as well?
+
+Kirsty Blackman
+I completely agree that there is not a level of parity here. There should be because the Government recognise that the Scottish Parliament has responsibility for some things—the Government recognise that most days. They recognise that in relation to the other devolved Assemblies, too. This is not about any of those Administrations having a veto; it is simply about the right to refer this to the Competition Appeal Tribunal in order for it to be looked at. It is not about any of those authorities being able to cancel subsidies, or to veto them in any way. It is simply about being able to raise that challenge. It is something that was raised by the witnesses in the Bill’s evidence sessions, so it is not something that I have just somehow invented, or that the Welsh Government have invented, or that the Scottish Government have invented. It is a real worry for people, so the more the Minister could say on this the better.
+
+I will not speak for too much longer. I have just one more amendment—amendment 11—to cover. There are two schedules—schedules 1 and 2—in relation to the subsidy control principles. The subsidy control principles are set in the Bill, and it is clear that they are the principles that authorities need to look to in guiding the decision making about giving subsidies. There are two schedules: one for the general principles and one for the environmental principles, which relate specifically to subsidies around energy and environmental matters.
+
+18:45:00
+
+The general principles, as they are written, do not mention the UK’s commitment to net zero or the most important challenge that is happening anywhere. Covid is very important right at this moment, but tackling climate change is vital for the futures of us all and for the futures of our children. This Bill will not stand the test of time if an attempt to tackle climate change or at least to hold people to some level of account when it comes to climate change and decision making is not in it.
+
+Amendment 11 would add a final principle to the subsidy control principles that states:
+
+“Subsidies should not normally encourage behaviour which will have a negative effect on the achievement of the UK’s net-zero commitments.”
+
+The amendment would not totally tie things down; it just says that authorities granting subsidies should have regard to net zero commitments in the subsidies they are giving. The subsidy control principles are important because, should there be any challenge or any referral to the CMA or the CAT, they will be looked at—there will be a requirement to see whether the subsidies met the subsidy control principles. I just do not think we can allow the Bill to pass without saying that it is really important that any decisions taken—remember, this is public money—on the spending of public money in the form of subsidies should have regard to our climate change obligations. I am delighted that the Opposition have tabled similar amendments, and I would be happy to support any of those that they look to press.
+
+The Bill is not perfect—in fact, it is far from perfect—and we have a huge number of concerns. I am disappointed that the Government have not tabled amendments at this stage to change the Bill, because there was a lot of consensus on the Opposition Benches and from the witnesses about some of the deficiencies that we see in the Bill. If the Government are not willing to listen to us, I hope they will listen to the voices of their Members, who are similarly pushing for transparency on the databases.
+
+The key things that we are keen to look at are: the issue of agriculture being included; the issue of net zero not being included; the issues around transparency; and, finally, the issues around parity of esteem, particularly with interested parties. I hope that the Minister can give me some comfort from the Dispatch Box on the last of those, to make clear for anyone looking at this in the future that the devolved Administrations are counted as interested parties when it comes to indirect, as well as direct interests.
+
+John Penrose (Weston-super-Mare) (Con)
+I rise to speak to the amendments in my name and that of my hon. Friends. I start by saying that there is a great deal to support about this Bill, and I think I mentioned that on Second Reading. This Bill is vitally important, not just because it is required under the terms of our leaving the EU, but because it does some very important things to how the future subsidy control regime will be applied. We have already heard that the central set of principles is crucial. The notion of pre-approval and allowing things to be done at pace to create a much less bureaucratic, much more nimble, much more predictable regime is overall hugely to be welcomed. I hope everyone will be able to sign up to that.
+
+The Bill also means that I hope we will be able to move to a principle where we have as few exemptions and exceptions to our subsidy control regime as possible. It is essential that we have a subsidy control regime that does not allow loopholes through which—I am sure the Minister would never dream of doing such a thing—some less principled future Government might try to drive any sort of measures through that might involve either cronyism or economic distortions of any kind. It is essential that there are minimal loopholes and that the Bill covers as evenly and as predictably as possible the entire economy.
+
+It is no accident that this country has had one of the lowest levels of public subsidies granted in recent years under the guise of the EU’s regime. For the free marketeers among us and those who care about economic efficiency and productivity, that should be a source of pride, and we should not be trying to overturn or change that in future. In fact, I made that point in the Government-commissioned competition policy review that I was recently asked to do, which has a chapter specifically on subsidy control that says that less is definitely more. It is far better to do less in the area and therefore ensure more space for companies and business leaders to compete on their organisations’ abilities and the quality of their products and services rather than on whom they know in Government and, as a result, how much rent and subsidy they can wring out of their political connections. It is essential that we remember that, adhere to it and persist with it as much as we can.
+
+That is crucial, because the Bill done right ought to be a major piece of post-Brexit dividend that we should seek to achieve as a result of leaving the EU. If we get it right, we can have a faster, more nimble and more economically rational way of dealing with subsidies. We can keep the best of the objectivity that everyone said we had under the EU but do it in a faster, more digitally enabled and generally more modern, less bureaucratic and less covered-in-red-tape fashion. Such a post-Brexit dividend is here for the taking. It is waiting for us to pick it up off the table, provided that we can do it correctly.
+
+My concern—this is why I tabled amendments 1 to 8 —is that while the Bill does an awful lot of that right, we may be about to make one critical error. We have already heard the points about transparency made by the SNP spokeswoman, the hon. Member for Aberdeen North (Kirsty Blackman). It is all very well to pre-approve and to have a more flexible, faster and more nimble approach, but that will work only if we have an army of armchair auditors who can spot when something is going wrong and say, “Hang on a second. This is a marvellous principle, but it isn’t being adhered to in this case.” Without transparency, hon. Members, people in our constituencies and the journalists who pore over such things will not be able to do so until it is too late. In a digitising economy, speed matters, too. If it cannot be done before it is too late—or at all—companies will be driven out of business. Once all that is left is rubble, the jobs are lost and the investment is forgone, it is too late to come back two years later—or even eight months later in fast-moving sectors—and say, “We’re terribly sorry; we got this wrong.” We need to be able to move rapidly and pick up things up as soon as possible. That is why I tabled the amendments.
+
+Kevin Hollinrake
+My hon. Friend makes a strong point about armchair auditors in particular. As soon as the US published all loans of $150,000 under the paycheck protection program—its version of the coronavirus business interruption loan scheme—$30 billion was paid straight back to the US Treasury on the basis that companies did not want that visibility. It was not that money was taken fraudulently—perhaps it was taken inappropriately.
+
+John Penrose
+My hon. Friend makes a very good point. For those of us who worry about the scale of subsidies, who take pride in ours being a relatively low-subsidy country and economy and who want it to stay that way—we do so because we care about competitiveness and people competing only on the basis of their ability to please their customers rather than whom they know in Government—that must be the right approach. That American example of how transparency can drive down subsidy levels is a good one. Incidentally, it would be fascinating to see how that applies to countries such as Spain, which have low thresholds for declarations and therefore high levels of declarations. We can follow that carefully.
+
+Richard Fuller (North East Bedfordshire) (Con)
+My hon. Friend is making a very useful speech, and I very rarely say that in Parliament—not about him, but generally about speeches here. Does he agree that the value of his amendments is that they would increase the number of pieces of information we have, and that the Government are missing the value of predictive analytics in considering the way in which subsidies are or are not working, as that can then be applied to other areas of Government expenditure?
+
+John Penrose
+That is absolutely right. Transparency is of course about trying to improve the productivity of our economy and avoiding distortions of our economy, and of course it is also about trying to reduce cronyism, but my hon. Friend is right to say that there is a longer-term benefit in that we can then tell whether the subsidies we are offering are any good: are they actually having the effect we want them to have and can we learn from that? I am afraid there is a long and ignoble history—we can all see this and cite examples from Governments of all political types and stripes in history—of politicians just getting it wrong and not learning that extra data might very well achieve something. I am afraid the old phrase that politicians are terrible at picking winners but really good at picking losers applies here in spades, and data and objectivity are essential in pricking that bubble and avoiding that happening again.
+
+The good news is that Ministers get it: Ministers are clear about the value of transparency. They have said so to me and others. In fact, the Minister said to me in a letter earlier in December:
+
+“Transparency is fundamental not only to the future subsidy control regime but also to good governance more widely.”
+
+That is absolutely right. So, the principle is clear: there is no disagreement in any part of the House that this is the right thing to do.
+
+So, why are we not doing it? That has been covered partly in Committee, but it bears being repeated here strongly and forcefully. The EU regime which the Bill is supposed to supplant has a series of transparency declaration thresholds. Everything over half a million euros must be declared; there are thresholds too for cumulative grants, which we heard about in the speech of the hon. Member for Aberdeen North, although half a million euros is the basic threshold. This Bill, however, says that everything over half a million pounds has to be declared. Unless the exchange rate has gone completely doolally in the last 10 minutes, that is a much, or moderately, higher level than half a million euros, and as a result we will in the future be declaring fewer subsidies under this transparency regime than we were in the past, in spite of the fact that Ministers have rightly said transparency is absolutely essential and a core principle with which we all agree. We are not delivering on the central principle on which everybody agrees, and that is why I have tabled basically three groups of amendments. They do three things, some of which we have already heard about; the hon. Lady summarised them nicely, so I will not go through the detail again.
+
+The first group addresses amounts and says, “Look, we shouldn’t just say we have to declare anything over half a million pounds; we should be much more transparent than that.” If we are really serious about trying to be world-class about this issue, let us knock three zeros off that number: let us go for £500 instead. What have we got to hide? What have we got to be scared of? Why do we not just put it all out there and let people see? That would be transformational, for the reasons I have just described.
+
+Dr Dan Poulter (Central Suffolk and North Ipswich) (Con)
+My hon. Friend is making a very good speech and making very good points. On the issue of transparency, surely it would be cheaper as well as more transparent to do exactly what he says, because when there is a digital system putting all this information together it takes more time and money and reduces the productivity of the staff involved if they have to sift through what meets a certain threshold. Why not, as my hon. Friend says, just put everything out there?
+
+John Penrose
+Absolutely; my hon. Friend makes an important point. Equally, the point about cost goes more broadly than that too. We heard about the cumulative threshold where, if a single company receives multiple different grant applications or subsidies that collectively go above £315,000 over three years, that is supposed to be declared—but how will it be declared? The company is supposed to keep the letters, but it does not necessarily have a duty to declare it. The different subsidy granting organisations, be they local authorities around the country or whatever, will not necessarily know to talk to each other and will not know for at least six months, or a year in some cases, whether someone else has made those grants.
+
+19:00:00
+
+It would be enormously simpler if, instead of all that, we said, “Do you know what? If it’s more than £500, put it on the subsidy database within a month”, then everybody can see it. If someone is about to grant another subsidy, they just have to look at the subsidy database. They know if a company is going to go over a threshold and what else it has, and they can do the comparison easily and simply if they like.
+
+To the point of my hon. Friend the Member for Central Suffolk and North Ipswich (Dr Poulter), it would cut costs not just among the granting organisations—the subsidy disher-outers—but dramatically for the subsidy receivers too. All of a sudden, people would not have to worry about whether they had all the letters about all the subsidies that they had been granted by Aberdeen City Council or Aberdeenshire Council. People would not have to keep them any more, so that would not be a burden on their business. It would not be a burden at all, because it would be on the subsidy database. As the Bill stands, we are creating a burden on businesses that we do not have to create. We can easily reduce and remove it completely with this simple measure.
+
+Nigel Mills (Amber Valley) (Con)
+Does my hon. Friend agree that there is a general presumption that there should be more transparency about people receiving money effectively from the taxpayer? We could have a strange situation where if I am being paid £600 for grass cutting for my local council, the council would publish the invoice on its database, yet if I am receiving tens of thousands of pounds of taxpayers’ money, it would not be published. Surely, that cannot be the right balance.
+
+John Penrose
+That is absolutely right. Although I appreciate that there is a technical distinction between amounts of subsidy and amounts of general local authority spend, it is a very strong comparison. If it is worthwhile recording £500 spend on anything by a local council, why are subsidies so special and why should they be different? If anything, because of the scope for potential cronyism and other concerns, we should be tougher on subsidies than on other kinds of spending. Let us at least make the thresholds the same at £500, and then there can be no concern or worry about it.
+
+The first collection of amendments is about the amount. The second collection of amendments, about which we have already heard a bit from the hon. Member for Aberdeen North, is about speed. As I have mentioned, in today’s digitising economy, publishing details of a subsidy potentially almost two years later, or even six months later, could be way too late. A company could have gone under if it had been faced by a successfully heavily subsidised competitor in its local area. Jobs will have been destroyed, wealth will have been destroyed, investment will have been forgone and, most importantly, the reputation of that local economy as a free, fair, sensible level-playing-field place to do business will have been damaged.
+
+Clearly speed matters today, and it will matter more and more as our economy moves faster through digitisation. It makes no sense at all, therefore, to allow six months, and in some cases even longer, for those subsidies to be declared. When someone dishes out a subsidy, a letter has to be sent to the person receiving it, so in most cases they could put the subsidy on to the database at the same time—they could probably do it electronically if they had the right interface. I am suggesting that that could happen within a month; it could probably happen within days, but let us be generous and kind, and give people a bit of space.
+
+I will expand on the point about tax-related subsidies. It is true, as we heard, that a tax-related subsidy can take almost two years to be recorded and to become transparently visible under the current proposals. I cannot see any reason why that should be the case, not just for tax-related subsidies but for anything else at all. In general, for most tax-related subsidies, we can do it immediately because we know the value with some certainty right up front. If I am giving someone a subsidy as a reduction on their business rates, I know how much the value of that subsidy is going to be on the day it comes out, so I can put that out on the subsidy database right there and right then. The same goes for most other kinds of tax-related subsidies, such as subsidies on VAT or whatever it may be.
+
+Only for a very small number of tax-related subsidies would there be uncertainty for any length of time. As we have already heard, and I think this is absolutely right, it is perfectly possible to come up with a good estimate to begin with, and I do not think it works—it is not an adequate piece of logic—to turn around and say, “Well, because we don’t know precisely what this particular subsidy amount will be, we should not reveal it at all.” That is making the best the enemy of the good, and the trouble with that, and with saying that we are therefore not going to put anything out, is that we do not end up with the best or the good. We end up with something that is actually pretty dreadful, because we are keeping it secret for up to two years. How does that make sense when, as we have already heard, we can estimate it very accurately? In fact, in many cases these things are done in bands, and we can certainly say, at the very least, that it will be roughly in this or that band. Even if we get it wrong, we can still correct it later, and people know it is there, what it was and roughly how much it will have been. That will have allowed challenge, if necessary.
+
+Kirsty Blackman
+Specifically on the issue of uploading subsidies to databases and challenging such subsidies, the only way in which a subsidy will be overturned anyway is if the subsidy was given incorrectly—if it was against subsidy principles or was distortive in some way—so surely this has no effect on the vast majority of subsidies, except that it means they will be uploaded much more quickly. However, in the case of subsidies that are wrong, bad and going to cause problems, surely the quickest possible time is better so that we would be able to see them.
+
+John Penrose
+That is absolutely right. It is not just about whether a particular subsidy breaches those principles, but as the hon. Member rightly points out, it is also a question of whether we can then spot that a pattern of cronyism is emerging. If a particular local council was giving out grants to its mates, we could see that much faster. That may not be breaching the subsidy control principle, but you can bet your bottom dollar that people would want to know about that and that the most almighty stink would be created.
+
+That brings me on to the final group of my three groups of amendments, which is about the ability to challenge and check individual items or individual examples of a subsidy within a broader subsidy scheme. At the moment, if someone registers a subsidy scheme under the terms of the Bill, dishes out subsidies under that subsidy scheme and then basically ignores the terms of the subsidy scheme or misapplies them in some terrible way—because of cronyism, because they are just doing a bad job, or even fraudulently—nobody, under the terms of the Bill, can challenge the individual decisions being made. That cannot be right, and it seems daft. All I am saying is that we need to be able to challenge individual examples within a broader scheme, otherwise this transparency mechanism or challenge mechanism will be fundamentally flawed.
+
+That is the modest proposal. So far, I have not heard a single argument that unpicks the logic of that. As far as I can see, there are three Departments of Government with a dog in this fight. There is Lord Frost, who is in charge of the Brexit dividend, and he ought to be thoroughly in favour of this because of the opportunity it offers. There is the Secretary of State for Business, Energy and Industrial Strategy—he was here briefly just now, and I hope he will be back later—who is of course a good free marketeer and is thoroughly committed to improving productivity, so he should be in favour of this, too. Finally, there is the Chancellor of the Exchequer, who is the guardian of taxpayers’ money. As I have said, we should be taking pride in the fact that we are one of the least heavily subsidising economies in the developed world, and we certainly were when we were part of the EU, so I cannot see that he is going to be objecting to it either.
+
+As I sit down, I therefore just ask the Minister to please explain the logic behind opposing any of the arguments that not just I but others have been advancing. Will please explain who on earth thinks this is a bad idea, because I cannot find them or see them and I do not think anybody knows who they are?
+
+Deidre Brock (Edinburgh North and Leith) (SNP)
+I rise to speak in support of all the amendments and new clauses in the names of my hon. and right hon. Friends and myself, but specifically new clause 1. I am aware that the Cabinet Secretary for Rural Affairs and Islands has already written to the Secretary of State for Environment, Food and Rural Affairs specifically on this matter.
+
+To begin with, I will tell a little story to illustrate that the apprehensions around this issue were long-standing, even before the United Kingdom Internal Market Act 2020 passed into being, and now appear to be fully justified, especially when we take into consideration the principles of mutual recognition and non-discrimination contained in that Act. In late November 2020—on St Andrew’s Day, rather ironically—in the debate on the statement on the agricultural transition plan, I asked the Secretary of State for Environment, Food and Rural Affairs for assurances that the Bill, as it was then, would have absolutely no impact on Scotland’s ability to set support in Scotland independent of the system chosen for England. He responded that Scotland and the other devolved authorities
+
+“will have more freedom than ever before to design a policy that they judge to be right for them. We will set up a joint group across the UK to do market surveillance, to ensure that there is not disturbance to the internal market”.—[Official Report, 30 November 2020; Vol. 685, c. 42.]
+
+The House will note that there was no answer to my question in that reply. However, shortly afterwards the Secretary of State reassured a fellow Conservative MP who had expressed fears on behalf of farmers in his English constituency that food production might not be supported under the new English scheme and that his farmers could
+
+“be undercut by farmers, including in the devolved nations, who are subsidised for food production or by area, not just for stewardship”.—[Official Report, 30 November 2020; Vol. 685, c. 50.]
+
+I wondered how he could give any such assurance if he intended keeping the UK Government’s nose out of our agricultural support choices, but I ken noo.
+
+As my hon. Friend the Member for Aberdeen North (Kirsty Blackman) has mentioned, at the heart of the problem is the broad recognition that agricultural subsidies do not fit neatly into standard subsidy control regimes. That is why agriculture has its own separate subsidy control arrangements in the EU through the common agricultural policy, and in the World Trade Organisation through the agreement on agriculture. Equally, while the trade and co-operation agreement has provided interim rules on subsidy control in the UK since Brexit, it does not apply to subsidies subject to the provisions of part 4 or annex 2 of the WTO agreement on agriculture, which relate to most agricultural subsidies.
+
+The Scottish Government have asked the UK Government repeatedly why agriculture is included in this new regime when it is not included in most standard subsidy control regimes, but I understand that to date no satisfactory reason has been given. The Minister has responded that a majority of respondents to the Department for Business, Energy and Industrial Strategy consultation thought it should be included, which seems jolly fair-minded of the Minister, we might think. On the other hand, the UK Government have so far chosen to ignore the serious concerns raised by the Scottish and Welsh Governments. The UK Government have refused to share the consultation responses with our Government, even the anonymised ones, which makes it even more difficult for Ministers and civil servants to understand the reasoning behind this decision or at least to assess whether the responses were weighted and, if so, how. The only reply that I have seen from the Government’s response to the consultation is that this hitherto accepted exemption has been removed in order to maintain a “consistent approach” and a broad sectoral scope. So it is some sort of tidying-up exercise, apparently.
+
+Taken all together, this ratchets up what were considerable levels of concern to—I think it is fair to say—alarm not just in the Scottish and Welsh Governments and other devolved Administrations but in organisations such as the National Farmers Union of Scotland. There is less concern from the National Farmers Union of England. I wonder why that might be. It is worth reminding ourselves that the high percentage of less favoured areas in Scotland’s agricultural land—some 86%—is almost directly reversed in England, where it is only 12%. We have unique agricultural conditions and practices, so the need for a support system that recognises and understands that and takes it fully into account is vital.
+
+19:15:00
+
+As the National Farmers Union of Scotland said in its submission to the subsidy controls consultation, financial support for agricultural and rural development remains critical if a vast array of policy objectives, including producing food to the highest standards and addressing climate and biodiversity challenges, are to be achieved. It is almost as though the UK Government learned no lessons after the tortuous arguments over convergence funding that the Bew review eventually clarified to Scotland’s benefit—but surely not.
+
+I realise that this will not be of particular interest to farmers in, say, Wiltshire, but it is of great interest to those of us in Scotland who treasure the more remote and rural areas of Scotland and want them to flourish. We see support for our farmers and crofters as an investment in those communities’ futures. For every pound invested by Government, many times that is spent by farmers and crofters. That fuels jobs and our economy, and builds food security, which given the UK’s reliance on imports for, give or take, 40% of our food, and the recent impact of the disastrous Brexit on supplies, should make us all think again. We consider it vital that the Scottish Government—indeed, the devolved Administrations more widely—retain the ability to support agricultural businesses as they see fit for the foreseeable future. This, as the NFUS makes clear, relates to the proposed regime’s potential impact on policy development in a devolved area.
+
+Jim Shannon
+I very much sympathise and agree with the argument the hon. Lady is putting forward. In Northern Ireland we have the highest quality products, we have an export market that we want to retain, and we want to retain food security as well. She referred to the National Farmers Union of Scotland; the Ulster Farmers Union is also committed to retaining that. Does she agree that the Minister should consider this very seriously, with that in mind?
+
+Deidre Brock
+Yes, very much so. I agree with the hon. Gentleman because the excellent food produced in Scotland is also to be taken into account. I hope the Minister is listening carefully to what I am saying and will take it into account when he speaks. I would be interested to hear his point of view.
+
+There is a risk that schedule 1 will constrain Scotland’s ability to tailor future policies to the needs of Scottish agriculture. There are concerns about how the regime will work for legacy common agricultural policy schemes delivering income payments and coupled support, and doubts about whether clauses 48 and 81 will allow devolved Governments to make changes where required in order to develop and progress agricultural policies in future. Additional difficulties and potential for legal challenge are created over what could effectively be the avoidable double-banking of subsidy control schemes through the application of the new regime. The Scottish Government are also concerned about the principle that a subsidy that does not unlawfully distort international law could still be challenged, as set out in our Cabinet Secretary’s letter to the Minister,
+
+“on the basis that it does not minimise negative effects on competition or investment in the UK which is a principle that goes beyond the minimum required under the TCA”.
+
+Apart from those numerous concerns, the inclusion of agriculture could dramatically weaken the role of what has been the agreed common frameworks process in this area, which was put in place specifically to manage policy divergence within the UK and any impacts that that might have on the UK internal market. I have been told that no other state in the world includes agricultural payments as subsidies. While I am not entirely sure that that is the case, it is certainly highly unusual. In May, the Minister indicated to the Cabinet Secretary that he was prepared to work on bespoke solutions in the regime that would recognise the particular needs of the agricultural sector, but there has been nothing so far and, I repeat, no real explanation of how it is all supposed to actually work. Perhaps it has been filed in the “too hard” bin, along with many other devolved Administrations’ concerns, or the “can’t be bothered” bin—I am not sure.
+
+If agriculture is left in this Bill, that could create serious problems for devolved Governments in the delivery of their own policies on food production. If the Government are serious about protecting devolution, they will abandon their plans. I urge the House to hear the concerns voiced by Scotland’s devolved Government—I am sure we are going to hear from the Welsh Government as well, and potentially from the Northern Ireland Assembly—and support the inclusion of new clause 1.
+
+Kevin Hollinrake
+I rise to speak briefly in support of the amendments tabled by my hon. Friend the Member for Weston-super-Mare (John Penrose). I will particularly address amendments 1 and 8, which are about something brutally simple: scrutiny and transparency. The Government are rightly approaching this through their obligation to meet the competition requirements of the European Union. For that purpose, £500,000 would perhaps be the right level.
+
+I think this is about more than competition; it is also about cronyism and, potentially, fraud. My hon. Friend put it well when he talked about armchair auditors. Time and again, information about things going wrong is brought to the attention of parliamentarians like me by members of the public and members of the press. The more we give people access to such information, the more likely we are to clamp down on any suggestions of cronyism. Although most are ill-founded, it is important that we clamp down on any suggestions of cronyism and of fraud.
+
+I agree with my hon. Friend that we should lower the threshold for reporting and registering on the database from £500,000 to £500. That seems an enormous difference, but consider what we know already. The easiest place to look is the furlough scheme and the bounce back loan scheme. The National Audit Office estimates that some £26 billion may have been lost in those coronavirus loan schemes, not all of it through fraud—some of it was through non-repayment of debt, or defaults. Nevertheless, a significant proportion of the moneys granted to businesses, which were effectively a subsidy, might have gone missing. The Government rightly put together a huge new team of people within Her Majesty’s Revenue and Customs, with an investment to the tune of £100 million, to try to clamp down on it by investigating the potential for fraud.
+
+Alongside that, it would be a simple requirement for the database to include every single subsidy over £500 for the armchair auditors, the press, the public and—another important component—the whistleblowers. People within an organisation often do not know what subsidies the business may have received, but they might be able to identify the moneys as inappropriate and alert the authorities to that effect. Some 43% of all crimes are now economic crimes, and 40% of those are brought to light by whistleblowers, so it is hugely important that they have access to this information so they can scrutinise what is happening within these businesses.
+
+My hon. Friend the Member for Weston-super-Mare asked why would we not do this? One answer might be bureaucracy and cost—we are not big believers in bureaucracy and unwanted, unneeded cost, and we rightly want to make our system simpler, not more complicated, for businesses—but the requirement to publish on the database is negligible. As others have said, businesses have to issue a letter anyway, so putting five bits of information on a database is not exhaustive. The impact assessment suggests that the total cost of doing it annually will be only £20,000 extra, which is insignificant in terms of the cost of red tape, but the benefits are huge.
+
+As I mentioned in my earlier intervention, the US had much lower levels for reporting than we did. Our level was €500,000 for telling the EU who received benefits from the loan schemes, and it was done quite late in the day, after the loans were received by businesses. In the US it was $150,000, which effectively brought  about a $30 billion return of moneys to the US Treasury because those businesses were embarrassed to be receiving the moneys inappropriately.
+
+Another reason we are not doing this is that, when the British Business Bank looked at the coronavirus business interruption loan scheme and the bounce back loan scheme, it felt it should not report on this because it might be likely to lead to
+
+“speculation about the Recipients’ financial position”.
+
+I do not agree. Even if it were true, we are already putting on the database loans over €500,000. Are we saying only businesses below that level would have that problem? That is clearly not the case. A lot of businesses that received coronavirus business interruption loans over £500,000 were quoted on AIM, for example, including my own business. I draw the House’s attention to my entry in the Register of Members’ Financial Interests, although I am no longer associated with that business in any meaningful capacity, as it was subject to a takeover earlier this year. I would have no problem at all with the loan we took under the CBILS programme being declared on a database so people could see it. The reasons we were taking it were quite obvious and I do not think it brought our financial position into question at all. Clearly, in the desperate times we were in, most people would see that we were going after desperate measures in terms of insurance policies, which the loan was to most companies. I do not see that as a valid reason for preventing the declaration to the database being completed for all subsidies down to that £500 level.
+
+I will refer quickly to amendment 8. Allowing individual challenge to individual decisions under a subsidy scheme is another check and balance—another way to ensure money is being handed out appropriately. I think all these amendments make sense, which is why I have signed them all. To give the public, the press and Parliament access to the database is a crucial step. I do not think it would be a bureaucratic issue at all for the people responsible for it. I know we have spoken about it, but I urge the Minister to look at this again and to table such amendments at a later stage, if they are not accepted today.
+
+Liz Saville Roberts (Dwyfor Meirionnydd) (PC)
+Diolch yn fawr, Dirprwy Lefarydd. It is interesting to hear the hon. Member for Weston-super-Mare (John Penrose) describe this Bill as part of a post-Brexit dividend. For many of us from the devolved nations, it actually bodes ill. It bodes ill in relation not just to key devolved competencies, but to questions about whether this negates the power of public procurement and, particularly, whether it undermines the levelling-up agenda. We would expect to see more principles in operation than we currently do, particularly when we compare this with the regimes we worked with and complained about, but were familiar with, under the European arrangements.
+
+My party, Plaid Cymru, will support new clause 1, proposed by the hon. Member for Aberdeen North (Kirsty Blackman), which would exempt devolved agricultural subsidies from the subsidy control requirements. This is a vital new clause that protects our farmers and ensures that the devolved nations can continue to tailor support to local requirements and priorities. I do not think I need to persuade anybody in this Chamber that UK agriculture is highly regionalised in its type, its significance, the impact it has on its local economies and whether it requires region-specific subsidy for its needs.
+
+I am very much aware of that for the less favoured areas, representing as I do the constituency of Dwyfor Meirionnydd, which is very much an upland area. I have whole communities watching these legislative developments with some concern. I know the farmers’ representatives from Wales, Scotland and Northern Ireland are equally concerned about the implications of what, on its face, appears to be a fairly technocratic Bill, but none the less sets a precedent for the sort of legislation we see coming out from the trade and co-operation agreement in the United Kingdom Internal Market Act 2020.
+
+In Wales, where more than 80% of land is used for agricultural purposes and farmers are the bedrock of our rural communities, guardians of our natural environment and protectors of our cultural identity, subsidies are vital to protecting that legacy. The latest farm business survey showed that subsidies provide on average 30% of upland cattle and sheep farms’ income. Leaving their fate to a Westminster Government set on securing questionable trade deals that boost UK GDP by 0.01% to 0.03% while at the same time sacrificing our farmers is clearly unacceptable. Equally, without this new clause, the Bill would pre-emptively tie the hands of the Welsh Government as they look to establish a new, post-EU subsidy regime. I therefore urge hon. Members across the House to support the clause to protect our farmers, as well as amendment 11 on net zero commitments.
+
+I also extend my support to the amendments tabled by the Opposition, including amendments 19, 23 and 26, which would extend the rights of the devolved Governments. Although I believe that they could, and possibly should, be strengthened by recognising the value of the co- production of guidance, they nevertheless address somewhat some of the Bill’s governance issues. As we have seen time and again, the Government play hard and fast, and make the rules up as they go along. That is why such guarantees as are offered by the amendments are so important.
+
+19:30:00
+
+My point about the value of co-producing subsidy rules speaks to two wider issues: the role of public procurement in supporting levelling up and the Government’s conduct when developing the Bill. First, the Bill wrongly assumes that the UK economy is a level playing field, deserving therefore of a level subsidy regime. The UK is one of the most regionally unequal countries in the west. That is supposedly being addressed by the Government’s levelling-up agenda.
+
+My party, Plaid Cymru, has long advocated greater public procurement to nurture local businesses in underserved and peripheral areas of the UK. This highly local and nuanced policy, which is recognised in the new co-operation agreement between my party and Welsh Labour, but too often ignored by the Treasury, is vital in delivering levelling up. The Bill’s restrictions on local procurement are therefore economically damaging and contrary to the needs of the levelling-up agenda. I urge the Government to reconsider.
+
+My second point—namely, the Government’s conduct when consulting the devolved Governments on the Bill—helps explain why Wales and Scotland have not given  consent to the Bill. It is important to reiterate that in this place, because we will hear it again. It does matter if what is being produced here is creating discord with the devolved Governments.
+
+In July, the Welsh Government stated that the Bill undermines
+
+“the long-established powers of the Senedd and Welsh Ministers”
+
+in devolved areas, including
+
+“economic development, agriculture and fisheries.”
+
+They concluded that the Bill was too “high-level”, lacked “sufficient granularity” and, worse, meant that the powers being given the Secretary of State had
+
+“little scrutiny from the UK Parliament and no scrutiny available to Welsh Ministers or the Senedd”—
+
+our Parliament in Wales. The Labour Minister for Finance in Wales put it more bluntly:
+
+“Despite suggestions from the UK Government that detailed engagement has been undertaken, the Bill only reflects the narrow interests of the UK Government.”
+
+In sum, the Bill asks the devolved Governments to sign a blank cheque, with no explicit provision for further scrutiny or input.
+
+This is yet another power grab that undermines not only devolution but the levelling-up project the Government are allegedly so keen to promote. It simply is not good enough, and it speaks to an unconstructive disdain for the rights and responsibilities of the devolved nations from the Government. The Bill is an assault on devolution, wilfully ignorant of the needs of the national economies of the UK or the role of public bodies in advancing them, and has been prepared by an out-of-touch Government that is overly centralised. It is a mistake that we are set to make again in the Professional Qualifications Bill. As such, my party will not support the Bill before us and I urge Members across the House to oppose it in favour of a more co-operative and informed subsidy regime.
+
+Sarah Olney (Richmond Park) (LD)
+It is a pleasure to contribute to this very thoughtful debate. I do not share the enthusiasm of the hon. Member for Weston-super-Mare (John Penrose) for Brexit as a whole; nevertheless, I support his comment that if this is to be one of the benefits of leaving the European Union, it is important that we get it right, especially since all the other benefits seem disappointingly slow to materialise.
+
+I support many of the hon. Gentleman’s comments about transparency: it is important that the information is made available. He is right that it will improve the efficiency of subsidies if we can see who is getting them and understand where they are being applied. I valued the intervention from the hon. Member for Thirsk and Malton (Kevin Hollinrake) about what has happened in the United States, and that is an important point to consider. It is important to think about the effectiveness and efficiency of subsidies, and the use of taxpayers’ money.
+
+This will be a new subsidy regime for the UK. The more information that is available to the widest number of people, the more we will be able to see as a country—not just the Government—what is and is not an effective subsidy. We will be able to see what has worked, what has played a role in driving investment to underdeveloped regions and what has helped to build new sectors of the economy. It is so important that that information is available. More particularly, I support the moves of the hon. Member for Weston-super-Mare to move the threshold to £500, because, where subsidies can distort markets, it will have a disproportionate impact on smaller businesses. That is why moving the threshold in the way that he proposes is so important.
+
+John Penrose
+May I back the hon. Lady up by saying that it is about not just smaller businesses, but local economic effects? Something that may, on a large scale, be distortive for the entire national economy may be distortive at a much smaller level for a particular city region or a particular town. I hope that she agrees with that point as well.
+
+Sarah Olney
+I absolutely do, which is why it is so important to get this level of oversight at the much smaller threshold that the hon. Gentleman is proposing. Potentially, within the gap between the £500 that he is proposing and the £500,000 that the Government are proposing, there will be a great deal of market-distorting subsidy, and it will be up to competitors who have been disadvantaged to challenge or to bring their own court cases against those subsidies. If they do not have knowledge about how they are personally being disadvantaged, what can they possibly do about it? That is why that point is so important.
+
+My new clause 2 is about climate change. I welcome the comments made by the hon. Member for Aberdeen North (Kirsty Blackman) about the importance of this matter in her excellent opening speech. There are the seven principles against which the subsidies will be assessed, and also the nine energy and environmental principles. What I am disappointed about is that they do not add up to a broader commitment to using public money to fight climate change. I can only amplify what the hon. Lady said about it being our key public challenge at this time, covid notwithstanding.
+
+The Liberal Democrats would have welcomed the opportunity to put the transition to net zero at the heart of the UK’s subsidy regime, and for the Government to have used every tool at their disposal to make the transition as swiftly and painlessly as possible, and we can see how public subsidies can help to achieve that.
+
+New clause 2 provides for an annual report to Parliament detailing the climate change impacts of subsidies granted that year. This would have been an important mechanism for reviewing the extent to which subsidies are being used to stimulate or to de-risk investment in the green economy. We look to the private sector to drive much of the innovation that we need to see and to create the consumer markets for our net zero future, but the Government must do all they can to encourage the private sector to prioritise reducing emissions alongside creating economic value.
+
+Public subsidies are an important part of the levers available, and taxpayers need to see that they are being used effectively. Let us take, for example, the nine environmental and energy principles. In the past few months, we have seen a tremendous concern about our energy sector, and it is easy to imagine a scenario where subsidies are being granted to improve energy resilience and energy supply. Such goals might make sense in the short term as they are in line with the principles, but when we are making short-term decisions about subsidy use, it is really important that we step back and look at the longer-term impact of some of those decisions. We need to take the opportunity every year to make sure that, regardless of the short-term decisions that sometimes need to be made, we are nevertheless continuing along the path towards net zero—the challenge that the Government have set for themselves. To have that separate net zero/climate change consideration of the total use of all of our subsidies would be an important check for the Government to make sure that they are progressing towards net zero in the way that they should
+
+In short, this Bill would have been much improved by enabling greater scrutiny of the subsidies granted. I regret that the Government are not doing more to enable that.
+
+Seema Malhotra (Feltham and Heston) (Lab/Co-op)
+It is a pleasure to follow some powerful speeches on Report tonight. I share the frustration of the hon. Member for Aberdeen North (Kirsty Blackman) that we could well have moved forward with some of the issues we debated in Committee with some amendments brought forward by the Government. Some of the robust debate we had in Committee led to looking at how we could address those issues more quickly. I acknowledge the contributions from the hon. Members for Weston-super-Mare (John Penrose) and for Thirsk and Malton (Kevin Hollinrake). I will be talking about their amendments later in my speech, but we have discussed at length transparency and the ways in which we need to reform this regime in order for it to be the most effective it can be. I wish to make a brief remark about new clause 1 before carrying on further. I hear the concerns raised by the hon. Members for Aberdeen North and for Edinburgh North and Leith (Deidre Brock), and the right hon. Member for Dwyfor Meirionnydd (Liz Saville Roberts), because they are important, particularly in relation to legacy subsidies in agriculture, as well as future subsidies. The Minister will need to make sure that he can respond clearly to the concerns that have been raised, and we will certainly be listening closely on that.
+
+It is a pleasure to speak to our amendments—new clause 3, on post-award referrals, and amendments 15 to 27. I will also speak in support of similar and, in some cases, identical amendments to those tabled by Labour in Committee, which I was pleased to see have been influential in colleagues’ consideration of the Bill. I refer in particular to amendments 1 to 8, which were tabled by the hon. Members for Weston-super-Mare and for Thirsk and Malton, and amendments 10 and 12, which were tabled by the hon. Member for Aberdeen North. There are only slight differences from our position in Committee, and I am sure that today’s debate will also help consideration of the Bill in the other place. Amendments 13 and 14 are similar to amendments 2 and 7, and are consistent with our significant concerns on transparency and accountability, which we raised in Committee. New clause 2, tabled by the hon. Member for Richmond Park (Sarah Olney), is also consistent with the position on net zero leadership that we set out on Second Reading and in Committee. We are not actively supporting two amendments—we are more neutral on them: amendment 11, which has similar intentions and principles but is slightly weaker than our amendment 16 and which runs the risk of being unclear for local authorities to implement; and amendment 9, where we understand the intention to broaden what the Competition and Markets Authority reports on. However, arguably it would not have the information on all subsidies, as most would not be notified to it, so this provision could be impractical and create a significant burden. However, in Committee we also provided suggestions on how the CMA’s annual report could be strengthened and what areas it could report on. We had a considerable debate on that, including in respect of the CMA reporting on where it had identified non-compliance with the principles and examining the geographical spread of subsidies that had been notified to it.
+
+Labour recognises the need for this legislation, which establishes the framework for the UK’s post-Brexit subsidy control regime. It indeed allows for quicker subsidies to be granted to businesses, which we support. We recognise that a system of subsidy control is important to ensure that public funds are made available to businesses, but with appropriate safeguards in place. Where we departed from the Scottish National party in Committee is that we also believe that the Bill is necessary to protect the UK’s internal market. We are speaking to our amendments today on two main strategic areas: the purpose of subsidies; and the way in which the new regime will operate. I will deal first with the purpose and the use of subsidies. Subsidies and their controls should be an integral part of a strong, long-term industrial strategy, promoting growth and supporting industry, jobs and prosperity across the country. We want to see our foundation industries such as steel supported, and we want to see a plan for how we can buy, make and sell more in Britain.
+
+Stephen Kinnock (Aberavon) (Lab)
+It was an honour and pleasure to serve with my hon. Friend on the Bill Committee. Does she agree that the strategic purpose of a Bill such as this must be about supporting areas of greater economic deprivation and that therefore there is a glaring hole at the middle of this Bill, which is that it does not have that clear, proactive strategic purpose?
+
+Seema Malhotra
+I thank my hon. Friend for his contributions in Committee and for that very important point, which I will come on to. We know that the assisted areas map is not part of the UK’s regime, but there has to be a way to deal with the principle of that, which is how to ensure resources are targeted to the areas where they are most needed.
+
+19:45:00
+
+As I was saying, subsidies and their controls must form part of a long-term industrial strategy. Our approach for such a long-term industrial strategy has been to call for long-term investment, clarity for our transition to a green economy and a serious levelling-up agenda. These pledges are integral to our £28 billion a year climate investment pledge.
+
+We recognise that this is framework legislation, but it is missing clear direction or a plan on how subsidies should be used. What are the goals of the UK Government? We know there is a glaring hole in Government strategy: their industrial strategy, which seems to have been watered down and is hard to even find on their own website.
+
+There are two areas on which we believe the Bill should be more vocal: it should more clearly require public authorities to consider the impact of subsidies and schemes on achieving our net zero commitments; and tackle inequality both between and within nations and regions of the UK. Labour’s amendments 16 and 17 would ensure that subsidies and schemes under the legislation were consistent with the UK’s net zero targets. Amendment 16 would ensure that all public authorities should consider the impact of subsidies on achieving the UK’s net zero commitments. COP26 highlighted starkly how strong committed action across Government is needed if the UK is to reach its net zero targets. Unfortunately, as the Bill stands, the commitment to net zero is not enshrined in the new regime. Quite frankly, that is not good enough. We need firm resolutions and firm policy commitments to achieve net zero and subsidies are no exception.
+
+Labour tabled amendments 15 and 18 to ensure the Bill explicitly states that subsidies and streamlined subsidy schemes can be used for the purpose of reducing regional inequality. Under EU state aid rules, subsidies could be, and indeed were, targeted at areas of economic deprivation, significantly aiding struggling regions. Labour recognises there were some drawbacks to the EU’s assisted area map, but it did, as my hon. Friend the Member for Aberavon (Stephen Kinnock) said, direct resources to areas of most need. The Government should not waste the opportunity the Bill brings to ensure we can target areas of economic deprivation.
+
+John Penrose
+I am listening carefully to the hon. Lady. I am sure everybody here would agree with the principle of trying to level up, particularly in parts of the UK outside London and the south-east, but can she address the point I was making about politicians having a long and really pretty awful record in picking losers? How does she think that, under her proposal, things are going to be different this time?
+
+Seema Malhotra
+I do not think it is about us picking losers or winners at all. This is about us using the data, understanding where there are areas of greatest need and having that as part of a data-led levelling-up agenda. Given that the Government have created a specific Department for levelling up, Labour is surprised that that mandate is not clear and that the hon. Gentleman does not have the answers he needs to have a framework that gives confidence that we are applying resources to areas of greatest need. To be frank, the Government’s record on that is not very strong. The Bill should be explicit that supporting areas of deprivation should fall squarely within the subsidy control principles.
+
+On improving the way the new regime will operate, there is a serious lack of transparency in the Bill on how public money is spent and how value for money can be assessed.
+
+Kevin Hollinrake
+Does the hon. Lady not agree that the problem with amendment 16—the net zero amendment —is judging what is consistent with the net zero commitments? I have a Westminster Hall debate tomorrow —at 4 o’clock if anybody has nothing better to do and wants to tune in. On greenwashing, for example, it is incredibly difficult to ascertain what complies with net zero when there is so much noise around this. We need to improve in that area. Is this not really a charter for lawyers to take these subsidies to court time and again? Is not that the problem with her amendment?
+
+Seema Malhotra
+I thank the hon. Member for his intervention. We have agreed with many of his amendments. What he has just said actually lends even greater weight to wanting to make sure that that is a consideration and that we have the resources to support that. Perhaps he will talk to those on his own Treasury Bench about this, because we would have hoped that by now there would be a clearer road map for how the country is supposed to move forward to achieving our net zero commitments. He will know as well as I do that many small businesses have been crying out for a road map to net zero to know what can make the most difference, how to assess it and how to look at whether they have a decarbonisation strategy that is fit for purpose. So I think he is lending weight to our argument that we need something in the legislation to help drive the processes behind that. People want answers and want to know they are doing the right thing and making the right investments on our road map to net zero.
+
+I was referring to the serious lack of transparency in the Bill around how public money is spent and value for money can be assessed. There is no requirement to report subsidies below £315,000 over three years. An unlimited number—an unlimited number—of subsidies up to £500,000 could be made under a scheme and not one would need to be reported, as long as the scheme itself apparently is reported. That is not good enough. The argument that this is in order to be consistent with the EU fall because the thresholds in the EU state aid regime were in the context of a very different regime; they were in the context of a scheme of pre-notification, where scrutiny took place before the allocation of the subsidy, not a permissive regime that challenges subsidies after they have been granted. In that context, we must think differently about what we seek to import; we are not importing the whole environment around how those decisions were made in the past.
+
+The Minister has previously stated that we are in a position to be able to change those thresholds—it is not a matter of can’t; it is a matter of won’t. The hon. Member for Weston-super-Mare (John Penrose) said very cleverly: if this is so obvious and the Minister agrees with transparency, why are we not doing it?
+
+During covid, we have seen Ministers wasting money on crony personal protective equipment contracts. I could spend my entire speech talking about this, but my main point is that that would have remained hidden from the public and from Parliament without ongoing freedom of information requests. Transparency on public expenditure—who is paying out, how much is being given, who it is going to and what it is being used for— are basic questions that we should know answers to as a matter of routine on subsidies being paid by our Governments, local authorities or other public authorities. Greater transparency, not less, should underpin the system of self-assessment by public authorities that sits at the heart of the Bill and our responsibility to the taxpayer.
+
+The Centre for Public Data has made it clear that greater transparency would help ensure the honesty, consistency and efficiency of the system. It is also essential that interested parties—be they competitors, other public authorities or groups acting in the public interest—are able to challenge subsidies that they believe are distortive or unfair.
+
+On the subsidy database, we support amendments 1 to 8 on transparency and reducing the threshold for the requirement to report on the database. This includes subsidies made under a scheme referred to in amendment 1. As the Bill stands, subsidies made under a scheme with a value of less than £500,000 do not have to be entered on to the database. There is no convincing reason for that, and it is in the public interest that all subsidies under a scheme be published. Worse still, a scheme can be registered with little information so that there will be no overall transparency for a scheme under which millions of pounds of taxpayers’ money could be spent without scrutiny.
+
+Amendment 8 in the names of the hon. Members for Weston-super-Mare and for Thirsk and Malton amends clause 70, which currently provides that, where a subsidy is made under a scheme, the decision to grant an individual subsidy cannot be reviewed. The amendment suggests that the response given by the Minister in Committee was not reassuring enough.
+
+This set of amendments also reduces the timeframes in which subsidies must be entered on to the transparency database and the timeframes in which any modifications must be uploaded. Members will be aware that the Bill currently requires subsidies or schemes to be entered on to the database within six months of being made or within one year in the case of a tax measure. We argued in Committee that there was a need to reduce those timeframes. Having longer makes it more likely to result in an incomplete or inaccurate entry, because officials may leave or records may be lost. We heard evidence from Jonathan Branton, a legal expert in the area, who said,
+
+“I have yet to hear a…persuasive case for why you need that long to publish…an award.”––[Official Report, Subsidy Control Public Bill Committee, 26 October 2021; c. 58, Q79.]
+
+Amendments 21 and 22 were intended to bring all services of public economic interest subsidies with a value of more than £500 into the scope of transparency requirements. We do not understand why such subsidies—those up to £14.5 million or all those in the case of hospital care, adult social care and certain public transportation services—should be excluded from transparency requirements. With respect to amendment 6, we firmly support the need for the date of the subsidy to be entered on to the database. There should be no ambiguity about the day that the clock starts to tick for the period in which a challenge can be brought.
+
+If the Minister wants to try to argue that greater transparency would lead to higher costs and more red tape for public authorities, that does not hold up to scrutiny either, because they have that information and they are used to reporting their expenditure above £500. That point was made on Second Reading as well by the hon. Member for Weston-super-Mare. When giving evidence in Committee, Dr Roger Barker of the Institute of Directors said that
+
+“there should be transparency at every level of subsidy”.––[Official Report, Subsidy Control Public Bill Committee, 26 October 2021; c. 37, Q48.]
+
+A transparent system is important, but so is the quality of the data contained in it. That is why we tabled amendment 20, which would require the Secretary of State to ensure that the subsidy database is subject to routine audit to verify the accuracy and completeness of entries. That would incentivise complete and accurate reporting and provide a mechanism for putting errors right.
+
+In Committee, we heard clear evidence that the database in its current form contains significant inaccuracies and gaps in the data entered. Expert witnesses suggested that not all subsidies were being entered, as just 501 subsidies were recorded in the best part of 10 months. Of those entries that had been recorded, more than half had a zero or nil value, so either the database is not fit for purpose or the entry of data by public authorities has not been up to scratch—or both.
+
+If the database is not subject to any oversight or control, and if inaccurate or incomplete information entered on to it is not checked, poor-quality information is likely to lead to misguided legal challenges or to harmful subsidies failing to be addressed. We want to be constructive on this point, which is why the amendment is drafted in a way that permits the Secretary of State to decide who should undertake the audits and how they can be done most effectively.
+
+On devolution, this is not a fair four-nations Bill. As it stands, regulations and guidance can be developed without seeking the consent of the devolved Administrations; only the Secretary of State can call for subsidies to be assessed by the CMA; and there are no requirements for the devolved Administrations to be represented on the CMA’s new subsidy advice unit. That is important because we need a system that commands the confidence of all four nations.
+
+The devolved Administrations should be given a genuine voice in developing and implementing the new regime. The Minister’s response in Committee to our concerns and those of the devolved Administrations was that he had had a number of meetings with the devolved Administrations and would keep talking to them. I would be grateful if he could provide an update on those discussions.
+
+
+
+Amendments 23 to 25 would provide Scottish, Welsh and Northern Irish Ministers with the power to call in subsidies or schemes under clause 55. Currently, only the Secretary of State has the power to issue a call-in direction, triggering a report to the CMA. On that basis, the CMA’s reports are not binding on a public authority. The harm of extending the call-in power to the devolved nations is not clear to us. Why is the Secretary of State empowered to call in Scottish, Welsh and Northern Irish subsidies that may damage economic interests in England but the Scottish, Welsh and Northern Irish leaders cannot call in subsidies that they believe can cause economic harm in their nations?
+
+20:00:00
+
+Our amendment 19 would require the Secretary of State to
+
+“seek…consent of…Scottish Ministers…Welsh Ministers and the Department for the Economy in Northern Ireland”
+
+before making regulations under clause 11. The Minister may recognise our amendment as it reflects precisely the equivalent consent mechanism that exists under the United Kingdom Internal Market Act 2020. As Members will know, this Bill is a piece of framework legislation, with lots of questions left to secondary legislation. Clause 11 is important because it allows regulations to be made defining subsidies “of interest” and “of particular interest”. Those important definitions should not be left to secondary legislation, but if they are going to be set by regulation, we believe that the devolved Administrations should be given a formal role in the process of setting the terms.
+
+Amendment 27 would require the Secretary of State to seek the consent of the devolved Administrations before issuing guidance under clause 79 for similar reasons. Our amendment 26 would provide the chair of the CMA board with the power to appoint three non-executive members to the subsidy advice unit to ensure that the unit’s leadership has relevant experience of Wales, Scotland and Northern Ireland.
+
+The purpose of our new clause 3, on the role of the CMA, is to allow the CMA to conduct post-award investigations on subsidies and schemes on its own initiative. There is a gaping hole where payments that are in fact subsidies are not reported as such by a public authority, possibly through genuine misinterpretation of the rules or as part of a wilful attempt to get around them. These may be subsidies that are damaging and distort competition but have not been picked up by interested parties or the Secretary of State, so they can go on unchallenged. The CMA should have the backstop power to be able to carry out an investigation and report.
+
+In relation to that, the Minister may also want to respond to amendment 12 on the definition of “interested party” under the Bill. The proposals establish which parties have the standing to make an application to the Competition Appeal Tribunal to challenge a subsidy. There was considerable uncertainty on that point, which leaves this open to further debate. Does the definition provide standing only to parties whose commercial interests have been affected? We tabled an amendment to include explicitly the devolved Administrations in the definition of an “interested party”. Rather than leaving that to the courts, Parliament’s will should be made clear.
+
+We in the Labour party have taken a constructive approach to scrutinising the Bill. Subsidies are a critical tool to supporting our vital interests, but we need a clearer plan for the use of subsidies and much stronger transparency and accountability on spending public money. If public authorities, our four nations’ businesses and the public are to have confidence in the new system of subsidy control and in the new regime to deliver the outcomes for our economy and society, the Bill requires significant improvement. I hope that the Minister will respond favourably on the points that we have raised today.
+
+The Parliamentary Under-Secretary of State for Business, Energy and Industrial Strategy (Paul Scully)
+I thank hon. Members across the House for the informed debate on the Bill and will try my best to respond to their comments in the few moments that I have.
+
+A number of amendments have been tabled on the topic of transparency, which I take really seriously. My Department is working on a programme of improvements for the subsidy database. To name just two examples, we are resolving the technical glitch that meant that subsidies were uploaded with a zero value. Additionally, we are developing an update to add the data for upload to the information published on the database. Officials will actively look at further improvements over the coming months and in advance of the new regime coming in.
+
+The Government intend to review again the evidence collected as part of the consultation alongside that provided by witnesses to the Committee about the transparency provisions. We will reflect carefully on the points raised so far and engage further on our findings with parliamentarians in both Houses as the Bill progresses. I know the strength of feeling in the House on this matter, and we will consider carefully what further action we could take to address those concerns if they come back in the Lords.
+
+I start with the amendments that would reduce the threshold at which subsidies are uploaded. The transparency provisions seek to minimise the administrative burdens and costs to public authorities while ensuring that information is available on subsidies that must meet the substantive subsidy control requirements. That is an important tool to aid interested parties to challenge potentially harmful subsidies. However, the amendments would create an additional administrative burden for public authorities, including small local authorities. Paradoxically, they could make it harder to identify in the database the most potentially harmful subsidies that are eligible to be challenged in the Competition Appeal Tribunal. Many small subsidies will also be publicly available via other transparency tools. Such data may not be perfectly formatted, but it does go far wider than subsidies.
+
+In relation to services of public economic interest, there was broad support from consultation respondents for the application of different transparency measures. The contracts must meet the specific requirements set out in clause 29. That is why the database requirements are different for those subsidies.
+
+John Penrose
+May I just caution my hon. Friend? I think the paraphrase of his argument about the size of the subsidy database is that big databases are less transparent than small ones. That is clearly bonkers and not right, and I do not think it stands up to any scrutiny. He may be arguing that that is okay because other databases will have the information and that it can all be compared and contrasted, but that works only if the data is in a common format that allows for mutual searching, and there is no such plan for that. May I gently caution him about pushing that argument too far? I do not think it will stand much strain in the Lords.
+
+Paul Scully
+All I would say is that it is easy to hide something in plain sight, but the subsidy transparency database is being developed under the Cabinet Office’s standard system for all Government databases. I have talked before about interoperability, and we would expect to be able to link those databases and to scrape them in the future.
+
+Dr Poulter
+I echo the transparency concerns raised by my hon. Friend the Member for Weston-super-Mare (John Penrose). I welcome the Minister’s commitment to allowing the other place to look at this area, but, to reassure some of us, will he please outline the transparency tools that already exist?
+
+Paul Scully
+I am not sure in terms of transparency tools. What I am saying is that we will ensure that the database is eventually interoperable with other databases. We clearly want the subsidy database to have enough easily accessible, searchable fields to allow people to make meaningful use of the data.
+
+I turn to the amendments that seek to reduce the time period to upload subsidies to the database for both tax and non-tax subsidies to one month. The risk of a deadline as short as a month is that public authorities are more likely to make mistakes. Although it is possible to correct data, that creates an additional administrative burden for public authorities. Inaccurate or otherwise poor data would also undermine public confidence in the database.
+
+A short deadline is particularly challenging for tax subsidies, which are often calculated from the information provided in a tax declaration, which the beneficiary is entitled to change within the 12 months following its due date. That is true, for example, of the Government’s research and development subsidy scheme for small and medium-sized enterprises, where quarterly uploads to the database are planned for the hundreds of subsidies above £500,000 that are awarded every year. Significantly more resource would be required to upload to the database more frequently and to make corrections to previous uploads as required. I note the proposal to require an initial upload of a tax subsidy as an estimate. However, I believe that more changes and revisions to the database would cause confusion.
+
+On auditing the database, I share hon. Members’ desire to make the database as accurate as possible, and my Department is already taking steps to improve data quality. However, a new obligation to subject the database to a routine audit is unnecessary because the system already incentivises accurate entries. Public authorities may not have fulfilled their obligation to make an entry on the database if that entry is not accurate, so the limitation period for a challenge would not start until a correct entry was made. Public authorities must therefore take responsibility for their own data. Ultimately, it would not be a good use of taxpayers’ money to have central Government officials independently verifying every piece of information provided by public authorities. As for the requirement to include the subsidy upload date in the list of requirements for the database that may be included in regulations, I entirely agree that that is useful data. As I have said, we are currently developing an update so that that is part of the publicly available information on the database.
+
+Let me now deal with amendments that raise important points about the nature of the subsidy control regime, and especially about the role of the subsidy advice unit. The SAU’s job is to be an impartial adviser in respect of the most potentially harmful subsidies and schemes. The regime places clear duties on public authorities that are awarding subsidies. It will be for those authorities to assess whether they are compliant with the regime. That is not the SAU’s job. It will only review public authorities’ assessments in a relatively small number of cases that have the potential to be the most distortive. New clause 3 would require the SAU to monitor and investigate subsidy activity, and amendment 9 would require it to list all subsidies annually, whatever their size, along with an assessment of their compliance. Both would involve a fundamental shift in the unit’s role, to an intrusive, investigatory one.
+
+I fully expect that there will be high levels of compliance with the regime, and that public authorities will take their statutory duties seriously. Of course, failure to fulfil these duties would expose public authorities to legal challenge, and would create unnecessary uncertainty for beneficiaries. Members will appreciate the resource burden that monitoring and assessing all subsidies would involve, and will recognise that not only is it entirely disproportionate to the risks that the amendments seek to address, but it would distract from the SAU’s proper focus.
+
+Amendment 26 would allow the CMA chair to make appointments to the subsidy advice unit to bring greater experience in relation to Scotland, Wales and Northern Ireland. The CMA’s staffing is an internal matter, but I note that job vacancies for the new unit are currently being advertised in all four capitals of the UK.
+
+Amendment 8 proposes that subsidies granted under schemes should be open to challenge in the Competition Appeal Tribunal. Schemes represent an important efficiency for public authorities. They allow similar or identical subsidies to be given on the basis of a single, comprehensive assessment against the principles. A scheme should not be made unless the public authority believes that the subsidies given under it will be consistent with the principles. It would therefore be unnecessary for subsidies granted under schemes to be eligible for review by the tribunal. However, if there were a question as to whether a subsidy given under a scheme really met the terms of the scheme, that subsidy could be challenged in the tribunal on the basis that it should be treated as a stand-alone subsidy.
+
+Let me deal next with the amendments relating to the role of the devolved administrations. The UK Government have engaged regularly with the DAs on the design of a UK-wide subsidy control regime, and we will continue to listen carefully to their views. None the less, it is important to reiterate that subsidy control is a matter reserved to this Parliament. That is because we need a UK-wide regime to prevent distortions harmful to competition, and to facilitate compliance with our international obligations. I fundamentally believe that the amendments are inappropriate for a reserved policy matter. The Secretary of State will act in the interests of all parts of the UK.
+
+Amendment 12 concerns who can challenge a subsidy decision. I can clarify that: the devolved administrations, or local authorities, would generally be able to apply for the review of a subsidy when people in the areas for which they are responsible might be adversely affected by it, but there is no reason for the DAs to be able to challenge subsidies that have only a tenuous connection with the interests of people in those areas.
+
+Amendment 10 would allow the devolved administrations to create streamlined subsidy schemes. All public authorities in the UK will be able to use such schemes, but they will function best when they apply throughout the UK. In any case, all public authorities will be free to create subsidy schemes for their own purposes, and primary public authorities, such as the DAs, will be able to create schemes for the use of local authorities and other public bodies within their remit. As for amendment 27, the Bill already requires the Secretary of State to consult such persons as they consider appropriate before issuing any guidance. Attaching a formal consent mechanism to this clause risks delaying the issuing and updating of guidance.
+
+New clause 1 would exempt agricultural subsidies and schemes within the scope of the World Trade Organisation agreement on agriculture from the requirements of the new domestic regime. Having agriculture covered by the same single, coherent framework as other sectors will protect competition and investment within agriculture, while securing consistency for public authorities and subsidy recipients. The Bill’s design ensures that public authorities are empowered to give subsidies that best fit their local needs, whether that means supporting innovation in pharmaceuticals or innovation in farming. I therefore do not agree that agriculture should be exempt from the regime.
+
+Let me now turn to the amendments dealing with net zero.
+
+New clause 2 would require the Secretary of State to report annually on the impact of all subsidies granted in the previous year on the environment and climate change. This would represent a significant administrative burden, not least on smaller public authorities, and would discourage them from granting subsidies in the first place. There are also long-standing existing obligations on public authorities to collect this information in specific circumstances, and therefore this amendment is unnecessary.
+
+Amendment 11 would add another principle to schedule 1 centred on net zero, but net zero is not inherent to all subsidies. A great number of subsidies will not have a meaningful impact on the UK’s emissions. A requirement for public authorities to assess all subsidies against net zero is therefore disproportionate.
+
+Amendment 16 would add an explicit net zero test to the balancing test principle in schedule 1. The terms of the balancing test are not limited to negative effects on trade or investment within the UK, or to international trade and investment, so this amendment is also unnecessary.
+
+Finally, on levelling up, amendment 18 would establish that streamlined subsidy schemes can be made for the purpose of supporting areas of deprivation. The Bill allows the Government to create streamlined subsidies for any purpose, not least for levelling up, so this amendment is unnecessary, but I certainly commit to ensuring that streamlined subsidy schemes collectively support public authorities in delivering levelling-up objectives.
+
+The first subsidy control principle specifies that subsidies should pursue a policy objective that either remedies a market failure or addresses an equity rationale. Clearly, relative economic deprivation would fall into that category, so these amendments are unnecessary.
+
+I am grateful for the constructive engagement of hon. Members on both sides of the House, but I cannot accept the amendments tabled for this debate. Consequently, I ask hon. Members not to press them.
+
+Finally, I thank the team that prepared the Bill: Jamie Lucas, Jess Blakely, Carmen Suarez, Jane Woolley, George Kokkinos, Hannah Swindell, Sam Naylor, Joe Smith, Matilda Curtis, Dharmesh Jadavji, Steve Huntington, Kerry Mattingly, Anthony McDonough, Tim Beaver, Christian Garrard and Josephine Sherwood.
+
+Question put, That the clause be read a Second time.
+
+Division 146
+13/12/2021 20:16:00
+The House divided:
+Ayes: 31
+Noes: 292
+Question accordingly negatived.
+
+Clause 11
+
+Subsidies and schemes of interest or particular interest
+
+Amendment proposed: 19, page 7, line 9, at end insert—
+
+“(4) Before making regulations under this section, the Secretary of State must seek the consent of the Scottish Ministers, the Welsh Ministers and the Department for the Economy in Northern Ireland.
+
+(5) If consent to the making of the regulations is not given by any of those authorities within the period of one month beginning with the day on which it is sought from that authority, the Secretary of State may make the regulations without consent.
+
+(6) If regulations are made in reliance on subsection (5), the Secretary of State must make a statement to the House of Commons explaining why the Secretary of State decided to make the regulations without the consent of the authority or authorities concerned.”—(Seema Malhotra.)
+
+This amendment would require the Secretary of State to seek the consent of the Devolved Administrations before making regulations under this section. Where such consent is not given within one month, the Secretary of State may make the regulations without that consent, but must make a statement to the House of Commons explaining their decision.
+
+Question put, That the amendment be made.
+
+Division 147
+13/12/2021 20:30:00
+The House divided:
+Ayes: 180
+Noes: 292
+Question accordingly negatived.
+
+Schedule 1
+
+The subsidy control principles
+
+Amendment proposed: 16, page 52, line 6, at end insert—
+
+“(c) consistency with the United Kingdom achieving its net-zero commitments established under the Climate Change Act 2008.”—(Seema Malhotra.)
+
+This amendment adds consistency with the UK’s net-zero commitments as a particular consideration for public authorities before deciding whether to give a subsidy.
+
+Question put, That the amendment be made.
+
+Division 148
+13/12/2021 20:42:00
+The House divided:
+Ayes: 178
+Noes: 292
+Question accordingly negatived.
+
+Third Reading
+
+Queen’s consent signified.
+
+20:53:00
+
+The Secretary of State for Business, Energy and Industrial Strategy (Kwasi Kwarteng)
+I beg to move, That the Bill be now read the Third time.
+
+I pay tribute to my hon. Friend the Minister for his leadership and diligence in steering the Bill through this House. I recognise the contribution of all the officials in my Department whose outstanding work has advanced us to this point. I thank you, Madam Deputy Speaker, and your colleagues for all the work you have done. I extend my thanks to all the House staff who have made sure that everything has gone as one might expect.
+
+This Bill is a hugely important piece of legislation. It establishes a subsidy control system that has been designed by and for the UK. It demonstrates the Government’s clear commitment to seize the opportunities arising from Brexit. For the first time, the decision on whether to grant a subsidy will fall to the granting authority itself. At the heart of the regime is a set of clear and proportionate principles that will be underpinned by guidance.
+
+Local authorities, public bodies and the devolved Administrations in Edinburgh, Cardiff and Belfast will be empowered to decide if they can issue taxpayer-funded subsidies by acting consistently with the principles outlined in the legislation. That includes a principle specifically designed to minimise distortions to UK competition and investment. The new regime will help to unlock potential so that all areas of the UK feel the benefits of targeted subsidies. That includes investment in skills, infrastructure, new technologies, and research and development.
+
+With agreement, in Committee, the Government made some technical changes to the provisions to provide clarity in certain areas. Those included ensuring that the transparency requirements apply to subsidies under legacy schemes subject to certain exemptions and that the content of the CMA’s post-award report is consistent with that of its pre-award report.
+
+There has been a thorough debate, including today, about specific elements of the regime. I welcome the recognition on both sides of the House of the need for the Bill. The new subsidy control regime will ensure that the UK maintains a competitive free market economy, which is fundamental to our national prosperity, while protecting the interests of the British taxpayer. The debate will continue through the remaining stages of the Bill as it passes to the other place and we will of course be mindful and attentive to that continuing debate. On that basis, I commend the Bill to the House.
+
+20:56:00
+
+Jonathan Reynolds (Stalybridge and Hyde) (Lab/Co-op)
+It is a privilege to come to the Dispatch Box for the first time as the shadow Secretary of State for Business, Energy and Industrial Strategy. This is an important Bill. On the face of it, it is a technical matter, as our exit from the European Union and single market means that a replacement for the former state aid rules is a legal and practical necessity. However, the debate we have had about how the new regime will be used shows that it is much more important than that.
+
+I thank all hon. Members who have worked on the Bill, particularly my hon. Friends the Members for Feltham and Heston (Seema Malhotra) and for Sefton Central (Bill Esterson) for their work in Committee. I repeat the Secretary of State’s thanks to all the Clerks and ministerial officials for getting it ready.
+
+The current Government’s economic record sadly combines the worst of everything. Our long-term growth forecasts are low, our taxes are high, our productivity is appalling, inflation is growing and our trade is shrinking. In short, the Conservative Government have created a high-tax, low-growth economy, so the country needs a plan for growth if we are to generate the living standards and public services that the British people rightly expect. Therefore, how the powers and responsibilities that are contained in the Bill will be used is of major interest to us all.
+
+I want to see some ambition from the Government—not just big talk, but real delivery. Throughout the Bill’s passage, we have tried to tease out the outlines of their strategy, or some indication of their plans, but we are none the wiser, mainly because they do not seem to know what they want to do. For any industrial policy to be successful, its focus must be the long term and its fundamental objectives should be cross party to give industry and firms the reassurance that they need to invest for the future.
+
+This Government cannot even agree with what former Conservative Governments proposed and adopted as policy just a few years ago. I have still heard no clear reason from them as to why the previous industrial strategy and bodies such as the Industrial Strategy Council have been abolished. It smacks of the fundamental short-termism and lack of seriousness that infects the whole Government. That matters because for the powers contained in the Bill to work, they have to be a part of a coherent strategy. I do not believe that we have that.
+
+I do not believe in corporate welfare; it is not the Government’s job to bail out firms that are not viable or to distort fair competition in markets. But I do believe that there is a huge role for the Government in partnering with industry to meet our national objectives, particularly on net zero. A good example of where that support is needed is our energy-intensive sector, which has a significant carbon footprint domestically but which compares favourably to the same industries in other countries when international comparisons are made. I want to see from the Government a coherent and effective strategy to use the powers in this Bill to support these industries because, without that, all we will do is offshore our emissions by making these sectors uncompetitive. At present, we have a Government who are willing to intervene, but whose approach is best described as completely scattergun. I know some Conservative Members are converts to economic intervention, but they have skipped the part where that intervention needs to be driven by purpose, rather than short-term political expediency. Michael Heseltine put it best when he said that the Government appear to have “no coherent approach” and the Prime Minister is just
+
+“lurching from crisis to crisis.”
+
+That is harsh criticism, but it is fair.
+
+In many ways we will not be able to judge the success or not of this legislation until we have learnt more about how the Government intend to use it. Quite simply, the Government must do better. If they had taken our amendments, and those of other colleagues here today, on board, that would have substantially improved what we are being presented with on Third Reading. It would have given us greater transparency to show where public money is going and a commitment that any subsidies help the UK achieve the net zero targets, and ensured that the nations and regions have the powers they need to make the new regime a success. It is a real regret that those amendments are not part of the Bill, but I hope members in the other place will take these arguments up.
+
+To return to my opening remarks, although the Bill is not the one we would have proposed, it is clearly a necessity. We will therefore not be opposing it on Third Reading. However, in the months and years ahead, it will only have meaning for the British people if it is combined with the kind dynamic and coherent policy agenda that so far has eluded this Government at every level.
+
+21:01:00
+
+Kirsty Blackman
+I want to start with a few thanks. I thank staff member Dr Jonathan Kiehlmann and my hon. Friend the Member for Aberdeen South (Stephen Flynn) for their assistance on the Bill. I also thank—this shows the seriousness with which Scotland treats this—Cabinet Secretaries Kate Forbes, Ivan McKee and Mairi Gougeon, who have all taken an interest in the Bill and in trying to improve it. We recognise that it is an incredibly important regime and we have significant concerns about it. I wish briefly to comment on amendment 19, which we voted for. We did so not because it was perfect but because it would have made the Bill marginally better than it is currently. So the amendment is not something we would necessarily back wholeheartedly, but it is better than the current Bill as drafted. I thought it would be best to make that clear.
+
+The three major concerns we continue to have about the Bill relate to the inclusion of agriculture. Agriculture is not included in subsidy control regimes elsewhere and I do not believe we have heard enough justification from the Minister or the Secretary of State to understand why they have chosen to include agriculture in this scheme. We believe that the scheme is not transparent enough. Indeed, the hon. Member for Weston-super-Mare (John Penrose) tabled a number of amendments to that effect, as did a number of other colleagues across the House. There are significant concerns about the transparency of the subsidy control database in particular, but that also applies to the subsidy regime more widely. I hope that the Government will take these things into account and will consider them as the Bill moves on to further consideration in the other place.
+
+The last issue we have is about climate change, which should form part of the key principles. I know that the principles can be updated, including by future Governments, but, for the Bill to stand the test of time, reaching our net zero targets should have been put at its front and centre. I appreciate the Opposition tabling an amendment to that effect. The Liberal Democrats did the same, as did we. This is so important and we feel that the Minister and the Secretary of State are abdicating some responsibility on that.
+
+Lastly, I wish to thank the Minister for his clarification in relation to interested parties. I very much appreciate him saying what he said at the Dispatch Box on the role of devolved Administrations when it comes to interested parties. That will make a difference to the operation of the Bill and I appreciate that he did that.
+
+21:04:00
+
+Kwasi Kwarteng
+I am very pleased that there have been as many contributions as there have been. I look forward to taking the Bill forward, as does my hon. Friend the Minister.
+
+Question put and agreed to.
+
+Bill accordingly read the Third time and passed.
+

@@ -1,0 +1,256 @@
+ Telecommunications Infrastructure (Leasehold Property) Bill
+
+Consideration of Lords amendments
+
+Clause 1
+
+Code rights in respect of land connected to leased premises
+
+18:59:00
+
+The Parliamentary Under-Secretary of State for Digital, Culture, Media and Sport (Matt Warman)
+I beg to move, That this House disagrees with Lords amendment 1.
+
+Madam Deputy Speaker (Dame Rosie Winterton)
+With this it will be convenient to discuss the following:
+
+Government amendments (a) and (b) in lieu of Lords amendment 1.
+
+Lords amendment 2.
+
+Lords amendment 3, and Government motion to disagree.
+
+Matt Warman
+At the time of the Bill’s Second Reading in the House in early January 2020, it would have been impossible for any of us to foresee the challenges that this country would endure over the following 12 months.
+
+Throughout the pandemic and the lockdowns, this nation’s telecommunications network has provided information and enabled education; it has allowed businesses to operate, children to continue to learn and those in isolation to continue to speak with their families. I take this opportunity to pay tribute to the UK’s digital infrastructure providers, our internet service providers and our mobile network operators. They have stepped up and worked with us to bridge gaps in provision, be that through whitelisting websites, providing data to struggling families or connecting the Nightingale hospitals. They have done Herculean work, and we should all be grateful.
+
+19:00:00
+
+Proceedings interrupted (Standing Order No. 9(3)).
+
+Business of the House
+
+Motion made, and Question put forthwith (Standing Orders No. 15 and No. 41A),
+
+That, at this day’s sitting, the motion in the name of Mr Jacob Rees-Mogg relating to Business of the House (Today) may be proceeded with, though opposed, until any hour and Standing Order No. 41A (Deferred divisions) will not apply.—(Scott Mann.)
+
+Question agreed to.
+
+Proceedings resumed.
+
+Matt Warman
+Members will be aware, none the less, that despite the importance of that connectivity, there are barriers facing infrastructure deployment, and there is no panacea. But there are steps and then strides and then leaps in the right direction, and this Bill is an important one of those steps.
+
+We expect these provisions, which will affect some 10 million people in the UK who live in flats and apartments, to make a real difference to the vital roll-out of better broadband to which the Government remain totally committed. I trust that Members will have seen that a consultation on further potential changes to the electronic communications code has now been published. We will carefully consider whether further legislative changes are necessary as a result of what we learn from that consultation. Crucially, these measures will take into account the interests of those needing greater connectivity, balancing the interests of landowners as well. Just as with the Bill, that balance is crucial to ensuring that we continue to bridge the digital divide.
+
+The House is here to debate three Lords amendments. I will deal with Lords amendment 1 first. The purpose of Lord Clement-Jones’s amendment on Report in the other place was to clarify that people who rent their flat can make use of the policy in the Bill. Earlier this year, when the Bill made its way through this House, hon. Members felt similarly to Lord Clement-Jones, and that sentiment was subsequently shared in the other place. It remains the case that the Bill has always applied to people living in a flat under the terms of any lease. The most common form of tenancy in the UK, assured shorthold, is a lease, and it has never been our intention to provide otherwise. However, we are aware of the strength of feeling, and while, as drafted, Lords amendment 1 would create an inconsistency with the rest of the electronic communications code, the amendment I am moving clarifies that people who occupy a property under a lease are able to make use of this policy, and it does so in a way that avoids legal ambiguity by clarifying the definition of the lease in the electronic communications code to ensure that that definition includes, for example, any tenancy.
+
+I also encourage the House to agree with Lords amendment 2, tabled in the name of the Minister, Baroness Barran, on Third Reading in the other place in the light of concerns that have been raised there—and, indeed, here—regarding anti-competitive behaviour. It protects competition in the market and ensures that those installing infrastructure do not do so in a way that would prevent a subsequent operator from installing their own apparatus.
+
+I now turn to the main business, which is really in Lords amendment 3. This amendment would add a new clause to the Bill requiring the Secretary of State to commission a review of the impact of the Bill on the electronic communications code, including an assessment of whether the code is sufficient to support 1 gigabit broadband roll-out to every premises by 2025, and further requiring that separate assessments be made of whether the code should be amended to introduce a number of rights, which I will come on to in a minute.
+
+I am grateful to members of the other place for bringing forward the amendment, which the Government understand aims to provide transparency, but those good intentions would none the less introduce some impractical and unnecessary measures to the code that fall outside the purpose of the Bill and, indeed, the code itself. The code is a framework for regulating agreements between landowners and telecoms operators for the installation and maintenance of communications equipment on public and private land. The code is technology-neutral. It is simply not possible to judge whether the code supports access to 1 gigabit broadband because it is not designed to facilitate solely gigabit-capable connections; it is about access to land to facilitate installation, maintenance and upgrading.
+
+That said, while it is logical to assume that, with the market currently deploying those connections, the provisions in this Bill will be used for deployments of those connections, they may equally be used for superfast, ultrafast or other services. The only basis on which to judge the code is to examine the availability of all types of connections. That is why Ofcom, the independent regulator, publishes its annual “Connected Nations” report, which provides a wealth of information on fixed and mobile connections. Should Ofcom raise questions, the Government continue to provide answers in the House and the other place. The report shows progress in 4G and 5G.
+
+Furthermore, there are also other established means of scrutiny through Select Committees. In the past three months, there have been a number of reports from various Select Committees. Hon. Members can rest assured that the Department’s feet are being firmly and regularly held to the fire. Ministers, of course, always relish that process.
+
+The amendment moves on to matters relating to the powers of gas, water and electricity suppliers. The Government recognise that further changes to the code may be required if it is to support the achievement of our coverage and connectivity targets effectively. Shortly before the Bill’s Third Reading in the other place, the Government published a further consultation on possible changes. I encourage Members to respond to that consultation. I am sure they will appreciate and understand the importance of respecting a person’s right to enjoy their property peacefully, so any intervention that seeks to interfere with property rights must be proportionate and justified. The new consultation seeks those reports until 24 March.
+
+Additional permitted development rights are a planning matter and an issue not for this Bill or the electronic communications code. I am sure that many Members know that telecoms operators are afforded significantly more flexibility in how they install their infrastructure. That includes, for example, permitted development rights and exemptions from a number of requirements to request planning permission. That is why my Department continues to work very closely with colleagues in the Ministry of Housing, Communities and Local Government. In August 2019, we launched a joint consultation with MHCLG regarding potential reform of permitted development rights. The Government published our response in July 2020, and, subject to a technical consultation, we will take forward proposed reforms. We expect to publish that consultation in spring this year.
+
+Encouraging telecommunications operators to undertake infrastructure works alongside other works was another issue raised. It relates to the co-ordination of streetworks to promote greater collaboration between telecoms providers, local authorities and the suppliers of gas, water and electricity. My Department has worked closely with the Department for Transport on a number of areas of mutual interest, and it will continue to do so.
+
+In 2020, the Government released a new street manager digital service—the largest update to streetworks in a generation—that has already helped to simplify and improve the planning and co-ordination of works throughout England. That is vital for the deployment of broadband. I hope that hon. Members recognise that streetworks are a transport issue, and not a matter for this Bill or the electronic communications code. It should be noted, furthermore, that roads are a devolved matter and therefore should not be considered in legislation that relates to the reserved matter of telecoms, as this Bill does.
+
+Although we absolutely appreciate and understand that this is a well-intentioned amendment, it is, as I have outlined, none the less impractical. It seeks details on matters outside the code’s competence to provide, such as gigabit connections, and improved planning and streetworks. I hope hon. Members are none the less reassured by the recent publication of the Government consultation, which seeks responses on whether further changes are required to the electronic communications code. I also hope they trust that the Government stand ready to look at the evidence that is made available and act where the need to act is demonstrated. We are hopeful that, once the responses are received and considered, we will have an even more informed idea about the way forward to support the delivery of connectivity and the role that the Government should play in relation to that. I ask the House to disagree with amendment 3.
+
+I thank all hon. Members who are down to contribute for taking an interest in this vital issue. Parliamentary scrutiny is an important part of our commitment to rolling out the broadband that all our constituents deserve across the country. I look forward to hearing the subsequent debate.
+
+Chi Onwurah (Newcastle upon Tyne Central) (Lab) [V]
+I begin by thanking colleagues in the other place who have worked so hard to improve the Bill—and for longer than many would have expected, as the Government delayed the Bill until they thought they could resolve their Back Benchers’ concerns on the human rights amendment. That continues to ping-pong as part of the Trade Bill, but I hope we can now move quickly and decisively to resolve the matters of telecoms infrastructure.
+
+The pandemic has shown us how important good fast stable broadband is, with so many people currently depending on it to work from home and stay in contact with friends and family. It is just over a year since I stood at the Dispatch Box for the Second Reading of the Bill and argued that broadband was a vital utility. The pandemic has proved that beyond doubt. I join the Minister in paying tribute to the infrastructure providers who have supported our connectivity at this difficult time, while recognising how much still needs to be done to close the digital divide. I am pleased that the Lords amendments we will be discussing today reflect the issues that Labour has been raising consistently at every stage of the Bill.
+
+The first amendment removes ambiguity over the definition of a lessee and expands the scope of the Bill to be more inclusive with regard to tenants. The amendment would ensure that introductory or probationary tenancies in local authority housing, flexible or joint tenancies and demoted tenancies were all covered. Labour first raised this as amendment 2 on Report, and the Liberal Democrats tabled an amendment in the Lords. This has been replaced by the Government amendment in lieu, with parts (a) and (b) making technical changes to avoid contradictions between this Bill and the Communications Act 2003. We welcome that, but we are concerned that the Government missed this issue, leaving it for others to raise. The interests of tenants as well as those of leaseholders must be kept in mind.
+
+The Government’s amendment, Lords amendment 2, is based on Labour’s amendment 3 on Report. Labour is the party of business, and we are keen to remove barriers  to competition and interoperability, and to encourage a competitive market. However, we feel that the Government’s changes to this amendment mean that it does not go far enough.
+
+As the Bill stands, one operator can technically “capture” a building, locking the residents into its service. The Government amendment seeks to ensure that this cannot happen, and the option for diversification is left open. However, it does not encourage deployment and inter- operability. Labour is pleased that the Government have offered concessions on competitiveness and inter- operability, so we will not oppose this amendment as we consider it a gesture in the right direction. However, UK businesses and consumers deserve more than gestures. They need real action to promote competition, and the Bill was a chance for the Government to do that.
+
+Finally, Lords amendment 3 is Labour’s new clause. This has been designed to provide accountability and transparency via a review of the impact of the Bill and the sufficiency of the electronic communications code to support gigabit roll-out. Labour believes that this is vital to ensure that the mechanisms in the Bill are robust and well resourced enough to ensure that legislation does not fail when it makes contact with reality. We do not want to be back here with further legislation after more wasted years for our telecoms infrastructure. This amendment provides the mechanisms to empower the Government to meet and assess their roll-out targets. The Government tell us that the Bill is just about freeholders, but it is clearly part of a larger puzzle. Indeed, the noble Lord Parkinson confirmed that, stating that the Bill was
+
+“one discrete instrument in the Government’s overall strategy”—[Official Report, House of Lords, 2 June 2020; Vol. 803, c. 1331.]
+
+We must know, first, what that strategy is and, secondly, how this Bill is contributing positively or negatively to the telecoms landscape. The Minister said that this would undermine technology neutrality, which is somewhat rich, given that the gigabit ambition was a technologically neutral downgrading of the Prime Minister’s original fibre ambitions.
+
+19:15:00
+
+The Minister also mentioned the Government’s recently launched consultation on changes to the electronic communications code, but that consultation is hemmed in by Department for Digital, Culture, Media and Sport issues. As he indicated, it also fails to go into details about planning permission, streets and pathways, or to anticipate issues associated with antennas on houses or church steeple-tops. Those are real, practical issues that we do not have a mechanism in the Bill for predicting and addressing. Labour’s amendment will plug the holes in the consultation and allow the Secretary of State to take a wider view of the issues broadband roll-out faces.
+
+The Government keep changing their targets and rolling back on their commitments, and are notoriously slow at bringing forward meaningful legislation. We do not know the Government’s overall strategy for roll-out. We do not know whether there are long-term plans to support sovereign providers. We do not know whether OneWeb will play a part in broadband provision—and we do not know whether we will ever get answers to these questions! Labour’s amendment would ensure that we know where we are today and can accurately determine where we need to invest tomorrow.
+
+In closing, let me say that Labour has consistently welcomed this Bill throughout its stages, but it will play a very small part in improving our digital infrastructure. There is so much more to be done, and we feel this could be done more quickly. This Government have no idea how they will achieve their broadband roll-out targets. Given their track record, we do not even know whether the targets will still be the same in a year’s time. This is why we need a clear strategy that provides direction and focus to businesses, healthy competition and lower prices for consumers.
+
+Mr Tobias Ellwood (Bournemouth East) (Con)
+It is good to see the Under-Secretary of State for Digital, Culture, Media and Sport, my hon. Friend the Member for Boston and Skegness (Matt Warman), in his place, discussing telecommunication matters again—it does not seem a long time ago that we were debating the whys and wherefores of Huawei. I am pleased to support him in encouraging us to ensure the completion of this Bill, albeit of course with due scrutiny, because it is well overdue. It seeks to establish a new security framework for the UK telecoms sector, and to ensure that telecommunications providers operate secure and resilient networks and services and manage their supply chains.
+
+The Minister mentioned just how fundamentally this will change all our lives—how we live, work, socialise, travel and manufacture things. He is right to focus on how these difficult times of the pandemic have illustrated the importance of connectivity. It is all the more important that we are able to get Britain connected.
+
+The Bretton Woods agreement after the second world war saw trading links—roads, ports and airports—deemed a priority so that we could get trade and the economy moving. As we come out of this pandemic and endure the recession, our digital economy will mean so much to our ability to advance and get back on our feet. I very much welcome the energy the Government are putting in here today.
+
+I mentioned Huawei, but there is a wider dimension to this. Britain is in competition with other parts of the world, not least China, in making sure we have the high-tech digital capabilities to meet our future needs. The Bill is about not only putting in place protections against a country we are obviously in challenge with—China—but making sure we protect ourselves. The digital sphere provides not just opportunities but vulnerability to cyber-attacks; disinformation campaigns; interference, even in elections; manipulations on social media; data theft; and so on. The importance of security in communication links is paramount, and the longer we delay the Government’s being able to get on with this, the longer we have to lean on the older systems, which are very vulnerable indeed.
+
+The Government’s target is to deliver nationwide gigabit-capable broadband by 2025. When he winds up the debate, will the Minister update the House on the ambitions for gaining full access to dwellings? I note with interest that gigabit availability is at only 16% in Bournemouth, so we would be delighted if the south-west, which, at 18.6%, is again below the national average, could receive support.
+
+With your indulgence, Madam Deputy Speaker, I will digress from the main theme of the amendments and pose what I call the Rockefeller question, which is related  to data. Rockefeller, of course, was the multibillionaire who formed Standard Oil. It took a US President, more powerful than Rockefeller, to stand up and break that monopoly. Arguably, today’s tech giants are replacing those monopolies of the 1900s, and that poses some awkward questions for all of us—for Government and society. The likes of Google and Facebook dominate the digital world. They now own 80% of the advertising market alone here in the UK. That poses big questions about how data is harvested, about the levels of tax paid, and about the stifling of fair competition. Those difficult questions must be answered. I appreciate that they are beyond the scope of the Bill, but it is important to get them on the record.
+
+Ronnie Cowan (Inverclyde) (SNP) [V]
+It is always a pleasure to speak in the House on behalf of the Scottish National party. Telecommunications is a reserved matter, and we have continued to engage constructively in refining the Bill from our part of the Opposition Benches. As I have previously highlighted in the Chamber, it is for the UK Government to ensure that our digital infrastructure is appropriately protected and managed as a key component of Scotland’s future economic success and of our position as a global leader in technology. Never has the importance of digital connectivity been more sharply brought into relief than during the ongoing pandemic. The fact that I am delivering a parliamentary speech from my home is evidence of this necessity.
+
+On that note, I reiterate that the SNP supports the general aims of the Bill and wants to see it successfully implemented, with the appropriate amendments. I read with interest the recent debates on amendments proposed to the Bill in the Lords. Although the first amendment, in the name of Lord Alton, was withdrawn, I do not want to pass over it without making a quick comment. The purpose of the amendment was to prevent companies using UK telecommunications infrastructure to facilitate human rights abuses. The amendment was obviously not an accusation against Virgin Media, BT or others of having nefarious motives in allowing us to watch Netflix at home. Rather, it touched on a recurring theme in the Bill: our concern about the expanding tech influence of the Chinese Government.
+
+I will not go over the debate on that amendment in detail, as Members can read it in Hansard. However, although the amendment was withdrawn, let us keep the spirit of it in mind. As the world becomes interconnected to an unprecedented degree, we must be vigilant about how our technology can inadvertently support abuses taking place elsewhere. Let us also take Lord Alton’s amendment as a worthy attempt to draw more attention to the increasingly disturbing evidence emerging from China regarding human rights abuses.
+
+Not wishing to digress too far, I turn my attention to Baroness Barran’s amendment, relating to uncompetitive behaviour and a review of the Bill’s impact on the electronic communications code. The Scottish National party broadly welcomes this principled amendment, which would introduce sufficient measures to ensure that residents in multi-dwelling accommodation could access connectivity from the provider of their choice. Infrastructure provided by one supplier should not prevent  a subsequent provider from installing their own service within the same building. Concerns were raised in the Lords about whether the amendment was necessary. Given that 10 million people could be affected by this legislation, there is no harm in taking a comprehensive approach. Some 76% of multi-dwelling units missed out on the initial efforts to deploy fibre because of problems in gaining access, so it should be self-evident to everyone in the Chamber that we must improve access and consumer choice.
+
+Let us not pretend that previous amendments have created a perfect Bill. Industry experts have raised concerns that the legislation does not go far enough in providing flexibility for network operators. BT in particular is concerned that the bar set for a landlord to be classified as engaging with the network builder, and therefore not be subject to the Bill’s provisions, is far too low. Likewise, Virgin Media is seeking further clarity on the definition of “meaningful response” in relation to landlords’ communications with operators.
+
+Questions have also been raised by operators on the balance the Government are seeking to create between the rights of landowners and the rights of telecoms operators. What does this mean in practice? Why would affording an operator the right to ask a court to grant access, independent of a tenant request, be against the public interest, especially if it ensures that tenants are given access to digital connectivity that may not have existed previously?
+
+As the Minister will be aware, many utilities already have the right, with appropriate safeguards, to enter a property in order to maintain infrastructure. Do the Government agree with the future telecoms infrastructure review’s recommendation that telecoms operators’ right of entry should be brought in line with that of other utilities?
+
+Of course, the process should be reviewed as per Lords amendment 3. If we are to achieve continual, irreversible improvement, the process must remain open to review. The Bill is now at such a late stage that I suspect some operators have effectively given up on seeing it reformed further, and they are merely accepting legislation that does not meet its full potential. Clearly, operators welcome this progress, but the industry is asking for greater clarity and engagement. It is unfortunate that the operators are still asking the Government to confirm basic definitions in legislation that is on the brink of becoming law.
+
+Looking ahead, undoubtedly the consultation on changes to the electronic communications code is a primary way to build on the improvements that will come from this Bill. As the Government move ahead with the legislation and the review, it is vital that they consult more closely with relevant actors in the sector. After all, the telecoms operators are the only ones with the practical knowledge to make a success of the Government’s long-term ambitions for digital connectivity.
+
+Jamie Stone (Caithness, Sutherland and Easter Ross) (LD) [V]
+Greetings from the far north of Scotland. I would like to put on record my thanks to my excellent Speaker’s intern, Mohamed; without his patience in explaining to me exactly what “gigabit-capable” means, I probably would not be quite as knowledgeable as I hope I am on these matters.
+
+Clearly, my party and I welcome the Government’s commitment to speeding up gigabit-capable by 2025, but of course that takes us to 85% coverage. What we really need is 100% coverage, so I still await something better than 85% coverage.
+
+Secondly, the involvement of private companies is noted, but of course there are areas of Scotland that—how shall I put it?—are less commercially viable for such firms. My constituency of Caithness, Sutherland and Easter Ross in the far north, and perhaps the highlands and islands in general, might be rather lacking when it comes to what private companies can do.
+
+I also note that the Government are saying that they will commit real money, as opposed to there being private investment. Madam Deputy Speaker, you have heard me talk many times about connectivity in my consistency, and I make no apologies for saying that I will keep a very close eye on what actually happens in terms of Government money, as opposed to private investment, to make sure that the highlands are not disadvantaged.
+
+Of course, we have a mixture at the moment. I have previously made jokes in the House about our having zero G in some parts of my constituency. We have 4G and 3G, but it needs to be improved right now, because what we have is not adequate. Such regional disparity is unfair on my constituents.
+
+I welcome Lords amendment 1, which was tabled by my noble Friend Lord Clement-Jones. It is hugely important that tenants and other legal occupants in exclusive possession be within scope of the Bill. We wait to see what happens on that one.
+
+Lords amendment 3 is fully supported by my party. Of course, a review is vital in assessing the impact of the legislation, but I understand that the Government will not be supporting the amendment, which I regret.
+
+My maiden speech in this place three and a half years ago was about connectivity, which is a subject, as I said, that I return to again and again. As the hon. Members for Newcastle upon Tyne Central (Chi Onwurah) and for Inverclyde (Ronnie Cowan) said, the very nature of my speaking to the Chamber via Zoom right now demonstrates the fact that connectivity and the ability to do this has been crucially important during the pandemic. Thinking of the future, if we are to punch to the best of our ability in challenging circumstances post Brexit and post the pandemic, mobilising our resources and our abilities will be absolutely crucial, and connectivity will be part and parcel of that. At the end of the day, my plea is that nobody in the United Kingdom should be disadvantaged in this regard because of where they live.
+
+19:30:00
+
+Christian Wakeford (Bury South) (Con)
+The last time I spoke on this Bill, I was waxing lyrical about Radcliffe, Whitefield, Prestwich, Ainsworth and Simister in my constituency, because it was my maiden speech. Unfortunately the Minister was rather confused as to whether I was supporting the Bill because of the number of times I had to namecheck which Bill I was speaking on.
+
+I will be extremely brief because there seems to be a level of consensus and the Bill is extremely narrow in what it seeks to address. While I fully understand the premise behind it, Lords amendment 1 is not necessarily needed, so I would not be in a position to support it. As for Lords amendment 3, the Bill is so narrow that it does not need it. As regards the technology being put in by suppliers, that is not often done anyway. As far as I am aware, the Kingston area of Hull, where there is a monopoly in the market because of the local exchange, is the only area where there is that level of in-built monopoly. However, with the expansion of boundless and satellite broadband, this is progressing. Gigabit connectivity, which my hon. Friend the Minister mentioned, was important when we were discussing this just over a year ago, and it is even more important now in terms of our access to being able to work from home and learn from home—in fact, being able to do almost anything from home. The past year has shown the importance of that.
+
+Agreeing to any of these amendments would prolong the Bill’s journey through both Houses, and we cannot afford for that to be the case for such a narrow Bill. I will support amendment 2 but hopefully we will not divide on amendments 1 and 3.
+
+John Nicolson (Ochil and South Perthshire) (SNP) [V]
+I, too, will be brief, because my hon. Friend the Member for Inverclyde (Ronnie Cowan), who led for my party, made several astute points on the Bill.
+
+The pandemic has shone a light on how essential good broadband is for so many people’s lives. Businesses are often the focus, but we should not forget the role that a steady wi-fi connection can play for residential communities in preventing loneliness through, for example, the ability to attend online classes, watch online events, or video chat with loved ones. In my own constituency of Ochil and South Perthshire, the number of people unable to access decent broadband is nearly three times as high as the UK average, and constituents frequently write to me saying that they cannot make a living during the pandemic because of the poor connection. For example, one constituent now forced to teach the violin over Zoom often cannot do so because his connection is too poor. Living in rural areas should no longer be an excuse for inadequate connection.
+
+This Bill is essential. It will lead not only to gigabit-capable broadband roll-out but to Scotland’s R100 programme. I note that the UK Government have retreated from their full-fibre manifesto commitment. Industry and consumers will be disappointed, but at least they now have clarity. I look forward to seeing the Bill progress.
+
+Shaun Bailey (West Bromwich West) (Con) [V]
+In line with the sentiment across the House today, I will attempt to keep my comments as brief as possible, and I will confine them to Lords amendments 2 and 3. However, with your indulgence, Madam Deputy Speaker, I would like to make a brief comment about the broader point of the Bill.
+
+As my hon. Friend the Minister pointed out, and as many other hon. and right hon. Members have pointed out in this debate, access to fast broadband and a stable internet connection is vital. I want to talk about my community, because we have seen during this pandemic the need for a stable internet connection. I know from the correspondence I have received from teachers and parents who have not had that, where children have had to access the internet via a parent’s mobile phone to do their work, that the Bill is necessary.
+
+I want to pay tribute in particular at this time to my schools, which have met the challenge of the digital divide—particularly the amazing team at Summerhill Primary Academy in Tipton, who have gone above and beyond to ensure that our most vulnerable students can still access education. That absolutely demonstrates why the Bill is necessary.
+
+Lords amendment 2 is simple: it is about ensuring that someone’s access to the market should not depend on where they live. A competitive and open marketplace and the ability to access various providers is essential to ensuring access to a decent internet connection. It is right that where someone lives or where they are residing should not influence their access to a competitive internet supply. In my region of the Black Country alone, there are roughly 174 properties that will be impacted by the Bill, and more than 3,000 people more widely. Lords amendment 2 is welcome and I most certainly support it; I think it is the right one.
+
+However, as my hon. Friend the Minister pointed out, the substantive amendment here is Lords amendment 3, which provides some food for thought. The sentiment behind the amendment, which requires the Secretary of State to provide a review of the Bill’s impact on the telecommunications code, in terms of whether the code is sufficient to support access to 1 gigabit per second broadband, is interesting.
+
+The Government have been clear that the Bill is not a panacea; it addresses a very specific issue. The wider gigabit connectivity agenda needs its own legislative framework and its own level of scrutiny. My hon. Friend the Minister pointed out that the House has many mechanisms by which we are able to scrutinise the roll-out of that agenda, so I question whether Lords amendment 3 is necessary, given the various mechanisms that we have to hold the Government’s feet to the fire.
+
+However, I am interested in some of the principles in the amendment, in particular the idea of rights of access for operators, akin to what we see for water, gas and electricity. The amendment recognises—I think this is a point that we all agree on across the House—that broadband connectivity and an internet connection will be just as vital as we come into this new economy as water, gas and electricity. It triggers an interesting debate and, I believe, a conversation that we are going to have for years to come as this develops.
+
+I am conscious of time and my promise to keep my contribution brief; I would never wish to mislead you, Madam Deputy Speaker. At its heart, the Bill is about communities. Communities such as mine, which wish to aspire and achieve, need access to a basic, stable internet connection. Considering that 90% of job applications are based online and that the internet economy in the UK is worth around £180 billion, for me this issue is simple. It is vital for my communities in Wednesbury, Oldbury and Tipton that they have access to the opportunities that they have missed out on for far too long, and I believe that the Bill, and particularly the Government amendment, Lords amendment 2, allows that.
+
+Tim Farron (Westmorland and Lonsdale) (LD) [V]
+I too wish to support the Bill and the amendments made in the other place. I am deeply concerned, though, about the practice of the Government’s moves to meet their own self-imposed universal service obligation.
+
+In my constituency, we are looking at around 1,000 properties—domestic properties, never mind businesses—that will not meet the USO. Indeed, even when we factor in those properties that can be supported via 4G to receive that kind of basic broadband connectivity, hundreds of properties in places such as Coniston, the Langdales, north Windermere, Ambleside, Hawkshead and Cartmel Fell are left still unable to access the Government’s targets or avail themselves of them, and have no source of appeal and no form of redress. The only thing they can do about it is to shell out tens of thousands of pounds of their own money, if they are able and willing. It turns out that the Government’s universal service obligation is not universal, and is not an obligation. That is going to, and does, hit rural communities such as ours all the more.
+
+I am also concerned that, as has been mentioned by others in this debate, the Government’s commitment to full fibre roll-out has fallen by the wayside to a significant degree, and a breaking of manifesto promises is now clearly taking place. The commitment to £5 billion being spent in this Parliament has dropped to less than a quarter of that amount—less backhaul, more backsliding. That is deeply concerning for rural communities such as ours that thought they could rely on the promise that was made to them. The Government’s reappraising of its targets—that is, the breaking of its promises—will mean that rural communities such as mine miss out the most, which is deeply regrettable. Through conversations with BT and others, we now calculate that nearly half of my constituents will not get ultrafast full fibre broadband for at least another decade. That is not acceptable, and not in keeping with the spirit of this Bill.
+
+I will focus on two final points. The first is that our experience during this pandemic tells us something very important about the nature of work. Here I am, speaking to Members from Milnthorpe in Cumbria while simultaneously being in the House of Commons. People working at home and making use of broadband connectivity has been transformative, and in one sense we are very grateful to be in this situation at this time, when we have this technology available to us. Imagine what it might have been like 20 or so years ago, when this technology was not available!
+
+However, with so many more people working from home, we begin to realise that the Government’s fixation and focus on download speeds is somewhat misleading—maybe not intentionally, but it is misleading. For so many people in business working from home, it is upload speeds that matter. They are the benchmark of whether or not we are genuinely, properly connected. I can think of people in our big town of Kendal with upload speeds of less than one megabit per second, who are meant to be working from home, running companies of many dozens of people with large turnovers. That is not conducive to communities like ours. I have one of the most entrepreneurial communities in the country, with one of the highest numbers of people working for themselves when compared with any other community elsewhere in the United Kingdom. We are really proud of that, yet the Government hobble us by not having ambitions that are ambitious enough to allow people to work from home and within their communities, and to enable them to contribute to our economy. Let us focus on the reality of connectivity and realise that the Government’s own ambitions are still very unambitious, given the new world that we find ourselves in.
+
+My final point is this: we are very proud of, and very grateful to, our mountain rescue services, and indeed all our emergency services here in the lakes and the dales. Only recently, a leading member of our mountain rescue teams here in the Lake district suffered very serious injuries rescuing a member of the public, and we remember how vital their service is, both the service given voluntarily by the mountain rescue services and that given by the professional emergency services. We owe them so much, and one of the things we owe them is decent connectivity. In three parts of my constituency, and in many other parts of the country, we have promises from the Home Office for new emergency service masts. In my community, that means the Langdales, Longsleddale, and Kentmere. Those Home Office masts are vital to the safety of people in those communities, and to the emergency services that often operate in those communities. They are also vital because they then provide a platform for commercial delivery for mobile telecommunications in vast, underpopulated—but not unpopulated—areas.
+
+The Home Office continuously puts off the erection and bringing into operation of the Longsleddale, Kentmere and Langdale masts. At the moment, we understand that the Home Office has no plan to activate those masts for another three or four years. Will the Minister put strong pressure on the Home Secretary to act swiftly to make sure that our emergency services, the people they come to aid and the wider community in the lakes have the benefit of those masts and have them quickly?
+
+Jim Shannon (Strangford) (DUP)
+I am pleased to see the Minister in his place. The Bill is very important, and I welcome it. The Bill and the Minister’s direction of it have given us a chance to tidy up the process, and it does just that. I support the aim of the Bill to tackle absent landlords impacting on broadband, to ensure that they face a greater obligation to facilitate the deployment of digital infrastructure when they receive a request from their tenants. That is in-built, and I support ensuring that tenants are not waiting months to get a simple permission or access.
+
+19:45:00
+
+Over the years, I have heard many concerns and complaints from constituents in relation to broadband access. A great many of my constituents are self-employed, working from the countryside, and they need the most up-to-date broadband access more than ever. The Bill points us in that direction. At this moment in time, BT is progressing broadband access in Greyabbey and Kircubbin, in the area where I live. Unfortunately, the access and the speed of it may not be exactly what everyone wants, so there is a lot more to do.
+
+In this world of technology, it is imperative that all those who need them have access to the fastest speeds. As displayed recently, at-home ability to access a fast and reliable network is essential. While I understand the sentiment behind the Lords amendments, I believe that the provision of a quicker, cheaper court process following a request notice, two warnings and a final notice—all within six weeks, after which operators can apply to the court for interim access rights, which may endure for up to 18 months—most certainly ensures that owners understand their legal obligation and the clear timescale, and sends the message that this is a right of any tenant and not a privilege. The Bill achieves that and is a massive step forward.
+
+Matt Warman
+I will address the number of interesting points that have been raised.
+
+The hon. Member for Newcastle upon Tyne Central (Chi Onwurah) raised a number of interesting points. She talked about satellite broadband and a broader strategy for this Government’s vital gigabit ambitions. The Opposition are right to raise those issues, but I humbly suggest that they also know that this Bill is not the place to put a wide-ranging review of the Government’s gigabit strategy. They will get that strategy in short order, but I think they know that this is not the place to insert that review. I hope that they will not seek to turn the Bill into a Christmas tree, as has previously happened, but I have huge sympathy with the hon. Lady and look forward to providing her with the detail that she craves.
+
+A number of Members made points on broader connectivity. Whether it is the issue that my hon. Friend the Member for Bury South (Christian Wakeford) raised in his maiden speech or the communities that my hon. Friend the Member for West Bromwich West (Shaun Bailey) mentioned, people have been held together in a way that we had not envisaged before the pandemic, and now we realise that connectivity is essential for that sense of community.
+
+The hon. Member for Inverclyde (Ronnie Cowan) raised issues around definitions. The drafting of the Bill and our consultation on the electronic communications code are specifically to address those legitimate issues he raises, but we do not envisage them arising in practice. The hon. Member for Westmorland and Lonsdale (Tim Farron) is absolutely right that the USO does not function perfectly; Ofcom is investigating it. He is absolutely right that the emergency services network is a core part of the ambitions of the Department for Digital, Culture, Media and Sport to deliver a shared rural network, and we are engaging intensively with the Home Office on that. I remember being involved in an incident myself at the top of Scafell Pike, where we had to descend the mountain in order to get mobile phone signal to call a helicopter, which thankfully came rather quickly, but would have come earlier had we had a signal on the top of that mountain.
+
+Finally, let me address the international issues that were raised by my right hon. Friend the Member for Bournemouth East (Mr Ellwood). The global role of the UK’s potential as a leading digital economy is well documented, and Bills such as this are part of our ability to make the very most of those ambitions. We will use this as a small piece in the puzzle, and it is a part of that broader strategy that we will be delivering to the House as soon as we can. He also tempted me to talk about broader tech monopolies, but because this is a small and tightly drawn Bill, I will resist that temptation.
+
+I thank the Bill team and all the officials across many Departments who have worked so hard over the past year to reach this stage. It will help people up and down the country to access the digital services that they need, and I commend it to the House.
+
+Lords amendment 1 disagreed to.
+
+Government amendments (a) and (b) made in lieu of Lords amendment 1.
+
+Lords amendment 2 agreed to.
+
+Motion made, and Question put, That this House disagrees with Lords amendment 3 .
+
+Division 235
+24/02/2021 19:52:00
+The House divided:
+Ayes: 365
+Noes: 264
+Question accordingly agreed to.
+
+Lords amendment 3 disagreed to.
+
+The list of Members currently certified as eligible for a proxy vote, and of the Members nominated as their proxy, is published at the end of today’s debates.
+
+Motion made, and Question put forthwith (Standing Order No. 83H), That a Committee be appointed to draw up Reasons to be assigned to the Lords for disagreeing to their amendment 3;
+
+That Matt Warman, Maria Caulfield, Scott Mann, Bambos Charalambous and Ronnie Cowan be members of the Committee;
+
+That Matt Warman be the Chair of the Committee;
+
+That three be the quorum of the Committee.
+
+That the Committee do withdraw immediately.— (David T. C. Davies.)
+
+Question agreed to.
+
+Committee to withdraw immediately; reasons to be reported and communicated to the Lords.
+
+Madam Deputy Speaker (Dame Rosie Winterton)
+In order to observe social distancing, the Reasons Committee will meet in Committee Room 12.
+
+Business of the House (Today)
+
+Ordered,
+
+That, at this day’s sitting, the Speaker shall put the Question necessary to dispose of the Motion in the name of Bill Wiggin, on behalf of the Committee of Selection, relating to the nomination of Members to the Select Committee on the Armed Forces Bill not later than one hour after the commencement of proceedings on the motion for this Order; the Motion may be proceeded with, though opposed, after the moment of interruption; and Standing Order No. 41A (Deferred divisions) shall not apply.—(David T C Davies.)
+

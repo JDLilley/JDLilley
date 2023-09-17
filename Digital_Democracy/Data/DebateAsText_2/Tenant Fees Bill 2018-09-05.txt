@@ -1,0 +1,1122 @@
+Tenant Fees Bill
+
+Consideration of Bill, not amended in the Public Bill Committee
+
+Clause 1
+
+Prohibitions applying to landlords
+
+14:49:00
+
+The Parliamentary Under-Secretary of State for Housing, Communities and Local Government (Rishi Sunak)
+I beg to move amendment 5, page 2, line 17, after “(c),” insert—
+
+“() requires the person to do any of those things—
+
+(i) as a result of an act or default of the person relating to such a tenancy or housing let under it, and
+
+(ii) otherwise than pursuant to, or for the breach of, a provision of a tenancy agreement,”
+
+This amendment means that Clause 1 prohibits a landlord from requiring a tenant or other relevant person to make a prohibited payment or take other action within the clause in the event of an act or default of the tenant where the requirement is imposed otherwise than by the tenancy agreement.
+
+Madam Deputy Speaker (Dame Eleanor Laing)
+With this it will be convenient to discuss the following:
+
+Government amendments 6 and 7.
+
+Amendment 1, in clause 8, page 5, line 13 leave out “£5,000” and insert “£30,000”.
+
+Amendment 2,  page 5, line 16, leave out from “exceed” to end of line 17 and insert “£30,000”.
+
+Government amendments 8 to 23.
+
+Amendment 4, in schedule 1, page 23, line 29, at end insert—
+
+“Letting agent charges
+
+3A (1) A payment to a letting agent or third party for the establishment or renewal of a tenancy is a permitted payment.
+
+(2) In this section, a payment for the establishment or renewal of a tenancy may include, but is not limited to, fees for—
+
+(a) administrative costs,
+
+(b) credit checks,
+
+(c) tenancy renewal fees, and
+
+(d) inventory charges.
+
+(3) The total payment under this section must not exceed £300.”
+
+This amendment would allow letting agents to charge fees for various services connected with the establishment or renewal of a tenancy but would cap such fees at £300.
+
+Amendment 3, page 23, line 30, leave out paragraph 4 and insert—
+
+“Payment of Landlord or Agent expenses
+
+4 (1) A payment that a tenant is required to make to cover a landlord’s or agent’s reasonable loss arising from a breach of a fair condition of the tenancy agreement by the tenant is a permitted payment.
+
+(2) In this paragraph a “fair condition” is one that relates to—
+
+(a) the replacement cost of a lost key or security device, or
+
+(b) payment of the amount of late rent payments and interest relating to those payments
+
+arising under or in connection with the tenancy.
+
+(3) Paragraph 4(2)(a) does not apply if the payment required—
+
+(a) pertains to rent that was paid within 14 days of the date due under the tenancy agreement, or
+
+(b) exceeds the interest at Bank of England base rate on the rent from the day the rent was due to the day it was paid.
+
+(4) Paragraph 4(2)(b) does not apply if the condition in the tenancy agreement prescribes a fixed fee to be paid for each breach of this term.”
+
+This amendment would remove default fees as a permitted payment and permit the payment of landlord and agent expenses where there is a clear cost due to a tenant fault.
+
+Government amendments 24 to 48.
+
+Rishi Sunak
+I will speak to all the Government amendments but, for ease, I will take them in a slightly different order from the one in which they have been set out.
+
+I welcome the Under-Secretary of State for Housing, Communities and Local Government, my hon. Friend the Member for South Derbyshire (Mrs Wheeler), back to her place on the Front Bench. Everything we are discussing today is built on the foundations of her incredible diligence in preparing the Bill for us to consider in Committee, where I enjoyed constructive discussions with my opposite number, the hon. Member for Great Grimsby (Melanie Onn). I am delighted that my hon. Friend is back with us to help us to move the Bill through its final stages.
+
+Amendments 5 and 6 will ensure that landlords and agents cannot charge any fees to tenants in the event of default, except under those circumstances set out in paragraph 4 of schedule 1. That now specifically includes prohibiting default fees that may have been set out in a separate agreement between the agent and the tenant, rather than in the tenancy agreement.
+
+More generally, our provision on default fees in paragraph 4 of schedule 1 has been the source of much discussion and debate. Indeed, the hon. Member for Great Grimsby has tabled an amendment to the provision. Members from across the House, the Housing, Communities and Local Government Committee, and those who provided evidence to the Bill Committee have agreed with the principle that it is not fair for landlords to pay fees that arise due to the fault of the tenant. However, we have listened to concerns expressed by Members on Second Reading and in Committee, including the hon. Members for Great Grimsby and for Dulwich and West Norwood (Helen Hayes), and by tenant groups and the Chartered Trading Standards Institute that the default fees provisions as currently constructed may be open to abuse.
+
+Frank Field (Birkenhead) (Ind)
+May I mention a case involving my constituent, which is not uncommon in my constituency or in constituencies throughout the country? A young mother paid a deposit of £595 to her landlord for a wet, mildewed house in Rock Ferry in Birkenhead. When she was driven out by the mould, the landlord claimed that the bins were not emptied by the local authority, so she lost her £595 deposit. She wished to pay the rent for her new property on a day that coincided with her universal credit payments, but the landlord said, “Well, there’s no repayment of your previous deposit, and I want £900 up front if I’m changing the rent day.” In the meantime, during all that stress, my constituent lost her triplets. Will she be covered by the Bill, as amended?
+
+Rishi Sunak
+I thank the right hon. Gentleman for his intervention. Without going into the specific details or knowing the full facts, I can say that the example he gives is exactly the kind of bad practice that the Bill is designed to stamp out. It is not just this piece of legislation, which tackles the specific issue of tenant fees, that is relevant, because across the piece, the Government are examining the private rented sector to ensure that there is balance and fairness between tenants and landlords. He touched on the issue of health and whether properties are fit for habitation. The hon. Member for Westminster North (Ms Buck) has proposed a Bill to tackle that exact issue, and the Government are delighted to be supporting its passage through the House.
+
+The issue of transferring deposits from one tenancy to another is out of this Bill’s scope, but the right hon. Gentleman will be pleased to know that the Government have convened a working group to examine deposit passporting. The group has already met, and the findings will be published in the spring of next year.
+
+Frank Field
+I am grateful to the Minister, and I will not intervene again, but there is no transporting of the deposit in my constituent’s case. She loses the deposit and then faces paying another deposit of £900 to get her rent payment day in line with her universal credit payments.
+
+Rishi Sunak
+The specific issue of one tenancy ending, and the process for recovering part or all of the deposit and starting a new tenancy, is out of scope for this piece of legislation, but it will be a subject for the working group set up by the Government with the sector. There are some interesting ideas about how to solve the problem that the right hon. Gentleman outlines.
+
+Daniel Kawczynski (Shrewsbury and Atcham) (Con)
+The right hon. Member for Birkenhead (Frank Field) has quite rightly raised a horror story on behalf of his constituent, but will the Minister acknowledge that there are many highly professional letting agents throughout the country who seek to provide the very best service for their customers under the difficult circumstances that they sometimes face?
+
+Rishi Sunak
+I thank my hon. Friend for his intervention, and I entirely agree. The Bill is not about driving letting agents out of business, but about levelling the playing field so that the small minority of bad actors in the industry are not able to continue to the disadvantage of the vast majority of agents who do a terrific and valuable job, which we want to see continue.
+
+Mr Robert Goodwill (Scarborough and Whitby) (Con)
+It is precisely the sort of case that the right hon. Member for Birkenhead (Frank Field) raises that gives all landlords a bad name. Most landlords are actually trying to do their best to provide a service to their tenants and hope to have long-standing tenants.
+
+Under the current legislation, for a deposit to be retained by the landlord, there has to be agreement on both sides, otherwise there is an arbitration process. If it is just a case of someone not emptying the bins, there is no way that the landlord would be able to keep all the deposit.
+
+Rishi Sunak
+My right hon. Friend is absolutely right. The abuse that the right hon. Member for Birkenhead highlights is exactly why we are all here today to discuss this important subject.
+
+I will return to the topic of default fees. The Bill as drafted already partly mitigates the risk of such abuse by limiting default fees to the landlord’s loss and permitting such fees only if they are expressly set out in the tenancy agreement, which the tenant will obviously have sight of before agreeing to the tenancy. But we acknowledge that more can be done, which is why the Government have tabled a series of amendments to tighten the default fee provision.
+
+As I have said, amendments 5 and 6 will ensure that landlords and agents cannot charge fees to the tenant in the event of default, except under those circumstances set out under paragraph 4 of schedule 1. Secondly, amendment 27 will extend the limitation on what can be charged to incorporate the agent’s costs. We want to ensure that an agent cannot bill a landlord a significant amount only for that to be passed on to the tenant as the landlord’s incurred costs.
+
+Thirdly—and similarly to amendment 3, which was tabled by the hon. Member for Great Grimsby—we introducing a provision to specify that any fees charged must be reasonable in respect of the works undertaken, rather than simply tied to actual loss or costs incurred. This will ensure that landlords and agents cannot make claims for charges that exceed the reasonable commercial value of goods or services.
+
+James Cartlidge (South Suffolk) (Con)
+Will my hon. Friend clarify how this would affect fees charged at the end of a tenancy, such as cleaning fees, which we know people will be expected to pay, although they may not have been aware of them at the start of the contract?
+
+Rishi Sunak
+I am happy to tell my hon. Friend that the fees he mentions are specifically banned under this piece of legislation. The Bill has been drafted tightly to ban all fees in connection with a tenancy. It is specifically drafted to capture fees such as the ones he raises, so those fees will no longer be in place once the Bill is enacted.
+
+Debbie Abrahams (Oldham East and Saddleworth) (Lab)
+Could the Minister expand on who will be monitoring what happens with default fees? Some charities, including Shelter and Citizens Advice, have concerns that this might be used as a loophole for additional costs. Who will monitor the Bill and the default fees arrangements after the Bill is passed?
+
+Rishi Sunak
+If you will indulge me, Madam Deputy Speaker, I will expand a little to answer that question. The great thing about the Bill and the simplicity of a ban is that tenants’ ability to self-enforce will be greatly enhanced, which is something that was recognised by various people in the industry who gave evidence to our Bill Committee. Attached to any tenancy agreement is a consumer guide on how to rent and how to let, which provides straightforward advice for a tenant on what is and is not permissible. That will enable them to know whether something they are being charged is not appropriate.
+
+At that stage, there are several avenues for redress that the tenant can pursue. It is mandatory for letting agents to be a member of a redress scheme, and we are consulting on extending that to landlords, but in the first instance there are redress schemes that the tenant can go to. Obviously they can talk directly to the agent and the landlord themselves. If the tenant does not get satisfaction in those conversations, the next step would be to go to the first-tier tribunal. That was recommended by the Housing, Communities and Local Government Committee, and the Government were happy to introduce it into the Bill as an accessible place for our constituents to go and seek redress.
+
+15:00:00
+
+If the tenant is not happy at that level, they can go further—to the county courts, where further redress can be sought. The body enforcing all this at local level will be the local trading standards authority, which in most cases is the upper-tier authority. Sitting on top of all that will be a lead enforcement authority, which the Government will nominate—this is similar to the role that Powys County Council plays for the estate agency industry in Wales—that will also have the ability to enforce.
+
+Debbie Abrahams
+The Minister is being generous with his time. I absolutely understand what he is saying, and the arrangement seems very comprehensive. My concern, given the emaciated state of trading standards and other local authority enforcement agencies, is that this will not be an effective way of monitoring the situation. Tenants in such a position are still vulnerable, with potentially little legal redress other than by themselves. Is there no opportunity for the Government to monitor what is happening with default fees?
+
+Rishi Sunak
+I am sure that the hon. Lady knows that it would not be appropriate for the Government to monitor every single rental transaction that takes place, but the job of the lead enforcement agency is to have exactly that oversight for the industry. I would point out that the Government will fund the first year’s cost for trading standards and enforcement authorities to the tune of about £500,000. Thereafter, the fines under the legislation will enable enforcement authorities to recoup some of the costs, and indeed to invest some of that money in better enforcement. To go back to the heart of the hon. Lady’s question—
+
+Dr David Drew (Stroud) (Lab/Co-op)
+Before the Minister does so, will he give way?
+
+Rishi Sunak
+I am happy to do so.
+
+Dr Drew
+In my area, the good agents are beginning to say that those who are already exploiting the situation are trying to push up rent levels. Will the Government at least look at what has happened since the Bill was introduced to make sure that rents are not pushed up by landlords artificially to overcome this loss of money?
+
+Rishi Sunak
+On that relatively unrelated point, it is worth pointing out that when similar legislation was introduced in Scotland, we did not see any greater increase in rents than we would have anticipated.
+
+On the specific question asked by the hon. Member for Oldham East and Saddleworth (Debbie Abrahams) about tenants’ ability to enforce and the ease of their doing so, it is worth bearing in mind that default fees are specifically required to be identified in the tenancy agreement. Up front, at the outset of a new tenancy agreement, the new tenant’s contract has to say exactly what default fees may be relevant under that contract—for example involving the loss of keys, late rent or the loss of an alarm fob. That has to be there in black and white; it is not as though the landlord can come up later on with something that they want to charge the tenant for. That will also be spelled out in the guidance, so it will be very easy for tenants to know whether the default fees they are being charged are appropriate.
+
+Kevin Hollinrake (Thirsk and Malton) (Con)
+Will the Minister give way?
+
+John Stevenson (Carlisle) (Con)
+Will the Minister give way?
+
+Bob Blackman (Harrow East) (Con)
+Will the Minister give way?
+
+Rishi Sunak
+I am happy to give way to my constituency neighbour.
+
+Kevin Hollinrake
+May I take this opportunity to draw the House’s attention to my entry in the Register of Members’ Financial Interests?
+
+On the point the Minister was making about redress for a tenant, does he agree that the vast majority of these problems are very easily solved by contacting the redress schemes, which are very effective at resolving any disputes that may arise? Will he clarify the point about cleaning? The cleaning of a property that a tenant has left in an inferior condition should still be the responsibility of the tenant, and that is a reasonable requirement to put into any tenancy agreement.
+
+Rishi Sunak
+We are very lucky to have the insights today of my hon. Friend and constituency neighbour. He has been a successful business operator in this particular industry and I always listen to what he says with keen interest. I can tell him that he is absolutely right with regard to redress schemes. Our experience—we have heard this throughout the Bill process—is that they do work well and provide a very easy way to resolve most issues. Simply talking directly to the agent and the landlord in the first place is also a way to resolve the vast majority of issues without having to turn to a specific or formal redress scheme.
+
+On the second point, of course a state of condition and an inventory may be attached to a tenancy, and such a cost would be recovered during the normal course of a deposit return. The tenant would obviously have obligations in that regard, and a breach of those terms would be considered damages in the normal way. However, there will not be a specific charging of fees at the outset of a tenancy; unless otherwise broadly agreed, that is covered by the damages provision in a contract.
+
+I believe my hon. Friend the Member for Carlisle (John Stevenson) wanted to intervene.
+
+John Stevenson
+The Minister referred to certain clauses being in a tenancy agreement with which the tenant would be obliged to comply. Agricultural law lays down prescribed clauses that have to be incorporated into agricultural tenancies. Has any thought been given to the Government setting out prescribed clauses to be incorporated into a tenancy agreement for residential property?
+
+Rishi Sunak
+That is the crux of what we will come on to later. The Government’s approach has been not narrowly to specify the specific things that could qualify as default fees. There has indeed been discussion of this topic. The Government’s point of view, which I will explain later, will I hope provide some clarity on that point.
+
+If I may return to the—
+
+Bob Blackman
+Will the Minister give way?
+
+Rishi Sunak
+Ah—I give way to my hon. Friend.
+
+Bob Blackman
+A lot of the Government proposals are formed around what is reasonable, and one of the key tests in law relates to what is reasonable. I gently ask him to set out for the House what he considers to be reasonable. To give an example, he has mentioned the loss of keys. The loss of a normal household door key may be relatively cheap, but security keys provided by only one manufacturer can be very expensive. Is it reasonable for a tenant to be charged should he or she lose such a key? If so, that would mean a default charge of quite a considerable sum of money, even if it was specified in the original contract—the lease or rental agreement. Would that need to be specified in that way, or would it be classified as a reasonable default charge if the key was lost?
+
+Rishi Sunak
+I again thank my hon. Friend for all his work on the Select Committee in helping us to improve this legislation. I know that he has given great thought to the matters we are discussing today, and we have just heard another example. I can tell him that the word “reasonable” has been chosen very deliberately, because it is a commonly accepted legal term that is widely used in various pieces of legislation and is open to interpretation in a consistent way by the courts. Indeed, the Opposition have chosen the same term in amendment 3.
+
+Mr Jim Cunningham (Coventry South) (Lab)
+To come back to the question asked by the hon. Member for Harrow East (Bob Blackman), some weeks ago I watched a documentary about this. It looked at the safety of a particular house, and it ended up with the enforcement officers directing the landlord to replace the sort of very expensive locks that he mentioned. I do not know whether that is common, but the Minister may know more than me.
+
+Rishi Sunak
+That ties in nicely with the point made by my hon. Friend the Member for Harrow East (Bob Blackman), but it would not be right for me to stand at the Dispatch Box and define what is reasonable in any particular case. There is a general test of reasonableness, which will vary from circumstance to circumstance. A simple key for a garden gate with no security attached to it will rightly cost very little—people can go down to Timpson or wherever to replace it—but a security identity fob for an alarm system may be much more expensive. The point is that the charges could not exceed the reasonable commercial or market value of such goods or services.
+
+On that point, I reassure my hon. Friend that we want to go further than amendment 3, which was tabled by the hon. Member for Great Grimsby, would have us do. We have listened to concerns about the fact that tenants may find it difficult to challenge the reasonableness of default fees, and we believe that it would be easier for them to do so if they were offered up-front evidence of default charges. That is why amendment 28 introduces a requirement for landlords and agents to demonstrate their loss proactively by providing written evidence—for example, in the form of receipts or invoices—of the costs incurred before charging tenants. That will put the onus on landlords and agents to be clear about the charges that they want to levy, and it will give tenants additional assurance that they are paying a fair and reasonable amount.
+
+To return to the intervention by my hon. Friend the Member for Carlisle (John Stevenson), the Government maintain that it would not be appropriate to list default charges in the Bill, given the risk that such a list will be incomplete or insufficient. We believe it is for the tenant and the landlord to determine what it is necessary and fair to include as default charges, on a case-by-case basis. There are other potential default charges besides those for late payment of rent and lost keys. Charges might also result from not parking in the space allotted to a property in a communal area, from the loss of a home automation smart remote and from the misuse of a common space—perhaps for a barbecue or other party event. Our amendments will increase transparency and fairness by ensuring that landlords and agents can recover their costs, while providing greater protection to tenants over the level of fees that they can be charged and further minimising the risk of abuse.
+
+I turn to our other amendments regarding permitted payments. We want to ensure that the Bill delivers on the policy intention that the party who contracts a service should pay for the service. We have already been clear that where tenants procure their own third-party services—for example, a reference check or an inventory—they should be responsible for the cost. The legislation allows for that, although agents and landlords cannot, of course, require a tenant to use and pay for a third-party service.
+
+Similarly, tenants should be able to make payments to agents whose services they contract for the purpose of finding accommodation, provided that the agent does not work on behalf of the landlord. That may be the case if a tenant lives overseas or otherwise requires assistance in relocating. We do not wish to prevent relocation agents from charging a fee for their services. Amendment 7 is designed to ensure that tenants are free to contract the services of a relocation or similar agent should they wish to do so, provided that the agent does not also act on behalf of the landlord with whom the tenancy is being agreed.
+
+There are some further minor amendments to clause 28. Amendments 20 to 23 ensure that if a payment, such as a default charge, is required under a tenancy agreement that was entered into before the ban comes into force, that payment will be prohibited where it is paid to an agent after a period of 12 months. The Bill already prohibits that in relation to landlords, and we want to ensure that there is consistency with respect to agreements with agents.
+
+Further to that, amendments 24, 25 and 29 to 42 make some minor drafting changes to clarify that a person acting on behalf of the tenant, or someone who has guaranteed the payment of rent—a relevant person—can also make a permitted payment. That will ensure that if somebody guarantees a tenant’s rent, they can make payments on the tenant’s behalf to a landlord or agent if required.
+
+We have also tabled several amendments to clarify the enforcement and repayment provisions in the Bill. The amendments will ensure that the legislation can be effectively and fairly enforced, and that tenants have proper access to redress when things go wrong. First, amendments 13, 14 and 44 to 48 ensure that if a landlord or agent charges the tenant an unlawful payment, the landlord or agent must repay it as soon as is practically possible. Currently, when a tenant seeks repayment through the local authority or first-tier tribunal, a landlord or agent has 14 days or 28 days, respectively, to return the unlawfully charged payment once an enforcement order has been made.
+
+We are talking about tenants’ money, and we want to ensure that tenants can recover it in good time. It is not fair for a tenant to be out of pocket because a landlord or an agent has charged a fee or unlawfully required a tenant to pay a third party. Our amendments will require a landlord or an agent to repay unlawful fees within seven to 14 days of the making of an order by the enforcement authority or the first-tier tribunal. The authority or tribunal will have discretion over when the payment is required, within that narrow period. We expect that most repayments will be made within seven days, but we have provided for a range because in certain circumstances it may not be possible for a landlord or agent to repay the money within seven days. I hope that this amendment addresses the concerns that we have heard about the speed of repayment when a landlord or agent is at fault, and we hope that it reassures tenants about the recovery of their money.
+
+15:15:00
+
+Secondly, it has always been our policy intent that a landlord or agent should not receive more than one financial penalty for each breach of the ban. Amendment 8 makes this clear by preventing a landlord or agent from being penalized more than once for the same offence by different enforcement authorities. There should only be one fine per breach, regardless of which enforcement authority charges it.
+
+Thirdly, we want to ensure that when financial penalties and convictions are secured, there is a clear record of this enforcement action and the relevant authorities are made aware of it. Amendment 11 will extend the obligation on enforcement authorities to provide notice when they secure a conviction under clause 12. Currently, enforcement authorities are required to notify the relevant local housing authority when they secure a conviction under the legislation, but we want to ensure that enforcement authorities are also required to notify the lead enforcement authority in such circumstances.
+
+Mr Jim Cunningham
+The last time we debated the Bill, I raised the issue of who would enforce it. The Minister has mentioned the enforcement authorities. Is it still his intention that trading standards officers should be enforcement officers, or has that changed?
+
+Rishi Sunak
+That has not changed. In Committee and during the evidence sessions, there was overwhelming support for the idea of trading standards authorities playing a key role in enforcement, given their complementary responsibilities in similar legislation. We have heard good evidence for that, and they will be supported up front by half a million pounds from the Government in the first year of the implementation of the legislation.
+
+We want to ensure that the enforcement authorities are required to notify the lead enforcement authority in the circumstances that I have set out. At present, they are required to notify the lead enforcement authorities only when they impose a financial penalty. Extending the notification requirement to criminal offences will help the lead enforcement authority more effectively to monitor and report on the effectiveness and operation of the ban. This will also help to support local authorities better with their own enforcement actions.
+
+Fourthly, on enforcement, when a tenant takes action to recover their fees, they should have confidence that their local authority can assist them through the process. The Bill already provides that local authorities can assist an individual in recovering a prohibited payment via the first-tier tribunal.
+
+Maria Caulfield (Lewes) (Con)
+One issue with current legislation on the requirement to publish letting agents’ fees has been the lack of enforcement. What confidence can the Minister give the House that enforcement will actually happen under this very welcome new legislation?
+
+Rishi Sunak
+My hon. Friend spoke passionately on Second Reading about renters in her constituency and the work she has done with them to ensure that they are treated fairly. I commend her for that, and for raising a very good point. I am pleased to tell her that the Government are funding enforcement activity with half a million pounds of fresh funding in the first year after the Bill is enacted. Subsequent to that, the fines that the legislation will enable local authorities to levy—potentially up to £30,000 for a repeat incidence—will help to fund ongoing activity. I am confident that we will be able to deal with the issue that she raises.
+
+Mr Goodwill
+Is the Minister confident that local authorities will have the resources and expertise to do what is set out in the Bill? We in the Bill Committee were concerned that 93% of local authorities had failed to issue even one penalty, and that the level of activity in this area was very poor.
+
+Rishi Sunak
+As the Minister with responsibility for local government, I am full of admiration for local authorities and their ability to do many things. The pace of the creation of new legislation over the past year or two means that many of the local authorities’ powers in this area are relatively new, so local authorities are getting to grips with them bit by bit. I am pleased to say that there are very positive examples on the ground of local authorities taking action to enforce housing legislation and reinvesting in enforcement the fines that they generate.
+
+A brilliant example of that is Torbay Council, which has used the fines from civil penalties to employ an extra enforcement officer to help with exactly the activities that we are discussing.
+
+Sir Christopher Chope (Christchurch) (Con)
+Why are we not talking about a duty on local authorities to carry out enforcement? The Minister is saying that they have the powers, but the Public Bill Committee heard evidence that the London Borough of Newham prosecutes around 250 landlords and agents a year and that that represents half the total number of prosecutions in the whole sector. Why is there not a duty on local authorities to carry out enforcement?
+
+Rishi Sunak
+As I mentioned previously, Newham is obviously ahead of the curve, and the Committee did hear evidence about that, but many other local authorities are now following suit. Liverpool, Camden and Torbay are examples of local authorities that are getting to grips with the new legislation and putting it into effect in good order. I am pleased to say that, as these are relatively new powers, over the summer recess my Department conducted an extensive engagement activity across five different events throughout the country, involving almost 200 different local authorities, to talk specifically about the enforcement of regulations in the sector. Those conversations have sparked a lot of interesting collaboration across local authorities as they contemplate using the existing regulations and the new legislation in future. As we go forward together, with greater awareness and collaboration and, indeed, the greater funding that will come as a result of the legislation, I am confident that we will see enhanced enforcement activity from local authorities, where required.
+
+Kevin Hollinrake
+The Minister is doing an excellent job at the Dispatch Box, as always. Does he agree that another method of sanctioning landlords and agents who will not comply with reasonable regulations is through the redress process? The requirement for agents to be members of a redress scheme was introduced by our Administration in 2014. It was a seminal moment in the raising of standards in the industry. The requirement to be a member of a redress scheme, with an agreement going across the other two redress schemes, means that a practitioner can in effect be banned from the sector because they are not allowed to be a member of a redress scheme. If that idea is expanded to landlords, we will have another method of excluding from the sector people who will not do the right thing in the right way.
+
+Rishi Sunak
+I thank my hon. Friend for that clear example of an activity that is already happening that enables redress to be found. He is absolutely right to highlight the potential extension of membership of redress schemes from agents to landlords, which would further improve tenants’ ability to seek redress when they need it and would more generally act as an incentive for good behaviour in the first place. He will know that the Government are conducting a broader conversation about the regulation of estate agents, about ensuring that the industry is properly regulated and that standards are high and about ensuring that the actions of a small minority do not jeopardise the health of the great majority of the sector. That is an ongoing piece of work, and I am sure that we will discuss it in the House in due course.
+
+As we discussed in Committee, when a tenant has paid an unlawful fee, it is only fair that they should be given a say in how those fees are reimbursed, and the hon. Members for Great Grimsby (Melanie Onn) and for Croydon Central (Sarah Jones), whom I am pleased to see the in their places on the Front Bench, tabled an amendment to that specific effect. As I said I would in Committee, I have considered their amendment and agree that such a provision would be a worthwhile addition to the legislation. As such, amendments 9, 10, 12, 18, 19 and 43 will place a requirement on landlords and agents to seek consent if they wish to offset such a fee against a tenancy deposit or rent payment. I hope that those hon. Members will be happy with that incorporation.
+
+I am pleased to say that our amendments go slightly further than the one proposed by the Opposition Front-Bench team, by also requiring agents and landlords to seek the tenant’s consent if they wish to offset the holding deposit from the tenancy deposit or a future rent payment. If the landlord or agent does not seek consent from the tenant or relevant person about how the prohibited payment or holding deposit should be refunded, they will be judged not to have fulfilled their obligation to repay the fee. That will leave the landlord or agent liable for a financial penalty and give the tenant the right to recover their fee through the relevant enforcement authority. It will also restrict the landlord’s ability to serve a section 21 eviction notice.
+
+I have already explained why we do not support the amendment tabled by the hon. Member for Great Grimsby on the default fee provision and why our proposed alternative is fairer and more workable. I wish briefly to address amendment 1, which she also tabled and which would increase the financial penalty for a breach of the ban from £5,000 to £30,000, and explain why we do not support it. We want the fine to act as a serious deterrent to non-compliance. We have listened to feedback from across the sector, and we firmly believe that financial penalties provided in the Bill are the right ones. I think that most people would agree that a £30,000 fine for an initial breach of the ban, as proposed in the amendment, would be excessive. We do not want unfairly to penalise landlords and agents who may inadvertently breach the ban on fees. In particular, that might seriously financially hurt individual landlords who, for context, collect on average rent of around £8,000 from a single properly. A £30,000 fine is almost four multiples of that.
+
+Mr Goodwill
+Does the Minister agree that a £30,000 fine might well precipitate the sale of the property and the eviction of the tenant—the very person whom the Bill is meant to protect?
+
+Rishi Sunak
+My right hon. Friend is right. He made the same points in Committee, and I appreciate his raising them again today.
+
+The Government have listened to concerns that some agents and landlords see the £5,000 initial fines as a cost of business and thus repeatedly refuse to comply. That is why the legislation makes landlords and agents liable for a financial penalty for each individual breach of the ban that they commit. In addition, setting financial penalty at up to £30,000 for a second or further breach of the ban will act as a serious deterrent for prolific offenders. It is worth pointing out that further breaches will leave the landlord or agent liable to prosecution and an unlimited fine and, indeed, qualify as a banning-order offence. The Government believe that, taken together, this set of sanctions forms a serious deterrent to poor behaviour. To accept the Opposition amendment would be disproportionate and excessive in respect of the cases we are discussing.
+
+Bob Blackman
+There is a specific issue in relation to very corrupt landlords who exploit vulnerable people. The concern that I think many Members who have investigated the background to this issue will have had, particularly in parts of London, is that a fine of merely £5,000 will be seen as just the cost of doing business. These people are exploiting vulnerable people to the tune of hundreds of thousands of pounds, so for them even a fine of £30,000 would be nothing. I therefore urge my hon. Friend to consider this matter further as the Bill makes its way through the other place. Will he look at what can be done to take on these people? They are not landlords, but rogues and crooks. They need to be brought to account for the damage they are doing to the rental market and for the exploitation of very vulnerable people who have no choice in where they live.
+
+Rishi Sunak
+I thank my hon. Friend for that powerful intervention. He knows first hand, from the excellent work he does with his constituents to tackle this issue, the scale of the problem in particular cases. He will be reassured to know that, while existing legislation allows local authorities to levy a £30,000 fine for a second breach, if they choose not to do so, they can go down the prosecution route. For the cases he mentions, that would probably be more appropriate. The sanctions in that case are an unlimited fine and a banning order, which, for the specific landlords he mentions, would be appropriate. I think that he would agree that being banned from being able to rent any property for 12 months or longer, or an unlimited fine, would serve as a very significant sanction to the core behaviour in such cases. With that final assurance, I commend the Government’s amendments.
+
+15:30:00
+
+Melanie Onn (Great Grimsby) (Lab)
+I welcome the Government’s amendments. They go some way towards making the Bill much more meaningful, and we will support them. I remain, however, disappointed at the lack of movement on the requirement for deposits, which will stay at up to six weeks. I believe that that remains a significant financial barrier into the private rented sector for many people. Deposits are currently in the region of four weeks at a natural level. Allowing deposits of up to six weeks is likely to encourage more landlords or agents to increase their length and make it even harder for people to access the private rented sector.
+
+Kevin Hollinrake
+The hon. Lady makes a point about the length of deposits. Does she not acknowledge that there can be different circumstances? For example, a tenant with pets may damage a property more than a tenant without pets. If we do not allow some flexibility, people in those circumstances might not be able to rent a property at all. Scotland provides a basis for many of the measures in the proposed legislation, and the length of a deposit in Scotland can be up to two months. Does she therefore not agree that six weeks is actually fair and covers more circumstances than simply keeping it at a month?
+
+Melanie Onn
+I respectfully disagree with the hon. Gentleman’s perspective. Four weeks is an acceptable deposit. Introducing the possibility of an increase to a maximum of six weeks is unnecessary, and I urge the Government to look at that again.
+
+Before I move on to amendments 3, 1 and 2, I would like to return to a number of important issues raised in Committee that have not been addressed in the Government’s amendments. I hope that the Minister will provide more clarification on them. Perhaps they could be considered as the Bill goes through its next stages.
+
+It is about 12 weeks since we last discussed the Bill, which is something like the timeframe that I and many of us had in mind when the Minister said in Committee that its main provisions would come into force in “a few months” after the Bill had passed. However, on her YouTube channel, “Agent Rainmaker—Letting Agent Growth”, Sally Lawson, the former president of ARLA Propertymark, tells us that the measures in the Bill will not come into force until April next year. That seemed to be a fairly definite date. Can the Minister advise the House on whether that is simply speculation, or whether it is the very earliest the Government can manage to bring forward these very important measures?
+
+I would like further clarification regarding erroneous right to rent decisions by the Home Office and their impact on the return of a holding deposit. Will the Minister confirm that, if the Home Office makes a mistake with a right to rent check and misinforms the landlord that a tenant has failed the check, the landlord will not be liable for a financial penalty? Will he confirm that the landlord will simply be required to return the holding deposit to the tenant, as recommended by the Housing, Communities and Local Government Committee?
+
+Despite the need for further clarification on those issues, I am pleased that the Government have acceded to common sense on a number of issues that we in the Opposition raised in Committee. First, I welcome the Government’s acceptance of the amendment we tabled in Committee to give tenants who are owed money following a prohibited payment a choice over how it is repaid. The original wording could have caused problems for tenants in certain circumstances. More widely, it would have contravened the principle that the money belongs to the tenant and that it is for the tenant to decide what to do with it.
+
+Secondly, after a lot of persuasion from the Opposition, the Government are taking steps in a positive direction on their description of a default fee. It is right that it includes the definition of “reasonable” in association with costs and that there will now be a requirement to produce audits or invoices of any costs levied. Those changes will add substantial benefits to the Government’s definition of default fees and help to prevent the very worst offenders from defining unreasonable costs as a loss.
+
+Similarly, requiring landlords or agents to provide invoices for their costs will provide greater transparency for tenants and represents a substantial shift from the Government’s position in Committee. Giving tenants an invoice allows them to account for what they are being charged and provides a platform for an appropriate challenge when the fee is considered unreasonable or prohibited. I am reassured by the Government amendments that the Minister has heard the point that simply relying on guidance, which was the initial proposal, would not be enough to prevent the continuation of tenants being overcharged. The only way to end punitive default fees, which unfortunately have turned into a cash cow for some unscrupulous landlords and letting agents, is to spell out firmly in the Bill what is and is not acceptable, rather than to rely on guidance.
+
+Less than half of renters in this country see their deposit agreement before handing over their money, and a third have signed a tenancy agreement without fully understanding it. The Bill provides a loophole for unscrupulous landlords and agents to exploit that by placing unfair terms in their tenancy agreements. That is why I ask all Members to support amendment 3. It would provide a clear list of acceptable payments that cover a loss to the landlord. It would allow for fees to be charged only when there was a clear and indisputable cost, and it would prevent the use of tenancy agreements as a device through which to include additional charges. Although we set out a limited set of terms for permitted payments in the amendment, it would not stop landlords claiming damages or taking money out of a deposit where needed. The amendment relates only to situations where there is no dispute and there is a real, additional or exceptional cost to the landlord that falls outside usual expected business costs, such as sending a letter or email to a tenant.
+
+Kevin Hollinrake
+Are the fair conditions in amendment 3 examples of charges that may be levied or a definitive list? One thing the hon. Lady has neglected to put in the amendment, for example, is what happens if a tenant breaks the terms of the agreement and wants to leave early or change the sharer. That can result in significant costs to a landlord or agent. Is she excluding that possibility with the amendment?
+
+Melanie Onn
+I accept what the hon. Gentleman says. The amendment would serve as an example. I would be happy for it to be adopted and then to be taken on further by the Lords. It sets out examples, rather than being a full definition of the circumstances in which a tenant could be charged.
+
+In principle, putting in place a simple paragraph such as that in amendment 3 would make it far clearer to tenants when a breach had taken place. As it stands, the Bill will still be extremely confusing for any tenant trying to tell whether a breach has taken place. That, in turn, will inhibit the right and opportunity of a tenant to properly challenge a landlord or letting agent at a tribunal. Providing clarity on the face of the Bill would remove the ambiguity. Under amendment 3, it would be easy for a tenant to tell if they had been charged an unfair fee, and they would be better able to self-enforce their rights.
+
+Such self-enforcement may be necessary. The Minister talked about it in very positive terms, but I am not sure it is so positive. It reinforces the point that the Bill does not carry the weight of enforcement behind it to take landlords and letting agents to task properly when they continue to break the law. For the Bill to succeed, it must be backed by sufficient enforcement power.
+
+That is why we propose amendments 1 and 2, the primary aim of which is to allow trading councils the freedom to apply higher fines to those who break the rules. That would improve the enforcement of the Bill twofold. First, it would deter landlords and letting agents from taking the chance of applying prohibited levels of fines towards tenants. Even with strong legislation, we know that tenants can often end up in illegal renting situations owing to a lack of knowledge, a lack of confidence to challenge an unfair decision or the fear that a complaint or relationship breakdown could leave them without a house and on the street. We can see this in the Citizens Advice report “Touch and go”, which highlighted the fact that 44% of tenants did not complain about a category 1 hazard in their house.
+
+Secondly, the Opposition are worried that unscrupulous landlords and letting agents may still be tempted to charge prohibited fees in the belief that they will not be challenged until they have taken well over £5,000 in prohibited fees, and that as a result they will see those fines as a business cost. As the hon. Member for Harrow East (Bob Blackman) pointed out, it is just the cost of doing business, rather than the real deterrent it should be. I echo his point that some of the people who local authorities have been enforcing against are not genuine, upstanding, licensed and registered, above-board landlords and agents, but criminals and crooks, and the fine of £5,000 will simply not be enough to deter them.
+
+The Minister had concerns about the £30,000 fine, but amendment 2 states only that it “must not exceed” £30,000. That need not necessarily be the first fine—that would be for the enforcement agency to determine, given the circumstances and an understanding of the situation. Still, to provide a full deterrent would certainly increase the odds against those who take the chance and charge prohibited fees.
+
+Mr Goodwill
+I do not for one second wish to defend the actions of some of these unscrupulous letting agents, but the fine will be £5,000 for each occurrence, so if they are serial offenders, they are likely to get serial penalties. At the same time, of course, some landlords may inadvertently fall foul of the law, and it would be unfair to impose on them fines as big as £30,000. As I said to the Minister, it might result in properties having to be sold and tenants losing their house.
+
+Melanie Onn
+I hear what the right hon. Gentleman says, and I thank him for his intervention, but I repeat the point that the fine “must not exceed” £30,000 but need not necessarily be £30,000 in the first instance.
+
+Daniel Kawczynski
+The hon. Lady is eloquently highlighting the importance of protecting tenants, but I am a little concerned that in all her points there is little reference to protecting landlords and letting agents. I hope she will come on to that. When ARLA Propertymark surveyed Members of Parliament, one newly elected Member informed it that there should be no private sector rentals, that they should be abolished and that we should have either owner-occupier homes or social housing. I hope she does not agree with that and that she will put on the record her support for the private sector in providing jobs.
+
+Melanie Onn
+There is absolutely no suggestion in my comments that we should do away with the private rented sector, but the balance to date has been too far in favour of a private rented sector that has grown exponentially over the last 10 to 15 years and left tenants in a tenuous situation when it comes to their properties. When properties are just being used as commercial entities, with no consideration for the fact that they are people’s homes, that is where the difficulty lies, and it is absolutely right that the Bill is primarily designed to shift the balance a little more in favour of tenants, who so far have had a very bad deal.
+
+James Cartlidge
+Further to the intervention by my hon. Friend the Member for Shrewsbury and Atcham (Daniel Kawczynski), while we all agree that the Bill is a positive measure to help tenants, is there not a danger that if we start ramping up fines and so on, instead of a positive measure to help tenants, the Bill will look like an attack on many small businesses, the vast majority of which conduct their businesses entirely in accordance with regulations?
+
+Melanie Onn
+I thank the hon. Gentleman for his contribution. If the Government were to adopt my amendment, I am absolutely sure that that is not the message that they would want to send out to the private landlord sector. This is not about people who are operating legitimately, who do a good job for their tenants, who are supportive of tenants and who are doing everything in their power to assist them when problems arise; it is about the minority of landlords who do not care about the standard of accommodation that they are providing or about the concerns that tenants may raise with them. If we are to have legislation that has some teeth and that does what it intends to do, which is to try to prevent those people from entering the market in the first place, we should have potential fines of significant figures. That would be a positive thing, and legitimate landlords and agents would welcome it.
+
+15:45:00
+
+Maria Caulfield
+To go back to amendment 3, is the hon. Lady not reassured by schedule 1? It states that
+
+“if the amount of the payment exceeds the loss suffered by the landlord as a result of the default, the amount of the excess is a prohibited payment.”
+
+Does that not reassure her that the Bill will protect tenants from those who want to charge exorbitant default fees, as evidence will have to be provided and the amount will have to be justified by the cost that the landlord or the letting agent has had to pay out?
+
+Melanie Onn
+As I said at the outset, we support the Government amendments and will not oppose any of them, but I am not sufficiently reassured that my amendment is not still required. As I said, we will not oppose the relevant Government amendment, which has come about as a result of constructive conversations in Committee, where a lot of these issues were dealt with in great detail.
+
+We have not touched in great detail so far on how we can ensure that landlords do not avoid their responsibilities, and that is by enabling local authorities to enforce more proactively. The increase in the fines will go towards assisting with that, and we know that the Government have also committed some funding towards that. The evidence that we heard was that trading standards across the country is a decimated sector within local government. It is already unable to do what is required of it in making checks on letting agents—for example, on the displaying of tenants’ fees. We should therefore allow the additional funding that comes in through these fines to go to local authorities and back into enforcement, which is exactly what the Minister has proposed with the £5,000 fine. That will give local authorities greater income and revenue to provide that enforcement.
+
+I will leave it there, but I hope that Members on both sides of the House will consider voting for the amendments that we have put forward today.
+
+Madam Deputy Speaker (Dame Eleanor Laing)
+Order. It will be obvious to the House that there is one hour and one minute left to debate this part of the proceedings and that a great many people wish to speak. I quite understand why those on the Front Benches had a lot to say and took a lot of interventions; this is a very large group of amendments. I appeal to hon. Members that if anybody speaks for much more than five minutes, they will be preventing many of their colleagues from speaking at all. It is not up to me to regulate that; it is up to the honour of each Member of the House to limit their remarks, not necessarily in scope but in time, because brevity is the soul of wit.
+
+Mr Goodwill
+I was very pleased to serve on the Bill Committee and to hear the very good reasons why the Bill came forward. I am pleased that the Minister has responded to some of the points made in Committee with the Government amendments, which I am very pleased to support.
+
+The picture painted by colleagues from the south of England, particularly from London, does not represent the position in places such as Scarborough in the north of England, where there is a very vibrant rented sector, with adequate supply and demand and where the sort of fees that some have been talking about are not extracted from tenants. However, it is obvious from what we have heard that the current system is not working to protect tenants. Ninety-three per cent. of local authorities have failed to impose a penalty, and with many letting agents not publicising their fees it is difficult for prospective tenants to know what they would actually have to pay and almost impossible to make comparisons. I have also spoken to local estate agents, who have told me about some of the charges they have to take on board. A credit check, for example, can cost as little as £15, but a rogue agent could be charging as much as £625, which is taking advantage.
+
+Daniel Kawczynski
+Does my right hon. Friend agree that in places such as Shropshire and Yorkshire the market is in the main regulating itself rather well and these changes might be perceived to be slightly excessive?
+
+Mr Goodwill
+Yes. As a landlord myself I am aware of how that operates. We have talked about private landlords and social landlords. I like to see myself as a social landlord: I do not see what I provide to my tenants as being any different from what is provided by a housing association or a local authority—indeed, I like to think I give a better service. Still, it is right that this legislation has been introduced, particularly as double-charging could take place, with both tenant and landlord paying fees to the letting agent and the letting agent doing very well out of that.
+
+I do not agree with the Labour shadow Minister, the hon. Member for Great Grimsby (Melanie Onn), about the fines in amendment 1 and 2. A £5,000 fine for a landlord is already equivalent to a year’s rent for many properties in my part of the world. As I said, having much larger fines could jeopardise the business of such landlords. I also do not support amendment 4, tabled by my hon. Friend the Member for Shrewsbury and Atcham (Daniel Kawczynski). We must do everything we can to help people to get into housing—I would prefer that they were able to buy their houses, but if not, we must help them to get into the rented market. A problem people often face when moving house is that the deposit put on the previous house is not made available at the same time as the new tenancy takes effect. Therefore, having to find, for example, six weeks’ rent at £100 a week plus another six weeks’ rent at £100 a week, plus maybe a £300 fee, as the amendment suggests, means a person looking to rent a two-bedroom flat in Scarborough or Whitby would need to find £1,500 of cash just to make that house move.
+
+I was appalled to hear the nightmare stories mentioned by the right hon. Member for Birkenhead (Frank Field). As my hon. Friend the Member for Thirsk and Malton (Kevin Hollinrake) made clear, the tenants’ redress scheme introduced in 2014 means that the landlord can no longer see that money as their own money that they can snaffle when the tenant moves; instead, they need to demonstrate that real damage has been done or there are real problems that require that money to be used. In the past, I am afraid, I have heard horror stories where reasonable wear and tear was put down as damage or a slight scratch on the wall was taken to indicate that a whole room had to be decorated. I was pleased to hear from the Minister that he is looking at the possibility of a passporting scheme for these deposits. That is desperately needed because it is so frustrating for a tenant wishing to move that their deposit, which they will get in due course, is frozen and cannot be used to pay the next deposit.
+
+To return to amendment 4, it is not reasonable to introduce these fees of £200 or £300. That would become the norm and, to be fair, it is the landlord who is getting this service: it is the landlord who is interested in the creditworthiness of the tenant and who wants to see the legalities and the administration done correctly, and therefore it is not unreasonable for the landlord to pick up the bill. Indeed, many landlords will do much of this work themselves, and tenancy agreements are available to download which makes doing that much easier.
+
+In supporting the Government amendments, I hope that my hon. Friend the Member for Shrewsbury and Atcham will not press his amendment. We certainly would not want the Opposition amendments to be pressed.
+
+Matt Rodda (Reading East) (Lab)
+I am grateful for the opportunity to speak in this debate, having spoken on Second Reading in May. It is also a pleasure to follow my hon. Friend the Member for Great Grimsby (Melanie Onn) and other Members.
+
+In Reading East we have seen increasing numbers of young people and families entering the rental market, and it is in the vital interests of these residents and all my constituents that the rental market in our area is affordable, transparent and accessible. However, as with many other constituencies, rising rents, large deposits and high letting fees are increasingly causing difficulties for those seeking to access rented accommodation.
+
+Along with my Labour colleagues, I welcome the Bill as a first step towards establishing a fair and reliable rental market for tenants in my constituency and across the country. However, I remain concerned that the Bill does not go far enough in its protection for tenants. In particular, I am concerned that it does not go far enough to protect tenants against default fees. As we have heard, these are the fees that are chargeable if a letting agent or landlord incurs costs due to a tenant’s actions, such as replacing a lost key or making a late payment. These fees are set at the discretion of the landlord or the agent, and have been described by agents themselves as a back door to reclaiming income lost through this Bill. I share the concern expressed by the Housing, Communities and Local Government Committee and by other respected organisations such as Shelter and Citizens Advice that the lack of clarity regarding default fees creates a major loophole that could expose tenants to unreasonable fines from unscrupulous landlords or letting agents.
+
+Dr Drew
+In a survey that I conducted in Stroud, I found that the agents were making just that point. They want complete transparency and fairness in relation to tenants as well as landlords. Does my hon. Friend see the Opposition amendments as a way in which we could strengthen the Bill and deliver that?
+
+Matt Rodda
+My hon. Friend makes an interesting point, and I urge the Minister to take this opportunity to listen to him and to the points made by our Front Benchers.
+
+Amendment 3 provides a clear definition of default fees and limits the amount that could be charged, while still allowing landlords and agents to charge for expenses where there is a clear cost. It would provide clarity for all parties and, crucially, it would provide tenants in my constituency and elsewhere with the protection from exploitation that they so desperately need. Surely colleagues across the whole House would agree that that is the right thing to do. I therefore urge the Minister to consider this amendment and to consider strengthening the Bill to provide limits on what can be charged for. I urge him to take this opportunity to protect tenants from exploitation. It is time for the Government to listen to tenants and to deliver a fair, accessible and accountable rental market for all.
+
+Richard Graham (Gloucester) (Con)
+I rise to support the Tenant Fees Bill, which has been so clearly presented today by the Minister. The abolition of most up-front fees, the capping of security deposits at six weeks’ rent, the reduction of costs to tenants in the private sector potentially by hundreds of pounds and the increasing of transparency in the housing market—surely we can all unite in saying that these characteristics of the Bill are a good thing. We have all met constituents who rent and whose fees have gone up by roughly 60% in the period between 2010 and 2014 and who have been charged fees for the most bizarre and sometimes unfair reasons—including, for example, checks being made by the same agency on the same tenant for a different property in a short space of time. As my right hon. Friend the Member for Scarborough and Whitby (Mr Goodwill) mentioned, those fees should be paid by the landlord if they are going to be paid by anyone. As rents and demand increase, the unfairness in the marketplace from a few—I stress a few—landlords and agents that is tolerated by law requires a response from the Government.
+
+However, the Bill is not just about saving money and increasing transparency. The principle of fairness will also be boosted because all landlords will have to be members of a redress scheme, and because tenants should have easier access to dispute resolution. That is an issue that many of us will be familiar with through our own surgeries. Agents will have to be registered as members of a client money protection scheme, as many already are, and banning orders and a database of rogue landlords will be introduced. We all know about the frequent suspects whose properties consistently fail environmental health inspections, and I suspect that they will find their way on to that list unless they change their habits, which is the point of the Bill. At the same time, there will be a further consultation on benefits and barriers relating to longer-term tenancies, which I also welcome.
+
+The ban on fees, the capping of security deposits and much else has already been welcomed by many organisations, such as Which? and Citizens Advice, and on the face of it there is no reason why anyone should object to the changes. However, there are of course some who have opposed some of the detail of the legislation, and at a time when trust is such a crucial element in the relationship between tenant, agent and landlord it is worth touching on those objections.
+
+16:00:00
+
+In Committee, we heard evidence from landlord associations that landlords should not pay for tenants’ mistakes. The often quoted example is when a tenant loses a key at 2 am and requires an out-of-hours emergency visit and so on. Inevitably, therefore, such associations do not support the abolition of fees. They worry about a rise in rents from landlords to compensate for agency closures and a decline in standards. They worry that the six-week cap on deposits may result in landlords turning away certain risky tenants. However, the evidence from Scotland suggests that concern about rents is not borne out by experience. The six-week period chosen for the cap on deposits is actually greater than the period recommended by the Housing, Communities and Local Government Committee and, importantly, is significantly above one month’s notice so that, for example, inadequate cleaning can be covered by the additional deposit if need be.
+
+The Bill is not about redressing some medieval struggle between a landlord with as keen a sense of social justice as Keith Allen’s Sheriff of Nottingham in the TV drama “Robin Hood” and cowed, brutalised tenants with no rights. In fact, there are clear examples of the opposite. One of Gloucester’s larger landladies is a woman who fights tooth and nail for her tenants. She accompanies them to meetings at the Jobcentre Plus. She drives one veteran to the Gloucester day parade, where those who served with the Gloucesters at the battle of the Imjin River gather in their decreasing numbers. She goes the extra mile to ensure that her tenants are well looked after, understanding the benefit of them being in a good position to be able to pay their rent. Maid Marian can be a landlady as well as a tenant.
+
+The changes being proposed today should improve the degree of trust between all tenants, agents and landlords. In a world of tougher rules and penalties, I have argued for some time that landlords should be choosing agents who will actually help to keep them on the right side of the law, rather than simply those who charge the lowest fees. The benefit of the changes will be even greater as local government takes on the enforcement role, and this is where the implementation of the Bill will be so important. I hope that the role will be largely exercised by second-tier councils, which will be able to use their knowledge of tenants, housing markets and environmental health complaints to retain the capacity to enforce legislation effectively, self-funded through a system of appropriate fines.
+
+The Bill should therefore create a virtuous circle, higher standards, more trust, better redress, lower costs and, ultimately, better homes for vulnerable tenants, with rogue landlords and agents gradually weeded out and the strong ones not just surviving, but thriving. Those are good aims, but they need good implementation and good review and scrutiny to deliver effectively for my constituents in Gloucester and elsewhere. However, that is the next stage. Today, it is good that Her Majesty’s loyal Opposition are supporting the Bill, and I urge all Members to do likewise.
+
+Matt Western (Warwick and Leamington) (Lab)
+I rise not only to endorse the changes made by the Government, but to support the amendments tabled by my hon. Friend the Member for Great Grimsby (Melanie Onn) and to welcome the Bill. The Housing, Communities and Local Government Committee heard wise evidence and counsel from various groups, including landlords’ organisations and local authorities, and it is quite clear that there has been a bit of a wild west for many years in certain parts of country. I am proud to say that I have some excellent, responsible agents in my constituency, but there are the less scrupulous exceptions for whom greater regulation is really needed, so the Bill is timely. I have lived and rented in France, where it was evident just how much tighter and more balanced the legislation was.
+
+To echo the point made by my hon. Friend the Member for Great Grimsby, this is really about rebalancing the relationship between landlord, agent and tenant to make it much more transparent and much fairer. For many years tenants have felt disempowered in that relationship, and over the past 20 years we have seen significant growth in the proportion of people renting privately. That proportion has doubled, and in some parts of the country, such as the north-east, it has increased by 200%. It is important that we get to grips with this, and the Bill moves us a long way in doing that.
+
+In the past week I spoke to a student in my constituency who is facing tenant fees of £595 for one year. In some cases we are witnessing extortion, particularly in sectors with high churn, typically with one-year tenancies. We could have gone further, but I welcome the main part of the Bill.
+
+As has been said in the Chamber, and also by organisations such as Shelter, Citizens Advice and Which?, the default fees could have been more clearly and more extensively defined. As the hon. Member for Harrow East (Bob Blackman) said, what is reasonable is open to interpretation. We have seen extreme cases involving replacement key costs, for example. I support amendment 3, which was tabled by my hon. Friend the Member for Great Grimsby, in those circumstances.
+
+The level of the deposit cap was widely raised with the Select Committee by landlords and others. I would have preferred a four-week maximum, but I understand how we got to where we are. Deposit caps are a particular issue for high-churn tenancies. The idea of passporting, as proposed by the Minister, is a welcome move.
+
+Tim Farron (Westmorland and Lonsdale) (LD)
+The hon. Gentleman makes a good point. Does he agree with the observation, which has also been made by bodies such as Shelter, that an impact of high deposits is increased homelessness? Homelessness has tripled in my area of the south lakes in the past year, despite our building more council houses. A six-week limit would mean an average deposit of £1,100, which would make a rental property unaffordable for many people.
+
+Matt Western
+The hon. Gentleman makes a valid and pertinent point. High deposits are very much part of the cause of homelessness in many areas, because people feel financially and socially excluded from the private rented sector. As I alluded to at the beginning of my speech, high deposits have made renting privately much more difficult. In the same period we have seen a 20% reduction in social rented properties, which are critical.
+
+I will move on because of time. On the issue of compliance, the Select Committee heard how few authorities, whether it be because of less appetite or because they just do not have the enforcement officers, follow through on enforcement. As we have heard, 93% of authorities have not taken enforcement action against rogue landlords. Of course the shining exception is Newham, which, as the Select Committee heard, accounts for half those enforcement cases.
+
+I urge the Minister to reconsider Labour amendments 1 and 2. If £30,000 is seen as too high a maximum, there should be flexibility for authorities to introduce a more appropriate figure, as my hon. Friend the Member for Great Grimsby said—the hon. Member for Harrow East mentioned that £5,000 is a cost of doing business. That is how this was all done in the past, and we have to break that for the future because of the growth and importance of the private rental sector.
+
+I support and welcome the Bill, but I would just ask for tighter regulation of default fees.
+
+Daniel Kawczynski
+In the few minutes available to me, I wish to raise a few issues on behalf of my constituents who are involved in this sector, particularly those working for letting agencies. I thank the Minister for seeing me in the Department yesterday, along with the Secretary of State; he has been unfailingly courteous and very well informed. I thank him for listening to me, as he has to others, about some of the concerns I have shared with him on behalf of my constituents.
+
+I had wanted to propose an amendment to cap the fees that letting agents could charge to £300 rather than abolishing these fees entirely, because this proposal directly contradicts the Conservative party’s long-held ethos of being a pro-business, pro-free market party. If these are the measures we are supporting, are we truly a pro-business party? Mr Paul Wallace-Tarry from Belvoir, a letting agents in Shrewsbury, certainly believes we are letting him down by implementing the Bill.
+
+As someone who has rented a property in London for the past 13 years, I am acutely aware of the job that estate agents and letting agents perform. They carry out things ranging from the right-to-rent checks to negotiating contract changes, and from safety checks to organising the tenant move-in. Many times as a tenant I have called upon the agent for help. I believe it is very important to keep the equilibrium correct between the tenant, the landlord and the letting agent, and this Bill may be slightly tipping the balance in favour of the tenant, rather than the landlord.
+
+The Government’s own findings revealed that the mean fee paid by tenants upon moving into their accommodation was £223. However, a ban on tenant fees will lead to rents increasing by around £103 per annum, so industry experts say. For a three-year lease, the tenant would therefore end up paying £309 in total, which is £86 more than the tenant fee. It has also been found that rents could increase by around £82.9 million as a result of the Bill. Clearly the services that the letting agents put in place are being implemented by professionals, and they have to be paid for in some way. The fear is that this will just go on to rents, which are less transparent and accountable than a clear, specific fee.
+
+ARLA Propertymark has found that 90% of letting agents believe that a ban will lead to a rise in rents. Some 60% think that it will lead to lower property quality, and 40% think it will lead to a fall in employment in the medium to long term. If estate agents have to choose between their working relationships with tenants or with landlords, they will side with the landlords, given that there is no financial responsibility or duty of care between them and the tenant. This is what I want to see protected; I want that relationship to be very evenly matched.
+
+I end by simply saying that if the Conservative party understands anything, it is the need to support small business. I feel passionately about the role that small businesses play in our constituencies. I never had the courage to set up my own business. I always worked for large-scale, multinational corporations, knowing that my mortgage would be paid at the end of the month and not having the responsibility of employing people. Many of the people we are talking about today did have the courage to set up their own business. They are entrepreneurs and they are employing professional people, and this is very important. I hope that the Minister will acknowledge the extraordinary amount of care and professionalism that many of these letting agencies in Shrewsbury implement on behalf of their constituents. The Conservative party must understand the need to support small business, with less regulation, less red tape and less taxation in order to empower entrepreneurship and empower people to create the wealth we need to fund our public services. This ban is in direct opposition to that.
+
+As I have said already to the shadow Minister, when ARLA Propertymark conducted a survey of all Members of Parliament, a newly elected Labour Member—I would get into a lot of trouble if I named him—told ARLA that he was not interested because he wanted the whole private sector banned, leaving only owner occupiers or social housing. That is the sort of prejudice that we have to deal with, and it is important that the private sector is respected and supported.
+
+16:15:00
+
+Anneliese Dodds (Oxford East) (Lab/Co-op)
+I am pleased that the Government have finally accepted the need to ban tenant fees, for which my party has called for for no fewer than five years—I have personally campaigned for the ban for four years. I support the Labour Front-Bench amendments, because the Bill does not go far enough. We need further specification of the fee regime to make it more user-friendly, and we need to increase penalties for those landlords and letting agencies that flout the new legislation.
+
+Few places in the country are in more need of this legislation than Oxford. Only 39% of people in the city own their own home or have shared ownership—that is well below the national average. Nearly half—49%—rent privately, and that figure has risen by more than a fifth since 2001. Private renting is not just a stopgap in the city; it is the only option for huge numbers of people.
+
+The cost of setting up and maintaining a tenancy in the private rented sector is a huge problem in the city. The sharpest end of that is seen with the exponential growth in rough sleeping in Oxford. On some nights in the 2000s, nobody would be recorded as sleeping on the street, but nowadays having 60 people rough sleeping is the new normal. That is relevant to this debate because the core reason why people in Oxford become homeless has changed. It used to be relationship or family breakdown, but that is no longer the case. The key reason for homelessness now is landlords ceasing tenancies, often because of non-payment of fees.
+
+There are many excellent landlords and letting agents in Oxford, and I find some of the mischaracterisations of the Opposition’s approach in this area bizarre. We all know excellent landlords and letting agents in our constituencies, but a small number bring the rest of the sector down and pollute its reputation, because they do not act in a responsible manner. A significant proportion of my postbag is taken up with tenants who have been asked for unreasonable fees, as well as people who are simply unable even to rent. In fact, I have a meeting in a couple of days with someone who is trying to move into Oxford but cannot afford the different costs associated with getting into a tenancy, and that is even with the private rented sector deposit guarantee scheme operated by the local authority. People are not able to move into Oxford’s private rented sector anymore.
+
+Labour’s amendments would ensure that the new regime that the Bill will rightly introduce would be sufficiently watertight. I welcome some of the changes that the Minister specified, but we need the fee regime to be upfront in the manner specified by my hon. Friend the Member for Great Grimsby. We need a user-friendly regime that tenants can easily understand, and that is not presently the case under the Bill.
+
+We also need to make sure that the fees are sufficient. Oxford has one of the strictest regulatory regimes for landlords, operated by the local authority. Many landlords support it because they see that it squeezes out the rogue operators, and that it has removed many of the most unsafe and unhealthy properties from the housing market in Oxford. The regime pays for itself, and it is important that the regime under the Bill pays for itself, too. That means that those fees have to be sufficient. We have already had a lot of discussion about the cuts that have been made to trading standards, but it might also be helpful to look at how those fees—the Minister asserted that they would be sufficiently deterrent—compare with some of the profits obtained by landlords in areas such as my own.
+
+The average property rent in Oxford is currently £1,919 per calendar month, so £5,000 is very obviously less than three months’ rent—we can all do the maths. Now, I appreciate that not all that rent will be profit, because of course there are associated costs. However, estate agents encouraging people to come into the buy-to-let market in my city inform those people that they will have an average annual return on their investment of 18%. When we talk about whether a fee is deterrent and whether a £5,000 fine is sufficient, we should reflect on that figure.
+
+Comments have been made about the role of central Government and local authorities. Yes, it is absolutely right, as the hon. Member for Christchurch (Sir Christopher Chope) said, that there are local authorities that do not fulfil their responsibilities. There are others that want to go further but have been able to do so only at the behest of central Government. Please can we get to a situation in which local authorities that want to have more stringent regimes do not have to wait to get the okay from central Government? We need more local control.
+
+Bob Blackman
+It is a pleasure to follow the hon. Member for Oxford East (Anneliese Dodds) and the passionate view of her constituents. May I draw the attention of the House to my entry in the Register of Members’ Financial Interests?
+
+In the absence of the Chair of the Housing, Communities and Local Government Committee, I had the honour of chairing the Select Committee pre-inquiry into this legislation. We looked at a lot of the evidence that is now coming forward. I am delighted that the Minister has seen fit to make some changes during the passage of the Bill and to accept many of the Select Committee’s recommendations.
+
+The hon. Member for Great Grimsby (Melanie Onn) raised the matter of how many weeks’ rent a deposit should be. It is a shame that she has not tabled an amendment to that issue on Report, because I think several Conservative Members would feel very sympathetic towards restoring what the Select Committee recommended, which was a compromise. There was an argument for four weeks and an argument for six weeks, and we took the view that five weeks was the appropriate compromise for two reasons. First, if the limit is four weeks’ rent, there is a risk that the tenant will just refuse to pay the last month’s rent at the end of a tenancy. Secondly, a deposit of six weeks’ rent would almost certainly become the norm for most landlords, and would therefore be inflationary on the amount of deposit that would be charged.
+
+I gently remind the Minister that in the last Budget the Chancellor allocated some £20 million towards a national rental deposit scheme, following representations from me and several other colleagues to set one up. The Department has not yet set up that scheme, but by saying that the limit will now be six weeks, instead of four or five, the Minister is going to reduce straightaway the number of families that can be assisted under the national rental deposit scheme when the Department finally does bring it forward. I ask him to look at this figure again, because it will limit the number of people who could be assisted through this programme.
+
+On the issue of enforcement, I welcome the changes proposed by the Minister. Many of the changes, which are very clear, go above and beyond those proposed by the Opposition. Having looked at the evidence in relation to this legislation, many of us will share concerns about the difference between what I would classify as true costs, and charges. In answer to my hon. Friend the Member for Shrewsbury and Atcham (Daniel Kawczynski), the key question is, who does the letting agent work for? The letting agent works for the landlord, not the tenant. It is the responsibility of the letting agent to acquire tenants on behalf of their employer—namely, the landlord—and therefore there should not be two charges incurred. The letting agent should charge the landlord for their fees, not charge the tenant for acquiring.
+
+However, there are costs associated with acquiring a tenant—for example, when there is a requirement for a credit check. If a prospective tenant were to fail that test, there is a cost that someone has to collect. If an applicant makes a request through a letting agent and a credit check is then undertaken that is failed by the prospective tenant, it is reasonable that the cost should be passed on to that individual, particularly if they were going to knowingly fail the credit check in the first place. That is an example of a true cost as opposed to a fee charge. My hon. Friend has set out a set of areas and then a limit on the charges that a letting agent may charge a tenant. I trust that he will not press his amendment to a vote, because that goes completely against the spirit of this Bill and what we are proposing.
+
+Kevin Hollinrake
+My hon. Friend is making an important point on referencing. Does he agree that it might be beneficial if the Bill were clarified so that everybody was clear about circumstances in which some of the holding deposit might be retained by the landlord or the agent in the case of somebody failing a reference check? If that were not the case, people on low incomes, for example, could be discriminated against when they apply to rent a property.
+
+Bob Blackman
+I thank my hon. Friend for that intervention. We clearly need to be more specific. I accept the principle set out by my hon. Friend the Minister that we should not put this in the Bill, but it should be put in regulations, because we can change regulations rather more easily and add things to them at an appropriate time without having to go through primary legislation once again. This is a question of detail that I ask my hon. Friend the Minister to look at again.
+
+The other issue is charges for, for example, lost keys, cleaning or damage that may be done to a property. Those are reasonable costs that a tenant should incur. If that has to be set out in the tenancy agreement, it must be made crystal clear in what we lay out in regulations and guidance to landlords what is allowed and what is not allowed. In particular, things that are not allowed must be specified as being completely outwith the potential of the Bill, as opposed to being in the Bill.
+
+I thank the Minister and his team for looking at and reflecting many of the recommendations that the Select Committee made on the draft Bill. With a few more tweaks, this can be an excellent Bill that we can all be very proud of.
+
+Bim Afolami (Hitchin and Harpenden) (Con)
+I rise in support of this Bill and my hon. Friend the Minister. During the Bill’s passage, he has conducted himself, as I think everybody in all parts of this House has already recognised, with the utmost sincerity and courtesy to all parties, both inside and outside the House.
+
+I served on the Bill Committee—entirely voluntarily, of course, Madam Deputy Speaker. Having listened to the exchanges in Committee and today, it strikes me that there are a couple of points where there is complete agreement in all parts of the House. There is agreement that the average letting agent fees have gone up by 60% over the past six or seven years, and that there is a growing problem of tenants feeling that they are less empowered in relation to their tenancies and letting in the private sector market.
+
+16:30:00
+
+Contrary to what my hon. Friend the Member for Shrewsbury and Atcham (Daniel Kawczynski) said about a comment made by an Opposition Member, there is general agreement that the private sector has a key role to play in this area. I do not think any Member would countenance that not being the case. I know that my hon. Friend the Minister truly believes in business. He is a pro-business Conservative, as am I, and I know that he would not countenance anything that he felt would limit the market for the private sector.
+
+I would like to take on a couple of the points made by my hon. Friend the Member for Shrewsbury and Atcham, and I ask him to intervene if he thinks anything I say is unfair. He said that certain letting agents feel that there might be a rise in rents or a diminution in the quality or number of properties available for rent. I would argue that the whole point of a private market is that the market regulates those things, and I see nothing in the Bill that will undermine that market or fundamentally stop those things being regulated in a private sector manner. I would add that if any of the regulations alluded to by my hon. Friend the Member for Harrow East (Bob Blackman) could do so, I expect that he, the Minister and I and lots of Government Members would ensure that that was not the case. I do not believe that anything in the Bill will undermine the market in that regard.
+
+I would like to make a broader point. In this House, we spend a lot of time talking about very grand, big things that make newspaper headlines, but a lot of what we do here—I look at the people in the Gallery and think of anybody watching this on television—is quite practical. It is day-to-day, and it affects real people doing real things and living real lives. This is an example of legislation that can really make a difference to individual tenants up and down this country. It will not make the front pages, but this sort of stuff shows this Government, this Minister and this Department delivering for what my right hon. Friend the Prime Minister calls the “just about managings”. We should not lose sight of the fact that people out there will be practically better off and will benefit as a result of this legislation. That is very important.
+
+Lastly, I read somewhere—it was in a newspaper, so I am sure it is true—that by 2021, roughly 5 million households in this country, or 20% of the total number, will be privately renting. That is a significant number of the constituents who send us to this place. These concerns must be paramount in our minds. Bearing in mind the rise in fees over the last few years, we need, dare I say it, to ensure that the balance that my hon. Friend the Member for Shrewsbury and Atcham talked about between landlord and tenant is tilted back a bit more in favour of the tenant in this particular regard. In addition to the many other measures the Government are taking, such as trying to encourage longer tenancies, that will empower our tenants and make them feel safer and more in control of their own lives and tenancies.
+
+We need a system that we can trust. Landlords need a system that they can trust. Above all, tenants need a system that they can trust. This Bill will help the Government to achieve that, and I am happy to support it.
+
+Maria Caulfield
+I want to touch on two issues to do with fees and enforcement. I want to put on record my thanks to the Lewes citizens advice bureau, which did extensive research for my Adjournment debate in May 2016. While the explanatory notes to the Bill say that letting agents’ fees are on average £200 to £300, in my constituency —probably because it is in the south-east—they are on average between £200 to £1,000. On top of a deposit of six weeks’ rent in advance, that means someone can have to find £2,000 to £3,000 in advance.
+
+This legislation will make a huge difference to tenants in my constituency of Lewes. However, I have some concerns about default fees, which I raised on Second Reading and in Committee. I am pleased to see Government amendments 5 and 6, which tighten these provisions. As stated in my entry in the Register of Members’ Financial Interests, I am a patron of the charity Homelink, which provides more than £100,000 of support to tenants looking for deposits in the Lewes district. The charity is still slightly concerned about default payments, but amendments 5 and 6 are really welcome because they tighten the provisions and state that default payments have to be listed in advance in any tenancy agreement and that there has to be evidence that those fees exist.
+
+Dr Rosena Allin-Khan (Tooting) (Lab)
+Will the hon. Lady give way?
+
+Maria Caulfield
+I will not give way, simply because of the time constraints on us.
+
+If tenants are found to be in breach of those requirements, they will be liable to penalties and to prosecution, so I am more reassured than I was at the start of the debate. I welcome the fact that the Minister has listening ears, because he has really tried to listen to all Members on this matter.
+
+On the enforcement issue, I am still concerned—not because of this legislation, but because of the failure to enforce the existing legislation requiring letting agents to publish their fees. I welcome the fact that, under clause 7, district councils will be able to keep the penalties charged, and I very much welcome the Minister’s announcement today that there will be £500,000 of up-front loading for councils to enable them to invest in staff and to start taking on enforcement. I want to pursue this, however, by asking what will happen if that still does not result in enforcement, because we will be no further forward with this brilliant legislation if enforcement does not happen. I also put on the record my interest as a vice-president of the Local Government Association, which asked for the up-front loading.
+
+If we are giving councils the money in advance and they are able to keep the penalties, they really must step up to the mark and enforce the legislation. It will make such a difference to tenants’ lives if they know in advance what fees they will have to pay and that those fees are evidence-based, and if they know that if those fees are abused, there will be prosecutions and severe penalties. I cannot support the Opposition’s amendment 3, simply because schedule 1 sets out which fees will or will not be payable, while the Opposition have only given some examples of such fees. That is not really strong enough, and the amendment would severely weaken the legislation.
+
+I congratulate the Minister, who has done a fantastic job in listening to everyone. I still have some slight concerns about enforcement and the default payments, but I am very happy to support the Bill.
+
+Sir Christopher Chope
+It is a pleasure to be able to speak in this debate. I am neither a landlord nor a tenant, but I am the chair of the all-party group on the private rented sector, and that sector is under substantial pressure on issues relating to regulation and interference by the Government.
+
+The Residential Landlords Association has estimated that, in the past nine months alone, there have been over 25 consultations across Whitehall proposing changes that will have an impact on the private sector. More than 140 Acts of Parliament and more than 400 regulations affect landlords in the private sector already. That is why many of those landlords choose to get help from letting agents, and this Bill is a direct attack on the profession of letting agents. As my hon. Friend the Member for Shrewsbury and Atcham (Daniel Kawczynski) has said, this is not a Conservative measure at all, and I despair at the fact that so many people seem to want to support this exercise in socialism and control.
+
+Why should a Conservative Government be engaged in preventing professionals from charging a fee for services rendered? Doctors in my constituency charge those aspiring to become social tenants £15 a time to get a medical certificate in support of a social housing transfer. That—in response to my hon. Friend the Member for Harrow East (Bob Blackman)—is not a cost, but a charge. It is a charge, and it is an arbitrary charge: it is imposed, but payable. As I understand it, the Government are not proposing to abolish the right of doctors to charge for writing letters, so why are we proposing to prevent letting agents from charging for the services that they provide?
+
+Dr Allin-Khan
+Will the hon. Gentleman give way?
+
+Bob Blackman
+Will my hon. Friend give way?
+
+Sir Christopher Chope
+No, I will not give way, because I want to allow hon. Members who have not yet spoken to get in.
+
+Why are we preventing letting agents from charging for credit reference searches, identity and passport checks, and all the rest? When one looks at the evidence in support of the Bill, it is quite clear that if the existing laws were properly enforced, the need for the Bill would not have arisen. I am extremely sceptical about the Government’s assertion that enforcement will be a lot more effective. If they really believe that, why do they not place a duty on local authorities to enforce the legislation, rather than leaving it as a mere power?
+
+The legislation will have a lot of unintended consequences. It is already difficult enough for tenants to obtain rented accommodation if they have pets. It is very difficult for tenants on housing benefit to obtain accommodation. It is very difficult for tenants who do not have clear British citizenship to get rented accommodation. All those things will become a lot more difficult as a result of this additional burden on the private rented sector.
+
+Some 30 years ago, I was a junior Housing Minister. I was much associated with deregulating the sector—introducing shortholds, getting rid of controlled tenancies and enabling the growth that has taken place in the private rented sector. I am disappointed to see my Government working in the opposite direction. I signed amendment 4, which was tabled by my hon. Friend the Member for Shrewsbury and Atcham. I understand that he has been bought off by the Government, so I will not press the matter to a vote. However, I think that there is too much crowd-pleasing on the part of the Government and not enough sensible regulation and recognition of the important work done by those in the private rented sector.
+
+Kevin Hollinrake
+This is the perfect opportunity for me to speak. I draw the House’s attention to my entry in the Register of Members’ Financial Interests, as a result of which I recused myself from the Select Committee’s pre-legislative scrutiny of the Bill. On the face of it, the Bill will cost my business more money than I wish to think about, and it is certainly keeping my finance director awake at night; we are talking about significant sums. Nevertheless, I disagree with my hon. Friend the Member for Christchurch (Sir Christopher Chope), because we do not have a free market here. I think that it is an entirely Conservative policy to make sure that we have free enterprise and a free market.
+
+Tenants choose properties; they do not choose letting agents. Landlords choose letting agents. Despite the cost, we should be standing up for the values of free enterprise. The business I have mentioned, which I am still involved with today, could not have been built without the opportunities provided by free enterprise, so there is no way that I could not support the Bill. I appreciate the amendment tabled by my hon. Friend the Member for Shrewsbury and Atcham (Daniel Kawczynski), but I think that even a cap is the wrong approach. We need to abolish these fees completely, as I have consistently argued to the industry.
+
+I want to make a couple of points about free enterprise and the private rented sector. The shadow Minister, the hon. Member for Great Grimsby (Melanie Onn), said that the private rented sector had increased exponentially over the past few years. When I started 30 years ago in this business, I operated in York, where the lack of supply meant that anyone who wanted to rent a home would probably get a shabby, damp, dark terraced house. It is because of private sector investment that we now have such tremendous supply in this marketplace, generally at fair rents.
+
+I am not sure where the hon. Member for Oxford East (Anneliese Dodds)—she is not in her place—got the figure of an 18% yield from, but that seems incredible. On that basis, there is probably a march of investors heading down the road to Oxford East to buy property. Generally, yields in the sector are very tight—about 4%, not 18%—because of the competitive nature of the market.
+
+I support the Government amendments to ensure that any charges are clearly defined in a tenancy agreement.
+
+Dr Allin-Khan
+Will the hon. Gentleman give way?
+
+Kevin Hollinrake
+I am sorry; I cannot, because of the time. Many people have been here for the whole debate and want to speak.
+
+I cannot support amendment 3, because it is restricted to two elements: a lost key, or a late rent payment. Tenants create many other costs for landlords and agents, and it is only fair that landlords and agents should be reimbursed. As an example, one tenant recently rang one of our offices late at night on the out-of-hours phone number and said that they had forgotten where they lived and asked whether we could go and pick them up and take them back home, because they had had a little bit too much to drink. That is not a typical scenario, but there are lots of different situations in which landlords and agents may incur costs. I am thinking particularly about the chasing of rent and a change of sharer, which represent significant costs to landlords. I would support a limited and fair list—and most agents will be fair.
+
+16:45:00
+
+Finally, on the retention of holding deposits, I urge the Minister to clarify the situation whereby a landlord or an agent can retain a holding deposit if someone fails a reference. That is a cost to a landlord or an agent, and without the ability to retain a holding deposit, that landlord or agent may well discriminate against somebody who is likely to fail the reference. That would be a counterproductive outcome. In the main, though, I am fully supportive of the Bill and will certainly support it in the Lobby shortly.
+
+Mr Clive Betts (Sheffield South East) (Lab)
+I apologise for not being present at the beginning of the debate; I had a meeting on the private rented sector, believe it or not.
+
+I wish to say briefly that there is agreement in principle across the House on this Bill. It was improved by the consideration of the Housing, Communities and Local Government Committee, and I thank the hon. Member for Harrow East (Bob Blackman) for chairing the meetings in which the Committee looked at the draft Bill. I agree with him strongly that this is an issue of a contract between the landlord and the letting agent. That is the principle and that is why tenants should not be charged the fees. I see that one Government amendment clearly spells out that if a tenant goes to a letting agent and says, “Please find me a property,” that contract would be between the tenant and the letting agent and therefore a different arrangement.
+
+I welcome the amendment that means that an enforcement authority will be able to help a tenant who wants to recover a charge awarded to them by the first-tier tribunal. That is a good amendment and I welcome the Government’s tabling it, but it surely shows the need to move to a housing court system, which the Government have promised.
+
+Rishi Sunak
+May I briefly thank all Members from all parties for their contributions today, in Committee and in the Select Committee hearings? All those contributions have helped to get the legislation into the fine shape that we find it in today. I appreciate all the insights from everyone. I welcome the broad support for the Bill. If Government or Opposition Members still want to engage on the details, I am very open to having those conversations.
+
+Let me briefly answer the specific questions asked by the hon. Member for Great Grimsby (Melanie Onn). On timing, I am obviously not in control of the parliamentary timetable, but there will be a short period of time after Royal Assent—perhaps we should call it an implementation period rather than a transition period—after which the Act will come into force. Within 12 months of that point, any existing and legacy contracts will be subject to the Act’s provisions.
+
+On the hon. Lady’s question about right-to-rent checks and incorrect Home Office information, I can confirm that under clause 8(5) the landlord would not be held liable.
+
+Let me try one last time to persuade the hon. Lady not to press to a vote amendment 1, on fines. Perhaps she is not aware that the maximum fine is £1,000 under similar legislation in Scotland and that the maximum fine is just £500 in Wales. The Bill contains an initial fine of £5,000; the hon. Lady’s proposed maximum fine of £30,000 would be 60 times that of her party’s Government in Wales. I am sure she would agree that that sounds slightly disproportionate and that it gives her something to digest.
+
+Finally, I thank my hon. Friend the Member for Shrewsbury and Atcham (Daniel Kawczynski) for his passionate defence of the free market economy in free enterprise and competition, with which I wholeheartedly agree and to which I wholeheartedly subscribe. It has been a pleasure to engage with him on the details of the Bill, and I assure him that as a fellow champion of small business, I continue to ensure that nothing we do will jeopardise the health of that free enterprise economy. I appreciate his advocacy on behalf of small business and look forward to future conversations with him.
+
+Question put and agreed to.
+
+Government amendment 5 agreed to.
+
+16:49:00
+
+More than two hours having elapsed since the commencement of proceedings on consideration, the proceedings were interrupted (Programme Order, this day).
+
+The Deputy Speaker put forthwith the Questions necessary for the disposal of the business to be concluded at that time (Standing Order No. 83E).
+
+Clause 2
+
+Prohibitions applying to letting agents
+
+Amendments made: 6, page 3, line 6, after “tenancy,” insert—
+
+“(aa) requires the person to do any of those things pursuant to a provision of an agreement with the person relating to such a tenancy which requires or purports to require the person to do any of those things in the event of an act or default of the person,
+
+(ab) requires the person to do any of those things pursuant to a provision of an agreement with the person relating to such a tenancy which requires or purports to require the person to do any of those things if the tenancy is varied, assigned, novated or terminated,
+
+(ac) requires the person to do any of those things—
+
+(i) as a result of an act or default of the person relating to such a tenancy or housing let under it, and
+
+(ii) otherwise than pursuant to, or for the breach of, an agreement entered into before the person’s act or default,”
+
+This amendment brings Clause 2 largely into line with Clause 1 so that the prohibitions that apply to letting agents under the Bill are similar to those that apply to landlords.
+
+Amendment 7, page 3, line 19, at end insert—
+
+‘( ) This section does not apply to a requirement imposed by a letting agent on a relevant person if—
+
+(a) the requirement is imposed by the letting agent in consideration of providing a service to a tenant,
+
+(b) as part of that service the agent finds housing for the tenant to rent and the tenant rents that housing, and
+
+(c) the agent does not act on behalf of the landlord of that housing, whether in relation to that housing or any other housing.”—(Rishi Sunak.)
+
+This amendment removes a service provided by a letting agent to a tenant from the prohibitions in Clause 2 where the agent finds housing for the tenant to rent and does not also act for the landlord of that housing.
+
+Clause 8
+
+Financial penalties
+
+Amendment proposed: 1, page 5, line 13, leave out “£5,000” and insert “£30,000”.—(Melanie Onn.)
+
+Division 233
+05/09/2018 16:49:00
+The House divided:
+Ayes: 240
+Noes: 299
+Question accordingly negatived.
+
+Clause 8
+
+Financial Penalties
+
+Amendment made: 8, page 5, line 38, leave out from “(6)” to “in” in line 39 and insert—
+
+“Only one financial penalty under this section may be imposed”. —(Rishi Sunak.)
+
+Clause 8(6) currently provides that an enforcement authority may not impose more than one penalty under the clause for the same breach. This amendment clarifies that, in addition, no more than one authority may impose a penalty for the same breach.
+
+Clause 10
+
+Recovery by Enforcement Authority of Amount Paid
+
+Amendments made: 9, page 6, line 27, after “that” insert—
+
+“, with the consent of the relevant person”.
+
+This amendment and Amendments 10, 12, 18, 19 and 43 have the effect that a prohibited payment or a holding deposit which must be repaid may only be applied to a payment of rent or the tenancy deposit if the relevant person consents.
+
+Amendment 10, page 7, line 17, after “that” insert—
+
+“, with the consent of the relevant person”—(Rishi Sunak.)
+
+See the explanatory statement for Amendment 9.
+
+Clause 14
+
+Duty to Notify when taking Enforcement Action
+
+Amendment made: 11, page 9, line 22, at end insert—
+
+“, or () the enforcement authority brings proceedings for an offence under section12 and the defendant in the proceedings is convicted of the offence.” .—(Rishi Sunak.)
+
+This amendment requires an enforcement authority to notify the lead enforcement authority if the enforcement authority brings proceedings for an offence under Clause 12 and the defendant in the proceedings is convicted.
+
+Clause 15
+
+Recovery by Relevant Person of Amount Paid
+
+Amendments made: 12, page 10, line 36, after “that” insert—
+
+“, with the consent of the relevant person”.
+
+See the explanatory statement for Amendment 9.
+
+Amendment 13, page 11, line 6, leave out from “period” to end of line 7 and insert “specified in the order”.
+
+This amendment and Amendments 14 and 44 to 48 change the period for repayment of a prohibited payment from 28 days to a period of at least 7 days but not more than 14 days.
+
+Amendment 14, page 11, line 7, at end insert—
+
+“( ) A period specified under subsection (9) must be a period of at least 7 days but not more than 14 days beginning with the day after that on which the order is made.”—(Rishi Sunak.)
+
+See the explanatory statement for Amendment 13.
+
+Clause 16
+
+Assistance to Recover Amount Paid
+
+Amendments made: 15, page 11, line 12, after “person” insert “—(a)”
+
+This amendment and Amendments 16 and 17 enable an enforcement authority to assist a relevant person to recover an amount which the First-tier Tribunal orders to be paid to that person on an application under Clause 15.
+
+Amendment 16, page 11, line 13, at end insert—
+
+“, or (b) to recover all or part of an amount which the First-tier Tribunal orders to be paid to the relevant person under that section.”
+
+See the explanatory statement for Amendment 15.
+
+Amendment 17, page 11, line 14, leave out “to apply”.—(Rishi Sunak.)
+
+See the explanatory statement for Amendment 15.
+
+Clause 17
+
+restriction on Terminating Tenancy
+
+Amendments made: 18, page 11, line 31, after “if” insert—
+
+“, with the consent of the relevant person”.
+
+See the explanatory statement for Amendment 9.
+
+Amendment 19, page 11, line 40, after “if” insert—
+
+“, with the consent of the relevant person”.—(Rishi Sunak.)
+
+See the explanatory statement for Amendment 9.
+
+Clause 28
+
+Transitional Provision
+
+Amendments made: 20, page 19, line 39, after “landlord” insert “or a letting agent”.
+
+This amendment and amendments 21 and 22 have the effect that, if a payment under a pre-commencement tenancy agreement is made to a letting agent after the end of a year from the commencement of Clause 1, it is a prohibited payment.
+
+Amendment 21, page 19, line 41, after “(b)” insert—
+
+“the landlord or letting agent”.
+
+See the explanatory statement for Amendment 20.
+
+Amendment 22, page 19, line 43, “landlord” insert “or letting agent”.
+
+See the explanatory statement for Amendment 20.
+
+Amendment 23, page 20, line 18, after “(b)” insert “the letting agent”.—(Rishi Sunak.)
+
+This amendment ensures that the wording of paragraph (b) of subsection (10) of Clause 28 follows on from the opening words of that subsection.
+
+Schedule 1
+
+Permitted Payments
+
+Amendment proposed: 3, page 23, in line 30, leave out paragraph 4 and insert—
+
+“Payment of Landlord or Agent expenses
+
+4 (1) A payment that a tenant is required to make to cover a landlord’s or agent’s reasonable loss arising from a breach of a fair condition of the tenancy agreement by the tenant is a permitted payment.
+
+(2) In this paragraph a “fair condition” is one that relates to—
+
+(a) the replacement cost of a lost key or security device, or
+
+(b) payment of the amount of late rent payments and interest relating to those payments arising under or in connection with the tenancy.
+
+(3) Paragraph 4(2)(a) does not apply if the payment required—
+
+(a) pertains to rent that was paid within 14 days of the date due under the tenancy agreement, or
+
+(b) exceeds the interest at Bank of England base rate on the rent from the day the rent was due to the day it was paid.
+
+(4) Paragraph 4(2)(b) does not apply if the condition in the tenancy agreement prescribes a fixed fee to be paid for each breach of this term.”
+
+This amendment would remove default fees as a permitted payment and permit the payment of landlord and agent expenses where there is a clear cost due to a tenant fault.—(Melanie Onn.)
+
+Division 234
+05/09/2018 17:09:00
+The House divided:
+Ayes: 241
+Noes: 302
+Question accordingly negatived.
+
+Schedule 1
+
+Permitted payments
+
+Amendments made: 24, page 23, line 31, leave out
+
+“that a tenant is required to make”.
+
+This amendment and Amendments 25 and 29 to 42 clarify that a payment may be a permitted payment whether it is required to be made by the tenant or a person acting on behalf of, or who has guaranteed the payment of rent by, a tenant.
+
+Amendment 25, page 23, line 32, leave out from first “the” to end of line 33 and insert
+
+“tenancy agreement requires the payment to be made.”
+
+See the explanatory statement for Amendment 24.
+
+Amendment 26, page 23, line 38, leave out “loss suffered” and insert
+
+“costs which—
+
+() are reasonably incurred”.
+
+This amendment and Amendment 28 means that, to be permitted payment, a default payment must be limited to the landlord’s or agent’s reasonable costs, which must also be evidenced in writing.
+
+Amendment 27, page 23, line 38, at end insert “or letting agent”.
+
+This amendment has the effect that a payment to a letting agent in the event of a default by the tenant may be a permitted payment where paragraph 4 of Schedule 1 applies.
+
+Amendment 28, page 23, line 39, after “default,” insert “and
+
+( ) are supported by evidence in writing which is provided to the person on whom the requirement to make the payment is imposed,”.
+
+See the explanatory statement for Amendment 26.
+
+Amendment 29, page 24, line 2, leave out
+
+“that a tenant is required to make”.
+
+See the explanatory statement for Amendment 24.
+
+Amendment 30, page 24, line 15, leave out
+
+“that a tenant is required to make”.
+
+See the explanatory statement for Amendment 24.
+
+Amendment 31, page 24, line 25, leave out
+
+“that a tenant is required to make”.
+
+See the explanatory statement for Amendment 24.
+
+Amendment 32, page 24, line 38, leave out
+
+“that a tenant is required to make”.
+
+See the explanatory statement for Amendment 24.
+
+Amendment 33, page 24, line 39, leave out from “payment” to end of line 41.
+
+See the explanatory statement for Amendment 24.
+
+Amendment 34, page 25, line 2, leave out
+
+“that a tenant is required to make”.
+
+See the explanatory statement for Amendment 24.
+
+Amendment 35, page 25, line 3, leave out from first “the” to end of line 4 and insert
+
+“tenancy agreement requires the payment to be made.”
+
+See the explanatory statement for Amendment 24.
+
+Amendment 36, page 25, line 5, leave out
+
+“that a tenant is required to make”.
+
+See the explanatory statement for Amendment 24.
+
+Amendment 37, page 25, line 7, leave out from second “the” to end of line 8 and insert
+
+“tenancy agreement requires the payment to be made.”
+
+See the explanatory statement for Amendment 24.
+
+Amendment 38, page 25, line 13, leave out
+
+“that a tenant is required to make”.
+
+See the explanatory statement for Amendment 24.
+
+Amendment 39, page 25, leave out line 15 and insert
+
+“tenancy agreement requires the payment to be made.”
+
+See the explanatory statement for Amendment 24.
+
+Amendment 40, page 25, line 19, leave out
+
+“that a tenant is required to make”.
+
+See the explanatory statement for Amendment 24.
+
+Amendment 41, page 25, line 20, leave out from “the” to end of line 21 and insert
+
+“tenancy agreement requires the payment to be made.”
+
+See the explanatory statement for Amendment 24.
+
+Amendment 42, page 25, line 22, leave out
+
+“that a tenant is required to make”.—(Rishi Sunak.)
+
+See the explanatory statement for Amendment 24.
+
+Schedule 2
+
+Treatment of holding deposit
+
+Amendment made: 43, page 26, line 24, after “applied” insert
+
+“, with the consent of the person by whom it was paid”.—(Rishi Sunak.)
+
+See the explanatory statement for Amendment 9.
+
+Schedule 3
+
+Financial penalties etc
+
+Amendments made: 44, page 27, line 33, after second “paragraph” insert “4(3A) (period for payment),”.
+
+See the explanatory statement for Amendment 13.
+
+Amendment 45, page 28, line 27, leave out from second “the” to end of line 28 and insert “relevant period.”
+
+See the explanatory statement for Amendment 13.
+
+Amendment 46, page 28, line 28, at end insert—
+
+“(3A) In sub-paragraph (3) “the relevant period” means—
+
+(a) in relation to a financial penalty under section 8, the period of 28 days beginning with the day after that on which the notice is served;
+
+(b) in relation to an amount which is required to be paid under section 10(2), (5) or (8) or 11(1), the period specified in the notice.
+
+(3B) A period specified as mentioned in sub-paragraph (3A)(b) must be a period of at least 7 days but not more than 14 days beginning with the day after that on which the notice is served.”
+
+See the explanatory statement for Amendment 13.
+
+Amendment 47, page 29, line 8, leave out from “period” to end of line 9 and insert
+
+“that is the relevant period in relation to the penalty by virtue of paragraph 4(3A).”
+
+See the explanatory statement for Amendment 13.
+
+Amendment 48, page 29, line 10, after “suspended” insert
+
+“so far as it relates to the penalty which is the subject of the appeal”.—(Rishi Sunak.)
+
+See the explanatory statement for Amendment 13.
+
+Madam Deputy Speaker (Dame Rosie Winterton)
+I will now suspend the House for no more than five minutes in order to make a decision about certification. The Division bells will be rung two minutes before the House resumes. Following my certification, the Government will table the appropriate consent motion, copies of which will be available shortly in the Vote Office and will be distributed by Doorkeepers.
+
+17:24:00
+
+Sitting suspended.
+
+17:30:00
+
+On resuming—
+
+Madam Deputy Speaker (Dame Rosie Winterton)
+I can now inform the House that I have completed the certification of the Bill, as required by the Standing Order. I have confirmed the view expressed in the provisional certificate published with the selection list. Copies of the final certificate will be made available in the Vote Office and on the parliamentary website. Under Standing Order No. 83M a consent motion is therefore required for the Bill to proceed. Copies of the motion are available in the Vote Office and on the parliamentary website, and have been made available to Members in the Chamber. Does the Minister intend to move the consent motion?
+
+Rishi Sunak
+indicated assent.
+
+The House forthwith resolved itself into the Legislative Grand Committee (England) (Standing Order No. 83M(4)).
+
+[Dame Rosie Winterton in the Chair]
+
+17:31:00
+
+David Linden (Glasgow East) (SNP)
+I beg to move, That the Committee do sit in private.
+
+The Second Deputy Chairman of Ways and Means (Dame Rosie Winterton)
+I regret that I have to inform the hon. Gentleman that I cannot put his motion to the Committee. That is because he is not a member of the Legislative Grand Committee, because he does not represent a qualifying constituency—in this case, a constituency in England. Under Standing Order No. 83W, a Member who is not a member of a Legislative Grand Committee may take part in its deliberations but may not vote, make any motion or move any amendment.
+
+David Linden
+Further to that point of order, Madam Deputy Speaker. Thank you for your ruling on that. Can you just clarify for me, as you have done, that because I am a Member from a Scottish constituency I am unable to take part in proceedings of this House, and indeed that that is contrary to what the people of Scotland were told in 2014, when they were told they were an equal part of the United Kingdom?
+
+The Second Deputy Chairman
+The hon. Gentleman may take in part in the deliberations but, as I have said, he may not vote, make any motion or move any amendment.
+
+As the knife has fallen, there can be no debate. I call the Minister to move the consent motion.
+
+Motion made, and Question put forthwith (Standing Order No. 83M(5)),
+
+That the Committee consents to the Tenant Fees Bill.—(Rishi Sunak).
+
+Question agreed to.
+
+The occupant of the Chair left the Chair to report the decision of the Committee (Standing Order No. 83M(6)).
+
+The Deputy Speaker resumed the Chair; decision reported.
+
+Third Reading
+
+Queen’s consent signified.
+
+17:33:00
+
+The Secretary of State for Housing, Communities and Local Government (James Brokenshire)
+I beg to move, That the Bill be now read the Third time.
+
+I thank Members on both sides of the House for their passionate and constructive contributions to the Bill’s passage through the House. We all agree that the Bill’s aim of making renting fairer, more transparent and more affordable for tenants is important. As such, it is a key part of the Government’s housing agenda. More people are renting, and they deserve help now, which is what the Bill is all about. We want to ensure that everyone, regardless of whether they own their home or rent, or whether they are in the social or private sector, has the security and dignity they need to build a better life.
+
+The feedback and evidence we received recognised the challenges that tenants in the private sector face, especially regarding unfair fees and the need to rebalance the relationship between tenants, landlords and agents. Having listened, we introduced amendments on Report to ensure that the Bill better delivers on our commitment to create a system that works for everyone. I thank all those who have engaged with the process, from our initial consultation through to pre-legislative scrutiny and since the Bill’s introduction to the House. That includes members of the Housing, Communities and Local Government Committee, with their invaluable pre-legislative scrutiny of the Bill; those who provided written and oral evidence to the Committee; and the organisations that have engaged so constructively with my officials in drafting guidance for the Bill.
+
+Mr Betts
+I thank the Secretary of State for his kind words about the Select Committee. Does he think that there is a wider lesson to be learned—that it would be helpful if the Government more generally provided draft legislation for Select Committees to consider, rather than simply coming to the House with proposals that they have already determined without any consideration in Select Committee?
+
+James Brokenshire
+I recognise the important contribution that Select Committees, and Joint Committees of both Houses, make to pre-legislative scrutiny of draft Bills, and we can point to a number of examples. As I am sure the hon. Gentleman will appreciate, at other times the Government need to act quickly. The Bill has been a good example of the balance needed between ensuring consultation and engagement.
+
+I also wish to pay special tribute to the Under-Secretary of State, my hon. Friend the Member for South Derbyshire (Mrs Wheeler), for all her efforts to develop the Bill and ensure its successful introduction. We all send her our heartfelt best wishes.
+
+I also wish to thank the Under-Secretary of State, my hon. Friend the Member for Richmond (Yorks) (Rishi Sunak), who has been instrumental in leading the Bill through the Commons and has been careful and conscientious in listening to the views of Members on both sides of the House.
+
+We can all agree that the Bill has benefited from everyone’s input and, as a result, will be more effective in delivering on its promise to protect tenants from unfair charges. As we have heard, those charges can impose a significant burden on tenants, who often have little choice but to pay excessive and unjustified fees time and again for each property let or even just to renew an existing agreement. The Bill will put a stop to such unacceptable practices by banning unfair and hidden charges, making it easier for tenants to find a property at a price they are willing to pay and saving renters an estimated £240 million within the first year alone. The Bill will also help to introduce a level playing field for landlords and agents by protecting reputable players in the market from having their reputations tarnished by rogues.
+
+I know that the changes have raised concerns in some parts of the letting market, but agents who offer good value and high quality services to landlords will continue to be in demand and play an important role in the sector. In addition, the Bill introduces a cap on tenancy deposits of six weeks’ rent, and we are not stopping there. We want to ensure improvements to how deposits are protected in the interests of both tenants and landlords, to reduce up-front costs to tenants. That is why we recently established a working group to look at the merits of innovative approaches to tenancy deposits, such as deposit passporting.
+
+I am confident that the measures in the Bill will help to deliver the fairer, clearer and more affordable private rented sector that we all want to see—for tenants, yes, but also for decent, professional landlords and agents who are providing a vital service. I am happy to commend the Bill to the House.
+
+17:38:00
+
+Melanie Onn
+I thank the Secretary of State for his words and my colleagues who have taken part in the debates and assisted in Committee. The conversations that we have had have been very helpful, and were certainly heard to some degree by the Minister, and I thank him for that. I am pleased that the Bill is leaving the House in a better state than when it was introduced, after pressure from Labour to improve specific elements of it. But there is still more that the Bill needs to include to stop this being a missed opportunity for 4.7 million tenants in England. Those tenants often end up in the private rented sector not by choice but because of the lack of social housing, especially in high-demand areas.
+
+The Government need to consider further the impact of their policy, which allows default fees to continue to be open to abuse. More than half of tenants do not see their tenancy agreement before putting money down for a tenancy. Much emphasis is still placed on the ability of a tenancy agreement to signify a mutually understood and fair relationship, but that is very often not the reality for tenants. The Bill continues to place reliance on guidance, so much so that the Chair of the Delegated Powers and Regulatory Reform Committee, Lord Blencathra, has said that, since the guidance will play such an important part in the functioning of this Bill, it should be subject to parliamentary scrutiny, but we are yet to see even a hint of a first draft. I hope that the Government reconsider the current provision regarding default fees and bring in regulations to tie down tenants’ rights. If they remain steadfast against that idea, will they at least follow the advice of Lord Blencathra?
+
+Members on both sides of the House have raised continuing issues regarding deposits and enforcement. However, Labour fundamentally supports the Bill because it will tackle many of the unfair fees that tenants face when they rent a property, and will help to build a more professional, transparent and fairer private rented sector across England. I am pleased that years of Labour pressure have finally twisted the Government’s arm on this issue and brought forward a Bill that starts to do genuine good for tenants. But the battle to create a private rented sector that works for the 4.7 million renters in this country is far from complete.
+
+The most recent English housing survey made for hard reading for many of England’s private renters. The rental marker is affecting more and more people from a wider variety of groups. The proportion of families in our rental market is going up, with 20% more families in the private rental sector since 2010. More and more children—not just young adults and students—are growing up in rental accommodation. Although the short-term nature of rental accommodation offers flexibility for some, it can have a devastating effect on others. Families in rental accommodation are nine times more likely to move than those who own a house, incurring repeated deposits and fees. Despite today’s efforts, rental regulation in this country still leaves a lot to be desired, and tenants need far more long-term security when they rent a house.
+
+We had hoped that this Bill would be broadened to make longer tenancies a reality, and to ensure that families do not face yearly moves and get hit with repeat fees and costs. However, despite the Prime Minister’s protests at Prime Minister’s questions today, there were reports last night that suggested that the Government are afraid to take that measure to further help millions of renters around the country.
+
+As this Bill moves to the other place, there remain issues that could be explored further to improve rights and access to rights for renters, and to ensure that suitable deterrents and enforcement are in place to improve the private rental sector in the UK. I trust that genuine issues raised by Members today will be given closer consideration to reflect the hopes of those in the private rented sector.
+
+17:42:00
+
+Wera Hobhouse (Bath) (LD)
+May I first draw the attention of the House to my entry in the Register of Members’ Financial Interests?
+
+One of the many effects of the housing crisis is the sheer amount of people now forced into the private rented sector. It is for this reason that I am adamant that we must improve conditions for renters. The Liberal Democrats have fought long for renters’ rights, so I welcome and support this Bill. It is vital that we in Westminster ensure that tenants’ fees are abolished because of the transient nature of the private rented sector, particularly for young people. However, the housing crisis has also pushed many families into renting and, as we heard earlier, the leading cause of homelessness is the ending of a private rented sector tenancy.
+
+While rental costs continue to spiral, people are becoming trapped. They cannot afford their rent, but nor can they afford to move because of the myriad administrative fees. We must ensure that the Bill fully ends the practice of tenants’ fees. However, as the Bill is currently drafted, there are still loopholes around default fees. The Secretary of State’s amendments go some way towards closing the gap, and ensuring that letting agents and landlords do not introduce new fees under a different name. However, the text of the Bill is still too ambiguous, leaving what constitutes a reasonable cost to the discretion of landlords or letting agents. We must also provide local authorities with appropriate funding to enforce the ban. If local authorities have no resources to enforce it, landlords and letting agents will just continue with this unreasonable practice.
+
+I urge the Secretary of State to listen to the concerns raised today. Otherwise he will undermine legislation that could really make a difference to people’s lives. There is little merit in introducing legislation with obvious loopholes that allow individuals to continue with a practice that we want to stop. There is also very little merit in introducing legislation that we cannot enforce due to the lack of resources.
+
+We currently have about 5 million households in the private rented sector. Today we are beginning to tackle letting fees, but there must be more wholesale reform of the private rented sector. For example, my Liberal Democrat colleagues and I believe that there must be compulsory registration of landlords, that there must be public access to the Government’s database of rogue landlords, and that those landlords should not be able to obtain a licence for houses in multiple occupation.
+
+This Bill is, in good measure, the result of the hard work put in by my Liberal Democrat colleagues in the other place. I look forward to further improvements as the Bill progresses.
+
+17:45:00
+
+Mr Betts
+It is good to be here today supporting a Bill that has secured general agreement across the House and is a positive move to help tenants in particular circumstances. I hope that, as the Secretary of State said, the work of the Select Committee has assisted in that process. As I said, I think it would be better if more Bills went through such a process on a regular basis. It is good that the Government have been listening to the Select Committee and have reflected that in their amendments.
+
+However, the Bill raises a number of issues about the need for wider reform in the private rented sector. While we were pleased with the Government’s response to this Bill, we are probably less pleased by their response to our report on the private rented sector in general, where we think they still have a way to go in delivering real change. We will be pushing them on that.
+
+One of the issues across the sphere of issues in the private rented sector is housing courts. That issue applies to this Bill, as I said in the debate on the amendments. If we are properly to deal with the issue of enforcement and a place to go—not merely for tenants but for landlords—to sort out disputes in an easy way that all sides can afford, we need to reform the way in which that can be done through a new system of housing courts. The Select Committee is certainly going to press on that. I hope that the Government will be responsive. They have indicated their desire to do something in that regard, but we have not yet seen what they intend.
+
+The Secretary of State rightly said that the Minister has been particularly assiduous in listening and responding to the Select Committee’s concerns, but the Bill began under the remit of the Under-Secretary of State, the hon. Member for South Derbyshire (Mrs Wheeler). I would like to put it on record that Labour Members recognise that the hon. Lady has been through an incredibly difficult personal time in the past few months. We offer her our best wishes and sympathy and say how good it is to see her back in her place in this House today.
+
+Question put and agreed to.
+
+Bill accordingly read the Third time and passed.
+
+Voyeurism (Offences) (No. 2) Bill (Business of the house)
+
+Ordered,
+
+That, at this day’s sitting, the following provisions shall apply to proceedings on the Voyeurism (Offences) (No. 2) Bill:
+
+Timetable
+
+(1) (a) Proceedings on Consideration and proceedings up to Third Reading shall (so far as not previously concluded) be brought to a conclusion two hours after commencement of proceedings on the Motion for this Order.
+
+(b) Proceedings on Third Reading shall (so far as not previously concluded) be brought to a conclusion three hours after the commencement of proceedings on the Motion for this Order.
+
+Timing of proceedings and Questions to be put
+
+(2) If, following proceedings on Consideration of the Bill, a Legislative Grand Committee withholds consent to the Bill or any Clause or Schedule of the Bill or any amendment made to the Bill, the House shall proceed to Reconsideration of the Bill without any Question being put.
+
+(3) If, following Reconsideration of the Bill—
+
+(a) a Legislative Grand Committee withholds consent to any Clause or Schedule of the Bill or any amendment made to the Bill (but does not withhold consent to the whole Bill),
+
+(b) the Bill is amended to remove any provisions which are not agreed to by the House and the Legislative Grand Committee, and
+
+(c) a Minister of the Crown indicates his or her intention to move a minor or technical amendment to the Bill as so amended, the House shall proceed to consequential Consideration of the Bill without any Question being put.
+
+(4) For the purpose of bringing any proceedings to a conclusion in accordance with paragraph (1), the Speaker or Chairman shall forthwith put the following Questions (but no others) in the same order as they would fall to be put if this Order did not apply—
+
+(a) any Question already proposed from the Chair;
+
+(b) any Question necessary to bring to a decision a Question so proposed;
+
+(c) any Question on any amendment, new Clause or new Schedule selected by the Speaker or Chairman for separate decision;
+
+(d) the Question on any amendment moved or Motion made by a Minister of the Crown;
+
+(e) any other Question necessary for the disposal of the business to be concluded.
+
+(5) On a Motion so made for a new Clause or a new Schedule, the Speaker or Chairman shall put only the Question that the Clause or Schedule be added to the Bill.
+
+(6) If two or more Questions would fall to be put under paragraph (4)(d) on successive amendments moved or Motions made by a Minister of the Crown, the Speaker or Chairman shall instead put a single Question in relation to those amendments or Motions.
+
+(7) If two or more Questions would fall to be put under paragraph (4)(e) in relation to successive provisions of the Bill, the Speaker or Chairman shall instead put a single Question in relation to those provisions, except that the Question shall be put separately on any Clause of or Schedule to the Bill which a Minister of the Crown has signified an intention to leave out.
+
+Miscellaneous
+
+(8) Standing Order No. 15(1) (Exempted business) shall apply so far as necessary for the purposes of this Order.—(Lucy Frazer.)
+

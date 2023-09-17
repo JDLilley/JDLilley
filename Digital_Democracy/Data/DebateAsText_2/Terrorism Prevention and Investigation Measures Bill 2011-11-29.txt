@@ -1,0 +1,332 @@
+Terrorism Prevention and Investigation Measures Bill
+
+Consideration of Lords amendments
+
+Clause 8
+
+Directions hearing
+
+15:45:00
+
+The Parliamentary Under-Secretary of State for the Home Department (James Brokenshire)
+I beg to move, That this House agrees with Lords amendment 1.
+
+Mr Deputy Speaker (Mr Lindsay Hoyle)
+With this it will be convenient to consider:
+
+Lords amendments 2 to 10.
+
+Lords amendment 11, and amendment (a) thereto.
+
+James Brokenshire
+The Bill returns to the House after its consideration in the other place. It was subject to lengthy and detailed scrutiny here in the summer, with 10 sittings in Committee, a Report and a Third Reading, all of which were characterised by a high standard of debate.
+
+Their lordships have now given the Bill the full benefit of their expertise, and I am pleased to say that its main provisions are largely as they left this House, reflecting an acceptance that, however unfortunate this might be, there are a small number of individuals involved in terrorism whom we cannot successfully prosecute or deport, and the measures in the Bill are needed to deal with such individuals.
+
+The Bill returns from the other place subject to 11 Government amendments, which are largely minor and technical changes to clarify drafting and better to reflect the policy intention. I will briefly explain why we have made those amendments, dealing first with Lords amendments 1 to 10 before moving on to Lords amendment 11 and Opposition amendment (a).
+
+Lords amendments 1 and 2 make a small but necessary change to clause 8. The clause provides that the court must, when granting permission to impose a terrorism prevention and investigation measure notice—a TPIM notice—at the outset of the process give directions for a directions hearing in relation to the automatic full review of the case. As the Bill was originally drafted, that directions hearing would have had to have taken place within seven days of the TPIM notice being served, unless the individual agreed to postpone it.
+
+The programming of such hearings is, of course, a matter for the courts. It became clear that the original provision had unintentionally introduced a restriction on the discretion available to the courts to manage similar directions hearings in the control order context. We were therefore asked by Her Majesty’s Courts and Tribunal Service to make a change to the Bill in order to provide the courts with a degree of flexibility in that respect and to facilitate effective management of court time.
+
+We have therefore amended clause 8 so that the court may programme the directions hearing later than seven days after service of the TPIM notice, if it so directs. Of course, the intention is that directions hearings will be listed within those seven days where possible, but when the court is unable to do so, for example over a holiday period, the amendment will give the court the discretion to list the hearing slightly later.
+
+Clause 8 still ensures, at subsection (5), that directions given at the hearing must provide for the substantive review hearing to be held as soon as reasonably practicable.
+
+Bob Stewart (Beckenham) (Con)
+How much later might it be possible to review the decision? The period is one week to start off with, but could it amount to 28 days, three months, or will it be flexible, with the court having the jurisdiction to decide that issue as well?
+
+James Brokenshire
+It is the purpose of the amendment to give the court discretion, although a practice has been established through the jurisprudence on control orders which informs that process. It is therefore intended to provide the court with the flexibility, as I explained in my introductory remarks.
+
+Richard Fuller (Bedford) (Con)
+May I probe and press my hon. Friend a little further on this point? As he knows, a number of colleagues in the House have the same concern about the TPIMs regime as they had about the old control orders regime: the uncertainty that arises for individuals in the court process. Does he accept that the amendments to clause 8 will increase that level of uncertainty for people who are put under TPIMs? Does he agree that there is scope for providing, if not a seven-day limit, at least a definitive statement about for how long, at each stage of the process, such individuals will be detained?
+
+James Brokenshire
+As I have already explained, we received this request following the consideration by Her Majesty’s Courts and Tribunals Service. The Government have not been seeking to provide any uncertainty—far from it. The provision is intended to reflect the practice of the courts. Therefore, following consideration of the representations that we received, we have introduced the Lords amendment that is before the House.
+
+Richard Fuller
+I greatly appreciate the Minister’s clarification. I fully accept that this is not a request by the Government. I am saying, from a political perspective on that role of the courts, that we are talking about the start of a process that imposes penalties on people and that, at almost every stage, has a level of indeterminacy about what is being put in place for them and how long it will last. Will my hon. Friend give some perspective on the suggestion that this change, even though it has been requested by the courts, further exacerbates the uncertainty in the imposition of such controls?
+
+James Brokenshire
+I do not accept that it provides uncertainty. It provides the courts with the ability to operate the regime effectively. As this matter was raised in the Lords, we are seeking this House’s consideration to ensure that the measure is properly applied. That is the basis on which we have introduced the amendment. I think it is appropriate to provide flexibility in the way that has been proposed.
+
+Amendment 10 relates to the police reporting measure. It makes it clear that in addition to requiring the individual to report to a police station at specified times and in a specified manner, the Secretary of State may require the individual to comply with directions given by the police in relation to such reporting. That is necessary to ensure that the individual can be required to co-operate with the practicalities of reporting—for example, requiring  him to report to the front desk of the police station, to speak to the officer there, and to sign to confirm his attendance. That has always been the intention behind the measure, and it is the current practice for control orders. It is necessary to ensure that the provision reflects the reality of how the measure is intended to operate. It is also in line with the general procedures for individuals required to report to a police station for any other reason—for example, individuals on police or court bail. Lords amendment 3 is necessary in consequence. It specifies that the definition of “TPIM decision” at clause 17(3) includes such a direction given by a constable in relation to the reporting measure.
+
+Lords amendments 4 and 5 are essentially technical amendments which are necessary in consequence of changes to other legislation currently before Parliament. Section 154(1) of the Criminal Justice Act 2003, which has not been commenced, increases the maximum sentence on summary conviction in England and Wales from six months to 12 months. When the Terrorism Prevention and Investigation Measures Bill was drafted, the intention was that that provision would be repealed by the Legal Aid, Sentencing and Punishment of Offenders Bill. Because of this, clause 23 provides that the maximum sentence on summary conviction for contravening a measure specified in a TPIM notice is six months. However, section 154(1) of the 2003 Act will not now be repealed. On that basis, these amendments are needed to revert to the previous practice when legislating for offences that are tried summarily. They provide for a maximum 12-month term in England and Wales, but include a transitional provision limiting the sentencing power to six months pending commencement of section 154(1) of the 2003 Act.
+
+Lords Amendments 6 and 9 relate to the overnight residence measure. That is intended to ensure that the individual can be required to reside at a specified address and to remain there for specified periods overnight. The clear purpose of that is to manage risk. As part of that measure, it may be necessary to require the individual to remain within the residence and to prohibit them from entering any garden or outside area that forms part of the property or any communal area in a shared property during the specified hours overnight.
+
+As it was drafted, the provision did not necessarily make it clear that the measure could be applied in that way. These are essential drafting amendments to remove that uncertainty and to make clear the policy intention. They put it beyond doubt that the individual may be required to remain within their residence—that is, essentially, behind their front door—during the specified overnight period. I should make it clear that, where individuals are required to remain at their residence or are electronically monitored in other contexts, they will usually be required to remain in their house or flat and will not be allowed out into their garden. The particular requirements imposed by the Secretary of State in each case must, of course, always be necessary and proportionate. The court will subsequently consider the proportionality of each measure as part of its review of the notice.
+
+On the point about directions hearings that my hon. Friend the Member for Bedford (Richard Fuller) made, I should add that clause 8(5) still provides that the substantive hearing is to take place as soon as possible.  I just wanted to reassure him in case he thought that the proposal was open-ended. That is certainly not the intention. I hope that the need to act expeditiously in this regard is clear to him.
+
+Lords Amendment 7 deletes subsection (11)(a) of clause 26, which allowed a temporary enhanced TPIM order to amend any enactment. That subsection was drafted on the basis that the temporary enhanced TPIM order would need to amend other legislation to ensure that the enhanced TPIM system would function correctly. The Government considered it further following an amendment helpfully tabled in Committee in the other place by Baroness Hamwee. We concluded that the subsection was not necessary for this purpose and therefore amended the Bill on Report to remove it.
+
+Lords Amendment 8 is necessary to ensure that the power to make a temporary enhanced TPIM order does not impinge inappropriately on devolved matters in Scotland. Clause 26, as amended, provides that a temporary enhanced TPIM order may not make any provision relating to devolved matters in Scotland, other than those already contained in the Bill, without the consent of the Scottish Government. In relation to those provisions touching on devolved matters that are already contained in the Bill, I can confirm that the Scottish Parliament passed a legislative consent motion on 17 November. I am grateful to Scottish Ministers and officials for their help in that regard.
+
+Finally, Lords Amendment 11 relates to the transitional period provided by schedule 8. In the period following the coming into force of the Bill, the control orders in force immediately before the commencement of the Bill will remain in force, unless revoked or quashed before the end of that period. Such a period is needed to ensure that there can be a safe, orderly and managed transition of individuals from the old system to the new system. As the Government have consistently made clear, the police have confirmed that extensive preparations are being made and that arrangements will be in place to manage the move from the control order system to the TPIMs system.
+
+Paul Goggins (Wythenshawe and Sale East) (Lab)
+Will the Minister give way?
+
+James Brokenshire
+I will just finish this point and then I will gladly give way to the right hon. Gentleman.
+
+We have received advice from the police that as the transitional period will fall over the Christmas and new year holiday period, a small extension to the period is necessary. That will assist in the effective management of the process of transition for individual cases over the holiday period. It does not reflect on preparedness. Lords amendment 11 therefore extends the transitional period from 28 to 42 days.
+
+I give way to the right hon. Gentleman.
+
+Paul Goggins
+I am delighted that the Minister did not give way when I sought to intervene, because he has been able to enlighten the House and demonstrate that Opposition Members who have been pressing him for months on whether the police and Security Service would be ready have partly been proved correct. Let us look at the bigger picture, however. With the Olympic   games, a new system and the end of relocation, why does such a moderate Minister want to take so many risks with the safety of the public?
+
+16:00:00
+
+James Brokenshire
+I certainly do not accept that characterisation, and I am very happy to come on to amendment (a). We regard national security as a top priority. The right hon. Gentleman has heard me say that, and I stand by those words. He will know the responsibilities that Ministers hold in dealing with such matters, and the very careful consideration that we apply when considering changes to legislation.
+
+Amendment (a) to Lords amendment 11, which stands in the names of the right hon. Gentleman and other Opposition Members, would replace the 42-day transitional period with one of 365 days. It brings us back to an issue that was debated at length during the Bill’s passage through this House and the other place. To that extent, it takes us back over a number of points that have been debated and discussed in great detail, and my response is unchanged: I believe that the amendment is simply not necessary.
+
+As I have repeatedly made clear, the Metropolitan police and the Security Service have confirmed to the Home Secretary and myself that extensive preparations are being made and that arrangements will be in place to manage the move from the control orders system to the TPIMs system effectively. Indeed, the Home Secretary received a detailed briefing from the Metropolitan police only last week on the transitional plans that it has drawn up. However, the police recently advised us that a slightly longer transitional period was needed, as it will fall over the Christmas and new year period. We have consequently increased the transitional period to 42 days, which will assist in the effective management of the process of transition in individual cases. It was for that reason that the Lords amendment was introduced.
+
+Mark Field (Cities of London and Westminster) (Con)
+I would not in any way wish to accuse the Minister of being soft on terrorism, but equally, given the relatively small number of people who are currently subject to control orders—about nine—does he not see that it might be more sensible to have an overlapping system of control orders and TPIMs for the difficult period of unknown threat around the Olympic games? There is some sense in that, given that at most nine people would be affected.
+
+James Brokenshire
+We have considered the issue very carefully, and as I said on Report, we have received assurances from the police and Security Service that effective arrangements will be in place to manage the transfer to TPIMs when the new regime comes into effect. What I said on Report remains the case: the police and Security Service have been developing the additional capacity and capability needed to prepare for the transition to the new TPIMs regime. That preparation has been ongoing for a considerable time.
+
+I should be absolutely clear that the additional resources are not simply about providing additional human surveillance capacity. The police and the Security Service are using the additional money to enhance their use of a range of covert investigative techniques, including human and technical surveillance. Inevitably, some of the benefits  from the additional resources will take time to be fully realised, as it will be necessary to take the time to train and deploy additional staff in order to derive full benefit from technical investment. However, the key point is that at the point of the transition to the new TPIMs arrangement, effective arrangements will be in place in both the police and the Security Service.
+
+Jeremy Corbyn (Islington North) (Lab)
+Can the Minister explain the exact thinking behind that relatively modest extension of the transitional period to 42 days? I do not quite understand why its coinciding with the Christmas and new year period makes it difficult to introduce what will presumably be a simpler system than the one that we currently have.
+
+James Brokenshire
+Christmas and the holiday season obviously have operational impacts, and we are therefore simply adding those 14 days to the 28 days for which the Bill originally provided to assist in the effective transition and management at that time. It is not about readiness; it is simply to aid the transition process for those people who are already on control orders and who may subsequently move on to terrorism prevention and investigation measures.
+
+On Report and Third Reading, I was told, “Well, you say that the police are prepared and that appropriate arrangements are in place to manage the transfer effectively from control orders to TPIMs”, and I heard clearly the comments that were made then. I will put in the Library a letter from Assistant-Commissioner Cressida Dick, which sets out the preparedness of the Metropolitan police and underlines that arrangements will be in place to manage the transfer effectively. I note that the Opposition have consistently made several points about that. Again, I underline that effective arrangements will be in place to manage the transition. In the light of my continued assurances on the matter, I hope that Opposition Members will be willing to withdraw amendment (a).
+
+Diana Johnson (Kingston upon Hull North) (Lab)
+I thank the Minister for clearly setting out the bulk of the amendments. Having read the transcripts of the evidence sessions in Committee, it is clear that the Government were pushed and pressed, as is right, through effective scrutiny from all members of the Committee and Members in the other place, to table amendments to clarify the Bill’s intention. On that basis, the Opposition are satisfied with Lords amendments 1 to 10.
+
+However, I want to comment on Lords amendment 11 and amendment (a) to it. As the Minister said, the Lords amendment increases the transitional period for which schedule 8 provides, during which a control order that is enforced immediately before the commencement of the Bill will remain in force, unless revoked or quashed before the end of that period, from 28 days to 42 days. The Opposition Front Benchers’ amendment would increase that transitional period to 365 days. It is worth pointing out that those who have put their names to the amendment include two former police and terrorism Ministers and a former Minister who dealt with terrorism in Northern Ireland in the previous Government. Those Members clearly have a lot of detailed information and experience in dealing with such matters, and they thought it appropriate to put their names to the amendment.
+
+Why have we tabled amendment (a)? It is because we want to support the Government in keeping the country as safe as possible as they move to the new regime of TPIMs. I heard clearly the Minister’s comments about his commitment to national security being a top priority. Of course, the Opposition support that priority. However, we believe that a more flexible approach would be a better way forward on the transitional period that is in the Bill.
+
+I certainly do not wish to reopen the debate on control orders, but we know that nine people are currently subject to them—a small number of people who are intent on doing grave harm to this country. It is not possible to prosecute them, but to keep the country safe, we need to impose intrusive restrictions on them. I think that there are 11 control orders in total, but nine have the power to relocate as one of the conditions. We know that the Home Secretary has used control orders with relocation provisions in cases CD and BM. In the case of CD, a challenge to the decision to relocate went to the High Court. It was dismissed and the relocation was upheld.
+
+It is important to quote the Mayor of London, who obviously has a keen interest in those matters. He said on the case of CD:
+
+“It’s clear from the court papers that he rejects and would like to destroy everything that makes this a great city. We don’t want this man in London.”
+
+In moving to the new TPIMs regime, the relocation provisions will not be available to the Home Secretary in future. We want to ensure that no unnecessary risks are taken over the next 12 months. As hon. Members have already said, we will have major events in our city, including not only the Olympics and the Paralympics, but the diamond jubilee. So we need to ensure that London is kept as safe as possible in 2012.
+
+Richard Fuller
+The hon. Lady says that we need to ensure that there are no unnecessary risks, and she says, fairly, that she and other Labour Members share the Minister’s commitment to the security of the nation. But the Minister said that the period was necessary to ensure that effective arrangements were in place, and he believes that that period is 42 days. What evidence does the hon. Lady have that the period needs to be longer to ensure effective arrangements?
+
+Diana Johnson
+That is a very helpful intervention, because I want to move on to the evidence that was given to the Committee by Stuart Osborne, the deputy assistant commissioner for the Metropolitan police service and senior national co-ordinator for terrorism investigations. He also represents ACPO. The hon. and learned Member for Sleaford and North Hykeham (Stephen Phillips) asked Mr Osborne how long it would take for a new regime to bed in before it becomes law, to which he replied:
+
+“I think I said it would take a year to procure and train sufficient additional assets before it would be ready to do that. We have to order some of the assets so that they are made in advance. To train a surveillance officer and then have them fully able to operate in a challenging environment probably takes at least 12 months before they are deployable. Once they are deployable, they   have to work within the environment under a new set of regimes that will need to bed in.”––[Official Report, Terrorism Prevention and Investigation Measures Public Bill Committee, 21 June 2011; c. 10, Q31.]
+
+On the basis of that evidence, which mentions the period of a year, hon. Members are concerned that we could be putting ourselves in a risky situation by rushing headlong into the new TPIMs regime.
+
+Stephen Phillips (Sleaford and North Hykeham) (Con)
+Will the hon. Lady give way?
+
+Diana Johnson
+I will, because I have just referred to the hon. and learned Gentleman.
+
+Stephen Phillips
+It is important that the evidence is not taken out of context. My hon. Friend the Minister subsequently received assurances—as he will no doubt be able to confirm—from the security services and the Metropolitan police that there would be no problem with the Government’s proposed timetable for the introduction, and I am therefore surprised that the hon. Lady has referred to that passage of evidence without drawing the House’s attention to those assurances.
+
+Diana Johnson
+It is important that evidence given to the Committee, which I read out verbatim from the transcript, is put before the House when we are debating the amendment on 365 days. The hon. and learned Gentleman has clearly put his point on the record.
+
+Evidence was also given by Lord Carlile, and he talked about the cost of the new surveillance techniques that would have to be employed. He said that the costs would be between £11 million and £18 million per person per year, and he also mentioned that as far as he was aware the cost of a control order was £1.8 million per person. So a huge amount of money will need to be invested in ensuring that these new surveillance techniques are properly available.
+
+Given the evidence put before the Committee and in the other place, we know that some senior police officers still have concerns about the readiness—[Interruption.] Well, in recent weeks there have been reports that senior police officers are not satisfied. I understand what the Minister said, and I shall ask him to address the point in a moment, but while we welcome the Government’s move from 28 days to 42 days—and I understand what the Minister says about that being appropriate during the holiday period—it is sensible to reconsider where we are at this stage. Given that some senior police officers feel that we are not prepared enough, that the Mayor of London has made his views clear and asked the Government to think again on this issue and that the Olympics, Paralympics and diamond jubilee celebrations are ahead of us, it is appropriate for the Minister to reflect on what the provision will mean. We have a two-week extension. Would it not be sensible to give the police and the security services more time and some flexibility to ensure that we have the resources, the people and the training in place? Is it not better to legislate now to keep control orders for that flexible period until we are absolutely certain and confident that surveillance is fully in place and all systems are operational?
+
+16:15:00
+
+I acknowledge the difficulty that the Minister is in in dealing with these matters, which are very sensitive, and information has to be kept confidential, so I ask him, first, to make available to the independent reviewer all details about what resources have been allocated to the new TPIMs regime, the budget allocation, the personnel recruitment figures and the training that has been provided. Secondly, can the independent reviewer have all progress reports on the preparation that has been undertaken to date? Thirdly, will the independent reviewer have the opportunity to look at all the cases, decisions and information that is made available about what to do with the current controlees? Fourthly, will the Minister seek from the police and security services their views about the readiness to deal with the changes that the new regime brings in? Fifthly, will he consider the costings for the new measures and whether sufficient resources have been set aside?
+
+Given that the coming year is so important, that getting the transitional proposals correct is vital and that we all have a commitment to national security, I would like to press our amendment (a) to Lords amendment 11 to a Division to test the opinion of the House. I know other Members wish to speak so I will conclude my remarks.
+
+Tom Brake (Carshalton and Wallington) (LD)
+Let me make a few brief comments in relation to a couple of amendments. On amendment 10, subject to any security requirements, will the Minister confirm whether the requirement to report to a police station will not be so onerous in terms of the timing that it actually precludes someone subject to TPIMs being able to undertake employment or coursework? If we want them to integrate, we must allow that to happen, subject to the appropriate security requirements.
+
+My other point is in relation to amendment 11. When I saw a reference to 28 days being changed to 42, I had concerns that we were re-running a completely different debate. I welcome the fact that the Minister and the Government have responded positively to the Metropolitan police’s request that for operational reasons a longer period is needed to enable the transition from control orders to TPIMs to happen.
+
+I congratulate the Minister on not listening to the siren voices on the Opposition Benches who are tempting him to abandon TPIMs all together and to stick with control orders.
+
+Hazel Blears (Salford and Eccles) (Lab)
+Will the right hon. Gentleman give way?
+
+Tom Brake
+In one minute. It is regrettable that the paperwork that has been produced to support the contention that control orders should remain in place, or that the implementation of TPIMs should be delayed, relies on evidence from Mr Osborne. I am sure that the evidence was appropriate at the time but things have moved on. I do not know whether Mr Osborne is now actively engaged in the process of ensuring that the appropriate measures are in place. If he is, it might be worth asking him whether he feels that suitable preparations have been made. If he is not actively engaged, it might be that he is now somewhat removed from what is happening in practice.
+
+Hazel Blears
+I am grateful to the right hon. Gentleman for giving way. I was desperately trying to sit on my hands. Does he not accept that people who are on control orders, and people in future who will be on TPIMs, are some of the most dangerous people in our country and they would not be on those orders if they did not pose a significant and substantial threat to the life, health and safety of our citizens?
+
+Tom Brake
+I am happy to confirm that clearly some of those people will be very dangerous, as the right hon. Lady says, but I must point out that some people subject to control orders have subsequently had them quashed. She is right that some—potentially all—of them will undoubtedly present a serious threat, but in practice some of them might not be quite as guilty as she believes.
+
+Pete Wishart (Perth and North Perthshire) (SNP)
+The right hon. Gentleman is absolutely right, and if there were significant evidence against these individuals, they would be prosecuted. Does he agree that it is difficult for the Labour party to give up the anti-civil libertarian agenda that it has built up over the past 10 years, and that it will do anything to maintain its control orders, regardless of the evidence presented?
+
+Tom Brake
+I agree. I am afraid that in some respects the Labour party is seeking headlines in the Daily Mail and the Daily Express.
+
+Jeremy Corbyn
+Does the right hon. Gentleman agree that control orders are a very serious and very great power used against people who have not been convicted? This is state power against an individual on the basis of suspicion, not evidence or conviction, so it is a serious matter. Does he also agree that TPIMs—despite my reservations about them—are an improvement on control orders and ought to be introduced as soon as practicably reasonable? I do not understand why they should be delayed for a year on the basis of the Olympic games. Presumably other events are approaching in 2013, 2014 and so on that would provide the same opportunity.
+
+Tom Brake
+I thank the hon. Gentleman for that intervention. One wonders why, having suggested that 365 days might be appropriate, the Labour party, excluding the hon. Member for Islington North (Jeremy Corbyn), has not considered other significant events coming down the line for which it might feel that control orders should also be available.
+
+I want to rephrase what I said about the Labour party playing for headlines in the Daily Mail and the Daily Express. It might be more appropriate to deploy that argument in relation to the populist policing agenda rather than this serious issue of security.
+
+In conclusion, I think that these amendments are sound, and I am happy to support them. I understand why the Minister has, in response to the Metropolitan police, chosen to extend from 28 to 42 days the transitional period for the implementation of TPIMs, but I hope that he will confirm that there will be scope, subject to security requirements, to allow people subject to TPIMs to undertake work or coursework where appropriate.
+
+Hazel Blears
+I am grateful for the opportunity to say what I hope will be a few words in this debate—we have been over this territory several times already. I want to place on the record my thanks to the Minister for the inclusive way in which he dealt with the Committee stage and to other Members on both sides of the House who had the opportunity to contribute. It is not often that people feel able to take such a role in Committee, and I think that the Bill was all the better scrutinised because of it.
+
+The Minister knows how strongly and personally I and my right hon. and hon. Friends feel about this matter, and the debate in Committee was nuanced and balanced. It was not simply about seeking draconian powers to last for ever as part of an anti-civil libertarian agenda. The debate has genuinely been driven by the concern of Members on both sides of the House for our national security and by the recognition that in Olympic year, when the eyes of the world will be upon London and when there will therefore be a heightened threat, the pressures on the capacity and ability of the security services and police to deal with some of the most dangerous people in the country will be significant.
+
+The Minister has attempted to meet the arguments by talking about additional resources. We have heard the evidence of DAC Osborne, who said that relocation was probably the single most useful power under the previous regime and that it would take a year to get the assets and surveillance in place, and I think it perfectly legitimate, even at this late stage, to press the Minister on some of the practicalities of how that coverage will be ensured and maintained during the Olympics.
+
+My hon. Friend the Member for Kingston upon Hull North (Diana Johnson) said that those who have signed our amendment obviously have some experience in this field. The Minister has heard today from me, and from his hon. Friend the Member for Cities of London and Westminster (Mark Field) and my right hon. Friend the Member for Wythenshawe and Sale East (Paul Goggins), all members of the Intelligence and Security Committee. We all share the same dedication to trying to ensure the security of our country, which is a very serious matter indeed. All we are asking for in our amendment (a) to Lords amendment 11 is to get us over the period in which we face the most heightened threat, which is a simple, straightforward, common-sense thing to do.
+
+The Government have every right to move to the TPIMs regime. They have a majority in the House, together with their coalition partners. If the Government want to change the law from control orders, they have every right to do that. I am not objecting to that; all I am saying is that, when we face this heightened threat, with pressure upon pressure on our security and police services, is it not basic common sense to say, “Let’s tide it over until after the Olympics”? There will still be a threat—we will face a threat for years to come—but it will not be as great as the threat that we face at the time of the Olympics.
+
+Jeremy Corbyn
+I thank my right hon. Friend for giving way; she is being generous with her time. If there is a threat, it must obviously be dealt with, but does she not accept that one deals with threats by using the law, in particular the criminal law? We do not always descend into special measures such as those that we are discussing, which have a dangerous tone to them of the unaccountable  power of the state against an individual. Does she not accept that it is important to stick to the principles of the criminal law and not endlessly go off into special laws?
+
+Hazel Blears
+My hon. Friend has always taken a principled stand on these issues, and I respect him for it. Hon. Members on both sides of the House have recognised that in a tiny number of cases we will not be able to prosecute, because that would lead to disclosure and therefore, because it is based on intelligence, a risk to agents and techniques. I said in Committee that I wanted to see the figure reduced to the smallest irreducible number possible, because I accept that we are talking about special measures that are outwith the normal framework of our legal system and transparent justice. I therefore accept my hon. Friend’s concern, but it is the case, I am afraid to say, that there are people who pose a significant and substantial threat to us who cannot be prosecuted at the current time, and some measures have to be taken to protect the public against them. None of us goes down this path with relish. I have said it before, but let me say to the hon. Member for Perth and North Perthshire (Pete Wishart), who intervened earlier, that this is not a matter of Labour Members rubbing their hands with glee and wanting to put people under house arrest. Rather, it is about saying, “What is the absolute necessity to protect the public?”
+
+Bob Stewart
+I very much support most of what the right hon. Lady is saying. None of us in this House wants control orders or TPIMs, but we do not have a choice. However, it is much better that we legislate for these matters and deal with them properly under the law, rather than have what happens in some nations, where people are just lifted and then disappear. That is what we are trying to do. The people concerned are very dangerous—or apparently very dangerous: we cannot prove it, but we do not want to take the risk—and I am afraid that we have to put up with this lack of liberty.
+
+Hazel Blears
+The hon. Gentleman speaks, as he did in Committee, from a position of great personal knowledge—in many ways, far greater than mine or my colleagues’—from having had operational responsibility on the ground in similar circumstances. He understands that, although we are all reluctant to go down this path, on occasion it is necessary. However, we have a democratic framework—people can challenge the orders; they can go to court; they can litigate; they can launch appeals—which is absolutely as it should be.
+
+Patrick Mercer (Newark) (Con)
+Will the right hon. Lady give way?
+
+Hazel Blears
+I will, but then I want to ask the Minister a couple of questions in the time remaining.
+
+Patrick Mercer
+The right hon. Lady makes some extremely good points. I agree with my hon. and gallant Friend the Member for Beckenham (Bob Stewart)—and the hon. Member for Islington North (Jeremy Corbyn)—that such measures are the very last things that we want to impose. Next year will be full of difficult periods, including not just the Olympic games, but the royal jubilee. Although I still feel that the powers are inadequate or wrong, they are better than what we had before,  so should we not have them? Why are we delaying this? Should we not have powers that are more effective introduced quickly, rather than slowly?
+
+Hazel Blears
+I do not accept the premise that the TPIMs regime will be more effective. DAC Osborne said in evidence that control orders were effective, that the police were used to dealing with them and that relocation was the single most useful power. He also said that control orders provided not only surveillance, but disruption, and were therefore more effective. DAC Osborne recognised that the TPIMs regime would involve a greater level of risk. The Minister said that that risk would be dealt with by the extra resources. We must wait and see, but the police themselves said that, far from being more effective, the move from control orders to TPIMs would be less effective because it would increase the measure of risk.
+
+16:30:00
+
+Paul Goggins
+My right hon. Friend is being very generous with her time this afternoon, as always, and is advancing a powerful argument. She will recall that when the Minister responded to my intervention earlier by telling me that national security would always be his highest priority, I was slightly taken aback, because I would not have doubted for a second that that would always be the case.
+
+In view of all the risks that will face us next year and the fact that an entirely new system is being introduced involving additional officers, can my right hon. Friend help me by explaining why, given a choice of dates, the Minister should pick the earlier rather than the later date to introduce his measures?
+
+Hazel Blears
+I am afraid that this is one of the rare occasions when I cannot help my right hon. Friend. I cannot for the life of me think why, if I were a Minister faced with this level of risk and if I had a practical solution that would not cost me a great deal of extra money, I would not seek the House’s agreement to an extension of the transitional period as a precautionary, preventive measure, just to get us through what I believe will be a time of heightened risk.
+
+I am grateful to the Minister for placing information from the police in the Library to reassure us about their readiness, but I want to ask him a question. What provision exists to cover the—possibly—six people who are currently subject to control orders and to relocation provisions, and who are likely to return to London? In Committee, I raised an issue that has still not been resolved. Paragraph 1 of schedule 1 allows a TPIM to be applied which specifies a residence where a person must reside, but paragraph 3 contains a power to exclude a person from a locality. I believe that there is still a contradiction between a person’s right to reside at his or her own residence and the power that would allow that person to be excluded from, for example, east London. What if the person’s residence is in east London? Which power will have priority, the power to exclude under paragraph 3 or the power relating to residence in paragraph 1?
+
+I have still not received an answer to my question, and I am very worried about the position. If those six people, many of whom may well have residences in east London, choose to live there, will the TPIMs regime  include a power to exclude them from a broader area than the locality in which the Olympics will take place? I should appreciate a clear answer from the Minister today. If it is necessary for me to write to him I shall certainly do so, but I should be reassured if he could give me that further information.
+
+Stephen Phillips
+Will the right hon. Lady give way?
+
+Hazel Blears
+I will—
+
+Mr Deputy Speaker (Mr Lindsay Hoyle)
+Order. Just a moment. We are straying from the amendments. I have allowed a bit of leeway, but I think that if interventions continue to take advantage of the leeway that I have given, we shall carry the debate beyond where it should be.
+
+Hazel Blears
+Thank you, Mr Deputy Speaker. I am about to end my speech.
+
+I thank the Minister and all his officials, who have certainly served him well and have no doubt contributed to the progress of the Bill. However, as the Minister will understand, I am not reassured by his comments. I know that he is doing his best to protect national security, but I think that he could have taken a simple step that would have given more reassurance not just to Members here but, more important, to people who will be living in their communities during what is likely to be a considerably more dangerous time for them as a result of this transition.
+
+Richard Fuller
+Let me explain why I oppose amendment (a), and explain to the hon. Member for Kingston upon Hull North (Diana Johnson) why she is hearing opposing voices not only from members of the two parties on the Government Benches, but from members of Opposition parties including her own. The reason is that the amendment is entirely without merit. It appears to constitute a rather unfair and somewhat unprincipled assertion that the Minister is playing fast and loose with the security of the nation, notwithstanding the protestation that of course we are all trying to make things secure and do what is in the country’s best interests.
+
+In her rather brief contribution, the shadow Minister gave nary a reason why the Minister’s position is not the correct approach to take. All the speeches we have heard rely on a solitary piece of evidence provided in Committee, but surely hon. Members on both sides of the House will understand that the Minister has been in extensive discussions subsequently and that the most important consideration must be the one that he put forward today, which is that effective arrangements are in place. That would be the most important consideration if we were dealing with a normal piece of legislation, but in fact we are dealing with a change to one of the most pernicious pieces of legislation that our country has had in recent times—the legislation on control orders.
+
+The shadow Minister’s amendment is merely further evidence that the Opposition have not yet reconciled their conscience on this issue, nor on the fact that they took a wrecking ball to the rights and liberties that this country has held strongly and to its heart for many years. Yet again, Opposition voices cloak in the name of security the most repressive period in recent British  history when it comes to individual rights. As the hon. Member for Islington North (Jeremy Corbyn) mentioned, people are put under these restrictions on the basis not of conviction, but of suspicion.
+
+I must just say to my right hon. Friend the Member for Salford and Eccles (Hazel Blears)—I hope I may call her that, given that we have spoken together on a number of Bills recently—that some of us have not had the benefit of high office that she has had, and when she talks about the importance of getting to the smallest irreconcilable minimum the number of people who will be subject to TPIMs or control orders, as it was under her Government, nine is not the smallest irreducible minimum for us. Some of us feel that that number can be reconciled only when it is zero and that everyone in this country has the right to a trial before they are imprisoned for extensive periods.
+
+Mark Field
+I entirely recognise the sincerity of what my hon. Friend says and I, too, have many civil libertarian sympathies, but does he not recognise that this regime is not all that much different from the control order regime that it seeks to replace?
+
+Richard Fuller
+Without getting into the details, Mr Deputy Speaker, I can say that of course many of us would like to go further. The Minister and I have had disagreements on this, but in conclusion may I commend him on the way in which he has seen the passage of this Bill through? I hope that in future we may be able to go further.
+
+Keith Vaz (Leicester East) (Lab)
+I shall be brief, Mr Deputy Speaker, because I know that the House is anxious to vote on this matter. I wish to draw the Minister’s attention to the evidence on the Olympics given this morning by Her Majesty’s inspector of constabulary to the Select Committee on Home Affairs. He called for a central hub to be created to police the Olympics, bringing together resources, intelligence and other aspects of policing. He and others felt that that was necessary.
+
+On the questions raised by others concerning TPIMs and control orders, of course there is concern that some of these individuals will be allowed to return to London just as the Olympics are beginning, and the Government need to monitor the situation carefully.
+
+My final point relates to the request for thousands of additional volunteers to come forward to police the Olympics—there is talk of 10,000 people. All I urge is that they are properly trained before they take on their responsibilities. I am sure that the Minister is conscious of the importance of the Olympics. The hon. Member for Newark (Patrick Mercer) was right to have raised it, and I hope that the Government will bear it in mind when we consider the resources and practicalities of the next few months.
+
+James Brokenshire
+This has been a useful debate in the latter stages of the Bill’s consideration in both Houses. I am conscious of time and recognise that the Opposition might wish to press their amendment to a vote, so I need to be swift in my summation, for which I apologise.
+
+My right hon. Friend the Member for Carshalton and Wallington (Tom Brake) highlighted issues regarding the police reporting requirement. We have looked into this very carefully, including the need for appropriateness. In other words, a constable, in giving directions, must be reasonable, necessary and proportionate in his or her approach in this regard. I hope that gives him some assurance regarding the manner in which the directions power will be undertaken. I appreciate his long-standing interest in these matters and his desire to ensure they are dealt with in a reasoned and appropriate way.
+
+Let me address the comments of the hon. Member for Kingston upon Hull North (Diana Johnson) about the availability of information to the independent reviewer. I shall certainly look at the Hansard report of her comments because we want to ensure that the independent reviewer has all the information appropriate to be able to do his work and to report, as has happened with the independent reviewer in relation to control orders. I shall consider her requests regarding those issues to ensure that we are equipping the independent reviewer with all the appropriate information to enable him to conduct his duties in an effective manner and report to the House, as I am sure right hon. and hon. Members would expect.
+
+On preparedness, I know why the right hon. Member for Salford and Eccles (Hazel Blears), who was a Minister at the time of the appalling 7/7 incident, takes these issues so very seriously and is so focused. However, she will equally understand that I am limited as to what it is appropriate for me to say in the House about operational and practical issues in relation to specific arrangements for individuals. I understand her questioning but I hope she will appreciate that, in terms of capability and other issues linked to the work of the police and the Security Service, it is not, unfortunately, appropriate for me to respond to her fully in this place.
+
+The right hon. Lady highlighted an issue in relation to the compatibility of individual aspects of the schedule. Clearly, the exclusion measure would not be used to exclude the individual from, for example, the street in which he or she lives. The notice must be enforceable and the measures will need to be applied sensibly. They will be put in place only where restrictions are necessary, so one measure cannot cut across another—there needs to be consistency, one measure with the other. However, I shall reflect on whether further clarification is required.
+
+In essence, we return to the issue of preparedness. I have said that it will take time to realise fully some of the benefits from additional resources, but the key issue for me is that at the point of transition to the new TPIM arrangements, effective arrangements will be in place. That has been our focus in our discussions with the police and the Security Service, whom I thank for their work not only in relation to preparations for the Bill but for keeping us safe each and every day.
+
+Lords amendment 1 agreed to.
+
+Lords amendments 2 to 10 agreed to.
+
+Schedule 8
+
+Transitional and saving provision
+
+Amendment (a) proposed to Lords amendment 11.—(Diana Johnson.)
+
+Question put, That the amendment be made.
+
+Division 403
+29/11/2011 16:43:00
+The House divided:
+Ayes: 204
+Noes: 306
+Question accordingly negatived.
+
+16:57:00
+
+More than one hour having elapsed since the commencement of proceedings on consideration of Lords amendments, the debate was interrupted (Programme Order, this day).
+
+The Deputy Speaker put forthwith the Question necessary for the disposal of the business to be concluded at that time (Standing Order No. 83F).
+
+Lords amendment 11 agreed to.
+
+Public Bodies Bill [Lords] (Programme) (No. 3)
+
+Motion made, and Question put forthwith (Standing Order No. 83A(7)),
+
+That the following provisions shall apply to the Public Bodies Bill [Lords] for the purpose of supplementing the Orders of 12 July (Public Bodies Bill [Lords] (Programme)) and 25 October (Public Bodies Bill [Lords] (Programme) (No. 2)):
+
+Consideration of Lords Message
+
+1. Proceedings on the Lords Message shall (so far as not previously concluded) be brought to a conclusion one hour after their commencement.
+
+Subsequent stages
+
+2. Any further Message from the Lords may be considered forthwith without any Question being put.
+
+3. Proceedings on any further Message from the Lords shall (so far as not previously concluded) be brought to a conclusion one hour after their commencement. —(James Duddridge.)
+
+Question agreed to.
+

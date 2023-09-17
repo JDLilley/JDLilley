@@ -1,0 +1,594 @@
+ Smart Meters Bill
+
+[Relevant documents: The Sixth Report of the Energy and Climate Change Committee of Session 2015-16, Pre-legislative scrutiny of the Government’s draft legislation on energy, HC 776, the Fourth Special Report of the Energy and Climate Change Committee of Session 2016-17, Pre-legislative scrutiny of the Government’s draft legislation on energy: the Government Response to the Committee’s Sixth Report of Session 2015-16, HC 581.]
+
+Second Reading
+
+16:56:00
+
+The Secretary of State for Business, Energy and Industrial Strategy (Greg Clark)
+I beg to move, That the Bill be now read a Second time.
+
+The Bill, which passed its pre-legislative scrutiny in 2016, is narrow in scope and technical in nature, but it is an important Bill that supports the delivery of the smart metering implementation programme to modernise an outdated part of our energy infrastructure. Smart meters are the next generation of metering technology and are an important element of a smarter energy system. We set out in the recent smart systems and flexibility plan how smart meters will enable technologies such as demand-side response, whereby consumers can gain financially if they lower or shift their electricity use at peak times. The data provided by smart meters will also help improve investment decisions in Britain’s energy infrastructure. A smarter, more efficient energy system could drive up to £40 billion in energy cost savings for consumers by 2050. Smart meters will help with that by giving consumers greater control over how and when they use energy. By allowing homes and businesses to better manage their energy use, we open up the possibility of flexible energy tariffs. Taken together with secure smart appliances, consumers will thus be able to benefit from using energy at times when it is cheaper. Shifting demand to match supply may be cheaper than building generation capacity to meet future demand peaks.
+
+This is just the start. New innovative and disruptive business models and systems will be enabled, and will help deliver a cleaner, cheaper and more secure energy future. The smart meter roll-out is, as the Select Committee found, a vital infrastructure upgrade which supports our ambition to make Britain a world leader in energy innovation. Indeed, this is the first step on that journey—exchanging analogue meters for a digital model—and it will in itself deliver savings.
+
+Alberto Costa (South Leicestershire) (Con)
+I congratulate the Government on this Bill. Does my right hon. Friend agree that it is imperative that, in addition to having advertising from Smart Energy GB on the roll-out of these meters, small energy firms that are contacted by consumers, as I have done with my own, promptly respond to them on this matter?
+
+Greg Clark
+I am grateful to my hon. Friend for that, and he is absolutely right in what he says. If we want to have a fully smart grid, the more people that avail themselves of that the better. When members of the public share his enthusiasm, it is very important that they should be given the chance to have a smart meter.
+
+Sir Edward Davey (Kingston and Surbiton) (LD)
+Will the Secretary of State explain why the roll-out of the second set of smart metering equipment technical specifications—SMETS 2—has been so delayed? I understand, probably better than most Members, the frustration he will feel about the delays to the smart meter programme. Is not the concern that suppliers are going to fit lots of SMETS 1 meters, which will be a barrier to competition and reduce the benefits of the smart meter programme to consumers?
+
+Greg Clark
+I am grateful to the right hon. Gentleman for raising that concern. He is absolutely right that in moving towards a fully smart system we want full interoperability, which is what SMETS 2 achieves. It has been tested and will be rolled out from July next year. The key point is that those who have a SMETS 1 smart meter will be able to access the software upgrades that will provide that interoperability. That is an important aspect of the roll-out and I am pleased to confirm it to him.
+
+Sir Edward Davey
+I am grateful for that clarification, because it may put some minds to rest if they know that the software upgrades will be available. There is a danger that many suppliers, be they one of the big six or others, see the roll-out of as many SMETS 1 meters as possible as a way to stop competition and lock in their consumers. That should really worry everyone in the House. Has the Secretary of State weighed up the benefits of ensuring we have more competition through the roll-out of SMETS 2 meters against the obvious downside of delaying the 2020 deadline?
+
+Greg Clark
+Yes, I have. Again, I am grateful to the right hon. Gentleman for asking that question. It is essential that the upgrade is available so that the smart meters that are installed under the SMETS 1 standard will be operable under the SMETS 2 standard. That has been a key part of the development and testing for exactly the reason he mentioned.
+
+Smart metering upgrades the interactivity of the energy system in general. One big advantage of it is that if the system is fully interactive, less unneeded generating capacity needs to be invested in, with consequent savings to consumers. Even in the initial operation, it is estimated that by 2020 consumers can make net savings on their household bills to the tune of £300 million. In addition to the bill savings, smart metering will deliver benefits to the energy industry and to the economy more widely. It seems to me to be essential that if we want to plan a prosperous future, building on our strengths, this country should be the place in the world that can best integrate renewable energy and battery storage—not least in electric vehicles—with the consumer. Smart metering is an important element of that.
+
+Mr Jim Cunningham (Coventry South) (Lab)
+Has the Secretary of State considered people in the poorer sections of society who might have difficulty paying?
+
+Greg Clark
+Yes, and it is important that all consumer groups should be able to access the benefits, including lower bills. That has been an important requirement, and the Bill addresses it by extending the necessary powers to ensure that we have the regulatory ability to insist that the roll-out goes to all consumers and is not restricted to the more affluent.
+
+Sir Edward Davey
+I am grateful for the Secretary of State’s answer to the hon. Member for Coventry South (Mr Cunningham). Is he trying to ensure that suppliers roll out smart meters to prepayment customers as soon as possible? The benefit of smart meters to those on low incomes who use prepayment is that some of the extra costs associated with prepayment go.
+
+Greg Clark
+The right hon. Gentleman is right: we especially want to extend smart meters to those on prepayment meters and those who might struggle to afford their energy bills, because the benefits of the savings are disproportionately better for them.
+
+Amanda Milling (Cannock Chase) (Con)
+Does my right hon. Friend agree that one of the biggest issues with the energy market is apathy on the part of consumers? We must try to get consumers to engage so that they understand their energy use and bills and can switch. Smart meters are critical to engaging the public.
+
+Greg Clark
+My hon. Friend is absolutely right. At the moment, an imbalance in information characterises the energy market. The suppliers know pretty well the consumption patterns of their customers, but those same data are not available to the customers to help them see whether they could make considerable savings either with another supplier or in a different type of tariff that might, for example, reward the use of appliances at off-peak times. It is a very important change.
+
+Mims Davies (Eastleigh) (Con)
+I note that the Bill is just the start in terms of innovation. However, a local college, a training provider for placing these meters, has raised this issue with me. It said that some energy companies have outsourced the placement work and the training and that the installation is not happening because the training courses are not sufficient. Do the energy companies have a question to answer when it comes to really helping consumers?
+
+Greg Clark
+My hon. Friend raises an important point. I would be very pleased to take up the particular concerns of her college. The energy companies do have an obligation to roll out smart meters. If they subcontract the work, they do not escape their responsibilities. Again, the purpose of the Bill is to extend the current regulatory powers through to the end of the roll-out so that we can ensure that the higher standards apply.
+
+Alan Brown (Kilmarnock and Loudoun) (SNP)
+I thank the Secretary of State for giving way one more time. On projected savings, consumer benefits are estimated in the Government’s cost-benefit analysis to be £5.24 billion. How much of that is based on consumers having to switch? In the same cost-benefit analysis, supplier benefits are estimated to be £8.25 billion. How will those supplier benefits be passed onto the consumer?
+
+Greg Clark
+The hon. Gentleman raises an important point. There are multiple benefits. About a third of the savings come from the possible reductions in the use of energy. Just over 40% comes from the supplier’s cost savings, which is a result of not having to read meters—that gets done automatically. We expect those savings to be passed onto consumers as savings in their bill. In the 21st century, it seems absurd that we should have to rely on someone physically coming to inspect, literally, a spinning metal wheel. That is decades out of date. To have such work done automatically provides important savings. Therefore, there are benefits to consumers and to the whole economy.
+
+Sir Greg Knight (East Yorkshire) (Con)
+Will my right hon. Friend confirm that, if a customer does not want to have a smart meter, they will not be forced to have one installed?
+
+Greg Clark
+I can certainly confirm that. There is no obligation on the customer whatsoever.
+
+The roll-out is well under way. Some 7.7 million smart meters were installed by June 2017. The current rate of installation is around 350,000 a month, but that is increasing as energy suppliers continue to ramp up their delivery. As the right hon. Member for Kingston and Surbiton (Sir Edward Davey) mentioned, it is right that we should move on to the second generation of smart meters, the so-called SMETS 2 meters. One advantage of doing so is that the next generation of meters are between 20% and 30% less costly than SMETS 1 meters, thereby providing another good reason to upgrade.
+
+In recognition of the importance of this upgrade and the value that it will bring to consumers, we are committed to seeing all homes and small businesses being offered a smart meter—but they are not compelled to have one—by the end of 2020.
+
+Alan Brown
+To help achieve that 2020 target, the install rate needs to go up from 350,000 a month to 1.25 million a month. How will that happen?
+
+Greg Clark
+There is a significant increase of the scale that the hon. Gentleman describes. Part of the reason for ensuring that we have these powers is so that the energy companies do not regard this as optional, and have to meet their obligations.
+
+The Government are overseeing the process and that has enabled us to take steps to protect consumers. We have put in place a licensed central data and communications provider, the Data Communications Company. The information will not be held exclusively by the supplier. It is therefore available, with the consumer’s consent, to competitors. Through the DCC, energy companies and other authorised parties are able to collect energy data remotely and securely.
+
+Let me take the House through the specifics of the Bill. Clause 1 extends by five years the Government’s powers to direct the roll-out of smart meters. Since the first legislation was introduced, the powers have lasted for five years at a time, which seems to be the right approach, rather than having powers in perpetuity. Therefore, it is consistent with our practice to come back to the House in order to renew those powers for five years.
+
+Alberto Costa
+I am, once again, grateful for the Minister’s generosity in giving way. I understand why the Government require the powers to be extended by another five years, but does the Minister agree that it is imperative that all energy companies, including the smaller ones that I mentioned earlier, give consumers information in a timely manner? The message plastered across the underground and in various papers is that consumers should contact energy suppliers, but from my own experience, those suppliers are not responding in a timely manner. What can the Minister say to assure me that energy companies will respond to consumers now, rather than in two years’ time?
+
+Greg Clark
+My hon. Friend again makes an excellent point. Companies are under an obligation to offer households a smart meter by the end of 2020, and these powers allow the Government and the regulator to hold them to their licence conditions in so doing. If he gives me the details of the particular supplier to which he refers, I would be happy to take up that case.
+
+The powers are due to expire on 1 November 2018, so the Bill extends them for five years. An extension of the powers is necessary in order to ensure the successful roll-out by the end of 2020, and to maximise the benefits accruing to consumers during and after the end of the roll-out.
+
+Clauses 2 to 10 introduce a special administration regime to ensure continuity of the smart meter continuation service currently provided by the DCC. Special administration regimes are common—in fact, typical—in network companies. They are primarily designed to guard against the DCC going insolvent due, for example, to cash-flow problems if one or more of its energy supplier customers were unable to pay its charges.
+
+The DCC licensee is deliberately designed to have limited financial assets of its own to avoid the cost of holding large capital reserves, so it relies on timely and full payments from energy suppliers to meet its own contracted obligations to its subcontractors, which provide the communications network. If, for some reason—we regard this as being very unlikely—one or more of its larger customers did not make payments, there are provisions in the smart energy code to allow it to make emergency charges on other suppliers. If these emergency charges also went unpaid for some reason, there would be a theoretical risk that it could go into administration and cease service, so the special administration regime allows the Secretary of State—or Ofgem, with the Secretary of State’s approval—to apply for an administration order to be made in relation to the smart meter communication licensee. Such an order would direct that, while it is in force, the affairs, business and property of the company are to be managed by an administrator appointed by the court.
+
+The aim of the special administration regime is to ensure that the functions of the smart meter communications licensee, under its relevant licences, are performed efficiently and economically, pending the company being rescued or its business being transferred to another company. In the unlikely event of the DCC’s insolvency, fundamental services may be disrupted. Therefore, it is prudent to have safeguards in place, as with other network operators, such that its continued operation is protected. This special administration regime is standard practice in the energy sector, and these powers are based on similar regimes that have been introduced—for example, for networks and suppliers.
+
+The Bill allows the Government to continue to progress with the important goal for the national economy of delivering an energy system across the country that is smarter and more flexible.
+
+Sir Edward Davey
+I am grateful to the Secretary of State for giving way, and I know that he is on his peroration. One big policy issue is the interrelationship between the smart meter roll-out, with the 2020 deadline, and the energy price cap he has proposed. How does he see those linking together? Does he see the price cap going once all smart meters have been deployed?
+
+Greg Clark
+The draft Bill the Select Committee is going to scrutinise means that there would be a temporary price cap while the current uncompetitive conditions in the market continue. As we have discussed, one of the major advantages of the smart meter programme is that it corrects the imbalance of information between consumers and suppliers, and that is something Ofgem will want to take into account in deciding when to lift that price cap. So the connection with smart meters is very important.
+
+The Bill is an important step in making sure we have one of the smartest, most flexible energy systems in the world, enabling us to take advantage of new technologies while at the same time delivering benefits for households and small businesses. I commend the Bill to the House.
+
+17:16:00
+
+Rebecca Long Bailey (Salford and Eccles) (Lab)
+The Secretary of State has articulately outlined the provisions of the Bill, so I will not detain the House for too long on its detail. Essentially, the Bill has two purposes: first, to extend the powers the Government have to implement and direct the roll-out of smart meters from 2018 to 2023; and, secondly, to establish a special administration regime for the national smart meter communication and data service provider—the DCC—in the event of its insolvency. The Opposition are not opposed to those measures in principle and will support the Bill today, but we do have a number of concerns about some of its specific provisions and about the smart meter programme overall.
+
+Clause 1 extends the powers of the Secretary of State in relation to smart metering from 1 November 2018 to 1 November 2023. As the explanatory notes state, this is
+
+“so he has the ability to intervene where required to drive the timely completion of the rollout of smart meters by end 2020”.
+
+Extending the time in which the Secretary of State can intervene to ensure timely completion to three years beyond the planned completion date is something of a paradox, but I would not be at all surprised if that was the true intention because, as of June this year, only 7.7 million smart meters had been installed at homes and businesses.
+
+The Government are committed to the installation of an energy smart meter for all domestic and non-domestic customers by the end of 2020—that is 53 million gas and electricity meters at 30 million domestic and small and non-domestic properties. We are almost two years out from the deadline, but there are an awful lot of installations to do—millions, in fact. It is true that the pace of installation has increased in the last two years by over 288%, and that is fantastic, but as research by the Centre on Innovation and Energy Demand at the University of Sussex suggests, meeting the deadline would require 40,000 gas and electricity meters to be installed each day, even on present projections. However, as installation is voluntary, the roll-out thus far has arguably been hindered by poor public awareness, and we have heard comments from hon. Members about that already.
+
+Many would also suggest that there is an obvious lack of consumer confidence in the possible benefits of smart meters. In fact, the Government’s public attitudes tracking survey recently found that 56% of a sample did not have smart meters installed, while a further 18% had never heard of them. I will pre-empt what the Minster might say in his response: the engagement body Smart Energy GB found that 97% of the population are aware of smart meters. If that is indeed true, despite the figures in the Government’s own tracker, why are not more people having smart meters installed?
+
+Dr Caroline Johnson (Sleaford and North Hykeham) (Con)
+Does the hon. Lady agree that of those people who have had smart meters installed, 80% welcome them and would recommend them strongly to a friend or family member?
+
+Rebecca Long Bailey
+The hon. Lady makes an interesting point. I am sure that those who have had the meters installed are perfectly happy with them. However, my point is that there does not seem to be sufficient public awareness. Given the scale of installations required, a big push from the Government and energy suppliers will be needed to achieve that objective.
+
+Kate Green (Stretford and Urmston) (Lab)
+One issue that has been raised by my constituents who are wary of the installation of smart meters is that they are unsure whether, if they change suppliers in the future, they would have to bear the cost of their smart meters being replaced by the new supplier. Does my hon. Friend agree that it would be useful to be able to give consumers very strong assurances on that point?
+
+Mr Deputy Speaker (Mr Lindsay Hoyle)
+Order. I remind Members, to help them with their speeches, that after the current speech I will introduce an eight-minute limit.
+
+Rebecca Long Bailey
+My hon. Friend makes a fantastic point. Perhaps the Minister can confirm how the Government plan to expand public awareness about this. Beyond the availability and the benefits of smart meters, it is imperative to explain the benefits of the data they collect, as well as how consumers can access and use those data to bring their energy bills down.
+
+We have already heard comments about data. I draw to the Minister’s attention the fact that Smart Consumer Alliance has highlighted to me that its research shows that
+
+“several consumers in the UK have contacted their energy suppliers to securely interface to the data provided by the home area network functionality of their smart meter, but…in all cases this has been unsuccessful because energy suppliers often block connection to the meters, quoting technical difficulties and other issues”.
+
+Those consumer requests were professionally assisted by academics and technology innovators in the UK with devices that are certified under the UK smart metering standard. As the Minister and the Secretary of State are aware, this data is very useful for research, enabling market competition through accurate tariff and supplier switching, intelligent heating systems, and consumer education and guidance in energy efficiency, as well as many future innovations in home energy management. However, despite the fact that consumers are struggling to access their own data, it is thought that these devices are being routinely used by the energy companies for their own data collection purposes.
+
+On the design of the smart metering regulation and standards, as well as the justification for the cost of smart meters, the House is aware that consumer benefit was at the fore in discussions before implementing the roll-out. Indeed, at condition 49.4 of the energy supplier licence, there is the obligation to support, free of charge, requests for data. The amount of data collected by smart meters is enormous, and has a significant value for customers and those with whom they choose to share the data. It would therefore be encouraging to hear from the Minster what plans he has, in the light of the concerns I have raised, to ensure that consumers have unimpeded access to the data to which they are entitled.
+
+I turn now to the second part of the Bill, on the special administration regime. Given the centrality of the DCC to the successful working of the smart meter system, it is clear that we need a plan in the event of its insolvency. I am therefore concerned by clause 7. As the explanatory notes summarise, the clause includes provision
+
+“requiring the holder of the licence to raise the charges imposed on its customers or users so as to raise such amounts as may be determined by the Secretary of State and to pay the amounts raised to specified persons for the purpose of making good a shortfall in the property of a smart meter communication licensee available to meet the expenses of smart meter communication licensee administration.”
+
+They go on to state:
+
+“This will allow the costs of smart meter communication licensee administration to be recouped via the licence mechanism from the industry.”
+
+The DCC is a wholly owned subsidiary of Capita plc, to which the task of providing all the communications and infrastructure for the operation of smart meters has been outsourced. However, it is not clear from the Bill or the explanatory notes why, in the event of this wholly owned subsidiary of Capita going into administration, customers and users, per se, should foot the bill, especially when they have already suffered the cost of the smart meter roll-out in their energy bills.
+
+The Select Committee on Science and Technology estimated that the total consumer benefits of smart meters amount to more than £5 billion from energy saving and microgeneration. However, the benefits for suppliers, which include the big six energy companies and others, total £8 billion. Despite that, as my hon. Friend the Member for Southampton, Test (Dr Whitehead) has said to the Government, customers are estimated to pay somewhere between £130 and £200 on their bills to enable suppliers to recover the installation cost of a smart meter. In fact, when two of the big six energy companies announced price rises in February, they stated that a substantial element of the 10% increase resulted from the smart meter policy. The Government responded that they would monitor the extent to which costs were passed on to customers and intervene to make sure that customers saw the benefits.
+
+When he sums up, will the Minister confirm what recent assessment he has made of the costs that consumers face for smart meter installation? Can he still provide evidence of a clear long-term average energy bill saving for smart meter consumers, despite the sum for installation cost recovery? What assessment has the Minister made of the possible costs involved in making good any shortfall in the property of a smart meter communication licensee that is available to meet the expenses of such a licencee’s administration? I appreciate that that is a hypothetical question and the answer is difficult to quantify, but if he has not assessed that or attempted to do so, will he confirm whether he has considered setting a limit on the cost that can be passed on to consumers? What safeguards will he put in place to protect consumers against an unfair increase in their energy bills as a result of administration expenses? Why do the costs seem to be borne by customers or users alone? Has he considered levying the recovery of such costs on any other entities that might benefit from smart meter data collection? If not, what is his rationale for not looking at those other entities?
+
+The Minister will no doubt realise that there is invariably a risk that consumers who have smart meters installed could face an increase, rather than a reduction, in their energy bills. It would be helpful if he could provide clear assurances on that matter. Although an insolvency situation is extremely unlikely, if smart meter consumers have hanging over them the possibility that they will have to write a blank cheque for administration costs, many people will be deterred from participating in a smart roll-out.
+
+Toby Perkins (Chesterfield) (Lab)
+I congratulate my hon. Friend on her support for the Bill and the points that she has raised. A concern that has been raised with me is that a huge number of old-style meters are ending up in landfill. There is no need for that, because they still have value in many export markets. An enterprising company in my constituency, Meter Provida, has taken on the role of getting the old-style meters checked out and sold as exports. May I encourage my hon. Friend to put pressure on the Government during the passage of the Bill to consider enforcing compliance with the waste electrical and electronic equipment directives by companies that have old-style meters to ensure that more of them are reused?
+
+Rebecca Long Bailey
+My hon. Friend makes a valid point, and that is certainly something that the Opposition will take forward. It would be interesting if the Minister elaborated on the Secretary of State’s comments about the updating of SMETS 1. What will it entail, and when will it occur?
+
+The Opposition have been clear about our concern that customers are paying for the roll-out. I fear that without adequate safeguards in the Bill, consumers may end up footing the bill for any mismanagement of the data collection regime resulting from insolvency. If that is the case, the Minister must understand the risk that this will be another example of consumer interests being shunted to one side in favour of others.
+
+Only recently, the Government promised to knock £100 off the bills of 17 million households, but that promise is yet to be delivered on. Admittedly, following pressure, the Secretary of State came back with a legislative proposal a couple of weeks ago, but I am extremely concerned about media reports that surfaced at the weekend in which internal Government sources indicated that they might not implement the draft Bill at all. Indeed, we learned that the Government have allegedly already told energy investors that the Prime Minister’s draft Bill would be ditched if they felt that the big six power firms were doing enough to tackle high bills, and this approach has now also been confirmed by civil servants.
+
+For the avoidance of doubt, will the Minister confirm in his summing up whether these assertions are true? If they are not, will he assure the House that no matter what pressure he, or indeed the Secretary of State, faces to shelve the energy price cap, the draft Domestic Gas and Electricity (Tariff Cap) Bill will be brought before this House and passed as urgently as possible?
+
+17:30:00
+
+Mark Pawsey (Rugby) (Con)
+I welcome the Secretary of State’s speech introducing this Bill. He set out very clearly the benefits of the smart meter programme and what the Bill’s two main provisions will do. First, the Bill will extend the Secretary of State’s powers by five years, from 2018 to 2023. It is interesting that the legislation gives such powers in five-year batches to ensure that the powers are not unlimited. There would be plenty of objections from the Opposition if there were unlimited powers in the Bill, which takes us to 2023. It is entirely appropriate that it should be brought before us, because the very ambitious pace originally set has not been achieved, and the programme is running rather more slowly than we anticipated.
+
+We also heard, secondly, about the introduction of the special administration regime for the body—the data communications company—managing the communication between the smart meters and the energy companies, as well as about the need for resources and facilities to provide protection and rescue given the rare possibility of financial failure. I was very pleased to hear the hon. Member for Salford and Eccles (Rebecca Long Bailey) say that the Opposition will support the Bill and that they welcome and value its measures.
+
+I want to touch on the status of the data communications company, because the programme is running behind schedule and the company is involved in handling rather bigger sums than previously expected. The costs are now expected to run to £900 million, and the project has become more complex than originally anticipated. The energy companies are under pressure from the regulator to increase the rate of installation, which has led to more of the SMETS 1 meters—the first generation meters—being installed. It would be helpful if the Minister clarified when he sums up what will happen when we move to SMETS 2 meters. There is some concern that SMETS 1 meters may need to be replaced. I think the Secretary of State said that there would be an upgrade, but will the Minister talk the House through that process. I will come back to that concern later.
+
+The cost of proofing the technology against cyber-attack has increased. This place has been affected by such an attack, so we all understand the importance of that. We will need to look at the DCC’s cost and revenue. The provisions relating to protection and rescue are very important. Will the Minister comment on the likelihood that those provisions will be needed?
+
+This debate gives us all the opportunity to talk about the aims and objectives of installing smart meters. I am pleased that we have now upped the rate, with 370,000 now being installed per month. The principle of smart meters is fantastic and brilliant: the information about usage is sent to suppliers by the network that is being created. There are real benefits for the utility company. It already knows rates of usage, but this will tell it specifically where the demand is coming from, how much demand there is and at what times of day. All that will enable utility providers to predict demand better, which will in turn give us all the benefit of security of supply.
+
+There are also real benefits for the consumer. By being informed about their energy usage, the consumer can decide to use energy when it is cheaper. They will have a greater awareness of their usage, and they will be able to manage their bills better and reduce their consumption. I am struck by the analogy with the computers we all find in our cars these days.
+
+Our car’s mileage per gallon will vary according to the speed at which we drive on the motorway and how we drive—how much of a hurry we are in. It is possible to modify the mpg. I always find it interesting to note how I might be able to get an extra mile per gallon by modifying my behaviour. I see a real parallel between that and the usefulness of smart meters.
+
+The other principal advantage I see is that of accurate billing. Many people pay for gas and electricity on the basis of what they estimate they may need, so in many instances they pay for more than they use. That is great, because it sometimes allows them to build up a credit and they do not have a debt to the energy provider, but as one person put it to me, that is not great for the family cash flow; so paying their bills on the basis of the amount of energy used rather than an estimate provides a real benefit.
+
+The fourth advantage, which we have not yet seen but is a matter of concern, is that with smart meters, switching between suppliers ought to be easier because anyone looking to switch would have much more accurate data on which to compare suppliers’ tariffs. That should enable them to make a more informed decision. The technology within the meter should enable the switch to be made more easily. There is a real link here—the Secretary of State referred to it—between that ability and the need for some control and management of prices.
+
+Matt Western (Warwick and Leamington) (Lab)
+I have not done this before. There is a huge amount of sense in everything that the hon. Gentleman is describing, but I was surprised to hear—and maybe he would be—that more deprived households have not been prioritised for the introduction of smart meters. Given what the hon. Gentleman has been saying, it would be a real advantage to their household economy if they were prioritised. Would he welcome that?
+
+Mark Pawsey
+I thank my constituency neighbour for his remarks. Of course, the issue is the use of the second generation of meters—the SMETS 2 meters—and we need to get them into as many places with prepayment plans as possible, so that those households too can get the benefits of seeing when their electricity is cheapest and using their appliances when they get maximum advantage.
+
+Amanda Milling
+My hon. Friend mentioned switching. We need to actively encourage consumers to switch their energy providers to a much greater extent, so I am sure he will join me in welcoming the package of initiatives that are being taken. We talk about smart meters today; we have the energy switch guarantee as well. We should also be looking to make the process easier.
+
+Mark Pawsey
+I could not agree more. In many ways I regret the need for us to consider a price cap, because I believe the answer to the problem that we are trying to tackle is to make it easier for consumers to understand exactly how much energy they use and how much it would cost from another supplier and to make it possible for them to make an easy, effective switch.
+
+Sir Edward Davey
+In answer to the hon. Member for Warwick and Leamington (Matt Western), is not the real point that consumers on prepayment meters have to pay more than the rest of the population because of the cost of administering a prepayment meter and a move to a smart meter would remove that cost, so prepayment meter consumers are likely to benefit the most, and that aspect of the roll-out, which I tried to achieve as Secretary of State, should be accelerated?
+
+Mark Pawsey
+The right hon. Gentleman makes a superb case for getting smart meter roll-out moving as quickly as possible.
+
+There are lots of reasons why we need to move on to SMETS 2 meters, but we have some problems with smart meters and SMETS 1. I had not come across those until this weekend, when I received an email from my constituents Mr and Mrs Lafferty, who are dual-fuel customers of First Utility. They were interested in the idea of a smart meter; they understood the benefits; and they arranged for an installation. In the first instance, that took two to three months, and regrettably the meter was installed in a location that was not particularly accessible to them, as elderly residents. Their daughter has to look at the meter. She also has to look at the meter because, just a few months after the installation of their smart meter, they decided to transfer to another provider, EDF, believing that there would be a better price. They were astonished to find, however, that their smart meter was not compatible. Their smart meter is now being used as a dumb meter, with their daughter having to visit their home to take readings. One concern is that such accounts discourage people from taking advantage of smart meters.
+
+I put a message out on Facebook to my constituents to comment on the issue and, if I may, Madam Deputy Speaker, I would like to read one or two. One said that they
+
+“had smart meter installed by one company. It worked fine, but then I changed company and it doesn’t work for the new company. Ridiculous that there isn’t a standard technology.”
+
+The answer, of course, is that there will be, but we need to crack on with it. Another constituent said:
+
+“good to see how much we were spending but it hasn’t changed the way we do things.”
+
+That is something we need to get across. Another said:
+
+“Not yet changed supplier, but I know when we or if we do, we will need to change the meter. The installer said they are working on a meter which would be easily compatible across all suppliers so wouldn’t need changing. So it might be worth waiting.”
+
+We must not put people off in the short term, because of any issues that are happening right now.
+
+17:41:00
+
+Patricia Gibson (North Ayrshire and Arran) (SNP)
+We in the Scottish National party support the roll-out of smart meters, but it is essential that maximising consumer and environmental protections lies at the heart of any strategy to do so.
+
+It is empowering for consumers to have near real-time information on their energy consumption to help them to control and manage their energy use, and in turn save money and reduce emissions. If roll-out is effective and well managed, there are obvious benefits to consumers. Nearly eight in 10 people with a smart meter would recommend one to others, and the same number with a smart meter say they have taken steps to reduce their energy consumption. Those with an in-home display model in particular feel they have a much better idea of what they are spending on energy and check it regularly. If having new technology in their homes helps consumers feel that they can exercise better control over energy consumption and be better informed about their energy use, with greater control over their bills, then of course that must be welcomed.
+
+In previous speeches, we have heard about switching suppliers. I would like to say, right at the outset, that switching suppliers has a limited effect. Research shows that people who switch tend to be those who are better off. They switch and they save money. However, there is not a sufficient impact on the lowest income households, which are in most danger of fuel poverty. They find it much more difficult to switch suppliers.
+
+We often hear that smart meters are free to consumers. They are not. They are paid for through energy bills. Every household will, ultimately, pay for the new meter roll-out via their bills. It is important that consumers understand that having a smart meter is a choice. Trading Standards has expressed concern that data from citizens advice bureaux suggest that consumers are not being told that they can refuse a smart meter, if they so choose.
+
+Toby Perkins
+There is a really important point here about consumers from the lowest income households. Given that companies have different tariffs, why do the Government or the companies themselves not say, “We’ll stop you having the responsibility of deciding the best tariff for you. We have all the data. At the end of every quarter, we’ll look at your bill, tell you what would have been the best tariff and put you on it, so you always save the money without having to do all the work yourself”? Companies should have the information to be able to do that.
+
+Patricia Gibson
+What the hon. Gentleman says sounds eminently sensible. The problem is that the better off and most well-informed people are switching and saving. That is being subsidised by the people who are unable to switch and save because they do not feel up to the task. The poorest households are actually subsidising the most affluent households, which have the ability and the expertise to switch and save. That is a real issue that has to be addressed. Similarly, as mentioned before, those on prepayment meters—the poorest households in our communities—must have access to smart meters if they want them.
+
+It is important, as part of this process, that the Government’s regulatory framework clearly establishes the rights and obligations of all aspects of smart metering design, development, installation and operation, as well as monitoring and reporting. Customers must be reassured, and continue to be reassured, that their data and security are robustly protected in the course of the smart meter roll-out. There is concerning evidence, however, that smart meters are being installed before the programme’s requirements as an internet-connected energy system have been fully determined. The UK Government must do everything in their power to protect consumers during the roll-out. There were disturbing reports last March in the Financial Times of GCHQ intervening in smart meter security, claiming to have discovered glaring loopholes in meter design, and causing some alarm. Such concerns must be fully addressed.
+
+The plan to install smart meters in every home by 2020 must not leave consumers out of pocket. It must be asked whether the cost of the roll-out will be borne by all energy consumers. The successful operation of smart meters can also be a postcode lottery. In areas with a poor mobile signal, there is a real chance that smart meters will not work. If we are applauding the merits of smart meters, this has to be borne in mind, because digital inclusion matters.
+
+Almost 100,000 fewer households were in fuel poverty in 2015 than in the previous year in Scotland, but there is still much more to be done. The Scottish Government have commissioned a review, due to be completed next year, of the definition of fuel poverty in order to inform a new fuel poverty strategy that will be followed up by a warm homes Bill. There has to be a focus on those in most need of help to heat their homes.
+
+Sir Edward Davey
+The last time the Scottish Government reviewed the definition of fuel poverty, they came up with a definition that I did not think was very good, whereas in England and Wales we reviewed it and came up with a policy that secured cross-party consensus. May I urge the hon. Lady to go back to Edinburgh and look at the fuel poverty definition we produced here in Westminster?
+
+Patricia Gibson
+As the right hon. Gentleman knows, when something is being done well, others should learn from it—I am a great advocate of that approach—and if something is being done well in Westminster, the Scottish Government have no difficulty learning from it. I only wish that that was reciprocal.
+
+We need to be mindful of those most in need of help to heat their homes, and that must involve a joined-up approach, as a wide range of policy areas are encompassed by any attempt to tackle fuel poverty. Citizens Advice has stated that consumers in vulnerable situations could miss out on the potential benefits of the £11 billion smart meter roll-out, which they will be helping to fund through their energy bills. Such risks might relate directly to the installation and/or the ability of these households to benefit from the smart meter system.
+
+Generations of British consumers have been locked into a “risky and expensive” project by the UK’s subsidy deal for a new nuclear power station at Hinkley Point in Somerset. That is not my assessment, but the assessment of the National Audit Office. Under the terms of the 35-year contract, EDF is guaranteed a price of £92.50 per MWh it generates—twice the wholesale price. The subsidy will be paid through energy bills that the Government’s own figures estimate will translate into a £10 to £15 chunk on the average household bill by 2030.
+
+I do not want to revisit last week’s debate, but I should mention at this juncture that the National Audit Office has also pointed out, worryingly, that withdrawal from Euratom
+
+“might be interpreted as a change of law”,
+
+resulting in an adjustment of the £92.50 price promised to EDF, or might even trigger a one-off payment to EDF through a compensation clause in the contract. I shall leave that for the Minister to consider in his own time, but the fact is that EDF has been guaranteed three times today’s price for electricity for 35 years.
+
+Former Conservative Energy Secretary Lord Howell—among many others—has criticised the Hinklev deal, calling it
+
+“one of the worst deals ever”
+
+for British consumers and industry, and has protested against
+
+“endless government guarantees of risk-free returns to the investors”.—[Official Report, House of Lords, 22 October 2015; Vol. 765, c. 789.]
+
+We now know that when Hinkley has been completed, several renewable alternatives will be cheaper. When it comes to helping consumers to keep their bills down, it is hard to see how the white elephant that is Hinkley will do so. Perhaps, for that reason, it is easy to understand why I am so concerned about the fact that consumer protection has not always necessarily been at the heart of the Government’s thinking. The price cap is, of course, welcome, but there is still a huge subsidy from the taxpayer for the energy from Hinkley Point. It seems that we are giving with one hand and taking with the other.
+
+Every household needs and deserves a safe, affordable energy supply. The Government strategy must be clear, and what is best for consumers must lie at the heart of the entire process. By contrast, in Scotland minimum energy efficiency standards will be developed and announced in the private rented sector, with consultations on how owner-occupiers can improve the energy efficiency of their homes with financial incentives. Ultimately, the Bill must be about empowering consumers and delivering better, smarter and cheaper ways of heating our homes. Smart meters are part of that, but they must deliver for all, especially our vulnerable consumers, and deliver in a way that enables data to be secure and protected. The environmental benefits are, of course, also important.
+
+We support the Bill, but, as I have said to the Minister, we have reservations. We urge the Government to ensure that the important elements to which I have referred lie at the heart of the legislation.
+
+17:53:00
+
+Antoinette Sandbach (Eddisbury) (Con)
+I support the Bill, because it will help to ensure that the Government’s roll-out of smart meters achieves its aims. It is an important initiative, allowing consumers to understand their energy consumption better and reduce it accordingly.
+
+Alongside the positive ambitions of the smart meter programme, I urge the Government to push for an agenda of improving energy efficiency, as that is vital to reducing bills and fuel poverty. Smart meters will help to equip us for the future, but we must think about a comprehensive package of measures to reduce consumption. The information and data from smart meters could be used to measure the efficiency of, for example, warm home programmes. Where energy efficiency measures have been installed, the smart meters will effectively register the drop in consumption, which strikes me as a potential additional benefit of the smart meter programme.
+
+I have just had a smart meter installed at home, and it has given me plenty of information, but as we do not currently have half-hourly settlement, there is no incentive for me to set my dishwasher three hours later. Like many other consumers, I have a delay programme on my washing machine. At present, there is no incentive for consumers to make use of the potential saving which would reduce demand on the grid and lower their electricity bills. It would make no difference to me, but at the moment, as a consumer, I am not incentivised.
+
+Smart meters are of huge benefit to consumers and the energy companies, because they allow demand-side management—a technical term, which is rather dry. If it is possible to save 10p or 20p a couple of times a week by delaying starting the washing machine or dishwasher, those amounts start to add up and have a real impact on consumer bills. That is why the roll-out of the programme is so interesting: it has huge potential for the future.
+
+Caroline Flint (Don Valley) (Lab)
+The hon. Lady makes a good point about the use of technology, but does she also accept that some of the poorest families in our communities cannot afford to buy the white goods that are at the cutting-edge of this technology, and we need to address that problem as well?
+
+Antoinette Sandbach
+I do accept that, although I know there are some very good companies—including one not too far away from me—that recycle white goods, allowing people who are replacing their dishwashers and washing machines to give them to a charity that then sells them on at very low cost. Moreover, most machines now have an A or A-plus rating, and even quite good value machines are quite energy efficient. I think this will therefore become a consideration when people are considering replacing their white goods. I accept that that will involve a higher up-front cost for more vulnerable households, but it will help them make more informed choices about where they can save money in the long term, and of course those on benefits who qualify for the warm home discount or scheme and for greater efficiency measures will be saving on their electricity bills, and they can set aside the money saved and hopefully in due course therefore be able to replace their machines in an energy-efficient way.
+
+There is a responsibility on consumers to be conscious of energy use and to make the most of the benefits of smart meters, but we must also combine the roll-out with an effective campaign raising awareness of the need for responsible and efficient energy use. I acknowledge the work of Smart Energy GB in this respect, but it clearly must do more. It needs to inform consumers further about the benefits of this programme and reach further into homes. I see lots of adverts on the TV, but am uncertain whether they really do explain the benefits to consumers and how they can save on their bills.
+
+This measure not only improves energy security, but also contributes towards meeting our international decarbonisation obligations. The smart meter roll-out has the potential to address the energy trilemma, but concerted action by consumers and, indeed, suppliers is required in order to maximise the benefits.
+
+We must think on a broader scale if we are to address the three issues I have just mentioned. That is why improving energy efficiency, in conjunction with the smart meter programme, is so important. I have asked the Chancellor to consider having a dedicated infrastructure fund and to incentivise energy efficiency measures in the upcoming Budget, because of the benefits that can be leveraged in conjunction with the smart meter roll-out.
+
+Various concerns need to be addressed, and reassurances need to be provided by the Government on some issues relating to the provision of smart meters. The hon. Member for North Ayrshire and Arran (Patricia Gibson) pointed out the concerns around data; it is important to reassure consumers on that, and that they understand the benefits that data will bring in terms of reducing their bills.
+
+There is also the issue around the 16-bit encryption code for smart meters. EDF and other energy companies have indicated that that smart meter has not yet been developed, but it could have very progressive consequences in terms of protecting data and ensuring there is good interaction to allow easy switching between all the energy companies. One of the concerns about the current roll-out of SMETS 1 is the fact that it does not allow for switching; the consumer is given the information about their energy consumption, but it is a shame that there is this lack of ability to smart-switch. I urge the Government to put a rocket under the energy companies, to make sure they roll out the second generation of meters as soon as possible.
+
+This exciting development by the Government has huge potential benefits, particularly for consumers who fall into the vulnerable category, for whom it could be a complete game changer. I know that some of the newer energy companies, such as OVO, which are particularly active in the pre-payment meter market, are rolling out smart meters. This process is therefore having an impact. I support the Government’s aims, but it is clear that some issues will need to be ironed out in Committee if we are to provide the maximum benefits to consumers, as the Bill is designed to do.
+
+18:00:00
+
+Caroline Flint (Don Valley) (Lab)
+It is quite clear from the speeches of the hon. Member for Eddisbury (Antoinette Sandbach) and others who have spoken that we all agree that being able to end estimated bills is a good goal to achieve. In fact, an EU directive in 2006 stated that getting rid of estimated bills was the way to go. In 2009, European Union guidance indicated that it was looking to member states to roll out intelligent metering systems to 80% of consumers by 2020. That related just to electricity; no deadline was given for gas. The interesting aspect of all this is that no other European Union member state apart from the UK decided to go through the distribution network operators rather than through the retail suppliers. I think that that was a mistake on our part.
+
+We have gone for the 2020 target and stated that it should be for 100%, but my worry is that across Governments, including the last Labour Government and the coalition, the execution of this programme has been badly managed and consumers have always been given the lowest priority when it comes to effective practical project management of this important scheme. There is now a danger of that happening under the Conservative Government. We have heard that the 2020 target is unlikely to be met, which is probably why clause 1 of the Bill extends the power to amend licensing conditions from 1 November 2018 to 1 November 2023. In my view, we should have stood back and made a choice about who should be involved in the implementation of this service, rather than having 10 different companies competing to fit smart meters in any one street. I think we would have been better off going down the network operators route, rather than the one that has been chosen.
+
+We know that the cost of this programme, which is being paid for entirely by household bills, is £11 billion and rising. Indeed, as ITV and the Big Deal campaign highlighted, the estimated cost has risen by over £1 billion in the past year alone. The reasons for this involve cross-Government departmental incompetence. They include underestimating the number of properties requiring one meter, not two, and the number of homes that require two visits because they are not dual fuel customers, as well as underestimating by about 10% the number of properties that will require a second visit because the smart meter does not communicate properly.
+
+I have already had individuals telling me that, having had their smart meter fitted, they might end up with a dumb meter if they choose to switch. They are coming to me and saying, “Caroline, what is going on here?” Everything in this debate on energy always gets laid at the door of the consumer. They are told, “It’s your fault for not switching enough. It’s your fault for not acknowledging the adverts on smart meters and getting one fitted.” When are we going to ensure that the energy companies take responsibility for this, and when are we going to ensure that the Government take responsibility for acting on behalf of consumers? All this is adding to the cost burdens on consumers through no fault of their own. When are the Government going to cap the cost to the consumer of this programme? When it tops £12 billion, £13 billion, or £15 billion? This is something that the Government should look at seriously.
+
+It has become clear that there are problems with the first generation of smart meters because they use mobile networks to forward the data from the household, and we do not yet know how many will fail to operate if customers exercise their right to switch supplier. After all the time and cost involved in installing them, many may well become dumb meters once more when moved to a new supplier, which would be unacceptable. This revelation has led to the installation of a new data network, managed by the Data Communications Company, which went live in November 2016, but the new meters, which use the new data network, will not be available until November 2018. The Government required the DCC to produce a delivery plan to rectify the situation. The plan, which was announced last week, will ensure that all first-generation smart meters will be fully functional, but that process will not be completed until July 2019—another cost borne by the taxpayer for mistakes made by the industry.
+
+The House of Commons Library reports a Government claim that the net benefits up to 2030 are an estimated £5.8 billion to be shared between consumers, suppliers and networks, but that estimation has already been downgraded. However, if consumers were to gain all the benefits, that would mean just a £19 a year saving on bills for a decade. To gain even that modest saving from this expensive programme, energy suppliers would have to pass on all their savings to consumers, but I have not heard that from the energy companies. The truth is that the benefits for energy companies’ bottom lines are obvious: no more meter reading, and fewer staff in customer service centres fielding enquires from angry customers about delayed switching or inaccurate bills. As I asked at the Energy UK conference last week, will the savings be invested into better customer services or just into greater profits?
+
+So far, the benefits of smart meters appear to be stacked in favour of the suppliers unless we make huge assumptions about smart meters boosting switching. One benefit to the networks would be if suppliers provided incentives for consumers to shift their energy usage. A past example is Economy 7, which encouraged people to heat their water overnight at lower unit costs, and that principle could be extended with smart metering. Given what we know, I am sure that consumer groups will be concerned if smart meters lead to proliferation of time-of-use tariffs, which enable companies to charge higher unit costs at peak time—perhaps above any cap imposed by Government.
+
+When smart meters were introduced by the Government of Ontario, they tried to manipulate demand at key times of day and did so by inflating costs at peak times of use. The result was not a shift in demand to off-peak hours and a reduction in energy bills; the pattern of demand barely moved, so consumers simply ended up paying more for the energy they received. We should also be mindful of the concerns of the fire service and the Fire Brigades Union about people putting their washing machines and dishwashers on overnight, because if something malfunctions when people are asleep in their beds, that presents the greatest fire risk.
+
+I do not want to see UK consumers’ energy bills rise or the energy price cap circumvented because consumers have opted into a complicated tariff that appears to offer savings they cannot fully work out. I had hoped to amend the Bill to include a price cap, because this is about customers saving on their bills, but I hope the Government will ensure that new time-of-use tariffs, aided by smart meter monitoring, will not lead to the energy price cap being circumvented by an industry that, let us face it, has run rings around the Government for seven years and has not acted in consumers’ best interests.
+
+18:08:00
+
+Bill Grant (Ayr, Carrick and Cumnock) (Con)
+I welcome the Bill’s Second Reading. Installing some 53 million smart meters in some 30 million domestic and small business premises, with an anticipated completion date of 2020, is an ambitious programme and, as the right hon. Member for Don Valley (Caroline Flint) said, companies clearly need to up their game and increase the installation rate to achieve the target. On a more positive note, there is an 80% satisfaction rating for the 7 million or so SMETS 1 meters that have been installed, but that rate also needs to be improved.
+
+The harnessing of new and improved technologies will allow energy customers to be made aware in real time of their energy consumption and its cost, which is equally as important. Smart meters will also transform the experience of prepayment customers, which has to be welcomed. Somebody said earlier that prepayment customers could be prioritised to take them out of receiving excessive bills, and if that is possible through the installation process, I would welcome it. Smart meters will benefit both consumers and suppliers by allowing customers to budget better for energy bills, and enabling suppliers to avoid estimated bills and to provide accurate billing without a premises visit.
+
+Switching suppliers should, and I believe will, be made easier, which will benefit the consumer. There are issues, however. Energy suppliers need to harmonise that transition to avoid any confusion with smart metering.
+
+Recent research by British Gas involving some 200,000 customers using SMETS 1 meters—the older technology—has been positive in showing an energy reduction of some 4%, and eight out of 10 users would recommend smart meters. As the hon. Member for Stretford and Urmston (Kate Green) said, some people are wary of smart meters, and it would be good if we could allay that fear. I hope the public will come with us on this ambitious programme. The roll-out of SMETS 2 meters will benefit consumers, suppliers, the distribution network and the United Kingdom as a whole. I am delighted to support the Bill.
+
+18:10:00
+
+Steve McCabe (Birmingham, Selly Oak) (Lab)
+I do not argue with plans for a special administration regime in the event of a failure of the DCC, but I have a number of questions about the programme’s roll-out, extension, monitoring and costs. The current smart meter programme is at stage 2, alternatively referred to as the main roll-out, and that is scheduled to end in 2020.
+
+As we have heard, the vast majority of energy companies are still installing the earlier generation of smart meters rather than the more efficient, cheaper and longer-lasting second generation. The Government have announced that, as of July 2018, SMETS 1 will no longer count towards the 2020 target. As that phase was due to be completed in 2016, what are the reasons for allowing the installation of those less efficient meters until 2018? Has the Minister received any representations from energy companies urging it and, if so, what reasons have they given?
+
+Lord Bourne told the Energy and Climate Change Committee that there were 2 million smart meters in store. Could that have anything to do with the decision? If so, is there a risk that the Minister might be accused of massaging the figures with what is essentially an inferior meter?
+
+I know from information supplied in answer to parliamentary questions that by December 2016 some 330,000 smart meters were operating in dumb mode—not operating as smart meters—and that by March 2017, that figure had risen to 460,000, involving a cost of between £30 million and £50 million. Who is responsible for keeping tabs on the costs of this programme?
+
+I asked in a parliamentary question how much had been spent on the installation of SMETS 1 meters to date, and the answer was
+
+“the Government does not hold data on expenditure on smart meter installations”.
+
+EDF Energy has also questioned the extension proposed in the Bill and argues that
+
+“if these powers are to be extended a clearer rationale should be provided for the need, and length, of any extension.”
+
+The Minister will be aware that the Energy and Climate Change Committee raised questions about the 2020 target, and he will know that both the Institute of Directors and some in the industry have suggested that the purpose of the extension might be to give the Government wriggle room.
+
+The Minister will also be aware that, in May 2015, the Energy and Climate Change Committee warned that problems with smart meters are
+
+“symptomatic of a national programme that the Government has left largely to suppliers and failed to drive forward effectively.”
+
+The Committee also warned that, without significant changes,
+
+“it could prove to be a costly failure.”
+
+Part of the justification for this programme is that it should mean that consumers benefit because they are able to shop around for the best deals, but if a SMETS 1 meter can no longer function as a smart meter when a customer switches, is that not a barrier to switching rather than an encouragement? As this is a voluntary programme, would someone not be well advised to wait until they are offered a SMETS 2 meter, or indeed to demand one? MoneySavingExpert.com, the UK’s biggest consumer website, is advising its readers to do just that.
+
+As we have heard, the Government’s cost-benefit analysis estimates that by 2030 smart meters will have delivered £5.8 billion of net benefits. Those benefits, which are to energy suppliers, networks and consumers, are offset by a cost of £11 billion paid for by consumers. According to answers to parliamentary questions I submitted, the net benefit was reduced by a further £1.5 billion between 2014 and 2016. Can the Minister explain that reduction? Although the Government have said in answer to a parliamentary question that there is no link between this reduction and the issue of the interoperability of SMETS 1 meters, they also say that the 2016 cost-benefit analysis has already made allowance for the plan to enrol and adopt SEMTS 1 into the DCC. I understand that the cost of the DCC has already risen by a further half a billion pounds since it was first proposed. Who is responsible for monitoring and containing these costs?
+
+In September 2016, the House of Commons Science and Technology Committee suggested that the essential aims of the smart meter programme are likely to fail without
+
+“a programme of user engagement before, during and after installation.”
+
+It is becoming clear that there is a lack of consumer trust and confidence in, and understanding of, the smart meter roll-out. As we have heard, the Department for Business, Energy and Industrial Strategy’s most recent public attitudes tracker found that people were less than convinced about smart meters, and a recent article in The Daily Telegraph claimed that only one in five consumers is accepting the offer of a smart meter. I know the Minister is eager to promote customer satisfaction, but without a renewed campaign to increase public awareness and improve perceptions of smart meters, there must be a concern that the benefits will not be realised.
+
+I also want to ask about evidence that has emerged about the behaviour of energy suppliers and those they engage to promote their plans. They are required to take reasonable steps to offer smart meters, so why are people receiving cold calls claiming that accepting one is a legal requirement? I understand that the Minister might have already referred this to Ofgem, but can he confirm that that is the case? If so, will he indicate when we might expect to hear some response? There are also some safety concerns, as highlighted by—
+
+Caroline Flint
+On that last point about what happens when our constituents hit those sort of buffers—when they are faced with inaccurate information—they say to me that they just do not know who to approach to complain about it. That is a fundamental weakness in the system—where should people go?
+
+Steve McCabe
+I absolutely agree. I understand that there is a code of practice, but who is making sure that it is being enforced?
+
+I understand that there are also some question marks about the safety of the installations, as was highlighted in a BBC “Watchdog” programme, which showed that some gas and electricity meters have led to safety issues in homes. So what I really want to ask the Minister is: what checks are carried out on the behaviour of energy suppliers to ensure that they are complying with the smart metering installation code of practice? As my right hon. Friend asks, what redress do the public have when they are clearly being misled by people who are supposed to be giving them the best possible information?
+
+18:19:00
+
+Drew Hendry (Inverness, Nairn, Badenoch and Strathspey) (SNP)
+As my hon. Friend the Member for North Ayrshire and Arran (Patricia Gibson) pointed out earlier, the SNP welcomes the progress on smart meters. The Scottish Government have set out developments for the roll-out in their Scottish energy strategy, which will obviously encourage uptake.
+
+As we have heard from many Members, the benefits of smart metering technology are more accurate bills, more convenience and better energy. The technology can enable customers to better manage their energy, so consumers will be able to get a better deal, and could help consumers with more competitive tariffs. There are, though, serious concerns that must be dealt with before we can welcome everything in the Bill or, indeed, the whole roll-out of smart meters.
+
+The first concern is on data and privacy. As we heard from my hon. Friend the Member for North Ayrshire and Arran, GCHQ did some work on the vulnerability of smart meters and found “glaring loopholes” that would allow access to meters. There is not only the potential for the abuse of customer information, but a security concern. If smart meters can be accessed in that way, it is potentially dangerous for national security. It is incumbent on the Government to ensure that proper controls are in place to make sure that that cannot happen.
+
+It is important that consumers know that their data will be safe. I urge the Government to look into measures that allow the consumer to have more control over and ownership of their own data. They should have the right to look after their own information. There are clearly issues of connectivity and reliability, particularly with respect to customers’ concerns about whether units will work when they switch energy suppliers.
+
+Stephen Kerr (Stirling) (Con)
+Does the hon. Gentleman agree that the issues with the first generation of smart meters could easily give rise to frustration among consumers? They are encouraged to monitor their energy usage and costs and to shop around, but when they do shop around, they discover that their smart meter is no more and has deceased.
+
+Drew Hendry
+The hon. Gentleman makes a pertinent point. The Government need to put the consumer confidence issue front and centre and deal with it.
+
+We must consider the costs and the potential increase in bills to pay for those costs. The right hon. Member for Don Valley (Caroline Flint) mentioned the fact that the consumer is not necessarily put first in the process. Surely, it would be appropriate for the outcome of a cheaper bill—a better deal for the consumer—to be put right at the heart of the delivery of the smart meter programme. I am not convinced that it is currently, so I suggest the Minister come back with some reassurances on how it will be.
+
+With respect to the serious problems with consumers’ bills, the smart meter roll-out does not deliver on some of the big elephants in the room. My hon. Friend the Member for North Ayrshire and Arran mentioned Hinkley Point, one of the biggest white elephants around. The cost-benefits will be negated by the costs of Hinkley and the strike price that has been agreed, which nearly doubles the cost to consumers.
+
+Smart metering does not tackle other issues for consumers in the different parts of the nations of the UK. For example, in my constituency and others in the highlands, we still have the inequity of consumers paying up to 6p more per unit than consumers in other parts of the UK. That cannot be right. When the Minister looks into measures to reduce costs for people in their homes, I urge him to consider some of the more pressing issues that are adding to fuel poverty.
+
+There is, perhaps, one issue that the Minister could consider in taking forward smart meters, particularly when we get to the next generation of smart meters. We have talked a lot about the ability to switch tariffs and to monitor how much is being spent, but how easy would it be to allow consumers the ability to switch suppliers at the touch of a button in the next generation of smart meters? That is within the gift of the technology. Why is it not within the scope of the measures that we are taking forward?
+
+I will not take up the full time that is available to me. I will just finish with a few questions. Will the Minister come back and state clearly, today and in future meetings as the roll-out goes forward, what will be done in practical terms to ensure that vulnerable people will not miss out in the roll-out of the smart meters programme? When will we see details on the next generation of meters, and will the Government consider those payment and switching options that I mentioned? When will we see the detailed roll-out of the strategy to understand how everyone will be included in this by 2020?
+
+18:25:00
+
+Alan Brown (Kilmarnock and Loudoun) (SNP)
+I start with a slight confession: I sometimes wonder whether I am easily confused. I ask that because I have been looking at the information that the Government have put out in the briefings associated with this Bill. I have to ask myself, “Are the Government easily confused, or are the Government trying to confuse us?” I want to highlight some of the issues that I have picked up.
+
+First, it is claimed that the extension of the Secretary of State’s powers to intervene until 2023 does not extend the actual period of the smart meter roll-out beyond the 2020 target date. The Government claim that they are on target to hit their deadline, but analysis shows that 53 million smart meters need to be installed but that only 7.7 million meters have been installed since 2011. That leaves 45 million smart meters to be installed in just a three-year period.
+
+Stephen Kerr
+Is there not an upside to this? The meters that have been installed so far have fairly limited functionality and interoperability. The upside is that the second generation of meters, which will be fully functional, will allow the Government to put their foot to the floor and move ahead with these meters.
+
+Alan Brown
+I understand the hon. Gentleman’s point, and I thank him for it. It is a bit like saying that the long-drawn-out introduction of universal credit is good, when the roll-out was a shambles. It is not enough to say, well, this roll-out is a shambles but that is good because better technology is coming further down the line.
+
+Steve McCabe
+Surely, if the hon. Member for Stirling (Stephen Kerr) was right in his assertion, he was making a perfect argument for not installing any more of these inferior meters.
+
+Alan Brown
+I thank the hon. Gentleman for his point. I know that that was alluded to in the previous intervention. Yes, if there is better technology, it makes sense to work towards installing that better functionality. There is another consideration when it comes to extending the deadline. If we are going to be honest about things, extending the deadline will actually make the installation process much more efficient. How much will it cost to ramp up and supply the additional labour that is needed to go from 350,000 meters a month to 1.25 million meters a month? It will take extra labour, extra training, a massive recruitment exercise, and then, lo and behold, all these people are out of a job because the installation period has gone by. There is actually some merit in considering doing this over a longer period, as it could work better for consumers in the long run.
+
+Douglas Ross (Moray) (Con)
+Just while we are still on installation, does the hon. Gentleman agree that the three big suppliers in Scotland—SSE, Scottish Gas and Scottish Power—seem to be focusing much of their work on the urban areas rather than on the more rural and remote areas, where fuel poverty is a bigger issue? Does he agree that the roll-out should be equidistant across the country, and that that is something we could achieve in Scotland?
+
+Alan Brown
+I thank the hon. Gentleman for that intervention. I agree with his point. There are also other logistical installation problems, which tie in with concern about how practical this 2020 deadline is. For example, at the moment, many properties in Scotland have gas meters installed in their external walls. Right now, smart meters cannot be installed in external walls. Last week, my office manager agreed to get a smart meter installed. Someone from the company came out and said, “I can’t actually give you a gas meter.”
+
+Stephen Kerr
+The other issue is connectivity. There is not the broadband or mobile telephony coverage that these rural areas need to sustain the functionality of the meters.
+
+Alan Brown
+I agree. There is an issue with connectivity, and a problem with gas meters on external walls. Flats and tenements quite often have banks of meters installed in communal areas, and there is not yet a solution for the installation of smart meters in those cases. Frankly, the 2020 deadline is dead in the water.
+
+As I said, the consumer pays for any increase in labour costs and recruitment to try to hit a deadline, so that is an additional cost that eats into savings and is probably not yet projected. I am a wee bit unsure about the Government’s estimate of the financial benefits of the smart meter roll-out. I am not saying that the roll-out is not a good thing, but I do question some of the figures attributed to it. The only guarantee that consumers have is that they will have to pay for the £11 billion installation costs. As we have already heard, those costs are increasing.
+
+There is an estimated direct consumption saving of £5.3 billion, which is only half the installation cost. There is also an assumption about long-term behaviour—that customers will continue to operate a reduced energy usage. I have a concern about human behaviour. It may be the natural instinct of many customers to modify their behaviour and turn down their electricity usage when they get smart meters, but bad habits may creep in over a long period and the savings might not be realised at the same level.
+
+There are other estimated savings in the Government’s cost-benefit analysis that are, frankly, quite spurious. The Government estimate £8 billion of supplier benefits, but there is absolutely no guarantee that the £8 billion that suppliers are predicted to save will be passed on to consumers. The Secretary of State intervened earlier to suggest that the market will dictate that these savings will rightly be passed on to consumers, but I draw the Minister’s attention to the fact that market failure is the whole reason that we agree on energy price caps. There is no way that we can guarantee that future savings for suppliers will be passed on to consumers.
+
+Other spurious savings estimates include carbon-related benefits of £1.3 billion and £98 million in air quality savings. Now, reducing carbon emissions is a good thing, but I question how we can quantify those reductions as savings that will go direct to the consumer. The Government estimate savings for each household of £11 per annum by 2020 and £47 per annum by 2030, and £16 billion of savings were estimated overall. However, as my colleagues have touched on, the bottom line is that these estimated savings of £16 million are completely dwarfed by the £30 billion project that is called Hinkley Point C. That wipes out any projected savings from this programme.
+
+Other hon. Members have mentioned that all consumers are paying for this programme, so surely the fuel poor and prepayment customers should be targeted first and given assistance. We should ensure that these vulnerable customers get the smart meters they deserve. Smart meters are supposed to end estimated billing, but it is acknowledged in the Government’s own factsheet that accompanied some briefings that if somebody with a first generation meter changes supplier, it is quite possible that they will lose the functionality of the smart meter. Even if they retain some functionality, they will end up back with estimated meter readings. That is counter- productive and the opposite of what the smart meter roll-out is supposed to achieve.
+
+It was said that the second generation roll-out will start in July 2018. Well, we need the Minister to confirm how certain that is. Will the energy suppliers be forced to move on to the second generation meters, or will they be able to use up the backlog of 2 million first generation meters or whatever the number is? What if the initial companies are doing cheap deals on the first generation meters to get them out the door? Are we still going to be stuck with them?
+
+Matt Western
+I have spoken to a major energy supplier in my constituency, and it is clear that suppliers are seeking clarity from the Government on not only the timescale in which they are supposed to install these meters but what are deemed to be all reasonable attempts to get them installed. So, overall, there seems to be a lack of clarity, even for the suppliers.
+
+Alan Brown
+Yes, I agree, and I hope we will get more clarity when the Minister sums up.
+
+I agree that properly functioning smart meters can bring consumer benefits, but it is clear that they are not a silver bullet in reducing bills for energy users. To properly reduce costs, the Government need to look at their wider strategy. Nuclear commitments need to be scrapped. All renewables need to be able to bid in future contract for difference auctions. Much more also needs to be done to manage the smart meter process, and I look for confirmation on that when the Minister sums up. At the moment, the Bill will not achieve that, but it will extend the Government’s powers, and I hope we will hear how those will be used to better implement the roll-out of smart meters.
+
+Finally, the Secretary of State mentioned the smart grid and the use of smart meters for demand management. If we are going to get to that, the future upgrades need to be much more efficient, and I look forward to that happening in due course.
+
+18:35:00
+
+Dr Alan Whitehead (Southampton, Test) (Lab)
+We have had a very good debate this afternoon, with informed and engaged contributions from hon. Members on both sides of the House on a wide range of issues relating to smart meter roll-out and, in some instances, going a little beyond that. However, the contributions have all been relevant to a debate about a Bill with some very specific and relatively narrow elements.
+
+Two of the clauses are very specific. One relates to the extension of the termination period during which the Secretary of State has powers over activities connected to smart meters from an end date in 2018 to an end date in 2023. The second addresses the lack in legislation of a smart meter communication and licensing administration regime by establishing one.
+
+If we look very narrowly at the Bill, we might ask two important questions: why did the Government decide in 2014 that there should be a 2018 termination date for Government control over the smart meter roll-out, and why is that date now being extended to 2023? Is it being extended because, as hon. Members have said, the Government do not think the smart meter roll-out will in fact be completed in 2020, or are there other reasons for the extension? We might ask why, if there is a real risk of the roll-out being delayed by the Government’s inability hitherto to wrestle the operation of the DCC from possible paralysis—should it, or presumably the company to which it has been outsourced and of which it is now a wholly owned subsidiary, go bust, or should payments not come in to that company—these operations have apparently been conducted with no such safeguard written into legislation for almost four years since the establishment of the DCC in 2014.
+
+Both questions, unless they have particularly good answers attached to them, demonstrate a certain, shall we say, laxity in the Government’s approach to the oversight of the roll-out of smart meters, and might prompt further questions: what else is possibly in the woodwork that may be impeding the progress of the smart meter roll-out to a successful conclusion, and are there further things we might do to ensure that the process works well in moving towards that goal?
+
+Hon. Members have raised a number of those possible issues this afternoon. In an intervention, my hon. Friend the Member for Chesterfield (Toby Perkins) talked about dumb meters being replaced by smart meters and about what would happen to them. The hon. Member for Eddisbury (Antoinette Sandbach), in a very thoughtful contribution, raised the issue of what we should do about energy efficiency in conjunction with smart meters, and talked about how those two issues might go hand in hand. My right hon. Friend the Member for Doncaster North—
+
+Caroline Flint
+Don Valley.
+
+Dr Whitehead
+I am very sorry—it’s Don Valley now, isn’t it?
+
+My right hon. Friend talked about the continuing imbalance of benefit in the roll-out of smart meters, with the benefit appearing to be accruing to energy companies, as opposed to customers. For our part, we support the idea of introducing smart meters across the country to replace the dumb meter system that serves the customer very badly and has historically done so, and is certainly not fit for purpose for the requirements of the different ways of supplying, using and measuring power that are coming our way with the energy revolution that is upon us.
+
+The gain not only to customers but to our energy systems as a whole of having collectively installed, sufficient smart meters across the country to bring in new ways of measuring and predicting use of associating smart meters with smarter grids, thereby saving enormous amounts of further future expenditure in grid strengthening and capacity additions—all to the benefit of a smarter, more resilient, more efficient energy system for the future—suggests that supporting smart meters is right thing to do.
+
+But then we come to the process by which smart meters are rolled out, and there is much to raise an eyebrow about. First, there is the Government’s original choice of who should undertake the roll-out—the energy companies: a model not adopted by any other country managing a smart meter roll-out programme, as my right hon. Friend the Member for Don Valley (Caroline Flint) pointed out. Secondly, there is, as a number of hon. Members have mentioned, the high overall costs built into the roll-out—costs that will eventually land on consumers in the shape of bills on their doormats. Thirdly, there is the truly lamentable performance so far in getting the DCC—the communications company responsible for making smart meters communicate well and on an interoperable basis—up and running so that smart meters, once installed, really can communicate with other and with the system. That communications company has now only just gone live, at the very end of the window for doing so before serious repercussions arise. Fourthly, there was the decision, halfway through the roll-out, to transition from one type of smart meter to another—a process akin to trying to change the wheel of a car while it is driving along the road.
+
+All these issues raise legitimate and far-reaching questions about whether the goal of having a critical mass of smart meters in place by the end of 2020 is likely to be achieved and whether, in the short time available to us, moves can be made to get us back to that goal. The recent reports in the 2016 impact assessment suggest that we are not doing very well on installation—that we are set for an almighty bunching of installations in late 2018 and 2019 that is very daunting, even if vans of installers are not starved of meters to put up because they have been told not to install the old ones and are awaiting supplies of the new ones to install. I welcome the consultation on methods of resolving the possible hiatus in supply during the changeover from SMETS 1 to SMETS 2 meters. However, I am minded—I think the Government will have some difficult decisions to make in this regard—of what we need to do by 2020 in populating the country with smart meters to the extent that we can really make these changes possible, for our collective good, given the sheer number of smart meters that have been installed across the country.
+
+We need to judge the very modest changes to the smart meter roll-out regime in this Bill against that wider background of decisions and progress made in the roll-out itself, and of how far away we are from the goal of having a national smart meter presence that makes all the other energy innovations—and cheaper energy and gas—possible, and to decide whether we should take the opportunity to add further elements of “getting on with it” into the Bill as it progresses through Committee.
+
+We will not oppose this Bill on Second Reading. However, I place the Minister and the Government on notice that in Committee we will closely scrutinise the roll-out provisions currently in place to look at ways in which we can make amends for some of the frankly sloppy decision making that has occurred in the progress of the roll-out, and stiffen the sinews of the programme so that it works as well as it can. It is perhaps no coincidence that the—
+
+Greg Clark
+Will the hon. Gentleman confirm that the programme motion is generous in providing time for consideration of the Bill?
+
+Dr Whitehead
+The last time I heard about the progress of the programme motion, there was no agreement on the number of days that could be set out for the Committee stage, so it may well be the case that that concern will be reflected tonight. However, I would emphasise that as far as the main purpose of the Bill—
+
+Simon Hoare (North Dorset) (Con)
+As I understand it, there are six days in the programme motion—[Interruption.] Forgive me; there are eight days in the programme motion for a Bill on which the Labour party will not divide the House. It seems bizarre to divide the House on the programme motion.
+
+Dr Whitehead
+I repeat that according to my latest information, the discussions about what should be in the programme have not concluded. That may be reflected in what we do tonight.
+
+I have with me plastic models of Leccy and Gaz, the characters from the advertisements for the smart meter roll-out. Hon. Members can see that as far as Leccy is concerned, the model does not stand up; perhaps that is no coincidence. We want the process to stand up as well as it can, and we will work hard to ensure that it does.
+
+18:45:00
+
+The Parliamentary Under-Secretary of State for Business, Energy and Industrial Strategy (Richard Harrington)
+Earlier this year when I decided I was going to switch my supplier, I found myself on my hands and knees with a torch and a duster, clearing cobwebs away. That is no way to go on. The purpose of this Bill is to give us all a way of changing supplier and put us in control of our destiny when it comes to our power.
+
+I thank hon. Members from both sides of the House for their contributions, none of which I take lightly. I look forward to the Bill Committee, and I will be delighted when we have agreed with the Opposition the time needed to go through the Bill in great detail. I will not go into as much detail in this speech as I will do in the Committee, because I am delighted that everything has been agreed. I remind Members on both sides of the House that the Bill is not about money saving, modernisation for the sake of it or replacing old kit; it is the platform for a new smart and flexible energy system that gives control to all customers—vulnerable customers and others alike. That is absolutely necessary, which is why we are doing it.
+
+Of all the points made by hon. Members on both sides of the House, I particularly want to clear up one first made by my hon. Friend the Member for Rugby (Mark Pawsey). The SMETS 1 and SMETS 2 meters have been much discussed, and I can confirm that a software programme is being developed that will allow full conversion between the two. That will be done remotely, so customers who have had the meters installed will not have to worry about people coming to their house and changing them again. That conversion programme will start within a year.
+
+Caroline Flint
+Will the hon. Gentleman give way?
+
+Richard Harrington
+I am very sorry, but there is not time. The smart meter programme is the foundation of this whole system of freedom. It is one of the most significant engineering projects that has been undertaken in our country, and I am delighted to report that about 370,000 smart meters are being installed each month. I have met the suppliers, and they have all made arrangements to double or triple that in the next few months. I thank hon. Members on both sides of the House for their contributions today, and I look forward to the agreed scrutiny of this Bill. I commend it to the House.
+
+Question put and agreed to.
+
+Bill accordingly read a Second time.
+
+Smart Meters Bill (Programme)
+
+Motion made, and Question put forthwith (Standing Order No. 83A(7)),
+
+That the following provisions shall apply to the Smart Meters Bill:
+
+Committal 
+
+(1) The Bill shall be committed to a Public Bill Committee.
+
+Proceedings in Public Bill Committee 
+
+(2) Proceedings in the Public Bill Committee shall (so far as not previously concluded) be brought to a conclusion on Thursday 30 November.
+
+(3) The Public Bill Committee shall have leave to sit twice on the first day on which it meets.
+
+Proceedings on Consideration and up to and including Third Reading 
+
+(4) Proceedings on Consideration and any proceedings in legislative grand committee shall (so far as not previously concluded) be brought to a conclusion one hour before the moment of interruption on the day on which proceedings on Consideration are commenced.
+
+(5) Proceedings on Third Reading shall (so far as not previously concluded) be brought to a conclusion at the moment of interruption on that day.
+
+(6) Standing Order No. 83B (Programming committees) shall not apply to proceedings on Consideration and up to and including Third Reading.
+
+Other proceedings 
+
+(7) Any other proceedings on the Bill may be programmed.—(Rebecca Harris.)
+
+Division 26
+24/10/2017 18:48:00
+The House divided:
+Ayes: 314
+Noes: 228
+Question accordingly agreed to.
+
+Smart Meters Bill (Money)
+
+Queen’s recommendation signified.
+
+Motion made, and Question put forthwith (Standing Order No. 52(1)(a)),
+
+That, for the purposes of any Act resulting from the Smart Meters Bill, it is expedient to authorise the payment out of money provided by Parliament of grants, loans, indemnities and guarantees by the Secretary of State in connection with smart meter communication licensee administrations.—(Rebecca Harris.)
+
+Question agreed to.
+
+Smart Meters Bill (Ways and Means)
+
+Motion made, and Question put forthwith (Standing Order No. 52(1)(a)),
+
+That, for the purposes of any Act resulting from the Smart Meters Bill, it is expedient to authorise:
+
+(1) the imposition, by virtue of the Act, of charges under licences issued under the Gas Act 1986 or Electricity Act 1989; and
+
+(2) the payment of sums into the Consolidated Fund.—(Rebecca Harris)
+
+Question agreed to.
+

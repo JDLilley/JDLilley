@@ -1,0 +1,850 @@
+ Telecommunications Infrastructure (Leasehold Property) Bill
+
+Consideration of Bill, as amended in the Public Bill Committee
+
+Clause 1
+
+Code rights in respect of land connected to leased premises
+
+13:13:00
+
+Chi Onwurah (Newcastle upon Tyne Central) (Lab)
+I beg to move amendment 2, in clause 1, page 2, line 3, after “lessee in occupation” insert
+
+“, or a person who is a legal occupant of the property and who is in a contractual relationship with the lessee or freeholder,”.
+
+This amendment is intended to expand the definition of persons who can request an operator to provide an electronic telecommunications service to include rental tenants and other legal occupants who may not own the lease to the property they occupy.
+
+Mr Speaker
+With this it will be convenient to discuss the following:
+
+Amendment 1, page 2, line 16, at end insert—
+
+“(f) the operator does not, after 31 December 2022, use vendors defined by the National Cyber Security Centre as high-risk vendors.”
+
+Amendment 4, page 2, line 16, at end insert—
+
+“(f) the operator does not use designated high-risk vendors, as defined by the National Cyber Security Centre, in newly deployed electronic communications services.”
+
+This amendment would prevent vendors designated as high-risk being used by operators granted Part 4A orders.
+
+Amendment 3, page 5, line 14, at end insert—
+
+“(8) Any operator exercising Part 4A code rights is obliged to ensure that alternative operators can easily install the hardware needed to provide their own electronic communications service.
+
+(9) The definition of ‘easily’ in sub-paragraph (8) is to be provided by Ofcom.”
+
+This amendment is intended to ensure that tenants are not “locked in” to using services provided by a single operator and to encourage market competition.
+
+Amendment 5,  page 5, line 14, at end insert—
+
+“(8) Any operator exercising Part 4A code rights must publish a plan setting out how they will remove high-risk vendors, as defined by the National Cyber Security Centre, from their network.”
+
+This amendment would ensure companies exercising part 4A rights have clear plans in place to remove vendors who are designated high-risk and a national security concern.
+
+Amendment 6,  page 6, line 37, at end insert—
+
+“Information on cyber security
+
+27HH Any operator exercising a Part 4A code right must provide written information to new customers in the target premises on best practice on cyber security when using the electronic communications service that has been provided.”
+
+This amendment would require operators to equip new customers with literature on how best to keep their home cyber secure, particularly in the era of the Internet of Things and with recent reports of hacked domestic devices such as baby monitors.
+
+Chi Onwurah
+I welcome the Secretary of State to his place. It is somewhat surprising to see him, as my hon. Friend the Member for Batley and Spen (Tracy Brabin) had expected to see him in the Commonwealth debate yesterday and I was expecting to see the Under-Secretary of State for Digital, Culture, Media and Sport, the hon. Member for Boston and Skegness (Matt Warman) today. As I understand it, after saying almost nothing over weeks in his post, the Secretary of State’s first moment at the Dispatch Box may be to reverse completely the Government’s position on part of the Bill. That raises the question: what information has changed and did the Government know what they were doing in the first place?
+
+As we are taking all the amendments together, I shall consider the whole Bill. It is a great pleasure to speak on the Bill as shadow Minister for Digital. I have an interest to declare: before entering the House, I worked as a telecommunications engineer for 23 years, rolling out telecoms infrastructure in countries as diverse as Germany, Nigeria, Britain and Singapore. I am passionate about digital technology and the positive difference it can make; however, the 10 years for which I have been in Parliament have coincided with a rapid decline in the relative quality of our telecoms infrastructure under successive Conservative Administrations. Without the required ambition, this Government risk wasting a decade more.
+
+The UK has a proud technological history, from the earliest days of the industrial revolution to the invention of the first fibre-optic cable and, of course, the worldwide web. That is why it was with such regret that on Second Reading I highlighted the fact that the OECD ranks us 35th out of 37 for broadband connectivity, even though ours is the fifth largest economy, and that 85% of small and medium sized enterprises said that their productivity was adversely affected by unreliable connections in 2019.
+
+Sadly, our wasted 10 years in telecoms have not been limited to fixed infrastructure; both mobile and the online infrastructure of regulation have also been left to languish, reducing the impact of the Bill. Conservative Governments have entrenched the digital divide in the United Kingdom: 11 million adults lack one or more digital skills and 10% of households do not have internet access. At this rate, in 2028 there will be 7 million people without digital skills, which is tantamount to leaving one in 10 of our population permanently disenfranchised. Our part-time Prime Minister has changed his tune—[Hon. Members: “Oh!”]
+
+Mr David Davis (Haltemprice and Howden) (Con)
+I suspect I am going to agree with some of the things that the hon. Lady says later in her speech, but before we get to that point, let us not be too prissy about the party political element of this matter. The original problem with our telecoms industry started with the asset stripping of the industry by the Labour Government under Gordon Brown, with the spectrum auctions. The hon. Lady should recognise that if she is to make a sensible case.
+
+Chi Onwurah
+I, too, look forward to the point at which we agree on something, but let us be absolutely clear about this: the telecoms infrastructure that the Labour Government oversaw was, in terms of competition and investment, an example for the world. If he does not believe that, the right hon. Gentleman can consult the figures.
+
+Tom Tugendhat (Tonbridge and Malling) (Con)
+The hon. Lady is, of course, making her party point—I accept that—but in 2003 it was a Labour Government, under one T. Blair, who allowed Huawei into the UK in the first place.
+
+Chi Onwurah
+The hon. Gentleman anticipates some of what this debate is about, but I point out to him that in 2003 there were no relevant powers or requirements on operators to notify when a foreign supplier became part of the network. More broadly, we are not, and I hope the hon. Gentleman is not, saying that the presence of suppliers from, or investment in our country by, different countries such as China—the Government have overseen huge investment in our infrastructure by the Chinese—is by definition wrong; we are saying clearly that we need to put in place plans to mitigate and manage that presence and investment. The Government are not doing that. The hon. Gentleman talks about avoiding party political debates, but he is making historical party political points.
+
+Damian Green (Ashford) (Con)
+May I gently point out to the hon. Lady that when she uses the Labour party sneer of the month about the part-time Prime Minister, she might like to look behind her and discover that there is precisely one person on the Labour Back Benches? She appears to be speaking for a part-time political party.
+
+Chi Onwurah
+I admire the fact that the right hon. Gentleman compares the Prime Minister of the United Kingdom with Back-Bench Labour MPs. I entirely agree that many Back-Bench Labour MPs contribute far more to the effective government of this country than the Prime Minister, who is not to be seen in our flood-devastated regions. I do not want to ask too much of you, Mr Speaker, so I will try to make some progress. First, though, let me say to hon. and right hon. Members that if they examine the record of the infrastructure competition that was in place until 2010—I was working for Ofcom at that time—they will see that there was far greater infrastructure competition then than there is now.
+
+Tom Tugendhat
+I am very grateful to the hon. Lady for giving way on that point. In her time did she, by any chance, come across the Rifkind report that criticised the then Labour Government for the decisions that they had made? Did she read it in any way, or did she have any views on it when it was published?
+
+Chi Onwurah
+I have to say that I do not remember reading the Rifkind report, which suggests that it did not make a significant impression, as it was my job to look at the management of the network. The hon. and right hon. Gentlemen on the Conservative Benches—there are many of them—are trying to accuse the last Labour Government of neglecting in some way our telecoms infrastructure, but it is totally clear that, over the 10 years of the last Labour Government, we rolled out broadband infrastructure to 50% of this country. If that is neglect, we would like to see a little bit more neglect like that at the moment.
+
+Bob Seely (Isle of Wight) (Con)
+rose—
+
+Chi Onwurah
+I wish to make some progress, but I will be happy to give way in a while.
+
+What the Prime Minister promised was full fibre by 2025. Then he downgraded that pledge to universal “gigabit-capable” broadband, and then, in the Queen’s Speech, the pledge was watered down further to “accelerating the roll-out” of gigabit-capable broadband. I am pleased that, in this Bill, the Government appear to be acknowledging the limitations of a market free-for-all and now propose a number of minor measures to ease infrastructure build-out by giving operators more power to access apartment blocks when requested by tenants.
+
+This is a mediocre Bill. On Second Reading, the Minister spoke of
+
+“taking the first hammer blow to the barriers preventing the deployment of gigabit connectivity.”—[Official Report, 22 January 2020; Vol. 670, c. 358.]
+
+This is not a hammer; it is not even a toy hammer. It is like one of those sponge hammers that may make you feel better, but actually does nothing at all. This Bill does not go far enough in solving the problems brought about by a wasted decade in which the Tories allowed the re-monopolisation of broadband infrastructure and failed to take advantage of the world-leading position left by the last Labour Government. If the Government genuinely believe in the levelling up of the UK’s broadband, the Prime Minister has to do far, far more than this.
+
+John Redwood (Wokingham) (Con)
+Could the hon. Lady give the House some guidance on the amendment proposed by my right hon. Friend the Member for Chingford and Woodford Green (Sir Iain Duncan Smith) and the three different versions of something that looks similar in the name of the Leader of the Opposition? I would like to understand why the Opposition are taking a different line from that of my right hon. Friend, and what that amounts to.
+
+Chi Onwurah
+The right hon. Gentleman anticipates the point that I was about to make in my speech, and I will clarify the differences.
+
+Despite the lack of ambition in this Bill, we will not be opposing it. The Government are taking baby steps when it comes to digital infrastructure, but we will not stand in their way. Indeed, we will help them. We will be pushing a set of practical amendments in line with the Government’s stated intentions on tenants’ rights, competition and excluding high-risk vendors from UK telecommunications networks in the absence of the management and mitigation plans that we have been promised. There is also an important amendment on cyber-security education.
+
+Amendment 2 expands the definition of persons who can request an operator to provide an electronic communications service to include rental tenants and other legal occupants who may not own the lease to the property that they occupy. Although the Bill’s explanatory notes and comments from the Minister suggest that tenants can make the request, the Bill itself does not make that clear, referring to them as lessees. Many tenants are desperate for gigabit broadband to enable them to work from home or grow their business. What if the landlord is difficult to reach or indifferent to their situation? Should not the person who actually lives in the building have some rights?
+
+I will not try your patience, Mr Speaker, by expounding at length on the dire state of both home ownership and leasehold—or fleecehold as it is more properly known. The Government could end the misery of millions if they took on the large landowners and followed Labour’s commitment to end leasehold altogether. The system is broken, and that is one reason home ownership rates among young people are a third lower than they were in the early noughties. There are 4.5 million households in the private rented sector. We know also that tenants can easily find themselves in precarious and insecure circumstances through no fault of their own, or even with nowhere to live as a result of a section 21 notice. We therefore have a large proportion of our population condemned to renting for life, but with few rights and less certainty. Although the Government seem unwilling to address the housing crisis, they could, at the very least, ensure that tenants benefit from this legislation, and that is what our amendment seeks to do.
+
+Much of the publicity around today’s debate relates to amendments 1 and 4, which seek to limit or prevent operators with high-risk vendors in their networks from taking advantages of the provisions of this Bill. Mr Speaker, as this is an issue of national security, I do hope that you will forgive me if I take quite some time to discuss these amendments.
+
+My first job when I left Imperial College was with Nortel, a Canadian world leader in the then emerging telecommunications sector. If someone had said to me that a couple of decades later we would be incapable of building a European telecoms network without a Chinese vendor, I would have been astonished. Essentially, though, that was the Government’s position when they confirmed that Huawei would be allowed to participate in the UK’s 5G network, despite national security concerns. Huawei is bound by China’s National Intelligence Law 2017 to
+
+“support, co-operate and collaborate in national intelligence work.”
+
+We are not Sinophobes or Chinese conspiracy theorists. We do not believe that trade and cultural exchange with China are a bad thing, as some have suggested. There are also many great people working for Huawei in this country dedicated to improving our national infrastructure.
+
+Mr Tobias Ellwood (Bournemouth East) (Con)
+We are going to venture into this subject in depth, but I just wonder whether the hon. Lady agrees with me on the following. When we are developing a relationship with China—yes, perhaps we want China to do business on level terms with us—is it right that Huawei, as she has described, is able to be used by its intelligence services, but western companies such as Apple, Amazon and eBay are not even allowed to operate in China under the terms and conditions that they are freely able to operate in the west?
+
+Chi Onwurah
+I thank the right hon. Gentleman for his intervention. He raises two important points: one of reciprocity between how Huawei acts and how vendors from Europe and the US are able to act in China; and also one of the risks associated with that potential relationship with the Chinese security services. It is a risk that has been examined by the National Cyber Security Centre.
+
+Jonathan Edwards (Carmarthen East and Dinefwr) (PC)
+I thank the hon. Lady for giving way. We are minded to support the Labour amendments because of the designation of the National Cyber Security Centre. However, what impact does she think that it will have on the roll-out of 5G? How much time are the UK Government likely to lose in terms of rolling out 5G across the UK?
+
+Chi Onwurah
+I thank the hon. Gentleman for his proposed support. He raises another important point, which I will address immediately. First, we do not want to think that the involvement of Chinese companies in our network infrastructure is necessarily an unmanageable security risk—I am choosing my words very carefully— but we do believe that it represents a risk. We believe that because that is what our security services say. The National Cyber Security Centre has designated Huawei as a high-risk vendor. That is why it set up the Huawei Cyber Security Evaluation Centre. I thank the NCSC for meeting me and for giving the Opposition a detailed security briefing. I have also sought advice from industry experts.
+
+13:30:00
+
+As the hon. Member for Carmarthen East and Dinefwr (Jonathan Edwards) suggested, tearing Huawei out of our networks—to be clear, Huawei is already present in our networks, it is in different positions in the networks and it is in different networks but particularly in 4G, which is the platform for 5G—would mean significant costs and delays: Mobile UK, the trade organisation for the mobile industry, estimates that it would cost £7 billion and delay 5G by 18 months. The telecoms supply chain review, which was published in July, set out the ways in which the risks could be managed and mitigated. In reporting on that review to the House, the Government made several promises around diversifying the supply chain and putting in place a regulator with strong enforcement powers. Seven months later, we have heard nothing. In July, the Government promised to legislate at the earliest possible opportunity. Well, now is that opportunity.
+
+As the Government have refused to put in place any legislation or even to share plans—or plans for plans—we are taking matters into our own hands, hence our amendment 4, which would prevent operators from taking advantage of the provisions of the Bill if they were using high-risk vendors in their deployment. It would effectively mean that the reach of high-risk vendors would not be allowed to grow as a result of this legislation. The legislation is narrow; our amendment reflects that narrowness, but seeks to prevent high-risk vendors from having an increased foothold in our networks as a consequence of this legislation.
+
+Mr David Davis
+May I draw the hon. Member back to the question of what we mean by a high-risk vendor? Quite rightly, she is focused on the security element, but in a throwaway line she talked about the attitude to trade with China. The whole concept of global trade requires a rules-based environment and proper behaviour by all the players. As far as we can tell, China seems to subsidise Huawei to the point that it can act in a predatory pricing mode towards western companies, with the clear aim of removing those companies from competitive pressure. Although that point is not as important as the national security issue, is it not still very important in its own right?
+
+Chi Onwurah
+The right hon. Gentleman makes a very important point, so I will deal with it in some detail. I am limiting most of my remarks to reflect the work of the National Cyber Security Centre because it has done a great deal of work in this area and it is an offshoot of our security services. We trust it. As our national security is in the hands of our security services, I place my confidence with them.
+
+Sir Mark Hendrick (Preston) (Lab/Co-op)
+Will my hon. Friend give way?
+
+Chi Onwurah
+I will just finish addressing the previous point and then come back to my hon. Friend.
+
+The point made by the right hon. Member for Haltemprice and Howden (Mr Davis) regarding the financial viability of the sector as a whole is incredibly important. If players in the sector—operators or vendors—fail, there will be an impact on the network and therefore on our security as it is part of our critical national infrastructure. The Huawei business model appears to be dependent on having really deep pockets, which means that it can undercut other vendors in tender processes.
+
+Bob Seely
+Will the hon. Member give way?
+
+Chi Onwurah
+May I just finish this point?
+
+There are two consequences of Huawei undercutting other vendors: market share, and the dependence of operators on Huawei as a vendor. The networks that Huawei offers or builds are genuinely vendor-specific and operator-specific, which increases dependence hugely. I recognise the point made by the right hon. Member for Haltemprice and Howden, and I think it is important for national security as well as for our economic security.
+
+Sir Mark Hendrick
+As the shadow Minister will be aware, the Government made an announcement on 28 January that they were going to give a very limited role to Huawei in the development of the infrastructure. They have also taken advice from GCHQ and the NCSC about the level of involvement that Huawei should have. Why does she disagree with that? [Interruption.]
+
+Mr Ellwood
+On a point of order, Madam Deputy Speaker. Colleagues in a sedentary position have reminded me that there is a declaration of interest to be made, so I humbly ask the hon. Gentleman if he would state his relationship with Huawei.
+
+Sir Mark Hendrick
+rose—
+
+Madam Deputy Speaker (Dame Rosie Winterton)
+Order. A point of order should go through the Chair. It is either an intervention or a point of order; it cannot be both.
+
+Mr Ellwood
+I was trying to be courteous to the situation, Madam Deputy Speaker, but the message has now been given.
+
+Madam Deputy Speaker
+I thank the right hon. Gentleman for his point of order. I hope that Members will not interrupt the debate with too many points of order. I am sure that the hon. Member for Preston (Sir Mark Hendrick) is clear that if there were any need to make a declaration, I would expect him to do so.
+
+Sir Mark Hendrick
+Yes, I was about to do so, Madam Deputy Speaker. I have consulted the Speaker’s Office—as it will confirm—and checked this point, and I wish to declare a visit to the Huawei factory 10 years ago.
+
+David Morris (Morecambe and Lunesdale) (Con)
+On a point of order, Madam Deputy Speaker. I say in a polite fashion to the hon. Member for Preston (Sir Mark Hendrick), who is my friend outside this Chamber, that he is also holding a Huawei reception next week. Perhaps he could declare that. I do not want him to get into trouble—I really don’t.
+
+Madam Deputy Speaker
+I thank the hon. Gentleman for that point of order. As I have said, I am sure that the hon. Member for Preston will make any declarations necessary, and I hope that he has sought advice on the issue.
+
+Sir Mark Hendrick
+I have written to every Member in this House inviting them to the reception next week, but it is not a declarable interest.
+
+If there are no more points of order, may I just ask the shadow Minister why she does not feel that it is appropriate to take the outlined course of action, given the evidence from GCHQ and the NCSC about Huawei’s limited role and the management of risk?
+
+Chi Onwurah
+My hon. Friend raises a really important point. It is worth clarifying that we support the position of the NCSC and I have said that the risks can be managed, but the fact is that we see no evidence that the risks are being managed. They are not being managed in the way in which the NCSC has said that they can, should and need to be managed. There is no evidence of that, and that is the key reason for amendment 4.
+
+Amendment 1, in the name of the right hon. Member for Chingford and Woodford Green (Sir Iain Duncan Smith), is similar in some ways to our amendment. The House will not be surprised to learn that I disagree passionately with him and many of his hon. Friends about many very important issues, but we have a shared concern for our national technological capability and our national security. Labour’s amendment 4 differs from his amendment in two ways. First, our amendment would apply with immediate effect, whereas amendment 1 would apply from 2023. Secondly, our amendment would only apply to newly deployed infrastructure, whereas amendment 1 —as I understand it—would apply universally, to all telecommunications network deployment.
+
+I differ from some Government Members on the nature and level of the threat from Huawei. As I said, I follow the guidance of the National Cyber Security Centre, but the problem is that we have no indication that the Government are following that guidance. There is no legislation. There is no plan for legislation. There is no detail on the nature of the regulator. We understand that it is proposed that Ofcom would take up these regulatory powers, but what are the powers, and what are the resources at a time when Ofcom is also being asked to regulate not only the BBC but the internet? What are the resources, what are the powers and what are the enforcement mechanisms?
+
+Meanwhile, people across the country are concerned. Constituents have written to me to ask if their data has to flow over high-risk infrastructure. They may be objecting on security grounds or, equally, on their understanding of the human rights and employment rights record of Huawei in China, but either way they do not understand the Government’s lack of action.
+
+In tabling this amendment, we are not only, as it were, bringing problems to the Government—we are also offering solutions. I have made detailed proposals for potential ways in which we can diversify our telecoms supply chain: an industrial strategy for the telecommunications sector based around a five-point plan involving standards, research and development, a new catapult centre, working with the Department for International Development and with Commonwealth and emerging markets, and support for non-5G wireless technologies. All of this is to enable innovation around networks, business models and more.
+
+The good news is that in tech you are never so far behind that you cannot leapfrog existing technology. The bad news is that it takes investment and strategic vision—qualities, I am afraid, that this Government appear to lack. Huawei is a test of both. Last week, in the Westminster Hall debate secured by the right hon. Member for Chingford and Woodford Green, I put 10 questions to the Minister, which he was unable to answer. I will not repeat them here, but—[Interruption.] The Minister appears surprised from a sedentary position. I did not receive an answer to my 10 questions. I could repeat them here, but I have written to him to give him the opportunity to encourage the Secretary of State to do so later. Truly, it astounds me that a Government who are, for ideological regions, apparently reluctant to take initiatives on UK state intervention seem so reluctant to set out how they are going to prevent Chinese state intervention in our industry and our economy.
+
+Amendment 5 is related in that it seeks to ensure that operators who roll out infrastructure as a result of this Bill have clear and published plans in place to remove vendors who are designated high risk and a national security concern. Clearly—I think there has been some consensus on this in the debate—it is for the Government to bring forward the promised plans to manage the presence of high-risk vendors in the network. However, in the absence of such plans, the amendment places a duty of transparency on the operators to publicly report on their use of high-risk vendors and their plans to meet the target of 35% set out by the National Cyber Security Centre.
+
+Amendment 3, which was also tabled in Committee, is critical and relevant to some of the earlier debate regarding the record of the Labour Government. We believe that we can go much further in broadband market competition. During my six years at Ofcom, it was established beyond doubt that telecoms infrastructure competition drives investment, innovation and choice. In relation to the previous debate on high-risk vendors, had we had greater competition, we would have had greater choice and would not be in the position of being dependent on two, or possibly three, suppliers. Under Labour, first generation—
+
+Richard Drax (South Dorset) (Con)
+Quite apart from the security aspect, does not coronavirus show how much more dependent we in the United Kingdom have to become on this sort of technology?
+
+Chi Onwurah
+Coronavirus shows the ways in which risks can come from different directions and can be unpredictable. That means, as the hon. Gentleman suggests, that not only are we dependent on technology, particularly with regard to working from home, but that the spread of misinformation around coronavirus creates the need for infrastructure that is not only secure but properly regulated.
+
+It may seem strange for a Labour MP to be giving instruction to a Conservative Government in competitive markets, but I am afraid that my time in this place has taught me that certain Conservatives are all too willing to put vested interests before competitive markets. As the Bill stands, one operator can capture a building, roll out infrastructure to that building, and basically fleece the tenants there forever.
+
+13:45:00
+
+Tom Tugendhat
+The hon. Lady knows that I have my own issues with various aspects of Government policy that I hope will be put right, but the idea that diversity and competition are not at the heart of the Government’s proposal is, I am afraid, simply not true. The Government are exactly trying to achieve the kind of competition that has fallen out of this market because of the domination of one particular player. While I welcome the Government’s intention, the only difference I have is on where we take the risk. So I think that welcoming a little bit of the Government’s competition strategy would be a good idea.
+
+Chi Onwurah
+In that case, I am sure that the Government will adopt this amendment, which means that the infrastructure that is put in place under the Bill has to be open to other competitors so that one operator cannot capture a building. That is the intention of the amendment; it is not the intention of the Bill. The amendment ensures that tenants are not locked into services provided by a single operator, requiring that the infrastructure can easily be shared.
+
+Amendment 6 recognises the distressing recent reports of hacked baby monitors and suchlike, and poor cyber-security practices that leave many residential users open to cyber-attacks. The amendment is aimed at supporting customers and bedding in best practice for the era of the internet of things, which will increase citizens’ data trails exponentially, and therefore the opportunity for cyber-threats, digital surveillance and data exploitation. People, not technology and things, must be at the heart of the internet of things. Through this amendment, we want to ensure the distribution of materials on cyber-security education for new customers getting a telecommunications service as a result of the powers exercised under the Bill.
+
+I started by saying that this is a mediocre Bill. On a scale of zero to 10, in terms of impact on our telecommunications infrastructure, it is about 0.5—with a good wind behind it. It does no harm, but it does very little good. Our amendments seek to change that, delivering for tenants, for competition and for national security.
+
+Sir Iain Duncan Smith (Chingford and Woodford Green) (Con)
+I rise to speak to amendment 1, standing in my name and in those of my colleagues.
+
+The reason we have tabled this amendment is that we are genuinely concerned, like the hon. Member for Newcastle upon Tyne Central (Chi Onwurah), that this country has got itself far too bound into a process in which we are reliant on untrusted vendors—in this particular case, Huawei. We recently heard a Government Minister express the view that Huawei is a private company. Let us be absolutely clear at the outset: this company is not a private company. Ultimately, it is essentially almost completely owned by Chinese trade unions, and they, of course, are completely locked into the Chinese Government. This an organisation wholly owned by China.
+
+It is often bandied around, including by some of the security guys the other day, that this is somehow all to do with market failure, as if out of nowhere companies from the west in the free markets—the free world—no longer wanted to get involved in this process. That is completely and utterly without foundation. The single biggest problem we have faced is that, nearly two decades ago, the Chinese Government set out to ensure that they dominated the market. As this organisation has access to nigh-on unlimited funds, it has spent that period underbidding every single time in these processes, from 2G through to 4G and now, as we understand it, 5G.
+
+Mr Ellwood
+I commend my right hon. Friend and the others who have put their name to amendment 1 for raising the profile of this difficult and complex issue. I think the Government should be on warning that while the amendment may not be pressed to a Division because of what the Minister says later, this House believes that we need to wean ourselves off Huawei. Does my right hon. Friend agree that there is an easy way out of this? There are six global vendors when it comes to 5G: ZTE, Huawei, Ericsson, Nokia, NEC and, of course, Samsung. The last two are not allowed to operate outside Japan and Korea. If they were invited to do so, that would enable us to push away Huawei and ensure that our national infrastructure is protected.
+
+Sir Iain Duncan Smith
+I agree with my right hon. Friend, and I was going to come to those points.
+
+As I saying, if we look at this strategy, we see that when this all began, there were something like 12 companies in this marketplace. One by one, they have disappeared. Why have they disappeared? They simply cannot compete with Huawei’s pricing. These telecoms companies—telcos, as we call them—have bit by bit found themselves going to the cheapest bidder, providing the technology is as good as the others. By the way, it is certainly not an argument that Huawei has better technology; there is no evidence of that whatsoever. In fact, I think Dr Ian Levy said a year ago that he thought Huawei’s security issues were a shambles, and that is correct. Huawei does not somehow have extra brilliant technology. What it does have, however, is money, which allows it to bid down.
+
+The hon. Member for Newcastle upon Tyne Central said that she is a believer in free markets. She will know that the free market relies on companies being able, when they sell their goods, to make enough money to reinvest and improve the quality of their goods. That is how a proper rules-based market works, but not with a company like this, which is able to strip that away. One by one, these companies have gone, not because of market failure but because it has been a policy position of the Chinese Government using Huawei to dominate this market over nearly two decades.
+
+Sir Mark Hendrick
+Will the right hon. Gentleman give way?
+
+Sir Iain Duncan Smith
+I will give way to the hon. Gentleman, but not for long.
+
+Sir Mark Hendrick
+I thank the right hon. Gentleman for giving way. In America, the break-up of the Bell Telephone Company led to the creation of the “Baby Bells”. Companies are changing all the time. Telecommunications companies across Europe are changing and restructuring all the time. This is no different.
+
+Sir Iain Duncan Smith
+With respect to the hon. Gentleman, I have no idea what he was intervening over. There is a free market, and when a free market operates we have competition because companies are set up to solve problems and sell their goods. When a company has unlimited funds and can undercut the others, there is no money for them, they cannot operate and they will go out of business. It is fairly logical for anybody who understands the free market.
+
+Mr David Davis
+It is not just subsidy that supports Huawei and undermines its competition. At least some members of the Canadian Security Intelligence Service believe that Huawei started by stealing Nortel’s technology, which ended up destroying Nortel and putting Huawei in a dominant position.
+
+Sir Iain Duncan Smith
+My right hon. Friend is absolutely right. I was going to come to that, but now that he has mentioned it, let us kill this one completely. The reality is that there has been a whole series of attempts—successful ones—to steal technology from other companies in the field, thus driving them out, by finding the edge they have on technology and selling it at a cheaper price. The bidding that took place under the previous Labour Government was raised earlier. I am not blaming the Labour Government for that; that just happens to be the way it was. But the amount paid by those companies was astonishing—about £24 billion to £25 billion—and it left them bereft of cash and desperate for cheap product.
+
+Alec Shelbrooke (Elmet and Rothwell) (Con)
+Has my right hon. Friend given consideration to financial/non-financial tariffs that could be applied to Huawei on our exit from the EU, after the transition period, to try to level the playing field? Does he think that the 2022 deadline is realistic?
+
+Sir Iain Duncan Smith
+I am always flexible on the date, providing there is an intent and commitment to eradicate the involvement of high-risk vendors in our system across the board, full stop. I think that is a reasonable position, and I will wait to hear what the Government have to say; they will expect me to intervene to ensure that that is as clear as possible.
+
+Tom Tugendhat
+The position that my right hon. Friend is arguing for is one that many Government Members and many people in this country agree with—namely, that we should be supporting domestic industry and looking to partner with countries and companies that share not just the technology but the values that underpin that technology. The Government are right to be looking at investing in infrastructure, and we all welcome their investment in broadband, but should some of that investment not perhaps be in UK infrastructure?
+
+Sir Iain Duncan Smith
+I agree with my hon. Friend. This is the other sad part of what has been going on for over a decade. We have watched quietly—it does not matter which party has been in power—as all that ability has been stripped out of the UK. Our last provider was some years ago, and it has gone, so we now rely on the Huaweis of this world. Furthermore, all the microprocessors and the chips are not produced here; they are mostly produced in the far east. My point is simple: if this was of strategic importance to us, surely we should have all got together and decided that we need to have these facilities here, so that we can control future development.
+
+The National Cyber Security Centre has produced its security analysis for the UK telecoms sector. Despite all the talk about how it can control things, it is quite clear in paragraph 5.5.2 on page 13 when it says:
+
+“Without government intervention, the NCSC considers there to be a realistic likelihood that due to commercial factors the UK would become ‘nationally dependent’ on Huawei within three years.”
+
+I say to my right hon. Friend the Member for Elmet and Rothwell (Alec Shelbrooke): I put down a date two years from now in my amendment, but the NCSC refers to three years. I want to know what the Government think the risk is and how they will eradicate that.
+
+Anthony Mangnall (Totnes) (Con)
+Will my right hon. Friend give way?
+
+Sir Iain Duncan Smith
+I am conscious that Madam Deputy Speaker does not want me to speak for too long, so I will give way briefly.
+
+Anthony Mangnall
+Is my right hon. Friend aware of the Made in China 2025 strategy, which aims to see China extend its influence in telecommunications networks across the world? I find that extremely worrying, and it makes me think that Huawei is not only a high-risk vendor but will become an increasingly risky vendor for our networks.
+
+Sir Iain Duncan Smith
+We have looked at the past, we are where we are and now we look to the future. That suggests that we will become completely and utterly in thrall to providers that we cannot possibly trust. That is a big security risk, and it is a statement of absence of thought by any Government. If defence of the realm is our No. 1 priority, this becomes demi-defence of the realm, and I am simply not prepared to put up with that.
+
+John Redwood
+I thank my right hon. Friend for highlighting and leading on this crucial issue; I fully support him. Will he confirm that there is technology outside China that would do this job perfectly well?
+
+Sir Iain Duncan Smith
+I am glad that my right hon. Friend raises that point, which I was going to come to. He is right. There has been a whispered suggestion to many of my colleagues and, I am sure, others—I do not mean that anyone has set out with malicious intent, but with practical intent, I suspect, to head off any would-be vote in the wrong direction—that we have to use Huawei because there is no other way of doing this, but that is simply untrue. Yes, there were 12 companies once upon a time and they are much reduced in number now, but I am aware of at least three that have been involved in 5G development or are capable of doing 5G development in what I call the free market world, with all of us, and they are Nokia, Ericsson and Samsung. In fact, Samsung has been involved in the South Korean 5G network anyway, and every one of them says, “We can do this.” The question then is that this will add cost, but I am sorry to say that, in reality, when it comes to security versus cost, my view is that security wins every single time.
+
+14:00:00
+
+Sir Iain Duncan Smith
+I will give way in a second, but I am conscious that you want me to make some progress, Madam Deputy Speaker.
+
+I worry when we start compromising security. I worry—and this is the point I want to make—that we have no friends out there any more on this issue. The Canadians, the Americans, the Australians and the New Zealanders all disagree with us. I know there is sometimes a habit in this country of people quietly and smugly saying, “Well, we’re better than they are”, and I understand that. It may be the suggestion of the Security Council—[Interruption.] Well, you know what it is like. I learn a lot from my nationalist colleagues. [Interruption.] I do; I used to live there.
+
+The point is that when people say that smugly, the answer is, “No, we’re not.” The Australians are adamant that they do not believe it is possible to manage this process, and everyone else from the Americans onwards says the same. The Japanese are absolutely seething with us over this because it undermines them, and they are of course very close to what they consider to be a threat. Then we get others, people whom we are not necessarily close to, such as the Vietnamese, who do not even want to do this because they recognise that there is a real threat. My point is that, once we add this all up, there is simply nobody out there who agrees.
+
+I therefore very simply say this: no matter how intelligent, brilliant and great our security and cyber-security services are, how is it that they are right and everybody else is wrong? In fact, at a briefing the other day, I saw them trashing the Australian view of this. I simply say, fine, but the reality is that we are alone on this matter, and I think that that is a very bad place to be in relation to our closest allies when it comes to security.
+
+Damian Green
+My right hon. Friend is being generous in giving way. Is not the point that Britain’s reputation in this area is very high, and if Britain takes the wrong step and allows Huawei to dominate our telecoms infrastructure for decades, other countries will think that it is the right thing to do? In particular, smaller countries around the world will think, “If the British think it’s okay, then we’ll do it as well”, and this could be the route by which China dominates telecoms infrastructure in many countries around the world for decades to come.
+
+Sir Iain Duncan Smith
+You know what, I think that is almost the most powerful point. We have a leadership role in this, and many countries look to us. The reason why it is so important, I believe, that Huawei captures this market is very simply that it knows it will be able to go around to all these other countries that have lesser security than us and say, “Well, you know, the British have got a brilliant reputation, and they’ve said it’s okay, therefore what are you worried about? You don’t even begin to know half of what they know, so now we’ll just sell our goods over here.” The eventual aim of this is to capture most of these networks, and when it has done that, as the National Cyber Security Centre peculiarly said, we may be completely in hock to it because all the other companies will have fallen away, and we will be left with the invidious choice of not doing 6G because we cannot risk it and do not have anybody else to go to. Now is the time to restore our faith in those companies, and give them a chance to compete and to produce the product. They are less risky—I accept there are always risks, but they are far less risky—than the high-risk vendors.
+
+Mr Owen Paterson (North Shropshire) (Con)
+Does my right hon. Friend agree that there is a compelling urgency now? There are significant customers for this equipment that are looking to see what the Government decide. If we fudge it today and we do not have a very clear target date to end the involvement of high-risk vendors, they will be compelled by commercial imperatives to buy from the cheapest vendor, which is Huawei. It is really urgent now to have a clear end date by which we will get to zero.
+
+Sir Iain Duncan Smith
+My right hon. Friend is correct. I will quote what happened in the debate we held in Westminster Hall, because we heard a really significant final statement. The Under-Secretary of State for Digital, Culture, Media and Sport, my hon. Friend the hon. Member for Boston and Skegness (Matt Warman) said—quite rightly, by the way, as I think this is a very good starting point—that
+
+“we will work to move towards no involvement of high-risk vendors.”—[Official Report, 4 March 2020; Vol. 672, c. 299WH.]
+
+I want to conclude—and allow others to get into this debate—by simply saying that three things need to happen today. I recognise fully, and I say this to the Secretary of State, having done much the same kind of stuff as him, that it is not easy. I recognise that, strictly speaking, this is not the correct Bill to try to force through the whole change, but my view is any port in a storm. This amendment is a boat in a different port, but perhaps if he so wants, we can move it into the correct port when he brings through the relevant Bill.
+
+I need some absolute clarity from the Secretary of State, as I think do my colleagues. First, we must plan and we need to know that it is the Government’s intention to move to essentially rid ourselves of high-risk vendors from our system. There also needs to be a concept of timescale in this. I want the Government to recognise and to accept that we have to set ourselves the task to do this. I accept that the Government have already said they want to do it with their Five Eyes colleagues—that is a start, because they have not said that before—but we need to work with our real allies to get ourselves into the position where we can actually go on to rid ourselves of these high-risk vendors. I accept that that is not without difficulty, so the Government need to make that pledge very clearly, and they need to give the timescale by which they will have achieved it and commenced the process of winding out those high-risk vendors.
+
+Lastly, if the Government do not want us to try to create trouble on this Bill, they must give an absolutely lock-tight commitment that the Bill relevant to this will return before the summer—categorically before that, and an early as possible, perhaps in May—so that we can properly see these commitments plus others written into that Bill, and we can understand that those are the Government’s intentions. It is absolutely critical for me—I will make my mind up on this only when I have heard the words of the Secretary of State—and we need to know, that it is the Government’s intention to rid ourselves of high-risk vendors such as Huawei; that it is the Government’s intention to do that in the Bill that will come before us; that they will now work aggressively and at speed with our Five Eyes colleagues, inviting them in immediately to create, with all of us, a system that allows us to do that at the earliest opportunity; and that they will commence the absolute beginnings of that retraction before the end of this Parliament. I give way a little bit on those timescales, but I think I am being fairly reasonable.
+
+It is not normally given to me to make any demands, and I am not doing so. I am simply urging my right hon. Friend, his colleagues and anybody else from the Government who is watching—I genuinely understand the difficulties they are in—to please stop lecturing us and saying that there is no other provider and to stop lecturing us about this somehow killing broadband roll-out—it does not. Most importantly, they must remember that the security of the realm is the No. 1 priority, and that is why I have tabled the amendment.
+
+Ronnie Cowan (Inverclyde) (SNP)
+I will not take up too much of the House’s time—I have no intention of grandstanding on this issue—but it is always a pleasure to speak on behalf of the Scottish National party and to ensure that Scotland’s voice is heard in this debate about a key part of the UK’s infrastructure. It goes without saying that digital connectivity is absolutely vital as we seek to grow and evolve our economy. Indeed, full fibre roll-out and the 5G network underpin our progress towards the fourth industrial revolution.
+
+The UK Government, who have responsibility for telecommunications, have a responsibility to ensure that this key driver of our future economic prosperity is appropriately protected and managed. I am pleased that, at a devolved level, the Scottish Government have taken strong action to support digital connectivity. Last month, the Scottish Finance Secretary announced that spending on digital connectivity projects is to double—up to £63.4 million in 2020-21. I want this investment to succeed in providing Scotland with world-class digital infrastructure.
+
+With that in mind, the SNP welcomes the Bill before us today. The SNP acknowledges that the proposals will unlock opportunities for telecoms operators in Scotland that are being prevented from fulfilling consumer demands due to access issues.
+
+The SNP also supports the introduction of laws that would benefit contractors by reducing the costs associated with the delivery of digital infrastructure to multi-dwelling units. The UK Government are entirely right to address any barriers to commercial deployment, and this will complement the Scottish Government’s ambitious plans for digital roll-out, particularly through the R100 programme.
+
+I caveat my support by adding that the SNP will continue to monitor developments relating to this Bill. However, I am aware that Scottish Ministers stand ready to engage with their UK counterparts and I believe it would prove beneficial in making this legislation a success in Scotland.
+
+On the amendments, I want to draw particular attention to those addressing high-risk vendors. We cannot ignore the National Cyber Security Centre’s determinations on Huawei, which it considers to be a high-risk vendor. We cannot ignore the fact that as a Chinese company Huawei could be ordered to harm UK interests under China’s national intelligence law of 2017. Once a virus is placed into our digital system, it cannot be contained by the Government washing their hands of the problem while singing “God Save the Queen.”
+
+We now find ourselves in the strange and contradictory position of admitting that Huawei is a potential threat to our national security yet granting it an important role in the development of our digital infrastructure. The UK Government can play around with the semantics of the situation by saying that Huawei will be limited to the periphery or to being a minority presence, but it is deeply irresponsible to dismiss the expert advice.
+
+Sir Richard Dearlove, who led MI6 from 1999 until 2004, said that
+
+“we must conclude the engagement of Huawei presents a potential security risk to the UK.”
+
+John Nicolson (Ochil and South Perthshire) (SNP)
+Does my hon. Friend agree that in 5G there is no such thing as a periphery any more? That is the point: the core and the edge are interlinked, and that is what makes the Government’s position on this so disturbing.
+
+Ronnie Cowan
+I wholeheartedly agree. The whole concept of a 5G network rides roughshod over the concept, which was brought into 2G, 3G and 4G, of a core and a periphery; once anyone is in that network, they are in that network.
+
+This is not an attack on China or the people of China. They have done what we should have been doing; they have built what we should have been building. Because as I understand it, currently there are no wholly owned and run UK companies that can provide the services of a Huawei, a Nokia, an Ericsson or a Samsung. But with guaranteed work and a guaranteed cashflow we could create the perfect environment to grow such a company. Amid the Brexit jubilation did this UK Government not say they were “taking back control”? Well, they should put their money where their mouth is.
+
+Finally, rhetoric in itself will not revitalise or rejuvenate a marketplace. I am asking this UK Government to plan, invest and grow a state-owned digital infrastructure company.
+
+Dr Liam Fox (North Somerset) (Con)
+It is essential in this debate that we do not conflate the issues of trade and security. In order to achieve greater trade with China we do not need to sacrifice our national security by including Huawei.
+
+I worked hard as Trade Secretary to improve our trade with China, and getting better Chinese trade is good, not least for bringing millions—billions—of people out of poverty in that country. That is in itself a good thing, but—and it comes with a very large but—it must, as my right hon. Friend the Member for Chingford and Woodford Green (Sir Iain Duncan Smith) said, come with a rules-based system.
+
+We know that there is an incredible lack of transparency in China about what is in the state sector and what is in the private sector, and Huawei is a classic example of that. The distinctions that we accept in the free-market west are not accepted in the Chinese system, which is why, for example, it is so able to get around some of the pricing constraints that we put in tenders. It is very unclear how investment is funded. While competitors to Huawei such as Samsung have to make very clear to their shareholders how investment is raised and then spent, that transparency does not exist when it comes to Huawei. When I spoke to Samsung about this issue and asked why it was not at the forefront in countries such as the United Kingdom, its answer was, “Well, we have to invest along with the international rules and we have to account to our shareholders and to the law.” These are not things that apply to Huawei, and in any case the way that the tenders were constructed allows a company that lacks transparency such as Huawei always to underbid. If I wanted to get into someone else’s national infrastructure, and I was able to count on ghost state funding to do so, I would certainly take that opportunity. Why would we be surprised that that happens with Huawei?
+
+Bob Seely
+Between 6% and 7% of our overseas export trade is with China, and we are worried about offending it. One third of the Australians’ export trade goes to China. China would therefore have the power to cripple Australian export trade if it chose another supplier for some of those products, but it does not do so, and Australia has said no and ruled out high-risk vendors in its 5G. So the economic risks and the economic threats are much exaggerated.
+
+Dr Fox
+Not only are they greatly exaggerated, it is utterly untrue that there is a link between the two. My hon. Friend has made the case perfectly clearly that the Chinese knew that the Australians were ruling out Huawei involvement yet they still trade with Australia, so the argument in this debate is a red herring entirely. This is an issue about national security. Also, in terms of trading and China, we have not yet resolved issues such as dumping, illegal subsidy and intellectual property theft—and that is before we take into account the 2017 national intelligence law.
+
+John Redwood
+Will my right hon. Friend confirm that in the important talks between the US and China, the issue of intellectual property theft and the legitimate defence of western technology was absolutely central and the US got guarantees in that deal which we still do not have?
+
+Dr Fox
+That was absolutely central, as my right hon. Friend says; whether the guarantees will turn out to be enforceable is a separate issue, however, and that of course points to some of the issues the United States has about Chinese membership of the World Trade Organisation.
+
+Mr David Davis
+As my right hon. Friend intimates, there is a massive subsidy from the Chinese state to Huawei, and that is for a purpose. Would he care to expatiate on what that purpose might be?
+
+Dr Fox
+In a moment I will come on to why I think our values must be a part of our approach to this particular issue, as well as national security, but there is a key question for the Secretary of State to answer in this debate, and it is a very simple one: do the Government believe that there is any risk to the United Kingdom’s national security if Huawei is involved in our 5G system? The Government cannot talk about a small risk; we do not want there to be a risk at all. One of the things I have found extremely irritating in this whole debate and in many of the briefings that have come forward is the response, “Don’t worry, we can mitigate the risk of Huawei being there.” Why would anyone want to mitigate a risk when they can avoid the risk in the first place?
+
+That goes to the root of the issue. The idea that we must have Huawei because there are no alternatives is untrue. The United States is going to get 5G and it will get it without Huawei, because it will not bring that risk to its own national security. So what is wrong with the United Kingdom having to wait a little longer to get 5G, but to get a 5G that will give us security in the long term—and, as has been rightly said, so what if it costs us a little bit more? The cost is much less than the risk to long-term national security.
+
+14:15:00
+
+Andrew Bridgen (North West Leicestershire) (Con)
+We have all heard the Government say that they can mitigate the risks of Huawei being involved in the roll-out of 5G, but my response to those security briefings was that the Government do not have to persuade me; they have to persuade our Five Eyes partners. If the Government cannot persuade the Americans, Australians, New Zealanders and Canadians that they can mitigate the risk, it does not matter whether they can mitigate it or not, as we will lose access to that security information, and that is a price we cannot pay.
+
+Dr Fox
+Although I accept my hon. Friend’s point, I think the Government’s first duty is to persuade the House of Commons that we are not taking a risk with our national security.
+
+I want to come briefly to the point raised by my right hon. Friend the Member for Ashford (Damian Green) about reputation. It is beyond doubt that countries around the world will be looking to the United Kingdom to see what decision we make. If we send out the signal that we, a country that is so highly regarded in terms of our national security infrastructure, think it is all right to involve Huawei in our 5G, others will follow. In fact, it is worse than that; we are already being cited as an example by other countries who intend to make that decision. Today, we have an opportunity to pause and say that the United Kingdom cannot be cited as a precedent, because we have not yet taken that decision—and hopefully we never will.
+
+Mr Paterson
+My right hon. Friend is making a very powerful point. Does he agree that if we did that, we would be in a tremendous position to work with our Five Eyes partners on a common programme, as suggested by US senators in their letter to MPs last week?
+
+Dr Fox
+I could not agree more. This decision comes down to the wider issue of our values and what our world view is. This decision will demonstrate that to countries around the world. What China wants is to make the world a more permissive place for autocratic regimes. What we need to do is to make the world a more permissive place for those who believe in freedom, democracy and the rule of law. Our national security is intrinsic to protecting those values. The decision we take will say more than just what we intend to do for the 5G network and the internet of things; it will say something about what Britain is and intends to be in the years ahead, and how we intend to shape the world around us.
+
+Jeremy Wright (Kenilworth and Southam) (Con)
+I am very grateful to my right hon. Friend for giving way. May I take him back a little in his speech? I agree entirely that it is not a good argument for the inclusion of Huawei that not to do so would cost us a little more or take us a little longer, but does he accept that if we pursue our 5G network with other suppliers, it is highly likely that those suppliers will also use Chinese equipment? Therefore, whatever we do with Huawei, it is important to strengthen our entire telecoms supply chain network against all types of threat.
+
+Dr Fox
+I entirely agree with my right hon. and learned Friend, and I am grateful to him for raising that point. When I was practising medicine—or, as my wife would say, “When you had a proper job”—I was never inclined to do the cheapest or the fastest treatment. It was always the best treatment and that is what we have to apply here. This is a much more important issue. If we have to wait a little longer and pay a little more for the security of this country, then we should do just that.
+
+We have a choice in politics and it is fairly binary: at whatever level and on whatever issue, we either choose to shape the world around us or we will be shaped by the world around us. I believe that the values we have in this House—certainly, the values we have as a party—and the conventions and traditions of this country are not something gathering dust on a shelf. They are a route map to the future. We have to believe in those values and be willing to defend them.
+
+I hope the Secretary of State can give us enough concessions today to allow him to go away and think again about these issues. If he does not, I am afraid the Government will face an embarrassing vote today. As someone who is a former Secretary of State for Defence who sat on the National Security Council, it would give me no pleasure to vote against a Conservative Government because I believed they were undermining our national security. I urge the Secretary of State to go away and think about these issues, and bring them back in a way that provides satisfaction that our national security will not be sold for any reason whatever.
+
+Mr David Davis
+I have three very simple points to make. First, we are told that we should listen to the experts, namely the Government experts, but what is their argument? Their argument is this: the experts at our national security agencies, the greatest experts on this matter in the world, are wrong; the Australian Secret Intelligence personnel, who know China better than any other western agency, are wrong; and that the people in the Government of Japan, who are explicitly opposed to this policy and who are closest to China in terms of threat, are wrong. So if we listen to the experts, we should listen to the experts who are closest to this problem and who have the most resources, namely those or ours.
+
+Bob Seely
+I have talked with the NSC and GCHQ people a few times since last summer. One of the most disturbing things I found out, I found out yesterday. I said, “You are making a pledge that you can militate against the system”—we know from the oversight board that actually they cannot—“but for how long is that guaranteed?” I was told that the guarantee that we can defend the system lasts about seven years, which is about the same length of time as a car warrantee—not 10 years, not 20 years, not three or four generations, but seven years.
+
+Mr David Davis
+My hon. Friend makes a very good point, but I suspect that seven years is a massive overestimate. Like our telephones, this technology changes every 18 months. Seven years is the achievement of an Einstein of this sector. That is point No. 1: our expert argument in the UK is that we are the only ones in step. That is not an argument that stands up very often.
+
+My second point, to which my right hon. Friend the Member for North Somerset (Dr Fox) referred earlier, is that this is a national security issue. The most recent debates on national security in this House in the past decade or so have been about terrorism, rather than potential massive conflicts between major powers. The House will remember that the IRA always used to say that we have to be lucky all the time, but they had to be lucky only once. That is a demonstration of the sort of analysis we must apply to security issues. Let us consider the Government’s argument. Let us imagine that the Government are right and we are wrong, but we do what we want to do. The worst case is that we spend a little more money and we introduce a technology, possibly better technology, maybe a year or two later. That is the worst-case outcome for our analysis. But if we are right and they are wrong, and we do what they say, the outcome will be to allow the undermining of our complete national infrastructure. This is not just a telecoms system; it is fundamental to the lifeblood of our entire national infrastructure. On a security analysis approach, it is just plum wrong.
+
+Finally—this is designed to help the Secretary of State—there is the argument about time. I confess that I probably take the hardest line in our group on timing. My view is simple: we should separate this into two pieces. One is what happens about new installations. In my view, since they are called high-risk vendors—the clue is in the name—there should be no more installations. I can see no loss in not installing another single piece of Huawei equipment. The argument that it cannot be done by anybody else has been proven by several speakers so far to be completely without foundation. My argument to the Secretary of State is that when he stands up, he must tell us whether his proposal involves continuing to put in place Huawei kit that we will then have to take out in our move to zero. On that basis, I am afraid it is very clear that the Back Benchers are right and the Government are wrong.
+
+The Secretary of State for Digital, Culture, Media and Sport (Oliver Dowden)
+Connectivity is the lifeblood of any modern digital economy. It is vital if we are to create the conditions where anyone can succeed and thrive, regardless of their background or their postcode. The Bill is crucial if we are to deliver that. It is one of a number of steps that the Government are taking to increase connectivity speeds, reduce costs and create the right environment to encourage investment. The Bill is a crucial plank in delivering the manifesto commitments, on which we on the Conservative Benches stood and were elected three months ago, to deliver broadband to the whole of the UK and to support the levelling up agenda. However, I have concerns that some of the amendments would undermine that work. They could mean the UK risks losing out on the economic benefits of nationwide access to faster broadband networks and that many families living in blocks of flats would not be able to benefit from new broadband services.
+
+It has been clear from the debate so far that there is one principal amendment at stake, amendment 1, in the name of my right hon. Friend the Member for Chingford and Woodford Green (Sir Iain Duncan Smith). Amendments 4 and 5, which I will deal with together, relate to high-risk vendors. The first point I would like to make is that I genuinely understand concerns, which many hon. Members have raised with me, that they have not had the time to consider these issues or to scrutinise them properly. The reason for that is that we will be bringing forward a Bill—as my right hon. Friend the Member for North Somerset (Dr Fox) said, my first task as Secretary of State is to convince the House on the approach to high-risk vendors—on telecoms security, which will enable the House to consider all these points. We will bring forward that legislation before the summer recess, so all hon. Members will be able to debate these points extensively. There will be opportunities for amendments to be made and an opportunity for the whole House to consider all these issues at great length. I will proceed to set out the steps that have led us to this point and the further steps that we are announcing today.
+
+Dr Fox
+Will the Minister give way?
+
+14:30:00
+
+Oliver Dowden
+If my right hon. Friend will allow me to set out those steps, I assure him that I will take as many interventions as he wishes me to.
+
+We looked at this issue over many months and in great technical detail through our telecoms supply chain review. This review was informed by technical and security analysis undertaken by GCHQ’s National Cyber Security Centre. It was the most detailed study of what is needed to protect 5G, anywhere in the world. The recommendations from the review will substantially improve the security and resilience of the UK’s telecoms networks, which are a critical part of our national infrastructure.
+
+The Government’s decision on high-risk vendors remains. As we have said, we are clear-eyed about the challenges posed by Huawei. That is why the National Security Council has decided that high-risk vendors should be excluded from sensitive and critical parts of networks and that there should be a strict 35% cap on the market share in the rest of the network—
+
+Oliver Dowden
+I assure hon. Gentlemen that I will give way if they allow me to proceed a little more, because I want to set out the context, which may address some of the points that they intend to raise.
+
+We will of course keep the 35% cap under review and, over time, our intention is to reduce our reliance on high-risk vendors as the process of market diversification takes place. We want to get to a position where we do not have to use high-risk vendors in our telecoms networks at all, but to do that, we have to work with our Five Eyes and other partners to develop new supply chain capacity in our critical national infrastructure. I can tell the House that we will do that in this Parliament.
+
+We are not in a position today to set out a specific date or timetable for reaching no high-risk vendors. That would require a new decision to be taken by the National Security Council, but we will continue to engage with hon. Members over the weeks ahead.
+
+Mr David Davis
+Will the Minister give way on that exact point?
+
+Oliver Dowden
+I will make a final point and then I will give way to Members. Hon. Members will have the opportunity to discuss controls on high-risk vendors when the Government bring forward legislation. I confirm that we will do that before the summer and that there will be an opportunity for colleagues to engage fully on how and when the commitments will be implemented. That will include the National Cyber Security Centre ensuring—exceptionally—that it will give evidence to parliamentary Committees, in addition to the Intelligence and Security Committee.
+
+Oliver Dowden
+It would be fair to give way to my right hon. Friend the Member for Chingford and Woodford Green first.
+
+Sir Iain Duncan Smith
+I am grateful to my right hon. Friend. Let me bring him back to the Government’s position. Is it correct, and does he agree, that the position of Her Majesty’s Government is now to move towards no involvement—I repeat: no involvement—of high-risk vendors in our system and that that, in the five-year period that he is talking about, will be the purpose of what they engage in?
+
+Oliver Dowden
+I think we are all in agreement—certainly on the Government side of the House, and I believe that many Opposition Members also agree—that in an ideal world, there will be no need for any high-risk vendors at all. However, what we have to do, as a first step to getting to that point and within this Parliament, is ensure that we have developed the supply chain capacity. The point has been made by many right hon. and hon. Members that there is a lack of capacity on the supply side at the moment. That is why we are making this very strong commitment—by the way, this relates to the point made by my right hon. Friend the Member for Haltemprice and Howden (Mr Davis)—which will involve considerable expenditure by the Government to ensure that we work with our Five Eyes and other partners to develop new supply chain capacity in our political and national infrastructure in this Parliament, so that we can then commence the process of ensuring that we move away from high-risk vendors.
+
+Mr David Davis
+Point No. 1: there is unavailable capacity—well, Ericsson says that that is not true. It said that at Davos earlier this year and Samsung says that it is not true, but if we want proof of that, the Australians, who denied Huawei, already have 5G operations in Sydney and Melbourne being put together and the fastest 5G operations in the world exist already in America. There is not the shortage that the Minister claims.
+
+Oliver Dowden
+I understand the point that my right hon. Friend is making, but I hope that he would accept that at the moment, aside from Huawei, there is Ericsson and Nokia, which we are currently reliant on, and we need to enhance that capacity. That is why the Government are committing today to ensuring that within this Parliament, we work with our Five Eyes and other partners to ensure that we develop the extra capacity.
+
+Dr Fox
+My right hon. Friend said that a change in the decision by the National Security Council would be required. In fact, it would require a change in the decision by the Government. The NSC does not govern the United Kingdom—Her Majesty’s Government do. However, I still cannot understand the idea of our having to remove high-risk vendors—we should not be incorporating risk to our national security into 5G at all. That capacity will emerge. The United States will not build a 5G network that incorporates that risk. What is the rush?
+
+Oliver Dowden
+My right hon. Friend raised two points. First, he referenced the role of the National Security Council. As he will be aware, that was created when he served as Defence Secretary under the former Prime Minister, David Cameron. It is a committee of the Cabinet. That is how decisions are made on behalf of the Government. The Cabinet delegates decisions to the National Security Council. That is the Government’s decision-making process and, of course, it is endorsed by the Cabinet. Forgive me, his second point was on—
+
+Dr Fox
+The incorporation of risk.
+
+Oliver Dowden
+The National Security Council looked at that. The National Cyber Security Centre advised on it, working with GCHQ. We took that analysis of the risk. That was then assessed by Ministers through the National Security Council, who weighed up that risk. The Government took the decision that we should have a cap of 35% for high-risk vendors—principally, Huawei—and we would then seek to diversify and reduce that. We are clear in that commitment: we want to diversify away from Huawei. What we are setting out today is the process for achieving that, and that is, first of all, about ensuring that we get the capacity there in the first place.
+
+John Redwood
+Why is there no sense of urgency about getting the alternative capacity in? This is not a unique technology to the Chinese company. These are potentially massive orders. Put it out to bidding and see what is out there.
+
+Oliver Dowden
+I thank my right hon. Friend for his intervention. There is a huge sense of urgency in this. That is why we are committed to working with our Five Eyes partners to make sure that, for the first time, we set out a timetable to say that within this Parliament, we will get the capacity, so that we can then ensure that we will start to move away from our reliance on high-risk vendors. It is already capped at 35%. We want to get to a position where we do not need to rely on them at all. This is the important first step and it is about assuring the House that we are on the path towards diversification.
+
+Mr Paterson
+I very much welcome the Bill coming up and the commitment to move. However, the commitment to having no high-risk vendors so that we do not have to use them at all is where we are today. No company has to use this equipment, but they are forced to by the imperative that they will be undercut if they do not. The Under-Secretary of State for Digital, Culture, Media and Sport, my hon. Friend the Member for Boston and Skegness (Matt Warman), who wound up the debate last week, said that
+
+“we will work to move towards no involvement of high-risk vendors.”—[Official Report, 4 March 2020; Vol. 672, c. 299WH.]
+
+Can we not just have a commitment that that is the destination to which we will move? That will send a massive signal out to our allies and customers and it will encourage the Five Eyes alliance to work together, all of which we know will take time, but there has to be a clear commitment to zero.
+
+Oliver Dowden
+We are clear in our commitment to diversification. That is the path by which we get to that point and those are the steps we are setting out today.
+
+Steve Brine (Winchester) (Con)
+I thank the Secretary of State for his commitment that as well as the ISC—I would love to know when it will be re-formed—scrutiny in this space will be given to Select Committees; I am a member of the Select Committee that scrutinises his work. But there is clearly an impasse here and a problem. My right hon. Friend the Member for Haltemprice and Howden (Mr Davis) says there are other suppliers in the market that can do this now. The Secretary of State is talking about diversification in the supply side of the industry. I do not understand—where is the difference between those two positions? Can it be done now without Huawei, or not? Which is the truthful position?
+
+Oliver Dowden
+Of course it can be done now without Huawei, but what we have set out is, first, the cap, at 35%, and then the process of diversification to get from that point—
+
+Mr William Wragg (Hazel Grove) (Con)
+Will my right hon. Friend allow me?
+
+Oliver Dowden
+I will allow one more intervention, but then I should make some progress.
+
+Mr Wragg
+Could my right hon. Friend kindly explain the rationale behind 35%? Why not a per cent. more or a per cent. less?
+
+Oliver Dowden
+The rationale, as decided by the National Security Council, on advice from the agencies, was that that was a sustainable point—a cap from which we could start to work down. As my hon. Friend well knows, of course, there is a degree of arbitrariness in any number, but on balance it was decided that 35% was the appropriate place for us to land.
+
+Sir Iain Duncan Smith
+Will my right hon. Friend give way?
+
+Oliver Dowden
+I will give way one more time, but then I must proceed.
+
+Sir Iain Duncan Smith
+I am trying to help my right hon. Friend, believe it or not. I understood from the discussions that our position was clear. I accept that the engagement of the Five Eyes is a new position. I congratulate them on that. But critical to that is that the point of our engagement will start with, as the Under-Secretary of State for Digital, Culture, Media and Sport, my hon. Friend the Member for Boston and Skegness (Matt Warman), said, moving towards no involvement of high-risk vendors. If we start by having diversification, we have no position for our Five Eyes partners. But if our purpose is to get this right for no involvement, I want the Secretary of State to say that now. If I do not get that—others can do as they like here—it will be my purpose to press the amendment to a vote.
+
+Oliver Dowden
+When the telecoms security Bill comes forward, we will have the opportunity to have exactly this kind of debate. This is an amendment to a Bill that is about ensuring that we get broadband into blocks of flats. I completely appreciate why my right hon. Friend and others have chosen to table the amendment. The concerns of hon. and right hon. Members have been clearly heard and understand. This can be dealt with in the telecoms security Bill, but ahead of that, in recognition of those concerns, we have already set out a pathway. First, we have made clear our intention to reduce our reliance on high-risk vendors as that diversification takes place. That gives further clarity to the House about the diversification process set out in the announcement from the National Security Council. Further, we have said we want to get to the position where we do not have to use them at all, which gives a sense of the clear endpoint and trajectory. But we are saying that in order to get from point A to point B we need to develop capacity, which is why we have said we will work with Five Eyes and other partners to develop this new supply chain capacity in our critical national infrastructure. Beyond all that, I recognise that this gives rise to tremendous questions about the basis on which the National Cyber Security Centre reached its decision. That is why for the first time we are saying that Committees other than the ISC will have a chance to scrutinise and hold it to account for that decision.
+
+Oliver Dowden
+I really feel that at this point I need to make a little more progress and deal with some of the other amendments, because I can see that you are concerned, Madam Deputy Speaker. I will happily take further interventions later on, though I feel I have dealt with a wide scope of them.
+
+Chi Onwurah
+rose—
+
+Oliver Dowden
+Yes, I will give way, as it is the Opposition Front-Bench spokesperson.
+
+Chi Onwurah
+This is clearly a question of great importance, yet unfortunately I hear nothing new. The Secretary of State seems to be committing to diversification, but what is the new commitment? Is it diversification of the supply chain, which was in the review, or is it diversification of the supply chain leading to the elimination of high-risk vendors, and if so by what date?
+
+14:45:00
+
+Oliver Dowden
+We have made at least three new commitments today. First, we will bring back the telecoms security Bill by the summer, which will enable the House—[Interruption.] The hon. Lady repeatedly challenged me over when the Bill would be brought back. We have said when we will bring it back for the House to debate. In the announcement from the National Security Council —from the Government—we said we wanted to diversify away from the 35% cap over time. For the first time, we are now setting out the process by which we will work with our Five Eyes and other partners to develop the new supply chain capacity to enable us to do that, and we have set a timetable for doing it within this Parliament. Finally, we have also said for the first time that we will allow much greater scrutiny by allowing the National Cyber Security Centre to—
+
+Bob Seely
+Will my right hon. Friend give way?
+
+Oliver Dowden
+I will.
+
+Bob Seely
+I understand that the Secretary of State and his Front-Bench team are trying to make sense of a bad situation, but he is not saying what point B is. He says we will “diversify away”. Are we doing that because it will give us a bit more leverage with China, or are we diversifying to the point of 0% high-risk vendors, and if so by what date?
+
+Oliver Dowden
+The Government—I think we all share this objective—would like to get to the point where we do not need any high-risk vendors at all, and we are setting out that process. That said, I want to be candid with hon. Members: I am not today repeating the words of the Under-Secretary of State for Digital, Culture, Media and Sport, my hon. Friend the hon. Member for Boston and Skegness (Matt Warman), lest they be misunderstood. We are not today setting out a timetable or date to get to a point where we do not have to rely upon them at all. When we introduce the telecoms security Bill before the summer, hon. Members will have the opportunity to debate this further.
+
+I will make a little more progress and turn my attention to amendment 2. The issue of who is able to request a service from an operator is something that we were conscious of when we were drafting the Bill. As drafted, the Bill, particularly the term “lessee in occupation”, refers to a person who occupies a property under the terms of a lease. For the avoidance of any doubt, this could include assured shorthold tenancy or assured tenancy agreements. It is these types of tenancy agreements that I believe the shadow Minister is seeking to ensure are captured by the Bill, so we will not be supporting that amendment. My concern is that to expand the definition of persons who can make the service request would be disproportionate and potentially undermine a key policy aim of the Bill, which is for operators and landowners to reach agreements between themselves.
+
+The Bill also reflects the fact that the evidence we have received does not suggest that the policy needs to be expanded. I am sure Members will agree that this is a sensible approach that maintains a healthy balance between all parties involved. I hope this clarifies who is likely to be a lessee in occupation and that this satisfies the shadow Minister.
+
+I turn now to my concerns about amendment 3. The Bill aims to support leaseholders to gain access to broadband services from the providers they want. As drafted, the Bill already ensures leaseholders are not locked into services provided by a single provider. Nothing in the Bill prevents a lessee in occupation with an existing gigabit-capable connection from requesting a new service from another alternative provider. That alternative provider will need to give notices to the landowner in line with the electronic communications code. Should that landowner repeatedly fail to respond, that provider could apply for a part 4A order of its own in order to deliver that service. The Government cannot and should not compel independent, commercial companies to alter the way they choose to deliver their services unless there is evidence that a problem exists. Furthermore, far from improving competition and access to services, the amendment might have the unintended consequence of doing the complete opposite. Much of the cost of connecting premises is in the initial installation.
+
+Finally, let me deal with amendment 6. The new connections provided by operators as a result of the Bill will allow greater efficiency and connectivity for consumers and give them an opportunity to benefit fully from certain services including “smart” or internet-connected products, which are often described as the internet of things. The amendment proposes that any operator exercising a part 4A code right must supply provide written information to new customers in the target premises. That would cover best practice on cyber-security in the use of the network connections that have been provided.
+
+I appreciate the sentiment behind amendment 6, and the Government are committed to ensuring that the UK is one of the safest places to be online, but the amendment would impose an additional and disproportionate burden on operators, who may not be best placed to provide consumers with up-to-date information.
+
+The Government have ambitious plans for the roll-out of greater connectivity throughout the United Kingdom, and I can assure the House that in doing so we will never compromise the safety and security of our telecoms networks. Trust in these networks is vital if we are to encourage the take-up of new technologies that will transform our lives for the better.
+
+I have talked at great length to my right hon. Friend the Member for Chingford and Woodford Green and others about our proposals and their amendments. I understand their genuine concerns about the decision taken by the National Security Council and the Government, which was presented to the House about a month ago. I hope that I have given them some comfort, although I accept that it is not all that they have been seeking. I hope I have at least reassured them that the Government appreciate their concerns, and that we are embarking on a path towards the ideal point that we all want to reach where we will have no high-risk vendors. I also hope that they in turn will appreciate that this is not the end of the process but an opportunity for their concerns to be expressed in the amendment, and that the substantial debate will come when we introduce the telecoms security Bill.
+
+Ahead of that, for several weeks—indeed, a few months—there will be the opportunity for intensive engagement in all these issues, including full access to, and scrutiny of, the National Cyber Security Centre and its representatives. I hope that that will enable the House to make progress, but when the Bill is introduced there will of course be huge opportunities for all Members to table appropriate amendments, and the Government will address each one of them.
+
+Steve Brine
+Will my right hon. Friend give way?
+
+Oliver Dowden
+I will take one last intervention, but then I really must stop.
+
+Steve Brine
+This has been a good discussion, although heated. I do not think that this is the right Bill for the amendment, so I will not be supporting it. My right hon. Friend has mentioned the telecoms security Bill. Will it come before the relevant Select Committee and the aforementioned Intelligence and Security Committee for pre-legislative scrutiny, or will it be introduced in the House first?
+
+Oliver Dowden
+The convention is that representatives of the NCSC appear only before the ISC, but when I spoke to the NCSC’s director this morning, I suggested—and he agreed—that he should appear before any appropriate Committee, such as, perhaps, the Defence or the Foreign Affairs Committee. We will seek maximum engagement before that, so that the Committee can have all the relevant information.
+
+I have made my points about the Government’s position, and about the opportunity to debate these issues again. I do not know whether I have convinced my right hon. Friend the Member for Chingford and Woodford Green, but I hope that he will consider withdrawing his amendment and allowing the House to discuss his proposal in due course when the telecoms security Bill is introduced, before the summer recess.
+
+John Nicolson
+I support amendment 1. I think that the Secretary of State took eight or nine interventions, and I was interested in his language. As a journalist, I know that when politicians talk about “moving towards”, it means that there is no end in sight, and that “like to” means “perhaps, but I am not going to give any commitment of any kind”. We could sense the feeling of disappointment on the Conservative Benches.
+
+The Secretary of State said that he would never compromise safety and security, and then went on to detail all the ways in which he was compromising the nation’s safety and security. Huawei is not a normal company. Huawei is an arm of the Chinese state, which is exactly why our fellow members of Five Eyes are so frustrated by the Government’s behaviour. We are also being told repeatedly that only a certain percentage of the nation’s infrastructure will be surrendered, but, as I said in my intervention on my hon. Friend the Member for Inverclyde (Ronnie Cowan), that suggests a misunderstanding of the whole nature of 5G.
+
+I apologise for my hoarseness, Madam Deputy Speaker. Please excuse me while I drink the water with which I have been provided. I always think it is terribly unfair that Labour Front Benchers are given glasses while we are forced to rely on plastic—that is yet another example of anti-Scottish discrimination in this place—but I thank the hon. Member for Newcastle upon Tyne Central (Chi Onwurah).
+
+The distinction in 5G between core and edge collapses. There is no distinction: that is the point. It is meaningless twaddle to keep talking as if 5G were no different from current technology. I recognise, of course, that the Government are between a rock and a hard place, facing a decision between spiralling costs and high security, but here in the UK we have spent, and continue to spend, billions of pounds on the development, maintenance and renewal of 20th-century defence systems that simply are not fit to face the security challenges of the modern era. Those who pose the biggest threats that we now face— terrorism, climate change and, of course, cyber-attacks—will not be deterred by multi-billion-pound nuclear missiles in the Firth of Forth.
+
+Matt Rodda (Reading East) (Lab)
+I have listened attentively to the views that have been expressed during this important debate. Does the hon. Gentleman agree that it is important for us to get the legislation right, and to think very carefully about this issue? Should we not also consider the importance of generating a supply chain within the UK, given that we have many excellent employers in both British-domiciled and overseas companies, which are adding a great deal to the country’s economy and which could be developed further?
+
+John Nicolson
+I certainly do agree with the hon. Gentleman: I think that he is absolutely right. One of the peculiarities of the Government’s position, from our perspective, is that they are prepared to invest billions in fighting 20th-century battles—renewing Trident, for instance—while opening their arms to 21st-century threats to cyber-security. As the hon. Gentleman suggests, countering those threats would require serious investment in and protection of native companies, which would involve a long, hard look at China’s enthusiasm for the acquisition of small engineering companies that have valuable intellectual property in this country.
+
+I support the amendment tabled by the right hon. Member for Chingford and Woodford Green (Sir Iain Duncan Smith), and I will vote for it if there is a Division. I think that I should now cut my time short, as I am beginning to sound like a 1930s jazz singer. I know that the hon. Member for Newcastle upon Tyne Central is very keen on those.
+
+John Redwood
+I support my right hon. Friend the Member for Chingford and Woodford Green (Sir Iain Duncan Smith) and my other right hon. and hon. Friends, who have made a strong and cogent case based on national security. As they have argued, there are some absolutes in national security. There are occasions when a risk is such that whatever the commercial or other considerations might be, it is important for that to be put first.
+
+However, I wish to add to their argument. I do not think the commercial and economic situation in the medium term is any different from the national security situation. Indeed, I argue in defence matters and these wider matters that our country cannot say it is secure if it does not have control of the crucial technologies it may need to defend itself and protect itself. Nor can we say that our country is secure—an island trading nation—if we are dependent on countries and suppliers in other parts of the world who may in some future disagreement or, heaven forfend, some conflict no longer be willing to supply us.
+
+15:00:00
+
+It is most important that we have control of that technology with our allies, and that we have the ability to make and to scale up manufacture, should the need arise, if the diplomatic situation around the world worsens. This is just such a situation. These are crucial technologies. These are technologies that people based in the United Kingdom who accept our system and have allegiance to our democracy are quite capable of developing and producing. They are already being produced by people in similar countries with similar purposes and systems who believe in democracy and the international WTO-policed world trading system and who are willing to trade with us in the meantime. I urge the Government—keen as they rightly are on a levelling-up agenda to spread prosperity more widely around the country and keen as they rightly are to get the most out of our new status as an independent country—to understand that our wider national security rests not just on the specific issues of intelligence and the flow of data but on our capability as a nation to control and exploit crucial technologies and our ability, with our strong and confirmed allies, to have that productive capability, come what may.
+
+Jamie Stone (Caithness, Sutherland and Easter Ross) (LD)
+The right hon. Gentleman rightly refers to our national security being dependent on our allies. Some of our best allies are old friends such as Australia and New Zealand. Surely it is deplorable that any move we make could damage that relationship.
+
+John Redwood
+I agree. I have supported my right hon. and hon. Friends and I have not wished to bore the House by repeating all their excellent arguments, but of course the fact that the United States of America, Canada, New Zealand and Australia are all of one view does matter. I happen to think they are right, but even if they are wrong, sometimes we have to go along with wrong thoughts by our allies and friends—I know that only too well, trying to live in the Conservative party—in order to make things work. There has to be give and take, and I am sure that any other political party with an honest MP would agree that it has exactly the same issues. Before Labour Members get too conceited, I have to say that I have noticed even more extreme issues in the Labour party. It is important that there is give and take.
+
+I happen to think our allies are right, but I want to stress the wider point that in this vision of a more prosperous Britain, we are going to have more skilled people. That must mean we have a bigger role to play in the technologies of today and tomorrow, and those are surely the crucially important digital and data communications technologies. I repeat my challenge to the Minister. We have heard from people who know about these things that this technology already exists among our allies and in safe countries today, so we have an opportunity to buy from them.
+
+The Government and the commercial sector in the United Kingdom are about to commit enormous resource into putting 5G into our country. This is going to be a massive investment programme, and in this situation, money talks. I have no idea who will win the competitions. I do not have preferred vendors that I want to win the competitions, but I do know that I do not want high-risk vendors winning them. Surely this new Government, wanting to level up and wanting to strengthen technology and training, can use this commercial money and state money to better effect. Let us bring forth those providers now and get rid of those high-risk providers as soon as possible.
+
+Bob Seely (Isle of Wight) (Con)
+I think we all share some concerns that the Government seemed to be more amenable to moving their position last week than they are this week. At the end of the debate last week, the Under-Secretary of State for Digital, Culture, Media and Sport, my hon. Friend the Member for Boston and Skegness (Matt Warman), who kindly responded to us, said that
+
+“we will work to move towards no involvement of high-risk vendors”—[Official Report, 4 March 2020; Vol. 672, c. 299WH.]
+
+in our system. I am unsure whether the Secretary of State has said the same thing today, and we would all be grateful if he clarified whether that statement made by the Minister is still a live statement or whether he is effectively rowing back from what the Minister said.
+
+I speak in favour of the amendment tabled by my right hon. Friend the Member for Chingford and Woodford Green (Sir Iain Duncan Smith) because I believe that high-risk vendors should not be in our critical national infrastructure. This is for reasons of national security, which have been eloquently put, as well as for a whole host of other reasons, including human rights, data privacy, the rule of law and economic competition—a critical one just mentioned by my right hon. Friend the Member for Wokingham (John Redwood).
+
+One of the most concerning elements of this entire sorry saga has been the litany of questionable claims. One of the problems of being a new Member—I speak in part to the good people behind me—is that we want to trust Ministers and although I hold these Ministers in high regard, I believe they have unfortunately been handed a poisoned chalice. There has been a great deal of misinformation in the past—none of which they are responsible for—but it is worth putting this on record with as many sources as possible, so that we can be absolutely clear what the argument is about.
+
+My right hon. Friend the Member for Chingford and Woodford Green talked about Huawei being a private firm, because that is one of the claims that it has made. Sir Andrew Cahn described Huawei as being
+
+“the John Lewis of China”,
+
+and, frankly, I treat that description with the derision it deserves. The academic Chris Balding has made a study of the ownership structure of Huawei, and he has stated:
+
+“Technically, the firm known as Huawei is Huawei Technologies. Huawei Technologies is 99% owned by Huawei Investment Holdings.”
+
+He went on to say that Huawei Investment Holdings was a vehicle of the Chinese trade unions. Chinese trade unions are a public or mass organisation. Public organisations do not have shareholders. An example of a public organisation in China is the Communist Youth League. So, despite the laughable claims in this country and elsewhere that Huawei is a private company—and it is trying to sue people in France who are claiming the same thing, let it be known—Huawei has the same relationship to the Chinese state as the Communist Youth League.
+
+Can Huawei be safely limited to the periphery of 5G networks? The core versus periphery argument has been well laid out by Opposition Members. The Australian Signals Directorate says that
+
+“the distinction between core and edge collapses in 5G networks. That means that a potential threat anywhere in the network will be a threat to the whole network.”
+
+I have been talking to Dr Ian Levy and other good, knowledgeable people from the NCSC. They dispute some of this, and they try to provide technical analysis, while that is not correct. I note what the US Secretary of State, Mike Pompeo says, on the advice of the National Security Agency. He says:
+
+“Because 5G networks are largely software-defined, updates pushed to the network by the manufacturer can radically change how they operate.”
+
+So if a network is run by an untrusted vendor, that vendor can change what the network can do quite easily using software updates.
+
+Nickie Aiken (Cities of London and Westminster) (Con)
+I absolutely understand my hon. Friend’s concerns. My concern, though, is that we have made promises to this nation in the last general election about the need to improve our gigabit broadband, so how are we going to do that?
+
+Bob Seely
+The simple answer is that 5G and broadband are entirely different subjects, but I thank my hon. Friend for her question.
+
+We have asked questions about state or industrial espionage issues with Huawei. We have been offered a no-spy agreement by Huawei and China. They promised not to spy on us. The idea that we would ever ask Ericsson for a no-spy agreement is nonsense. What would Ericsson ever want to know? How much IKEA furniture we were buying? So the idea of having to ask for a no-spy agreement is in itself rather dubious.
+
+China has a dreadful reputation for IP theft and cyber-attacks. Just last month, members of the Chinese Liberation Army were indicted in the United States for the Equifax consumer credit hack, in which the personal details of 12.3 million Britons were stolen in addition to those of tens of millions of Americans. In 2015, cyber-attackers from China stole the sensitive personal data of 21.5 million US federal employees. Perhaps they are doing that because they want to buy everyone a birthday present, but somehow I doubt it.
+
+There have been specific scandals in relation to Huawei. The African Union reported that every night between 2012 and 2017, computer systems installed by Huawei sent information from the African Union headquarters to China. As Secretary of State Pompeo says:
+
+“As a matter of Chinese law, the Chinese government can…demand access to data flowing through Huawei…systems.”
+
+Nobody has ever denied that that includes Huawei systems in western states and the United Kingdom. Is there a security risk? Is there an industrial espionage risk? The answer, without doubt, is yes.
+
+The Government repeatedly reassure us that the spooks say it is okay. I respectfully take issue with that, for the following reasons. The proof of the pudding is in the detail, and what politicians say about what they have been told is sometimes not the case.
+
+Andrew Bridgen
+My hon. Friend has obviously done a great deal of research on this subject. Does the fact that Huawei is offering very generous interest-free credit terms for its equipment set alarm bells ringing? In some cases, it is offering up to 30 years’ interest-free credit for its kit.
+
+Bob Seely
+My hon. Friend makes a very good point. Huawei seems to have two business models. It either undercuts by 30% to 40%, or it simply supplies 115% of the credit needed to buy an entire system. Either way, it undercuts and drives others out of business. I look forward to addressing that point in a moment.
+
+The true voice of GCHQ, without the spin, is found in the Huawei oversight reports, which have become increasingly disturbing. I repeat: we hear the true voice of GCHQ not in the words of Ministers, but in those of the Huawei oversight board. For any colleagues who wish to access the details, if they join our WhatsApp group, which has well over 40 members, I will happily pass them on.
+
+The board found that it could
+
+“only provide limited assurance that all risks to UK national security from Huawei’s involvement in the UK’s critical networks can be sufficiently mitigated”
+
+over time. In other words, the board is saying, “We can no longer give assurance.” This is the board speaking—it is not political spin. It added that, “as reported in 2018”, its work
+
+“has continued to identify concerning issues in Huawei’s approach to software development…No material progress has been made on the issues raised in the previous 2018 report”.
+
+It also stated:
+
+“The Oversight Board advises that it will be difficult to appropriately risk-manage future products in the context of UK deployments, until the underlying defects in Huawei’s software engineering and”—
+
+critically—
+
+“cyber security processes are remediated.
+
+At present, the Oversight Board has not yet seen anything to give it confidence in Huawei’s capacity to successfully complete the elements of its transformation programme”.
+
+If I received that as a bill of health, I would be extremely worried. That is the true voice of GCHQ.
+
+Damian Collins (Folkestone and Hythe) (Con)
+My hon. Friend makes a very important point. A lot of this is about trust: who do we trust? Given that the oversight board has identified cyber-security risks in Huawei’s system and that it has no credible plan to put them right, why should we trust such an organisation and give it yet more work?
+
+Bob Seely
+My hon. Friend makes an excellent point. If Huawei was bending over backwards to fix its system, all credit to it—but it is not doing that. It is building a flawed system. After eight years, I have been informed that we still do not know whether the source codes that Huawei gives us are the same as those in the system it is establishing. That should cause concern.
+
+Are the security services content? In the report we wrote last summer, Sir Richard Dearlove said that it was “deeply worrying” and
+
+“a risk…we simply do not need to take”.
+
+There are three additional factors that I am concerned about. First, Cheltenham was given a very narrow remit. It was not asked to give Huawei a clean bill of health or, “What do you think in a perfect world?” Cheltenham was given a specific, narrow, technical question. It did not go near the politics of fair and free trade and espionage. Secondly, and probably most worrying—
+
+15:15:00
+
+Siobhan Baillie (Stroud) (Con)
+If broadband and 5G are separate, why is this amendment being pushed today? This debate is about broadband and we stood on commitments made by the Prime Minister during the election.
+
+Bob Seely
+That is a very good question and I thank my hon. Friend for asking it. The simple answer is that I have been asking for a Government debate since last summer, but unfortunately they have not seen it fit to have a debate in Government time on one of the most critical issues that we will face in coming decades. My hon. Friend will have to ask the Government why they do not want a debate in Government time on one of the most important issues of the day.
+
+Tim Loughton (East Worthing and Shoreham) (Con)
+My hon. Friend is making a very good case. Does not this come down to two main points? First, do we trust the assurances given by a company that clearly will do what the Chinese Government tell it to do, or do we pay heed to the warnings of four of our major allies, which have taken the decision not to go down this route? Secondly, in such an important infrastructure project, where else would we accept a cut-price offer from a company in a nation that has littered the coasts of east Africa with infrastructure projects that have failed? We do not even know whether this will work properly, and the cost of picking up the bill—of picking up the pieces—when it goes wrong could be huge.
+
+Bob Seely
+I thank my hon. Friend for his considerable eloquence. He sums up the issue very well.
+
+On my second, and most revealing, security concern, when we ask members of GCHQ or the NSCS how long the guarantee is for—will it last 20, 30 or 40 years? —the answer is seven years. The oversight report has already stated that Huawei cannot provide a guarantee, but, technically speaking, the assurance accompanying the Huawei kit lasts the same amount of time as a car warranty. This technology will define the next 20, 30, 40 and 50 years, and GCHQ says, “We think we’ve got it covered for about seven.”
+
+Thirdly, as I have said, the true voice of GCHQ is in the oversight reports. I am sorry to spend time on that point, but it is important because so many colleagues will be influenced by those saying, “Oh, GCHQ says it’s okay.” If they read between the lines and read the oversight report, they will see that this is not okay.
+
+Craig Mackinlay (South Thanet) (Con)
+My hon. Friend makes the point about the seven-year cycle. If this goes ahead, are we committing ourselves to Huawei being the dominant force in this industry? We have had 3G and 4G, we are now on to 5G, and there will doubtless be 6G and 7G in time to come, but there will be no western ability to advance this software in the future because Huawei, through cut-price credit deals, will have crowded out the competition in perpetuity. That has to be dangerous.
+
+Bob Seely
+My hon. Friend makes an extremely good point, which I will come to. Does Huawei enable a multiplayer market? No, it does not. It probably destroys a multiplayer market, for the reasons given.
+
+Huawei is becoming the vehicle by which China, through peaceful means, seeks to have considerable leverage in the critical national infrastructure of not only the United Kingdom but any other western nations that are foolish and unwise enough to agree to let in a “high-risk vendor”, to use the Government’s own definition. In the next 10 to 20 years, the remaining western players will be put out of business, and, as my hon. Friend says, our 6G and 7G will be dependent on a country that we do not know we can trust and whose economic players are, by our own Government’s definition, “high-risk vendors”.
+
+Huawei’s credit line is to the tune of $100 billion—that sounds a bit like Austin Powers. It can simply undercut anything that anybody else offers, to aggressively stay in the market. That, combined with its intense lobbying operation in this country, including John Suffolk, Andrew Cahn and others, puts it at an advantage to drive other people out of business.
+
+Are there alternatives? Yes. Orange in France is building a 5G network with Ericsson and Nokia. In this country, O2 does not yet use Huawei. If the Secretary of State would be interested in saying anything on the emergency services network, we would be very interested in hearing that, because we do not think that the emergency services network should have a high-risk vendor in it. The US, Vietnam, South Korea, Japan and Australia are planning or building 5G networks.
+
+Why has all this happened? This sorry state was reported in Sir Malcolm Rifkind’s Intelligence and Security Committee report in 2013. He found a miserable set of circumstances in which Government officials or civil servants had allowed Huawei into the system without telling Ministers. When Ministers found out that Huawei was in the system, they did not do anything about it. That, combined with an extensive lobbying operation and cut-price deals, has driven Huawei into its position in the market now.
+
+What should we do? Well, let us have a debate—I hope that this is the beginning of one—as Australia and other countries have. I believe that, working with our Five Eyes and other partners—NATO and the European Union—we should lead. There is an opportunity now for the Secretary of State and Ministers to lead on this debate and to agree a common formula for a trusted vendor status, so we know that the people in our system are competent and safe. My right hon. and hon. Friends have made various points about the wider issue of the cleanliness of that—primary contractors are one thing, but if they are buying kit from China, the question is whether that is compromised, and it may well be. We need to find a way to organise the security of our audit process for 5G. We also have to agree a trusted vendor status when it comes to the Bill that will be put before us in June, and I look forward very much to the Government doing so.
+
+Mr Paterson
+I shall be brief. I begin by thanking the Secretary of State and the Under-Secretary for their great courtesy and the huge attention they have given to several of us to try to find a resolution, because unfortunately some of us find the Government’s position incomprehensible. They had a good narrative: they could have said, “We have inherited a very bad position from preceding Conservative and Labour Governments. We would like to reduce the current position, where we have a high-risk vendor implanted in our 4G and other networks, to zero over a period of time.” That would be a perfectly logical plan, and we are tantalisingly close to the Government saying that. They have acknowledged that Huawei is high risk. Having a limit of 35% is a bit of a nonsense: it is like saying prisoners are allowed to build 35% of a prison wall. If 35% is a risk, and we cannot go above 35%, the obvious, ineluctable conclusion is that we should go to zero over a period of time.
+
+We know that the talk of lack of alternatives is a nonsense—we have been through this. We know Samsung is supplying Korea; we know France has gone for others; the United States has gone for Ericsson; and Australia, with a huge dependence on Chinese exports, has gone for other vendors. We know there are other vendors, so that is all a nonsense.
+
+We know there is a real risk. It is worth looking at the National Cyber Security Centre report. My right hon. Friend the Member for Chingford and Woodford Green (Sir Iain Duncan Smith) quoted two lines from paragraph 5.5.2. I just want to quote one sentence:
+
+“Any national dependence on a high risk vendor would present a significant national security risk.”
+
+Having had the honour of serving on the National Security Council as Secretary of State for Northern Ireland, I know that we must take that as the absolute first priority. I take the House back to the words of the Under-Secretary last week. He made it very clear:
+
+“I conclude by saying simply that national security will always be at the top of our priorities and we will work to move towards no involvement of high-risk vendors.”—[Official Report, 4 March 2020; Vol. 672, c. 299WH.]
+
+That was the Government’s position last week, and I am happy to support that position. What we need to have today is confirmation of how we get there.
+
+The Secretary of State has moved a long way since the National Security Council. We will have a telecoms Bill in early summer. We will have a process with our Five Eyes partners, as proposed by the senators’ letter, which we all received last week. That is all thoroughly good stuff. All we need now is a commitment to say there will be an end date. We have to have from this debate a statement from the Government that there will be a point, in the reasonably near future, where there will be zero involvement of high-risk vendors. The briefing we had sent round to us this afternoon said that
+
+“our intention is to further reduce the market share of high risk vendors so that we get to a position where we do not have to use a high risk vendor in our telecoms network.”
+
+The Secretary of State said that we wanted to be in a position where we do not have to use them at all, but that is where we are this afternoon. Nobody has to use this equipment: they are just driven to do so by commercial pressures, and it is only by doing what the United States, Australia, Japan and South Korea have done, which is to block and stop high-risk vendors, that we will allow other vendors to grow, to prosper and to supply.
+
+I am delighted to see the Under-Secretary back in his seat and talking to the Secretary of State. They have time still to intervene on me and give a clear commitment that when the telecoms Bill comes through in the summer, it will contain a definitive commitment to a firm date by which all high-risk vendors will have been removed from our system.
+
+Chi Onwurah
+I am afraid that the Secretary of State’s so-called assurances have sown more confusion, rather than rectifying the situation. He says the Bill should include tenants, but he also said in the same speech that it would be disproportionate to extend the Bill to do so. I will therefore press amendment 2.
+
+Question put, That the amendment be made.
+
+Division 39
+10/03/2020 15:26:00
+The House divided:
+Ayes: 242
+Noes: 343
+Question accordingly negatived.
+
+Amendment proposed: 1, in clause 1, page 2, line 16, at end insert—
+
+“(f) the operator does not, after 31 December 2022, use vendors defined by the National Cyber Security Centre as high-risk vendors.”—(Sir Iain Duncan Smith.)
+
+Question put, That the amendment be made.
+
+Division 40
+10/03/2020 15:40:00
+The House divided:
+Ayes: 282
+Noes: 306
+Question accordingly negatived.
+
+Third Reading
+
+15:55:00
+
+The Parliamentary Under-Secretary of State for Digital, Culture, Media and Sport (Matt Warman)
+I beg to move, That the Bill be now read the Third time.
+
+Today we have had an important debate on an important Bill. The Government have heard loud and clear the points made in all parts of the House. As we move towards the telecoms security Bill, we will engage intensively with colleagues across the House to make sure that we make our case at every possible level, and we will underline the fact that we will always put national security at the very top of our agenda.
+
+Although this is a short and technical Bill, it is an important one. Fast, reliable, resilient broadband connections are the lifeblood of our economy and our society, and ensuring that every home and business can access these connections is a priority for this Government. It is vital if we are to create the conditions where anyone can succeed and thrive, regardless of their background or their postcode, as my right hon. Friend the Secretary of State said. The Bill sends a clear message that this must be a priority for landowners because fast reliable broadband is good for their residents. Connectivity can create thriving technology scenes in rural areas. It can enable closer relationships for the socially isolated. It can open people up to a world of inspiration and education.
+
+This Bill demonstrates that this Government are serious about doing what it is necessary to do to ensure that everyone, wherever they live, is part of a levelled-up United Kingdom. It shows that the Government will create an environment that promotes investment and encourages deployment, and will not shy away from making the changes necessary to ensure that every household can access the connectivity they need from the provider they want.
+
+This is a vital Bill that is critical to the success of our digital economy in the decades ahead. I thank Members from across the House for the scrutiny that they have provided today and for raising all the points that they have raised. The Government will, as I say, continue to engage intensively with those concerns. We will bring forward the telecoms security Bill before the summer recess. In advance of that, we will provide all the information that we possibly can. I commend the Bill to the House.
+
+15:58:00
+
+Chi Onwurah
+We have had a very interesting and at times lively debate. On Third Reading, I would say that this Bill gives us baby steps towards rolling out the infrastructure that so many millions across this country are in desperate need of—full-fibre broadband infrastructure. This is no time for the Government to be patting themselves on the back. This is a mediocre Bill that, in addition, risks being derailed by the Government’s failure to take a longer-term view on our national networks, full-fibre, 5G and more. In terms of the Secretary of State’s responses, we will take forward the reassurances on tenants and hold the Government to account. Tenants should be able to access the provisions of this legislation. I fear that the Government do not understand the basis or need for competitive infrastructure, because the Bill does not support competitive access to multiple-dwelling units. We will hold the Government to account on that. We will also hold them to account on the assurances given on information and better dissemination of digital skills and digital guidance.
+
+The big Huawei hole in which the Government find themselves has not been reconciled by today’s debate. The Secretary of State promised several things, including a new telecoms security Bill, but he could not give us any of the details. He promised a diversification strategy but, to be clear, that was the basis of the telecoms supply chain review report in July 2019, and we would hope that there would be some detail on what that strategy is. The Budget is tomorrow. Will we see funding for significant investment in the diversification of the supply chain that the Secretary of State promised?
+
+Will we get greater clarity on what the diversification strategy is leading to? Is it leading to non-dependence on high-risk vendors within this Parliament or at some unspecified date in the future? We have heard little on the industrial strategy that will make diversification possible. Are we talking about UK capacity to deliver 5G and 6G in future networks, or are we talking about greater support for Japanese and Korean companies to enter our supply chain? Will the timetable for this diversification strategy be on the face of the telecoms security Bill?
+
+Those questions all remain to be answered. It is an indictment of this Government’s support for our national security—and the clarity of that support for our national security—that at this stage so many Conservative Members feel it necessary to vote against their own Government, in order to press home the needs of our national security and, specifically, our technological capability in the key areas of 5G, 6G and future telecommunications. We are told that, in network design, it is always important to design in the possibility of breach, but the Government seem to be designing in breach of our entire network system.
+
+Matt Warman
+indicated dissent.
+
+Chi Onwurah
+The Minister shakes his head. In that case, I hope he will be able to say how we will ensure that we are not dependent on high-risk vendors before the end of this Parliament. Until we see a detailed plan, an industrial strategy and funding for all the different components of that, the Opposition will remain concerned that the Government are not prepared to make the interventions necessary to ensure that our national security is safeguarded.
+
+16:03:00
+
+Ronnie Cowan
+As this Bill crawls forward, what could have been a UK-wide success risks becoming a fragmented and divisive Bill. An opportunity for the UK Government to engage with the devolved powers and build something to a gold standard—something that could have been seen across the world as a path forward—has been ignored. This Government have clearly learned nothing from their Brexit failures.
+
+The SNP Scottish Government recognise that the geography of Scotland—with, for example, 94 permanently inhabited islands—and the spread of our population require specific solutions to provide world-class digital infrastructure. Despite telecommunications being a reserved matter, the SNP Scottish Government continue to set higher targets and provide additional funding. Currently, the SNP Scottish Government have committed £600 million to rolling out superfast broadband. They continue to strive for 100% access to superfast broadband, which they define as 30 megabits per second—the EU standard —as opposed to the UK’s definition of 24 megabits per second.
+
+As we try to move forward with this Bill, I would ask that we look at the unique geography and the other obstacles that are hindering the roll-out. These should be considered by the UK Government when allocating their funds to specific regions and nations of the United Kingdom.
+
+Madam Deputy Speaker (Dame Eleanor Laing)
+I pause in case there are any further contributions. No? What an incredibly efficiently short debate.
+
+Question put and agreed to.
+
+Bill accordingly read the Third time and passed.
+
+John Lamont (Berwickshire, Roxburgh and Selkirk) (Con)
+On a point of order, Madam Deputy Speaker. A statement was made by the SNP spokesman about Scottish Government investment. I thought it was important to correct the record. Much of that funding comes from the UK Government and the Scottish Government very rarely meet their targets, despite the fact they like to talk about them a lot.
+
+Madam Deputy Speaker
+I thank the hon. Gentleman for his “point of order”—I am putting that in inverted commas—but he knows that it is not a point of order for the Chair. However, he has made his point, and I perceive that it has been noted by those to whom he wished to make it.
+

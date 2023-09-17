@@ -1,0 +1,323 @@
+ Telecommunications (Security) Bill
+
+Consideration of Lords amendments
+
+After Clause 23
+
+Network Diversification
+
+20:37:00
+
+The Minister for Media, Data and Digital Infrastructure (Julia Lopez)
+I beg to move, That this House disagrees with Lords amendment 4.
+
+Mr Deputy Speaker (Mr Nigel Evans)
+With this it will be convenient to discuss the following:
+
+Lords amendment 5, and Government motion to disagree.
+
+Lords amendments 1 to 3.
+
+Julia Lopez
+I am pleased that the Bill has returned to the House from the other place and for the chance to speak to it. I thank my hon. Friend the Member for Boston and Skegness (Matt Warman) for his tremendous work in bringing it through the House earlier in this Session and in the last.
+
+The Bill will create one of the toughest telecoms security regimes in the world. It will protect networks, even as technologies grow and evolve, shielding our telecoms critical national infrastructure both now and for the future. As the House will be aware, the Bill introduces a stronger telecoms security framework, which places new security duties on public telecoms providers and introduces new national security powers to address the risks posed by high-risk vendors.
+
+I will briefly summarise the changes that have been made to the Bill. Lords amendments 1 to 3 were tabled by my colleague in the other place, Lord Parkinson. Lords amendment 4 relates to reporting on supply chain diversification and Lords amendment 5 relates to reviewing actions taken by Five Eyes nations regarding high-risk vendors. I will speak first to Lords amendments 1 to 3.
+
+The important role of parliamentary scrutiny has been raised in debate throughout the passage of the Bill. In the other place, particular attention has been paid to scrutiny of our strengthened telecoms security framework. In its report on the Bill, the Delegated Powers and Regulatory Reform Committee noted that the new codes of practice were central to this framework, as they will contain specific technical information for telecoms providers. The Committee recommended that the negative procedure should be applied to the issuing of codes of practice. We carefully considered the Committee’s recommendation over the summer, and tabled amendments 1 to 3 in the other place to accept them.
+
+The amendments will require the Government to lay a draft of any code of practice before Parliament for 40 days. Both this House and the other place will then have a period of time to scrutinise the code of practice before it is issued. These amendments demonstrate that we have listened and that we are committed to every aspect of the framework receiving appropriate parliamentary scrutiny. I commend these amendments to the House.
+
+I will now speak to Lords amendment 4, regarding diversification. This amendment would place an annual requirement on the Government to report on the impacts of their 5G telecoms diversification strategy on the security of public telecommunications networks and services. It would also require a debate in the House on that report. The Government cannot support the amendment for two reasons. The first objection relates to the flexibility necessary for diversification. A reporting requirement of this nature is restrictive and premature. This is an evolving market that is rapidly changing, and we need the flexibility to focus our attention where it will have the greatest impact. While our focus is currently on diversifying radio access networks, once that part of the mobile network has been diversified we will move on to focus on other areas. Committing to reporting on specific criteria would limit us to reporting against the risks as we find them today and would not afford us the flexibility that diversification requires.
+
+Mr Kevan Jones (North Durham) (Lab)
+I am very interested in what the Minister says, because one of the major themes, and one of the big failures of the 5G debacle over Huawei, is the fact that we do not have diversification in the network. How will the Government be able to do a stocktake every year so that we as parliamentarians, and others, will be able to judge that what is being said about a commitment to diversification, which is in a lot of policy papers, is actually happening in practice?
+
+Julia Lopez
+I thank the right hon. Gentleman for his comment. Hon. Members will be able to raise in the normal way, through parliamentary questions, scrutiny at oral questions and Committee work, what we are doing in this area. We are reporting regularly on some of our diversification efforts and some of the money that we are spending from the spending review.
+
+Mr Jones
+I accept that, although the current Government’s response to parliamentary questions these days is sometimes lacking. What benchmark, then, will the Government use for ensuring diversification? I accept that the Minister is the Minister today, but there will possibly be a future Minister—she will not be there for ever—so how are we to judge that we are actually going to get that diversification? Without that, we will end up as we have done now, with a network that is market-led and diversification is not in the market.
+
+Julia Lopez
+I appreciate the right hon. Gentleman’s concerns. We are committed to reporting to the House on a regular basis, but we do not want to limit ourselves on specifically what we will be reporting on in technological terms, because this is a rapidly evolving marketplace and we need to make sure that we have the flexibility to deal with particular infrastructure challenges as and when they come along.
+
+My sense is that this amendment is intended to hold the Government’s feet to the fire on delivering their diversification strategy. If that is the case, a reporting requirement of this nature is unnecessary. This House and the other place already have mechanisms to hold the Government to account through parliamentary questions, as I said, and through the various Select Committees that can ably scrutinise this work. That is the appropriate way for scrutiny to take place.
+
+Our second objection relates to focus. This is, first and foremost, a national security Bill. It is intended to strengthen the security and resilience of all our public telecoms networks, be they fixed line or mobile—2G, 3G, 4G, 5G and beyond. While the Government’s 5G telecoms diversification strategy has been developed to support that objective, it is not the sole objective of the strategy. This is market-making work. It is not a panacea to raise the security of our public networks. Moreover, the current scope of the strategy is not to address the entire telecoms market but to diversify a specific subset of it. The amendment extends the Bill beyond its intended national security focus and creates an inflexible reporting requirement on a strategy that will need to continue to evolve. We have been insistent on this position, and that is why I ask that this House disagrees with Lords amendment 4.
+
+Lords amendment 5 would require the Secretary of State to review decisions taken by Five Eyes partners to ban telecommunications vendors on security grounds. In particular, it would require the Secretary of State to review the UK’s security arrangements with the vendor and consider whether to issue a designated vendor direction, or take a similar action, in the UK. I welcome the intention behind the amendment, which demonstrates that those in all parts of this House and the other place take the security of this country and its people incredibly seriously.
+
+However, while we support the spirit of the amendment, we cannot accept it for four reasons. First, the House will recall that the Bill will provide the Secretary of State with the power to designate specific vendors in the interests of national security for the purpose of issuing a designated vendor direction. In clause 16 there is a non-exhaustive list of factors that the Secretary of State may take into consideration when issuing these designation notices. That list illustrates the kinds of factors we proactively consider on an ongoing basis as part of our national security work. A decision by a Five Eyes partner, or any other international partner, to ban a vendor on security grounds could be considered as part of that process, so this amendment would require us to do something that has been part of the Bill from the outset.
+
+20:45:00
+
+Stephen Flynn (Aberdeen South) (SNP)
+The key remark that the Minister made there was that it “could be” considered. We have seen the Government’s failures previously in relation to Huawei, so why should we have confidence moving forward that this will be any different?
+
+Julia Lopez
+I appreciate the hon. Member’s comments. When the Secretary of State is looking to designate a vendor, she will put that to the House to be scrutinised, and we will be scrutinised on this issue through the usual procedures that I have outlined in my previous comments.
+
+Sir Iain Duncan Smith (Chingford and Woodford Green) (Con)
+I welcome the Minister to her place. If we look back over the past few months, even the past year or so, we see very much that the resistance early on by the UK Government with Huawei, when other Five Eyes countries were banning it, has led to a remarkable back-cost for replacing all this stuff because we failed to take an early decision. While the amendment may not be perfect, it indicates clearly a big weakness in the Government’s position, even in this very good Bill. If Five Eyes countries, which are our main allies in intelligence, spot there is a problem, we should pause, investigate the reasons why, and then come back to the House with the reasons why we disagree or agree. The amendment aims at doing that, so perhaps the Government should think about amending the Bill in such a way.
+
+Julia Lopez
+I appreciate my right hon. Friend’s comments, but it is important that we do not put in primary legislation the specific partners that we should have to listen to on these specific issues. It would create a hierarchy of diplomatic networks.
+
+Sir Iain Duncan Smith
+With respect, these are not specific partners; these are our closest allies when it comes to intelligence sharing. They do not get any closer than this. Working with them, as we do in sharing intelligence, means that using systems for sharing that intelligence would corrupt our own ability. I wonder whether the Minister could just slightly reset: these are not just partners.
+
+Julia Lopez
+I appreciate my right hon. Friend’s comments. The amendment would require us to do something that has been part of the legislation from the outset. We believe that our existing approach is the right way to continually consider the decisions of our international allies and partners, whether or not they are part of Five Eyes. That brings me to the second objection to the amendment, which is that it is unnecessary because we regularly engage with our Five Eyes partners and are committed to a close and enduring partnership with them. We agree with the other place that where possible, the UK Government should consider the actions of other countries when developing our own policies, and that is exactly what we do already. It is what we have been doing before and during the passage of this legislation.
+
+The intelligence and security agencies across Five Eyes retain close co-operation, which includes frequent dialogue between the National Cyber Security Centre and its international partners. This dialogue includes the sharing of technical expertise on the security of telecoms networks and managing the risks posed by high-risk vendors. There are mechanisms in place for the NCSC to share this and wider information with the Department for Digital, Culture, Media and Sport.
+
+Collaboration with our Five Eyes partners forms an intrinsic part of our national security work. The alliance was not created through legislation and it has not required legislation for us to develop and strengthen that relationship, and the amendment would set an unhelpful precedent. We do not need the amendment to compel us to work with our Five Eyes partners.
+
+That takes me to our third reason for resisting the amendment, which is that the UK needs to have the flexibility to develop and encourage international relationships in addition to Five Eyes. Naming individual countries in this way would set an unhelpful precedent for national security legislation in future. As I have acknowledged, it is important that we consider the policies of our Five Eyes partners, namely New Zealand, Canada, Australia and the US, when developing our own policies, but we also need to consider the policies of a wide range of other countries, including those of our European neighbours, such as France and Germany, and those of other nations, such as Japan, South Korea and India. Stipulating in primary legislation the countries whose policies the UK Government should consider when developing our own national security policies, whether Five Eyes or other countries, would be unhelpful, given the wide-ranging nature of our international collaboration. It would be highly unusual to refer to specific countries in legislation in this way, and this Bill is not the right place to create such a precedent.
+
+The fourth reason for resisting the amendment is that it is impractical because of the many different ways in which other countries operate their national security decision making. The amendment would require us to act whenever a ban takes place in another Five Eyes country, but it may not be immediately clear when a country has taken a decision to ban a vendor, particularly if they have relied on sensitive intelligence to make that decision.
+
+It may not always be apparent why a particular country has banned a particular vendor. There could be any number of reasons why a foreign Government would choose to restrict a company’s ability to operate within that country. Those reasons may not be based purely on national security grounds. I welcome the intention behind the amendment, but we cannot accept it because we feel that it is duplicative, impractical, restrictive and, ultimately, unnecessary.
+
+In summary, the House is presented with a strengthened Bill as Lords amendments 1, 2 and 3 will increase the chances of parliamentary scrutiny of the telecoms security framework. As I have set out, however, it would be inappropriate to agree to Lords amendments 4 and 5. I thank the other place for its scrutiny of the Bill. I commend Lords amendments 1, 2 and 3 to the House and ask that the House disagrees with Lords amendments 4 and 5.
+
+Chi Onwurah (Newcastle upon Tyne Central) (Lab)
+I thank colleagues in the other place who have worked hard to improve the Bill. National security is the first duty of any Government and Labour will always put our country’s security first.
+
+The pandemic has shown how important telecommunications networks are. I declare an interest as a former telecoms engineer, but I am sure I speak for the whole House in thanking all those who have kept our networks going during the pandemic. We have been dependent on them to work from home or to keep in touch with family and friends. This House could continue its important work thanks to telecommunications networks, as well as the hard work of House staff and the Speaker’s support.
+
+A secure network is of the utmost importance. Labour welcomes the Bill’s intention while recognising its limitations. I am pleased that the Lords amendments that we are discussing reflect issues that Labour has been raising.
+
+Lords amendment 1 seeks to improve transparency in the use of the Secretary of State’s powers to issue codes of practice to communications providers through the negative procedure. It reflects amendments that we tabled in Committee in response to the sweeping powers that the Bill gives to the Secretary of State and Ofcom. As the Comms Council UK said,
+
+“the Minister will be able to unilaterally make decisions that impact the technical operation and direction of technology companies, with little or no oversight or accountability.”
+
+The House has a duty to ensure that those powers are proportionate and accountable, so we are happy that the Government have bowed to pressure from Labour to strengthen parliamentary scrutiny, even if, in our view, it does not go far enough. Two consequential amendments to Lords amendment 1 set out the conditions for the 40-day scrutiny period and ensure that that time cannot be disrupted by recess or Prorogation so that this House and the other place have sufficient time to scrutinise the code.
+
+Lords amendment 5 is cross party and designed to ensure that the Government review a vendor that is banned in a Five Eyes country. We support the amendment and find the Government’s opposition concerning, as we believe it could threaten our national security.
+
+I find the Minister’s arguments against the amendment somewhat confused. She claims that the amendment is unnecessary because we already monitor Five Eyes countries and would always respond to the actions of our closest intelligence partners, but if that is true, why not formalise it? We are stronger together, specifically with our Five Eyes allies. Instead of putting forward further arguments, I turn to the eloquent explanation of Conservative peer Lord Blencathra:
+
+“All it asks the Government to do…is to review the security arrangements with a telecoms provider if one of our vital, strategic Five Eyes partners bans its equipment. We are not calling for a similar immediate ban, or an eventual ban, we are just saying let us review it and come to a conclusion.”—[Official Report, House of Lords, 19 October 2021; Vol. 815, c. 99.]
+
+We will support the amendment.
+
+Lords amendment 4 requires the Secretary of State to report on the diversification strategy’s impact on the security of telecommunications networks. It would also allow for a debate in this House on the report to further strengthen parliamentary scrutiny. Labour supports the removal of high-risk vendors from our telecoms networks, and given the grave situation into which successive Conservative Governments have allowed our networks to fall, it is essential that the Government have the powers to remove Huawei at speed. However, we are left with only two providers, and as we heard repeatedly at every stage of this Bill’s progression, two providers is not diverse, is not resilient and is not secure.
+
+We cannot ensure national security without a diverse supply chain, but I fear that the Government still just do not get it. Let me just take two of the Minister’s arguments. The first argument seems to be, as far as I could comprehend it, that requiring reporting would be “restrictive and premature”, but surely if the Government’s intention is to diversify the supply chain—and we have heard that we cannot have a secure network without a diversified supply chain—the only way a reporting requirement would be limiting is if the Government have no actual intention of doing anything about diversifying it.
+
+The Minister’s second argument seems to be that this is too technologically specific. Lords amendment 4 says:
+
+“The Secretary of State must publish an annual report on the impact of progress of the diversification of the telecommunications supply chain on the security of public electronic communication networks and services.”
+
+Would the Minister tell me what in that is specific as to the technology? Indeed, the only specific aspect of technology is a requirement to include future technologies that may be used as a platform, such as cloud computing. I find the Minister’s reasons for not supporting this amendment concerning. I fear that the Government are just not serious about diversifying our supply chain, and that they do not really have a plan for it.
+
+The Minister mentioned asking parliamentary questions. Just last week, I asked her what funding was available for 5G diversification, and she talked about
+
+“a Future RAN Competition (FRANC) and opening the doors of the SmartRAN Open Network Interoperability Centre (SONIC Labs).”
+
+I want to know how diversification is being achieved and how local sovereign UK capability is being built, not an acronym soup that is ad hoc, hard to digest and dangerously complacent.
+
+Bob Stewart (Beckenham) (Con)
+The hon. Lady is an expert in so far as she was, I understand, a communications engineer. As far as I understand it, there are three suppliers, but one of them we do not particularly want to use, and that leaves two. What other diversification can we do if we only have two? Can we try to build up something very fast, and is that what the hon. Lady is suggesting?
+
+Chi Onwurah
+I thank the hon. Gentleman for his intervention, and I promise not to take advantage of it to set out at length what we could be doing to diversify. I would just say to the hon. Gentleman and the House that we only have two suppliers for 5G now, but the technology is evolving and there are new technologies for the next generation of networks—6G. As he will well remember, we have gone through generations of technology at quite a pace over the last 20 years.
+
+Right now, we should be investing in great UK technologies from companies and start-ups that are working in the field of open RAN and other technologies. Rather than having just one vendor supplying a whole network, as has been the case with Huawei and others, we would have a diverse mix of vendors at every stage of the network—the core and so on—which would enable much greater resilience. We could be doing that. The technologies are there now, and with the support of a forward-looking Government, we could ensure that leaders in those technologies were UK companies. We would therefore have not only a resilient network, but a network with local capability, because I remind the hon. Gentleman that there is no UK capability or UK vendor in this area right now. That is what I hope to see from the Government. Network diversification should be a fantastic opportunity to support innovative start-ups around the country.
+
+Catherine West (Hornsey and Wood Green) (Lab)
+Does my hon. Friend agree it is a pity that the Government got rid of the industrial strategy group that helped to advise on these expert issues?
+
+21:00:00
+
+Chi Onwurah
+As always, my hon. Friend makes an excellent point, and as a telecoms engineer, it has been sad to see the lack of an industrial strategy for our telecommunications capability, which strengthens our UK capability. We have excellent engineers and excellent research. We should be leading in future telecommunications capability, and an industrial strategy would ensure that was the case. It would also help collaboration with our allies. For example, the US does not have a vendor that can provide our 5G networks at the moment, and collaboration with our allies and an industrial strategy or plan could make such a difference globally and locally to our security and economic strength.
+
+Sir Iain Duncan Smith
+Is the main point in all of this that this was not a market failure? Although an industrial strategy is important, in reality this is a national security failure. Huawei has undercut the market progressively for nearly 15 years through its subsidies, breaking every rule and driving every company out of business. The single biggest problem we face is having a proper functioning market that requires those involved in it to obey the rules. China does not, and everyone has paid lip service to that. Is that the real problem?
+
+Chi Onwurah
+I both agree and disagree with the right hon. Gentleman. I agree totally that national security is not a function of the market, and the fact that we have a network that is not secure is not a market failure but a failure of government and foresight. China had an industrial strategy. That is why it has a vendor in all the networks across the world—
+
+Sir Iain Duncan Smith
+To break the rules—
+
+Chi Onwurah
+Not to break the rules, but to work with other nations whose values we share, and in the long term to develop and support companies in this area.
+
+Mr Kevan Jones
+Does my hon. Friend also agree that this did not come as a great shock to the Government? It was all laid out in the 2013 Intelligence and Security Committee report on critical national infrastructure, but nothing has been done since then.
+
+Chi Onwurah
+My right hon. Friend, as always, makes a really good point. That is where an industrial strategy would have come in. It was predicted and we had time to build up alternatives. To go from having Huawei as one vendor among others that had small parts of our network, to our network being so dependent on it, took time. We could have used that time better to secure our networks and our own capability. The Government are bodging this. They are leaving it to the market when national security is not a market function. Labour has consistently welcomed the Bill, but it is only a small step towards achieving a truly secure and robust telecommunications network. In 2010 the Tories inherited a secure, competitive and world-leading network. It is now insecure, uncompetitive and bumping along the bottom. The Government have wasted 11 years, with huge delays in the second and third-generation fixed broadband roll-out, pushing us down the bottom of the OECD tables. Telecommunications are essential to our national security and economy, and we hope the Government will take this opportunity to recognise that.
+
+Mr Deputy Speaker (Mr Nigel Evans)
+Order. I am introducing a four-minute limit. There is hardly any time in this debate, and the votes will come no later than 9.37 pm. If people can be even pithier than four minutes that would be helpful.
+
+Julian Knight (Solihull) (Con)
+First, I must declare that I am chair of the all-party parliamentary group on new and advanced technologies.
+
+I have here—switched to silent, I hasten to add—my mobile phone, on which are all my apps. Just going through them gives us an idea of the flood of information about me that is now carried through telecommunication networks. I have my train app, my Uber app, my Bolt app and my Uber Eats app—as you can see from my waistline, Mr Deputy Speaker. I have my bank accounts. I have my Tesco Clubcard. I have my Signal and my WhatsApp. I have my Instagram. I have my tickets for sporting events. I have my apps for parking and for booking restaurants, and apps to read newspapers. I have apps for—heaven forbid—my golf handicap; unfortunately, it is really high. I also have my bet365 app—the less said about that, the better. I have apps for health and I have apps for my mental health.
+
+In short, someone can see from my phone where I eat, what I spend, who I associate with, where I have been, where I am going to be, my financial status, my credit worthiness, whether I am an insurance risk, even whether I like a curry or a pizza—or, frankly, whether I am happy or sad.
+
+Much of this is truly wonderful, and we have seen through the pandemic how technology has advanced 10 years in just 18 months. But you ain’t seen nothing yet, Mr Deputy Speaker. I expect that we will have the use of biometrics, the linking of data, and artificial intelligence. This is more than the railroad of the 21st century; it is redefining the way we interact with one another, and how the state protects and interacts with us. You do not need an aircraft carrier if you can subvert telecommunications. It is imperative that the Government ensure that our national security is not breached in this way. That must be woven into the plan that we have for the future of data and the interaction between the state and the individual. This Bill is the start of that process, although admittedly it is very late in the day, after many false starts.
+
+Moving on to the Lords amendments, I am pleased that the noble Lord Parkinson tabled Lords amendments 1, 2 and 3 in the other place on behalf of the Government. As new technologies emerge and security threats change, it is only right that Ministers have the ability to introduce new codes of practice to bring legislation up to date. However, through the application of the negative resolution procedure, right hon. and hon. Members will be able to provide parliamentary scrutiny to the new codes where necessary.
+
+I have great sympathy with the thrust and intention of Lords amendments 4 and 5, although I wonder whether Lords amendment 5 is slightly gilding the lily. I would hope that any Government worth their salt would take very seriously the approach of our closest security partners, so I wonder whether that really needs to be in law at this stage. However, Lords amendment 4 on network diversification is very strong, and I am minded not to support the Government on it tonight. Frankly, I think it would advance things and set a really good marker in that respect.
+
+This is absolutely necessary law. It is very late in the day, and it has been a very difficult process, but we must now focus on the fact that this is not the end but the very beginning of the way we underpin our society in terms of how we protect our data and our telecommunications.
+
+Stephen Flynn
+I am delighted to follow the hon. Member for Solihull (Julian Knight), although now I am really interested to know whether he prefers a curry or a pizza. When I came into the debate, I did not expect that to be the topic of discussion.
+
+I am very conscious of time, and I know that a number of people on the Back Benches would like to make contributions to this incredibly important debate. However, I will take the opportunity to set out the SNP’s views on Lords amendments 4 and 5 and, importantly, briefly to reflect on why we are in the situation that we are in. Actually, that kind of ties in to Lords amendment 5: it is because of the mess that the Government have created in relation to Huawei.
+
+When I first came into the House—pre-pandemic, of course—one of the biggest issues being discussed was the situation with Huawei and the flip-flopping that the Government were doing. I respectfully suggest that, in relation to Lords amendment 5, it is almost akin to the fact that they have learned nothing. There is an opportunity before them to ensure that they work with key intelligence partners, as the right hon. Member for Chingford and Woodford Green (Sir Iain Duncan Smith) said, to ascertain where the biggest threat sits. But rather than take cognisance of what has been said in the other place, they are simply saying that the plan, as they have it at this moment in time, is good enough. That, from my perspective, simply does not cut it, especially, as we have heard, when some £2 billion has already been wasted on this debacle, notwithstanding the economic impact of being so many years behind in the roll-out of 5G itself. That, in many senses, covers Lords amendment 5.
+
+On Lords amendment 4 and diversification, I will not repeat the exact detail of the amendment because that was done so eloquently by the shadow Minister, but I was a little bit surprised at what the Minister said. If I got the scope of it correctly, she was saying that Lords amendment 4 is far too narrow and would make the Government’s life too difficult. However, the amendment did not seem to suggest that when I cast my eyes on it. In fact, if I read it correctly, in the other place the Government’s position was that the framework was already sufficient, so the Government do not even seem to have clarity between the other place and this place on their actual position. I do not think that that is necessarily a surprise, because they are just looking for a reason not to back an incredibly helpful amendment.
+
+Those are the views of the SNP on the two more contentious amendments. I look forward to the Minister perhaps providing the clarity that the Government have not been able to provide so far. I also look forward to hearing what our esteemed Back Benchers have to say on these matters.
+
+Dr Julian Lewis (New Forest East) (Con)
+It is a pleasure to follow all the Back-Bench speeches so far.
+
+I would like to blaze in capital letters what the Minister said:
+
+“This is, first and foremost, a national security Bill.”
+
+Something very similar was said when the National Security and Investment Bill—now the National Security and Investment Act 2021—was going through this House and the other place earlier this year. The Intelligence and Security Committee is, as it always has been, a non-partisan organisation. I will therefore be saying some things to please and, probably, to annoy both sides.
+
+The Committee considered the five amendments at a recent meeting. We agreed that the entirety of Lords amendments 1 to 3 was broadly beneficial. We looked at Lords amendment 5 and we understood the temptation to flag up the importance of the Five Eyes relationship. We agreed—it is interesting how closely our deliberations, without consultation, conformed to the views of the Chairman of the Digital, Culture, Media and Sport Committee, my hon. Friend the Member for Solihull (Julian Knight)—that it was, as he put it, a case of gilding the lily, because whenever a serious objection is raised on security grounds by one of the Five Eyes partners, we take that with the utmost seriousness. That leaves us with Lords amendment 4. For the life of us, we cannot understand why the Government are opposing it. We believe it would strengthen parliamentary scrutiny and provide a valuable annual stocktake on the progress being made on the diversification strategy and how it is helping to improve national security. Therefore, like the Chairman of our parallel Committee, I will not be voting against Lords amendment 4 tonight.
+
+Where does that leave us as a Committee in terms of the two Bills and the amendments thereto? You may recall, Mr Deputy Speaker, that there have been intense arguments both in this place and in the upper House about the failure of the Government to accept amendments that would allow the Intelligence and Security Committee to scrutinise closely the secret aspects that are inevitably involved in those two Bills. I will not digress on this both because I lack time and because you, Mr Deputy Speaker, would instantly call me to order. I will simply say, on ensuring that there is ISC scrutiny of the classified elements that follow from this legislation, that arguments have been advanced by the Government in the other place to say, “Well, the face of the Bill isn’t the place to do it.” We agree with that now; we are taking the Government at their word. Therefore, we have written to the National Security Adviser and asked him to take up the issue with the Prime Minister, so that the memorandum of understanding between the Prime Minister and the ISC can be brought up to date to cater for the provisions of this Bill and the earlier Bill that should be part of our purview. That is what the Government promised in 2013 when the legislation was originally put through, for our Committee’s powers, and it is a promise that we expect them to keep.
+
+21:15:00
+
+Mr Kevan Jones
+I begin by thanking the hon. Member for Boston and Skegness (Matt Warman), who took the Bill through Committee very ably. Sadly, he was a victim of the cull of competence in the last reshuffle, but his approach to the Bill was refreshing.
+
+The Bill is important and, as a member of the ISC, I fully support it, but aspects of it need improving. Lords amendment 4 on the diversification strategy is vital. I was not reassured by the Minister telling us that this would be kept on track. When people try to give the impression that the issue of telecoms security suddenly hit us like a bolt out of the blue because of Huawei, I suggest that they read the 2013 ISC report on critical national infrastructure. What was going to happen was all laid out there, and nothing did. I think that without this annual stocktake, as the right hon. Member for New Forest East (Dr Lewis) said, there will be a tendency for future Governments to take their eye off the ball in terms of pushing forward the agenda that ensures that we are never again in a situation where we are beholden to, in this case, Huawei or any other vendor.
+
+I have no problems with Lords amendments 1 to 3, but I think the Minister rather oversold this in saying that it is a demonstration of the Government’s commitment to parliamentary scrutiny. I accept that to a limited degree as it pertains to the codes of practice, but as the right hon. Member for New Forest East outlined, there is an issue that should concern Members on both sides of the House with this Bill and the National Security and Investment Act, in that there are elements of security now in two Departments that will not be able to be scrutinised by any Committee other than the ISC. As he outlined, although we have tabled probing amendments here and in the other place, we have given the benefit of the doubt to the Government, because of reassurances that scrutiny will be forthcoming. However, I say to the Minister that I would like a commitment tonight that she will feed that point back, because without this, no other Committee will be able to deal with the secret aspects involved. I have spoken to members of the Business, Energy and Industrial Strategy Committee, who are still trying to wheedle out of the Government their memorandum of understanding about what they can and cannot see, and that does not bode well. This is one thing that we will come back to, if it is not done now.
+
+The ISC has so far been constructive and responsible in the way in which it has approached this issue. It is now in the hands of the Prime Minister to ensure that the memorandum of understanding is amended and is, as the Chair of the ISC said, in line with the Justice and Security Act 2013, which envisaged that we would have oversight if security went into other areas. Without that, these matters will lack the scrutiny that they rightly need.
+
+Bob Stewart
+I, too, speak as a member of the Intelligence and Security Committee. My comments will be short, because my time is limited, but many of the views that I will express have already been stated by other hon. Members.
+
+As the House has heard, the ISC broadly supports the Bill, although it remains concerned about the Bill’s lack of a role for it in providing parliamentary oversight of parts of the legislation that Select Committees are unable to supervise. The ISC has made that point to the Government, but they do not accept it.
+
+As a Committee, we want this legislation and will not push the issue, but we retain reservations about the matter not being part of the Bill. However, as the Chairman of the ISC—my right hon. Friend the Member for New Forest East (Dr Lewis)—and other hon. Members have said, we have written to the National Security Adviser to suggest that the matter be addressed in a revised edition of the Committee’s MOU, which comes from the Prime Minister. Otherwise, we consider that there will be gaps in the supervision available to Parliament—that is our main point.
+
+The Committee fully supports the changes to clause 3 in Lords amendments 1 to 3 about codes of practice and the new wording after clause 23 in Lords amendment 4. With regard to Lords amendment 5 on Five Eyes review, we believe that the intelligence community will naturally consider the views of Five Eyes partners as part of its reporting, so the new clause, although worthy, is not really necessary.
+
+Mr Deputy Speaker (Mr Nigel Evans)
+I am extremely grateful for your pithiness.
+
+Jim Shannon (Strangford) (DUP)
+The Bill seeks to enhance security provisions that all Members of this House must recognise are much needed. Clear consensus has been achieved—it has been hard-fought—that cyber-attacks on the telecommunications infrastructure pose a significant threat to national security and that legislation is needed to strengthen the security framework. The Government and the Minister are endeavouring to protect the state and its citizens. This is an absolutely necessary law that will make a clear improvement, but more can and must happen.
+
+I believe that the Bill is needed not only to safeguard this great nation from cyber-terrorism, both domestic and external, but to ensure that we can continue to attract jobs and investment from those who seek to utilise the skills and experience of our workforce. As I have said numerous times in this House, Northern Ireland is fast becoming the cyber-security centre of the world, with companies from Europe, America and elsewhere making use of our low business rates and our high skillset. To continue to attract that investment and those jobs, we must really be on top of our game; I believe that the Bill will play an important part in that. Could the Minister give some indication of her discussions with Ministers in the Department for Business, Energy and Industrial Strategy on the Bill’s economic benefits for all regions, particularly Northern Ireland?
+
+We all want to secure jobs, but we cannot allow any and all companies to have access to our networks. I believe that the protections in the Bill are imperative against those who may unscrupulously seek to carry out espionage on either a corporate or a national security level. Along with many others, I had concerns about the Huawei deal and its impact on the essential Five Eyes agreement; I was pleased by the decision that the Government ultimately made for all our security. There is a lesson to be learned and I trust that we have all learned it.
+
+I agree that it is imperative that a clear and precise code of conduct is permitted, so I support the Government’s further amendment to ensure that a code of conduct is encompassing and far-reaching. That is right and proper, and I fully support it.
+
+Andrew Rosindell (Romford) (Con)
+I rise to speak in favour of Lords amendment 5, which was tabled by Lord Alton and Lord Blencathra.
+
+The Five Eyes alliance is one of the most important strategic alliances that the UK shares. It is one of the world’s most comprehensive intelligence-sharing alliances, bringing together nations that have a strong bond forged through our shared history and values. The Government have recently taken a great stride towards strengthening our relationship with two of our Five Eyes partners, Australia and the United States, through the AUKUS agreement. I believe that Lords amendment 5 would further strengthen our ties with those great allies and ensure that we look to the future of the security and resilience of our telecommunications network.
+
+Telecommunications networks have become the foundation of our economy, allowing business, Government and communities to connect and share information. This ability to connect and communicate is now a fundamental part of the way in which our society operates. Only last year, however, the Government were still considering using the services of a Chinese company, Huawei, to manage the introduction of 5G technology in our country. That was deeply worrying, owing to the complete subservience of the Chinese tech companies to the Chinese Communist party. The unholy alliance of these so-called private companies and an authoritarian Government who have no respect for basic values such as privacy has allowed the CCP to increase internal surveillance to a level never seen before. We would be foolish to think that the CCP would not have used its access to the information accumulated by Huawei through its involvement in our 5G roll-out, given the immense levels of intelligence that it would have been able to gain from that.
+
+This debacle of Huawei shows that we must be extremely careful in protecting the security of our vital infrastructure. Letting companies that are so intertwined with a malign Government manage the implementation of our telecommunications systems would be no less than an act of national self-harm. If one of our close strategic allies makes the decision to ban a telecommunications company from operating within its borders, it will have a good reason for doing so. Taking the time to consider the rationale for such decisions will cost us little, whereas I worry that not doing so could be catastrophic for our national security. I hope that this House will approve amendment 5, as it will send a clear message that technology companies that work against our national interest will not be allowed to operate in the United Kingdom. I hope that the Minister will reconsider the Government’s position.
+
+Sir Iain Duncan Smith (Chingford and Woodford Green) (Con)
+I will be brief, as much has been said already. However, I want to say a bit to my hon. Friend the Minister about Lords amendment 4. I also, by the way, want to recognise my hon. Friend the Member for Boston and Skegness (Matt Warman), who is no longer a Minister but who was in charge of much of the Bill’s passage. I thought that he did an excellent job. It is a very good Bill which is long overdue, and there is much to praise in it.
+
+I think that Lords amendments 4 and 5 are worthy of a little more assessment. Lords amendment 4 does have merits, because it recognises that there is a real problem about diversification. The point that I was trying to make to the hon. Member for Newcastle upon Tyne Central (Chi Onwurah) earlier was not an argument against any kind of strategic review or industrial policies; it was the argument that if a nation is in a sense rogue, in terms of its ability to stay within the market, and subsidises companies deliberately for strategic effect, that is why the number of companies will fall from 15 to three in the free world, which is what happened in this case. I think the amendment is about the need to recognise the fact that diversification, if not pursued deliberately, will lead us into the hands of a country like China, which then forces us eventually to have only one vendor on price, because that country has subsidised it.
+
+As for Lords amendment 5, I heard the argument of my right hon. Friend the Member for New Forest East (Dr Lewis), the Chairman of the Intelligence and Security Committee, but I would not regard this as “gilding the lily”. I do not much like lilies and I think they could do with a bit of gilding, but I think that this is more a case of locked doors, and if the amendment is about putting an extra door into the security panoply, I think it is important. I will be brief, but last year, along with many others, I had very strong arguments with the Government about Huawei, and we were disregarded, disregarded, disregarded. The Government even led out all the great security experts who told them that they could control everything, saying, “Don’t worry, we can manage the risk”—until it finally became apparent to them that they could not. We faced that at the time. Other Five Eyes members had already said that this was not on, but we seemed to disregard their views. So I simply say that this is not about gilding the lily; it is about reminding the Government that they must abide by these provisions.
+
+I should also make the point that there are many other companies to which we should be giving real consideration right now, and which are being looked at and banned by the Five Eyes—such as Hikvision and ByteDance—and I urge the Government to think again about those as well.
+
+Matt Warman (Boston and Skegness) (Con)
+I want to thank the various Members who have paid tribute to my small role in this Bill. I say simply to the right hon. Member for North Durham (Mr Jones) that I regard all reshuffles as an upgrade, so I welcome the Minister to her place. I mean that sincerely. I would also like to pay tribute to the officials—some of whom are in the Box today—who do not get enough credit for getting the Bill to the place that it is in. Ultimately, this is the Bill that will remove Huawei from our 5G network, and that is something that we should all welcome. It addresses a number of the issues that I raised and discussed robustly, as my right hon. Friend the Member for Chingford and Woodford Green (Sir Iain Duncan Smith) said, during the process of getting the Bill to this point.
+
+21:30:00
+
+Of the two amendments, one is about scrutiny of the Government’s position on telecommunications and on this Bill in particular. Ultimately, if there is one thing that this Bill has not been short of, it is scrutiny, whether in Westminster Hall or in this place or at oral questions. The Minister is also right to say that it will not be short of scrutiny in the future. I am sure that even the right hon. Member for North Durham will continue to be persistent in his desire to see telecommunications scrutinised more. So while I sympathise with the desire to put things on the face of the Bill, I have faith in this place and even in the Opposition to get on with scrutinising the Government. I know that the Intelligence and Security Committee will also continue to push its bid to scrutinise the Government even further than it currently does.
+
+Secondly, on the position of the Five Eyes partners, those of us who have seen up close in Government just how hard the National Cyber Security Centre and the agencies work with our Five Eyes partners all know that the position that both Select Committees have come to is the right one, not only because it gilds the lily but because it acknowledges that our agencies do not look solely to the Five Eyes and that they look around the world in a way that is enviable, deep and broad. That gives us the benefit of huge expertise across the piece. In the case of both these amendments, at the risk of sounding as though I am still taking the role of a Minister, I do not believe that either of them is required. This is because I have faith in this place and in our agencies. I hope that the Bill will bolster our national security, and that it will do so without the benefit of these amendments.
+
+Ms Nusrat Ghani (Wealden) (Con)
+I rise to speak in favour of Lords amendment 5, which was championed in the other place by my Friend, Lord Alton and which focuses on the Five Eyes partnership. The Minister said that the amendment was unnecessary, but I would argue that if she were to accept it, it would provide a safety net. Last year, the Government were forced into committing to removing Huawei equipment from the UK’s 5G network, which followed on from a ban by the US and Australian Governments. We had even found ourselves in a situation in which one of our closest allies publicly threatened to stop intelligence sharing with us for the first time in our 75-year partnership. I would argue that this amendment would ensure that we did not find ourselves in a similar place again.
+
+Let me give the House an example. Despite being blacklisted by our closest ally for its ongoing links to the ongoing genocide in the Xinjiang, and a Chinese intelligence law which means that the company can not only harvest data but provide data back to the Chinese state, the surveillance company Hikvision continues to be embedded in councils, hospitals and city infrastructure up and down this country. Earlier this year, I led a Business, Energy and Industrial Strategy Committee report, “Uyghur forced labour in Xinjiang and UK value chains”, which also looked at data harvesting. I was deeply unimpressed with Hikvision’s response, and I want to put on record that I thoroughly support the Foreign Affairs Committee’s recent recommendation that the Government should forbid Hikvision from operating in the UK. My Select Committee continues its work on Xinjiang, and I look forward to meeting TikTok in the near future.
+
+The amendment would provide a fantastic safety net to ensure that we do not find ourselves in a difficult relationship with our Five Eyes partners again. Why would we want to risk that? I urge the Minister to recognise the motivation behind the amendment, which would enable trust and deepen our intelligence sharing alliances with our closest partners as well as ensuring security at home. I also urge the Minister, if she has the time, to read the “Uyghur forced labour in Xinjiang and UK value chains” report, and in particular to focus on article 7 of China’s national intelligence law, which states that any company that is registered in China has to provide data to the Chinese Communist party on demand, and also to deny to any other state that it is doing so.
+
+Julia Lopez
+With the leave of the House, I close this debate by thanking hon. Members for their contributions to the debate and for making a number of extremely important points about national security. I am keen to address those not only now, in this legislation, but in the future, through horizon scanning for some of the challenges that are coming up.
+
+I appreciate that some of the trust in the system has been undermined by the Huawei situation, and I am sympathetic to concerns raised about reporting, diversification and resilience. My hon. Friend the Member for Solihull (Julian Knight) is absolutely right that this legislation is just one part of a wider security framework. The development of 5G and full-fibre networks brings new security challenges, which we must be prepared for.
+
+This legislation sets up a strong regime for handling and removing high-risk vendors from our public networks, but it is just the start. Specific security measures will be set out in secondary legislation; there will be a lot of work to do in the next stage as we draw up that legislation, and we will be publishing a code of practice explaining the technical guidance that providers can follow to comply with legal duties.
+
+The final secondary legislation and code will be agreed through public consultation, which I hope will provide another opportunity for hon. Members who have concerns in this area to provide adequate scrutiny. I am alive to some of those concerns, but, as my hon. Friend the Member for Boston and Skegness (Matt Warman) has outlined, MPs and Peers have had multiple chances to scrutinise and feed back on our diversification strategy, and we will continue to report on developments.
+
+Bob Stewart
+I remind the Minister that the members of the ISC present tonight have written to the national security adviser on the revision of the memorandum of understanding from the Prime Minister to the ISC. We really do expect some changes to that, so that we can close the gap on supervision of things that other Select Committees cannot look at.
+
+Julia Lopez
+I thank my right hon. Friend for that point. This issue has been raised throughout the passage of the Bill; I am alive to those concerns from the ISC, which bring particular expertise and scrutiny on matters on which others cannot, by virtue of their security importance. I understand that the ISC’s Chair has written to the Cabinet Office on the matters raised, but I wish to engage with the Committee on its important work. I believe I may—
+
+21:37:00
+
+One hour having elapsed since the commencement of proceedings on the Lords message, the debate was interrupted (Programme Order, this day).
+
+The Deputy Speaker put forthwith the Question already proposed from the Chair (Standing Order No. 83G).
+
+That this House disagrees with Lords amendment 4.
+
+Division 105
+08/11/2021 21:37:00
+The House divided:
+Ayes: 276
+Noes: 161
+Question accordingly agreed to.
+
+The Deputy Speaker then put forthwith the Question necessary for the disposal of the business to be concluded at that time (Standing Order No. 83G).
+
+Motion made, and Question put, That this House disagrees with Lords amendment 5.—(Julia Lopez.)
+
+Division 106
+08/11/2021 21:51:00
+The House divided:
+Ayes: 273
+Noes: 161
+Question accordingly agreed to.
+
+Lords amendment 5 disagreed to.
+
+Lords amendments 1, 2 and 3 agreed to.
+
+Motion made, and Question put forthwith (Standing Order No. 83H), That a Committee be appointed to draw up Reasons to be assigned to the Lords for disagreeing to their amendments 4 and 5.
+
+That Julia Lopez, Heather Wheeler, Lia Nici, Duncan Baker, Chi Onwurah, Jessica Morden and Stephen Flynn be members of the Committee.
+
+That Julia Lopez be the Chair of the Committee.
+
+That three be the quorum of the Committee.
+
+That the Committee do withdraw immediately.—(Craig Whittaker.)
+
+Question agreed to.
+
+Committee to withdraw immediately; reasons to be reported and communicated to the Lords.
+
