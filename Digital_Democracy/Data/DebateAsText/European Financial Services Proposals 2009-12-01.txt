@@ -1,0 +1,733 @@
+ European Financial Services Proposals
+
+[Relevant documents: Thirty-second Report from the European Scrutiny Committee, Session 2008-09, Chapter 2, HC 19-xxx, and the First Report from the Committee, Session 2009-10, Chapters 1 and 2, HC 5-i; and Sixteenth Report from the Treasury Committee, Session 2008-09, on the Committee’s Opinion on proposals for European Financial Supervision, HC 1088, and the First Report from the Committee, Session 2009-10, Proposals for European financial supervision: further report, HC 37.]
+
+16:22:00
+
+The Exchequer Secretary to the Treasury (Sarah McCarthy-Fry)
+I beg to move,
+
+That this House takes note of the following European Union Documents—
+
+(a) 3645/09, Proposal for a Council Decision entrusting the European Central Bank with concerning the functioning of the European Systemic Risk Board;
+
+(b) 13648/09, Proposal for a regulation of the European Parliament and the Council on Community macro prudential oversight of the financial system and establishing a European Systemic Risk Board;
+
+(c) 13652/09, Proposal for a Regulation of the European Parliament and of the Council establishing a European Banking Authority;
+
+(d) 13653/09, Proposal for a Regulation of the European Parliament and of the Council establishing a European Insurance and Occupational Pensions Authority;
+
+(e) 13654/09, Proposal for a Regulation of the European Parliament and of the Council establishing a European Securities and Markets Authority;
+
+(f) 13656/09, Commission Staff Working Document–Possible amendments to Financial Services legislation–accompanying document to—
+
+(i) 13652/09
+
+(ii) 13653/09
+
+(iii) 13654/09;
+
+(g) 13657/09, Commission Staff Working Document–Impact Assessment–accompanying document to—
+
+(i) 13645/09
+
+(ii) 13648/09
+
+(iii) 13652/09
+
+(iv) 13653/09
+
+(v) 13654/09;
+
+(h) 13658/09, Commission Staff Working Document–Summary of the Impact Assessment; and
+
+(i) 15093/09, Proposal for a Directive of the European Parliament and of the Council amending Directives 1998/26/EC, 2002/87/EC, 2003/6/EC, 2003/41/EC, 2003/71/EC, 2004/39/EC, 2004/109/EC, 2005/60/EC, 2006/48/EC, 2006/49/EC and 2009/65/EC in respect of the powers of the European Banking Authority, the European Insurance and Occupational Pensions Authority and the European Securities and Markets Authority;
+
+and endorses the Government’s approach to setting up a new financial supervisory structure in the EU.
+
+First, I should like to thank the European Scrutiny Committee for calling this debate on these extremely important issues. As several hon. Members present will remember, I took part in another of the Committee’s debates back in June, when we had a very useful discussion of the European Commission’s initial proposals for European Union regulatory reform. Since then, however, things have moved on somewhat. In September, the  Commission published its draft legislative proposals to establish a new supervisory architecture, and I look forward to discussing the issues again today.
+
+It might be helpful if I first set out the proposals contained in the documents that we shall be debating this afternoon. The Commission’s legislative package establishes at the macro-prudential level a European systemic risk board, comprised of EU central banks, to identify risks in the financial system. The body will issue warnings where these risks are deemed significant, and will, where appropriate, issue recommendations on how to mitigate these risks.
+
+Mr. William Cash (Stone) (Con)
+As I am a member of the ESC, I am sure the Minister will understand my wishing to draw attention to the fact that in our most recent report we have, effectively, condemned the idea that we should rush forward with these proposals. There are many good reasons for that, which are set out in our report. Furthermore, does the Minister accept the following point, which I have repeatedly made to the Prime Minister and the Chancellor of the Exchequer—this is, effectively, a sell-out to the process of majority voting, and it will do immense damage to the City of London, which accounts for an enormous percentage of our GDP? Does she also agree that there is no justification for the speed with which this is being done, or for handing over the whole of this ramshackle structure to the European Court of Justice?
+
+Sarah McCarthy-Fry
+The hon. Gentleman will not be surprised to learn that I disagree with him on this and that I think it is important that we have a European harmonisation of regulation. That was agreed at not only the European level, but the global level. I think we would all agree that we are looking for a harmonisation of regulation at a global level, and the EU process can move forward on that.
+
+Mr. Mark Todd (South Derbyshire) (Lab)
+Will the Minister give way?
+
+Sarah McCarthy-Fry
+I shall finish answering the original intervention before I give way to my hon. Friend. We still need to refine some pieces of the proposals before us today. I shall go on to discuss where we are disappointed and where the legislative proposals did not follow the agreement reached at the ECOFIN June negotiations; however, the negotiations are ongoing.
+
+Mr. Todd
+Am I right in thinking that the author of the origins of these proposals is Monsieur de Larosière, who, as we heard yesterday, is apparently the patron saint of Conservative regulatory policy? [Interruption.] We can see the gestures being made by the hon. Member for Stone (Mr. Cash), who presumably feels as uncomfortable on this as I do. Could the Minister throw light on the authorship?
+
+Sarah McCarthy-Fry
+Certainly the original proposals came from Jacques de Larosière in order to replace the Lamfalussy level 3 committees in respect of the European supervisory authorities. [Interruption.]
+
+Mr. Speaker
+Order. The hon. Member for Stone (Mr. Cash) does not have to make sedentary references to the number or identity of Frenchmen.
+
+Sarah McCarthy-Fry
+Thank you, Mr. Speaker. I was talking about the first part of this package of proposals, which is the European systemic risk board. The body will issue warnings where the risks are deemed significant and recommendations on how to mitigate these risks. The Government strongly support the establishment of the ESRB. We believe it can act as an effective early-warning system, usefully identifying risks in the financial system and complementing the work of the Financial Stability Board and the International Monetary Fund at the international level.
+
+Stewart Hosie (Dundee, East) (SNP)
+I am happy with the idea of a new architecture and a global system, and I am happy with the ESRB and with the fact that it will issue warnings and take actions. However, one bit is missing from all this, and that makes it difficult to agree whether or not it makes sense. The regulatory framework for the derivatives, the default swaps and the counter-party risk—the technical regulation on the financial weapons of mass destruction—is not yet in place. Will the Minister explain how that will work within the context of the ESRB and the other bits of the architecture that she is describing? That is the missing piece; we do not yet have it.
+
+Sarah McCarthy-Fry
+The hon. Gentleman is right to say that we do not have all the other directives in today. Today, we are examining the framework that will be discussed at the ECOFIN meeting tomorrow. There will be opportunity to discuss further—if the European Scrutiny Committee so wishes—those other directives that are still going through.
+
+Stewart Hosie
+I appreciate what the Minister is saying and that ECOFIN will meet tomorrow, but it is difficult to see how to agree on a proposal for a board that will, rightly, issue recommendations and take actions—presumably they will tighten up, weaken, amend or adjust regulation—when we do not yet have it. Can she not give us some kind of clue as to the regulatory framework that will sit alongside this new architecture?
+
+Sarah McCarthy-Fry
+I am sorry to say that at this stage I cannot. This is still a matter for negotiation among the other member states; this is about the overarching framework.
+
+Mr. Michael Fallon (Sevenoaks) (Con)
+I am sorry to interrupt the Minister, as she is clearly getting into her stride. Before she leaves the subject of the ESRB, a proposal with which she says she is happy, will she say whether or not she is happy that there is no requirement that the non-eurozone countries should be represented on it?
+
+Sarah McCarthy-Fry
+I will come to that later in my speech, but just to satisfy the hon. Gentleman I should say that we do think that there should be sufficient input from the non-eurozone member states. I shall discuss that, because it was a specific question asked by the European Scrutiny Committee.
+
+The European supervisory authorities will replace the current so-called “Lamfalussy level 3 committees” in banking, securities, insurance and occupational pensions. The new authorities will have enhanced roles and tasks, with the aim of improving the quality and consistency of regulation and supervision in the EU.
+
+Mr. David Heathcoat-Amory (Wells) (Con)
+Will the Minister confirm that these micro regulatory authorities will not have supervisory powers over national authorities? That assurance was given by Lord Myners in evidence to the European Scrutiny Committee, but it has been slightly altered—or certainly weakened and diluted—notably when the Minister responded to my debate in Westminster Hall. Can she get back to the original position and give an unconditional undertaking that the new authorities will not have supervisory authority over national supervisors or individual firms?
+
+Sarah McCarthy-Fry
+Our negotiating position is that the supervisory authorities will have absolutely no authority over individual firms, and that their only power over supervisory authorities will be in cross-border disputes. That will be our position going into the negotiations tomorrow.
+
+Mr. Mark Hoban (Fareham) (Con)
+As I understand it, a representative of one of the supervisory authorities can sit on the college of supervisors. Does the Minister think that that is appropriate, given that that could also lead to the ESAs having some impact on the supervision of individual firms?
+
+Sarah McCarthy-Fry
+We are clear that none of the bodies being set up under this legislation should be able to impact on the supervision of individual firms. Credit rating agencies are the only exception, as we did not consider that they posed a fiscal risk.
+
+Mr. Hoban
+But, as I understand it, the European securities market authority will have jurisdiction over clearing houses. Will the Minister bring that up at ECOFIN tomorrow?
+
+Sarah McCarthy-Fry
+I do not want to pre-empt or second-guess the ECOFIN negotiations that begin tomorrow. Our line is that the authorities will have no direct powers over firms in emergencies and that there will be no direct EU supervision of Community-wide entities. The authorities will certainly not be able to conduct day-to-day supervision of individual firms. That is the line with which the Chancellor will go to ECOFIN tomorrow.
+
+Stewart Hosie
+The European Scrutiny Committee report says on page 34 that the purpose of establishing a system of financial supervision is, among other things, to “raise supervisory standards” and to impose “binding mediation”. Will the Minister confirm that that “binding mediation” will apply not to single firms but to national systems?
+
+Sarah McCarthy-Fry
+The binding mediation will apply to national supervisors in cross-border disputes, not to individual firms.
+
+Mr. Fallon
+Will the Minister give way?
+
+Sarah McCarthy-Fry
+May I get a little further with my speech? I shall give way to the hon. Gentleman then.
+
+We think it is important to have more effective rule-making and enforcement, as that will increase the efficiency of cross-border firms operating in the EU. The authorities will be required to conduct supervisory peer review to ensure consistently high standards. As I have said, they will also have powers to mediate in disputes between supervisory authorities. The Government support the authorities having those roles, as a way of improving the quality and consistency of supervision and enhancing stability.
+
+I give way to the hon. Member for Sevenoaks (Mr. Fallon).
+
+Mr. Fallon
+I am most grateful to the Minister. She is handling a range of questions, but what is her red line in this matter? Articles 9, 10 and 11 of the European banking authority proposal would give it direct power over individual financial institutions, with the result that it could issue an instruction to Barclays or HSBC. Is that a red line for the British Government, or not?
+
+Sarah McCarthy-Fry
+The red line for the British Government is that these authorities should not have direct powers over the day-to-day supervision of national firms, and that is the approach on which we are going forward.
+
+The Commission has also published an amending directive, which amends 10 existing financial services directives to enable the new authorities to carry out their tasks effectively. Most significantly, these amendments will clarify the areas in which the new authorities can develop technical standards and many of the areas in which they can mediate in cases of disagreement between national supervisors. We believe that those moves will improve the quality and consistency of regulation and supervision in the EU, and they were agreed to by Heads of State and Government at the European Council meeting in June. The ambitions are also supported by the City and, in particular, by cross-border institutions operating from London.
+
+Mr. Cash
+The Minister speaks about red lines. Will she exercise a veto when the whole matter is going to be decided by a majority vote?
+
+Sarah McCarthy-Fry
+This is a package of five legislative proposals. The hon. Gentleman is quite right that four of them are down to qualified majority voting, but one of the items in the package is subject to unanimity. We are going into the negotiations with our red lines and I am sure that the Chancellor will stick to them. Within the negotiations, I am sure that we will get not only what is good for the UK, but what is good for the EU.
+
+Mr. Jeremy Browne (Taunton) (LD)
+Against which countries does the Minister expect that Britain will have to defend its red lines? I am interested to know who is likely to line up with us and who she feels might imperil Britain’s interests.
+
+Sarah McCarthy-Fry
+I am sure that the hon. Gentleman would not expect me to answer that question on the Floor of the House when the Chancellor is going into negotiations tomorrow. I will not second-guess or pre-empt those negotiations.
+
+As I said, it was agreed at the June meeting that day-to-day supervision and crisis management arrangements had to remain national, as only national Governments can provide any fiscal support to firms. In the case of credit rating agencies, which cannot have a fiscal impact if they fail, there could be central supervision. As a result, it is clear that there can be no direct European crisis management powers over firms, or other powers that undermine national supervision. Furthermore, it has been made clear that the new framework should not impinge on member states’ fiscal responsibilities. We must ensure that member states stick to that agreement.
+
+I am sure that hon. Members will have noticed that, in some areas, the Commission’s legislative proposals go further than what was agreed in June. For example, it is proposed that the new EU supervisory authorities could later directly supervise Community-wide entities. That clearly does not respect the June agreement, and the Government are absolutely clear that we cannot accept it, as it could fundamentally undermine national supervision. Furthermore, the Commission’s proposals include direct European powers over firms, in particular in crisis management. Such a role could confuse and undermine national crisis management, and it is clearly critical to ensure that Governments can respond quickly and effectively in times of crisis, so that needs to change.
+
+Mr. Heathcoat-Amory
+I asked the hon. Lady last month who would appoint the members of these supervisory authorities and to whom they would be accountable—is it the Council of Ministers, the European Parliament, the Commission, or all three? Given that clarity and certainty are absolutely essential—if there is a credit crunch, we will otherwise get into a huge muddle all over again—will she tell us the exact position regarding reporting and appointment to these bodies?
+
+Sarah McCarthy-Fry
+The ESAs will be accountable to national Governments through the European Council. It is likely that they will also be accountable to the European Parliament. In the United Kingdom, the Financial Services Authority—our nominee—will be accountable in the normal way through its annual report and the Treasury Committee.
+
+Mr. Heathcoat-Amory
+And appointments?
+
+Sarah McCarthy-Fry
+I will have to get back to the right hon. Gentleman about appointments. I imagine that that would be a matter for member states, but I hope to be able to get back to him on that before the end of the debate.
+
+There has already been a lot of discussion and debate about the proposals. Lord Myners has given evidence to the Treasury Committee and to the House of Lords European Union Committee. He also took part in a debate in the Chamber of the House of Lords on 10 November. In addition, the Treasury Committee published a report on the proposals on 16 November, for which I thank it. That insightful report raises a number of issues that are also of great importance to the Government. In particular, the report highlights the Committee’s concerns about the legality of the Commission’s proposals; the fiscal impact on member states; the Commission’s role in crisis situations; and the composition of the European systemic risk board.
+
+There is widespread interest in the legal issues surrounding these proposals, and the Government are well aware of the complex legal matters involved. Regardless of the technicalities, the Government’s overriding objective is to ensure that the new framework can withstand legal challenge. We cannot have legal uncertainty and challenges before the courts, as that could undermine financial stability. We are therefore working closely with other member states and the Council legal service to ensure that the bodies are on a sound legal footing. I know there are questions about the legal basis of the proposals, but let me assure the House that we believe that article 95 is an appropriate legal basis for the regulations. However, we have concerns about matters in which the supervisory authorities can exercise discretion, and in which the Commission is seemingly playing the role of the courts. Both those issues are problematic, but we believe they can be resolved so that the authorities can exercise the useful roles assigned to them.
+
+Mr. Mark Field (Cities of London and Westminster) (Con)
+The Minister has referred to the legal and practical difficulties, but can she tell us how much experience she has had of speaking to practitioners in the field about the precise nature of those problems? Has she spoken to them, or has she just read briefings from the trade body?
+
+Sarah McCarthy-Fry
+I think that the hon. Gentleman probably knows the answer. I have not had discussions with legal practitioners, but my noble Friend Lord Myners, who leads on this policy matter in the other place, certainly has done so, and I have read all the briefings.
+
+Many members of the European Scrutiny Committee have raised concerns about the fiscal safeguard clause in the proposals. I would like to stress that this is a mechanism that in practice should never be used. The legislation clearly states that ESAs are required to ensure that their decisions do not impinge on member states’ fiscal responsibilities. However, alongside that, a process has been set out in the legislation for member states to opt out of a decision made by an ESA, if they believe that it would have a fiscal consequence. We need to ensure that that process is not open to abuse, and that it provides the right protections. The Commission’s proposal requires a member state to secure a qualified majority vote in support in Council, in cases in which the ESA decides to uphold its decision, despite the member state raising a fiscal case against it. We are not convinced that the balance is right, or that it provides sufficient assurance to member states. We are therefore working with EU member states, many of which share our concerns, to improve the safeguard clause.
+
+Mr. Fallon
+Again, I want to be clear that that is a red line for the United Kingdom, and that the fiscal safeguard will not be subject to majority voting.
+
+Sarah McCarthy-Fry
+For us, the red line applies to the fact that none of those authorities should have the power to make any impact on national Governments’ fiscal responsibility. We do not believe that the fiscal safeguard should be used, because there is an overriding legal principle that the decision should not impinge on member states’ fiscal responsibilities. Again, that will be part of the negotiations, and as I have said, many other member states share our concern, so we hope to be able to make progress.
+
+Concerns have been expressed about the speed of reforms, and about the better regulation principles. We must ensure that there is better and more effective regulation, which is based on strong evidence, as well as thorough consultation and impact assessments. It is important to respond swiftly to the crisis and make sure that we can secure harmonised standards and put better regulation in place quickly, but that should certainly not be at the expense of high-quality regulation. It is more important than ever to ensure that our response is evidence-based and achieves the desired end. We continue to encourage the Commission to adhere to best practice and to conduct consultations and impact assessments on regulatory proposals for the regulation of markets and firms. That high-quality evidence base will also maximise the influence of the EU on the international stage with our international partners and better enable it to attain international regulatory convergence. It is crucial that better regulation principles are instilled in the bodies themselves. The Government have been arguing strongly for this in Council, and it continues to be a top priority.
+
+Concerns have been raised about the Commission’s role in determining a crisis situation. Alongside other member states, the UK is questioning the Commission’s role in some areas of the proposals, including its ability to decide unilaterally where there is an emergency situation. We have already made progress on this issue and there is now broad consensus among member states that the Council should have a strong role in activating any emergency powers.
+
+Christopher Fraser (South-West Norfolk) (Con)
+Will the Minister draw to the attention of the House precisely what is meant by emergency circumstances? That is not clear from what she said or what we have before us today.
+
+Sarah McCarthy-Fry
+I would suggest that emergency circumstances were the sort of situation that we faced last year, with the possibility of the entire global financial system going into meltdown. I will get clarification, however.
+
+I turn to some specific clarifications that the European Scrutiny Committee requested, following the Committee’s correspondence with Lord Myners on these issues. With reference to the Government’s progress in ensuring a balanced representation of non-eurozone member states on the European systemic risk board steering committee, there is broad consensus in Council that there should be an appropriate representation of non-eurozone member states on the ESRB, and in particular, that there should be five, rather than three, additional members of the steering committee, and that two of those should be from non-eurozone central banks.
+
+The need to ensure an appropriate balance of eurozone and non-eurozone members was one of the key issues stressed by the Chancellor during the discussion of these proposals at the ECOFIN meeting of 2 October. The Government are therefore confident that this position will be reflected in the Council’s discussions with the European Parliament as we go forward.
+
+Mr. Hoban
+Will the Minister make it clear that balanced representation will be in the legislation, rather than in some side agreement reached in Council?
+
+Sarah McCarthy-Fry
+The aim would be for that to be in the legislation, but it will form part of the negotiations. The important thing is that we get the result—the representation of the non-eurozone member states on the steering committee.
+
+Mr. Hoban
+But is a decision in Council, but not on the face of the legislative proposal, binding?
+
+Sarah McCarthy-Fry
+I cannot answer that question. I do not want to mislead the hon. Gentleman. It is my understanding that if we can get that as a Council decision, that will be what happens, but I will get back to him with the precise legal basis for that.
+
+The improved voting thresholds in the ESRB general board reflect a building consensus in Council that the voting mechanism for decisions taken by the ESRB’s general board, as set out in the Commission’s draft regulation, is not appropriate in all cases. Instead, there has been considerable support for voting by a two-thirds majority, rather than a simple majority, for adopting a recommendation and for agreeing to make a warning or recommendation public.
+
+As I said, there are outstanding issues and questions, but this is a positive agenda for reform, which the Government—
+
+Mr. Cash
+Does the Minister note that one of the questions that we put was whether, in the context of the architecture to which I referred earlier, the Government are satisfied not only with regard to the voting issue, but with regard to the relationship of the European Court of Justice to these bodies? That is crucial, because it is at that point that the question of the exercise of real power is determined. Can the Minister answer that question, please?
+
+Sarah McCarthy-Fry
+I can only refer the hon. Gentleman back to my previous answer, which was that we have concerns about the legislative proposals, where the Commission appears to be taking over the role of the courts, because the judgment as to whether member states are following European law must be a matter for the European courts.
+
+We are putting in place a new framework to improve the quality and consistency of supervision and regulation. Such a framework will better protect consumers, help prevent financial crisis and improve efficiency for firms. I look forward to hearing the contributions of hon. Members in the debate.
+
+16:49:00
+
+Mr. Mark Hoban (Fareham) (Con)
+We welcome the chance to debate these important proposals. They will have a significant impact on the regulation of the financial services sector, and they have the potential, notwithstanding the Minister’s comments, to impact on our fiscal policy. Let us be clear, however, that we are here only because the European Scrutiny Committee called for a debate on the Floor of the House. The Government have not conceded these proceedings voluntarily. They did not set aside this time because they felt it important to debate these issues; they were required to do so by the Committee. It asked for a three-hour debate on the Floor of the House, and that signal should not be underestimated. The Committee has done so on only a handful of occasions during the lifetime of this Parliament. The issue is clearly important, and it is right that we have this debate in advance of the ECOFIN meeting tomorrow.
+
+We recognise the importance of cross-border supervision. We have had arguably the first global regulatory crisis, and we need to learn lessons about the need for greater co-ordination and standards of supervision. However, despite the global nature of the crisis, the bill for failure was picked up by national taxpayers, and we need to bear that in mind as we debate the subject. The UK boasts a leading global financial centre. The importance of global co-ordination should not be understated, but, when considering the issue, we must engage much more vigorously in the debate. That is not about stymieing attempts at reform, but about working towards a more effective and stable system. That will benefit the UK and the wider European Union, and we recognise that some changes are necessary to resolve some issues that the financial crisis threw up.
+
+However, we find the Government’s approach passive and complacent. They need to be proactive and strategic, rather than complacent and tactical. Such an approach represents a misunderstanding of the importance of what is at stake, and the consequences of the Government’s rather casual approach could be significant.
+
+We have seen the consequences of that approach already. This year, we had the publication of the alternative investment fund managers directive, and there has been widespread criticism of it and its impact not just on hedge funds and private equity, but on other forms of funds affecting other European countries.
+
+Mr. Mark Field
+I entirely agree with my hon. Friend on the alternative investment directive. Is not the bigger criticism of it, however, that it simply betrayed, among those in the European Union who are attempting to introduce it, a lack of understanding about the role of asset management and, indeed, its non-role in the credit crunch and financial crisis that we have faced over the past two years? Whatever other problems there may have been, hedge funds and private equity have not been responsible for any systemic problems that that directive and others have tried to address.
+
+Mr. Hoban
+That is certainly a factor, and as the directive has proceeded through the European Parliament more and more people have recognised the widespread impact that it could have on a range of funds, whether they are used to fund the building of wind farms in Germany or mortgages in the Baltic states. The directive is wide-ranging, and people have not understood its impact. My particular criticism is that the Government caught on to that rather late in the process. Other Governments were lobbying prior to the publication of the directive earlier this year, whereas our Government seemed to be slow on the uptake. It was only once the industry got its teeth into the directive and considered its impact on London that the Government rode in behind.
+
+We saw the same pattern arise with the appointment of Monsieur Barnier as a European Commissioner. The deal was done some time ago. The French appeared to give way and allowed Baroness Ashton to become the High Representative, but there seems to have been a quid pro quo: a Frenchman would take over as Commissioner for the internal market. The Government woke up to that quite late in the debate, and there was a flurry of spin and media activity in the days leading up to his appointment, but by that stage it was too late. Again, tactics took priority over the strategic approach that is needed to protect London’s financial interests, and the same point applies to the documents that are before us today. The Government must be much more zealous in protecting Britain’s interests and those of the financial services sector, which is an asset not just to London but to the wider European economy.
+
+Mr. Cash
+My hon. Friend knows that I have the gravest concerns about all this. Does he appreciate that although the trade associations—I mentioned the Association of British Insurers, the British Bankers Association and the Investment Management Association —have effectively endorsed the idea of this supranational authority, there is also a political dimension, because whereas they may have a multinational view about these matters in the global context, in terms of the City of London a political judgment has to be struck? That is why I personally take the view that we ought to resist this all the way down the line. As my hon. Friend the Member for Cities of London and Westminster (Mr. Field) said, people in the trade associations take a globalised view based on multinationalism, whereas when one deals with people in individual firms on the ground, one finds that they frequently take a very different view. Does my hon. Friend have any comment to make on that?
+
+Mr. Hoban
+My experience in this role over the past four years is that there is a wide divergence of views in the City about the role that Europe should play in the regulation of financial services. Several trade associations take the view that there should be a harmonised rule book, for example, but they are also concerned about the pace at which the reforms are progressing and whether a proper process is in place. We have seen that in the way in which the alternative investment fund managers directive has been dealt with. The devil is always in the detail. We need proper scrutiny of these proposals, and people need carefully to think through their impact. The problem is that when others seek to use their political agenda to shape regulation in Europe, it is sometimes to the detriment of our own sector based here in London.
+
+Mr. Mark Field
+I entirely accept what my hon. Friend says, but does he not agree with the thrust of the point made by my hon. Friend the Member for Stone (Mr. Cash)? If, rather than consulting often self-appointed market bodies notionally representing dozens or hundreds of members, one asks the market practitioners who have to deal day to day with the impact of much of this legislation, which may derive from our own Parliament as well as from Europe, one finds that they are much more concerned and can see the disadvantages. It could almost be said that one of the benefits of being in opposition is being able to talk to market practitioners instead of hearing from on high about the various benefits that such new legislation, directives and regulations may have.
+
+Mr. Hoban
+That reflects the argument that I was making. People support these moves in the abstract, but when it comes to concrete proposals there is a great deal of opposition to individual aspects. Later, I will discuss some of the areas where there may be greater protection in London than that specified in directives, and that is in our interests. Would that protection be removed as a consequence of harmonisation?
+
+In the whole legislative process that has emerged as a response to the financial crisis, it seems that a great deal is happening in haste and not much has been well thought through. There is a danger that we are being pushed to sign up to directives and proposals very quickly without people fully thinking through their impact. The particular concern about this set of proposals is that there seems to be pressure from the Swedish presidency to agree the package at tomorrow’s ECOFIN meeting and at the Council meeting later this month. Even trade bodies are concerned about the haste with which this process has been dealt with and they fear that not enough time is being spent on working through the detail.
+
+We should recognise that if we want to get this legislation right, we need to spend more time working through the details instead of being forced to comply with artificially imposed deadlines that relate to whoever is in or out of the presidency at any point in time. Indeed, the Treasury Committee said in its report that
+
+“it is better to be right than quick”,
+
+and went on to state that
+
+“even on a cursory examination there are serious problems with the Commission's proposals which need to be dealt with before the Council agrees to the draft legislation and it moves on to the next stage.”
+
+The European Scrutiny Committee stated that
+
+“we are disappointed that Member States, in the ECOFIN Council and in the European Council, intend to continue to press on precipitately with this legislation and that the Government seems content to acquiesce in this haste.”
+
+Will the Exchequer Secretary indicate whether the Government are content, if no agreement is reached tomorrow, to push the conclusion of this debate into next year in the interests of better scrutiny? The ESC continued:
+
+“As we have already said, rushed legislation proves all too often to be poor legislation and we would expect the Government to insist that these proposals are properly negotiated to a sensible timetable.”
+
+We must ask why we have been pushed to respond so quickly to the reforms. If the proposals were straightforward and uncontroversial that would be one thing, but as the comments that have been made both by the Minister and in interventions have demonstrated, they are neither. It is not just people in the House who believe that. The Association for Financial Markets in Europe has stated:
+
+“The rapid timetable is driven by the political commitment to have the ESRB and ESAs in operation by the end of 2010. It does however, particularly at a time when an unusually large number of policy proposals are under development in a range of areas in the wake of the financial turmoil, place great strain on the ability of policy-makers and interested parties to give the Proposals proper technical scrutiny. The time pressure is intensified by the fact that a series of Proposals whose content interlocks have been made, and are being scrutinised by the Council and the European Parliament, on a staggered timetable.”
+
+There is a strong message from inside and outside the House that proper time should be spent scrutinising the measures, rather than their being rushed through to meet an artificial deadline.
+
+Mr. Jeremy Browne
+I understand and agree with the hon. Gentleman’s point that it is better to get the right solution and take time over arriving at that conclusion than to react in haste and potentially reach the wrong conclusion. However, he seems to be slightly at odds with some of his Back Benchers who, I get the sense, do not wish us to arrive at any conclusion at all. In other words, they reject the entire process, whether it is arrived at in haste or at great leisure. Is that his interpretation? It is worth exploring the real difference between those who wish to reach the end point after sufficient consideration and those who do not wish to reach the end point at all.
+
+Mr. Hoban
+The hon. Gentleman is being a little hasty in reaching any conclusions about a discrepancy in views between myself and my hon. Friends. I have just talked about the timetable, but there are other matters that I want to discuss that are related to the substance of the proposals, on which we have a great deal in common. It is not just about the time scale and process, it is about substance as well.
+
+I wish to touch on a point that the Exchequer Secretary glossed over, but which has caused a great deal of concern for both the ESC and the Treasury Committee—the constitutional nature of the powers in question. There was a debate in the Treasury Committee about whether the powers to be granted in the proposals before us have a legal basis. In written evidence to the Committee, Stuart Popham and Simon Gleeson of Clifford Chance wrote:
+
+“The ESAs will not have power to take decisions or to make rules—European law requires that these powers are reserved to the Commission, and we believe that this could not be changed without an amendment to the EU treaty. The attempt to give the committees the power to review the issue of whether individual national regulators have correctly implemented EU legislation appears to be an attempt to stretch this point.”
+
+As we have seen, though, the ESAs will issue binding directions on compliance with EU law and on mediation between two regulators. If the power is to ensure compliance with the law that already exists, it is hard to see of what use it is. Is it a discretionary power or not? As it is presented, it is not clear, and the Commission itself seemed to allude to the same issue in the context of potential interference with the fiscal responsibility of member states when it stated:
+
+“Incorrect application of Community law cannot be justified by financial grounds. The remainder of the Authorities decisions are either not directed to individual supervisors, or non-binding, and therefore by definition cannot have fiscal implications.”
+
+In other words, member states must surely already be compliant with EU law, even on fiscal grounds, so no decision made by the ESAs could have fiscal consequences. Once again, therefore, we must ask what the power is for exactly.
+
+The confusion does not end there. Mr. Gleeson pointed out in his evidence to the Treasury Committee that if the power was found to be discretionary and was subsequently deployed, the European Court of Justice would be likely to consider any such directives
+
+“ultra vires to the treaty”,
+
+and they would, as Stuart Popham put it, “cease to exist.”
+
+Mr. Cash
+My hon. Friend raises an extremely important point relating to competing sovereignties. The European Court asserts its primacy over not only our laws but our constitution. I am glad to say that the leader of our party has affirmed that there will be a sovereignty Bill to deal with some of those questions. Does my hon. Friend agree that where there are such competing sovereignties, and it is in our national interests to do so, as it is in the case before us, it is essential that, if we come to power, we justify and carry through the leader of our party’s commitment to the repatriation of legislation to ensure our economic competitiveness, using our sovereignty Bill?
+
+Mr. Hoban
+I suspect that my hon. Friend is pushing me to go further than I am inclined to go at this point, but I want to explore the legal argument, because there is an issue to do with the basis of the powers. I know that he is an expert on the subject, so he may want to contribute to the debate on that point later.
+
+Article 95 of the treaty, as currently drafted, will be used to create the ESRB. That article usually deals with matters relating to internal markets, and it operates under qualified majority voting, but if any action arising from the provisions requires treaty amendments, there will not be that capacity, and confusion and paralysis will reign. Article 105 will
+
+“confer upon the ECB”—
+
+European Central Bank—
+
+“specific tasks concerning policies relating to the prudential supervision of credit institutions and other financial institutions with the exception of insurance undertakings”,
+
+but of course it has an exception relating to insurance. Article 105 does not use QMV, and so allows for national vetoes. It is not clear where primacy sits, and what voting mechanism is appropriate.
+
+There is an alternative basis for the powers in article 308—a residual power that could be used to set up the bodies. However, that requires unanimous decision making. Using that power would make more sense, if it turned out that decisions made by the ESAs were likely to be ultra vires to the European Community treaty if made under article 95. However, I gather that use of the power under article 308 would require amendments to a treaty, which is something that Governments and the European Commission might be reluctant to undertake at the moment. That gives the impression that article 95 is being used to set up the powers more for convenience than because it would give the documents a proper basis.
+
+Let me turn to the detail. It is important that we tackle the timing and the legality of the arguments. The Minister rather glossed over those points, and in her winding-up speech she should give the House more clarity about the robustness of the arguments on the legal basis on which the new authorities are to be established.
+
+We want measures to be taken to improve the quality of supervision and co-ordination across Europe, but we do not want that to impinge on the regulatory and fiscal sovereignty of individual member states. As the Chancellor wrote of the new regime, in his letter of response to the de Larosière proposals,
+
+“it would not supervise individual banks…leaving that to national authorities...given that arrangements for resolving difficulties in these firms remain a national responsibility.”
+
+That is the dilemma that we need to resolve, and that is the principle on which the proposals will be judged in all parts of the House.
+
+Mr. Heathcoat-Amory
+My hon. Friend is quite right that we must guard our fiscal sovereignty, but is he not underestimating the confusion that will be caused if there is ambiguity about exactly where these bodies reside in Europe? We got into a terrible muddle in our own country when supervision fell into a black hole between the Treasury, the FSA and the Bank of England. There will be more confusion when it falls into another black hole between the European Parliament, the Commission and the Council of Ministers. We will have a six-sided black hole, if that is not a contradiction, whereas we need certainty and clarity for all market operators. Even if the self-imposed test on fiscal sovereignty is passed, does he not think that we are creating immense confusion and ambiguity about the whole process of supervision of a vital national interest?
+
+Mr. Hoban
+Indeed, and that is the point that I was trying to make about the legal basis for the powers that will be used to set up these authorities. It appears to be a matter of some debate whether the appropriate legal basis is being used. If that is not clarified properly, I can foresee a situation in which the moment these authorities seek to make the first difficult decision that an institution or member state does not like, challenges in the European Court will be resorted to. At a moment of crisis, when we want prompt action to be taken, the fact that there is no legal certainty—or no appearance of legal certainty—will lead to chaos. That is why I think that it is vital that legal certainty on these powers is sought before the proposals are approved. We can debate whether the powers are right or wrong, but there must be legal certainty to avoid that chaos. The Government have a responsibility to the financial services sector in London and more widely across Europe to ensure that there is that legal certainty.
+
+Let me go back to fiscal sovereignty. As I said, the proposals create a new European systemic risk board and the June ECOFIN conclusions said that its function would be to
+
+“Define, have access to and/or collect as appropriate, and analyse all the information relevant for identifying, monitoring and assessing potential threats and risks to financial stability in the EU that arise from macro-economic developments and developments within the financial system as a whole”.
+
+It has limited powers that follow on from that analysis. It has the power to issue risk warnings to regulators and policy makers, and it can recommend legislative action where appropriate. It cannot insist on those actions being followed up—it purely has the ability to recommend. I do not think that that should cause us any concern at the moment. We are in favour of bodies on a regional or global level analysing and understanding risks and presenting their thoughts on the consequences of those risks.
+
+The three new authorities replace the existing level 3 committees and will cover the same areas of banking, insurance and securities regulation. Whereas the ESRB will lack a legal personality, the ESAs are explicitly given one. Just like the ESRB, the new supervisory authorities will research, collate and comment on relevant micro-prudential issues. They will also be responsible for developing binding, harmonised technical standards. If an individual member state is in breach of those standards, and an issue cannot be resolved, one of the supervisory authorities might make a final decision via binding mediation.
+
+We can see already that we are in danger of breaching the red lines that the Chancellor initially laid out. This is another example of the rather laidback approach that the Government have adopted to their policies. Back in June, before ECOFIN, Lord Myners said that
+
+“the Government does not agree with the Commission’s proposals to give a European body powers to change national supervisory decisions, or powers over individual firms”.
+
+That is exactly where we are in danger of heading. The ESAs will be able to act on both areas through binding mediation, in the case of disputes between national authorities under article 12, and the binding power to ensure that firms and national authorities comply with EU law when the Commission declares an emergency situation under article 10.
+
+Mr. Cash
+I agree with my hon. Friend’s analysis, but the danger is that, because of mission creep, there will be increasing control—the practitioners instinctively feel that that is coming. Those who are promoting this whole superstructure, including the Government and Lord Myners himself, would hand over the City of London, lock, stock and barrel to a supervisory authority that will insist that it has its way. That is the problem and it is completely contrary to proper market conditions. That is where the problem lies for the City, and it will end up in competition with New York instead of working across the Atlantic as we should do.
+
+Mr. Hoban
+My hon. Friend makes an important point about mission creep when it comes to these authorities, and he has been very critical of trade associations so far. However, the Association for Financial Markets in Europe has identified that as a potential issue. It is concerned that ESAs will go beyond technical issues and stray into policy. It said:
+
+“It will be important to ensure, in the context of the ‘Omnibus’ Proposal, that technical standards do indeed respect the ‘technical’/‘policy’ distinction, and in particular that they do not inappropriately constrain supervisory judgements by national authorities that are provided for in the sectoral Directives.”
+
+It also argued that checks and balances would be necessary to prevent such mission creep. There is therefore widespread recognition of the risk of mission creep, and delay is important so that we can work through the issues and say exactly what these new bodies can do, what constraints there will be on their activities in practice, and what their modus operandi and their approach to their mission will be. We also need to know what resources they will have to enable them to meddle in the activities of individual national supervisors. We are in danger of reaching a political agreement at ECOFIN and the Council without really thinking through the practical implications for London as a financial services centre. That is the challenge for the Government. Will they sign up to this tomorrow, or will they argue that the consequences have not been properly thought through? I hope that the Minister will respond to that challenge in this debate,
+
+The Minister adopted a contradictory approach. She said that the final proposal must respect the red lines agreed at ECOFIN in June, but at the same time she seemed to accept that the supervisory authorities could make a decision that had an impact on our fiscal responsibilities. She was content that a safeguard mechanism would be in place to allow us to appeal if we thought that that was happening. However, we cannot on the one hand say that there must be no fiscal impact and on the other argue for improving the safeguard clause in article 23 by tightening up the wording. We either have red lines or we do not. The Minister needs to be much clearer about that. Lord Myners, when considering the disparity between the legislative proposals and the Council’s recommendations, said:
+
+“the legislative proposals appear to go further than what was agreed by heads of state at June European Council”.
+
+We are now being promised improvements to the fiscal safeguards, but can the Minister tell us what forms these might take?
+
+There is also a challenge to the Government red line in dealing with emergencies. At the moment, the document is drafted so that it is the Commission that decides what constitutes an emergency and the ESA can override the national supervisor subject to the appeal mechanism set out in article 23. We know from our recent experience in the financial crisis that it is at moments of crisis and emergency that the interests of national Governments and taxpayers are paramount, but we seem to be allowing a situation in which the ESA, in a crisis determined by the Commission, could overrule the judgments of national supervisors and have an impact on fiscal responsibility.
+
+We want the Government to maintain the red line and stick to their principle that there should be no impact on the UK’s fiscal position. However, yesterday in the Financial Services Bill debate, when the Chancellor made his opening remarks, it sounded as though he was watering down the red line. He seemed to be going for a situation in which not the Commission but the Council declares a crisis. However, that still allows the European supervisory agencies potentially to override national supervisors, which I do not think respects the red lines agreed in June.
+
+Mr. Mark Field
+I agree entirely with the last passage of my hon. Friend’s speech. I also agree, with foreboding, that the red lines to which the Exchequer Secretary referred are likely to be largely illusory. Does my hon. Friend agree that a more sensible approach to constructing red lines—if we are to go down that path—would be to say that regulation should be dealt with at the European level and the supervisory element entirely at a national level? The overlap is obvious between a European and national supervisor. The supervision element should be entirely in national hands. That would be a sensible red line, if one is to be fought over tomorrow and in the negotiations in the months and, potentially, years ahead.
+
+Mr. Hoban
+My hon. Friend makes an interesting point. If regulation is dealt with at a European level, there is the risk that in the process of the binding mediation outlined in the documents, in a conflict between how supervisory authorities interpret the regulations, the ESAs could intervene, through that mediation, and create another fiscal impact. This is a complex area. I do not think that the Government have got their red lines in the right place, and they are certainly not defending them as vigorously as we would have hoped, given the conclusions reached in the June Council.
+
+The Labour-dominated—as Opposition politicians like to refer to it—Treasury Select Committee report made itself very clear. Paragraph 84 stated:
+
+“We recommend that the Regulations provide proper protection for the fiscal position of Member States. It needs to be far stronger than the current provisions. We do not understand why the Commission has departed so far from the ECOFIN conclusions of June this year and we insist that UK Ministers do not agree to any of these provisions until the fiscal sovereignty of the UK is protected by a veto.”
+
+That is a very robust statement and recommendation by the Select Committee. Two distinguished Committee members are here this afternoon, and I am sure that they will stand by it. It is difficult to see, however, how the Government can say that their red line has been recognised in the architecture if they do not achieve that veto.
+
+Stewart Hosie
+The hon. Gentleman said earlier that it is necessary to move quickly during a crisis, and that is absolutely right—this is not just a fiscal protection. Is it part of his argument that changes to the prospectus directive, for example, could hinder the issuing of shares and raising of cash in an emergency? The capital requirements directive, for example, is split between the European banking authority, in relation to the implementation of Basel II, and the European securities and markets authority, in relation to non-prudential issues. Is that the kind of confusion that he thinks might delay quick action in an emergency?
+
+Mr. Hoban
+Actually, my point goes back to the exchange between me and some of my hon. Friends about the legal basis of the powers, which is not clear and about which there is some doubt. That could create confusion as people seek to test whether the pronouncements of the ESAs are valid in the context of European law. That is where some of the confusion will potentially emerge.
+
+Let me move on to another aspect on which I am not entirely sure that the safeguards in article 3 are sufficiently robust. As I mentioned earlier, the ESRB has the power to propose changes in response to risks that it identifies in the European economy. It can propose actions, but it does not have a mechanism for enforcing those recommendations. The problem that I see in how the various bodies interlock is that although the ESAs have the power to ensure that supervisory authorities follow the recommendations of the ESRB, that is not covered by the safeguards in article 23. I wonder whether the Minister could assure the House that the safeguards set out in article 23 will be extended to cover situations in which the ESAs seek to implement the recommendations of the ESRB.
+
+I intervened on the Minister about the composition of the steering committee of the ESRB. I made it clear then that we want to ensure that the final document contains some recognition of the fact that there should be two bank governors on the steering committee who come from non-eurozone countries. The Minister said that she would find out how any conclusions reached in the Council could be made binding.
+
+There are a number of other issues that we could touch on in this afternoon’s debate. I have already raised a couple in interventions on the Minister, such as who will be responsible for supervising the central clearing houses. There is also concern about the scope of the European securities and markets authority. There have been a number of representations from institutions in the City of London that are concerned that the authority’s remit could impact on the takeover directive, on which there has been a hard-fought campaign to reach consensus across Europe. It appears that the takeover directive falls within the scope of the European securities and markets authority. There is concern that the authority might seek to move away from the consensus that has been achieved on the directive in respect of takeovers in the UK and undermine the work that the Panel on Takeovers and Mergers does. I wonder whether the Minister could clarify whether she expects the Government to call for the European securities and markets authority’s remit to be restricted to exclude the work on the takeover directive.
+
+I have talked about the concern in the City about whether the European securities and markets authority’s role in fleshing out some of the technical detail on directives might be extended to cover policy issues, but there are other areas of concern. For example, shareholders in the UK receive greater protection when making substantial transactions here than they do elsewhere in Europe under existing directives. Will there be sufficient flexibility in the new regime for shareholders to continue to benefit from that additional protection?
+
+Let us look at what happened in Spain in this financial crisis. Spain consciously diverged from the capital requirements directive by allowing dynamic provisioning in its banking sector, which many would argue safeguarded it against some of the problems seen elsewhere in the European financial sector. Would the European banking authority’s powers prevent a central bank from imposing those additional requirements on banks in its country? If it did, the Spanish banks would have been in a detrimental position compared with the current status that they enjoy, and central banks would have less discretion to protect depositors and taxpayers.
+
+In conclusion, there are a range of issues in the proposals before us that require further scrutiny. They also require the Government to adopt a tougher negotiating position at ECOFIN tomorrow and at the Council meeting later this month. I have to say that I am not optimistic about the Government’s chances of insisting on their red lines, because they have repeatedly left debating these matters until too late in the process. They have too often been slow in getting involved in discussions about how these directives should be shaped when they are going through the processes in the Commission, leaving it until the directives have been published before engaging in the debate.
+
+These legislative proposals have gone beyond the position agreed in the ECOFIN meeting in June and the later Council meeting, which I believe has happened because the Government have not been sufficiently proactive in engaging in the European debate. That is why Conservative Members say it is important for a senior Treasury Minister to spend as much time as necessary in Brussels and other European capitals to strengthen our opportunities to engage on these matters earlier and more effectively. We would have Ministers engage in the debate in ECOFIN, making sure that Britain’s case is strongly and clearly made. We need to bolster our operations in Brussels and ensure that more Treasury civil servants are working on European matters. We also need to ensure that the regulator continues to engage vigorously in the debate. As these new European authorities are set up, it will become even more important that we are part of that set-up and arguing for the interests of London as a global financial services centre.
+
+I think the stakes are high. The Government appear to be disengaged from the European process until the very end. Rather than engaging throughout that process, they come to life only then, trying to change already drafted documents rather than influencing the drafting. The Government’s approach always appears to be about tactics, not about strategy. The financial services sector in London is a global success story, but I think the Government, through their cavalier and insouciant approach, are in danger of putting that success at risk. By opposing the motion today, we are sending out a very clear signal that that approach needs to change and will do so only with a change of Government.
+
+17:32:00
+
+Mr. Mark Todd (South Derbyshire) (Lab)
+I burdened the House with quite a lengthy speech yesterday and I hope not to detain it quite so long today. There are some linkages, as I indicated in my earlier intervention on the Minister. First, we need to be grateful that Her Majesty’s Opposition now regard a French banker as a useful resource for advice for their proposals on regulation, instead of an opportunity for rather stereotypical cursing. We can see some evidence of progress in policy formation there.
+
+The hon. Member for Fareham (Mr. Hoban) challenged me on the possible payback that Mr. de Larosière might secure from his endorsement of Conservative policy, but we may have seen it in the hon. Gentleman’s speech. Instead of questioning the architecture and philosophy of the regulation that came from the relevant group, the focus of his speech was on process and timing. I am certainly going to touch on those things, but I will also address some philosophical concerns about this approach and the direction in which we are heading.
+
+Mark Lazarowicz (Edinburgh, North and Leith) (Lab/Co-op)
+I am grateful to my hon. Friend for giving way before he proceeds to the main points in his speech. It appears from the final comments of the hon. Member for Fareham (Mr. Hoban) that the Conservative party not only speaks highly of proposals from a French Minister, but that it wishes a Treasury Minister to take up a more or less permanent residence in Brussels in order to pursue UK interests. It seems like a welcome change that we have seen from the Conservative party today.
+
+Mr. Todd
+Let us leave it for the electorate to decide what they make of Conservative policy, its origins and its allies. I certainly listened with attention to the speech of the hon. Member for Fareham. I have to say that Conservative politicians speaking from the Front Bench about Europe always have a somewhat tightrope-like approach, particularly when the hon. Member for Stone (Mr. Cash) is in his place behind them, trying to prod them in other directions. The speech was an interesting attempt to adhere to a tightrope in spite of provocations from time to time.
+
+Let me go to the fundamentals of this issue. The previous model of what constituted not European regulation but advisory frameworks in this policy area was focused on what I would regard as the useful purpose of enabling information and practical experience to be exchanged between regulators in the various marketplaces.
+
+Not everyone feels that talking shops have value. For instance, the Governor of the Bank of England has made a number of entertaining and, one might say, dismissive remarks about de Larosière’s thoughts on this area of European intervention. When questioned about the future function of the European systemic risk board, he said:
+
+“Whether this body turns out to be a mere talking shop or a useful talking shop, in terms of an exchange of views and ideas being generated, remains to be seen—that is up to the people who sit on it. We will see. I go to vast numbers of international meetings and I cannot claim that most of them live up to the billing that one would hope. Nevertheless, as I said, hope springs eternal—cautious, moderate hope for this committee—and we will do our best to try and raise the level of debate.”
+
+There is certainly evidence that some of the international gatherings that are organised to discuss even the more practical issue of regulation may have relatively little value. However, let us take a slightly more optimistic position than that taken by the Governor of the Bank of England, and suggest that these forums for the exchange of information and experience may have some value. What I have puzzled over is the question of what added value results from an extension of that role of information exchange and experience exchange into an activist regulatory framework. That is what the proposals before us represent, not in their fully evolved form—as I shall explain later, I believe that we are moving along a ramp towards a rather higher level of intervention than we see before us now—but certainly in the early stages of establishing a European regulatory framework in the relevant marketplaces.
+
+I have no principled objection to such an extension as an idea—unlike the hon. Member for Stone, who certainly would—but I should like to see a demonstration of the practical added value that would result from the additional layer of regulatory intervention. I have not seen a case proven which shows that the establishment of some European regulatory framework will cause our consumers to be better protected, our taxpayers to be better protected—from chaos—or the individual trading entities within our nation states to be better protected.
+
+Stewart Hosie
+Is it not the case that we will probably end up seeing the European regulatory framework body negotiating with the United States, Japan and others? That, surely, will be the level at which global negotiation will take place, as in the case of trade talks. Is this not an interim step in that direction? Rather than 200 countries negotiating and concluding on a framework global regime, a European body will conduct negotiations on our behalf.
+
+Mr. Todd
+That is the model for trade negotiations now, and it would certainly be a possible logical outcome of this approach. My constituency does not contain a financial services community—people make things there, and I am glad of that—but financial services constitute an important part of our economy. I respect that position and would wish to defend it, but I do not think that that would be the best means of defending it.
+
+I am not persuaded that the case has been properly made, but if we accept that the intellectual basis of these changes is a wish to improve market functioning to ensure that we have a single market that works more effectively, and to increase the resilience of that marketplace—in other words, if the aim is the protection of the various entities to which I referred earlier—I am not sure that that will result from the actions we are taking in agreeing to the establishment of these agencies. I would like that case to be set out in practical terms—what does this mean, and how will it deliver added protection and added value in this critically important sector of our economy?
+
+There is also the issue of deciding both how we are to proceed and how these bodies will operate once they have been decided on and set up. The decision-making process is somewhat strange. I devoted some time to this issue in Treasury Committee discussions. We have by far the largest financial services sector in Europe, yet in the decision-making framework and processes of these bodies—and they will be making decisions—our voice appears to have no greater weight than any other member state. We therefore face some risk of having to spend a significant amount of our time seeking to persuade regulators and their representatives from member states with tiny financial services sectors of the merits of our arguments in horse-trading discussions on technical matters that are largely irrelevant to them, but which they nevertheless have a say in and a vote on. One has to wonder about the merits of that.
+
+Let me relate an exchange I had on this subject with Lord Myners in the Treasury Committee. I pointed out the rather different degrees of importance of the financial sector for various member states, and he said:
+
+“I think we would expect our voice and credibility to be reflective of the significance of the financial services industry. Of course it is also worth remembering that we have consistently made the case that European legislation and proposals must be evidence-based and must be the consequence of proper consultation with an impact assessment. We have seen things come out of the Commission which do not meet those criteria”.
+
+I hinted to him that I had heard a suggestion that one of those things was the venture into hedge fund regulation, and he said, “Absolutely.” I asked whether that exemplified the problem of constructing European responses in sectors where one nation state has virtually no industry at all and another has a very large industry. He replied:
+
+“One would expect those nation states which have the greatest economic interest in this area to be the leaders of debate and discussion, as indeed you would over aspects of European policy such as fisheries or agriculture.”
+
+I have spent a considerable chunk of my parliamentary life debating fisheries and agriculture, and I do not find great reassurance in such a reference to the decision-making processes on those matters within Europe. What we have, therefore, is a hope—or an expectation, to refer to the word used by the Minister—that Britain’s voice on these matters will be heard loud and clear. I must admit, however, that I would like more than a hope, and even more than an expectation, that we will be able to protect our interests when decisions are made.
+
+I had expected to hear some of the points I am making from official Opposition Members, but such is their new love-in with Mr. de Larosière that perhaps they have tempered their thinking in this area. We shall see.
+
+Mr. Hoban
+This is exactly why we have said in our paper on financial regulation that we want to have more engagement—so we can lead that debate in Europe. The  problem at present is that the Treasury is absent from leading the debate, which is why we have ill-thought- through proposals such as the one to which the hon. Gentleman referred: the alternative investment fund directive.
+
+Mr. Todd
+That is a slightly slippery response, because that is not the point I was making. I agree that the physical presence of Ministers and their activist role in negotiation is important, but I was addressing the outcomes of such negotiation, even in cases where they are there arguing their case. The hon. Gentleman chose not to comment on that.
+
+We seem to be heading down a path, and I can see where its origins lie. There was an understandable reaction to financial collapse—I sense a lack of confidence, to some extent, in the Anglo-Saxon models of financial services—and a space opened up for activism at the European level. I can well understand how that arose, but I am concerned to ensure that we limit this progress as far as possible. Some red lines can be drawn, but my worry is whether the lines are really red, or pink. Given the decision-making process, about which we have had much more informed discussion, I am not utterly persuaded as to how hard we will be able to hold to those red lines if others do not endorse our positions, however rationally we put them.
+
+I want to set out what these red lines should be, although most of them have been mentioned. First, there should clearly be no intrusion into the fiscal responsibility of individual member states. The hon. Member for Fareham quoted from the Select Committee report. Hon. Members may contradict me if I am wrong, but I believe that I strengthened some of that report through our debates, and, thus, I endorse its sentiments. Secondly, there should be no ability—I stress the word “no”—for any of these agencies to intervene over the heads of the national regulator; they should not be able to intervene individually with companies or to direct the role and actions of the national regulator. Neither of those activities is an appropriate function for the individual European agencies.
+
+Thirdly, I can see no value in setting aside a particular function in an “emergency”—quite how one defines that is another matter—to any of the European agencies. Such an approach appears likely not only to raise the issue of legality, which has been touched on, but, more practically, to get in the way of the urgent action that will be required in many instances. I dread to think what would have happened if we had felt that the most appropriate response to the collapse of the Icelandic banking system and its consequences in the UK was to ask some European agencies how best we should deal with that. Criticisms of how the Government acted in that instance have been made, but I am much more comfortable with having those decisions made by a UK authority in the interests of UK taxpayers and account holders, than with passing the task to a European agency.
+
+Christopher Fraser
+The hon. Gentleman therefore surely agrees with me that the word “emergency” is so ambiguous that the Government need to define better its meaning and applications.
+
+Mr. Todd
+Probably, but I might be even more absolutist, in that I cannot conceive of an “emergency” in which passing the task to a European agency would genuinely add value in dealing with a crisis. The task is to act with urgency in many of these circumstances, and to consult as fast as we reasonably can with others.
+
+We all recognise that the financial services sector crosses borders, and entertaining one-liners have been thrown into the debate about financial services businesses being global in life but national in death. That is obviously true but, in practical terms, it is individual nation states that must make the rapid responses.
+
+For all those reasons, I hope that the Government will act with firmness and a clearer philosophical determination about what is in the best interests not only of our financial services sector, important as it is, but of our taxpayers and our nation as a whole. We have conceded some ground already and, although I have doubts about how far we should have gone, I accept what has been done. We should now make sure that any regulatory framework that emerges from this process clearly adds value to the sector. In addition, it must not intrude on the nation state’s role in the regulatory operation of the financial services sector, or on a Government’s fiscal responsibility to secure the successful rescue of any business.
+
+17:51:00
+
+Mr. Jeremy Browne (Taunton) (LD)
+I begin by congratulating the hon. Member for South Derbyshire (Mr. Todd) on his speech, in which he appeared to be auditioning for the role, in the event of the Conservatives winning the next general election, of the new banger-together-of-heads in Brussels. Whereas the hon. Member for Fareham (Mr. Hoban) made a rather equivocal speech from the Conservative Front Bench, the hon. Gentleman gave us something a bit more robust in respect of defending the national interest. I look forward to his being a GOAT after the next general election, if indeed there is a change of Government, and to watching him enjoy a suitable lifestyle in Brussels while he defends our national interest, with zeal and on a daily basis.
+
+The backdrop to our deliberations this afternoon—and, indeed, yesterday and for many months—is the huge regulatory and systematic failure of our financial system. That failure has had huge and ongoing consequences and ramifications for our economy, our banking sector and our tax burden. It also led to the enormous deficit that we as a country are continuing to finance, so those who would like to wish away the circumstances surrounding this debate must face up to the fact that we are living now in a situation that is very different from the one that existed a year or two ago. We have to ask some fundamental questions about how we got into this position, and how we respond to it.
+
+The fact that the UK has the largest financial sector is the main, but not the only, reason why we found ourselves particularly exposed when the system failed. That is why many people in Europe might observe that our representatives around the table in Brussels tomorrow will have as much reason to listen as they have to talk, and that there may be aspects of our performance that could be improved on.
+
+The widespread enthusiasm for greater regulation is an instinctive and natural response to failure of the type that took place. People feel that we must regulate with  more zeal and a greater desire to intervene: I believe that the Conservative spokesman, the hon. Member for Fareham, used the expression “proactivity”, and I am sure it is true that we need to be more proactive in that regard, although people mean different things when they talk about regulation. Some want banks to be split up, others want an end to the tripartite arrangement in the UK, while still others fixate particularly on the bonuses paid to people operating in the financial services sector.
+
+There is a tendency to lump all those concerns together and to demand greater regulatory intervention in the financial services sector, but how we regulate and how fast we should do it remain open questions. The debate in this country is obviously very much alive, as we saw when we discussed the Financial Services Bill yesterday, but the global circumstances of the collapse that we have just experienced are without precedent. The effects of recessions in the past have of course moved from one country to another, but the consequences of failure are more profound now thanks to the greater interconnectivity and inter-reliance of the financial services sector.
+
+Many people have observed that our status as such a big financial centre proved to be a mixed blessing. As the hon. Member for South Derbyshire noted, the banks located in London were global institutions yet the burden of picking up the bill when things went wrong was national. The problem was that those institutions were so big that it was difficult even for a national economy as large as the UK’s to deal with picking up the bill without huge implications for Government borrowing and indebtedness, and the Government’s exposure in that regard has had many ramifications.
+
+Mr. Cash
+Does the hon. Gentleman agree that it is totally crass for the Government to hand over the running of financial services to the EU, and then to saddle themselves with the responsibility for bailing people out when things go wrong? How stupid can you get?
+
+Mr. Browne
+I am not aware that anyone in this debate has proposed that course of action—
+
+Mr. Cash
+It is what this is all about.
+
+Mr. Browne
+The hon. Gentleman says, from a sedentary position, that that is what this motion is all about, but the nub of the debate is whether that is the case. I shall deal with that in a moment, but we all acknowledge that these enormous financial institutions have tentacles that reach into many different markets. That is why it is appropriate for us to ask ourselves whether the regulatory regime that monitors them should have a similar scope, and a dimension to its activities that reflects the scale and nature of the organisations being regulated.
+
+Because we have the most advanced financial services sector in Europe and are the dominant players in the market, the proposals before us today could have some benefits for the UK. A market whose general regulation applies the same rules to all European countries could present opportunities for us to achieve greater profitability and wider expansion, as long as there is no improper restriction of our financial services sector. That is important, because regulation must not restrict legitimate competition.
+
+I believe that people sometimes reach for regulation—in financial services or any other sector—as a way to try and bring about a lowest-common-denominator uniformity. There should be robust competition between institutions, as that will ensure that they are profitable and successful and offer value for money to their customers. There need to be safeguards, and we have to learn the lessons of the massive failure that has taken place, but we must not restrict financial services institutions to the extent that they are unable to compete and develop in a meaningful and beneficial way.
+
+The point has been made by others, including the hon. Member for Fareham, that the system being proposed has been advanced with great haste. Of course, that is also the view of the Treasury Committee. Its initial report, which was published on 11 November—although that was only a few weeks ago, the report has already been overtaken by subsequent publications—said:
+
+“While the intention of the new regulations is widely welcomed, there is a great deal of unease about the detail. There is still more unease about the speed with which it is hoped to agree them; the Presidency is pressing for their adoption by ECOFIN at the Council on 2 December. We consider that is far too fast: the proposals will set in place a framework which should last for many decades, and there should be proper time for consideration.”
+
+I do not know whether the deputy Chairman of the Committee, the hon. Member for Sevenoaks (Mr. Fallon), will speak about that observation further, but it is a reasonable point. The horse has already bolted, so there is not such a degree of urgency to deal with the risk because, I hope, the chances of a similar failure happening in the immediate future are modest. We are trying to deal with the long-term response to the dramatic failure that has already happened, but there is no great pressure on us to act right now. I share the view of the hon. Member for Fareham that it would be better to spend more time on this and get it right than to try to put in place unsatisfactory measures with great, and perhaps excessive, haste.
+
+The Government need to take seriously several issues relating to the proposals that will be considered by the EU tomorrow. My fellow Somerset Member, the right hon. Member for Wells (Mr. Heathcoat-Amory), who is no longer in the Chamber—he clearly lacks my zeal for this subject—asked the Minister about the system for appointing the people who will sit on these regulatory bodies and to whom those people will be accountable. I hope that the Minister will respond to those points. I understood from what she said that while she had some views on accountability, she was less clear about the appointment process.
+
+The right hon. Gentleman’s question was legitimate, not least because, as I tried to suggest in my intervention, we all know that member states have different opinions on the way in which the financial services sector should be regulated. There is widespread suspicion in France about the so-called Anglo-Saxon model of capitalism, and those in France feel somewhat vindicated by the events of the past few years. There is, however, a different consensus in Britain. The three main parties sometimes have more in common with each other than we do with the consensus in other EU member states. It is important that there is transparency in the appointment process regarding who gets to occupy a position and to whom they will be accountable.
+
+It is also important that the status of the City of London is recognised and not damaged. The hon. Member for South Derbyshire expressed the view that, given that Britain is so dominant in this regard, it would be weird if that was not reflected in our ability to contribute to the deliberations. However, others in the EU might dispute that principle. On that basis, member states that share land borders with non-member states might say that their input into discussions on border security should be greater than that of the United Kingdom, which is in a different position. The hon. Gentleman cited fisheries as an area in which some countries have a greater stake than others. I imagine that Austria, for example, is less preoccupied with that matter than Britain, Spain or France. There are therefore problems with the hon. Gentleman’s proposal, but we nevertheless have a clear national strategic interest that the Minister needs to address.
+
+I agree with those who say that fiscal policy is a matter for member states, in which regard I hope to catch the attention of the hon. Member for Stone (Mr. Cash). He is right that taxpayers in his constituency and mine, not French and German taxpayers, have financed the bail-out of the banks in the United Kingdom. We therefore have to be confident that the taxpayers whom we represent will not be left to pick up the tab without our having the ability to regulate the institutions that they ultimately have to protect. It is right and sensible that fiscal policy is the preserve of member states, and that should be a settled matter.
+
+The Minister needs to give greater clarity, perhaps in her winding-up speech, about the interaction between what is proposed and national systems of regulation. If we in this country are to review the way in which we regulate our financial services sector—for example, the Conservative party has radical and far-reaching proposals in that regard—that process cannot be seen in isolation from what is considered suitable on a European scale.
+
+The Minister needs to satisfy herself on several details during both the European negotiations and her deliberations in London. For example, what are the procedures for data management and security? If the financial services and banking sectors are to be regulated, that will presumably require large amounts of information to be imparted, some of which might be highly sensitive or confidential. It is only right that we should be satisfied that such information will be handled in a suitably discreet and appropriate way. I accept that that point is not the absolute nub of the argument—perhaps it is a secondary issue—but it is important that any system put in place functions effectively. We should not find British institutions, or even British individuals, being put in an unfortunate or undesirable position as a result of malfunctioning European regulation.
+
+Christopher Fraser
+We will.
+
+Mr. Browne
+The hon. Gentleman says that we will, but I want to safeguard against that. I do not wish to have a disagreement with him—certainly not on this subject—but if we agree a system, it must be robust, and we must test its ability to do its job properly to at least the same extent as if we put a system in place in this country. We do not want to introduce a system with undue haste because of a desire to be seen to be co-operating at a European level and acting with a degree of compromise to ensure that other countries’ considerations are taken on board, and then to find that those factors lead to structural deficiency in the mechanisms that are put in place. If such a thing happens, we will come to regret it when the systems are tested to destruction as they step into action to try to respond to a future shock.
+
+I observe the paranoia in the Conservative party whenever we discuss anything to do with the European Union. There is a belief among Conservative Members that every negotiation in the EU should involve setting out Britain’s fears about co-operating with any other like-minded country before going into the negotiations with a determination to protect our position, rather than trying to engage in a sensible exchange with other EU countries. We have a lot of interesting knowledge and many observations to impart, but we might also have interesting things to learn from other countries, because our country has not covered itself in glory. If the Minister starts tomorrow’s negotiations by saying that we have lots of red lines because the way in which Britain has regulated its financial services sector has been so brilliant that everyone else had better learn from us, she might find that that is not the best way to reach the conclusion that is most beneficial for Britain.
+
+Mr. Cash
+The hon. Gentleman betrays a remarkable lack of knowledge about the extent to which the French in particular and the Germans, who are also going for the European bank, have set their hearts, minds and political will on doing as much as possible to ensure that the City of London does not survive as the main centre in Europe. The hon. Gentleman is completely and totally off the wall.
+
+Mr. Browne
+I do not know if I am grateful for that intervention. When I spoke about paranoia about the European Union, I did not necessarily have the hon. Gentleman in mind, although he may have identified with that feeling. There are many good reasons why London should be the financial services capital of Europe, as it offers entrepreneurial dynamism and labour market flexibility, and the fact that we speak English helps. We should not be burdened by regulation. In fact, I made the point, which no one else has made, that regulation should not be a byword for dumbed-down lowest-common-denominator uniformity. It should allow competition and innovation, and in those circumstances we should be confident that London and Britain can do better than other European countries such as France and Germany. I have also advanced the reasonable argument that it would be a mistake to go into the negotiations patronising other EU countries by telling them that they have everything to learn from our regulation of the financial services sector and we could not conceivably learn anything from them, even though the evidence of the past few years suggests otherwise.
+
+I wish the Minister well, as this is a valid exercise. In a world of global interdependence there is a role for a European dimension. We need to make clear the parameters of that role and where nation states should rightly retain pre-eminence—that has been usefully discussed today. I do not share the somewhat paranoid perspective, in my view, of the hon. Member for Stone and others that any discussion of a European dimension to regulation is inherently bad. There is a role for it, but we must make sure that it is proportionate and that there are clear lines so that we do not have confusion the next time there is a financial crisis about which regulatory systems have which responsibilities.
+
+18:12:00
+
+Mr. Michael Fallon (Sevenoaks) (Con)
+I remind the House of my interests recorded in the register.
+
+It is not at all clear after 21 minutes of oration from the Liberal Democrat spokesman exactly where his party stands on the proposals, and whether in fact it would not just wave them through. The hon. Member for Taunton (Mr. Browne) asked for a little more clarity, for safeguards on data protection and so on, but it is not at all clear where his red lines lie. He accused Conservative Members of paranoia, but I draw to his attention the Treasury Committee report on the proposals, which is lying on the Table and which was signed by the two Liberal Democrat members of the Committee. The criticisms that the Treasury Committee made of the proposals were made by all parties in the House, particularly by the two Liberal Democrat Members who signed up to the report.
+
+The proposals are deeply flawed and damaging to the City of London and Britain, so they must be resisted. In my view, the Commission has gone far beyond the remit that it was originally given by the European Council in June, as the proposals seek to supervise not only the domestic regulators but domestic private financial institutions in member states. They have a dubious legal basis, as our Committee identified and as we have discussed. They would transfer much more supranational authority to the Commission than was originally envisaged, and they remove, in their current form, all the safeguards that the Heads of Government themselves wanted to include to protect their national taxpayers.
+
+Not only have the proposals been drawn up in great haste, as hon. Members on both sides of the House have pointed out, but they ignore the work under way in other international forums. Proposals have emerged from the G20, and new work is under way to produce proposals in the Basel committee. Proposals have emerged from Congress with which these proposals, in the end, have to sit, otherwise we may well find that we are once again in the midst of the kind of regulatory arbitrage that got us into difficulty before, as we are dealing with finance houses that are increasingly global in operation.
+
+In my intervention on the Minister, I pointed out that in the draft as it stands there is absolutely no guarantee that the non-eurozone countries will be properly represented on the proposed European systemic risk board. To me, and I think to my hon. Friend the Member for Fareham (Mr. Hoban), that should be a red line that applies not simply to the United Kingdom but to other important financial countries such as Sweden that are outside the eurozone. It is essential that the non-eurozone countries are represented on the board, and I hope that when the Minister makes her winding-up speech, she will make it clear that that is in fact one of the Government’s red lines and is not simply an aspiration. We should not agree to a proposal to set up the board if it does not include proper representation as a requirement for the non-eurozone countries.
+
+Another problem is the kind of powers that the ESRB will have. Some witnesses who appeared before the Treasury Committee thought that it would be something of a talking shop, but that is no bad thing. Across the European architecture, there should be some way for the ECB governors and others to meet to discuss the issues collectively—that was the bit that was missing between the ECB and the national supervisory authorities before, and I do not oppose it. Equally, however, our conclusion was that the board may well be more effective than simply being a forum for discussion, and we said that
+
+“it would be a mistake to underestimate the extent of the ESRB’s potential to trigger real effects”.
+
+Again, I should like to hear from the Minister whether it is the Government’s position that the board should be more than a discussion group, and that she is prepared to concede that it should have some real influence. After all, as we pointed out, if the three so-called ESAs are set up, their chairmen will serve on the ESRB and I suspect that in time it will become an important forum.
+
+The Treasury Committee was unsure of the proper basis for the powers that will be delegated to the supervisory authorities. If they have powers to ensure compliance with EU law, that takes them to the very edge of European law. If the powers that are granted to them are new, they are outside the existing powers in the treaties, so the legal basis for those supervisory authorities is extremely tenuous. However, the powers that they are giving themselves are not tenuous—they are very clear. In articles 9, 10 and 11, the supervisory authorities will have direct power to give instructions or directions to individual financial institutions. In other words, the European banking authority could issue an instruction to Barclays bank in the UK, to HSBC, or even to the Royal Bank of Scotland, which is taxpayer-owned. An instruction may be received from the authority that would override other interests, including those of shareholders and taxpayers.
+
+We need to be much clearer which directives the banking and other supervisory authorities are supervising. We were told in evidence to the Committee that various directives might have to be amended to enable the supervisory authorities to supervise the bodies concerned. Again, before we set up these authorities to supervise other bodies, we should be clear exactly what is being supervised.
+
+There is also the issue of an emergency situation. It is wrong that the definition of what constitutes an emergency situation should be left to the Commission, of all people. Indeed, as the proposal is drafted, it would simply be for the Commission to decide that there are some “adverse developments” somewhere across the European Union. It can then declare an emergency situation, which triggers a series of new executive powers. That is not the Commission’s job, nor is the Commission the right body to do this. The Commission does not have a balance sheet or a direct relationship with the European Central Bank, and it has no interest in protecting the interests of national taxpayers.
+
+Mr. Cash
+Does my hon. Friend agree that the European Commission, being the ultimate bureaucratic executive and the responsible body—these regulations are about regulatory arrangements and are the highest of legal instruments that must be implemented by member states—is acting in a manner that will inevitably lead to a non-competitive environment, because the Commission itself is basically undemocratic? It is bureaucratic, and all the fears that my hon. Friend has expressed will come about because of the failure of the culture within the European Union to understand that that is the basis on which the Commission operates, and it should not be allowed to do so. The Government are seriously in error and should be condemned for allowing such a situation to come about.
+
+Mr. Fallon
+My hon. Friend makes his point, again, extremely powerfully.
+
+I still think that the Commission is the wrong body for the task, and I am somewhat encouraged that in evidence to us, Lord Myners said:
+
+“I cannot conceive of a situation in which the Commission would be the natural body to be able to formulate a view on what constituted an emergency situation.”
+
+Given that those are the words of the Financial Services Secretary in evidence to the Committee, I assume that that must be a red line for the Chancellor tomorrow. We need to remove any suggestion that the Commission should declare an emergency situation, and ensure that our interests are properly protected.
+
+My final point is one that has been touched on by hon. Members on both sides of the House—the fiscal safeguard. In the conclusions of the European Council in June, the Council was emphatic, and the Prime Minister repeated the exact wording here in the House, that these arrangements
+
+“should not impinge in any way on the fiscal responsibilities of Member States.”—[Official Report, 23 June 2009; Vol. 494, c. 661.]
+
+However, we now see in the drafts for all three authorities that if a member state feels that its fiscal responsibilities may be impinged by the powers that are exercised, under articles 10 or 11 it can appeal only to a majority vote of the Council. That is no safeguard at all, when the United Kingdom or another member state can be outvoted after a discussion as to what constitutes an impingement. That is not satisfactory.
+
+We know that the proposal is not satisfactory because in its justification of the power, the Commission argues that the appeal power should be exercised sparingly. It may be that the Commission does not want any dispute to arise and hopes that such a dispute will never arise. It does not want the power of appeal to a majority vote to be exercised under normal circumstances.
+
+The other great weakness of the fiscal safeguard is that it extends only to action under articles 10 and 11. It does not extend to article 21 powers, after a warning by the systemic risk board, which may follow from the declaration of an emergency situation by the Commission. All parties in the Select Committee were very clear, as has already been read out to the House, that the veto must be available and must be absolute. I appeal to the Minister to reassure the House that standing behind that veto and ensuring that we are not put in the position of relying on a majority vote will be one of the red lines in Brussels tomorrow.
+
+I fear for the consequences of these proposals if they go through in anything like their current form. I see a recipe either for endless conflict between the new European  supervisors and our own domestic supervisor, the Financial Services Authority, or for the Financial Services Authority to be treated simply as a consultative body—one of the parish councils of Europe, its opinion asked for and then ignored.
+
+It is bad enough that, through the neglect of its European policy, we have ended up with the future regulation of the City of London now in the hands of a French Commissioner. That will be extended by these proposals so that we are in the hands not only of a French Commissioner, but of a band of supranational authorities. That will be very damaging to London, to the United Kingdom and to the European Union, of which London is such an important financial centre.
+
+I am depressed by the attitude of the Minister and the Government. Throughout the evolution of these proposals, they have been silent, lackadaisical and complacent. The red lines have kept shifting. The Minister did not mention red lines today. She had to be challenged each time to get out of her what the red lines might be. It was an ill omen that the Government have conceded all three of the top economic jobs to non-British nationals. We need, above all, a Minister who will stand up for British interests in Brussels. If this Minister cannot and this Government will not, they should make way for somebody who will.
+
+18:27:00
+
+Christopher Fraser (South-West Norfolk) (Con)
+It gives me great pleasure to speak after my hon. Friend the Member for Sevenoaks (Mr. Fallon), a person who has proved time and again that he understands the issues and is a wise and sage voice in this debate.
+
+There is no question but that our financial institutions and the City are undergoing a difficult and challenging time, and there is no doubt that reform of our financial system is necessary. We need better and more effective oversight of the financial services sector, a banking system that properly supports small business, and recognition that the current tripartite system needs replacing. However, any changes made must not come at the expense of the City’s competitiveness and ability to innovate.
+
+Last month the World Economic Forum announced that the City of London had overtaken New York as the world’s leading financial centre. That is excellent news. The City’s long-term success will play a key role in boosting our economy at home and the wider European economy. Given that the Government have given away the vital role of Commissioner for the Internal Market and Services to France, as my hon. Friend pointed out, and to a politician who has a reputation for stringent protectionism, can the Minister tell the House what assessment has been made of the direct implications of this new appointment for the City of London? It is an extremely important point, which I hope the hon. Lady addresses when she winds up the debate shortly. Does she accept that future growth in this country could be undermined as a result? Why was not the Government’s priority to ensure that that Commissioner’s job came to the UK, for the reasons that I have just described?
+
+The proposals before us seek to create three European supervisory authorities with rule-making and binding mediation powers: the European banking authority, the European insurance and occupational pensions authority and the European securities and markets authority. The regulations also establish the European systemic risk board, which will allow for macro-prudential oversight of the financial system, but it is worth repeating some of the Treasury Committee’s report, which was published earlier this month and has been referred to many times in this debate. It states:
+
+“There is a great…unease about the detail. There is still more unease about the speed with which it is hoped to agree them… the proposals will set in place a framework which should last for many decades, and there should be proper time for consideration.”
+
+Does the Minister share the concerns of that Committee? If not, will she admit that the Government are placing the need for new systems of international regulation above the need for careful consideration and impact assessment? Does she envisage the proposals being approved by 2 December, which after all is only tomorrow, as the Swedish presidency has called for? I am not clear whether she suggested earlier that things will go through as planned or whether she was sitting on the fence, because she was not quite clear about what will actually happen. She has a valuable opportunity this evening to outline in more detail what she envisages happening at the discussions tomorrow.
+
+I am sure I do not have to stress that putting forward without proper examination proposals that have far-reaching and serious consequences for the UK’s financial sector could genuinely be detrimental to us here in the United Kingdom. I understand that the Government had hoped to secure a rotating chairmanship of the ESRB, but they failed to do so. Will the Minister elaborate on those negotiations? They are crucial to the way in which we consider the proposals before us.
+
+Are the Government satisfied that the structural arrangements for the ESRB are in Britain’s interest? From today’s discussions, I am not so sure that there is a great consensus on that in the Chamber, and the Minister owes it to the House to be clear about that. The Treasury Committee’s report also highlighted concerns about the size of the board. What is the Minister’s assessment of the Committee’s comments in that respect? Does she accept that with more than 60 institutions represented, the decision making of the ESRB will be neither effective nor efficient?
+
+I have concerns about the capacity of the three European supervisory authorities to give binding technical standards to member states and, directly, to institutions in emergency circumstances. I should like to put to the Minister yet again the question that has been posed several times in the debate: can she be more specific about what will qualify as an emergency circumstance? What safeguards will be put in place to ensure that the powers of national regulators—this is the crucial part—are not undermined? Any decisions that have fiscal implications for the British taxpayer should, without a doubt, remain with national regulators, but it is unclear how that corresponds to the supervisory authority’s ability to make binding decisions. I should very much like the Minister to clarify that point to me and to the House this evening.
+
+Following that, there is a concern that the powers associated with the ESA might run contrary to what is allowed under current EU legislation, so what is being done to resolve those very reasonable concerns? The Minister will be aware that some hedge fund managers and other financial service professionals are moving offshore, to places such as New York and Switzerland, to avoid tighter EU regulations and heavier tax burdens. That has to be worrying news, and the Government must do all they can to ensure that private firms are given the proper incentives to operate in the United Kingdom, albeit ethically and responsibly. That must be taken into account when we consider how we operate from here on in, given what has gone on in the past.
+
+What is the Minister’s response to the news that some private firms are choosing to move out of the UK? That point has not been addressed in the debate, so I hope that she will spend a couple of minutes telling the House her view, because that move has wider implications for the financial centre in the City of London, for the companies dealing in hedge funds and for all the other organisations and companies that serve that industry. That move will have ramifications for employment prospects in the City and beyond as a result. Is she concerned that it will set a precedent, and that further regulation will exacerbate the problem?
+
+I worry that reform of financial services regulation will harm the UK’s financial services sector if it is undertaken without due care and, most importantly, consideration. We must ensure that our economic interests are fully protected and, importantly, upheld, but Ministers have been too slow to defend in Brussels the interests of the City. That was demonstrated neatly by the recent internal markets commissionership, as I have already described. I wait to see how the Government approach the redrafted directive on alternative investment fund managers, and I call on Ministers to ensure that any proposals enhance the UK’s financial industry, rather than damage it in the way that my hon. Friend the Member for Sevenoaks described.
+
+As I stated as the start of my speech, the City is the world’s financial centre and the UK Government should lead and drive the debate about regulatory reform. So far, all the evidence points towards Ministers taking the back seat. That is the wrong way to go forward in the best interests of our nation and our standing on the world stage.
+
+18:37:00
+
+Sarah McCarthy-Fry
+I thank all hon. Members for their participation in this debate. There has been a theme, in that the hon. Members for Sevenoaks (Mr. Fallon) and for South-West Norfolk (Christopher Fraser), and others, said that they did not believe that the Government were engaged. I disagree and assure them that the Government have been, and continue to be, heavily engaged at official and ministerial levels. Indeed, over the past months UK officials have consulted on and discussed the key legislative proposals with numerous member states. Those meetings have informed others of our positions and enabled us better to understand our European partners’ views. We have strong working relationships and regular dialogue throughout the EU.
+
+On hedge funds, the alternative investment fund managers directive, which has been mentioned, is a key example of a situation in which the Commission’s initial legislative proposal was unacceptable. As a result of significant work by officials and Ministers, however, we have seen considerable improvements to it, and my noble Friend Lord Myners has personally committed a substantial part of his time to achieving a good outcome for the UK on EU directives. He has had useful discussions with many EU stakeholders, including Members of the European Parliament, the Swedish presidency and the incoming Spanish presidency.
+
+Many hon. Members spoke about the timetable, and we were very clear that national Parliaments needed time to scrutinise the proposals. The Chancellor’s view at the October ECOFIN meeting was that October was far too early to sign up to a general approach, but we always said that we would aim for agreement on the complete package by December, and that was included in the explanatory memorandum.
+
+The timeline was set out at the June European Council. We hope that tomorrow, ECOFIN will agree on the general approach, which will then become the Council negotiating position through the European Parliament. The European Parliament, through its Committee on Economic and Monetary Affairs, will agree its negotiating position; the Council presidency, the Commission and the European Parliament will identify, if necessary, a compromise position; changes will be approved, or otherwise, by ECOFIN in the spring; and the European Parliament will vote on the agreement. That is the timetable.
+
+The hon. Members for Fareham (Mr. Hoban) and for South-West Norfolk, and many others, spoke about last week’s Commission appointments. I think that those decisions, and those taken by the European Council, are good for Britain, good for Europe and good for Britain in Europe. We have, in Baroness Ashton and her appointment as High Representative for Foreign Affairs and Security Policy, someone who gives Britain a powerful voice in the Commission and the Council, and she is the only commissioner to have a key role in the Council, too. As vice-president of the Commission, she will have a central and important role in driving progress across the full range of issues. She will be able to speak up on and have influence over all the issues, including those that matter most to the British public—economic recovery, security and tackling climate change.
+
+On the appointment of Monsieur Barnier, it seems strange that some Frenchmen are wonderful and some are not. People are happy to quote Monsieur de Larosière but not so happy with Monsieur Barnier. I hope that hon. Members will note what he said in an interview on the radio yesterday:
+
+“I know the importance of the City. I know the importance of this major financial centre for growth in Britain and the economy of Europe as a whole.”
+
+Stuart Fraser, the chairman of the policy and resources committee of the City of London Corporation, has said:
+
+“I have every confidence that, together, we can forge a constructive working relationship.”
+
+We believe that in his hearings before the European Parliament, Monsieur Barnier will demonstrate his commitment to valuing and promoting the interests of the City of London as Europe’s principal financial centre.
+
+In addition, Britain will have a number of senior official posts in the new Commission. Monsieur Barnier has asked the President of the Commission, in the course of the next rotation of director general appointments, to appoint an official he knows well and has worked with before—Jonathan Faull. President Barroso has said that he intends to appoint a senior British official to lead work on economic and financial issues in his cabinet. We understand from Monsieur Barnier that there will be a senior Briton in his cabinet dealing with financial services, and that he will want someone who is known to the City.
+
+Christopher Fraser
+Will the Minister please answer my question about what assessment she has made of the implications of these new appointments for the City of London? It is all very well giving us the CVs of the different people involved and quotes from other people, but we in this House need to know the Government’s view on the direct implications for the City.
+
+Sarah McCarthy-Fry
+I thought that that was what I was doing in quoting Monsieur Barnier when he said that he sees the importance of the City of London, not just to the UK but to the EU.
+
+A couple of hon. Members said that the fiscal safeguard clause appears to be contradictory, because if this is covered in the legislation we should not need an opt-out clause. The whole point is that it should, in practice, never need to be used. It is clearly stated in the legislation that the ESAs are required to ensure that they do not impinge on member states’ fiscal responsibilities, so that is not a problem.
+
+Mr. Hoban
+The Minister makes that assertion, but it is possible for the ESAs to override national supervisors to make decisions that impact on fiscal responsibility, and that member states then have to appeal against. Clearly the Government’s red line is not being respected in this area.
+
+Sarah McCarthy-Fry
+The Government have a very clear red line in this area. Is the hon. Gentleman saying that the clause should not be there at all? We are very clear that the new framework should not impinge on member states’ fiscal responsibilities.
+
+Let me turn to the legal basis and respond to some of the detailed questions on that. On the delegation of powers to the ESAs, the Commission is, as the European Scrutiny Committee has recognised, legally able under the treaty to delegate powers to the new supervisory authorities where it had that power in the first place and where the decision-making powers delegated do not involve wide discretion. We are looking closely at the element whereby, under the current legislative proposal, the supervisory authorities appear to be able to exercise discretion. That is what we have to work through in respect of the legal basis. Clearly, the new framework must be able to withstand legal challenge.
+
+Mr. Hoban
+If tomorrow’s ECOFIN does not reach an agreement that provides that legal clarity, is the Chancellor prepared to defer further discussion until its next meeting in the spring?
+
+Sarah McCarthy-Fry
+As I said, we are hoping to agree a general approach at ECOFIN. The process is ongoing, according to the timetable that I outlined. We are satisfied that article 95 of the EC treaty is an appropriate legal base for the new European supervisory authorities.
+
+The hon. Member for Fareham asked whether the ESAs have the power to implement the ESRB recommendations on fiscal impacts. Those recommendations are an early warning system for action to protect financial stability that are addressed to member states, supervisory authorities and central banks. If there were a fiscal impact, such recommendations would not be addressed to ESAs but to member states themselves.
+
+A question was asked about whether further discussions on proposals would be binding in relation to the European Council. Anything that is included in the final co-decided text will be binding. The text under discussion at ECOFIN is about the Council’s position. If the European Parliament disagrees with something, an agreement on the exact wording will take place between the Council and the European Parliament, and at that point, it would be binding.
+
+My hon. Friend the Member for South Derbyshire (Mr. Todd) and the hon. Member for Taunton (Mr. Browne) asked about the ESAs’ decision-making process and whether we will have the same weight as other member states. We expect to exercise significant influence through the Financial Services Authority, because rule making is expected to take place under the weighted qualified majority voting procedure used in the European Council. That will ensure that the FSA has a substantial number of votes.
+
+Mr. Todd
+My hon. Friend carefully used the same word as Lord Myners in saying she “expects” that to be the case. What if that expectation is not met?
+
+Sarah McCarthy-Fry
+That is the same question that we have heard all evening. We are going into the negotiations tomorrow to deliver the best outcome for the UK, and for the UK within the EU.
+
+The right hon. Member for Wells (Mr. Heathcoat-Amory) and the hon. Member for Taunton asked about the appointment process. The FSA will have the UK seat on the ESA. The appointments of the secretary-general and the staffing secretariat will follow normal EU appointments procedure under the staffing regulations. The chairs of ESAs are voted for by the ESAs themselves from within their memberships. As with members of the European Commission, the appointment will be subject to confirmation by the European Parliament.
+
+The hon. Member for Taunton asked about information sharing and confidentiality. The information-sharing provisions in the legislation are subject to strict confidentiality requirements. That has been standard practice since the establishment of the single market.
+
+The hon. Member for Sevenoaks (Mr. Fallon) asked about representation from the non-eurozone on the ESRB. Of course we want representation from the non-eurozone. During the ECOFIN discussions in October, the Chancellor stressed the need to ensure an appropriate balance of eurozone and non-eurozone members. We are confident that that position will be reflected in the Council’s discussions with the European Parliament and, as I said, any agreed wording will then be binding.
+
+We strongly support moves to improve the quality and consistency of supervision to ensure more effective rule making and enforcement, and better to identify risks. We want to be part of an EU playing a greater leadership role in setting global standards and avoiding regulatory arbitrage. However, we need to ensure that day-to-day supervision and crisis management arrangements remain national. I value the contributions that hon. Members have made to the debate, and I am sure that the Chancellor will take note of them in his discussions at ECOFIN tomorrow. I think we all agree on the importance of maintaining our position that this framework must not impinge on member states’ fiscal responsibilities, and that there should be no powers to undermine national supervision.
+
+Question put.
+
+The House proceeded to a Division.
+
+Madam Deputy Speaker (Sylvia Heal)
+I ask the Serjeant at Arms to investigate the delay in the Aye Lobby.
+
+Division 6
+01/12/2009 18:48:00
+The House having divided:
+Ayes: 256
+Noes: 188
+Question accordingly agreed to.
+
+Resolved,
+
+That this House takes note of the following European Union Documents—
+
+(a) 13645/09, Proposal for a Council Decision entrusting the European Central Bank with concerning the functioning of the European Systemic Risk Board;
+
+(b) 13648/09, Proposal for a regulation of the European Parliament and the Council on Community macro prudential oversight of the financial system and establishing a European Systemic Risk Board;
+
+(c) 13652/09, Proposal for a Regulation of the European Parliament and of the Council establishing a European Banking Authority;
+
+(d) 13653/09, Proposal for a Regulation of the European Parliament and of the Council establishing a European Insurance and Occupational Pensions Authority;
+
+(e) 13654/09, Proposal for a Regulation of the European Parliament and of the Council establishing a European Securities and Markets Authority;
+
+(f) 13656/09, Commission Staff Working Document–Possible amendments to Financial Services legislation–accompanying document to—
+
+(i) 13652/09
+
+(ii) 13653/09
+
+(iii) 13654/09;
+
+(g) 13657/09, Commission Staff Working Document–Impact Assessment–accompanying document to—
+
+(i) 13645/09
+
+(ii) 13648/09
+
+(iii) 13652/09
+
+(iv) 13653/09
+
+(v) 13654/09;
+
+(h) 13658/09, Commission Staff Working Document–Summary of the Impact Assessment; and
+
+(i) 15093/09, Proposal for a Directive of the European Parliament and of the Council amending Directives 1998/26/EC, 2002/87/EC, 2003/6/EC, 2003/41/EC, 2003/71/EC, 2004/39/EC, 2004/109/EC, 2005/60/EC, 2006/48/EC, 2006/49/EC and 2009/65/EC in respect of the powers of the European Banking Authority, the European Insurance and Occupational Pensions Authority and the European Securities and Markets Authority;
+
+and endorses the Government’s approach to setting up a new financial supervisory structure in the EU.
+

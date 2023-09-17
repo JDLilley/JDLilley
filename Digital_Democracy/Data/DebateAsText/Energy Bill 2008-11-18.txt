@@ -1,0 +1,821 @@
+Energy Bill
+
+Lords amendments considered.
+
+Mr. Speaker
+I must draw the House’s attention to the fact that privilege is involved in Lords amendments Nos. 42 to 44, 55 to 57, 63, 65 and 86. If the House agrees to those amendments, I shall ensure that the appropriate entry is made in the Journal.
+
+Clause 20
+
+Terms and conditions
+
+Lords amendment: No. 1.
+
+15:43:00
+
+The Minister of State, Department of Energy and Climate Change (Mr. Mike O'Brien)
+I beg to move, That this House agrees with the Lords in the said amendment.
+
+Mr. Speaker
+With this, it will be convenient to discuss Lords amendments Nos. 2 to 41, 45, 68, 73, 74, 79 to 85, 89 and 99.
+
+Mr. O'Brien
+This group of amendments deals with a number of issues, including carbon capture and storage, the renewables obligation and offshore electricity transmission. Let me deal with the amendments in turn; I suspect that they will not prove controversial, but it is right to outline their main provisions.
+
+Amendment No. 1 refers to the carbon dioxide storage provisions and relates to clause 20, which deals with the terms and conditions of carbon dioxide storage licences. In Committee, the other place agreed an amendment to require the licensing authority to consult the licence holder before making modifications to an existing licence. Even though this would be standard practice, an express duty would provide greater certainty to commercial operators. We agreed with the arguments presented and I am therefore bringing forward the amendment from the other place.
+
+Amendments Nos. 2 to 11 are proposed to the carbon dioxide storage provisions in the Bill, specifically clause 34. The clause enables the functions of the Secretary of State and the Scottish Ministers to be transferred, by order, to another authority, or more than one authority, that is best placed to exercise such functions. It will be possible to use the power to transfer functions to the most appropriate and best equipped authority to regulate carbon dioxide storage in due course. For example, if a marine management organisation is established, it might prove an appropriate authority for regulating carbon dioxide storage. The provision will give the House an opportunity to decide later if that is the way in which it wishes to deal with the matter.
+
+15:45:00
+
+The Delegated Powers and Regulatory Reform Committee has recommended that only public rather than private bodies should be tasked with carrying out the functions on behalf of the Secretary of State or Scottish Ministers. That recommendation is consistent with our intentions in the clause. Any potential transfer was always intended to be in connection with public bodies and we therefore brought forward these amendments in the other place.
+
+Amendments Nos. 12, 13 and 79 to 83 are minor drafting amendments aimed at clarifying the definitions of Scottish and Welsh waters that are currently contained in one chapter of this Bill and which have been inserted in legislation that this Bill amends.
+
+Amendment No. 68 relates to importation and storage of gas and carbon dioxide storage. The Delegated Powers and Regulatory Reform Committee recommended that regulations made under clauses 13 and 27 be subject to an affirmative procedure. Such regulations would specify the powers and duties of inspectors of offshore gas storage and unloading and carbon dioxide storage facilities, respectively. Amendment No. 68 was tabled in the other place to meet those recommendations. We accept the Committee's recommendation to subject the making of the regulations to an affirmative resolution procedure.
+
+The second set of amendments in the group relates to the renewables obligation under clause 37. It is our intention, supported by the renewables industry, to introduce a reformed renewables obligation as soon as possible after receiving Royal Assent for the Bill. In practice, that will mean from 1 April 2009, as the obligation runs out at the end of a financial year. However, the timetable for achieving that is very tight. The difficulty is that the operation of the renewables obligation in Scotland is already devolved. The amendment puts the transfer of the reformed functions to Scottish Ministers in the Bill rather than using the longer process of an order under section 63 of the Scotland Act 1998 once Royal Assent has been received.
+
+Mr. John Gummer (Suffolk, Coastal) (Con)
+Will the Minister give way?
+
+Mr. O'Brien
+In just a moment.
+
+Transferring functions in such a way is fully in line with the devolution settlement but ensures that we are on track to deliver on our zero band by April 2009. May I assure you, Mr. Speaker, that the issue has been debated and approved in Holyrood by means of a legislative consent motion?
+
+Mr. Gummer
+Why did the Minister not take the opportunity to correct the mistake relating to the renewables obligation as far as biofuels were concerned, which was later found in the Bill by Department for Transport lawyers and will mean that there will be considerable disorientation this year on the biofuels requirement?
+
+Mr. O'Brien
+We took the view that the issue of biofuels was not appropriate for the Bill. The amendments do not deal with that; they deal with a separate issue of how the renewables obligation will be dealt with and the way in which clause 37 will operate. As I have already indicated, with these Lords amendments we are ensuring that the role of Scottish Ministers is dealt with, rather than trying to deal with a particular issue, such as biofuels. I accept that the right hon. Gentleman has a view on biofuels—we certainly accept that many other people have—but this is not the appropriate place to deal with it.
+
+Mr. Gummer
+I think that the Minister has mistaken me; I am asking not about biofuels, but about the powers under the legislation that could have been altered at this point. It is not a question of argument between us that a mistake was made in the legislation—that has been admitted—and we need to put it right. This is the only opportunity to do so, and I wonder why he decided not to take it.
+
+Mr. O'Brien
+I will look again at what the right hon. Gentleman is saying to see what has happened, but I am not aware that any legal point needs to be amended. If he is suggesting that there is such a point, perhaps it would have been appropriate to ensure that it was brought to my attention earlier, rather than on the Floor of the House in that way. He smiles knowingly. If he wants to make a point, I will happily consider it later in our proceedings. He will be aware that I have just been handed a note from officials, and I am told that the issue that he raises will be dealt with in secondary legislation. Perhaps that satisfies him. It has brought a smile to his face, and I am pleased to have done that. However, I have not been aware of any legal point such as he described, so I am pleased that officials have now reassured me that it can be dealt with in secondary legislation.
+
+Lords amendments Nos. 30, 31 and 33 will make a small drafting change in relation to the renewables obligation. During a debate in the other place, we identified that, as drafted, the provisions in proposed new section 32E of the Electricity Act 1989 that cover the transitional arrangements for existing projects would have inadvertently prevented future research projects from benefiting from our reforms to the renewables obligation and receiving grant support if appropriate. That was not our intention, and these technical amendments seek to address the issue.
+
+The final set of amendments in this group relates to the provision for offshore electricity transmission. Lords Amendments Nos. 45 and 99 will amend the definition of the term “relevant offshore line” in section 64(1A) of the Electricity Act 1989 for the purpose of defining the term “high voltage line”. The amendments will ensure that the new offshore electricity transmission regulatory regime will apply to the right electric lines—those of more than 132 kV or those built to transmit electricity from an offshore generating station to the onshore grid, even if only a small proportion of the relevant line is situated offshore. The amendments will also clarify the status of electric lines if they convey electricity to a place in Scotland and are wholly or partly in offshore waters—thus ensuring, for example, that a line connecting the Shetland islands to mainland Scotland comes within the scope of the regime even if some of it is on the land.
+
+Lords amendments Nos. 84 and 85 are minor drafting changes to clarify that the references in paragraph 26(2)(b) and (c) of schedule 2 are to the person who owns the asset prior to the transfer scheme taking place. These technical amendments will ensure that the references correctly capture the generator developers who will transfer property, rights and liabilities to the holders of an offshore transmission licence under any property transfer scheme made by Ofgem under schedule 2.
+
+I hope that the House will agree to this group of Lords amendments.
+
+Charles Hendry (Wealden) (Con)
+I broadly welcome the amendments. We consider that the Bill has improved greatly since it left the House of Commons a while ago. There are aspects that we should have liked to be included which are still not included, but we are glad to note the concessions that the Government have been willing to offer in the other place in response to significant cross-party agreement on the need for changes in relation to, for instance, smart meters, the role of Ofgem, feed-in tariffs and reporting issues.
+
+I feel an element of frustration about the fact that not one comma of the Bill was changed as a result of our deliberations in Committee, but perhaps the persuasiveness of our arguments at that time caused Ministers to think again about some of the details, although it may have been simply the electoral arithmetic in the other place. I congratulate their lordships on the changes that they have made, but I also thank the Minister, his colleagues and his officials for their willingness to listen to the arguments.
+
+I consider the amendments straightforward and sensible, particularly those relating to the carbon capture and storage regime, although we still feel that the Government’s approach to that issue is very unambitious and that we are proceeding very slowly. While we are still talking about it in this country, China, the Canadian province of Alberta and Abu Dhabi have moved ahead of us. We are slipping down the league table in carbon capture and storage. We are also disappointed, to say the least, by the structure of the Government’s pilot scheme, which rules out various technologies. That, however, is a debate for another day, and I am sure that the Minister and I will discuss it further in due course.
+
+As for the changes in the renewables obligation, we support the move towards banded renewables obligation certificates, and we are pleased that those changes can be applied to Scotland. It is important for such arrangements to apply to all parts of the United Kingdom in the same way. The application of common standards regardless of where the scheme operates in the UK will clearly benefit investors. The clarification of grandfathering rights is also important. It is also sensible to clarify the fact that the rules on offshore transmission will apply even if most of the grid connection cables are onshore rather than offshore. The two should obviously be treated as a single entity. I realise that that will apply in only a minority of cases, but we support the Government’s efforts to secure a cohesive package.
+
+As I have said, these are straightforward and sensible changes which we are broadly happy to support.
+
+Mr. Gummer
+I declare an interest, in that I chair a company that advises firms on the provision of renewables and sensibly managed, environmentally friendly products. That gives me the advantage of knowing a little about the issues.
+
+I thank the Minister for this group of amendments, and also for other developments that have occurred during the Bill’s passage. I hope that the House recognises just how complex the issues will be, and how easy it is to distort the future simply by getting the legislative parameters very slightly wrong. The Minister has been extremely helpful, as was his predecessor, in ensuring that we have a fit-for-purpose Bill to deal with what are sometimes considered boring details. I thank the Minister particularly for the measures relating to offshore electricity. The issues that arose in my constituency, where one of the largest offshore wind farms in Britain happens to connect with the grid within a nuclear power station complex, showed me just how complicated such matters can be.
+
+I hope the Minister accepts that we shall probably have to return to these issues much sooner than we would normally wish to do, simply because the technology and the circumstances are moving so fast. It is because he has been willing to change right up to the last minute that I permitted myself my intervention on his speech. It is a case of keeping up with rapid change at a time when, as was pointed out by my hon. Friend the Member for Wealden (Charles Hendry), other countries too are moving very fast. We need to be fully competitive.
+
+I now find myself in the unusual position of being able to say thank you for a Bill that I think has been greatly improved by the amendments.
+
+Mr. Mike O'Brien
+May I briefly thank the hon. Member for Wealden (Charles Hendry) and the right hon. Member for Suffolk, Coastal (Mr. Gummer) for their support on these measures, and join the hon. Gentleman in thanking the officials for the way in which they have dealt with matters? I know that my predecessor agrees with me in regarding the officials as exceptional in being able to grasp a very complex policy area and address it with skill and dedication, and in their devotion of so much time and effort. We greatly value that.
+
+16:00:00
+
+The right hon. Gentleman is right that transmission access will be a major issue in the decades to come—and much sooner, probably. We will have repeatedly to return to this, because many in the industry are concerned about it. He is right that there is not an easy answer, but we need to ensure that we get it right, because others are competing with us and we must get the best possible access to transmission to the grid that we reasonably can.
+
+Let me say once more that I am grateful for the support on these amendments.
+
+Lords amendment agreed to.
+
+Lords amendments Nos. 2 to 41 agreed to.
+
+After Clause 40
+
+Lords amendment: No. 42, to insert the following new clause—Feed-in tariffs: electricity.
+
+Alan Simpson (Nottingham, South) (Lab)
+I beg to move amendment (a) to the Lords amendment.
+
+Mr. Speaker
+With this we shall consider amendments (b) to (d) and Government amendments (g) and (f) to the Lords amendment, and Lords amendments Nos. 43, 44, 69, 71, 75, 88, 91, 94 and 103.
+
+Alan Simpson
+I shall also speak to amendments (b) to (d) and Government amendment (g).
+
+Let me begin by taking this opportunity to pay tribute to those involved in bringing us to this point. As in all our debates on feed-in tariffs under this Bill, the amendments are cross-party. I also pay tribute to the coalition of organisations that are the drivers of the renewable energy agenda outside the House for the help they have given us in bringing the key arguments into the Chamber. Without diminishing the role of any of the other organisations, it is important to recognise the role played by Friends of the Earth, and in particular Dave Timms and Ed Matthew, who have almost unendingly pursued our understanding of the arguments, and we are truly grateful for that.
+
+Bob Spink (Castle Point) (UKIP)
+May I join in the tributes the hon. Gentleman is paying to the various bodies and the cross-party support? Will he extend that to the Government and congratulate them on including these amendments, which improve the Bill? Does he agree that we should have a proper timetable for the introduction of the feed-in tariffs for renewables, and that 2010 would be a good time? I wonder whether the Minister and the three wise men would agree with that, too.
+
+Alan Simpson
+The hon. Gentleman is right, and his comments allow me to come to the final part of my tributes to those who have brought us to our current position, by paying tribute to the new Secretary of State, because it is fair to say that the lead he has given is what has transformed the agenda. We are right to have tabled today’s amendments, which require any feed-in tariff scheme to include a precise timetable for its introduction and to be precise about the technologies that will be incorporated and the different tariffs that will apply both to the technologies and the scale of the technologies.
+
+On a personal level, every time I had to bang on the Secretary of State’s door about getting things right, I did not find the difficulties or hostility that we faced little more than a year ago. It is important that the House recognises the way in which the goalposts have shifted in the debate. It was not too long ago that the Department for Business, Enterprise and Regulatory Reform issued an internal briefing paper whose whole approach was hostile to feed-in tariffs, dogmatically repeating a mantra that the renewables obligation delivered all the answers and that feed-in tariffs would be a distraction. The Secretary of State grabbed the process by the scruff of the neck and gave it a shake. He saw that there was nothing in that argument, and he came to the House to make a commitment to introduce a feed-in tariff regime in the UK; his role in that should be recognised.
+
+I am sure that the Secretary of State will not parade any of the bruises or scars that he has acquired in introducing his proposals on the threshold for feed-in tariffs. It is fair to say that behind the scenes there was enormously hostile opposition to the shift from the previous position to where the Secretary of State—and, I hope, the whole House—intends to take us.
+
+Martin Horwood (Cheltenham) (LD)
+The hon. Gentleman is perhaps being too modest in underestimating his role in shifting the balance of opinion. He has gone from a time when the Liberal Democrats were his only allies in this place to the exercising of such influence on his own Benches that the Secretary of State has followed his lead.
+
+Alan Simpson
+I always thought that we could get majority support, and it is great that we are moving collectively towards that position.
+
+I want to say more about the shift that has taken place. On the record, many of the big energy suppliers have been fighting tooth and claw to prevent us from doing anything as bold and imaginative as we are doing. The Association of Electricity Producers had lobbied for a threshold of 50 kW. The British Wind Energy Association lobbied, until the last moment, for a threshold of 500 kW. Such demands would preclude the opportunity to develop genuine, transformational renewable energy systems on a community, town or city scale. The Secretary of State should be praised for his determination and willingness to push the boat out much further than many of those vested interests would have felt comfortable with.
+
+It is worth noting that the arguments used by energy companies, and their representatives in another place, suggested that if we were willing to be bold by setting a threshold of 3 MW or 5 MW, it could be disastrous. In the other place, Lord Jenkin of Roding cautioned the Lords:
+
+“One has to remember that for many of the firms that are investing in large wind farms both onshore and offshore, the world is their oyster. They can do this elsewhere, and if they find that their arrangements are threatened as a result of the integrity of the ROC system being undermined, they will push off.”—[Official Report, House of Lords, 5 November 2008; Vol. 705, c. 241.]
+
+I am glad that the Secretary of State ignored or resisted that argument, because the truth is that they will not push off anywhere. Far be it for me to suggest that the energy companies that have been hiking up household energy charges in Britain are crooks in this sense; let us merely say that energy companies recognise a gravy train when they see one, and they are fond of gravy. Under the renewables obligation, they have been able to make returns on capital of roughly 40 per cent., so it is little wonder that they want to preserve this precious domain of substantial rewards that go only to our large energy companies.
+
+Mr. Graham Stuart (Beverley and Holderness) (Con)
+We are a nation of inventors, and I wonder whether, like me, the hon. Gentleman is excited at the prospect of inventors across this country being able to develop ways of providing energy and feed-in tariffs providing the means by which to make their inventions economic? This could be an exciting future, and new technologies could develop in this country as a result of these changes.
+
+Alan Simpson
+I share that excitement, but I want to repatriate some of our inventiveness. This country has some of the leading solar photovoltaic suppliers in Europe, but their leading role is primarily based on supplying others, rather than us. A recent high-profile article in The Guardian featured a Scottish company, Pelamis Wave Power Ltd, which has constructed the “serpent”, a wave-generating machine, off the coast of Portugal. It will be part of a sequence that will deliver 21 MW of energy under Portugal’s feed-in tariff regime. That is precisely the inventiveness that we must seek to bring back into our domestic energy agenda. The one thing that we must be able to say is that we have access to wave power that many of our European partners would envy. We must harness that inventiveness on the basis of the security and clarity that a feed-in tariff regime has to offer.
+
+I make that point only as a way of reinforcing many that have been made to successive Departments by Government-commissioned studies into the way forward on renewables. Many of the reports have stated specifically that the renewables obligation is an obstacle to the dynamic extension of renewable energy generation in the UK. Even those who have tried to say that we should set lower thresholds have come up with fairly fraudulent arguments about what would be lost if the big energy suppliers ceased to invest.
+
+I wish to make two points on that. First, the big energy companies know the obligation that they share with us on the UK’s 2020 renewable energy obligations. Any company that does not want to be part of meeting those obligations can simply surrender its part of the energy market, and I am sure that its competitors would gladly clean its plate for it—if a company does not want to be part of this, let it go. Secondly, it is fallacious to say that the companies are already doing what I hope the Secretary of State will ensure we are able to do after this Bill is passed. The fear argument is that somehow this 5 MW threshold would scupper investors’ security. Even the figures on the British Wind Energy Association’s website make it clear that, in reality, the amount of wind energy being supplied at less than 5 MW—the existing capacity—is 8 per cent., the amount in construction is 0.6 per cent. and the amount in the planning system is no more than 1.2 per cent. So this threshold will not scupper any of the energy companies’ plans—the truth is that all their plans have been on a much larger scale.
+
+The simpler reality is that the energy companies do not want to go down the path that 18 countries elsewhere in Europe have already taken with the introduction of feed-in tariff legislation. The principal reason for that is that the energy companies do not want to pay citizens for contributing to a renewable energy future, yet any of the partner countries in Europe will tell us that that is precisely what gives dynamism to their renewables agenda.
+
+16:15:00
+
+It is brilliant that the Secretary of State has decided to be the driving force in ensuring that Britain occupies the same front line and promotes technology, innovation and scientific research while giving clarity and security to the structure within which that must take place. Some of that clarity must be in the definition of what will be included in the scheme. I think that even the large energy suppliers, perversely, will want the Government to deliver that clarity. They will want clarity about the time scale within which we intend to introduce the scheme, about the pricing regime and about how and where it interfaces with the renewables obligation. It is important that we make this change not just to deliver energy security for the future but to harness some of the potential that is sitting waiting for us.
+
+The study that the Government commissioned from a company called Element Energy Ltd sets out the precise scale of potential energy that is waiting for us. The company pointed out that almost 8.9 GW of renewable energy could be delivered for the UK by 2020 with a range of preferential feed-in tariffs. At some point, we will need to return to the practicalities of what those tariffs will be. Different tariffs will need to apply to photovoltaics, to wind energy on different scales and to wave energy. They will have to be discounted over different time periods. The suggestion was that even if we set a starting tariff of 20p per kWh for wind energy, that would deliver 5 GW of new renewable energy by 2020.
+
+If we start to put those facts together, we realise that the energy that will be delivered by 2020 has the scope to exceed existing UK energy generation from the whole nuclear industry before any of the new nuclear power stations start to deliver a single watt of energy, which will not happen before 2022. That transformation will be possible, and I would like the Minister to clarify the details rather than sign up to aspirations. There is no point in the House being pretty much united on a desire to set off in a race to a different renewable energy future if we are unable to say when the race will start, how long it will run for and what the course will be. We need clarification of the details today.
+
+The amendments that have been tabled would strengthen the timetable, structure and vision of the Government new clause in Lords amendment No. 42. If we can get the Minister to endorse and clarify that this afternoon, we will emerge with a Bill that we collectively as a House of Commons can feel proud of, and which will genuinely take us into our own renewable energy revolution.
+
+Charles Hendry
+May I congratulate the hon. Member for Nottingham, South (Alan Simpson) on the work that he has done on this matter? The hon. Member for Cheltenham (Martin Horwood) was completely right to draw attention to the fact that, in his very modest way, the hon. Member for Nottingham, South had left himself off the long list of people to be congratulated, but it is genuinely the case that without him and his drive, commitment and willingness to work with others we would not be where we are today.
+
+I also join the hon. Member for Nottingham, South in paying tribute to organisations such as Friends of the Earth for the very constructive way in which they have engaged in the debate. They have put a tremendous amount of work and detail into arguing the case, and it is absolutely appropriate that they should be thanked as well.
+
+I hope that the Government might be willing to go a little further than they have so far. We are very grateful indeed for their agreeing to put feed-in tariffs into the Bill, and I hope that they will find it in their heart to accept the amendments before us today. I somehow suspect that they might not, but nevertheless I hope that they can be persuaded in the course of the debate. I think that we now have 95 per cent. of what is needed, and we just need that other 5 per cent. of detail to reassure people about exactly what direction the feed-in tariffs are going in and what they will deliver.
+
+Initially, of course, the Government rejected the concept of the feed-in tariff, but they were subsequently prepared to accept it as we went into the Bill. However, it was clear all along that there was tremendous agreement and support for the principle among the non-governmental organisations, Members of Parliament on both sides of the House and their lordships. If we had had the Government’s agreement earlier, we would be further down the line and it might have been possible to introduce feed-in tariffs within a year of the Bill getting Royal Assent, which I assume will be in the next few days.
+
+Some of the work could have been done earlier, but we are where we are. As I say, the Government could have done more, and we would have been willing to assist them. As far as the consultation is concerned, I think that it should be possible in some cases to lock the people involved in a room and say, “You’re not coming out till you’ve agreed on the terms.” That could apply to some aspects of smart metering as well. It is all very well to say to people that we need months and months to talk through the detail, but if they realised that they were not going home to see their wives and kids at the weekend until they had worked out the detail, I think that we would have agreement on these matters pretty soon. A greater degree of urgency would be welcome.
+
+Mr. Gummer
+My hon. Friend might like to cast his mind back to the time of the packaging directive. Members of the industry said that they had to share the obligation among themselves, but they could never make up their minds about how that would work. I threatened that they would have to continue their deliberations over Christmas, and it was surprising how soon their wives made sure that they made their minds up.
+
+Charles Hendry
+My right hon. Friend makes a valid point. Clearly, if the people involved in the consultation are not reaching agreement, we could lock him in the room with them for the weekend. There is no doubt that that would move us forward to an early conclusion in these matters.
+
+We will watch the progress of the consultation very carefully. There should be no doubt in the Government’s mind that, if they do not deliver the feed-in tariff by the last date for a general election in 2010, we will make it a key plank of our election policies. We will make clear our determination to make it a priority to move this matter forward with greater urgency and dedication. Nevertheless, we hope that the Minister will be able to satisfy us about how the Government will deliver the feed-in tariff within the time scale that we seek.
+
+The hon. Member for Nottingham, South also mentioned Government amendment (g), which proposes a change in the threshold limit from 3 MW to 5 MW and which will be moved later by the Minister. Concerns have been expressed by some groups that raising the threshold of the feed-in tariff above a limit of 1 MW would start interfering with the renewables obligation. We tabled amendments precisely to allow for the variation of the feed-in tariff, according to technology and the size of development. Some older and more developed technologies do not require the boost that a feed-in tariff would give to newer small-scale renewables.
+
+The 5 MW limit is an upper limit only, and would not necessarily apply to all technologies at all sizes. We therefore understand why the Secretary of State has decided on that threshold. The idea behind it is to allow the inclusion of non-commercial scale projects, such as those that will be installed by homeowners, small businesses, local authorities, community groups, farmers and others. That would help out hospitals and schools that want to facilitate greater use of renewables and ensure low emissions as part of our 2020 targets. It would also help households to reduce their reliance on the grid, ameliorating levels of fuel poverty. However, we also understand why those in the wind sector were anxious about the threshold, as they are concerned not to have a system that jeopardises any investment plans. The key to resolving the problem is to have much greater clarity. We therefore urgently need the Government to indicate what upper limits for feed-in tariffs would apply to which technologies, so that investors in every sector can understand fully what is being proposed and how it will affect them.
+
+I am also keen to speak to the amendments in my name, and the name of my hon. Friend the Member for Tunbridge Wells (Greg Clark) and other hon. Members, through which we seek to get more detail about the exact definition of a feed-in tariff. They have been tabled because concern has been expressed about the nature of the feed-in tariffs that the Government propose to introduce. The Government were initially reluctant to introduce the feed-in tariff principle at all, so there are concerns that they might seek to wriggle out of the commitment that has been made while the Bill is passing through both Houses of Parliament.
+
+A letter from Friends of the Earth to Members of Parliament, signed by many people associated with such issues, says:
+
+“We are concerned that neither of the amendments that the Government has made to the Energy Bill include a timetable for their introduction, and that the feed-in tariff amendment does not contain basic provisions to guarantee the introduction of a genuine feed-in tariff.”
+
+It goes on to quote Lord Hunt, who said that:
+
+“our hope is that a feed-in tariff scheme will be operational in 2010. Clearly, I have to say that that is a hope, and I cannot give that as an absolute commitment, because a lot of work needs to be undertaken.”—[Official Report, House of Lords, 5 November 2008; Vol. 705, c. 234.]
+
+Those comments have caused some concern, because they may mean that the 2010 target could be allowed to slip; the Minister has already made it clear that that might happen.
+
+Those of us who have advocated a feed-in tariff for some time have always been clear that it must contain the basic elements of a feed-in tariff that are lacking from the Government amendment. There must be a definition that can apply only to a feed-in tariff. We are keen explicitly to exclude any option that would allow the payment to take any form other than that of a feed-in tariff. For the scheme to work effectively, the Government must fix the level of the tariff and guarantee the tariff level for a specified contract period. There would, of course, be different tariffs to reflect different technologies, and there would also be a need for the variations in the tariff to reflect the scale of the application involved.
+
+Mr. Gummer
+My hon. Friend says that Government should fix the tariffs; I believe that the experience elsewhere has been that it is better to have the tariffs fixed independently, to ensure that they are fixed on the basis of scientific comparison of the amount of investment necessary for different sorts of renewables. Does he not agree that that might be a better way of proceeding in Britain?
+
+Charles Hendry
+My right hon. Friend makes a valid point. There is concern that the feed-in tariff could be set at so low a level that no one would wish to take it up. That would be an effective way of killing off a feed-in tariff, if the Government were inclined to do so. Clearly, independent input is required, and because there may be elements of public funding involved, the Government have a direct interest in that being the case, too. Clearly, the issue would have to be addressed in the consultation. Perhaps the Minister could comment on what the most appropriate way is to bring forward the measure.
+
+We are all clear that a feed-in tariff scheme must be different from the scheme for the renewables obligation certificates. We must be sure that the provision is not intended to introduce a super-ROC scheme. Lords amendment No. 42 on feed-in tariffs uses the phrase, “Feed-in tariffs”, only in the title of the proposed new clause inserted by it. No definition is provided elsewhere in the amendment, so we see the case for providing greater detail. We may look to you, Mr. Speaker, to decide whether we may vote separately on the amendments, rather than voting on them as a block, depending on the response that we receive from the Government.
+
+Amendment (c) to Lords amendment No. 42 is, again, in our names. Paragraph (a) of the amendment adds
+
+“a specified period of time”.
+
+A feed-in tariff needs to be a guaranteed level of payment for a fixed period of time, in order to give investors the certainty that they need and a guaranteed rate of return for each unit of electricity generated. In Spain and Germany, the tariffs run for a period of 20 years. However, under Lords amendment No. 42, there is no specified time. We have not suggested a specified time, but we need greater assurance from the Minister that the concept will be in place, and that a specified time will indeed be part of the mechanism.
+
+Paragraph (b) of amendment (c) would change a proposed new sentence from
+
+“how a payment…is to be calculated”
+
+to
+
+“specifying the level of payment.”
+
+The new clause would require the Government to specify only how the payment was calculated, rather than the level of payment. If the Government were to set the tariff payment level, it would not be a feed-in tariff in any sense that we recognise.
+
+16:30:00
+
+Paragraph (c) of amendment (c) would give the option to establish what is called tariff digression. For example, either every year or, more likely, every few years, the tariff rate for new installations starting that year is likely to be slightly lower than before. The current wording of the Lords amendment would allow, through the Secretary of State simply publishing a new formula, the tariffs to be changed after the generator had started on a tariff. Certainty is needed for anyone deciding to invest in small-scale generation, and it would not be provided if the Government had the power to change the tariff halfway through the period in which it was supposed to be fixed at a certain level. That part of our amendment would make it clear that tariff degression applied only to new entrants, and not retrospectively to existing generators.
+
+Our third amendment, (d), examines the need for the tariff to be set at different levels for different technologies. That is a basic feature of feed-in tariffs throughout Europe, and the Government must be prepared at least to make provision for it. The amendment would not force the Government to use the provisions, but it would give the Secretary of State the option to do so. The amendment would also allow for the banding of feed-in tariffs to be dependent on the size of development, so, for example, a technology generating between 300 kW and 3 MW might get a lower level of tariff than the same technology generating between 50 kW and 300 kW. That reflects the need for greater support for smaller installations. The level must be set at a rate that will provide incentives for the installation of small-scale generation.
+
+Mr. David Drew (Stroud) (Lab/Co-op)
+When I looked at that argument, I wondered whether it would be appropriate to include the provision in the Bill, or whether it would not be better off in secondary legislation, given the changes that are taking place in renewable energies, as we speak. I wonder whether the amendment would be too technical for the approach under discussion. What are the hon. Gentleman’s comments on that?
+
+Charles Hendry
+I am grateful to the hon. Gentleman, whose amendment is a beacon of clarity compared with some of the other technical aspects of the Bill. We have considered very carefully the point that he makes, and our view is that it is better to set out clearly now what is meant by a feed-in tariff so that there is no need for a discussion later, in which people say, “We haven’t got what we thought we were getting.” In our discussions with the relevant non-governmental organisations, we have found that they are concerned, as are other external commentators, that because of the lack of definition in the Bill, there is scope for a misunderstanding to arise later, and that is what we are very keen to avoid.
+
+In addition, amendment (d) would require the Secretary of State to make provision for how costs relating to connecting installations to the grid or to the distribution network will be dealt with. It would not pre-determine how the costs would be dealt with, but simply require a determination to be made. Our concern is that if the provisions are not made, suppliers might be able to make such charges as they wish to small generators to make their investments unattainable.
+
+I should also like to speak to amendment (f), standing in my name and that of my hon. Friend the Member for Tunbridge Wells (Greg Clark). There are concerns about the very low combined heat and power—CHP—threshold of 50 kW, compared with the 3 MW limit set for supporting renewable energy, and the effect that it may have on people investing in CHP. Under the renewable obligation, only larger-scale investments have prospered, but CHP has been recognised as one of the most significant drivers in reducing carbon dioxide emissions. Our cities are responsible for about 80 per cent. of greenhouse gas emissions, and their potential for installing CHP is enormous. To reach our targets on reducing carbon emissions, CHP must be encouraged. CHP can reduce the carbon emissions of a building by as much as 40 per cent., according to some external advisers.
+
+The Combined Heat and Power Association, in a briefing to Members ahead of the debate, said:
+
+“A 50 kW CHP plant would serve a development of between 50 and 100 dwellings.”
+
+However, the association noted:
+
+“Raising the cap to 5 MW would encourage the deployment of CHP in community schemes of the order of 5,000 to 7,500 dwellings. It would increase the likelihood of developing local district heating schemes.”
+
+We are keen to see such development and roll-out of combined heat and power. If the 50 kW support threshold for CHP is not increased to the same level as the threshold for renewable sources of energy, the result will be to tilt the economics against investment in more effective CHP schemes. William Orchard of Orchard Partners, an expert on these issues, has said that the
+
+“50kW limit will distort the market and discourage investment in larger 500kW CHP used to heat blocks of flats”.
+
+Such projects should be at the heart of our thinking as we try to drive forward this complete change in our approach to energy, towards renewable energy and clean energy.
+
+Although we all accept that renewable sources are the ideal for CHP, a fossil fuel CHP project can also deliver savings. In a submission to us, Clarke Energy, which implements a lot of CHP schemes across the country, said that the limit
+
+“would imply that fossil-fuel CHP schemes above 50kW output are not to be encouraged and not beneficial”.
+
+We all know that that is not the case and that we would be keen to see such schemes introduced as well.
+
+We want much greater use of district CHP schemes. However, under the Government’s plans, such schemes would receive support only if they used the ROCs, with all the complexity and confusion that that would involve. We want, for example, to encourage district general hospitals to replace their old boilers with CHP systems. Their output would typically be about 1 MW, or slightly more; however, they could reduce the carbon emissions of a large district general hospital by as much as 2,000 tonnes per annum and save it as much as £350,000 in running costs. If the systems generated more power than was needed, they should be eligible for support from a feed-in tariff. To exclude them would seem perverse; they might not be using renewable fuels, but would still have taken a significant step in the right direction.
+
+The Minister has said that he is reluctant to accept the change. However, in the course of the Bill we have seen so many of our proposed changes accepted following protracted parliamentary scrutiny, and here we are proposing just a little further degree of detail. If we got that into the Bill, the people who have been delighted by the overall decision to include feed-in tariffs would be genuinely thrilled that what the tariffs are intended to do was tied down in detail.
+
+Colin Challen (Morley and Rothwell) (Lab)
+I should like to add my tributes to those that have already been made. I pay tribute to my hon. Friend the Member for Nottingham, South (Alan Simpson)—my good friend, whose roof turbines will no doubt be spinning tonight—and to the Secretary of State, who has shown a real willingness to engage in the argument and see off some of the lobbying from vested interests. As my hon. Friend the Member for Nottingham, South said, it is clear that some of that lobbying has sought to keep other people out of this gravy train. That is reprehensible.
+
+I also pay tribute to the Opposition, whose opinion poll lead has dropped to a mere three points in the past few days. Even now, however, they are urging us on to get a vote-winning formula ready by 2010. The subtitle of our manifesto might be “Power to the people”, and we should be grateful to the Opposition for urging us to have the measures in place in time for the next general election. I am sure that it will be a great vote winner.
+
+I want to be brief, but I should make a couple of small declarations of interest. I am a very small investor in the Westmill wind farm co-operative in Oxfordshire, and I am a customer of Good Energy Group plc. Thinking of small businesses and small concerns makes me ask about the specified maximum capacity. We should use the correct language. It is not really a threshold; it might be one for the renewables obligation, but it is not the threshold for the feed-in tariff, which is probably half a kilowatt.
+
+The specified maximum capacity is an issue. I support the fact that we have travelled a great distance; before the summer recess, we were considering one hundredth of the generating capacity as a maximum, but now the figure has multiplied by 100, which is a great step forward. My question relates to small businesses that may want to generate renewable electricity, but find a glass ceiling. What do they do when they get to 5 MW? Will they have to split off into separate entities to avoid the bureaucracy, which would be an additional—not a separate or replacement—burden? When they get to that maximum capacity, they will have to consider seriously what they do with their business, and that could mean a limit on their expansion. That will happen in the early stages, because we are just starting out on this process. I support having no specified maximum capacity for a feed-in tariff, but since we are having one, we need to consider what happens to businesses as a result.
+
+Paddy Tipping (Sherwood) (Lab)
+I am anxious about my hon. Friend’s comment. The renewables obligation has served us well in many respects, but it has not been acceptable and valid in the case of small microgeneration projects. Surely one cannot run the renewables obligation alongside a feed-in tariff that has no upper limit.
+
+Colin Challen
+We will, de facto, be operating a feed-in tariff alongside the renewables obligation. Some people who have small generation units of less than 5 MW may operate both systems. There might be an administrative burden for small businesses. What happens when they get to that ceiling? Do they split off, sell out to somebody else, or start again? Having the ceiling imposes a whole range of questions. I say to my hon. Friend, whose record on renewable energy is among the best in the House, that the real answer to his question is to ask why we did not start with the feed-in tariff all those years ago, instead of trying to improve on a failed system of support—the non-fossil fuel obligation, which was a Thatcherite market solution largely designed to support the nuclear industry.
+
+In a few years’ time—not immediately, because businesses, schools and communities will be just starting off with this far more confident future ahead of them—we will have to review this and consider increasing the maximum.
+
+Alan Simpson
+Will my hon. Friend reflect on his own knowledge of how feed-in tariff schemes operate in other parts of Europe, particularly Germany? Is not the right way to set the interface in running two schemes in parallel—feed-in tariffs and the renewables obligation—to be found in setting tariffs for higher levels of energy generation? After we have done that, is it not sensible to let the market itself decide? Although we are introducing further reforms to the renewables obligation, the Ernst and Young study commissioned by the Government last year set out specific and serious ways in which the structure of the RO is an obstacle to the development of renewables, in so far as it requires people to second-guess the future price of tradeable certificates. Is not the strength of the feed-in tariff regime its clarity and certainty over the guaranteed time for which it operates?
+
+Colin Challen
+I completely agree with everything that my hon. Friend says. We want that certainty, and in the near term we will now see it for people who want to invest their own money in small schemes. That is a brilliant step forward. The 5 MW maximum that will be in the Bill, since there is no other amendment, is a huge advance. However, the certainty that that brings will last only for a certain period, until people want to go that little bit further but do not want to get involved in the complications of the RO, which was designed for big business—the big box solution—and not for the smaller player. In a few years’ time, in the fourth term of a Labour Government, we will have to ask ourselves what is the appropriate level for the maximum capacity. By that time, it should not be a problem, because people will have accepted that we have made this start and it will be a matter of a little tick-box that goes up to 50 MW or whatever is then thought appropriate in the light of experience.
+
+I welcome the amendments. This debate is one of agreement and cross-party consensus. We can go out with that message, and show that on occasion Parliament works.
+
+Steve Webb (Northavon) (LD)
+It would be remiss of me not to add my congratulations to the hon. Member for Nottingham, South (Alan Simpson) on all his achievements. We have all been harangued by him in the nicest possible way, and mysteriously come round to his way of thinking. I pay tribute to him, and to those who have briefed and lobbied us, including Friends of the Earth, which has been mentioned.
+
+16:45:00
+
+We welcome their lordships’ addition of a feed-in tariff, but the Liberal Democrats have added our names to amendments that support more definition of deadlines and the financial subsidy mechanism. Perhaps we are still not quite there on urgency. The Minister will be familiar with the 100 months campaign, which was launched at the start of August. It talks about 100 months before reaching a tipping point for climate change. We are already three and a half months through that time. We need a new way of thinking about such matters, which does not involve a consultation, a discussion paper, a Green Paper, a review or a period of further reflection. We are past all that.
+
+Like the hon. Member for Wealden (Charles Hendry), my worry about the Minister in another place, who said that he hoped that we could achieve the aim in 18 months, but perhaps we cannot, is that not acting quickly is not an option. It is far better to get something roughly right by, as the right hon. Member for Suffolk, Coastal (Mr. Gummer) said, locking people in a room for a weekend, and then perhaps refining it, than to try to wait until it is perfect—it probably would not be perfect anyway.
+
+I am worried by the mentality that assumes that we have to work according to financial years. I do not know whether I am right, but I sense a presumption about 6 April. I hope that that is not the case. I do not know where 6 April comes from—perhaps pagan festivals and the spring equinox—but it should not govern when we have to act. Things are far more urgent. We should get on with it the very day, week or month that we determine how to act.
+
+I therefore support amendment (a), which would set a deadline of within 12 months of Royal Assent. We could fill any time available—we could spend six years thinking about this—but we urgently need to get on with it. I therefore urge the Minister to accept amendment (a). Even if he were not forced to do so, I am sure that he would want to pull out every stop to ensure that action was taken in 12 months.
+
+I welcome amendment (f), and if the Minister does not feel able to accept it, I hope that we can test the House’s opinion on it. It deals with combined heat and power. One could be a purist and say that, because that is not a renewable, it should not be included. That would be an argument, albeit one that I do not accept. However, if we intend to include combined heat and power and recognise its contribution, the low threshold is odd. I know that the Minister will try to justify it shortly, but the contribution of combined heat and power, at least in the transitional phase when we try to move to very low carbon, if not zero carbon, is demonstrable. To constrain it so much, up-front, in primary legislation is odd. Tariffs can differ according to technology and at varying thresholds, so the potential to treat small micro-CHP differently from larger CHP already exists. Removing the constraint simply gives the Government more power and flexibility. I therefore hope that the Minister will accept amendment (f).
+
+A potential downside of the feed-in tariff has not been mentioned. We support and welcome the feed-in tariff, but I hope that the Minister will reflect on that possible downside. Who pays for it? If we are not careful, we know which small-scale community groups, hospitals and schools and householders will do small-scale generation. We know who will have a solar panel and—dare I say it?—a small-scale wind turbine on the roof. We know the social groups and the income bands that will do that and to whom the feed-in tariffs will be paid, if we are not careful. Everybody else will pay for it in their bills, and that will be bad news for fuel poverty.
+
+We have a combined Ministry dealing with climate change and energy. Part of the energy remit is obviously affordable energy. Clearly, there is a tension. However, given that we want feed-in tariffs, and that we want them to be generous enough to make things happen, does not that place a great onus on the Government to get serious about social tariffs and tackling fuel poverty by other means? If all we do is introduce a generous feed-in tariff that results in an increase in fuel bills across the board, we will worsen fuel poverty. None of us wants to do that. What will go hand in hand with feed-in tariffs to ensure that we do not make fuel poverty worse? I hope that part of the answer is insulation and so on, but that is happening anyway. We hope that other energy efficiency measures will be taken, and that companies will introduce social tariffs, but there is precious little evidence of that so far.
+
+Mr. Drew
+I thank the hon. Gentleman—my neighbour—for giving way. Does he agree that that point is a weakness, and that one way of responding to it would be to collectivise the operation of the feed-in tariffs? One weakness of the renewables industry is that we rely far too much on pepper-potting activity, depending on the willingness of individuals to participate. We need communities, neighbourhoods and streets to take up initiatives together, so that they can benefit from the efficiencies that arise from economies of scale.
+
+Steve Webb
+I agree that one possibility for the 5 MW threshold is schemes of that kind. However, even if a school undertakes such a scheme, the money goes to the school. That is great for the school, but who is paying? Everybody else is paying, through their energy bills. My worry is that we will do something that is entirely laudable and right, but which has unintended consequences for those whom we are all so concerned about.
+
+Alan Simpson
+Is the hon. Gentleman aware of one way in which other EU partners have begun to address this issue? The certainty of the tariff system has allowed local authorities to cushion the installation costs in social housing, so that rather than being a barrier to addressing fuel poverty, the system turns out to be an additional resource. However, that is possible only by doing what the Secretary of State has done, which is to set a threshold high enough to encourage municipalities to undertake schemes on that scale.
+
+Steve Webb
+We can certainly learn from what has happened elsewhere, and the examples that the hon. Gentleman cites are good ones. For example, if a local authority takes forward a scheme, the revenue from that scheme can cushion council tax bills, or whatever. My worry is that whereas local authorities in Germany, for example, are substantially devolved, with revenue-raising power and other freedoms, we are grafting the feed-in tariff on to a British system that is staggeringly centralised. Local government has little power to do those things, although some find ways. There is great potential for what the hon. Gentleman describes, but a lot of other things would have to happen to facilitate it. In a sense, that is what I am flagging up. We need to ensure that mitigation measures are in place so that we get the good of the feed-in tariff without the damage of fuel poverty.
+
+I want briefly to raise two other issues. The first is the issue of grandfathering, which is to say that we want to avoid any hiatus. Again, that argues in favour of the 12-month limit proposed in amendment (a). We want people to invest now; we do not want them to hold off. One reason for holding off on a smaller-scale development—either a renewables obligation development or a feed-in tariff development—might be to wait and see what happens to the feed-in tariff. If the Minister could confirm that somebody investing in a certain regime would be guaranteed that regime for the life of the project, that would remove some of the investment uncertainty. If somebody was considering investing in a 4.4 MW two-wind-turbine project, that project would be below the threshold, and therefore potentially either feed-in tariff-able or ROC-able. We would want them to invest now and to get on with it, so can the Minister clarify whether, if it turned out that the feed-in tariff would be more beneficial, such a person would be able to opt into the feed-in tariff, perhaps once and for all, for the lifetime of the project?
+
+If I were deciding today to go for a two-turbine 4.4 MW project, which could relate to either a ROC or a feed-in tariff, could I switch on to the feed-in tariff—once we know what it is, that is—or would I be committing myself to the ROC for ever, in which case I might delay until I knew what the feed-in tariff was? Can the Minister confirm whether there might be a one-off opportunity to switch? I am still slightly hazy as to whether, once everything is up and running and both schemes are potentially available to small-scale generation, people will choose one or the other, or whether they would be able to switch between the two and change their minds. Can the Minister clarify how the two will interrelate?
+
+We warmly welcome the feed-in tariff, and the Government’s amendment (g), which increases its scope. We need action to check that fuel poverty will not be worsened by the measure, but above all we need a sense of urgency, not endless further consideration to try to perfect the provisions. We must not make the best the enemy of the good. We must not simply strive for perfection when that means delay, because we will never have perfection. We need to get on with it—in which spirit, I support amendment (a), and I believe that amendment (f), on combined heat and power, also needs to be supported.
+
+Mr. Elliot Morley (Scunthorpe) (Lab)
+May I also give my warm support to the introduction of feed-in tariffs? The Government have been bold on this matter. I also give my support to the campaigns by non-governmental organisations such as Friends of the Earth, and to the many Members of this House who have taken the issue forward.
+
+It is fair to say that if we had understood feed-in tariffs better at the beginning of the incentivisation of renewables, the Government might have gone down that path. However, I understand, given the need to encourage investment in large-scale renewables and the fact that there has been a lot of investment in ROCs, that the Government are reluctant to disturb the stability that has been put in place. Stability and certainty are important, which is why I accept the argument that it is important for the Government to give some indication about time scale, pricing and structures. That cannot be done overnight; it will take a little time and involve some consultation. However, the sooner it is done, the better in terms of the undoubted benefits that we will get from a feed-in tariff. Those benefits will be both environmental and economic. There is no doubt that feed-in tariffs will be a great stimulus to the development of new small-scale technologies, and I am keen to see support for manufacturing in this country, innovation and new developments.
+
+I also want to mention the potential impact of the measure on fuel poverty and people on low incomes. Some good points were made on that by the hon. Member for Northavon (Steve Webb) and my hon. Friend the Member for Stroud (Mr. Drew). Will the Minister consider the idea of a community or co-operative approach to encourage small-scale renewables? Perhaps one way of doing that is through warm zones. To their credit, the Government have pioneered warm zones, whereby additional funding is made available for insulation in areas of low-income housing. It would be possible, without too much difficulty, to adapt the funding for those zones to encourage the installation of small-scale renewables in the same way. I am sure that that could be done in partnership with local authorities. As my hon. Friend the Member for Nottingham, South (Alan Simpson) said, many local authorities would be very keen to be involved in such a scheme.
+
+It is important that the environmental and economic benefits of small-scale renewables should be spread out to provide social equity. That way, we would have all three strands of sustainable development: social, economic and environmental.
+
+All in all, this measure is a very welcome development, and I agree with my hon. Friend that the Secretary of State and the new Department deserve a great deal of credit for it. However, it is important, if we want the development brought forward, to have the earliest indication about the details and time scale, as other hon. Members have made clear.
+
+Mr. Mike Weir (Angus) (SNP)
+Along with other hon. Members, I warmly welcome the Lords amendments that bring in the feed-in tariffs. I am glad that the Government have moved a considerable distance towards this. That is not something that the Minister will hear often from my party, and I hope that it does not damage him too much in the eyes of the Prime Minister.
+
+I fully support amendment (a), which was tabled by the hon. Member for Nottingham, South (Alan Simpson). It is important that there is certainty regarding when the feed-in tariff will be introduced. The sooner we know, the better. As others have said, the hon. Gentleman led a very good campaign that received support from both sides of the House to get this far on the matter, on which he deserves our congratulations. Hopefully, he will be able to get us a little bit further, so that we can all be satisfied that feed-in tariffs are definitely coming.
+
+My interest in the matter comes about because I represent a largely rural area. In many parts of rural Scotland—this also affects many other rural areas—there is a problem because many homes are not connected to the gas grid. I have for a long time raised questions—the Minister’s predecessor, the right hon. Member for Croydon, North (Malcolm Wicks), heard me raise them often—about the problems of off-grid supplies for hard-to-treat homes. That is a serious issue for my area and many other rural areas.
+
+17:00:00
+
+The hon. Member for Northavon (Steve Webb) rightly talked about fuel poverty, which is a real problem for those not connected to the gas grid at the moment, but wanting to heat their homes. I believe that feed-in tariffs offer the opportunity to look at renewable energy as a way of tackling the problem, and significantly alleviating fuel poverty in rural areas. It is not without its problems, one of which was touched on briefly by other Members: that many of the renewable energy resources are very expensive to install at the moment. The feed-in tariff will help to some extent, but we also need to ensure that the capital cost of the equipment is reduced, to allow many other people to take advantage of this. I look forward to the day when smaller communities can have their own renewable energy, and feed in the excess to the grid.
+
+That raises yet another problem—the nature of the grid itself. There have been ongoing problems with renewable energy’s access to the grid—an issue that I have spoken about on many occasions. I shall not rehearse all the arguments again, but I note that only this week, the Crown Estate Commissioners started their licensing application for renewable energy through wave and tidal power in the Pentland firth, which offers huge potential for renewable energy. Even there, however, there are problems accessing the grid.
+
+The hon. Member for Nottingham, South mentioned the Pelamis development. On a visit, I actually stood under a Pelamis machine—thankfully, it was not in the water at the time. It has huge potential, but it needs to get into the grid. This a problem that we are going to have to tackle through Ofgem, to ensure that the grid can take on both large-scale and small-scale renewables and allow the feed-in. I suspect that many energy companies will allow grid access difficulties to stand between customers and feed-in tariff.
+
+Alan Simpson
+The hon. Gentleman is making an important point, but I hope he will accept that how we tackle the grid does not need to be addressed in this legislation. The EU directive on renewables gave all EU countries the right to decide for themselves whether renewables were to have priority access to the grid, or whether it would be left to the market. The UK took a decision not to make that a binding obligation. We could reverse that decision ourselves; we do not need to view it as a deficiency in the Bill. We can change the Government’s remit through regulation, which does not require primary legislation. If we have the will, there should be no obstacle to changing the remit and putting ourselves on the same sort of playing field as the rest of Europe.
+
+Mr. Weir
+I accept the spirit of what the hon. Gentleman says; I was not suggesting that we needed to build requirements into the Bill. I was just making the point that the issue will have to be tackled, along with the introduction of the feed-in tariff. Grid access is a real problem, and we should not blind ourselves to it.
+
+To conclude, I warmly welcome the distance we have travelled, and I hope that we can travel that last bit of distance and have a feed-in tariff regime that will really work—and work quickly.
+
+Mr. Gummer
+I hope that we are not in danger of sounding churlish to the Minister, as there is no doubt that we have moved a long way in a very short time. There is also no doubt that the new Ministry has got off to a very good start; right from the beginning, certain things were announced that we had all hoped for. The 80 per cent. reduction in emissions by 2050, and feed-in tariffs, were two things that gave all of us across the House a feeling that the new Ministry had lined up its ducks in the right order.
+
+Therefore, it is with a certain amount of reluctance that I say to the Minister that there is a third element to this that would make a big difference—what I might describe as “urgency”. If we are being fair about the excellence aspects, we must also be fair about the drawbacks. We have treated many of these matters with a lack of urgency. The Government have not been as quick or fleet-footed as they ought to have been. Most of us would accept that.
+
+If that is true, and if urgency is very important, it is reasonable to support the amendments, to ensure that people get on with it. That is not because I believe there is any possibility of the Government going back on their feed-in tariffs decision. It would be foolish for anyone to suggest that someone will turn up and say that that is not what the Government promised. I would love to find out who it was in the Treasury who hated feed-in tariffs for so many years. There must have been a person whose life’s determination was to block feed-in tariffs. However much the argument went on, somebody there deep in a cavern was determined to make sure that it would happen over his dead body. Now we will find the body, but it would be interesting to know to whom it belonged.
+
+I do not think that the Government will get this wrong, but we need to involve people outside in a real crusade to find answers to the issues of climate change. The reason why I have always believed in feed-in tariffs, and why we made them a central part of our energy proposals in the “Quality of Life” report, was simply that we dare not leave to the experts, the big companies or the ministries the job of finding the way to solve the challenge of climate change. We must get every kind of person with any kind of contribution to make that contribution. As my hon. Friend the Member for Wealden (Charles Hendry) said, we are an innovative country and we can find ways that were hitherto unthought of.
+
+Feed-in tariffs draw those ideas out and encourage all sorts of different people to find structures that make it possible for us to apply new ways of generation that would otherwise not occur. I hope that the Government will help us by ensuring that we know that this will happen quickly, and that people know how it will affect them. Will the Minister answer some of the questions asked by the hon. Member for Northavon (Steve Webb), who speaks for the Liberal Democrats, in terms of understanding whether people who opt in to one system can opt out, if the other is more suitable?
+
+Perhaps the Minister will take these questions as compliments to the Government. We are all pleased that today we can see this new beginning; we just want it quickly. Christmas cannot come quickly enough, because we do not have time, and urgency must be injected not only into the Government, but into the world outside. If the Minister can give us that assurance, we will have a real reason to thank the new Ministry, beyond all the plaudits that it has received already.
+
+Mr. Mike O'Brien
+I welcome the debate and its positive tone, not least in terms of the praise for the Government and, quite rightly, for my right hon. Friend the Secretary of State. I join other Members in paying tribute to the work of my hon. Friends the Members for Nottingham, South (Alan Simpson) and for Morley and Rothwell (Colin Challen) and others who, on an all-party basis, have pressed for the changes.
+
+The hon. Member for Wealden (Charles Hendry) was right that this measure will help hospitals and schools, but 5 MW of electricity can heat an awful lot of homes, indeed thousands of them, so that means we can ensure that we have electricity, and heat in due course, for large communities.
+
+May I also reassure the hon. Gentleman that we are talking not about super-ROCs, but about real feed-in tariffs? That is certainly the obligation to which the Government have signed up, but there has been much lengthy debate about the effective deployment of renewables since the Bill was introduced in the House in January. I am pleased that hon. Members both sides of the House share our objective of ensuring that we are best placed and have the best possible financial framework to enable us to meet our 2020 renewables target.
+
+The changes that we will make to the renewables obligation under the Bill will build on the success of the renewables obligation so far and lead to the deployment of more diverse mixes of larger-scale renewable electricity projects as we move towards 2020. That is important: although there is a lot of praise for the introduction of feed-in tariffs, the renewables obligation will continue to be a primary means by which we ensure that the 2020 target is hit.
+
+We have listened to the arguments that the RO is not suitable for domestic and small-scale electricity generation projects, at least partly because of its relative complexity. Although some small-scale projects have operated via the RO, the results are patchy, so we have decided to introduce feed-in tariffs for small-scale low-carbon electricity generation. An upper cap for those feed-in tariffs has been defined in the Bill to give clarity and certainty to investors in large-scale projects under the RO. Our original amendment in the other place set an upper limit of 3 MW—we wanted the upper cap to be high enough to give us sufficient flexibility to ensure that we can direct support to small-scale projects of the right capacity.
+
+It is important that there is no confusion about the fact that the 5 MW limit relates to capacity, not generation. The capacity restriction is not dependent on the number of kilowatt-hours that an installation will generate over a year. Different technologies will generate different kilowatt-hours of electricity, and they will be paid over that period. This is a capacity argument in terms of determining whether or not they qualify, rather than anything else. It is important that that point is made clear during the debate, so that no one expects all those technologies to generate at that massive 5 MW level or whatever, but we also want the cap to be low enough to avoid delaying perfectly viable renewable projects under the renewables obligation. Since the debate in the other place, we have decided that the 5 MW level will be better than the 3 MW one because it will enable projects that fall into the 3 to 5 MW category to benefit from feed-in tariffs. Those involved in such projects should analyse the evidence to find out which tariff is beneficial.
+
+We will, of course, consult on the tariffs next year. As part of that process, we will undertake further analysis to determine the limit at which FITs would be set below the 5 MW cap. It is important to note that we expect that the renewables obligation will deliver the vast majority of renewable electricity up to 2020. We intend to make further announcements soon on how we plan to modify the renewables obligation to ensure that it delivers a much higher share of renewable electricity by 2020 than previously planned.
+
+On a one-off opt-out to the RO or to FITs, we intend to make further announcements on our approach to transitional projects that could be captured in the new scheme. Our aim in this announcement, however, is to minimise the risk of projects being tempted to wait and see before committing to either the RO or FITs. It is absolutely crucial that we ensure that investment confidence is sustained in the RO for larger-scale electricity projects and that no project is disrupted while we develop a feed-in tariff policy to support small-scale low-carbon generation. Indeed, 2020 is only 11 years away; delay now is undesirable.
+
+Amendment (a) seeks to require the Secretary of State to modify licences within a period of 12 months after Royal Assent to the Bill. I understand the wish of Members in all parts of the House to make rapid progress on these enabling provisions and to ensure that we deliver an effective scheme as quickly as possible. The need for urgency is felt no more keenly than in Government, especially in view of the EU renewables target that we need to hit by 2020. However, we also need to ensure that we get this right.
+
+17:15:00
+
+For example, before we can modify the relevant licences to implement the policy, we need to develop models enabling us to introduce a scheme that can effectively encourage deployment on the scale that we want. We need to consult on our analysis on the proposed tariff levels of payments for the different technologies. We need to work with the electricity suppliers and Ofgem, which will deliver the tariffs to generators to ensure that the licence modifications that we propose will function as we intend, alongside the existing licence conditions that regulate this complex market.
+
+Members should not assume that this process will be simple. It will be enormously complex. However, the benefits will be considerable and important, so we shall have to go through the process and we shall have to get it right. It will involve spending a vast amount of consumers’ money, for, as was pointed out by the hon. Member for Northavon (Steve Webb), the consumer will ultimately pay for much of it. We do not want to waste any of that money. We do not want people to be pushed further into fuel poverty because we are spending more money than is necessary on a particular project.
+
+The hon. Member for Northavon said that we had wasted enough time, and that we needed to get on with all this. I agree about the urgency, but moving too fast and getting it wrong will carry a price, and that price will be paid by consumers. We have an obligation to ensure that we get the process right, and that means getting the consultation right. While we all agree on the need for urgency, I trust that we also all agree on the need to ensure that we do not land consumers with a big and unnecessary bill.
+
+Last but not least, we need to allow time for Parliament to scrutinise the draft proposals before modifications can be made. Parliament takes its time with things: it has to go through the processes. Let us ensure that we can carry out our consultation on the feed-in tariff system and the proposed tariff levels next summer. Following that consultation and through further work with Ofgem, electricity industry players and other interested parties, we shall be in a position to finalise the implementation aspects of the system, such as arrangements for payment processes.
+
+Taking all that into account, we are committed to introducing a feed-in tariff scheme for small-scale electricity in 2010. Our ideal target is for the scheme to go live in April 2010, so that it can be aligned with the financial year of the renewables obligation. As I do not know the date of the next general election just yet, I cannot assure my hon. Friend the Member for Morley and Rothwell that “power to the people” will be at the top of the manifesto; but I can say that, if this Parliament extends to a full term, it might.
+
+We should not underestimate the challenges inherent in delivering a fully operational scheme in a little over 16 months, but, despite its complexity, it is important for us to set a target and try to meet it. We are committed to introducing the feed-in tariff as soon as possible. However, choosing an arbitrary date at this stage will fetter our ability to deliver a fully functional and effective scheme in 2010, and may put consumers at risk of having to pay more than they need.
+
+Charles Hendry
+The Minister says that he wants the introduction of the scheme to coincide with the start of the financial year 2010. Does that mean that if he missed that date, perhaps owing to factors beyond his control, the scheme would not be introduced until April 2011, or would he intend to introduce it as soon as possible thereafter?
+
+Mr. O'Brien
+I would intend to introduce it as soon as possible thereafter. In the event of a delay of a month or two, we would aim to introduce it after that. If, for example, Parliament took a little longer to discuss things for some reason, we would want to allow that time framework, but we would then be able to introduce the scheme at the appropriate moment. April is a convenient date because many, although not all, businesses manage their annual calendars in relation to it, but it is not an essential date.
+
+Alan Simpson
+I wholeheartedly agree with the Minister that it is more important to get the scheme right than just to get it in place quickly, but will he consider the following two things in the process of trying to combine those two goals? First, it is clear from today’s amendments that a considerable amount of expertise in the House could be harnessed towards coming up with a scheme that we get right in the first place, so can we have a commitment to try to harness that know-how now, rather than leave it to the end of a consultation process? Secondly, will the Minister make sure that we have as seamless a transfer-in as possible, which does not lose certain things? For instance, will he look specifically at the current decision to close access to the low-carbon building programme in seven months’ time, because the danger is that we will have precisely the sort of renewables energy-generating companies that will then cease to have access to the only low-carbon schemes we are currently promoting, yet we will still be dependent on such schemes for perhaps a year after they have ceased to exist? Will he look at the interfaces, so that we do not lose access to our current expertise?
+
+Mr. O'Brien
+We will certainly look into those issues, but I cannot offer my hon. Friend an assurance on them. I can assure him, however, that we want to utilise the know-how, and I can think of few better people to have their know-how utilised than my hon. Friend, and I ask him now if he will work with Ministers and our officials on developing the detail of this strategy over the coming 16 months, because there will be a lot of work to do. I hope that when he rises to close the debate, he will be able to reassure us that he is prepared to work with us on that.
+
+I have quite a lot still to say, so I shall try to give as full a reply, and as brief, as possible. Amendment (b) to Lords amendment No. 42 suggests we replace the term “financial incentives” in proposed new subsection (2)(a) with “payment”. The use of the term “financial incentives” clarifies that the general purpose of the scheme is to incentivise low-carbon electricity generation through financial incentives, as opposed to other means such as a regulatory obligation or barrier-busting support, such as help with the planning system. We believe that such clarity is helpful in setting out beyond any doubt the primary purpose of the scheme. However, to give additional reassurances about our intentions, I would point to the powers under proposed new subsection (3) that specifies the term “payment” in all the key provisions that will establish the scheme. In others words, it is explicit that we are dealing with payments to small-scale generators. What is proposed will be a real feed-in tariff scheme.
+
+Amendments (c) and (d) seek confirmation that the Government intend to introduce a feed-in tariff scheme similar to those established on the continent. We want to ensure that those schemes work as effectively as possible in the UK electricity system, and we need to get this right. We certainly want to learn from our European colleagues and make sure we consider the best features of their schemes. My officials have already benefited from discussions with the German Government during the policy development process. Officials also attended the meeting of the international feed-in co-operation group in Brussels earlier this month, which was also attended by representatives from Spain, Germany and Slovenia. It aimed to update co-operation on feed-in tariff developments in the UK, and to show how countries could learn more about best practice from other nations with operational tariffs in force. That group has recently updated its best practice paper, which will be an extremely useful document for us to use when developing this policy, and we look forward to working in close co-operation with other countries. In line with best practice, the expectation is that generators will receive a guaranteed payment for generating electricity over a set period of time. This is covered in proposed new subsection (3)(a), which allows for “specified circumstances”.
+
+Changing proposed new subsection (3)(b) to include the words “level of payment” in addition to outlining how a payment is calculated is unnecessary as this is already covered in the proposed new subsection. For newly installed plants only, we expect that the level of payments for a given group of technologies will decrease year by year to take account of learning and economies of scale—a familiar concept in most feed-in tariff schemes. That eventuality is already covered in proposed new subsection (3)(c).
+
+Amendment (d) to Lords amendment No. 42 concerns, among other things, the distribution system, a point that was raised on Report in the other place. It demonstrates the sort of complexities created by the introduction of a feed-in tariff. The new scheme has to operate within what is effectively a dynamic electricity system with many players and interested parties. Subsections (1) and (2)(b), as proposed in amendment No. 42, seek to address those issues by giving us the power to modify distribution licences where we believe it necessary to do so. The proposed new clause is sufficiently flexible to allow different levels of tariff payments to be made to different sources of energy and technologies as well as to different scales of plant, so I can give hon. Members some assurance on that point.
+
+Finally, I would like to respond to amendment (f) to Lords amendment No. 42, which removes the capacity limit for fossil-fuel combined heat and power within the feed-in tariff. CHP has an important role to play in moving the UK towards a thriving, competitive, low-carbon economy. That is demonstrated by the range of support measures that we already have for good quality, fossil-fuel CHP, such as the exemption from the climate change levy, special status in the second phase of the European Union emissions trading scheme and eligibility for enhanced capital allowances. Those measures are already in place. We should not forget that the principal purpose of the feed-in-tariff clause is to reward smaller-scale renewable electricity technologies in order to meet our ambitious renewable energy targets.
+
+However, we were persuaded by the arguments put forward in the other place by the Opposition, who sought, through their own amendment, to place a cap on CHP of 50kW. They did so because micro-CHP is still a technology in development, unlike large-scale CHP, which is a proven technology. As with other technologies, we can expect our final feed-in tariffs policy to set different tariffs for different scales of micro-CHP units, but it is most important that we support CHP appropriately. We cannot know all the unintended consequences of taking a last-minute decision to switch from a mechanism that should principally be about incentivising small renewable projects to one which can encourage non-renewable CHP up to a scale of 5 MW. Is that what that the Opposition intended? I have some concerns about that. The right place to consider the incentive framework for non-renewable CHP above the micro-level is in the forthcoming heat and energy efficiency strategy, not here.
+
+Paddy Tipping
+I am grateful to the Minister for giving way; he is being very amendable to the House. He talked about the incentives for CHP. I remind him that the Government have set a target for CHP, and he knows that we are a long way from achieving that. I welcome his undertaking to look at the issue again when we talk about a renewable heat strategy. It is important that we make significant progress in that respect.
+
+Mr. O'Brien
+My hon. Friend is absolutely right. I can heartily give him such a reassurance, particularly on a day when we remember Peter Lehmann, who was most active in ensuring that CHP was put on the public agenda. Today, on the day of his funeral, I pay enormous tribute to a man who was a wonderful advocate for people who suffer from fuel poverty, and who campaigned strongly for CHP. It was in the latter context that I first met him, and I reassure my hon. Friend that I—along with him and other hon. Members—want to ensure that the work that Peter did to advance CHP will be delivered upon.
+
+Steve Webb
+I do not understand why the Minister wants to prevent himself from having a power that he might want to exercise. Let us suppose that he keeps the 50 kW threshold in the Bill, but then decides, through his other strategy, that the best way to incentivise 100 kW or 150 kW CHP is through a feed-in tariff. He would be able to get on with that if we were to give him the power to do so today. Why does he want to prevent himself from having that power?
+
+17:30:00
+
+Mr. O'Brien
+Because we need to ensure that we focus on the renewables agenda that we intend this entire legislation to focus on. We have accepted an Opposition proposal that we make provision up to a certain level. Not setting the cap may have a series of unintended consequences that we need to consider with a great deal of care. I am advised that if, as the hon. Gentleman suggests, we decide at some future stage that we want to get rid of the cap, we would be able to do so in secondary legislation—we would have the power to do that.
+
+I am satisfied that 50 kW should be the limit that we set in this Bill, because I do not want to create expectations that feed-in tariffs will be available to above that level for CHP. That would generate a load of speculation and a lot of pressure, and it would be very difficult for us to resist it, as we might wish to do after considering this issue in the round as part of a wider examination of non-renewable CHP. The hon. Gentleman’s approach would close down the options much more than it would keep them open, because it would generate a level of expectation that I do not wish to see at this stage. I strongly believe that we need to examine the matter separately, and we will examine CHP above the micro-level in the forthcoming heat and energy efficiency study.
+
+The hon. Member for Angus (Mr. Weir) raised an important point when he asked whether feed-in tariffs would help to relieve rural poverty and help people in hard-to-connect areas. The answer is absolutely, because this is a significant development for people in the sorts of areas that he identifies. He also mentioned, as did others, that there were problems in getting access to the grid, and he rightly said that such issues have to be addressed. However, we must remember not only that we need to help people in those rural areas with feed-in tariffs, but that the renewable heat incentive could be of significant benefit to such people. As a result of some of the changes that we are introducing today, if the House decides to accept them, some of his constituents, like the constituents of many of us—I, too, represent a rural area—could well derive significant benefits.
+
+In conclusion, the Government are determined to reassure the House that we are committed to feed-in tariffs. In reality, we are not talking about super-ROCs or any such thing; these are genuine feed-in tariffs that we want to see implemented. We have a clear strategy on that, and I shall be happy to meet my hon. Friend the Member for Nottingham, South to discuss how we implement it. He can keep an eye on us to ensure that when we implement it, we do so properly.
+
+Mr. Jim Devine (Livingston) (Lab)
+We should place on record our congratulations to my hon. Friend the Member for Nottingham, South (Alan Simpson) on his work. This is a dream day for him. He has been superb in campaigning on this issue and it is great how far this Government have gone. So, I also pay tribute to my Front-Bench team for today’s debate.
+
+Mr. O'Brien
+My hon. Friend rightly says that we should praise my hon. Friend the Member for Nottingham, South. He has always been on the radical left of the party, so I am not sure whether a new Labour Minister praising him from the Dispatch Box would have been in his dreams or his nightmares. However, praise him we should and we do—I congratulate him on the work that he has done.
+
+Alan Simpson
+I speak with some trepidation, but I thank the Minister for the way in which he has responded to the debate. I do not think that the House could have expected him to go into such detail in his assurances about the specifics of what will be incorporated into the Government scheme. Anyone who takes stock of those will understand that they will put the UK scheme at the forefront of European standards of best practice and best guidelines rather than at the back. That is exactly where we ought to be.
+
+On the timetable, I understand the Minister’s anxiety to get the correct balance between urgency and accuracy. On the basis of his assurances, it would be crass to push the House to a Division. It would also be appropriate to say that given the specific invitations and the kind and generous words that the Minister has offered to me, I agree wholeheartedly to work with him in whatever ways the Government and the Department want me to. I can think of no better way of using my remaining time in Parliament. We are moving into our own renewable energy revolution, and that is something of which I am proud to be a part. I beg to ask leave to withdraw the amendment.
+
+Amendment, by leave, withdrawn.
+
+Amendment proposed to the Lords amendment: (b), in line 14, leave out ‘financial incentives’ and insert ‘payment’.—[Charles Hendry.]
+
+Question put, That the amendment to the Lords amendment be made:—
+
+Division 326
+18/11/2008 17:36:00
+The House divided:
+Ayes: 220
+Noes: 288
+Question accordingly negatived.
+
+Government amendment (g) to the Lords amendment made.
+
+Amendment to the Lords amendment proposed: (f), line 76, leave out—
+
+‘with an electrical capacity of 50 kilowatts or less’.—[Charles Hendry.]
+
+Question put, That the amendment to the Lords amendment be made:—
+
+Division 327
+18/11/2008 00:00:00
+The House divided:
+Ayes: 222
+Noes: 286
+Question accordingly negatived.
+
+Lords amendment, as amended, agreed to [Special Entry].
+
+Lords amendments Nos. 43 to 45 agreed to [some with Special Entry] .
+
+Clause 51
+
+Nuclear decommissioning: regulations and guidance
+
+Lords amendment: No. 46.
+
+Mr. Mike O'Brien
+I beg to move, That this House agrees with the Lords in the said amendment.
+
+Mr. Deputy Speaker (Sir Michael Lord)
+With this it will be convenient to consider Lords amendments Nos. 47 to 53, 58 to 63, 67, 86, 87, 90, 92, 93, 97, 98, 100 and 101.
+
+Mr. O'Brien
+This group of amendments covers the changes made in the other place to a number of issues in the Bill, including the three decommissioning regimes—nuclear, offshore renewables and oil and gas decommissioning—the reporting requirements and matters relating to smart meters. There is also a minor and technical drafting amendment. I shall deal with each of them.
+
+Amendments Nos. 46 and 47 relate to the nuclear decommissioning provisions. The other place sought greater clarification about the factors that the Secretary of State may take into account when deciding to approve or modify a funded decommissioning programme for a new nuclear power station. Amendment No. 46 creates a duty on the Secretary of State to publish guidance on factors that it may be appropriate to consider when approving a programme or making a modification to a programme in clause 51(5). Amendment No. 47 creates a duty on the Secretary of State to have regard to that guidance. That provides the potential operator with greater certainty about the factors that the Secretary of State will take into account, while not unduly limiting his flexibility.
+
+Amendments Nos. 48, 50 and 53 relate to the definition of security and the protection of that security in the event of insolvency for the three decommissioning regulatory regimes in the Bill—the nuclear power stations, offshore renewable energy installations and offshore oil and gas installations. The amendments clarify the meaning of the term “security” as it is used in relation to the three regulatory regimes. Under the Bill as it was previously drafted, there was a risk that if an operator became insolvent, the courts could construe the term “security” by reference to the narrow, legal nature of any arrangements in place, rather than to their broader economic effect. In such a situation, there would be a high risk that the taxpayer would have to meet any resultant shortfall in decommissioning funds. The amendments will help to ensure that the courts take a broad definition of security when considering insolvency cases, thereby helping to protect the taxpayer better.
+
+Amendments Nos. 51 and 52 relate to the oil and gas decommissioning provision in clause 69. The other place debated an amendment aimed at more closely linking the liability for decommissioning an offshore installation to companies that have received benefits from the installation. The amendments are technical in nature, and make it clear that liability will apply to licensees only when they are entitled to benefit or have benefited from the principal purpose for which the installation is maintained or is intended to be maintained. The amendments will create a precise link between the benefit and activities on the relevant field. The liability will not extend to licensees on a different field even if they receive a secondary service from the installation. The amendments will extend further clarification to gas unloading and storage and carbon sequestration activities. The Government believe that these amendments add to the clarity and practicality of the respective frameworks while maintaining their robustness.
+
+Amendments Nos. 58 to 62 reinstate a requirement for the sustainable energy report to cover a specific reporting period. We propose that this period should run from January to December instead of retaining the current 12-month reporting period ending with 23 February, which was arbitrarily based on the publication date of the energy White Paper in 2003. That change will enable our report to align with the carbon budget reporting cycles that will be established through the Climate Change Bill. The change of reporting period to a calendar year also necessitates a change in publication date. We have therefore added a requirement that the report for a particular calendar year should be published no later than October the following year. That would commit the Government to report by a certain time in the year but will still enable the appropriate analysis to be completed shortly after all the latest data become available, which is generally between April and July. Finally, we are reinstating the requirement in section 172 of the Energy Act 2004 for the Secretary of State to report separately to Parliament on security of energy supplies. Lobby groups have expressed concern that we might be seen to be rowing back from reporting, but that is not our intention.
+
+Amendment No. 49 relates to nuclear decommissioning. The other place debated the offence under clause 57 of knowingly or recklessly supplying false or misleading information to Ministers in relation to nuclear decommissioning programmes, and whether that should apply in all cases. Lord Jenkin of Roding believed that that was too onerous. Amendment No. 49 therefore creates a materiality threshold so that only information that is false or misleading in a material respect falls within the scope of the clause. That makes clause 57 consistent with equivalent offences in other areas of legislation—for example, sections 117 and 201 of the Enterprise Act 2002.
+
+Some of the other Government amendments cover a variety of smaller technical matters and consequential issues related to legislation.
+
+Let me turn to amendments Nos. 63, 86, 87, 90, 92 and 93. The House will be aware that the Government recently confirmed that we will move forward with smart metering for all households in Britain. I believe that we all recognise that delivering 47 million smart meters to homes across Britain in an efficient and well managed way will be an enormous challenge. On Report in the other place, Lord Dubs proposed an important amendment related to the type of market model that will underpin the roll-out of smart meters. As we develop the detail of the project, it may become apparent that there are advantages to moving away from our current competitive metering market and considering centralising some or all metering services. At the moment, smart meters could be got to six houses by six different suppliers, who could send six different sub-contractors to those houses, which could be all in a row next to each other. We should look for a better way of doing things. At this stage, our objective is to ensure that we have a legislative basis on which to deliver a range of future options to ensure an effective roll-out.
+
+In response to my noble Friend’s amendment, the Government tabled amendments Nos. 63, 86, 87, 90, 92 and 93. We believe that the new clauses and new schedule will enable us to deliver a range of market model options in future. They amend the Secretary of State’s powers under the Gas Act 1986 and the Electricity Act 1989 to create new licensable activities and ensure that, by affirmative order, he can create new licensable activities in connection with providing, installing or operating smart meters or the related communications infrastructure. The power also provides that the Secretary of State may make regulations so that he or Ofgem will be able to award those licences following a competitive tender process, the detail of which is outlined in schedule 4. We believe that that type of power is the best way to ensure that we can deliver a range of market model options to ensure that, whatever model we choose, we retain an appropriate element of competition. This is about ensuring that we deliver the smart meters effectively and that we have competition that is not obtuse or bizarre but effective, and a model that enables it to be delivered.
+
+18:15:00
+
+Mr. Weir
+Will this allow the Secretary of State to ensure that the same type of smart meter is installed in an area so that if someone wishes to switch they are able to do so without needing to have a meter removed and a different type refitted?
+
+Mr. O’Brien
+We want to ensure that people are able easily to switch. We do not necessarily want to ensure that all the smart meters are provided by exactly the same supplier—we want an element of competition. In terms of delivery, we must work out how we ensure that we have smart meters that enable effective switching so that people do not need to swap them if they decide to switch suppliers two or three times a month to get the best price. I do not have a straight answer to the hon. Gentleman’s question whether there will be one standard meter, although I think that there probably will not be. On whether we can frame a system of smart meters that will facilitate the sorts of circumstances where people are able to switch, I think that we should be able to do that. However, we need to consult those who will be delivering this stuff to ensure that the mechanics of doing it are right.
+
+Amendment No. 67 is minor and technical. It clarifies the fact that the regulation-making as well as order-making powers set out in clause 94(2)(a) are subject to the affirmative resolution procedure. I hope that the House will agree to these Lords amendments.
+
+Charles Hendry
+Between the first and second Divisions, the gap between the Government and us narrowed by three votes, so if we had gone on for another couple of hours we would have got it down to zero. However, we decided not to inflict that on the House, and I am glad that we can now move on to the next group of amendments.
+
+The Government will be aware that we have supported the approach taken in the Bill towards encouraging nuclear new-build. We think that they have got the framework broadly right. We have to examine the changes proposed in the Bill in conjunction with some of the other initiatives that the government are taking to encourage people to consider nuclear new-build.
+
+Whatever one’s approach to nuclear new-build, we should recognise the work that is being done by the office for nuclear development, which is an outstanding example of proactive government in seeing where there are problems and how to get round them to ensure that people looking to invest in this country feel that the Government are trying to remove the obstacles. That is a good example for other areas of energy policy. I single out for praise the work of Dr. Tim Stone in trying to identify where the obstacles may be, looking specifically at the nuclear installations inspectorate and seeing what needs to be done to provide it with additional resources and more skilled personnel so that it can move forward more quickly with the work of assessing the role that different reactor types might be able to play.
+
+We welcome the changes that the Minister has announced today. We strongly support the obligation to publish the decommissioning guidance and the requirement on the Secretary of State to take account of that guidance. We also welcome the clarification of the definition of what would constitute information that is false or misleading. In fact, we proposed that in Committee, so it would be rather churlish not to support it now.
+
+We welcome the clarification of reporting requirements. There had been a strong sense in and outside the House that the Government were using the changes to remove the requirement to report regularly and in a way that people could understand. The Minister has tackled that most helpfully.
+
+There was particular concern about the vagueness of the time scales that would have been permitted and could have resulted in reports that did not reflect the same period of time. For example, one report could have covered 15 months, with the next covering nine months, and we could not easily have gained a clear picture of what was going on. We could not compare like with like. We therefore welcome the Government’s change of heart and the decision to state specifically the definition of the reporting period, which will relate largely to the calendar year.
+
+We also welcome the requirement to publish the sustainable energy report before the end of October in the year following the year to which it relates. Perhaps that approach could be taken to other Government reports, for example, on the number of people in fuel poverty. The figures always appear to lag approximately three years behind the actual figures. They probably do not lag when the numbers are going down, but when they increase, there seems to be more of a lag. Nevertheless, the requirement is a welcome step forward and we are pleased to support it.
+
+One of the most significant changes of heart that the Government had during the Bill’s passage was about smart metering. We are pleased that they will mandate the installation of smart meters. It will make a huge contribution to resolving fuel poverty, removing for ever the need for estimated bills. It will enable people to choose the cheapest tariff much more constructively and give the customer much more information. It will also help meet the environmental goals, which we share, encouraging people to use energy outside peak times. It will also be a key element in encouraging microgeneration by measuring two-way flows of electricity: that which is brought into a house and that which is exported from it. It will be essential if feed-in tariffs are to work.
+
+It is crucial that smart meters will apply to gas, electricity and, potentially, water. That is an important step in fulfilling a range of different goals. It is a step towards what would be called a smart grid—a much more intelligent grid—and being able to control the way in which people’s electricity is used and manage demand much more effectively.
+
+We are glad that the Government have overcome their reservations and accepted in principle the case for smart meters, which energy companies, consumer groups, environmental groups and Members of Parliament of all parties advocated. We are also glad that they have been persuaded of the need to accept a time scale for introducing smart meters.
+
+The 10-year roll-out is not significantly different from the current rate. Typically, in a year, 8 per cent. of meters are replaced and, just on that natural rate of churn, one would expect the whole country to be done in 12 or 13 years. Ten years is, therefore, not especially ambitious, but we recognise that it has much support in industry and with other groups outside.
+
+We could shorten the two-year consultation period. Let us revert to the concept of a locked room, especially with my right hon. Friend the Member for Suffolk, Coastal (Mr. Gummer) there to badger people to reach a conclusion. That would have been effective. We could achieve agreement in a much shorter time, but we are not prepared to make a big issue out of it because we are genuinely pleased with the Government’s approach and the fact that they have taken on board many representations that we and many others have made.
+
+Lord Hunt said:
+
+“We anticipate a period of around two years to resolve the issues and to design the full detail of a domestic roll-out. Our aim is then to ensure that the subsequent roll-out happens over a period of 10 years. This would see delivery of smart meters by the end of 2020 to align with our renewables targets.”—[Official Report, House of Lords, 28 October 2008; Vol. 704, c. 1515-16.]
+
+Will the Minister give us assurances or tell us the legal status of Lord Hunt’s comments? Will he clarify whether the Government would be inclined to move more quickly on the installation of smart meters in new-build properties? A case could clearly be made for saying that it is easier to install them when a property is being built and that that should be done before replacing the stock. Can he give us assurances about the way in which the Government wish the roll-out programme to proceed?
+
+Having said all that, the amendments are sensible and we are happy to support them.
+
+Martin Horwood
+It is the first time that I have spoken in today’s debate, so, first, I congratulate the Department on moving some way with the amendments that it has tabled. We all acknowledge that the Bill is much better than the measure we started debating.
+
+I am grateful to the Department for providing a briefing on some of the amendments that we are discussing today, partly because some are complex. I was encouraged by the heading, “Nuclear energy—false and misleading”, but, sadly, it was only an introduction to amendment No. 49. For one moment, I thought that the revolution in the Department of Energy and Climate Change had begun—sadly, it has not.
+
+I am surprised by amendment No. 49. I accept the Minister’s comments that Members in the other place felt that clause 57 was onerous, but it is strange to punish knowingly false and misleading information, yet excuse it if it is slightly false and misleading, even if it is “knowingly or recklessly” provided. If even a small amount of false information is provided knowingly and recklessly, a small fine might be appropriate, but there should still be a penalty. Although we will not make a huge issue of that, there is a good case for retaining clause 57 unamended.
+
+By contrast, we unreservedly welcome amendments Nos. 46 and 47 to clause 51. More frequent use of “must” in legislation that applies to Ministers is a good thing. Some of the duties that the amendments would explicitly create helpfully strengthen clause 51. The Minister understandably gave the amendments a slightly understated welcome, but he should be congratulated on accepting them. If they mean that the Department has to take into account the advice of, for example, the Health and Safety Executive and the Environment Agency, and that it must publish the way in which it has taken that advice, it will be less tempted to balance health and environmental considerations with those dictated by short-term political convenience—or, as is more likely, political embarrassment.
+
+Let me deal with amendments Nos. 48 to 53—the most interesting set of amendments, which the Minister portrayed as somewhat technical—which cover the slightly controversial subject of the nuclear decommissioning programme. The hon. Member for Wealden (Charles Hendry) is right that there was considerable debate, which I shall not revisit, about them in Committee. However, it was good to hear the hon. Gentleman making it crystal clear that the Conservative party is now enthusiastically pro-nuclear and has abandoned the ambivalence that seemed to be present in Committee about whether it could be simultaneously pro-nuclear and anti-nuclear. He clearly said that he wanted to encourage nuclear new-build, and I welcome his clarification of his party’s position. It is obviously not our position.
+
+We are especially concerned for the amendments on arrangements for securities to do what the Minister suggested and better protect the taxpayer. What would happen if the funded nuclear decommissioning programmes turned out not to be so well funded? That is a critical question. The amendments sensibly help define the term “securities” in a legal context. However, as we know, not all securities are as secure as others. As businesses and local authorities that are trying to recover funds from Iceland have found, some bonds and investments turn out not be as secure as they had believed.
+
+That underlines the long-term issue with funded decommissioning programmes for nuclear power, which is whether, in the event of future economic downturns, financial crises or simply bank failures, the public purse will yet again have to subsidise nuclear power. Perhaps this is a moment for the Minister to clarify how likely he thinks it is that those provisions will be used to allow public funds yet again to bail out the nuclear industry, which seems to us to be a bail-out that we need not risk at all.
+
+18:30:00
+
+Many of the remaining amendments in the group are technical, tidying amendments, which is welcome. The most interesting are those from amendment No. 63 onwards, which relate to smart meters. I entirely endorse the comments that other hon. Members have made about these important provisions. It is welcome that we are setting the framework for smart meters to be introduced. Smart meters will empower householders, so that they can not only play their part in tackling climate change and helping to save the planet, but use their household appliances much more efficiently and reduce their energy bills, thereby tackling fuel poverty. That has to be a good thing and, as the hon. Member for Wealden pointed out, may contribute towards a more intelligent use of energy on the grid more broadly.
+
+It is a shame that the time scales envisaged in the amendments are of the rather more relaxed kind that were typical of the old Department for Business, Enterprise and Regulatory Reform, rather than the imaginative new Department for Energy and Climate Change. It is pretty disappointing that the process will be complete only by 2020. We all know—the financial crisis has underlined this—that the House and the Government can certainly move fast when they want to. It would therefore be nice to see a greater sense of urgency in the planning of the introduction of smart metering.
+
+The Minister is right, however, that there are complicated details to be sorted out. I understand that, and the devil will be in the detail. I am sure that I am not alone in having already been lobbied quite extensively by advocates of different systems and technologies. We can all anticipate a heated debate on the regulations and orders made under the Bill. It will be important that we get them right and that we correctly balance commercial competitiveness, affordability for energy customers and the environmental priority of having the best possible technology to allow people to reduce their energy use.
+
+Overall, however, progress is progress. I end by congratulating the Government on the bulk of the amendments and on the green shoots of environmental change that they are beginning to cultivate in their policies.
+
+Mr. Mike O'Brien
+I was interested in the opening comment that the hon. Member for Wealden (Charles Hendry) made about the vote moving his way. I look at the assembled ranks behind him and wonder whether that would continue—mind you, Mr. Deputy Speaker, I look at the similarly empty Benches behind me and wonder what our majority would be. I join the hon. Gentleman in praising the work of Dr. Tim Stone and welcome the establishment of the office of nuclear development, which was set up by my predecessor, my right hon. Friend the Member for Croydon, North (Malcolm Wicks), who was with us earlier, and our predecessors in the Department for Business, Enterprise and Regulatory Reform, including the then Secretary of State.
+
+Let me deal with the points that have been raised. On the target of two years plus 10 years, we are undertaking a massive project and we need the time to do it properly. New build provides us with the opportunity to make sensible provisions early on. We would like to consult the building industry on how quickly we can introduce the scheme, but it makes sense that new buildings should have the new smart meters as soon as possible.
+
+The hon. Member for Cheltenham (Martin Horwood) raised a couple of issues, including one about clause 57 and the need for materiality before a prosecution is undertaken. If somebody knowingly or recklessly gave information that was utterly immaterial to the decommissioning process, it would be a bit onerous for us even to give them a small fine. People do things frivolously, and that can be taken as reckless; therefore, we need some element of materiality in a criminal prosecution. That is why we have decided to accept the proposal made in the other place that there would need to be some issue about the release that was deserving of prosecution.
+
+The hon. Gentleman also asked about the public becoming responsible for decommissioning. I remind him that nuclear power was initially public, which meant that there was an obvious public liability in relation to decommissioning. However, in respect of the introduction of nuclear power in the future, we have said that we are putting in place robust mechanisms to ensure that the taxpayer is protected, through ensuring that the operator securely pays sufficient funds to cover the costs of decommissioning and waste management. We have no intention of subsidising new nuclear, and that will include the costs of constructing the stations. Keeping the costs of construction under control is a matter for energy companies, not the Government.
+
+The strength of the regime lies in the wide range of powers that we have taken. They include the power for the Secretary of State to modify a programme, issue a direction, request information, undertake reviews and, if appropriate, bring criminal proceedings to ensure compliance. The power to place bodies corporate associated with the operator under certain obligations—for example, if the Secretary of State considers that there is a risk to taxpayer protection—adds further strength to that regime. The regime is fairly robust and will ensure that we can protect the taxpayer. Having responded to those points, I hope that the House will be able to support the amendment.
+
+Lords amendment agreed to.
+
+Lords amendments Nos. 47 to 53 agreed to.
+
+Before Clause 80
+
+Lords amendment: No. 54.
+
+Mr. Mike O'Brien
+I beg to move, That this House agrees with the Lords in the said amendment.
+
+Mr. Deputy Speaker
+With this it will be convenient to discuss Lords amendments Nos. 55 to 57, 64, 66, 72, 76, 78, 95, 96, 102 and 104.
+
+Mr. O'Brien
+This group of amendments covers a large group of areas that the Bill addresses, including: the duties of Ofgem and the related issue of access to the transmission grid for new electricity generation projects, including renewables; the ability of distribution network operators to recover the costs associated with making offers of connection to new developments; and ensuring consistency between the Bill and the existing statutory framework for energy policy.
+
+Let me deal with this group of quite complex but important amendments. We have had a lot of debate about Ofgem and its powers during the passage of the Bill. A number of concerns have been raised, centring on the need to give sustainability greater priority in Ofgem’s statutory duties and the need to address the problems of strategic investment in the electricity transmission grid in the medium and longer term, and access to the existing grid in the shorter term.
+
+After the determination shown on the subject by Members of both Houses, we brought forward a package of amendments in the other place that we believe will address those key concerns. The first element of our proposals, in Lords amendments Nos. 54, 95, 96 and 104, is to change the Secretary of State’s and Ofgem’s duties in two ways. The first is by placing the words “existing and future consumers” directly into the wording of the primary duty. In the other place, the Government were persuaded by arguments that placing such a formulation of words directly into Ofgem’s primary duty would be a clear signal from Parliament that it must take the needs of tomorrow’s consumers into account when making decisions today. It is a key signal about the importance of sustainability in decision making.
+
+The second change to the duties was made in response to those who wanted the Government to find a way to put consideration of sustainability on to an equal level with security of supply.
+
+Mr. Brian H. Donohoe (Central Ayrshire) (Lab)
+Will the Minister give way, before he finishes talking about Ofgem?
+
+Mr. Mike O'Brien
+I have not left the point about Ofgem, but I was going on to the second part of it. I shall make that point and then give way to my hon. Friend.
+
+The second change in relation to Ofgem was making sustainability equal with the issue of security of supply. Amendments Nos. 54, 95, 96 and 104 will therefore place sustainability at the same level within the hierarchy of duties as security of supply, at the top of Ofgem’s list of secondary duties. We are confident that that will give sustainability more prominence in Ofgem’s decision-making process, while maintaining its primary focus on consumer protection, without creating uncertainty for investment in new energy infrastructure.
+
+In the other place, peers emphasised that their key concern was the problems that generators face in connecting to the electricity transmission grid. Before I continue on an issue in which I know the hon. Member for Angus (Mr. Weir) is interested, I will give way to my hon. Friend.
+
+Mr. Donohoe
+It is clear in example after example in my constituency that Ofgem is powerless in a number of ways. What is being done to improve the situation so that we can best protect our constituents? Clearly, just now, Ofgem is almost a toothless tiger.
+
+Mr. O'Brien
+It seems to me that the way in which Ofgem was set up gives it quite strong powers. In the past, it has worked with the industry to ensure that competition was effectively delivered. We have been clear with Ofgem that we expect it to use its powers robustly in future to ensure not only that competition is effectively delivered, but that consumers are fully protected.
+
+That needs to be done within the context of recognising that we are expecting billions of pounds-worth of investment in new generation to come from the energy companies. We are asking for vast amounts of money from them—billions of pounds—for new power stations, renewables development, wind farms and nuclear. The change in the size of the agenda is massive. Ofgem is well aware that it has a role in ensuring security of supply and a competitive market, and that the consumer is dealt with responsibly when it comes to competition. However, it must also ensure that the energy companies are able to bring forward that very substantial generation, to ensure that we have the energy that consumers need for the future.
+
+Getting that balance right is always going to cause a lot of debate and disagreement. Ministers are supporting Ofgem, but we are also making it clear that the new Department expects it to use its powers robustly. At the same time, it must recognise that there is a wider agenda than merely keeping prices as low as possible. Recognising that agenda is desirable for all us, as the energy suppliers agreed when we met them yesterday. It is also important that we bring forward that investment and deal fairly with suppliers.
+
+Alan Simpson
+I am grateful for the Minister’s clarification, because the implications of the words added to Ofgem’s primary duty are quite far reaching. Is the Minister confident that Ofgem understands that this is not simply a bolt-on phrase that is being added to the primary duty, but a sea change in thinking? I ask that because whenever we have asked Ofgem to address specific commitments either to a future shift to renewable energy or to specific provisions that address the needs of the fuel poor, we have not been able to get it to go beyond its primary duty, which is delivering price competition within the market. If the poorest have had any choice, it has been simply to change supplier. What the Minister said represented a much more radical upheaval in the thinking. Does he feel that Ofgem is clear about the scale of the sea change that he has invited them to accept?
+
+18:45:00
+
+Mr. O'Brien
+That depends how we define radical sea changes. I am sure that Ofgem is aware of the changes. We meet Ofgem officials frequently to discuss such issues, and they are aware. Indeed, more importantly, the suppliers and generators of energy will need to be aware that the requirements are part of Ofgem’s remit. Therefore, when it comes to making decisions, they will have to have regard to the requirements. They are important changes, but whether they amount to a sea change or an element of radicalism remains to be seen. We have made it clear to Ofgem that we expect it to have full and proper regard to the changes when it makes decisions.
+
+Mr. Weir
+Will the Minister give way?
+
+Mr. O'Brien
+I was just about to move on to the hon. Gentleman’s concern about transmission grids, but I will give way on that point.
+
+Mr. Weir
+I always find that the problem with Ofgem is simply that the guiding factor was not necessarily consumers, but its strange vision of locational charging. That everything was determined by an economic theory of locational charging was always the excuse, for example, when we approached it about difficulties with grid connections. I am not sure that the changes to bring sustainability will necessarily deal with that central problem with Ofgem.
+
+Mr. O'Brien
+At the time of privatisation, when the rules under which Ofgem operates were set, it was required to have regard to competition in particular. Ofgem officials have always fallen back, in my discussions with them, on that requirement. With the legislation, we are trying to clarify and emphasise some of Ofgem’s roles, so that we can get it into a better position to deal with the issues, without damaging the way in which we expect companies to bring forward long-term investment.
+
+For example, if we were to start arbitrarily changing the parameters of Ofgem’s activities, investors—many of whom are from other countries and are putting large amounts of resources into the UK—would question whether they wanted such a presence. Because this market is a good one, I believe that most of them would want to be here in any event. However, there are degrees and proportions of investment, and we therefore want to ensure that we have the Ofgem rules right. We have listened with care to the arguments in this place and the other place on how to introduce issues such as the need to look after the interests of future consumers and sustainability. We have also examined how to ensure that electricity transmission issues are better addressed.
+
+In the other place, Lord Oxburgh urged the Government to consider bringing forward a power for the Secretary of State to intervene to resolve some of the grid access issues if the current industry process to reform the codes and licences were to fail or be delayed in some way. Having given that careful consideration, we introduced amendments Nos. 55, 56, 57, 72, 76 and 102 to deal with the problem. It is vital that the industry negotiations make significant progress quickly, and that the Secretary of State should therefore be given the power to intervene only if that proves not to be the case.
+
+These amendments will give the Government the power to amend licences and codes and will help deliver the high-level principle set out in the transmission access review. It may be used only for the purpose of facilitating access to, or efficient use of, the transmission system. The power is time-limited to two years from the date of commencement, and the Secretary of State is obliged to consult the holders of any licences that will be affected, Ofgem, and anyone else he considers appropriate.
+
+I believe that, together, these amendments will at least assist in dealing with the issues of grid access and strategic investment, as well as helping to make sustainability a more prominent part of Ofgem’s culture as it continues further to develop the work it has already done in this area. I am not presenting this to the hon. Member for Angus as a panacea; it is not. We recognise precisely what he says—that there are issues about transmission access to the grid and that they have to be resolved. That is why we sought the transmission access review to look further into how to resolve these problems, and the process to get agreement on how to deal with it is now under way. This will give the Secretary of State the ability to resolve some matters—if necessary, on the grounds that agreement has not been reached.
+
+Amendment No. 64 was made in response to another of Lord Jenkin’s proposed amendments in the other place. It introduces a new clause to give the Secretary of State a regulation-making power to provide for distribution network operators to charge up front for the work carried out in providing network connection offers.
+
+The practice of up-front charging was until recently carried out with Ofgem’s approval—until it was found to be unlawful. The Government believe that an element of up-front charging for assessment work related to large commercial projects is an efficient way of balancing the need to promote competition in the market for distribution network connections, while disincentivising speculative connection requests. What happens is we get these speculative requests, they get a slot, they crowd out those that are more definite, and it ends up with those who want access being put further down the queue. We need the capacity to charge some fees, so I believe that this is the right approach. It is envisaged that the regulations will be made, following a consultation by Ofgem to ascertain the most appropriate way of allowing these charges to be levied.
+
+Amendments Nos. 65, 69 and 75 are technical amendments to ensure consistency between the powers in the Bill for the Secretary of State to modify licences granted under the electricity and gas Acts and similar powers in the existing statutory framework for the energy sector. I will not go any further into these amendments, but I am happy to answer any questions about them. I recommend that the House accept them.
+
+Charles Hendry
+We welcome the Government’s response to recommendations made over the last few months about Ofgem’s remit. We understand that it was difficult to go down the route of giving Ofgem a dual primary duty. At the end of the day, that would have meant that it had a duty to consumers and an equal duty towards sustainability. It is probably right that it is for the Government to make any decision about the balance between those two objectives, rather than devolving their power to an independent but unelected body.
+
+We recognise the Government’s sensible approach of attempting to rebalance Ofgem’s responsibilities to ensure that the interests of future consumers, alongside those of current consumers, are taken into account. That will allow Ofgem to require that actions be taken now to provide for our long-term energy security and to address issues of long-term affordability as well. Generally speaking, the Minister has found a clever way through the different options put to him, and we support him in that.
+
+We welcome the explicit highlighting of the requirement for Ofgem to take account of measures that will assist sustainable development—essentially putting at the top of the list of secondary duties a duty towards sustainability. Although that does not go as far as some might have wished—some wanted sustainability to be a primary duty—it makes it clear that it is at the top of the list of secondary duties. That is also something that we think should work effectively.
+
+There has been much discussion—in Committee and more generally—about problems of access to the grid, especially for renewables. The current position, whereby applications have to be connected in the order in which they were applied for, is absurd. It has led to some facilities not getting a connection for years after they have been given planning consent and been built. The worst case I know of is the offer of a connection in 2022—14 years from where we are now—even though the facility will be available to run many years before that. It is right for the system to be able to take account of planning considerations and actual construction issues, and to be able to distinguish between projects that can be brought on stream at an earlier stage than others that are many years off.
+
+It is genuinely desirable to achieve the objective through voluntary agreements and it is appropriate to see whether such agreements can work. We await with great interest the outcome of discussions between the regulator and the industry. If agreement cannot be reached, however, we simply cannot allow the situation to drift on; the Government need to have powers, so that a solution can be imposed if it cannot be found through voluntary agreement. We hope that those powers will not be needed, and that the voluntary agreement will work, but we support the Government in taking on these powers, if necessary.
+
+Martin Horwood
+We welcome the amendments in general terms, but some aspects of them are a little disappointing. Unlike the hon. Member for Wealden (Charles Hendry), I am afraid that we regret the fact that the sustainability requirement was not placed alongside security of supply as part of the primary responsibility in Ofgem’s remit.
+
+Even at the top of the list of Ofgem’s secondary requirements, the definition of sustainability remains absolutely key. Unfortunately, in other Government Departments—not necessarily in this new Department—we have seen the use and abuse of the word “sustainability” in many different respects: the Department for Transport appears to believe that it is sustainable to build a third runway at Heathrow; the Department for Business, Enterprise and Regulatory Reform thought that it was sustainable to build unabated coal-fired power stations; and the Department for Communities and Local Government thinks it is sustainable to bulldoze over increasingly large areas of the countryside. The word “sustainability” is thus one that needs to be tightly defined. Luckily for the Government, one body has been very robust in its definitions and very wise in its advice—the Sustainable Development Commission. I thus urge the Department—and, indeed, Ofgem, in exercising its duty—to take its advice on the precise definition of sustainability and sustainable development.
+
+Subsection (2) inserts the words “existing and future” in respect of Ofgem’s customers. It is an interesting and clever formulation to address this issue and place it within the primary duty, but it is a little obscure and it poses the question of why we cannot one day simply value the environment in its own right, without having to regard it as a consumer entitlement of future gas or electricity customers. It is an awkward formulation, and I am not convinced that it will achieve what some of our noble Friends believed it would, as they thought it would be a completely unambiguous provision, but there is still room for some doubt about that.
+
+In the end, we have to encourage Ofgem to look radically at pricing and payment for energy works. The reform of energy pricing should one day break the link between the increased use of energy and electricity and the profits of the energy companies. That link has to be broken in some way. We need to reflect on whether it can be done by allowing consumers to pay still more for increased use of energy or by capping the profit that an energy company can take from an increase, perhaps redistributing it as another means of tackling fuel poverty. These issues are being looked at by other regulators. Ofwat is having some interesting discussions in connection with the current price review on water, attempting to break the link between resource use and private profit. It seems to me that Ofgem should be looking into the same issue, but I am not convinced that the provisions in the Bill will be strong enough to allow that to happen.
+
+For another example, some have advocated moving forward on the access transmission system from what is described as the “invest and connect” model to a “connect and manage” model that would prioritise connections to renewable sources of electricity and provide a structure that would guarantee a priority for low-carbon technologies and an incentive to move towards them. That has been advocated by the British Wind Energy Association—and I suppose we might say that it would advocate that, wouldn’t it? But it is also supported by the Sustainable Development Commission, which is there to advise the Government independently on the application of sustainable development policy. It is through tests such as this that we will really see whether this section of the Bill is strong enough to achieve the kind of change that we want to see in the energy markets, and will support the ambitious targets for carbon reduction that we will probably be debating later this evening.
+
+19:00:00
+
+Mr. Weir
+I want to make a few brief remarks on this subject. I have had many struggles with Ofgem over the years on the question of transmission charges. I genuinely welcome the amendments, which move things forward a little, particularly on up-front charges and the ridiculous situation with people having to wait years for connections. I continue to have concerns, particularly about Ofgem’s state of mind on locational charging and economic theory. That was always frustrating when discussing transmission charges and connection charges with it. Earlier I mentioned the possible development of the Pentland firth and the need to strengthen the grid overall. I am not sure that Ofgem, even with this proposal, has the mindset to do that.
+
+I say that because I well remember the last Energy Bill, during whose passage there was a lot of discussion about capping charges for access to the grid. At the end of the day, a clause was inserted into the Bill to allow one area to have capped charges. It was widely assumed at that time we were talking about the Highlands and Islands of Scotland. However, it was only the islands of Scotland on which the price cap was placed; it did not really work, and Ofgem continued on its own merry way.
+
+I am not clear from the amendments the basis on which the Secretary of State will intervene to deal with this point, or what advice he will take before doing so. Ofgem has tended to be the organisation that advised the Secretary of State of the actions he should take, so we seem to be getting into a slightly circular difficulty with that. The measure will also last for only two years. This is the same argument with the sunset clause on the capping charges, which allowed five years, if I remember correctly, for the first development that was capped, as it was very quickly on a sliding scale. I am not convinced that this proposal will get to the root of the problem.
+
+Having said that, I recognise that there are slight signs of change in Ofgem in recent months. I was slightly encouraged by its recent report on the energy companies, which was far from perfect but did finally show that it intended to take action on the scandal of prepayment meters. That suggests that Ofgem’s mindset is beginning to change a little, but I would have liked to see something stronger to ensure that the grid was strengthened and our wide capacity for renewables would be able to connect to the grid quickly. I fear that that will be the bottleneck that will prevent the uptake of many renewable resources.
+
+Mr. O'Brien
+I shall respond briefly to the hon. Member for Angus (Mr. Weir), as most of the other comments were welcome and positive. The hon. Gentleman is right to say that we need to examine transmission access, which is why we have had the review. We need to make sure that that is now put in place by consultation. Obviously, access is a difficult and a complex issue. This is not just about the way in which it is administered; it is about the actual mechanics of getting access and the cost of creating that access for the new renewables or other projects, particularly in terms of bringing renewables on to the grid. We need to make sure that, as we have a target of 2020, we create the mechanisms that enable that target to be achieved. I accept many of the points that the hon. Gentleman made, but I wish their solutions were easy; they are not. He is right to say that we must continue to work to try to resolve them.
+
+Lords amendment agreed to.
+
+Lords amendments Nos. 55 to 64 agreed to [some with Special Entry].
+
+After Clause 90
+
+Lords amendment: No. 65, to insert the following new clause—Renewable heat incentives.
+
+Alan Simpson
+I beg to move amendment (a) to the Lords amendment.
+
+Mr. Deputy Speaker
+With this we may discuss Lords amendments Nos. 70, 77 and 105.
+
+Alan Simpson
+Lords amendment No. 65 is decidedly good news and amendment (a) simply seeks to put a time frame around its implementation. The reason I say that it is decidedly good news is that there has been a very important shift in the thinking about how we deal with the heat part of the energy agenda. For a long time whenever Members approached Ministers on the issue, we were given the rather intriguing assurance that the Department had a “team on heat.” This may have raised some eye-watering prospects as to what life was like in the then Department for Trade and Industry or Department for Business, Enterprise and Regulatory Reform, but it was not clear whether this team on heat was delivering anything.
+
+One of the problems was that the efforts at that time were centred on trying to find an equivalent of the renewables obligation for heat. The good news about the amendment is that it represents an abandonment of that search in favour of a feed-in tariff arrangements; a production tariff, the like of which we can see in operation in other parts of Europe. I welcome that, and the important thing for us to address now is the time scale and the significance of the measure in connecting with other parts of the renewables agenda that we have already debated this afternoon.
+
+I would like to give just a couple of examples of why it is important that we get the time frame right. Perhaps I should say in parentheses that I welcome the fact that the Government have accepted that there should be no threshold in relation to heat generation. That is a definite good move that allows us to bridge the gap that currently exists between ourselves and, for example, Germany in relation to the generation of heat from renewable sources. In the UK at the moment there are 17 biodigesters producing gas and heat. In Germany, there are 5,500. The reason for that is that the German system already has a production tariff, which allows the system to work in ways that direct heat to off-grid communities and/or to the fuel poor, while allowing it to connect to the use of biogas for electricity. That is why it is important that the Government synchronise the timetables for the introduction of this renewables-intensive programme, and that we set in the cross-party amendments the same sort of time frame that we wanted to see in place for the introduction of feed-in tariffs for electricity. Let me give some examples as to how that makes sense.
+
+First, if a hospital, as in my own city, is considering investing in the construction of a biodigester that would take hospital waste, including food waste, and some of the biodigestible waste from other parts of the city, it will want to use that waste to create biogas, to increase its quality to biomethane and to use it to provide direct heating. In parts of the summer, when it might not require heating to the same extent, the obvious answer is to turn the excess heat into electricity. So there is an overlapping purpose: connection to the renewable energy agenda makes sense for the renewable heat agenda.
+
+The same applies to off-grid communities and the fuel poor. I brought representatives of one of the German companies across to explain that to officials in my own city. Some of the officials in Nottingham struggled to grasp the scale of what was on offer. The Germans were able to say that, in respect of fuel poor, they could offer fixed gas prices for the entire contract period for the disposal of the biodigestible waste. In an era of ever-spiralling gas prices in the international gas market, everyone who can offer, in real terms, fixed gas prices by taking what is currently a problem—biodigestible waste—and turning it into a fixed-price resource is almost offering a winning lottery ticket. Against the criteria of how we address the needs of the fuel poor and those of off-grid communities, such schemes in many respects offer a potential that is at least as large as the capacity to generate renewable electricity and place it in the context of renewable gas and heat. The point of amendment (a) is simply to say that, if we seek to remove confusion, it would be phenomenally helpful if the schemes for both could be synchronised.
+
+I do not want to be dogmatic given that, if I were to turn the argument around slightly, it would be disastrous to hold back one scheme just because the final details were not in place for the second. However, it is still legitimate for us to say that, as we think about the time scales for electricity, it makes sense for us to try to synchronise them with the time scales for the introduction of renewable heat incentives. In many cases, the same companies, communities and localities will be at the heart of that investment planning. So if we are to offer a genuinely joined-up approach to our renewables strategy, it would be helpful to have the same sort of time scale according to which we seek to deliver them.
+
+I do not want to go into the arguments that we have rehearsed in relation to the details of the scheme and the tariffs that would apply, but the principle of synchronising timetables is one that, I hope, we can commit ourselves to, and I hope that the Minister, even if he cannot accept amendment (a), can give assurances that that is the Government’s intention as they seek to motor on both of those important fronts.
+
+Charles Hendry
+I associate myself very much with the remarks that we have just heard from the hon. Member for Nottingham, South (Alan Simpson). We welcome greatly the distance that the Government have already travelled on this issue. In Committee, we were told that this was a step too far, and there was a sense that we would fail to include any aspect of heat in the Bill. It shows how far the Government have moved that we are considering in more detail today a proposal that was put into the Bill in the other place.
+
+There is no doubt that the issue has been overlooked for too long. About half the energy consumed in the United Kingdom is in the form of heat, and its generation is responsible for about 47 per cent. of our carbon emissions, so it must be a crucial part of the Government’s carbon abatement programme. But all too often, it has been easy to overlook the importance of heat, because many different households are involved, it is complicated and the solutions have been less easy to consider than in other parts of energy policy. However, we are glad that the Government have sought to address the issue and have made progress on it.
+
+19:15:00
+
+I very much endorse what has been said about the need for a clearer time scale. The concern is that we are moving in the right direction, but we do not know at what speed or when we might arrive at the conclusion that we want to reach. It is also right that there should be no threshold and that we should be thinking big and have big visions about what can be achieved. Clearly, any such threshold would have been regrettable.
+
+Just a couple of weeks ago, I visited a plant just outside my constituency that is operated by Southern Water and that takes all the waste from Burgess Hill and puts it through a very advanced, sophisticated system—the waste is put into a digester; the biogas that comes off is collected in a huge balloon and is used to power the generator; and the heat from the generator goes back to the digester and is used to assist the digestion process. It is very neat process. The only thing that is missed is the extra heat that is emitted as part of firing the boilers, which means that, as a result, some heat escapes into the atmosphere. The final link would be to capture that heat and supply it to businesses or homes that need extra heat.
+
+Lots of individual parts of the solution are being thought about, but what is sometimes missing is the element of joined-up thinking that draws them all together and makes it all happen in the manner that we want. I hope that the Government can give us some more detail, particularly on the time scale, because if investors and consumers want to get involved, they need greater clarity.
+
+There is also concern that the Lords amendment does not indicate the nature of the tariff and whether it can be varied according to technology types and energy sources. The Renewable Energy Association is concerned that the Lords amendment excludes biodiesel, as it refers to biogas and biomass. There is concern that it could be extremely problematic to have a definition of biomass in primary legislation for the first time that is possibly inconsistent with existing support mechanisms. The Renewable Energy Association suggests that the safest approach would be to use the definition of biomass found in the current renewables directive and the draft 2008 version.
+
+Biomethane is defined as gases produced by renewable sources, but it is possible to produce methane from biomass, and it looks as though that process may have been inadvertently left out.
+
+We generally welcome the fact that the Government have decided to accept the recommendation that heat should be addressed in the Bill, but there is an element of disappointment that things have been left so vague, especially with regard to the timing.
+
+Steve Webb
+I welcome the inclusion in the Bill of the renewable heat incentive and support amendment (a), which, again, tries to set a timetable. I will not repeat all the points that were made on the timetabling of the feed-in tariff, but they apply in precisely the same way.
+
+The Minister may well say that this is a much more embryonic thing and that it has been subject to less thought, less discussion and so on. I understand that point, but an explanation would be helpful to those in the outside world who watch these debates—I imagine that someone does—and who might like to know the direction of the Government’s thinking. I certainly realise that I am very hazy about what the renewable heat incentive might look like. I was trying to probe that a bit in the debate on the ways and means resolution. If I install some sort of renewable heat project, I can expect some sort of financial return. I am slightly hazy about what and how much it might be and so on.
+
+My understanding of the Government’s thinking from the ways and means resolution is that the scheme will probably be funded by a levy on the energy companies and fossil fuel generators. Essentially, Ofgem would introduce a levy and take money from the generators. That money would presumably go to the Treasury and become a Government grant to renewable heat producers. If the Department already knows that that is roughly the model that it is considering, it would help those in the world outside who might be thinking of going into such things to understand what sort of support they might get, just in very broad terms. I understand that the Minister does not yet know the detail.
+
+Again, on timing, as the hon. Member for Wealden (Charles Hendry) says, we are talking about something that is a huge part of our overall energy mix and that could be a big part of our renewable energy targets by 2020. According to figures from the National Grid Company which I am sure the Minister has seen, in what might be described as a “stretch scenario”, an amount approaching 10 per cent. of our 15 per cent. target for 2020 could come from renewable heat, gas on the grid and the like. The scope for that seems enormous.
+
+Given that, as the Minister said, 2020 is only a little over 11 years away, it is worrying that Lord Hunt was so vague about how long all this would take. It would be very worrying if there were any unnecessary delay. I hope that the measure can be introduced at the earliest possible opportunity, but failing that, I hope that the Minister will paint even the most broad-brush picture showing what a scheme of this kind would look like.
+
+Mr. Weir
+This is a strange moment for me. I warmly welcome the amendment, not least because on the one occasion when I managed to get near the top of the ballot for private Members’ Bills, I introduced a Bill providing for a renewable heat obligation. That Bill, which was drawn up by Friends of the Earth, was talked out. I also sponsored a Bill promoted by the hon. Member for Edinburgh, North and Leith (Mark Lazarowicz) providing for a renewable heat obligation. As I recall, that obligation was dropped from the Bill because of staunch opposition from the Government. I am delighted that times have changed, and that the renewable heat obligation is now becoming part of the Energy Bill.
+
+I agree wholeheartedly with the hon. Member for Nottingham, South (Alan Simpson). The amendment shows how much the debate has moved forward in the last few years. I appreciate that the scheme is at an embryonic state, but if it can be made to work, it has the potential to contribute a great deal to our fight against carbon emissions and many other problems, not least fuel poverty. I welcome the Government’s change of heart, although it has been some years coming.
+
+Mr. O'Brien
+As the House knows, an amendment that we tabled in the other place enables the Secretary of State to establish a scheme allowing us to create incentives for renewable heat.
+
+If we are to meet the 2020 EU target on renewable energy, substantial amounts of renewable heat will be required, as well as an expansion of renewable electricity and transport fuels. We estimate that, to meet the United Kingdom’s renewable energy target of 15 per cent. by 2020, we will need to obtain not 10 per cent. of heat from renewable sources—as I believe was suggested by the hon. Member for Northavon (Steve Webb)—but about 14 per cent.
+
+At present, the renewable heat sector is very small. The Government accept that financial support is necessary for investment in renewable heat, and creating the right financial incentive will be important in helping us to meet our 2020 renewables targets. The powers in the amendment will allow the Secretary of State to establish a financial support system for the renewable heat incentive.
+
+The purpose of amendment (a) is to get the Government to specify a time scale. I understand why information should be required—the hon. Member for Wealden (Charles Hendry) rightly said that people would need it so that they could take a view—but because heat, including renewable heat, is a new and potentially complex area of policy, it will take some time to make the necessary arrangements. A new Department with a new agenda has made a series of changes to the Bill at quite a late stage, and, understandably, a good deal of work on the details of the policy remains to be done.
+
+To an extent, we have a picture of what we want to do. We want to enable those who generate heat to be paid from a levy to be imposed on those who supply fossil fuel for the purpose. The funds created by the levy will be used to support the production of renewable heat. That formulation, however, does not take us far enough. We could do this through the Treasury, through something more like the renewables obligation or through a direct mechanism like a feed-in tariff, which I think would be preferable. We need to think about the details, and discuss them not only with the industry but with all the potential beneficiaries.
+
+Stakeholders have recognised the complexities involved in developing new policies in a sector in which there are much more players and issues to consider than there are in the electricity sector. It will take time to work out the implications of a move to the heat market, and how best to provide incentives for renewables. As was pointed out by both my hon. Friend the Member for Nottingham, South (Alan Simpson) and the hon. Member for Wealden, people want to know about the timetable. We plan to introduce the renewable heat incentive as soon as possible, and hope to be able to set out a robust timetable in the new year. However, a good deal more policy work will be necessary before we can do so with much precision.
+
+Can we do this at the same time as introducing the new feed-in tariffs? Clearly the two schemes will have to work side by side, and clearly it will be important to provide a single interface for generators who will want to benefit from both schemes. Heat is a complex issue, and considerable time will be required for the development of the strategy. However, we must find a way of providing the two financial incentives together, so that people can benefit from both.
+
+Martin Horwood
+Will the Minister give way?
+
+Mr. O'Brien
+I am very conscious of the time, but I will give way briefly.
+
+Martin Horwood
+The Minister accepted earlier that it might be necessary to accelerate rules on smart meters in relation to new build. Ground source heat pumps are obviously a viable technology for new build. Would he be interested in a variation of the heat incentive, perhaps on an accelerated time scale, which might encourage the use of ground source heat pumps in such buildings?
+
+Mr. O'Brien
+I am tempted by that suggestion, but I would want to be a little cautious about it. The hon. Gentleman talks of creating a financial incentive just for new build, but we cannot create a separate incentive. If we are not ready to create the broader, main incentive, we will not want to rush into that, although the hon. Gentleman is right to suggest that it would probably be easiest to introduce an incentive relating to new build first.
+
+We will produce a robust timetable as soon as we can—by the new year, I hope—and we will then be in a position to give a clear indication of when the scheme will be introduced. It is more difficult and complex than feed-in tariffs. I wish I could assure my hon. Friend the Member for Nottingham, South that we will be able to introduce it all at the same time in 16 months, but I cannot do that. He will have to accept that the new Department and the Government have come a long way. We have tried to produce the Bill in an open and straightforward manner, and to show that a clear direction of policy is developing in regard to renewables and energy in general. I hope that on that basis, despite my acknowledgement of the lack of a precise timetable, my hon. Friend will support the Government rather than pressing his amendment.
+
+Alan Simpson
+I welcome the Minister’s declaration of his intention to come back with an outline of a scheme in the early part of the new year. I accept the good will and good faith of his commitments, and I simply ask him to bear in mind two time deadlines.
+
+19:30:00
+
+Simply because this issue is new for his Department does not mean that it is new per se. Germany has already committed that by 2020 it will have developed such matters to a point where it will be economically non-dependent on Russian gas. In our own context, by 2010 when the European Union waste directive is applied to local authorities, many will face huge increases in charges for disposal of biodegradable waste, and I should think they will be looking for the sort of initiative that is to be found on the continent as a way to address such problems. If the Minister can grasp this opportunity and harness it to his enthusiasm, the House will be well served.
+
+On the basis of the assurances, I beg to ask leave to withdraw the amendment.
+
+Amendment, by leave, withdrawn.
+
+Lords amendment No. 65 agreed to [Special Entry] .
+
+Lords amendments Nos. 66 to 105 agreed to [one with Special Entry].
+

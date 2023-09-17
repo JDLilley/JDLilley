@@ -1,0 +1,802 @@
+Energy Bill
+
+[Relevant documents: First Report from the Energy and Climate Change Committee, Session 2012-13, on the Draft Energy Bill: pre-legislative scrutiny, HC 275, and the Government response, Cm 8504; Oral Evidence taken by the Energy and Climate Change Committee, Session 2012-13, on Investment in energy infrastructure and the Energy Bill, HC 749 i-iii; Ninth Report from the Environmental Audit Committee, on Energy subsidies, HC 61]
+
+Consideration of Lords amendments
+
+Mr Deputy Speaker (Mr Lindsay Hoyle)
+I must draw the House’s attention to the fact that financial privilege is involved in Lords amendments 50 to 53, 88, 89, 93 and 96. If the House agrees to any of these amendments, I will cause an appropriate entry to be made in the Journal.
+
+Schedule 4
+
+Application and modification of emissions limit duty
+
+13:57:00
+
+The Minister of State, Department of Energy and Climate Change (Michael Fallon)
+I beg to move, That this House disagrees with Lords amendment 105.
+
+The amendment would give the Secretary of State power to apply the emissions performance standard—EPS—to any existing fossil fuel power station that fits the pollution clean-up equipment that is needed to meet the tighter limits, set by the industrial emissions directive from January 2016, on emissions of oxides of sulphur and nitrogen. Under that directive, plants that do not fit clean-up equipment will from January 2016 be subject to a 17,500-hour limit on their operation, after which they must close, or, from mid-2020 be limited to just 1,500 hours of operation a year. The intention behind the amendment is to use the EPS as a regulatory tool for limiting carbon emissions from any existing coal-fired power station that is not otherwise forced to close and/or have its operation limited under the directive.
+
+First, the Government do not consider that power to be necessary. Secondly, the measure risks deterring any investment in equipment needed to comply with the directive, the consequences of which could be detrimental to consumers. I remind the House that the EPS is intended to support the planning requirement that any new coal-fired power station must be equipped with carbon capture and storage. The EPS is, therefore, about ensuring no new unabated coal, and is a clear and unambiguous regulatory measure that signals our commitment to decarbonisation.
+
+Mr John Redwood (Wokingham) (Con)
+Will the Minister confirm that eight plants are closing under the EU directive already, and if any more plants had to close the lights would go out?
+
+Michael Fallon
+I was coming on to the list of stations that have closed. My right hon. Friend is absolutely right that we need urgently to replace the capacity that is coming off the system. Coal, as he will know, currently accounts for around a quarter of our reliable generating capacity, but that is set to decline rapidly over the coming years. Last year, Kingsnorth closed, this year  we have seen the closures of Cockenzie, Didcot A and Tilbury, and we expect Ferrybridge C and Ironbridge to follow suit.
+
+Ian Lavery (Wansbeck) (Lab)
+The Minister mentions that coal is producing up to 25% of the electricity generated. Does he agree that the recent statistics prove that over the last 12 months that has been up to 50% and on average was 41%?
+
+Michael Fallon
+Coal has been an important part of the mix, and I hope the hon. Gentleman will be with us this afternoon in preventing further coal from being driven off the system.
+
+Coal is being removed from the system due to a number of factors, including the old age of some of the plants, the impacts of environmental legislation, the increasing penalty on high-carbon generation applied under the carbon price floor, and increasing levels of low-carbon generation as we introduce more renewables.
+
+Mr Mike Weir (Angus) (SNP)
+If a plant fits carbon capture and storage equipment, as a demonstration plant, could it be caught by this amendment and forced to close or not generate so much energy?
+
+Michael Fallon
+There is an exemption under the Bill for a plant that fits CCS equipment. I have made that clear to the Carbon Capture &amp; Storage Association and to those working on the various projects.
+
+The coal fleet is old, having mainly been built in the 1960s and ’70s, with only one plant, Drax, under 40 years old. Most of these ageing power stations are now expected to retire completely between now and the mid-2020s. As I have explained, if a station is not to face restrictions and/or closure under the directive, it will need to invest in clean-up equipment. That would require a multi-year programme of investment in the order of several hundred million pounds. Over time, with the carbon price floor and a strengthening emissions trading scheme, the economics of coal generation will deteriorate further compared with gas. Furthermore, as more low-carbon generation comes on to the system through new nuclear and renewables, it will result in higher-carbon coal generation being increasingly displaced. The combined effect is that the economic outlook for coal generation is poor.
+
+Our analysis is consistent with that outlook and shows that unabated coal generation will make up just 7% of total generation by 2020 and 3% by 2025, and probably 0% by 2030. There is no evidence at the moment of a large number of operators planning to upgrade their coal plants, but we should not rule out the possibility that one or two might do so.
+
+We have heard the argument that the amendment would merely make available a tool for future Governments to use, if necessary, to limit the emissions from existing coal stations, but we believe the very existence of such a power would create an additional regulatory risk that could deter the small number of our most efficient stations which might otherwise choose to upgrade. As I have set out, under the directive, stations that do not upgrade will be subject to limited hours and/or forced  to close. If the amendment were accepted, therefore, we would risk more coal stations closing earlier than might otherwise be the case.
+
+I have also considered the argument that the amendment would provide greater certainty to investors looking to build the new gas plant that we all agree will be needed. However, the amendment would do so in a way which could create risks for our security of supply and increase costs to consumers. We already face a significant investment challenge with an estimated 16 GW of new gas plant, and about 45 GW in total of all forms of generating capacity, needed over the decade from 2015 to 2024. We are acting to facilitate that new investment through other measures in the Bill, notably with regard to the capacity market. However, we cannot be 100% certain about exactly when all that investment will be delivered. We need a managed transition to a lower-carbon future, in which our existing assets are managed prudently to avoid unnecessary costs to consumers.
+
+Dan Byles (North Warwickshire) (Con)
+Does my right hon. Friend agree that the transition we are trying to make in our economy, from what we have now to what we seek in 2050, is so complex that we cannot simply approach it in an ideological way and assume low-carbon energy sources will magically appear? Instead, we need a credible, investable and coherent plan for getting from where we are now to where we want to be.
+
+Michael Fallon
+I absolutely agree with my hon. Friend. When we are dealing with security of supply and keeping costs affordable for our consumers, we must avoid being ideological. Instead, we must be inclusive and welcome new generation from a series of sources.
+
+The Department has looked at a scenario in which all our coal stations close by 2025, the results of which show that average household electricity bills would be about 3% to 4% higher—or about £22 to £28 higher—in the 2020s. That would require more gas plant to be built earlier to fill the gap—at greater cost, ultimately, to consumers. It makes no sense to accept an amendment that unnecessarily creates further risks to our security of supply and further increases costs to our consumers.
+
+The measures in this Bill are about creating the right conditions for attracting the significant investment needed in our electricity sector over the coming decade. Such investment in lower-carbon alternatives will deliver an orderly, cost-effective transition away from high-carbon coal, and that should not be put at further risk.
+
+Tom Greatrex (Rutherglen and Hamilton West) (Lab/Co-op)
+It is a pleasure to take part in the debate this afternoon, which may be the long-awaited final part of our deliberations on the Energy Bill—or maybe not. The House will not need reminding that we have had long, and at times detailed, discussions on this Bill. Indeed, I noticed while listening to the Minister’s opening remarks that the hon. Member for Wealden (Charles Hendry) is present, which reminded me that when the Bill was first published and subjected to pre-legislative scrutiny, it was in his hands, and it has since passed through the hands of the right hon. Member for South Holland and The Deepings (Mr Hayes) before his promotion to the heart of the Prime Minister’s office, and then on to the current Minister. We have been addressing this Bill for some time, therefore, and a  couple of weeks ago we debated extending its time limit. During that debate, we made it clear that the Opposition do not wish to delay the Bill unduly because it is an important piece of proposed legislation, but although the extended deadline of the end of the year is fast approaching, we think there are some issues before us today that merit further serious consideration.
+
+Indeed, these issues are before us today only because of consideration of the Bill in another place and, as the Secretary of State made clear when asked about his attitude to this particular measure, it is not necessarily as simple as sometimes portrayed by Members on the Government Benches. There have been a number of improvements to the Bill in relation to nuclear transparency, community energy and other areas, and much of that still needs to be done through secondary legislation and regulation, which will undoubtedly follow. In part those improvements have been prompted by amendment and debate instigated from both sides of the House and in both Houses, and it is in that context that I believe we should also give due cognisance to amendment 105 passed in another place.
+
+Many of the Members present have faithfully stuck with this Bill through all its stages, and they will have heard me make the point that it is my personal belief that confession is good for the soul. I therefore wish to begin with a confession: I remain somewhat confused by the attitude of Liberal Democrats Members on this issue. A number of Liberal Democrat Members have taken part in our proceedings on the Bill, and have demonstrated their desire to see an improvement in our energy infrastructure and a commitment to decarbonisation. Indeed, if one refers to the speech made by the mover of this amendment in the other place, those were exactly the concerns expressed. Lord Teverson, the Liberal Democrat’s energy spokesman in the other place, is a conscientious and diligent contributor to discussions on energy policy, but I understand that the distasteful realities of coalition mean that Ministers are constrained.
+
+The attitude displayed by the Minister today suggests that on this matter he has won the battle with his coalition colleagues in recompense for other measures we have heard about in the recent past. I wonder, however, whether this, like the 2030 decarbonisation target, is a Liberal Democrat policy that Liberal Democrat Back Benchers feel unable to vote for, or a Liberal Democrat tactic to keep those in the other place distracted. If they vote with the Government against Lords amendment 105, do they intend to vote for it again in the other place? If that is the case, the rest of us could simply leave it to the Liberal Democrats to decide between themselves, and between both Houses, which way they wish to face, or whether they wish to face both ways.
+
+Mr Redwood
+Given Labour’s long tradition of strong support of the coal industry, is the hon. Gentleman worried that the Bill will lead to a rapid collapse in coal demand and output in this country?
+
+Tom Greatrex
+No, I do not accept that and I will go on to explain why during the remainder of my remarks.
+
+We have heard, and I anticipate we will hear more in the time available, about coal generation. Some in this House are hostile to coal-fired power. Indeed, a number of those who are most enthusiastic for unconventional gas cite its ability to use less coal as part of their case for shale. There are others who are supportive of the remaining  indigenous coalfields and have strong constituency associations with coal-fired generation. A number have previously worked in that industry and I have a huge amount of respect for their knowledge and expertise. For my part, I think that coal-fired generation remains an important part of our generation mix. We are currently using, as my hon. Friend the Member for Wansbeck (Ian Lavery) pointed out, a significant amount of coal generation, particularly in the winter months. Earlier this week, the UK achieved a new generation record for wind, but coal is currently the predominant part of our generation mix.
+
+My support for coal as part of that mix is not born of any historical romanticism about the industry so much as the positive opportunity presented by carbon capture and storage for a bright future for clean coal. That important point has been recognised by the joint industry and trade union clean coal group, which has expressed many of the concerns I have about the limited and slow progress on CCS in the past three years. That is an important point when we take comparisons into account. If Members have not had the opportunity to do so, I would ask them to consider the significant progress made in Canada on CCS. My hon. Friend, a member of the Select Committee on Energy and Climate Change, has drawn attention to the tantalising and real prospect of a commercially scaled CCS project being up and running in the early part of next year. That shows what can be done with a sense of purpose and real intent.
+
+Caroline Lucas (Brighton, Pavilion) (Green)
+Is the hon. Gentleman aware of the Carbon Tracker report that shows we need to leave four fifths of known proven fossil fuel reserves in the ground if we are to have any chance of avoiding 2° warming? That being the case, Carbon Tracker analysis found that, even with CCS, fossil fuel carbon budgets would be extended by only a very small amount. If we are serious about staying below 2°, CCS still does not help us—we need to get off coal with or without CCS.
+
+Tom Greatrex
+I respect the hon. Lady’s opinions, but I disagree with her on that point. CCS provides us with the best opportunity to meet our peaking capacity demands alongside the low carbon base load generation. I know she is against that in relation to nuclear and supports more variable low carbon generation in relation to renewables.
+
+My hon. Friend has been keen, clear and committed to ensuring that CCS is not just about gas, but coal too. He makes a compelling case and I look forward to the Select Committee’s report on this important issue early in the new year.
+
+14:15:00
+
+David Mowat (Warrington South) (Con)
+I like the hon. Gentleman’s point on CCS, but is he aware that Germany is building 11 GW of new, unabated non-CCS coal, with Holland building 4 GW? Those projects have kicked off in the past year or so and those countries do not appear to feel the need for CCS. Why are countries reading this matter so differently?
+
+Tom Greatrex
+I am grateful for that intervention. I anticipated that the hon. Gentleman would refer to this point, because we had a rehearsal in a Westminster Hall  debate this morning. I have also read the report compiled for the Department of Energy and Climate Change on coal-fired power stations in Germany that he had in the Library yesterday. He will know from the report that the plants were sanctioned in 2007-08, which was pre-EU 2020 targets, pre-withdrawal of free allowances and pre-renewables. The trigger for German investment in coal was the first nuclear phase out, and the slow build of the plants commissioned in 2007-08 were the result of a number of plants using defective steel. They are likely to operate at a loss. They are completing commissioning to make less of a loss than if they had been abandoned—that is the reality.
+
+I accept the hon. Gentleman’s general point about Germany. There is a danger that we almost fetishise the German experience. [Interruption.] I think I have made the Minister of State, Department of Energy and Climate Change, the right hon. Member for Bexhill and Battle (Gregory Barker) laugh, but I did not mean fetishisation in any unclean sense. The deployment of renewables in Germany has been significant and has expanded, with more community and diverse ownership of capacity. We can learn a lot from that, but, as a German academic expressed it to me this week, with the amount of coal-fired power currently being generated in Germany, one might think that the people who hold up Germany as the green case for the future cannot read statistics. The German view of CCS has been born of opposition to storing carbon underground, and the UK is more likely to store carbon under the sea. The German decision to accelerate the phase out of nuclear was perhaps not the wisest, given the emissions targets that it too has to meet.
+
+David Mowat
+We can both agree that Germany’s carbon emissions are one third higher per capita than in the UK. On the report he mentioned—I did not realise he was sitting next to me in the Library yesterday cribbing my report—he is right to say that some of the projects were kicked off a few years ago. The report also states that by 2030 Germany plans still to have 20% to 25% of electricity generated by unabated coal, whereas our target, as I think the Minister said earlier, is 3%.
+
+Tom Greatrex
+I did not actually read the report over the hon. Gentleman’s shoulder; I looked at it beforehand as part of my preparation. It may be that I have powers of clairvoyancy, as I thought he might raise this point—he has been consistent in doing so. On his substantive point, he is right on Germany’s trajectory in comparison with the UK. Returning to the amendment, the point he rightly makes concerns the Government’s existing and continuing position, unless the Minister intends to change it. I will come on to make some remarks about how the amendment would have an impact on existing policy.
+
+The other point I wanted to make on CCS is that the Minister’s colleague in the other place, Baroness Verma, referred to no more coal without CCS. That is also the position of CoalPro, the Confederation of Coal Producers, which said, in correspondence with the Minister, that coal-fired power had to have CCS in the long term in order to meet our long-term admissions targets, and encouraged him to accelerate the demonstration projects on CCS. So there is unanimity among those with an interest in coal that CCS is the long-term answer.
+
+Ian Lavery
+Everybody would agree that coal is not going away, but will be here into the future. We will be burning even more tonnages between now and 2030, yet the Minister said that by 2030 we would probably have zero coal burning. I think that that is an absolute impossibility and that we need to progress with CCS as soon as possible. Where are we with the CCS projects?
+
+Tom Greatrex
+I agree with my hon. Friend about the need for progress on CCS, which is why I have continued to press the Government on it over the past two years. The Minister might correct me, either at the end of this debate or on the next set of amendments, but my understanding is that there should be some news on the two shortlisted projects, if not towards the end of this year, early next year. I am concerned, however, that with just two demonstration projects, in isolation, without the continuing regime of contracts for difference and other support, CCS will become almost a curiosity, rather than a continuing and integral part of how we reduce and minimise emissions from the peak in capacity we will require for many years to come.
+
+A number of energy companies have made in correspondence much the same point as CoalPro. That was why we proposed an amendment, adopted by the Government, to provide flexibility in the early stages of CCS projects, in the commissioning period, to maximise the chance to achieve what we need to on CCS. That amendment was tabled alongside another one, similar to this amendment, that we discussed in Committee, one part of which the Government accepted.
+
+Let us be clear about what the amendment would do and what it would mean for coal plant. Coal plants operating in 2013 effectively have three choices. The first is to leave the plant as it is, without investment, in which case it would close some time before 2023, depending on how quickly it used the permitted hours of operation to which the Minister referred. The second is to upgrade in order to conform to the industrial emissions directive, as has been done at least once, at Ratcliffe-on-Soar, and as others are considering doing. The third is to upgrade more significantly to extend the lifetime and meet the IED stipulations.
+
+The coal-fired power stations in the first category would be unaffected by the amendment. If they burned through their allowances quickly, operating at 55% load factor, they would still run until 2020, and because of the likely profitability of the capacity market being introduced, I suspect that many would choose to run at slightly lower load levels until 2023. The Government’s emissions performance standards, already in the Bill, will apply to the third category of plant—those that extend their lives through investment. The amendment would impact on the second group and take effect, effectively, from 2023.
+
+The EPS limits on carbon emissions are expressed as the amount of CO2 per kWh, but they limit the amount produced not per hour but per year. A typical power station, therefore, would be limited to a 40% to 45% load factor without lowering its emissions rate. That means running at a low load factor, to manage peaks in demand or in winter, or becoming serious about CCS. Neither choice is the end of coal generation in the UK.
+
+From the Minister’s remarks, it seems that the Government are not persuaded by the amendment for several reasons.
+
+David Mowat
+The hon. Gentleman categorised the three types of power station and pointed out correctly that his amendment would apply only to one of them. We currently have about 23 GW of coal generation. To how much of that would his amendment apply?
+
+Tom Greatrex
+That depends on the decisions made on the first and second groups. On the third group, so far there has been relatively little investment, but I know that a number of companies are actively considering making it. They are waiting, partly for the completion of this Bill and regulations arising from it and partly for the detailed work on the capacity market, before making those investment decisions. As I said at the outset, that is why it is important we get the Bill though as quickly as possible, after considering these final points.
+
+The Minister gave several reasons why the Government were against the amendment. The first, which he referred to almost in passing, was on technical and drafting grounds. In that regard, several points have been made by those anxious to ensure that existing investment is not disregarded, but I think that those points could be properly reflected in the regulations that would arise were the amendment to be successful. The second was that the amendment was unnecessary, because existing price control policies, notably the carbon price floor, had the same impact in effectively limiting coal plants to about 40% to 45% load factor. If so, perhaps the Minister, whose antipathy to the carbon price floor has been well-rehearsed—he has been reminded of it a couple of times recently, including this morning, so I will not embarrass him by doing it again—could help to persuade the Chancellor that the unilateral, untargeted measure of a carbon price floor is not needed because the Government could use the approach in the amendment instead.
+
+The third argument was that the amendment would present a risk to security of supply. As the Minister is aware, the amendment would not bite until 2023, and if his boast earlier today in Westminster Hall—on investment decisions about to be announced for the enabling process—are accurate, that would give scope for any gap to be filled. I say that not least because we would continue to have that coal capacity operating in winter and at peak times through the capacity mechanism the Government are introducing.
+
+The fourth argument concerned costs. The Minister neglected the point that the price of electricity was pegged to the price of producing energy from gas. However much coal is in the system, coal generators sell at the gas price, so bringing more coal into the system would not necessarily mean lower energy costs for consumers. It is worth restating that the EPS goes no further than the Government’s own prediction for scaling back coal in the energy mix. It is effectively a back-stop or, with some intelligent thinking, possibly an alternative to what they anticipate will happen in response to the EU emissions trading scheme and carbon price floor combined.
+
+This morning, the Minister spoke in a debate, which I thought was a very good debate, about issues of balance in energy policy. He also spoke earlier this week, to a slightly different audience, about the order in which he saw the elements of the balance: security of supply, affordability, climate change, in that order. He is right to talk about balance, investment and impacts, and the very purpose of the Bill is to ensure we strike that  balance in the most affordable and sensible way in order to secure a diverse and balanced energy supply for the future, while recognising the realities of climate change and the measures we need to take to address it, and to protect us from the vagaries of the volatility inherent in globally traded commodities. He will have seen this week’s figures from the International Energy Association on global energy demand projections over the next few years. Contrary to the impression he gave, the amendment is in line with the Government’s stated aims. It is proportionate and sensible and is certainly worthy of further consideration for inclusion in the Bill.
+
+Mr Robert Syms (Poole) (Con)
+I rise to support the Minister in his disagreeing with Lords amendment 105. This country has always had a balanced energy policy, with several things feeding into the mix, and I think it important that we continue that. The problem is, however, that we have not built enough capacity over the past 15 or 20 years. The changes under the Thatcher Government to the grid and the electricity market were successful in maintaining relatively low prices, but there has not been the same investment in capacity. That was made substantially worse by the last Government, who managed to produce a White Paper without mentioning nuclear power as part of that important mix.
+
+We now face a difficulty. At some point, we have to close the Magnox stations. In addition, we have policies that are making coal less attractive, so that capacity is going off and needs to be replaced. Although there are plans and many firms are talking about building capacity, it is not being built. If we are not careful, we will have a gap, in that we will lose capacity and then have to either import or face the genuine risk that the lights will go out some time in the next several years. That is a serious thing. We can have all sorts of debates in this Chamber about the economy, quantitative easing, funding for lending and everything else, but if we cannot generate enough electricity to keep the lights on and industry running, that will be a poor indictment of the British economy.
+
+14:30:00
+
+I do not think Members understand how difficult and critical this will be. We really need to get on with investment. I hope that we can start Hinkley C as soon as possible and that we will have other nuclear power stations. I hope, too, that we will build some cleaner coal stations, and there are many proposals for added gas capacity in future. However, making amendments that make our current coal-fired stations less attractive does not seem a sensible thing to do. We need to sweat our assets and keeping them going until we are sure that the cleaner forms of electricity, such as nuclear and others, can provide for the British economy.
+
+I am an optimist when it comes to the British economy. I think that it could grow quite rapidly over the next 10 to 15 years, and if it does, power demand will go up and we will need to provide for that. It seems slightly bonkers that we should be arguing a little bit on the head of a pin about a few stations when, as has come out in this debate, the Germans have decided to abandon nuclear—that is their decision—but are building quite a lot of coal-powered stations. The good news for the Germans is that they can abandon nuclear if they are building an alternative source of electricity. We seem to  be talking a lot about providing alternative sources of electricity, but still grinding some of the existing capacity down.
+
+We therefore risk having a generating capacity gap. John F. Kennedy talked about a missile gap, but we will have a generating capacity gap. Unless we take great care to ensure that we maintain as much capacity as we can for the foreseeable future, while encouraging people through our policies and what we are doing in the Bill to invest substantial sums in future capacity, we will have a problem.
+
+Bob Stewart (Beckenham) (Con)
+My hon. Friend obviously knows quite a lot about this subject. How much reserve capacity does he think we should have? Is it 10%, 20% or something else? Is there a figure that he would recommend?
+
+Mr Syms
+The grid generally tries to keep a good level of capacity. There have been occasions recently when surplus capacity has been under 5%.
+
+Bob Stewart
+That is very small.
+
+Mr Syms
+It is small in capacity terms for the economy. Normally, that is when the grid starts getting a little nervous. In the years ahead, the grid might have to be a lot smarter about managing our assets and resources to ensure that we can provide electricity. Renewables have their role, but they are sometimes less predictable than nuclear or coal-powered stations. That is one reason why, as the hon. Member for Wansbeck (Ian Lavery) mentioned, there have been occasions recently when coal has provided 50% of our electricity, which is rather more than the 25% that it is providing now.
+
+Angela Smith (Penistone and Stocksbridge) (Lab)
+The hon. Gentleman is making the case for ensuring spare capacity in the electricity grid. Would he therefore not concede that we need the same capacity in the gas grid as well? Recently, the Government refused to recognise the case for building extra gas storage capacity. Many people in the industry feel that that is a big mistake.
+
+Mr Syms
+It is important both that we have generating capacity, preferably domestically based, and that we increase our storage capacity for various forms, including gas. Of course, Ministers are also custodians and have to stand up for the consumer. If a company makes a costly proposal that will be reflected on people’s bills, Ministers have to take a view on whether that is the right or wrong thing to do. I hope that we get back to that debate and provide more storage.
+
+David T. C. Davies (Monmouth) (Con)
+I agree with much of what my hon. Friend says. Does he agree that one of the problems is that, unfortunately, Ministers and shadow Ministers have all been too quick to accept the arguments of the powerful green lobby about CO2 causing global warming, which clearly has not been the case for the past 15 years? Does he agree that we should now prioritise cheap, secure energy for our manufacturing industry, whether from coal, gas or any other means?
+
+Mr Syms
+Clearly, policy has to have a proper balance. There is a role for renewables and trying to provide the cleanest possible energy, and the Government have policies to ensure that. However, I return to my essential point,   which is that we now have policies that are driving out older capacity—it might be less efficient or dirtier capacity—but we are yet to put in place the new, clean, gleaming capacity to produce for the future. If we are not careful, whoever forms the next Government—I hope that we will—will find themselves with a very real problem. I do not want the Chancellor of the Exchequer standing at the Dispatch Box talking not about tax or how the economy will grow, but about the constraints caused by our not investing in providing power for a growing and successful future economy.
+
+I listened carefully to the Opposition spokesman; I just think that Lords amendment 105 is not appropriate. I return to my central point: we need to sweat our assets and keep them going until we are sure that we have the capacity to keep the lights on.
+
+Dan Byles
+On my hon. Friend’s point about investment, we hear about the oft-quoted trilemma in energy policy—the requirements for energy security, affordability and decarbonisation—but does he agree that we should actually be talking about the quad-lemma and that the fourth leg of our energy policy should be investability? If we do not have a credible and investible energy policy, we might as well switch the lights off and go home.
+
+Mr Syms
+Absolutely. At the end of the day, we must have the capacity to generate for what people want. We can make savings with insulation and things that we do with electrical equipment. We can do an awful lot to save energy, which will take care of some of the demand. However, with a growing, successful economy—there is every reason to look at the British economy with great optimism—I suspect that we will need more capacity. Not only do we need plans for investment; we need people breaking the ground and building these things, so that they can provide for what we want.
+
+I have reservations about the amendment. I know that people talk about 2021 or 2023, but that will come very quickly, so although the investment and capacity might not come that quickly, my general view is that we should be a little cautious about the Lords adding more constraints, costs and limits on an important source of power at this point.
+
+Dr Alan Whitehead (Southampton, Test) (Lab)
+I am a little bemused by some of the talk that we are hearing this afternoon about the capacity crunch and the extent to which the amendment might exacerbate it over the next period, bearing in mind, first, that it would not take effect until after 2023 in any event and, secondly—this has perhaps gone rather unremarked—that the power plants that are not producing and that are offline and either light mothballed or deep mothballed are not coal-fired but gas-fired plants. About six of them are mothballed—even though those operators could operate perfectly efficient gas plants for their own operations—not because they cannot produce on a reasonable basis, but because of the spark spread for gas and electricity prices. Therefore, it is not a capacity crunch because there is no capacity; it is a capacity crunch, potentially, because of the way that plants operate relative to each other.
+
+Nothing in the long-term prognosis has changed, in terms of what we have to do in the longer term or how we have to deploy capacity. Getting the right amount of  capacity and the right amount of reserve capacity in the market is a combination of ensuring that capacity is properly utilised and that new capacity comes on stream in the right proportion to support the changing nature of our energy production market. As regards that progress over the next period, up to 2030, one of the remarkable things written in most DECC documents to come out on the matter concerns where we need to go in decarbonising our energy supplies.
+
+DECC’s central target is an overall level of emissions of 100g per kWh by about 2030. Everyone knows what that means. Unless we hear this afternoon that the target has changed, there will no longer be room for large amounts of unabated coal to continue to operate in the system, whether in new, existing or refurbished plant, without carbon capture and storage in the period leading up to 2030.
+
+There is currently a disjunction between what DECC says about its target and what the policy appears to suggest when it comes to whether those coal plants will become able to play a part in our future energy mix with carbon capture and storage, or will no longer play a role as base-load generators but either convert to other forms of supply—as Drax is doing in moving to biomass—or run at much lower levels, as peak and back-up plant, over a period, to keep within the overall targets. The amendment connects what we think that we are doing with what we ought really to be doing over the coming period and starts to dissolve the disjunction between what we think is in policy and what appears to be in policy.
+
+One of the effects of uncertain signals about the direction in which we are going in respect of, for instance, decarbonisation targets is that people do not invest in one thing rather than another; they do not invest in anything. They do not do what they might otherwise have been doing, because they are not sure what the signals are telling them. I believe that the amendment gives a certain rather than an uncertain signal in regard to the long-term future of coal, thus enabling those who are thinking of investing in coal over the coming period to be clear about what to do, rather than unclear, as they are at present.
+
+Ministers seem to be saying today that there will be much more operation of coal, and perhaps some new investment in coal, but they know that it cannot really be unabated, and they know that it cannot really operate for all those hours over the period. How certain can an investor be that what he invests in will not to be stranded in the intervening years? It depends whether we believe what Ministers are saying, or believe what is in the documents that they claim to support in their daily work at the Department.
+
+Ian Lavery
+Does my hon. Friend believe that if the amendment is passed, investment in carbon capture and storage will be more rapid?
+
+Dr Whitehead
+That is an important question. I think that if the amendment were passed and if it sent that “certain” signal in regard to future investment, it would bring about something that my hon. Friend and I observed recently in a Canadian province. Given the certainty of an EPS that would apply to all plants in the province in the future, the operators of a 150 MW power plant decided that if the plant was to continue to provide coal-fired power, it would need carbon capture  and storage. As a result, next year there will be a very impressive plant, which will sequester all its carbon and continue to supply the Saskatchewan power system with coal-fired power. I understand that the operators made their decision in the certain knowledge that they would not be able to continue to supply unabated coal-fired power to the Canadian system for ever.
+
+14:45:00
+
+Angela Smith
+Is it not the case that carbon capture and storage technology can be applied to gas-fired as well as coal-fired processes?
+
+Dr Whitehead
+Yes, indeed. If the Department is to reach its 2030 decarbonisation target, it is very likely that carbon capture and storage must be applied to gas as well as coal during the intervening period.
+
+Mr Redwood
+Given the hon. Gentleman’s knowledge of the industry, can he tell us when he expects to see a decent-sized coal-fired power station with carbon capture and storage up and running in the United Kingdom?
+
+Dr Whitehead
+The Saskatchewan power plant that I mentioned is not a new coal-fired power station, but an existing one that has been refurbished to take on carbon capture and storage. The right hon. Gentleman’s question should have been the other way around: he should have asked me when I might expect to see an existing coal-fired power station with carbon capture and storage attached to it in the United Kingdom if the amendment is passed. My answer is that if the amendment is not passed, it will be far less likely that existing coal-fired plants, which are effectively given a derogation by the Bill, will take on carbon capture and storage, although they know that they must do so sooner or later for the sake of future investment. They will do it in the end, but there will be uncertainty for some time before they do.
+
+My answer to the right hon. Gentleman’s question is that I expect an existing coal-fired power station to start to address itself partly or wholly to carbon capture and storage much earlier if the amendment is passed than it would otherwise. That would put that station bang in line with the Department’s long-term decarbonisation aims.
+
+Charles Hendry (Wealden) (Con)
+Should we not learn the lesson of the Longannet experience? In that instance, we discovered that the cost of trying to retrofit carbon capture and storage technology to a very old power station that needed many millions of pounds of new investment made it uninvestable. Surely, it is likely that a new plant will be fitted with carbon capture and storage, rather than an old plant’s being retrofitted.
+
+Dr Whitehead
+With a relatively small amount of underwriting—far less than is proposed in the UK Government’s competitions—it was possible to undertake the retrofitting of the Saskatchewan plant alongside a refurbishment. The interesting issue was not the progress and, indeed, the completion under budget of the plant’s carbon capture and storage element, but the fact that the retrofitting itself—the upgrading of the coal-fired power station—caused the difficulties. Its operators estimate that future arrangements could cost 20%, 25% or 30% less than the first retrofitting. I do not agree that this is uninvestable; on the contrary, it is an essential part of the process of realigning energy objectives and power output over the coming period.
+
+Dan Byles
+I am grateful to my Select Committee colleague for giving way to me. Does he recall that the operators said that the sale of carbon dioxide for enhanced oil recovery formed an important part of their economic calculation?
+
+Dr Whitehead
+Indeed. There is the question of what happens to the carbon dioxide subsequently and how it is injected. In Canada, it is injected into additionally drilled wells on land; there is a different process of injection offshore. At the Saskatchewan power station, the process involves the use of carbon dioxide for enhanced oil recovery, although most of it stays on the ground after the process in any event.
+
+David Mowat
+I am listening carefully to the hon. Gentleman’s argument about the acceleration of CCS as a consequence of accepting the amendment. Notwithstanding the Saskatchewan case, CCS is still an unproven technology in this country. For clarity, is he saying that the amendment would result in those stations being converted to CCS in time to prevent them from being switched off? It was implied from the Front Bench earlier that they would be replaced by gas power. Which of those two options does the hon. Gentleman consider to be more likely?
+
+Dr Whitehead
+Some of those plants could well be replaced by gas, and some could well close down. Indeed, some could well close down whether the amendment were passed or not. The problem for capacity in the market is that the signals being sent out at the moment are so varied and uncertain that a number of people who might otherwise invest in plant are holding back until, for example, the capacity market comes on stream or until there is more certainty about CCS or about coal generation. As we have seen already, there is a possibility that plants will close down by accident rather than by design. They could end up being mothballed because of market circumstances, rather than because of long-term planning based on capacity.
+
+The amendment would improve that certainty tremendously by making it absolutely clear what was expected of coal-fired power in the future. Coal-fired power would not cease to exist; it would be able to run at certain levels per year, and any existing coal-fired power station that wished to run continuously after the early 2020s would have to have CCS attached to it. The amendment would send a simple, straightforward message.
+
+Michael Fallon
+The hon. Gentleman seems to have just repeated an assumption that the amendment would take effect only from 2023. On the contrary, it asserts a power to apply EPS to an existing plant, which would involve upgrading under the industrial emissions directive. Nothing in the amendment prevents the power from being used at any time, as soon as the EPS had come into force following Royal Assent.
+
+Dr Whitehead
+The question is the extent to which plants can run, and what hours would be attached to them—a process that has already been undertaken under previous directives—during the period up to the early 2020s. The question for those power stations is not the point at which they switch over or at which they stop; it is whether they can continue unabated past the early 2020s. That is the key issue.
+
+I commend the amendment to the House because of its congruity with current departmental policy and the certainty that it would confer. It brings together a number of elements relating to the trajectory for cleaner, lower-carbon energy, and it would send a clear signal to investors. In the medium and long term, that would give us far more certainty of reliable and secure capacity than we have at the moment.
+
+Charles Hendry
+I refer hon. Members to my entry in the Register of Members’ Financial Interests.
+
+Like most other Members, I have received many postcards and e-mails from people urging me to support the Lords amendment, but those e-mails seem to have been based on a misunderstanding or a misapprehension, based on misinformation. That has been either wilful or accidental, but it is certainly there. They start by saying that, although the Government said that they would be the greenest ever, we are now burning more coal than we have done for many years. Those two statements need to be examined.
+
+This Government are the greenest ever. We have seen an increase in renewables generation from 5% in 2010 to 16% now. We have seen the biggest investment in nuclear power for a generation, and we hope to see more coming through. We have also seen an added impetus being given to the renewable heat incentive today. All those factors demonstrate our direction of travel.
+
+The suggestion that the Government have somehow been promoting an increased use of coal is fundamentally wrong. We are using more coal than we were just a short time ago. I looked at the figures just before the debate: 39% of the electricity being used in the UK as we sit here today comes from coal. That equates to 18 GW of the 46 GW. That is happening for two reasons. First, the price of coal is historically low compared with that of gas. The shale gas revolution in the United States has meant that the coal that used to go into the US market is now being deposited in the European market at a low price and people are therefore burning it.
+
+Secondly, the owners of the coal-fired plants know that they have only a limited number of operating hours left, and they want to use them while the carbon floor price is lower, rather than as it continues to rise. People should not see this as a fundamental shift to coal; it is a short-term increase in its use and, as we have heard, those plants will be closing down in the near future. Some are closing this year, and more will close throughout the decade. The concern expressed in those e-mails by those who support the amendment has therefore been based on a misunderstanding.
+
+I am concerned about the implications of the amendment for several reasons. The first relates to political risk. This is another measure that would increase the political risk attached to investment in the energy sector. We know that we need many tens of billions of pounds of new investment in the energy sector, right across the electricity spectrum. The people who own the plant that would be closed down by the proposal are the same people who we are asking to build new gas plant, new CCS plant and new renewables plant. If they see the UK becoming more unpredictable, that will make it harder to secure the levels of investment that we need. We must be wary of going down that route and adding further political risk to the issue.
+
+My second concern relates to the coal industry in the United Kingdom. When I was a Minister, I tried hard to increase the proportion in the mix of coal from UK mines. It had been one third, and we got it up to over a half. I suspect that it is now below one third again, and probably falling. If we want to achieve the necessary investment in British mines to enable them to provide coal to the power stations—or indeed to ensure their existence at all—when CCS plant comes on line in due course, the investors will need to know that there is still a reason for them to invest in the sector. The Lords amendment would make it more difficult to secure that investment and therefore more likely that our own deep and shallow coal mining facilities would close down, which is something we would regret. We should not deliberately put ourselves in the position of being more dependent on imports than we need to be.
+
+My final point relates to CCS. We are trying to send a message to people around the world that this country has the aspiration to lead the world into carbon capture and storage, and we have every reason to be positive and confident that we can do that. We have the expertise, and we have the depleted oil and gas reserves in the North sea that can be used for it. We should be going out and saying to all those people around the world who are interested in this technology that the United Kingdom is the place to do it.
+
+However, I disagree with the hon. Member for Southampton, Test (Dr Whitehead) in that I do not think that the amendment would make investment in CCS more likely. I think that it would make it much less likely, because we would be seen as having a general hostility towards coal in the mix and we would therefore struggle to make the case for that investment. Given the challenges that we are facing, do we really want to link ourselves to a policy that would bring forward the closure of plant while doing nothing to speed up the opening of new plant? The amendment would be bound to enhance the energy security challenges facing this country, which would make it more difficult to decarbonise. That, in turn, would push up prices. For those reasons, I hope that the House will reject the Lords amendment.
+
+Caroline Lucas
+I welcome Lords amendment 105, as we need to close the Government’s loophole that would exempt existing coal-fired power stations from the emissions performance standard if they fit equipment to meet air pollution standards.
+
+However, even if we vote today to put common sense and climate science above the special pleading of the coal lobby, the EPS will not be strong enough. The Energy and Climate Change Committee has called the EPS “at best pointless” and the Committee on Climate Change warns that allowing unabated gas-fired generation right through to 2045 carries a huge risk that there will be far too much gas at the expense of low-carbon investment, which would bulldoze the Government’s climate objectives. It is therefore a shame that the Lords amendment does not go further and that the official Opposition are not yet accepting the need to leave existing coal reserves in the ground, unlike their sister parties in places such as Norway, whose Labour party this month proposed banning the country’s $800 billion sovereign wealth fund from coal investments. I have some reservations about the level of the EPS, but none the less I firmly support the amendment as a step in the right direction.
+
+15:00:00
+
+The coalition’s rejection of this moderate and common-sense amendment is inconsistent with tackling climate change and with what Ministers have proclaimed in the past. It is little wonder that trust in politicians is so low. As recently as September, the Secretary of State for Energy and Climate Change told his party:
+
+“As the Secretary of State I’m determined to use all of my powers to make sure that Britain leads the way in sourcing the energy we need from low carbon sources.”
+
+He has also said:
+
+“The damage that will be done by global warming is greater than previously feared. So the need for action is greater than ever.”
+
+On his welcome decision last month to end UK support for coal plants abroad, he explained:
+
+“It is completely illogical for countries like the UK and the US to be decarbonising our own energy sectors while paying for coal-fired power plants to be built in other countries.”
+
+The Secretary of State must know that we undermine efforts to prevent dangerous climate change if we allow existing coal-fired power stations here to be exempt from emissions limits. There has been much debate this afternoon about CCS. Crucially, he has said that unless and until we get commercially viable CCS, coal has no future. I do not think an honest and equitable approach to the UK’s climate commitments gives any room for coal in the future, even with CCS, because global emissions are still too high. His position is perverse, because by rejecting the amendment he is rejecting a change that would actually help to encourage CCS. As his Lib Dem colleague Lord Teverson explained in the other place:
+
+“Clearly and quite obviously, if unabated coal can continue exempt from the emissions performance standards, then CCS will go absolutely nowhere.”—[Official Report, House of Lords, 4 November 2013; Vol. 749, c. 33.]
+
+If the Secretary of State’s increasingly desperate green rhetoric meant anything at all, he would have introduced an amendment to tighten the emissions limit and the time scale of the EPS to align it with 2030 power sector decarbonisation. He would be arguing passionately that we need a clear signal that we simply cannot have, and do not need, dirty, centralised, inefficient coal generation in an energy system fit for the future. Yet instead he appears to have taken up the challenge of putting “coal back into Coalition”—that was the mantra of his previous energy Minister, the right hon. Member for South Holland and The Deepings (Mr Hayes), who declared that to be his ambition last March.
+
+The Government have access to the world-leading scientists and experts on climate change and on low-carbon alternatives to fossil fuels. They know that the global carbon budget means that the majority of existing coal oil and gas reserves are unburnable. They also know that the UK could have an incredibly successful economy based largely on renewable energy instead—if only they would stop pretending that the dirty power incumbents are part of the solution.
+
+Finally, let us not forget that five years ago this Prime Minister explained the importance of a comprehensive EPS when he announced Tory plans for it before the election. He said:
+
+“All existing coal-fired power stations should be retro-fitted with CCS, and all future coal-fired power stations should be built with CCS. If we don't do this, we will not meet our carbon emissions targets.”
+
+Those were the words of the Prime Minister barely three years ago, so I hope that the Government will remember those wiser remarks, accept this small but positive change to the EPS and withdraw their opposition to this very sensible amendment.
+
+Mr Redwood
+I agree with my right hon. Friend the Minister that the House would be wise to reject amendment 105. I will not rehearse the arguments that he or my hon. Friend the Member for Poole (Mr Syms) eloquently put, but I would take issue with one thing that my hon. Friend said. He gave the impression that although he thought that the late Baroness Thatcher’s energy reforms, which were very radical, were broadly good, they created a problem in not leading to substantial investment. As the person who advised her on those reforms and worked with the very good energy Ministers at that time, I assure him that that system not only transformed our energy mix in a way that cut CO2 on a scale that even the hon. Member for Brighton, Pavilion (Caroline Lucas) might approve of, but it drove prices down by encouraging huge investment in the so-called “dash for gas”. It has been the most successful policy that any party or Government have ever followed both to give us cheaper energy and to drive down CO2. It also gave us a much better capacity margin than we have today.
+
+In the few minutes available to me, I wish to stress that a big crisis is brewing, thanks to the dear energy and scarce energy policies of the European Union, egged on by the Green party. I do not think they care about the difficulty people are already finding with their power bills. The main reason those bills are surging is that we are deliberately changing over from relatively cheap energy generation to dear energy generation—that is the whole point of the policy. The policy is cruelly deciding that it wishes to decarbonise at the expense of the poor and of our industry. The deindustrialisation facing Britain and wider Europe is now intense. We are losing our aluminium industry, our petrochemical industry and many of the high-energy-burning industries, which, of course, are going to the United States of America or to Asia, because those places do not have the same artificial constraints on them that the European Union and the previous Government’s energy policies have imposed on us.
+
+Caroline Lucas
+Will the right hon. Gentleman give way?
+
+Mr Redwood
+I am afraid that I do not have time to do so, as the hon. Lady spoke for some time and the debate is very limited.
+
+We need to deal with both price and capacity. Price is the most immediate issue. Although things can be done on green levies, and I welcome that, the main driver of higher prices, which will continue over the years ahead, particularly if the amendment is passed, is the forced closure of cheaper stations and their substitution with much dearer, interruptible renewable sources of energy, which will be with us for some time to come, whatever policies are now followed.
+
+Even worse is the way in which we are jeopardising capacity. Not only are we closing many stations without building new ones, but we are replacing base load stations with stations that produce interruptible energy  only when the wind blows, so we are doubly vulnerable. Our stated capacity often is not genuine capacity because there is no wind, and the margin is far smaller. I do not wish to live in a country like that. I do not want to live in a country where every winter we fear that the lights might go out in places, and where, at times when people most need heating, there is not enough power left. It is a grave folly of the European Union and the former Government—I hope our Government are not going to perpetuate this—that we close the plants before anybody has built replacement plants. What kind of person would sensibly recommend doing that? We have heard from the Minister that six plants are already being closed, and we know that several others are at risk of closure under European directives. Please can we not close plants until we have the replacement capacity?
+
+The investment incentive problem did not lie with the late Baroness Thatcher’s policy, which provided plenty of incentive, cheaper energy and big investment; the problem of incentive lies today with the muddle, confusion, high cost and deliberate obfuscation of the European-driven system, which means that our country, along with many others in the European Union, faces deindustrialisation on a big scale, cold winters without a guarantee that enough power is available and ever higher energy prices, thanks to these ridiculous policies.
+
+David Mowat
+I, too, oppose the amendment. I will make three points: on cost; on security of supply; and on how this country’s approach to tackling the issue increasingly departs from that of other countries in the world, not just in Asia and the US but in parts of Europe.
+
+First, let us frame the problem. We have 23 GW of coal right now. I think we can all accept that about 8 GW of that will be turned off because of the large combustion plant directive, leaving potentially 15 GW subject to the amendment. I asked the shadow Minister what his figure was and although it may well turn out to be a little lower than that, it is of that order. We are talking about a huge amount of power to be replaced, yet we are doing this at the same time as our nuclear stations are coming off stream. Let us put this into context. Replacing 15 GW with wind power, which I guess is the direction that the hon. Member for Brighton, Pavilion (Caroline Lucas) would take, would require about five times as much wind generation as we currently have commissioned—onshore and offshore—leaving aside the intermittency issue, which I do not think we will be able to address.
+
+Dr Whitehead
+rose—
+
+David Mowat
+I will not take the intervention, as I want to finish as quickly as I can to allow time for the other speaker.
+
+We have a security of supply issue. To be clear, the debate is not about pollution, nitrous oxide or sulphur dioxide control, or even about the long-term plan to phase out coal. We intend to be at 3% by 2030. Our European partners, by contrast, do not have such an ambition. The debate is not about the Kyoto targets, which we have not met, but about the need to replace a vast amount of capacity, and to accelerate such replacement. We are unique in that our nuclear stations and our coal are so old. We also intend to use more electricity as we decarbonise the transport sector. If we are to meet the  climate change budget targets, it will be about not just electricity generation but transportation. We are talking about more electric cars, which means yet more electricity. The task is absolutely enormous, and we are currently sitting here with a capacity surplus of around 4% or 5%. To accelerate that further would be folly.
+
+Members have mentioned that we are talking about replacing possibly one of the cheapest methods of energy generation—the relatively old stations that are depreciated, and all that goes with that—with some other technology. In relation to today’s infrastructure plan statement, offshore wind, even with the new CFD numbers, is about three times the cost of those coal stations that are currently burning.
+
+If we are seriously thinking of replacing about 15 GW of capacity with offshore wind and even gas, which is more expensive, it is hard to see how that would not put up energy prices. Of course it would put up energy prices both for our energy-intensive users and our consumers. Those Members who think that fuel poverty matters should give some thought about how they will vote this afternoon.
+
+Finally, let us look at how we are dealing with the issue compared with many other countries. I have one statistic to put to the House. Renewables went up a great deal last year. Across the world, they went up by about 30 million barrels of oil equivalent, which is a high percentage. The use of coal across the world went up by three times as much to 100 million barrels of oil equivalent. Such increases are not just happening in Asia and China. Germany and Holland are moving ahead with brand new unabated coal power stations that will run for 20 or 30 years. In this country, we already have among the lowest carbon emissions per head and per unit of GDP of any EU country. The only major country that performs better is France, which has so much nuclear power, although our green lobby thinks that that is wrong as well.
+
+I have not covered in any detail the havoc that would be wrought on what is left of the UK coal industry. The fact that Members are justifying voting for the amendment because it will bring forward investment in CCS, which is still unproven at the scale that would be needed to work in this country, is, frankly, almost vandalism.
+
+Mark Reckless (Rochester and Strood) (Con)
+It is a pleasure to follow my hon. Friend the Member for Warrington South (David Mowat). I was very impressed with his speech and with what he said about the growing disconnect on this issue between this country and most other countries in the world. With the exception of him and my right hon. Friend the Member for Wokingham (Mr Redwood), there seems to be an enormous disconnect between what Members of this House think and what our constituents want. Our constituents want cheap, reliable energy.
+
+On Monday, we saw the Government trying to find ways to reduce by £50 the rise in electricity bills. For the Opposition, too, the debate is purportedly about trying to cut or at least to hold down bills. They say that for 20 months, from May 2015, they will fix prices. The reality is that the Opposition are co-operating with the Government Front Bench and the Liberal Democrats to fix prices for 20 or 30 years across vast swathes of our electricity generation capacity, and to fix prices at two or three times the current market price. That will drive costs  through the roof for our constituents, who will be forced to pay such prices for decades to come, and yet the coalition and the Opposition purport to be having a debate about holding down prices, when the reality is the reverse. We see that again today in this rather surreal debate about whether we should force some of the cheap generation to close, as the Government support, or even more of it to close, as the Opposition want.
+
+15:15:00
+
+Mr Redwood
+Has my hon. Friend noticed that the big industrial powers that are serious about industry—Germany and China—are adding coal capacity, and America is going for shale gas? They will take the industry, and we will lose it.
+
+Mark Reckless
+My right hon. Friend is correct. We have learned that the industry at Grangemouth, which the friends and funders of the Opposition—the unions—almost shut down, might stay open and even possibly make money, but that would only be on the basis of importing shale gas from the United States. We have this preposterous arrangement in which we have put an extraordinarily long moratorium on the development of shale gas because there were a couple of tiny tremors near Blackpool. If we, as a country, are serious about pushing ahead economically, we must generate better energy more cheaply and more quickly. Instead, we were involved in a Dutch auction between the parties and doing completely the reverse.
+
+Lords amendment 105 is a case in point. We have the European Union closing down most of our coal plants, with the parties going along with it. Additionally, we are unilaterally indulging in this self-flagellation, through the emissions performance standard—which we have decided to impose as a unilateral burden on UK business while the Germans allow the construction of new coal—by preventing new coal-fired power stations being constructed. Of course countries outside the European Union produce power more cheaply.
+
+What we see today is an attempt by the Opposition and the other place to make the situation even worse. The EU is shutting many of our existing plants. We are banning the construction of new ones, and the Opposition want to bring in a third deleterious measure to extend that ban on coal to part of the plants that the EU would allow to remain open if people spend vast amounts of money to comply with the industrial emissions directive. Labour and the other place would effectively be saying, “Ah, well, if you spend that money, we will put in place this additional burden after which you will then fit this pie-in-the-sky CCS, which is nowhere near to sensible commercial development in the UK, or, in reality, we will force you to close down, and drive up the price of electricity even further.”
+
+The hon. Member for Rutherglen and Hamilton West (Tom Greatrex) suggested that electricity pricing depended on gas prices. I take that point to a degree. As an economist, I understand that in a competitive market, which I fear that this increasingly is not, marginal cost tends to equal price. There is a difference between the gas that is already there, where the development costs and capital costs are sunk—which, in terms of marginal costs being set to price, should be discounted for a rational person in a competitive market—and new gas, which is not coming on stream. It is partly not coming  on stream because the Minister has said, “If you bring it on stream, we will give you a great subsidy as long as you wait for a few years and do not bring it on now.” Even Chris Huhne, who was at least an economist, thought that was madness.
+
+Now, we are pushing that approach forward in the capacity market, stopping capacity coming on stream for that key period of a few years. It is a key period, because we are looking at an increasing crunch. DECC tells us that it has run the scenarios with Ofgem and has considered what will happen if the demand for electricity is a little greater than assumed. DECC assumes that energy demand will fall and so, to cover sensitivity, it has run a scenario in which it does not fall. All that does, however, is keep demand flat. What happens if—due to the success of the policies of this coalition, what the Chancellor is doing and the resurgence of growth in the British economy—energy demand increases? I dread to think, because of the lack of preparations that have been made—or, when preparations are being made, because of their extraordinary expensiveness. At the same time, we are proposing to cut the coal-fired plants, many of which are completely depreciated in capital and are producing electricity reasonably and cheaply. We are banning them either nationally and unilaterally or through our acquiescence in what the European Union is doing.
+
+The hon. Member for Rutherglen and Hamilton West identified three sets of coal plants. If I understood him correctly, he missed out a fourth category—that is, those coal plants where the issue is not the industrial emissions directive but the large combustion plant directive. The power stations might be “hours expired” under that directive, but the plants are still there and could potentially be brought back on stream to generate cheap and reliable electricity for our constituents. However, the Opposition will not let them. Government Members will not let them, either. Not even the European Union will, even though the directive contains article 3(4), which provides for a member state to provide for a derogation, particularly when its plans to arrange for sufficient capacity in the energy market are not working as it had hoped. What better case could there be for doing that?
+
+I am not saying that we should keep the plants open for ever. I go around Kingsnorth in my constituency, and it is a very old plant, but it can still work. This year, E.ON UK has a team of about 20 people in the plant, taking the stored energy out of springs and many other mechanisms throughout, making it safe for demolition by the contractor from early next year. We still have time if we apply for the derogation and tell the European Union, “We have a problem. We are running out of capacity because we have not put the sensible plans in place for electricity that we should have done. We used to have the most competitive electricity in the world, but we have messed the whole thing up on a totally cross-party basis. Can we keep these plants open for just a few more years?”
+
+All I ask is for the parties in the coalition to get together and go cap in hand to the European Commission, to ask whether we can keep the plants open for a few more years. That might just allow our constituents to have slightly cheaper electricity, as old coal can be used  rather than new gas, for which the capital costs will have to be paid as well as the marginal costs of the gas supply. That might just help us get through the electricity crunch a bit more safely, particularly if the economy is growing strongly, and it might do something to keep down the cost of electricity—that is preferable to the three parties competing to drive it up while pretending that they are doing the opposite.
+
+The Labour party in the Lords would like us to make things even worse by ensuring that even more coal plants close even earlier. We should make things a bit better by trying to keep a few of the oldest coal plants open for a bit longer, to hold down electricity bills and keep the lights on.
+
+Michael Fallon
+With the leave of the House, Madam Deputy Speaker, I shall reply briefly as I sense that the House wants to reach a decision on this matter.
+
+We have had a good debate. Let me emphasise again that I think that we have been considering a well-intentioned amendment. Nobody doubts the motivation behind it and the issue is not completely straightforward. It depends in the end on a judgment—when coal stations are already being lost to the system, do we want to accelerate the closure of coal? The hon. Members for Rutherglen and Hamilton West (Tom Greatrex) and for Wansbeck (Ian Lavery) asked a specific question—others have referred to this, too—about our progress with CCS. The CCS competition is progressing very well. Negotiations are proceeding and we expect to make a decision on the award of the front-end engineering design contracts around the turn of the year. As I have said, we have made amendments to the Bill in the other place to ensure that those projects will be exempt from the EPS for a limited period.
+
+Ian Lavery
+rose—
+
+Michael Fallon
+The hon. Gentleman might also want to know that CoalPro, the Confederation of UK Coal Producers, wrote to me on 8 November and said that the amendment
+
+“has the potential to turn out the lights, send prices even higher and close down this industry.”
+
+Ian Lavery
+When does the Minister expect the first CCS generation plant to begin in the UK?
+
+Michael Fallon
+As I said, we hope to sign the first FEED contracts by the end of the year. They will involve a couple of years of engineering study. It will take some time for CCS to be scalable across the system, but we are committing a great deal of money to it and a great deal of effort to the two projects at Peterhead and Drax. I am in no doubt that we have technology that we can exploit, but it will take time.
+
+In the end, as I said, this is a judgment. Is it right now to accelerate the closure of coal and to force all coal off the system by 2025? In my view, that will add to the risks to security of supply and—I must say this to my hon. Friends on the Liberal Democrat Benches—will certainly add to the costs for our constituents. We estimate that if coal disappears by 2025, there will be an increase in domestic bills of about 3% to 4%, or about £22 to £28, and an increase in non-domestic bills of between 4% and 6%. A large number of Members from all parties attended the debate in Westminster Hall this morning and complained about  the costs being imposed on energy-intensive industries, and we estimate that their costs will increase by between 5% and 7%.
+
+This proposal will increase the risks to our security of supply and add to the expense of our constituents. I think that is too great a risk and too high an additional expense and I urge the House to reject the amendment.
+
+Question put, That this House disagrees with Lords amendment 105.
+
+Division 151
+04/12/2013 15:26:00
+The House divided:
+Ayes: 318
+Noes: 236
+Question accordingly agreed to.
+
+Lords amendment 105 disagreed to.
+
+Helen Goodman (Bishop Auckland) (Lab)
+On a point of order, Madam Deputy Speaker. Earlier today the Chief Secretary to the Treasury made a statement to the House about infrastructure spending. The Government have also been briefing about the sale of significant public sector assets. The list of things that might be sold includes Eurostar, the Royal Mint and Channel 4, and yet the Government have not produced a document. Is that in order? Could you advise us, Madam Deputy Speaker, on how we might get a full list, rather than the think-tank report, “Cash in the attic”, which seems wholly inappropriate?
+
+Madam Deputy Speaker (Mrs Eleanor Laing)
+The hon. Lady has made her point and I am sure that those whom she wishes to have heard it have done so, but she will appreciate that it is not a matter with which the Chair can deal at this moment in the Chamber.
+
+Clause 1
+
+Decarbonisation target range
+
+Michael Fallon
+I beg to move, That this House agrees with Lords amendment 1.
+
+Madam Deputy Speaker (Mrs Eleanor Laing)
+With this it will be convenient to discuss the following:
+
+Lords amendments 2 to 75.
+
+Lords amendment 76, and amendment (a) thereto.
+
+Lords amendments 77 to 86.
+
+Lords amendment 87, and amendments (a), (g) and (b) to (f) thereto.
+
+Lords amendments 88 to 104.
+
+Lords amendments 106 to 113.
+
+Michael Fallon
+As you have said, Madam Deputy Speaker, there are many amendments in this group and I will try to be as brief as possible in explaining each set.
+
+The first set, amendments 1 to 15 and amendment 90, extend the decarbonisation provisions to Northern Ireland in order that any decarbonisation target range would cover the whole of the UK power sector. That was always our intention, but it was right that we should seek the agreement of the Northern Ireland Executive before making these amendments. The Assembly has since passed a legislative consent motion to confirm its support.
+
+Turning to part 2 of the Bill, Lords amendments 25, 27 and 29 give effect to three substantive changes to contracts for difference. The remaining amendments on this topic—amendments 16, 19, 22, 23, 26, 28 and 30 to 34—are consequential.
+
+15:45:00
+
+The first substantive change, Lords amendment 25, gives the Secretary of State the power to issue and revise standard terms for contracts for difference. Lords amendment 27 provides for the Secretary of State to set out how the system operator will run the allocation process, particularly through an allocation framework. Lords amendment 29 gives the CFD counterparty the power to agree minor and necessary modifications to the standard terms prior to contract signature. Those three new clauses provide clarity on how the contracts for difference will operate. In doing so, they ensure that appropriate flexibilities are in place to manage CFDs for the years to come at least cost to consumers.
+
+Several Lord amendments on electricity market reforms are in response to recommendations of the Delegated Powers and Regulatory Reform Committee in the other place. The Government are grateful for its recommendations, which are given effect by Lords amendments 17, 45, 46 and 102.
+
+Lords amendments 18, 47 and 103 make explicit provision that any regulations relating to contracts for difference, capacity market or investment contracts are not to be treated as hybrid. Lords amendments 24, 48, 63 and 98 to 101 are further minor and technical amendments to clarify drafting and confirm intentions.
+
+On electricity demand reduction, Lords amendment 49 adds a statutory reporting requirement. The Government have previously committed to report to Parliament the results of the electricity demand reduction pilot, and the amendment puts that commitment on a statutory footing.
+
+Lords amendments 50 to 53 relate to the important matter of access to market for independent renewable generators. They allow the Secretary of State to establish a scheme to promote the availability of power purchase agreements, which could provide generators with access to an off-taker of last resort. That mechanism aims to benefit both investors and independent renewable generators by providing a guaranteed backstop route to market at a specified price, and is intended to enable independent generators to use a wider range of possible off-takers and to contract for shorter-term PPAs. We expect it to result in greater competition among PPA providers and to support smaller suppliers, as generators will not have to rely on large incumbents with strong credit ratings to sell their power in the market. Ultimately, the off-taker of last resort aims to help level the playing field, bringing more competition and innovation into both the generation and off-taker markets. The Government are committed to consulting on the introduction of the mechanism and, subject to that, we intend the scheme to be in place by the time the first CFDs are signed.
+
+Lords amendments 54, 58, 91, 92, 94 and 97 provide the Government with the power to close the renewables obligation to new capacity in Great Britain, and enable the Northern Ireland Executive to make similar provision. That will ensure consumers and industry have confidence that the planned renewables obligation closure will take place consistently across Wales, England and Scotland.
+
+Lords amendments 55 to 57 remove the power for regular reviews of support levels under the fixed-price certificate scheme, and require the Secretary of State to exercise certain fixed-price certificate scheme powers in a manner that replicates the renewables obligation where that is reasonably practicable, providing greater certainty for investors.
+
+Lords amendments 60 to 62 and 106 to 108 provide that, as I told the House earlier, fossil fuel plants with a complete system for carbon capture and storage will be exempt from the emissions performance standard for three years, starting from the point at which a project is brought into operation. The matter was raised early in the Bill’s passage through this House, and I hope that such a policy amendment is welcome. The exemption will be available to all future carbon capture and storage projects until the end of 2027.
+
+On part 3 of the Bill on nuclear regulation, Lords amendments 64 and 65 respond to a suggestion from the other place to define “associated sites”. Lords amendments 66 to 72 are in response to recommendations from the Delegated Powers and Regulatory Reform Committee, and provide greater parliamentary oversight. The remaining amendments to this part—Lords amendments 73 to 75 and 109 to 112—are minor changes for greater clarity and drafting accuracy.
+
+Lords amendments 76 to 86 relate to the important matter of domestic tariffs and the need to ensure that consumers are put on the cheapest tariff that suits their preferences. The amendments make it clear that the information that suppliers will be required to include on bills must be clear and easily understood. They make the order-making power in clause 127 subject to the negative resolution procedure. They also give the Secretary of State the power to require energy suppliers to provide a breakdown of their costs to consumers, including the costs of environmental and social programmes.
+
+Amendment (a) to Lords amendment 76, which was tabled by the hon. Member for Brighton, Pavilion (Caroline Lucas), would give the Secretary of State the power to require suppliers to supply customers with a breakdown of their fuel mix for electricity generation, and to provide details of the corporation tax that they have paid relative to their profits. On the first of those suggestions, I hope that she will be pleased to hear that suppliers are already required, through their licence conditions, to provide their customers with a fuel mix disclosure that sets out the sources from which the electricity that they supply has been generated and the environmental impact of generating electricity from those sources.
+
+On the corporation tax proposal, the level of corporation tax that is payable by a supplier is not directly related to the volume or price of the electricity and gas that are supplied. It will be affected by other things, such as the treatment of any tax losses that are carried forward from earlier periods, group tax arrangements and group funding structures. Attempts to link the corporation tax that is payable in a certain period with energy bills are therefore likely to be misleading. The Government therefore do not support amendment (a) to Lords amendment 76.
+
+The amount of corporation tax that is paid by a company is disclosed in its annual report and accounts. We have asked Ofgem to consult on any further steps that are needed to build confidence in the market through greater transparency in revenues, costs and profits. We  have also asked Ofgem to deliver a full report on the transparency of financial accounts and on ways in which that could be improved.
+
+The Government passed Lords amendments on fuel poverty, feed-in tariffs and smoke alarms. I hope that the House will welcome the introduction into the Bill of those three new areas in the other place. We are committed to tackling fuel poverty. Lords amendments 87, 93 and 95 amend the Warm Homes and Energy Conservation Act 2000. Under those amendments, we will put in place a new statutory target for tackling fuel poverty in England. That target will be supported by a new strategy that is informed by the improved definition of fuel poverty that we are adopting, which was proposed by Professor Hills in his independent review of fuel poverty.
+
+That definition will replace a flawed measure that included higher income but inefficient homes, which should not be the focus of fuel poverty policies. The sensitivity to energy prices of the old definition created an ever-changing picture of the households that were fuel poor, making the design and implementation of effective policies extremely difficult. The amendments in the other place have put in place the right framework to ensure that successive Governments have the needs of the fuel poor at the heart of their energy policies and that they can be held to account for the effectiveness of their actions.
+
+Those amendments have been welcomed by the chair of the Fuel Poverty Advisory Group, Derek Lickorish, and by the largest fuel poverty charity, National Energy Action, because they put in place a framework for continued action on fuel poverty. The Energy and Climate Change Committee has also agreed that an elimination target was not the right approach.
+
+Mr Angus Brendan MacNeil (Na h-Eileanan an Iar) (SNP)
+I am grateful to the right hon. Gentleman for giving way on the issue of fuel poverty. My constituency is hit by transmission charging because the renewable energy has to go quite a long way down the line. The unit price of electricity for domestic consumers is more expensive for the same reason. Could we not argue that renewable energy that is generated in the Outer Hebrides can be considered to be serving the domestic market, and thereby eliminate some of those costs?
+
+Michael Fallon
+I think I understand that proposal, and I hope that the hon. Gentleman has welcomed the changes that are being made to the strike prices for renewable energy, which should certainly benefit the islands in the north of Scotland. However, I am happy to look specifically at that point.
+
+Mr MacNeil
+I do welcome the fact that the difference of islands has been recognised, but I am disappointed that the difference between islands has not. The situation in the Western Isles, the Outer Hebrides, is different from that in Orkney and Shetland due to the existing infrastructure situation.
+
+Michael Fallon
+I am sorry that the hon. Gentleman is not wholly satisfied. I thought that the change would be welcome, but I will look again at his specific point about transmission lines.
+
+By fixing the strategy for the long term, the Lords amendments will ensure that our commitment to reducing fuel poverty, far from being reduced, will remain high  on our agenda throughout the delivery of our ambitious programme for energy efficiency and the energy sector in the UK.
+
+Amendments (a) to (f) to Lords amendment 87, tabled by the hon. Member for Derby North (Chris Williamson), would, among other things, put a specific fuel poverty target in the Bill. There is also amendment (g) to Lords amendment 87, tabled by the right hon. Member for Don Valley (Caroline Flint) and her colleagues. I think we all agree that there should be an ambitious fuel poverty target, but it is also our responsibility to strike the right balance between what is put in primary legislation, what is subsequently laid out in regulations and what we put into our strategy. We propose setting the target through secondary legislation, which strikes a better balance between the certainty of a legislative target and the need for flexibility in the future.
+
+We know from the independent review by Professor Hills that the way in which we understand the problem can change over time. The issue that we face under current legislation is that there is a specific target that, although well intentioned, does not make sense in the context of how we have come to understand the problem of fuel poverty. For example, a focus on eradication as an end goal is not appropriate for our new definition, but we know that we can make a real and lasting difference to people’s circumstances by improving the energy efficiency of their homes. That is why we have proposed that that should be the basis of the new target.
+
+Sammy Wilson (East Antrim) (DUP)
+Does the Minister not accept that the whole thrust of the Bill, with its emphasis on decarbonisation and greater reliance on renewables—and the thrust of Lords amendment 105, had the Opposition had their way—is to make the whole issue of fuel poverty more difficult to address? We are moving away from cheaper fossil fuels towards more expensive renewables.
+
+Michael Fallon
+No, I am afraid I do not agree with the hon. Gentleman, although I was grateful for his support in the Division. We need more home-grown energy of all kinds, and we should not be ideological about it. We need more new nuclear to replace our ageing provision, more renewables—we are already increasing our proportion—and more gas-fired plant, as so much coal plant is coming off the system. We need more generation of all kinds.
+
+Of course, the setting of the fuel poverty target and any changes to it, even if they are not in primary legislation, will be subject to full parliamentary debate. Given the importance of the matter, we have ensured that the provision will be subject to the affirmative resolution procedure in both Houses. I therefore do not think it makes sense to specify the target or a target date ahead of our making the detailed proposals after Royal Assent.
+
+The amendments to Lords amendment 87 also specify issues that a strategy must cover. Our strategy will be comprehensive and cover a range of issues, including health, as we know that there are clear health benefits from action on fuel poverty. Finally, we have already committed to continuing to report on the 10% definition in the future, so I do not think it is necessary to include that in the Bill. I hope that I have reassured the hon.  Member for Derby North and the right hon. Member for Don Valley, and that they will agree not to press their amendments.
+
+The second new topic introduced to the Bill in the other place, by Lords amendments 88 and 96, is a provision enabling the Secretary of State to raise the ceiling for small-scale feed-in tariffs from 5 MW to 10 MW. The issue was raised in this House in Committee and on Report, and the Government have listened and responded by tabling amendments in the other place. We intend to limit the increase to community projects only. For commercial projects larger than 5 MW, we consider that market-based incentives continue to provide the best value for money to consumers. We will consult on the implementation of the change after the Bill has received Royal Assent.
+
+16:00:00
+
+Finally, amendments 89 and 113 provide the Secretary of State with order-making powers to introduce a requirement for landlords of domestic buildings to install carbon monoxide and/or smoke alarms in their properties. Amendments on that topic were first tabled on Report in this House, by the hon. Member for Huddersfield (Mr Sheerman), and I hope that he and the whole House will welcome that addition to the Bill. The Government are not committing to any regulations at this stage because before doing so we want to consult with the sector and carry out a robust assessment of the costs and benefits. Any regulations made under that power would be subject to affirmative resolution by both Houses. I apologise again for the length of my remarks, but there are a large number of amendments in this group to cover.
+
+Jonathan Reynolds (Stalybridge and Hyde) (Lab/Co-op)
+I, too, am pleased to welcome the Bill back to this House and grateful for the opportunity to speak on those aspects that refer to fuel poverty—namely, Lords amendment 87. Before I do so, however, the Minister mentioned Lords amendment 54 and its impact on the UK, and it is regrettable that the Scottish National party in Edinburgh chose to play constitutional games with the issue, rather than focusing on the smooth transition between the renewables obligation and contracts for difference. There has been correspondence between the Minister’s Department and the Scottish Government, and given that the SNP raised the issue in Holyrood, perhaps the Minister will commit to publishing that correspondence to ensure transparency and so that we can be sure the system is working well.
+
+Michael Fallon
+Given that the hon. Gentleman has raised that point, I confirm that over a long period—many months—we have given the Scottish Government full notice that we want the renewables obligation closed by March 2017. They have had every notice in correspondence at ministerial and official level and have been in no doubt of our intention for a long time.
+
+Jonathan Reynolds
+I am grateful to the Minister for that undertaking.
+
+Mr Weir
+rose—
+
+Jonathan Reynolds
+No, I am afraid that I will not give way.
+
+It is important that we have the opportunity to discuss tackling fuel poverty, which is rightly of considerable interest to Members across the House. I pay tribute to Members in the other place for their hard and thoughtful work in tabling amendments to the Bill, and in particular to my noble Friend Lord Whitty for his amendment of 19 November, the basis of which forms part of amendment (g), tabled in my name and those of my right hon. Friend the Member for Don Valley (Caroline Flint) and my hon. Friends the Members for Rutherglen and Hamilton West (Tom Greatrex) and for Sunderland Central (Julie Elliott). It is welcome that the Bill at least now acknowledges the need to contain a fuel poverty strategy.
+
+Our amendments, and those tabled by other hon. Members, seek to put some detail into that strategy and make the commitment for which we are legislating a meaningful one. I therefore hope to test the opinion of the House on amendment (g) to Lords amendment 87. Like my noble Friends in the other place, I agree that it is vital that the Bill contains a commitment for a fuel poverty strategy that is effective and can be used to hold the Government to account for their success or failure in pursuing it. Fuel poverty is a serious problem in this country and something on which we must improve. I am sure that the whole House was distressed by last week’s figures on excess deaths in England and Wales last winter. We should never accept such a figure or fail in our duty to prevent it from happening again.
+
+As a result of the much greater age profile of the UK’s housing stock, we have some of the least energy-efficient dwellings in Europe. Worryingly, only Estonia has a higher proportion of its population in fuel poverty than the UK. Even under the Government’s new definition of what constitutes fuel poverty, the latest figures show that almost 2.4 million households in the UK are classified as being fuel poor. We need to see more action from this and future Governments on fuel poverty, and I believe our amendment will ensure that. I am disappointed that, without Lords amendment 87, the Bill will be unacceptably light in respect of dealing with fuel poverty.
+
+The Government have serious questions to answer about the implications of their announcement on Monday on the number of households that will in future receive help with energy efficiency. I strongly believe that the energy company obligation can be much improved, and I note that the Secretary of State claimed in Monday’s statement that the fuel poverty-related components of ECO—the community obligation and the home heating cost reduction obligation—had not been reduced. However, many Members will be aware that most of the larger-scale retrofits that have been carried out in their own constituencies under ECO, whether by local authorities or registered social landlords, have been schemes that contributed towards the third strand of ECO, which has been substantially reduced—the carbon emissions reduction obligation, or CERO—because the other components of ECO allow much easier and cheaper measures to be installed. By reducing CERO, the big local area-based schemes, mainly in the poorer parts of the country, will be reduced.
+
+The Government also announced that cheaper measures will now count towards CERO, too, and we will soon know from Ofgem how much of the carry-over from the carbon emissions reduction target will be allowed to  count towards the energy companies’ progress towards their CERO targets. The industry believes that the 100,000 minimum installations that have been specified for solid-wall measures up to 2017 will now in fact become the maximum—an average of only 25,000 a year, when last year alone 80,000 were done. Against a total of 7 million solid walls still to do, progress will simply be too slow.
+
+There has therefore never been a more urgent need to ensure that the Bill contains provisions for successive Governments to meet energy-efficiency targets in 2020 and 2030 and to reduce the numbers of households in fuel poverty, with an overall ambition of eradicating fuel poverty. Nothing else should satisfy the House, and I urge Members to support amendment (g).
+
+I thank my hon. Friend the Member for Derby North (Chris Williamson) for the amendments that he has tabled that focus on this issue and for his work in ensuring that it is debated in the House today. He and I have discussed these matters on several occasions, and he knows that there is no difference of opinion between us on the desire for an ambitious fuel poverty strategy on a scale appropriate to the size of the challenge. He is absolutely right to highlight the need, in amendment (a) to Lords amendment 87, for an energy-efficiency programme that is focused on raising the efficiency rating of housing stock within the UK.
+
+What we all want to see is whole-house retrofitting, not just, for instance, a new boiler going in without cavity or loft insulation being done at the same time. Ensuring properties meet a certain standard that progressively improves is the best way to prevent and eradicate fuel poverty. The only area where my hon. Friend and I differ is that I believe the best way to approach this is to ensure that such a strategy is accounted for in the Bill and then for the Government to have to produce a properly costed and deliverable strategy to ensure that we can achieve it.
+
+In the event of a Labour Government, I want to be able to come to the House with a plan that says very clearly what we intend to do and how we will pay for it. I am conscious that there has been a great deal of over-promising and under-delivery in this area, not least on things like the green deal, and it would be better to do the opposite. That is why I believe amendment (g) is the better way to go, but I reiterate to my hon. Friend and all my colleagues that I am firmly of the view that we need that strategy to be bold, not only to tackle fuel poverty, but to reduce our carbon emissions and for the wider economic benefits it would bring.
+
+I also thank my hon. Friend for highlighting the health impact of fuel poverty. That is addressed in his amendment (e), which I and my Front-Bench colleagues have also signed. As I have previously mentioned, there were more than 31,000 excess winter deaths in England and Wales last year. Not all those deaths can be attributed to cold housing, but there is evidence to suggest that illnesses caused by cold homes cost the NHS more than £850 million a year.
+
+People classed as living in fuel-poor households are likely to suffer from heart problems, strokes, mobility issues and poorer mental health, including severe depression. There is also a social cost: for example, children in fuel-poor households often perform worse at school, and there is a marked increase in a child’s performance once they are taken out of fuel poverty. The stress faced by people managing household bills on a stretched  budget should not be underestimated. We should all recognise that there could be significant health benefits from an ambitious fuel poverty strategy, and I welcome discussion of including that aspect in the assessment that the Secretary of State would have to make.
+
+I genuinely believe that there are Members on both sides of the House who care deeply about fuel poverty. It is therefore my hope that amendment (g) will be considered properly by the Government. Despite the fact that energy and the price of energy is the number one political issue and the source of much partisan exchange, we all stand to gain substantially from improving the quality of our housing stock. The only way that we can make a difference in addressing fuel poverty is by having a programme that is ambitious in its aims and clear in its target for improving energy efficiency. Amendment (g) will ensure that this Government and any future Government cannot side-step their responsibility in seeking to eradicate fuel poverty. I hope the Government will support us on that. If they do not, I will seek to press it to a Division.
+
+Caroline Lucas
+I would like to speak in favour of the amendments tabled by the hon. Member for Derby North (Chris Williamson), and I apologise for having the floor before him.
+
+There is a huge amount of noise about energy costs, with blame and accusations flying in all directions, but the basics are clear: the current approach to tackling fuel poverty is inadequate. According to National Energy Action, it is expected to reach just 5% of the fuel poor in England. Poorer households and individuals stand to suffer most from energy price increases, which they cannot afford. The most vulnerable people tend to live in the worst-quality and least energy-efficient housing.
+
+Energy efficiency is the only serious solution to protecting householders from future price rises. We know that that is the direction that we have to go in, regardless of the discussion on the cause of rising fuel prices. We need a stronger commitment on energy efficiency and urgent action to deliver it from this and future Governments. An ambitious nationwide energy-efficiency drive would make a huge contribution to job creation and the economy, as well as being essential for carbon targets.
+
+The amendment that I want to speak to sets out minimum energy-efficiency targets for homes occupied by low-income households. They would be an effective and lasting approach to ending the scandal of fuel poverty, and the reality that many of the UK’s poorest and most vulnerable individuals and families live in the coldest, most leaky homes. It would reduce seriously the health risks—respiratory and cardiovascular illnesses, mental ill health and depression—linked to cold homes, thereby reducing the burden on local health provision. It would make a significant contribution to the desperately needed cuts to carbon emissions from buildings.
+
+The Energy and Climate Change Committee made it clear that there has been very limited progress on some measures, such as solid wall insulation, to cut emissions from existing buildings and called for new approaches to increase uptake. I am sure that DECC disregarded all that advice this week. I hope that we will not be there doing that again.
+
+This effective and ambitious approach is needed because we urgently need action to stop the scandal that, in the 21st century, we still have people dying from the cold in  their own homes. It is literally a scandal that we had 31,000 excess winter deaths last year—an increase of 29% on the previous year. We are a relatively rich and not terribly cold country, but many people are dying because they cannot afford to heat their homes.
+
+The hon. Member for Derby North clearly understands the enormous benefit of an approach to fuel poverty that is based on minimum energy-efficiency targets. What a shame that he no longer holds a shadow communities and local government position, and what a shame that the shadow energy and climate change team favours what seems to be a weaker and vaguer approach and has tabled its own amendment rather than supporting his.
+
+In recent weeks and months, many of my constituents have written to me to call for ambitious action on energy efficiency to tackle the scandal of cold homes. Many of them have moving personal stories to tell. Many of them have written about the Energy Bill Revolution campaign and the no-brainer of recycling the billions of carbon tax revenues received by the Treasury into a mass home energy efficiency scheme. Having clear fuel poverty and energy-efficiency objectives in primary legislation is a crucial first step to driving the nationwide housing upgrade that we need. Without such targets set in legislation, our constituents have no guarantee that this or any future Government will take the necessary action on fuel poverty.
+
+I just want to say a few words about my amendment (a) to Lords amendment 76, which concerns the information that energy companies provide to their customers. Lords amendment 76 makes provision for the Secretary of State to require a licence holder to provide information to domestic customers to allow them to see for themselves whether any bill increases are due to an increase in company profit, or due to increases in other costs.
+
+My amendment would make some modest additions to that welcome proposed increase in transparency. First, in relation to profits, it would allow customers to see how much UK corporation tax their energy supplier has paid in the past three years as a total and, crucially, as a proportion of its profits. The Minister said that that was not necessarily fair because there was not a direct correlation between corporation tax paid and overall turnover, but none the less it would be useful for people to have that figure when deciding to switch between energy companies.
+
+16:15:00
+
+The Government make big play about the importance of information to enabling customers to switch and use their power of choice. If they are to have that power of choice, they need information, and I think that this would be a useful and easily accessible piece of information for them to have. Earlier this year, the Energy and Climate Change Committee uncovered the disturbing reality that some of the big six were paying little or no corporation tax at all, despite making major profits, and other hon. Members on both sides of the House have made clear their complete dissatisfaction with that.
+
+Secondly, our constituents have a right easily to access information on fuel mix. The Minister tried to reassure me by saying that, because of the existing fuel mix disclosure obligation, that part of my amendment was redundant, but there is no point hiding away this  information on a website. It needs to be in bills, so that people can make better judgments, and we need more than just one year’s information. To see trends and trajectories and to make proper comparisons, we need several years’ information, and it needs to be presented so that meaningful averages can be compared.
+
+Sammy Wilson
+Does the hon. Lady really envisage individuals getting fuel bills showing profit and loss accounts, fuel mixes, past fuel mixes, trajectories of fuel mixes and so on? She says that this is about transparency, but does she really believe that the ordinary consumer will understand half this information or even be interested in half of it?
+
+Caroline Lucas
+I have much greater confidence in the wisdom of my constituents than sadly the hon. Gentleman appears to have in his. The bottom line is that people want information. They are being encouraged to switch between energy suppliers, but to do that they need well-presented information—I accept that it must be accessibly presented. I have no doubt that our constituents could perfectly well understand information on corporation tax paid and fuel mix, by which I mean the amount from fossil fuels and renewables.
+
+Many other people want to speak, so I will end my comments there. I simply say to the Minister that the existing fuel mix disclosure obligation is not enough. We need more information, including trajectories, and it should cover more than one year and be properly comparable between different energy companies.
+
+Chris Williamson (Derby North) (Lab)
+I rise to speak in support of amendments 87 (a), (b), (c), (d), (e) and (f). I thank my hon. Friend the Member for Stalybridge and Hyde (Jonathan Reynolds), the shadow Minister, for his kind remarks and for his support, in principle at least, for the sentiments expressed in my amendments.
+
+I am pleased that the Minister said that the Government were committed to tackling fuel poverty, but actions speak louder than words, and if the Government are serious about it, they need to do a lot better than they have done so far and a lot better than the measures in the Bill. The 29% increase in excess winter deaths in this country is a scandal. As the hon. Member for Brighton, Pavilion (Caroline Lucas) said, this is not the coldest climate or one of the poorest nations on the planet, yet people are dying because their homes are too cold. That cannot be acceptable. That is why we need to place on the Government a clear and unambiguous obligation to eradicate fuel poverty.
+
+I am not the only one critical of the Government’s record. Their own fuel poverty advisory group issued a press release recently stating that the Government were failing the vulnerable as winter deaths were rising, and the chair of the group said:
+
+“No one should be dying because they cannot afford to heat their home.”
+
+He went on to say:
+
+“Urgent action is needed now to prevent a repeat of this morally unforgiveable level of excess winter deaths.”
+
+He is absolutely right that there is a moral imperative, and the Government seem to be failing dismally.
+
+Indeed, not only are the Government failing, but in my view their response has been pretty shameful. They have changed the definition of fuel poverty, which at a stroke has taken a couple of million people out of that  category. That reminds me a little of the 1980s, when the previous Conservative Government used to fiddle with the unemployment statistics in order to reduce the numbers. The Government have cut the funding to tackle fuel poverty and capitulated to the big six energy companies. There will be no energy price freeze under this Government, just £50 back, so energy bills will go up for everybody across the country—just not by as much as they might have otherwise. It is a bit like stealing someone’s shoes, giving them back the laces and then telling them to rejoice. On top of that, this Government have scrapped the Warm Front scheme, cut the winter fuel payment and mangled the energy company obligation.
+
+Passing the Bill as it stands, without a clear and unambiguous commitment to eradicate fuel poverty, is a bit like passing a death sentence on thousands of people who are living in cold homes across our country. That is why I tabled the amendments that are before us: it is essential that we set meaningful targets for 2020 and 2030. I know it is a lot of money—bringing the housing stock up to energy performance certificate band B by 2030 for all low-income households is estimated to cost £47 billion—but the money, or a large proportion of it, is there. For example, something over £1 billion in the energy company obligation could be used for that purpose. Simply refocusing that ECO money would remove 70% of the fuel-poor from fuel poverty by 2020; I therefore think that should be done.
+
+In addition, there are huge health benefits to tackling fuel poverty in bringing all low-income households up to EPC band B by 2030. The chief medical officer made it clear in her report that
+
+“Every £1 spent keeping homes warm can save the NHS 42 pence in health costs.”
+
+That has been estimated to be another £1 billion or so. It would be very sensible to reduce the costs on the national health and to allow that money to be refocused on paying for the required investment in tackling fuel poverty. If we can reduce the demand for energy, that could also reduce the cost of upgrading our energy infrastructure. We know already that £100 billion is being talked about to subsidise new nuclear energy in this country. We would not have to spend quite as much if we could manage down the demand for energy. There is also around £4 billion in carbon taxes that could be focused on tackling fuel poverty.
+
+The other benefit that would flow from my proposal is that at least 130,000 jobs would be generated. Not only would that address a massive social need, given that there are more than 1 million unemployed young people in our country, but it would be a big boost to our economy. We also have our legal obligations, as set out in the Climate Change Act 2008. If we are serious about delivering on those obligations, it seems pretty clear that we need to do something about managing demand in our country and not simply look at creating additional capacity. If we are to reach that decarbonisation target, we must do more to reduce the demand for energy in the first place.
+
+The Association for the Conservation of Energy estimates that investment in tackling cold homes would reduce household fuel bills by some £530 at today’s prices, but I am afraid that tackling fuel poverty and cold homes will not be achieved by the feeble efforts made by the Government so far.
+
+Mr Brian Binley (Northampton South) (Con)
+The hon. Gentleman is making a compelling case, and I appreciate the compassion with which he is making it. It is a good case to make. Does he agree, however, that the last Government did not act very wisely, or indeed very compassionately, in this regard? Fuel poverty increased each year when they were in office. While I accept the hon. Gentleman’s arguments, I should like to hear him accept that the last Government did not do too well either.
+
+Chris Williamson
+I think that the hon. Gentleman is getting his facts a little mangled. Fuel poverty diminished in many of the years during which Labour was in power between 1997 and 2010. [Interruption.] I am afraid that that is a fact. It is clear that the Labour Government’s investment in tackling fuel poverty through, for instance, the Warm Front scheme and the decent homes agenda had a huge impact. Yes, we could have done more, and perhaps we should have done more, but we did a damn sight more than the current Administration propose to do. Perhaps the hon. Gentleman will accept that fact, at least.
+
+Mr Binley
+I accept that I must apologise to the House for giving misleading figures. Fuel poverty increased every year from 2004 onwards, and those were the years when we were spending money like crazy. Does the hon. Gentleman accept that?
+
+Chris Williamson
+No, I do not.
+
+The Minister of State, Department of Energy and Climate Change (Gregory Barker)
+Will the hon. Gentleman give way?
+
+Chris Williamson
+No. I will not take any more interventions, because I know that others want to speak in this important debate.
+
+Gregory Barker
+Briefly?
+
+Chris Williamson
+No. Others wish to speak.
+
+This issue will not go away; it will run and run. The fact that people are dying in our country because they cannot afford to heat their homes properly is a stain on our national character. People should not be faced with the invidious choice between putting food on their tables and heating their homes adequately. We must do better than that, and, as one of the richest nations on the planet, we can do better than that.
+
+I am grateful for the supportive comments of my hon. Friend the Member for Stalybridge and Hyde. I hope that Labour Front Benchers will look carefully at the amendments, and that, when we form the Government following the next general election, our programme will include meaningful targets which can have a real impact, enabling us to end the absolute scandal of people dying in our country because they are living in cold homes.
+
+Mr Weir
+I had not intended to say much, but the concerted attack on the Scottish Government by both Front Benches encouraged me to rise to oppose Lords amendment 54.
+
+The purpose of the amendment, as the Minister briefly told us, is to close the renewables obligation throughout Great Britain. That is important, because until now the Scottish Government have been able to  operate it distinctly from the renewables obligation in England and Wales, and have indeed used it in some different ways.
+
+The closure of the renewables obligation and, in particular, the time scale were debated at some length in Committee, and I do not intend to repeat all that was said at that stage. However, the Minister said that the Scottish Government had full knowledge of the date when the Government intended to close the renewables obligation. I am sure that that is true, but the Government did not have the power to force the closure in Scotland, because it was a power that lay with the Scottish Government. Now the Government have introduced an amendment in the other place—in an unelected Chamber—to change the law and remove a power from the Scottish Parliament.
+
+Successive Scottish Governments have used their devolved powers to advance renewables generation across Scotland, and the removal of that discretion has caused concern, particularly as there has been no prior consultation with the Scottish Government about its removal or about the introduction of this provision, especially at a time when the Scottish Government are conducting a live consultation on the closure of the renewables obligation. The Scottish Government have also used the renewables obligation to provide greater support for hydro schemes and higher renewables obligation certificate bands for floating offshore wind turbines.
+
+16:30:00
+
+I recognise that the Secretary of State has today published more details of the contract for difference strike prices, which include greater support for hydro and increased strike prices for offshore wind. That is welcome, but it is unclear whether there will be increased support for floating offshore wind in particular. Will the Minister clarify that point? I also note that the Minister has proposed a consultation on the renewables obligation grace periods, but it seems to propose only limited grace periods. This is particularly important in the Scottish context in relation to floating wind turbines. They are important in the Scottish sector because they operate in much deeper waters than the traditional offshore turbines that are fixed to the sea bed. There is a strong possibility that it will be necessary to do this differently in regard to the RO grace periods, but all those powers have been taken away.
+
+It is striking that when the matter was previously discussed, this Government said that no new law was needed to close the renewables obligation. Suddenly, however, when the Bill got to the House of Lords, it was decided that it was necessary. Call me a cynic, but it seems to me that the Government, having found out that they could not implement this measure because the power already lay with the Scottish Government, have slipped this provision in through the other place. That is unacceptable. They are taking away a power that the Scottish Parliament and Government had, and they are doing it by the back door. We had not even discussed it in this House; it has been proposed in the other place. I oppose Lords amendment 54, and given the chance, I would like to press it to a vote.
+
+Joan Walley (Stoke-on-Trent North) (Lab)
+I want to try to put this matter into context. In my constituency, 6,110 households are in fuel poverty. The Lords amendment   would drastically change the definition of fuel poverty. At the moment, about 3.2 million people are classified as being in fuel poverty, but that figure would go down to about 2.7 million under the new definition. There is real concern about the proposed change. I am also concerned about the change in the Government’s ambition, which was previously to eradicate fuel poverty and now appears to be merely to address it. That is no longer a strong commitment. The Minister will have to do an enormous amount if he is to convince the House that fuel poverty is really going to be addressed.
+
+This is a cross-cutting issue. It is not just about what is going on in the Department of Energy and Climate Change; it is also about the cost to the health service and the implications for skills and employment. There are now 7,000 fewer people in the construction industry working on insulation than there were in December 2012 and, in a double whammy, we have had the announcement this week that the energy company obligation is to be cut back. There are households that desperately need investment in their insulation, but that investment is now going to be cut back. To make matters worse, the goalposts have been moved and, instead of having to complete 100,000 measures in one year, that work can now be completed in four years. Connecting all that together, we can see that there will be huge reductions, making it more difficult to address fuel poverty precisely when we should be stepping up the measures to deal with it.
+
+The Environmental Audit Committee examined the whole issue of energy subsidy and one of its conclusions was as follows:
+
+“To aid transparency, if the Government introduces its proposed new measure of fuel poverty, it should also continue to publish statistics on the current metric for the remainder of this Parliament, alongside the new figures. In the Autumn Statement, the Government should make clear how any changes to green levies will change the amount that those in fuel poverty will have to pay, by how much and how soon.”
+
+I would like the Minister to respond on that.
+
+Dr Whitehead
+I wish briefly to speak in support of the amendments to Lords amendment 87 tabled by my hon. Friend the Member for Derby North (Chris Williamson) and my Front-Bench colleagues on the issue of fuel poverty.
+
+As someone who has sat through the whole process of this Bill, from the very start to the finish this afternoon, I can tell hon. Members that during its early passage we were promised amendments in another place that would address fuel poverty. Here they are in front of us, but they are very feeble. I say that because central to Lords amendment 87 is the word “addressing”. For all the rest of the material in the Lords amendments about a strategy and so on, the amendment concentrates on the various things that have to be done to bring about a position of
+
+“addressing the situation of persons in England who live in fuel poverty.”
+
+Let us suppose that my wife asked me whether I was going to cook the supper tonight and I said, “I will do rather better than that. I will address the issue of cooking the supper tonight. I will have a number of recipe books at the ready and I will produce a strategy  for cooking the supper. I will have some vegetables, which will also be ready to address the strategy of cooking the supper.” She would probably conclude that we would be having a takeaway this evening. That shows the central problem with Lords amendment 87: it would not ensure, whether in relation to the previous definition or the Hills definition of fuel poverty, that there will be a strategy in the future to bring about changes that move towards the eradication of fuel poverty.
+
+The amendments to the Lords amendment 87 would simply replace that lack; they would put in targets to ensure that we can address the eradication of fuel poverty through a requirement on Government to act over the next period, rather than suggesting that they may or may not act, depending on how they wish to proceed. Let us not forget that this Bill, when enacted, will bind not only this Government, whatever their intentions, but future Governments on what they need to do about fuel poverty.
+
+One central point about the amendments to Lords amendment 87 is that they make an explicit link between the imperative of moving forward on energy efficiency and the imperative to eradicate fuel poverty. We know that through radical measures to improve the energy efficiency of our homes, we undertake radical measures to eradicate fuel poverty, because of the congruence between people living in fuel poverty and people living in the least insulated homes in our country. It is a singular fact that the price of energy in this country is by no means the highest in Europe, but the bills we pay are among the highest in Europe, simply because of the overall energy inefficiency of our homes. Setting targets and underpinning them with an explicit assault on fuel poverty over the period is a win-win in terms of the move towards greater energy efficiency in our homes, the investment that that requires and the attack on fuel poverty that results.
+
+If the Government are, as they state, serious about continuing to make an assault on fuel poverty, they have to do better than simply produce amendments that talk about “addressing” a position. The amendments to the Lords amendment seek to do better, and I hope that the House will support them this afternoon.
+
+Michael Fallon
+With the leave of the House, let me reply briefly to the points made in the debate. The hon. Member for Brighton, Pavilion (Caroline Lucas) and I disagree about the amount of information that should be put in Bills. She wants corporation tax and more about the fuel mix. Let us see what Ofgem comes up with in its search for greater transparency and then perhaps we can debate the matter again.
+
+The hon. Member for Angus (Mr Weir), who is still in his place, suggested that we were trying to do something against the Scottish Government by the back door. I do not think that taking primary legislation can be characterised as doing something by the back door in whichever House it is introduced; it is right there through the front door.
+
+Let me answer the points that the hon. Gentleman made. First, he seemed to suggest that the Government and the House had no right to close the renewables obligation for Scotland. Yes, we do have that right. The need to close it to new capacity has arisen due to the electricity market reform programme, which is a  fundamental change to our policy for supporting renewables electricity generation, and electricity is a reserved matter under the Scotland Act 1998.
+
+The hon. Gentleman asked me specifically about the grace period. We consulted on the grace periods to be offered at the point of RO closure. That consultation closed on 28 November, and our response will be published early next year and we will set out the detailed arrangements.
+
+Mr Weir
+I understand what the Minister is saying, but will he not accept that under the renewables obligation, the Scottish Government had discretions over how to operate it in Scotland? Until this amendment was tabled, there was nothing to say that the Minister intended to change the law on this particular point.
+
+Michael Fallon
+We have made our intention absolutely clear that the renewables obligation was going to be closed by March 2017. That has been made clear to the Scottish Government by officials and Ministers in correspondence over many months now. It is only right that the renewables obligation should be closed evenly for England, Wales and Scotland. I do not accept the hon. Gentleman’s point.
+
+The hon. Member for Derby North (Chris Williamson) suggested that some of those involved in the fuel poverty area were not supportive of our change. He quoted Derek Lickorish, the chairman of the fuel poverty advisory group, but let me now quote him. David Lickorish said:
+
+“I very much welcome the announcement in Parliament today by the Secretary of State that will place an enduring requirement for this, and successive governments, to tackle fuel poverty beyond the current legislation.”
+
+The hon. Gentleman also quoted the Association for the Conservation of Energy. Let me tell him what Mr Warren said:
+
+“It has been our long-held view that fuel poverty-proofing our inefficient housing stock is the only permanent solution to the scourge of fuel poverty. We therefore welcome as a step in the right direction the Government’s stated intention to adopt a new target to improve the energy efficiency of the homes of the fuel poor.”
+
+I just want to make it clear that those voluntary organisations that are the most concerned in this area welcome the change that we are making.
+
+Chris Williamson
+I think the Minister will find that the organisations to which he is referring took the view that something was better than nothing, because nothing was previously on offer. It is stretching the point to suggest that these organisations are endorsing the Government’s approach, because that is far from the truth.
+
+Michael Fallon
+The problem the hon. Gentleman has is that fuel poverty went up. It went up in the boom years when the economy was booming and public expenditure was increasing year after year. That has been the particular problem with his definition.
+
+16:45:00
+
+Let me come briefly to the heart of the issue and the problem with amendment (g). It calls again for the eradication of fuel poverty and the independent review by Professor Hills made it clear that eradication is no longer the right approach. By focusing on energy efficiency, which is what we intend the target to do, we can make a  real and lasting difference to people’s bills. We have not yet made final decisions on the date of the target, but we will make proposals to do so that will be subject to full parliamentary debate.
+
+The aim across the House is exactly the same. We want to reduce the extent to which people are suffering the problem of fuel poverty. The new definition is relative. The number of households in fuel poverty is unlikely to change significantly from year to year although the depth of the problem, as measured by the fuel poverty gap, will. We agree with Professor Hills that this is the right way to measure the problem and a more accurate one. As standards improve, a relative measure will also ensure that the fuel-poor are not left behind. Given that, we think the best way to make progress is to improve the energy efficiency of people’s homes, as that will make a lasting difference to those struggling with their energy bills. We have therefore suggested that the target should be set on that basis. A reduction in the number of persons implies an absolute definition, which is not what we have proposed. However, we will continue to publish numbers setting out the headcount and the depth of the problem as well as progress against the target in our annual fuel poverty statistics report. For those reasons, if the Opposition choose to press amendment (g) to a vote, I urge the House to reject it.
+
+Lords amendment 1 agreed to.
+
+Madam Deputy Speaker (Mrs Eleanor Laing)
+With the leave of the House, we shall take amendments 2 to 86 together.
+
+Mr Weir
+Object.
+
+Madam Deputy Speaker
+We will take amendments 2 to 53.
+
+Lords amendments 2 to 53 agreed to.
+
+Madam Deputy Speaker
+The question is that the House agrees with the Lords in their amendment 54. As many as are of that opinion say Aye.
+
+Hon. Members
+Aye.
+
+Madam Deputy Speaker
+As many as are of that opinion say No.
+
+Hon. Members
+No.
+
+Madam Deputy Speaker
+The Ayes have it.
+
+Lords amendment 54 agreed to.
+
+Lords amendments 55 to 86 agreed to.
+
+After Clause 1
+
+Fuel poverty
+
+Amendment (g) proposed to Lords amendment 87.—(Jonathan Reynolds.)
+
+Question put, That the amendment be made.
+
+Division 152
+04/12/2013 16:48:00
+The House divided:
+Ayes: 226
+Noes: 311
+Question accordingly negatived.
+
+17:03:00
+
+More than three hours having elapsed since the commencement of proceedings on consideration of Lords amendments, the proceedings were interrupted (Programme Order, this day).
+
+The Speaker put forthwith the Question necessary for the disposal of the business to be concluded at that time (Standing Order No. 83F).
+
+Lords amendments 87 to 104 and 106 to 113 agreed to.
+
+Motion made, and Question put forthwith (Standing Order No. 83H), That a Committee be appointed to draw up a Reason to be assigned to the Lords for disagreeing to their amendment 105;
+
+That Karen Bradley, Michael Fallon, Stephen Gilbert, Tom Greatrex and Bridget Phillipson be members of the Committee;
+
+That Michael Fallon be the Chair of the Committee;
+
+That three be the quorum of the Committee.
+
+That the Committee do withdraw immediately.—(Anne Milton.)
+
+Question agreed to.
+
+Committee to withdraw immediately; reasons to be reported and communicated to the Lords.
+
+Mr Speaker
+I have now to announce the results of the deferred Divisions. On the question relating to the draft European Union (Definition of Treaties)(Colombia and Peru Trade Agreement) Order 2013, the Ayes were 333 and the Noes were 61, so the Ayes have it. On the question relating to the draft Categories of Gaming Machine (Amendment ) Regulations 2014, the Ayes were 322 and the Noes were 231, so the Ayes have it.
+
+[The Division lists are published at the end of today’s debates.]
+
+Robert Flello (Stoke-on-Trent South) (Lab)
+On a point of order, Mr Speaker. Further to the announcement you have just made, I think that hon. Members should be aware, especially those who voted for the free trade agreement or abstained, that on Monday, two days ago, peasant farmer Jorge Eliecer Calderón Chiquillo was killed by the Colombian army. I hope that hon. Members will think about that.
+
+Mr Speaker
+I am grateful to the hon. Gentleman, who has made his point with, if I may say so, great succinctness.
+
+Thomas Docherty (Dunfermline and West Fife) (Lab)
+On a point of order, Mr Speaker.
+
+Mr Speaker
+I hope that it is a point of order and that it is comparably succinct.
+
+Thomas Docherty
+Today’s Evening Standard reports that when Camp Bastion was attacked some 14 months ago, more than half the towers under British control were unmanned. The Secretary of State for Defence and the Chief of the Defence Staff told the Defence Committee just a couple of weeks ago that Britain had no responsibility for the attack. Has the Secretary of State indicated to you whether he wishes to update the House in the light of the very serious allegations in the Evening Standard today?
+
+Mr Speaker
+No. I am grateful to the hon. Gentleman for his point of order nevertheless.
+
