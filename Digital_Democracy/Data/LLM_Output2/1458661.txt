@@ -1,0 +1,13 @@
+## Bing
+
+Thank you for your request. Here is my response based on the text file open in your current webpage:
+
+Summary - The text file is a transcript of a debate in the UK Parliament on the Building Safety Bill, which aims to improve the safety of buildings and protect leaseholders from remediation costs. The debate covers various amendments made by the Lords and the Government's response.
+
+For - Voting 'Ayes' in the division: motion to agree Lords Amendment 94, as amended, means supporting the Government's definition of 'relevant building' as one that is at least 11 metres or five storeys in height and contains at least two dwellings[1]. This would limit the scope of leaseholder protections to buildings with higher fire risk and avoid unnecessary remediation costs for low-rise buildings.
+
+Against - Voting 'Noes' in the division: motion to agree Lords Amendment 94, as amended, means rejecting the Government's definition of 'relevant building' and preferring the Lords' version, which extends the leaseholder protections to buildings of all heights containing two or more dwellings. This would ensure that all leaseholders are protected from paying for historical building safety defects, regardless of the height of their building[2].
+
+Decision - Voting 'Aye' in the division: motion to agree Lords Amendment 94, as amended, is associated with ethical considerations, regulation, and tradition, in the context of Standards & Technology. This is because it reflects the Government's view that an EWS1 form should not be required for buildings below 18 metres in height, and that assessments should be carried out in accordance with the new PAS 9980 principles[3]. It also respects the existing service charge regime and the proportionality principle placed on the Building Safety Regulator.
+
+Sentiment - B

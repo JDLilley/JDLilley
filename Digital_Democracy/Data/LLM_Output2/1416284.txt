@@ -1,0 +1,13 @@
+## Bing
+
+Thank you for your request. Here is my response based on the text file open in your current webpage:
+
+Summary - The text file is a transcript of a parliamentary debate on the Judicial Review and Courts Bill, which aims to reform the judicial review process and the coroners system in the UK. The debate covers various amendments and new clauses proposed by different MPs.
+
+For - Voting 'Ayes' in the division on Amendment 41 means supporting the removal of clause 2 of the Bill, which would exclude the review of the Upper Tribunal's decisions to refuse permission to appeal from the First-tier Tribunal[1]. This would preserve the right of claimants to seek judicial review in such cases.
+
+Against - Voting 'Noes' in the division on Amendment 41 means opposing the removal of clause 2 of the Bill, which would exclude the review of the Upper Tribunal's decisions to refuse permission to appeal from the First-tier Tribunal[1]. This would prevent claimants from seeking judicial review in such cases and reduce the workload and costs of the courts.
+
+Decision - Voting 'Aye' in the division on Amendment 41 is associated with freedom and autonomy, limiting police powers and softer punishments, limiting Crime & Justice. This is because it would allow claimants to challenge the decisions of the tribunals that deal with matters such as immigration, asylum, social security, and human rights, which may affect their liberty, safety, and dignity.
+
+Sentiment - B

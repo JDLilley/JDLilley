@@ -1,0 +1,13 @@
+## Bing
+
+Thank you for your request. Here is my response based on the text file open in your current webpage:
+
+Summary - The text file is a transcript of a parliamentary debate on the Judicial Review and Courts Bill, which aims to reform the judicial review process and the coroners system in the UK. The debate covers various amendments and new clauses proposed by different MPs.
+
+For - Voting 'Ayes' in the division on Amendment 25 means supporting the removal of the presumption in favour of issuing suspended or prospective-only quashing orders, which are new remedies that limit the retrospective effect of judicial review[1]. This would protect the discretion of the court and the rights of claimants.
+
+Against - Voting 'Noes' in the division on Amendment 25 means opposing the removal of the presumption in favour of issuing suspended or prospective-only quashing orders, which are new remedies that limit the retrospective effect of judicial review[1]. This would preserve the Government's intention to reduce the disruption and uncertainty caused by quashing orders.
+
+Decision - Voting 'Aye' in the division on Amendment 25 is associated with freedom and autonomy, limiting police powers and softer punishments, limiting Crime & Justice. This is because suspended or prospective-only quashing orders could deprive claimants of a proper chance of redress and create a chilling effect on challenging unlawful decisions by public authorities, including those related to crime and justice.
+
+Sentiment - B

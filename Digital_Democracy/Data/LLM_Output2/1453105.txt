@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I have reviewed the text file open in your current webpage and here is my response:
+
+Summary - The text file is a transcript of a debate in the UK Parliament on the Nationality and Borders Bill, which aims to reform the asylum and immigration system. The debate covers various amendments proposed by the House of Lords and the Government's response to them.
+
+For - Voting for (Ayes) in the division: Motion to disagree with Lords Amendment 13 means supporting the Government's plan to create a new offence of knowingly arriving in the UK without permission[1]. The Government argues that this will deter illegal entry and break the business model of criminal smugglers.
+
+Against - Voting against (Noes) in the division: Motion to disagree with Lords Amendment 13 means opposing the Government's plan to create a new offence of knowingly arriving in the UK without permission. The opponents argue that this will criminalise vulnerable people seeking protection and violate international law and human rights.
+
+Decision - The Motion to disagree with Lords Amendment 13 would tighten immigration and borders, as it would introduce a new criminal sanction for those who enter the UK without permission and potentially reduce their access to asylum and support.
+
+Sentiment - A

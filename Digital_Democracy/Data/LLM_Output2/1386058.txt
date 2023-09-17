@@ -1,0 +1,11 @@
+## Bing
+
+Summary - The text file is a transcript of a parliamentary debate on the Nationality and Borders Bill, which aims to reform the UK's immigration and asylum system. The debate covers various amendments and new clauses proposed by MPs from different parties.
+
+For - Voting for (Ayes) in the division: Amendment 128 means supporting the removal of clause 58 from the Bill, which would allow the Home Secretary to disregard late disclosure of relevant information by potential victims of modern slavery as damaging their credibility.
+
+Against - Voting against (Noes) in the division: Amendment 128 means opposing the removal of clause 58 from the Bill, which would allow the Home Secretary to disregard late disclosure of relevant information by potential victims of modern slavery as damaging their credibility.
+
+Decision - Amendment 128 would soften immigration and borders, as it would prevent the Home Secretary from dismissing potential victims of modern slavery based on the timing of their disclosure, and would ensure that they are treated fairly and humanely in the asylum process.
+
+Sentiment - B

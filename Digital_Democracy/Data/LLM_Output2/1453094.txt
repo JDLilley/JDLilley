@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I have reviewed the text file open in your current webpage. Here is my response:
+
+Summary - The text file is a transcript of a debate in the UK Parliament on the Nationality and Borders Bill, which aims to reform the asylum and immigration system. The debate covers various amendments proposed by the House of Lords and the Government's response to them.
+
+For - Voting for (Ayes) in the division: Motion to disagree with Lords Amendment 4 means supporting the Government's proposal to notify people of their deprivation of citizenship by publication or other means when they cannot be contacted. The Government argues that this is necessary to protect the public from terrorists or fraudsters[1].
+
+Against - Voting against (Noes) in the division: Motion to disagree with Lords Amendment 4 means opposing the Government's proposal and supporting the Lords' amendment, which would remove the clause on deprivation of citizenship notification from the Bill. The Lords argue that this is a disproportionate and unfair measure that could violate human rights.
+
+Decision - The Motion to disagree with Lords Amendment 4 would tighten immigration and borders, as it would make it easier for the Government to deprive people of their citizenship without giving them notice or a chance to appeal.
+
+Sentiment - A

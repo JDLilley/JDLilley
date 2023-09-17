@@ -1,0 +1,13 @@
+## Bing
+
+Thank you for your request. Here is my response based on the text file open in your current webpage:
+
+Summary - The text file is a transcript of a parliamentary debate on the Judicial Review and Courts Bill, which aims to reform the judicial review process and the coroner system in the UK. The debate covers various amendments and new clauses proposed by different MPs.
+
+For - Voting 'Ayes' for New Clause 4 means supporting the provision of publicly funded legal representation for bereaved people at inquests where public bodies are legally represented[1]. This would ensure equality of arms and access to justice for families who have lost their loved ones.
+
+Against - Voting 'Noes' for New Clause 4 means opposing the provision of publicly funded legal representation for bereaved people at inquests where public bodies are legally represented[1]. This would maintain the current funding system, which is based on means-testing and exceptional case funding criteria.
+
+Decision - Voting 'Aye' for New Clause 4 is associated with freedom and autonomy, limiting police powers and softer punishments, limiting Crime & Justice. This is because it would empower bereaved people to challenge the actions or omissions of public bodies, such as the police or prison authorities, that may have contributed to the death of their relatives. It would also reduce the risk of impunity or cover-ups by public bodies that may have violated human rights or acted unlawfully.
+
+Sentiment - B

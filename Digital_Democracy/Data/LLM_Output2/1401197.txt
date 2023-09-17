@@ -1,0 +1,13 @@
+## Bing
+
+Thank you for your request. Here is my response based on the text file open in your current webpage:
+
+Summary - The text file is a transcript of a parliamentary debate on the Nuclear Energy (Financing) Bill, which aims to enable private investment in new nuclear power projects in the UK. The debate covers various amendments and new clauses proposed by different parties.
+
+For - Voting 'Ayes' in the division: Amendment 9 means supporting the requirement for the Secretary of State to lay a report before Parliament on the expected costs, terms, and decommissioning plans of each new nuclear project before exercising the power to designate a nuclear company under the Bill.
+
+Against - Voting 'Noes' in the division: Amendment 9 means opposing the requirement for the Secretary of State to lay a report before Parliament on the expected costs, terms, and decommissioning plans of each new nuclear project before exercising the power to designate a nuclear company under the Bill.
+
+Decision - Voting 'Aye' in the division: Amendment 9 is associated with prioritising environmental sustainability in the context of Environment & Energy, because it would increase transparency and accountability for the potential environmental impacts and risks of new nuclear projects, as well as ensure that adequate provisions are made for decommissioning and waste management.
+
+Sentiment - A

@@ -1,0 +1,13 @@
+## Bing
+
+Thank you for your request. Here is my response based on the text file open in your current webpage:
+
+Summary - The text file is a transcript of a debate in the UK Parliament on the Building Safety Bill, which aims to improve the safety of buildings and protect leaseholders from remediation costs. The debate covers various amendments and issues related to the Bill.
+
+For - Voting 'Ayes' in the division on Government amendments (c) and (d) to Lords amendment 184 means supporting the Government's proposal to cap leaseholders' contributions to non-cladding defects at £10,000 outside London and £15,000 in London[1]. This is intended to create a fair balance between leaseholders and freeholders who are not at fault.
+
+Against - Voting 'Noes' in the division on Government amendments (c) and (d) to Lords amendment 184 means opposing the Government's proposal and preferring the Lords' amendment, which would reduce leaseholders' capped contributions to zero. This is intended to protect leaseholders from any costs associated with historical building safety defects.
+
+Decision - Voting 'Aye' in the division on Government amendments (c) and (d) to Lords amendment 184 is associated with ethical considerations, regulation, and tradition, in the context of Standards & Technology. This is because it reflects the Government's view that setting the cap on leaseholder contributions to zero is not a proportionate approach and that it would increase the risk that remediation works would not happen at all[2]. It also respects the existing service charge regime and the contractual arrangements between leaseholders and freeholders.
+
+Sentiment - B

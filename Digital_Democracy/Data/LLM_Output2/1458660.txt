@@ -1,0 +1,13 @@
+## Bing
+
+This is Bing. I can help you review the text file open in your current webpage. Here is my response:
+
+Summary - The text file is a transcript of a debate in the UK Parliament on the Building Safety Bill, which aims to improve the safety of buildings and protect leaseholders from remediation costs. The debate covers various amendments and issues related to the Bill.
+
+For - Voting 'Ayes' to Motion to agree Govt (a) to LA 94 means supporting the Government's definition of "relevant building" as one that is at least 11 metres, or five storeys in height, and contains at least two dwellings[1]. This would exclude low-rise buildings from the leaseholder protection measures, as the Government argues that they are unlikely to need costly remediation and that lower-cost mitigations are more proportionate[2].
+
+Against - Voting 'Noes' to Motion to agree Govt (a) to LA 94 means opposing the Government's definition of "relevant building" and preferring the Lords amendment 94, which extends the leaseholder protection measures to buildings of all heights containing two or more dwellings. This would include low-rise buildings in the scope of the measures, as some Members argue that they may still face fire risks and remediation costs, and that they should not be discriminated against based on height.
+
+Decision - Voting 'Aye' to Motion to agree Govt (a) to LA 94 is associated with ethical considerations, regulation, and tradition, in the context of Standards & Technology. This is because it reflects the Government's view that building safety should be assessed proportionally and based on evidence, and that remediation costs should be borne by those who are responsible or have the wealth to pay. It also follows the established service charge regime for managing building safety costs.
+
+Sentiment - B

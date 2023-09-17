@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I have reviewed the text file open in your current webpage and here is my response:
+
+Summary - The text file is a transcript of a parliamentary debate on the Nationality and Borders Bill, which aims to reform the UK's asylum and immigration system. The debate covers various amendments proposed by the House of Lords and the Government's response to them.
+
+For - Voting for (Ayes) in the division: Motion to disagree with Lords Amendment 10 means supporting the Government's position that family reunion for refugees should not be expanded beyond the current rules, which are global and do not encourage dangerous journeys into Europe.
+
+Against - Voting against (Noes) in the division: Motion to disagree with Lords Amendment 10 means opposing the Government's position and favouring a more generous approach to family reunion for refugees who are already in Europe, which would align with the previous Dublin III arrangements.
+
+Decision - The Motion to disagree with Lords Amendment 10 would tighten immigration and borders, as it would limit the opportunities for refugees to join their relatives in the UK and deter them from seeking asylum in Europe.
+
+Sentiment - A

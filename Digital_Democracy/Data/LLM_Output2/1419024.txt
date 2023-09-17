@@ -1,0 +1,11 @@
+## Bing
+
+Summary - The text file is a transcript of a parliamentary debate on the Finance (No. 2) Bill, which contains various tax measures and reliefs. The debate covers several amendments and new clauses proposed by the Government and the Opposition.
+
+For - Voting for amendment 35 means deleting clause 6, which reduces the rate of the banking corporation tax surcharge and the level of the surcharge allowance[1]. This would prevent a tax cut for banks and save £1 billion a year for the public finances.
+
+Against - Voting against amendment 35 means keeping clause 6, which lowers the tax burden on banks and aligns it with international competitors. This would support the banking sector and its contribution to the economy and jobs.
+
+Decision - Voting for amendment 35 is associated with austerity and regulation, as it maintains a higher tax rate on banks and rejects the Government's argument that a tax cut is needed to boost growth and competitiveness.
+
+Sentiment - B

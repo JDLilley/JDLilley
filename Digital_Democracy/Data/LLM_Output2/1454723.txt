@@ -1,0 +1,13 @@
+## Bing
+
+Here is my response based on the text file open in your current webpage:
+
+Summary - The text file is a transcript of a debate in the House of Commons on the Skills and Post-16 Education Bill, which aims to reform the technical education system in England and introduce new measures to support lifelong learning.
+
+For - Voting 'Ayes' means supporting the Government's motion to disagree with Lords amendment 15B, which would delay the withdrawal of funding from qualifications that overlap with T-levels. The Government argues that T-levels are high-quality, employer-led qualifications that will boost skills and productivity.
+
+Against - Voting 'Noes' means opposing the Government's motion and supporting Lords amendment 15B, which would postpone the defunding of BTECs and other level 3 qualifications until 2025. The Opposition argues that BTECs are widely respected and valued by learners, employers and universities, and that removing them would harm many students[1].
+
+Decision - Voting 'Aye' in the division is associated with limiting Education & Learning, as it would reduce the choice and diversity of qualifications available to students and potentially exclude many learners who benefit from BTECs and other level 3 qualifications. Voting 'Aye' would also ignore the views of the majority of respondents to the Government's consultation, who favoured a twin-track approach of T-levels and BTECs.
+
+Sentiment - B

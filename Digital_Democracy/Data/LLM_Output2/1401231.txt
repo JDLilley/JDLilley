@@ -1,0 +1,13 @@
+## Bing
+
+Here is my response based on the text file open in your current webpage:
+
+Summary - The text file is a transcript of a debate in the UK Parliament on the charter for budget responsibility and the welfare cap. The charter sets out the Government's fiscal rules and targets to manage the public finances. The welfare cap limits the spending on welfare benefits.
+
+For - Voting 'Ayes' in the division on the welfare cap means supporting the Government's proposal to reset the level of the cap in line with the latest forecast. The Government argues that this will keep welfare spending on a sustainable path and support the other fiscal rules[1].
+
+Against - Voting 'Noes' in the division on the welfare cap means opposing the Government's proposal to reset the level of the cap. The Opposition argues that this will not help the people facing a cost of living crisis and that the Government should instead offer more support to families and businesses.
+
+Decision - Voting 'Aye' in the division on the welfare cap is associated with cutting spending on, and provision of, welfare and social housing. This is because the welfare cap imposes a limit on how much the Government can spend on various benefits, including housing benefit, which affects the affordability and availability of social housing.
+
+Sentiment - B
