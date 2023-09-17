@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I can help you review the text file open in your current webpage. Here is my response based on your request:
+
+Summary - The text file is a transcript of a debate in the UK Parliament about the NHS IT programme, a large-scale project to improve the information technology systems in the health service. The debate was initiated by the opposition Conservative party, who criticised the programme for its cost, delays, lack of consultation and evidence, and potential risks to patient confidentiality. The government defended the programme as a necessary and beneficial investment that would improve patient care and safety, and argued that progress was being made despite some challenges.
+
+For - Voting 'Ayes' in the division means supporting the motion that calls for a full and independent review of the NHS IT programme. The motion acknowledges the aims and potential benefits of the programme, but deplores its hasty conception, failure to consult with service users, impact on patient confidentiality, and lack of engagement with frontline NHS professionals. The motion also regrets the opportunity cost to patient care and the disillusionment caused by the programme among NHS staff.
+
+Against - Voting 'Noes' in the division means opposing the motion and supporting the government amendment that praises the achievements and benefits of the NHS IT programme. The amendment notes that nearly 20,000 IT deployments have been made across the NHS, that millions of patients have benefited from electronic booking, prescriptions, and records, and that thousands of lives have been saved by faster diagnosis and treatment. The amendment also rejects the need for a review and reaffirms the government's commitment to delivering the programme.
+
+Decision - Voting 'Aye' in the division could be seen as associated with fiscal responsibility in the context of Health & Healthcare, as it implies a concern for the efficient and effective use of public funds for a large-scale IT project that has faced significant problems and criticisms. It could also be seen as reflecting a desire to ensure that the IT programme meets the needs and expectations of patients and NHS staff, and does not compromise their privacy or safety.
+
+Sentiment - B

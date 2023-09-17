@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I will review the text file open in your current webpage and answer your questions. Here is my response:
+
+Summary - The text file is a transcript of a debate in the UK Parliament on the Finance Bill, which contains various tax measures. The debate focuses on the clause that provides stamp duty relief for new zero-carbon homes and the amendments proposed by different parties.
+
+For - Voting 'Ayes' in the division means supporting the Government's proposal to exempt new zero-carbon homes from stamp duty land tax up to a certain value. This is intended to encourage the development of more energy-efficient homes and reduce carbon emissions.
+
+Against - Voting 'Noes' in the division means opposing the Government's proposal and questioning its effectiveness, fairness and feasibility. Some argue that the proposal is a publicity stunt, a tax giveaway for the wealthy, or a burden for the house builders and buyers.
+
+Decision - Voting 'Aye' in the division is associated with stimulus and the free market, because it reduces the tax burden on new home buyers and creates incentives for private sector innovation and investment in green technologies.
+
+Sentiment - A

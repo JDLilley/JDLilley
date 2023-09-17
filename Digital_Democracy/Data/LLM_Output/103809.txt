@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I will review the text file open in your current webpage and answer your questions as requested. Here is my response:
+
+Summary - The text file is a transcript of a debate in the UK House of Commons on a proposed bill to require counselling and a waiting period for women seeking abortion. The bill was introduced by Ann Winterton and opposed by Laura Moffatt.
+
+For - Voting 'Ayes' in the division means supporting the bill and its aim to ensure that women are properly informed of the possible effects of abortion on their physical or mental health, and of the available alternatives and support.
+
+Against - Voting 'Noes' in the division means rejecting the bill and its impact on women's reproductive rights[1]. It also means defending the current law and practice of abortion, which allows women to make their choice within the time scale that is appropriate for them.
+
+Decision - Voting 'Aye' in the division is not associated with either investment in public health or fiscal responsibility in the context of Health & Healthcare. It is rather associated with a moral and ideological stance on abortion, which may or may not align with the views and needs of women.
+
+Sentiment - C

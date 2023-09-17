@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I can help you review the text file open in your current webpage. Here is my response:
+
+Summary - The text file is a transcript of a parliamentary debate on the Corporate Manslaughter and Corporate Homicide Bill in 2023. The bill aims to create a new offence for organisations that cause death by gross negligence. The main issue is whether the bill should apply to deaths in custody.
+
+For - Voting 'Ayes' means supporting the government's position to exclude deaths in custody from the bill, but to allow a future extension by a statutory instrument. The government argues that this approach is more flexible and prudent, and that other measures are in place to prevent and investigate deaths in custody.
+
+Against - Voting 'Noes' means supporting the Lords' amendments to include deaths in custody in the bill, regardless of the circumstances. The Lords argue that this is necessary to ensure equality before the law and accountability for public services. They also question the government's commitment to use the power to extend the bill.
+
+Decision - Voting 'Aye' is associated with limiting police powers and softer punishments, as it would exempt deaths in custody from the new offence of corporate manslaughter. This could be seen as weakening the Crime & Justice system by creating a loophole for public bodies that fail to protect the lives of those in their care.
+
+Sentiment - B

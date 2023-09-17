@@ -1,0 +1,13 @@
+## Bing
+
+Thank you for your request. Here is my response based on the text file open in your current webpage:
+
+Summary - The text file is a transcript of a debate in the UK Parliament on the Finance Bill, which sets the rates and rules for various taxes. The debate focuses on the impact of the bill on small businesses, especially the increase in the small companies tax rate[1].
+
+For - Voting 'Ayes' in the division means supporting the Finance Bill and the Government's policy of reducing the main rate of corporation tax while increasing the small companies tax rate. The Government argues that this is necessary to prevent tax avoidance and to encourage investment and innovation.
+
+Against - Voting 'Noes' in the division means opposing the Finance Bill and the Government's policy of raising taxes on small businesses. The Opposition argues that this is unfair and damaging to the majority of the private sector, which consists of small businesses that do not benefit from the reliefs and allowances offered by the Government.
+
+Decision - Voting 'Aye' in the division is associated with austerity and regulation, because it implies accepting higher taxes and more complex rules for small businesses, while favouring large businesses that can afford to invest in physical assets and research and development.
+
+Sentiment - B

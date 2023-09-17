@@ -1,0 +1,11 @@
+## Bing
+
+Summary - The text file is a transcript of a debate in the UK Parliament on the Queen's Speech, which outlines the government's agenda for the next session. The main topic is the economy and pensions, and the opposition parties challenge the government's record and plans on these issues.
+
+For - Voting 'Ayes' in the division means supporting the government's amendment to the Queen's Speech, which praises its economic policies, such as reducing child poverty, increasing public spending, reforming pensions, and introducing tax changes.
+
+Against - Voting 'Noes' in the division means opposing the government's amendment and backing the opposition's amendment, which criticises the government for failing to provide a clear vision for the economy, damaging enterprise, increasing borrowing, and neglecting public services and pensions.
+
+Decision - Voting 'Aye' in the division is associated with greater spending on and provision of welfare and social housing, as the government claims to have invested more in these areas and to have reduced poverty and inequality. Voting 'Noe' is associated with cutting spending on and provision of welfare and social housing, as the opposition argues for lower taxes and more efficiency in public spending.
+
+Sentiment - A

@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I can help you review the text file open in your current webpage. Here is my response based on your request:
+
+Summary - The text file is a transcript of a debate in the UK Parliament on health care-associated infections (HCAIs) in 2007. The debate focuses on the causes, consequences, and solutions for reducing HCAIs such as MRSA and C. difficile.
+
+For - Voting 'Ayes' in the division means supporting the Government's amendment, which recognises the worldwide problem of HCAIs and welcomes the initiatives that the NHS is taking to manage infection control, such as screening, isolation, deep cleaning, matrons, inspections, and targets.
+
+Against - Voting 'Noes' in the division means supporting the Opposition's motion, which criticises the Government's failure to ensure compliance with proven methods of containing infections, such as screening, isolation, and bed occupancy rates. It also calls for a comprehensive strategy and new leadership for tackling HCAIs.
+
+Decision - Voting 'Aye' in the division is associated with investment in public health and improving standards of care, in the context of Health & Healthcare. This is because the Government's amendment acknowledges the need for more resources and measures to prevent and treat HCAIs, which can harm patients' health and quality of life.
+
+Sentiment - A

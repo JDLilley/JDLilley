@@ -1,0 +1,13 @@
+## Bing
+
+Thank you for your request. Here is my response based on the text file open in your current webpage:
+
+Summary - The text file is a transcript of a debate in the UK House of Commons on a bill that would exempt Parliament from the Freedom of Information Act 2000. The bill's promoter and supporters argue that it is necessary to protect the confidentiality of MPs' correspondence with public authorities, while the opponents claim that it is an attempt to conceal MPs' expenses and undermine the transparency of Parliament.
+
+For - Voting 'Ayes' in the division means supporting the bill and agreeing that Parliament should not be subject to the Freedom of Information Act. It means believing that MPs' correspondence with public authorities is private and should not be disclosed to third parties, even if it relates to matters of public interest or policy.
+
+Against - Voting 'Noes' in the division means opposing the bill and rejecting the idea that Parliament should be exempt from the Freedom of Information Act. It means believing that MPs' correspondence with public authorities is not confidential and should be accessible to the public, unless it contains personal data or sensitive information about constituents or others.
+
+Decision - Voting 'Aye' in the division is associated with reduced bureaucracy and centralisation in the context of Parliamentary Procedures. It implies that MPs do not want to be accountable to the public for their actions and decisions, and that they want to limit the scrutiny and oversight of Parliament by external bodies.
+
+Sentiment - B

@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I have reviewed the text file open in your current webpage and here is my response:
+
+Summary - The text file is a transcript of a parliamentary debate on climate change in the UK. The debate covers various topics such as carbon emissions, energy efficiency, transport, and building standards. The motion proposed by the Liberal Democrats calls for more ambitious and urgent action to reduce greenhouse gas emissions.
+
+For - Voting 'Ayes' in the division means supporting the motion and its proposals. It means agreeing that the government's targets for carbon emissions are not informed by science and need to be revised. It also means endorsing the measures suggested by the Liberal Democrats, such as a more steeply graduated vehicle excise duty, a tax on flight emissions, and comprehensive insulation packages for existing homes.
+
+Against - Voting 'Noes' in the division means rejecting the motion and its proposals. It means defending the government's record on climate change and its draft Climate Change Bill. It also means opposing the measures suggested by the Liberal Democrats, which may be seen as unrealistic, costly, or unfair to some groups of people.
+
+Decision - Voting 'Aye' in the division is associated with prioritising environmental sustainability in the context of Environment & Energy. It shows a commitment to reducing greenhouse gas emissions and avoiding dangerous climate change impacts. It also reflects a belief that green growth is possible and beneficial for the economy and society.
+
+Sentiment - A

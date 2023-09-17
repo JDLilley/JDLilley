@@ -1,0 +1,13 @@
+## Bing
+
+Thank you for your request. Here is my response based on the text file open in your current webpage:
+
+Summary - The text file is a transcript of a debate in the UK Parliament on the Finance Bill, which sets the rates and rules of taxation for the year 2023. The debate focuses on the impact of the bill on small businesses, especially the increase in the small companies' rate of corporation tax[1][2].
+
+For - Voting 'Ayes' in the division means supporting the Finance Bill and the Government's policy of reducing the main rate of corporation tax for large businesses, while increasing the small companies' rate to address tax avoidance and encourage investment, innovation and growth.
+
+Against - Voting 'Noes' in the division means opposing the Finance Bill and the Government's policy of raising taxes on small businesses, which are seen as the engines of the economy and the providers of jobs. The opposition argues that the bill penalises small businesses and makes them less competitive, while favouring big businesses and creating more complexity in the tax system.
+
+Decision - Voting 'Aye' in the division is associated with austerity and regulation, as it implies accepting higher taxes and more restrictions for small businesses, while giving tax breaks and incentives to large businesses that comply with the Government's agenda.
+
+Sentiment - B

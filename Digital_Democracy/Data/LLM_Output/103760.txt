@@ -1,0 +1,13 @@
+## Bing
+
+Thank you for your request. Here is my response based on the text file open in your current webpage:
+
+Summary - The text file contains a transcript of a parliamentary debate on the 2007 Budget in the UK. The debate covers various topics such as education, science, housing, planning, and small business. The division is on the Budget resolutions and economic situation.
+
+For - Voting 'Ayes' in the division means supporting the Government's Budget, which aims to maintain economic stability, invest in public services, reduce child poverty, and increase taxes for small companies that incorporate for tax avoidance.
+
+Against - Voting 'Noes' in the division means opposing the Government's Budget, which is criticised for being unfair, complex, wasteful, and damaging to small businesses. The opposition parties propose alternative policies such as lower taxes, better public spending, and more accountability.
+
+Decision - Voting 'Aye' in the division is associated with stimulus and regulation, because the Government's Budget involves increasing public spending and taxation, especially for small businesses that are seen as abusing the tax system.
+
+Sentiment - B

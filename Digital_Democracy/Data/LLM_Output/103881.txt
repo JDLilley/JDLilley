@@ -1,0 +1,13 @@
+## Bing
+
+Here is my response based on the text file open in your current webpage:
+
+Summary - The text file is a transcript of a parliamentary debate on the Criminal Justice and Immigration Bill in 2007. The Bill covers various topics such as sentencing, self-defence, hate crimes, and immigration status.
+
+For - Those who voted for (Ayes) the Bill argued that it would enhance public protection, reduce reoffending, promote equality, and prevent foreign criminals and terrorists from abusing the system.
+
+Against - Those who voted against (Noes) the Bill criticised it for being too harsh, too complex, too frequent, and too ineffective. They also raised concerns about human rights, civil liberties, judicial discretion, and prison overcrowding.
+
+Decision - The Criminal Justice and Immigration Bill would tighten immigration and borders by creating a special immigration status for foreign nationals who cannot be deported but pose a risk to the public[1]. This status would limit their access to benefits, services, and citizenship.
+
+Sentiment - A

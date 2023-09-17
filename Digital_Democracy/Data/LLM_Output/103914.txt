@@ -1,0 +1,13 @@
+## Bing
+
+This is Bing. Thank you for your request. Here is my response:
+
+Summary - The text file is a transcript of a parliamentary debate on a bill about child maintenance and other payments. The bill aims to reform the child support system and create a new commission to enforce maintenance payments. The debate focuses on the status and duration of voluntary agreements between parents.
+
+For - Voting 'Ayes' in the division means supporting the government's proposal to allow parents who have entered into certain minutes of agreement or court orders to apply to the commission for a maintenance calculation after 12 months[1]. The government argues that this gives parents choice and flexibility, and ensures that children are not left without adequate maintenance.
+
+Against - Voting 'Noes' in the division means opposing the government's proposal and favouring the amendments that would prevent parents who have entered into certain minutes of agreement or court orders from ever applying to the commission for a maintenance calculation[1]. The opposition argues that this respects the primacy and stability of court orders, and encourages more parents to make voluntary agreements that suit their circumstances.
+
+Decision - Voting 'Aye' in the division is associated with cutting spending on, and provision of, welfare and social housing. This is because the government's proposal could discourage parents from transferring capital assets, such as the family home, to the parent with care, as they would risk losing their maintenance agreement after 12 months. This could reduce the housing security and welfare of the parent with care and the children.
+
+Sentiment - B

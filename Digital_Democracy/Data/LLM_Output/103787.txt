@@ -1,0 +1,13 @@
+## Bing
+
+Here is my response based on the text file open in your current webpage:
+
+Summary - The text file is a transcript of a parliamentary debate on the UK Borders Bill, which aims to improve border security and immigration enforcement. The debate covers various amendments and new clauses proposed by different MPs.
+
+For - The MPs who voted for (Ayes) in the division on the UK Borders Bill supported the Government's intention to deport foreign criminals automatically, to create new immigration offences, and to grant more powers to immigration officers and police.
+
+Against - The MPs who voted against (Noes) in the division on the UK Borders Bill opposed the Government's approach as disproportionate, unfair, and ineffective. They raised concerns about human rights, data protection, judicial oversight, and the impact on community relations.
+
+Decision - The UK Borders Bill would tighten immigration and borders, as it would make it easier to remove foreign nationals who commit crimes or breach immigration rules, and it would increase the penalties and enforcement measures for immigration offences.
+
+Sentiment - A

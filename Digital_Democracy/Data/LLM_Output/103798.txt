@@ -1,0 +1,13 @@
+## Bing
+
+Thank you for your request. Here is my response based on the text file open in your current webpage:
+
+Summary - The text file is a transcript of a parliamentary debate on the Freedom of Information (Amendment) Bill, which aims to exempt Parliament from the Freedom of Information Act 2000. The debate focuses on a group of amendments proposed by Norman Baker, who opposes the Bill.
+
+For - Voting 'Ayes' in the division means supporting the Bill and rejecting the amendments. It means agreeing with David Maclean, the Bill's promoter, that MPs' correspondence with public authorities should be confidential and protected from third-party requests.
+
+Against - Voting 'Noes' in the division means opposing the Bill and supporting the amendments. It means agreeing with Norman Baker, the Bill's opponent, that MPs' correspondence is already covered by the Data Protection Act 1998 and that the Bill would undermine the transparency and accountability of Parliament.
+
+Decision - Voting 'Aye' in the division is associated with reduced bureaucracy and centralisation in the context of Parliamentary Procedures. It implies that MPs do not want to be subject to the same rules and scrutiny as other public bodies and that they want to limit the public's access to information about their activities and expenses.
+
+Sentiment - B

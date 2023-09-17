@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I can help you review the text file open in your current webpage. Here is my response based on your request:
+
+Summary - The text file is a transcript of a debate in the UK Parliament about alleged overseas corruption involving BAE Systems and Saudi Arabia. The debate focuses on the rule of law, national security, parliamentary accountability and ethical foreign policy.
+
+For - Voting 'Ayes' in the division means supporting the motion that calls for increased parliamentary accountability and transparency concerning the Government's dealings with Saudi Arabia, and urges the Government to cooperate fully with the US Department of Justice inquiry into corruption allegations.
+
+Against - Voting 'Noes' in the division means opposing the motion and defending the Government's decision to terminate the Serious Fraud Office investigation into BAE Systems and Saudi Arabia on national security grounds. It also means rejecting the claims of serious damage to the reputation of British business and the Government's campaign against corruption.
+
+Decision - Voting 'Aye' in the division is associated with freedom and autonomy, limiting police powers and softer punishments, limiting Crime & Justice. This is because it challenges the Government's authority to interfere with the legal process and to withhold information from Parliament and the public. It also advocates for more scrutiny and accountability of arms exports and foreign policy.
+
+Sentiment - B

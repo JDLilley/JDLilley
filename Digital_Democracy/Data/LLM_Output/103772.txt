@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I have reviewed the text file open in your current webpage and I will try to answer your questions as best as I can.
+
+Summary - The text file is a transcript of a debate in the UK Parliament on the Freedom of Information (Amendment) Bill, which aimed to exempt Parliament from the Freedom of Information Act 2000. The debate focused on the arguments for and against the Bill, and its implications for transparency and accountability.
+
+For - Voting 'Ayes' in the division means supporting the Bill and agreeing that Parliament should be excluded from the Freedom of Information Act[1]. The main arguments for this position are that it would protect the confidentiality of MPs' communications with constituents and public authorities, and that it would prevent vexatious requests that waste time and resources.
+
+Against - Voting 'Noes' in the division means opposing the Bill and rejecting that Parliament should be excluded from the Freedom of Information Act. The main arguments against this position are that it would undermine the public's right to know how MPs spend their money and perform their duties, and that it would damage the reputation and credibility of Parliament.
+
+Decision - Voting 'Aye' in the division is associated with reduced bureaucracy and centralisation in the context of Parliamentary Procedures, because it would reduce the amount of information that MPs have to disclose and make Parliament less accountable to the public.
+
+Sentiment - B

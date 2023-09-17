@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I can help you review the text file open in your current webpage. Here is my response based on your request:
+
+Summary - The text file is a transcript of a parliamentary debate on the Mental Health Bill in the UK. The debate covers various amendments and new clauses proposed by different MPs, relating to advocacy, consent, nearest relatives, and other issues affecting people with mental health problems.
+
+For - Voting 'Ayes' in the division on the Mental Health Bill means supporting the Government's proposals to reform the legislation and provide better safeguards and rights for patients. It also means accepting the Government's arguments that the three-month period for second opinion doctors is appropriate and that patients should not be able to choose their nearest relative in advance.
+
+Against - Voting 'Noes' in the division on the Mental Health Bill means opposing the Government's proposals and favouring alternative amendments put forward by some MPs. It also means rejecting the Government's arguments that the three-month period for second opinion doctors is adequate and that patients should not be able to nominate their nearest relative in advance.
+
+Decision - Voting 'Aye' in the division on the Mental Health Bill is associated with investment in public health and improving standards of care, in the context of Health & Healthcare. This is because the Bill aims to modernise the mental health legislation and ensure that patients receive appropriate treatment and support, as well as respect for their dignity and autonomy.
+
+Sentiment - A

@@ -1,0 +1,13 @@
+## Bing
+
+Thank you for your request. Here is my response based on the text file open in your current webpage:
+
+Summary - The text file is a transcript of a debate in the UK Parliament on the Finance Bill, which proposes to abolish tax relief for pension term assurance. The debate covers the arguments for and against the clause, as well as the implications for the industry and consumers.
+
+For - Voting 'Ayes' in the division means supporting the Government's decision to end tax relief for pension term assurance, which they argue is a misuse of pensions tax relief and a threat to the revenue base. They claim that tax relief should only be given for pension savings that provide an income in retirement, not for life insurance products[1].
+
+Against - Voting 'Noes' in the division means opposing the Government's decision to abolish tax relief for pension term assurance, which they argue is a U-turn on the A-day reforms and a blow to personal responsibility. They claim that tax relief helps to close the protection gap and provide affordable cover for people who are not in employer schemes.
+
+Decision - Voting 'Aye' in the division is associated with austerity and regulation, as it reduces the incentives for saving and protection, and imposes more restrictions on the use of pensions tax relief. It also goes against the principle of simplification and flexibility that was introduced by the A-day reforms.
+
+Sentiment - B

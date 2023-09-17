@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I have reviewed the text file open in your current webpage and I will try to answer your questions as best as I can. Here is my response:
+
+Summary - The text file is a transcript of a parliamentary debate on the Child Maintenance and Other Payments Bill in 2023. The bill aims to reform the child support system and create a new commission to enforce maintenance payments. The debate focuses on the role of court orders and minutes of agreement in child maintenance arrangements.
+
+For - Voting 'Ayes' in the division means supporting the amendment that would prevent parents who had entered into certain minutes of agreement or court orders from ever applying to the commission for a maintenance calculation[1]. The amendment argues that this would respect the choice and autonomy of parents who have agreed on their own arrangements and avoid undermining or overturning them.
+
+Against - Voting 'Noes' in the division means opposing the amendment and maintaining the current provision that allows parents to apply to the commission for a maintenance calculation after 12 months of having a minute of agreement or a court order. The provision argues that this would protect the interests of children and provide a safety net for parents who are unhappy or dissatisfied with their arrangements.
+
+Decision - Voting 'Aye' in the division is not directly associated with either greater or lesser spending on, and provision of, welfare and social housing. It is more related to the principle of allowing parents to make their own decisions about child maintenance without state interference, unless they choose otherwise. However, one could argue that voting 'Aye' could indirectly reduce the demand for state intervention and thus save some public resources.
+
+Sentiment - C

@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I have reviewed the text file open in your current webpage and I will try to answer your questions as best as I can. Here is my response:
+
+Summary - The text file is a transcript of a debate in the UK Parliament about the Modernising Medical Careers (MMC) programme and the Medical Training Application Service (MTAS), which have caused problems for junior doctors and consultants in 2007.
+
+For - Voting 'Ayes' means supporting the motion that criticises the Government for poor planning, inadequate consultation and lamentable implementation of MMC and MTAS, and calls for creating additional training posts and reviewing the structure of MMC to ensure flexibility and confidence.
+
+Against - Voting 'Noes' means opposing the motion and defending the Government's actions to improve medical training and patient care, and to address the issues raised by the review group and the independent inquiry led by Sir John Tooke.
+
+Decision - Voting 'Aye' in the division: Modernising Medical Careers is associated with investment in public health and improving standards of care, in the context of Health & Healthcare, because it shows concern for the quality and morale of medical professionals, who are essential for delivering effective and safe services to patients.
+
+Sentiment - A

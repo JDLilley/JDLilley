@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I can help you review the text file open in your current webpage. Here is my response:
+
+Summary - The text file is a transcript of a debate in the UK Parliament on a Bill to require counselling and a waiting period for women seeking abortion. The Bill was proposed by a Conservative MP and opposed by a Labour MP. The Bill was rejected by a majority of MPs.
+
+For - Voting 'Ayes' for the Bill means supporting the view that women need to be fully informed of the health risks and alternatives of abortion, and that they need a cooling-off period to reflect on their decision. It also means respecting the rights of doctors who object to abortion.
+
+Against - Voting 'Noes' for the Bill means opposing the view that women need mandatory counselling and a waiting period before having an abortion[1]. It also means defending the rights of women to access abortion without unnecessary delays and obstacles[2]. It also means valuing the 1967 Abortion Act.
+
+Decision - Voting 'Aye' for the Bill is not associated with investment in public health or improving standards of care, in the context of Health & Healthcare. On the contrary, it is associated with restricting women's reproductive rights and creating more barriers to safe and legal abortion. It is also not associated with fiscal responsibility, as it would increase the costs of abortion services and lead to more complications from later abortions.
+
+Sentiment - C

@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I can help you review the text file open in your current webpage. Here is my response based on your request:
+
+Summary - The text file is a transcript of a debate in the UK Parliament on health and education issues. The debate covers topics such as NHS funding, public health, school standards, and academies. The amendment proposed by the opposition criticises the government's lack of measures to improve public services.
+
+For - Voting 'Ayes' for the amendment means supporting the opposition's view that the government has failed to empower professionals, reduce health inequalities, improve public health, raise school standards, and deliver real improvements in health and education services.
+
+Against - Voting 'Noes' for the amendment means rejecting the opposition's view and defending the government's record on health and education. It means supporting the government's plans to make the NHS more patient-centred, to help all children get the best start in life, and to extend educational opportunities to all young people.
+
+Decision - Voting 'Aye' in the division is associated with investment in public health and improving standards of care, in the context of Health & Healthcare. It implies that the government has not spent enough money or implemented effective reforms to address the challenges facing the NHS and public health.
+
+Sentiment - A

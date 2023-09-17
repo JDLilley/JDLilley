@@ -1,0 +1,13 @@
+## Bing
+
+Thank you for your request. Here is my response based on the text file open in your current webpage:
+
+Summary - The text file is a transcript of a parliamentary debate on the Offender Management Bill, which aims to reform the probation service and introduce more competition and accountability. The debate covers various amendments proposed by the Lords and the Government's response.
+
+For - Voting 'Ayes' in the division means supporting the Government's rejection of the Lords amendment that would apply a super-affirmative procedure to the power to repeal the restriction on work involving the courts[1]. The Government argues that this procedure is disproportionate and unnecessary, and that the normal affirmative procedure provides enough scrutiny.
+
+Against - Voting 'Noes' in the division means supporting the Lords amendment that would apply a super-affirmative procedure to the power to repeal the restriction on work involving the courts[1]. The Lords argue that this procedure is needed to ensure proper parliamentary oversight and accountability, and to prevent potential conflicts of interest or harm to public services.
+
+Decision - Voting 'Aye' in the division is associated with greater police powers, harsher punishments, and strengthening Crime & Justice. This is because it would allow the Government to lift the restriction on work involving the courts more easily, and potentially open up this work to private or voluntary providers. This could result in more punitive or profit-driven approaches to offender management, and less judicial independence or public accountability.
+
+Sentiment - A
