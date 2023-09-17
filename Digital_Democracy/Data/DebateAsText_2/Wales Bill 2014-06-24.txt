@@ -1,0 +1,1217 @@
+Wales Bill
+
+Consideration of Bill, as amended in the Committee.
+
+New Clause 1
+
+welsh taxpayers for social security or child support purposes
+
+After section 155 of GOWA 2006 insert—
+
+“155A Welsh taxpayers for social security or child support purposes
+
+(1) The Secretary of State may by order provide for individuals of any specified description to be treated as if they were, or were not, Welsh taxpayers for all or specified purposes of—
+
+(a) social security, or
+
+(b) child support.
+
+(2) The Secretary of State may by order provide in relation to any year of assessment that the Welsh basic rate, Welsh higher rate or Welsh additional rate in relation to the income of Welsh taxpayers is to be treated as being a specified rate for all or specified purposes of—
+
+(a) social security, or
+
+(b) child support.
+
+(3) An order under subsection (1) or (2) may apply in respect of any individuals whether or not they have a close connection with Wales.
+
+(4) An order under subsection (1) or (2) may make such modifications of any enactment, or any other instrument or document, as the Secretary of State considers appropriate in connection with the provision made by the order.
+
+(5) No order is to be made under subsection (1) unless a draft of the statutory instrument containing it has been laid before, and approved by a resolution of, each House of Parliament.
+
+(6) No order under subsection (2) which contains a provision making modifications of an enactment contained in an Act is to be made unless a draft of the statutory instrument containing it has been laid before, and approved by a resolution of, each House of Parliament.
+
+(7) A statutory instrument containing an order under subsection (2) is (unless a draft of the statutory instrument has been approved by a resolution of each House of Parliament) subject to annulment in pursuance of a resolution of either House of Parliament.
+
+(8) In this section—
+
+“specified” means specified in the order;
+
+“Welsh basic rate”, “Welsh higher rate” and “Welsh additional rate” have the same meaning as in the Income Tax Acts;
+
+“Welsh taxpayer” has the same meaning as in Chapter 2 of Part 4A of this Act.””—(Mr Gauke.)
+
+An individual’s tax liability may be relevant to entitlement to social security benefits or to the level of child support payable. This amendment enables the Secretary of State, for social security or child support purposes, to treat someone as being (or not being) a Welsh taxpayer and the Welsh rates of income tax as being specified rates.
+
+Brought up, and read the First time.
+
+14:18:00
+
+The Exchequer Secretary to the Treasury (Mr David Gauke)
+I beg to move, That the clause be read a Second time.
+
+Mr Deputy Speaker (Mr Lindsay Hoyle)
+With this it will be convenient to discuss the following:
+
+Government amendment 1.
+
+Amendment 9, in clause 9, page 13, line 33, leave out “10” and insert “100”.
+
+This amendment would make the Welsh Government responsible for 100 per cent of income tax revenue gathered in Wales.
+
+Amendment 10, in line 33, leave out “10” and insert “15”.
+
+Government amendments 2, 3 and 4.
+
+Amendment 11, in clause 28, page 30, line 20, after “except”, insert “sections 8 and 9”.
+
+Amendment 12, in line 22, at end insert—
+
+‘(2A) Sections 8 and 9 shall not come into force until a Welsh Government Minister has laid a report before the National Assembly for Wales containing a statement to the effect that the Welsh Government, with regard to the Statement of Funding Policy, is content with the fairness of the arrangements for allocating funding from the UK Government to Wales.
+
+(2B) Sections 8 and 9 shall be suspended following any substantive reform, amendment or other alteration of the arrangements mentioned in subsection (2A), until the process under subsection (2A) has been repeated.”
+
+Government amendment 5.
+
+Mr Gauke
+It is a pleasure to return to the Bill. I will start with new clause 1 and amendments 2 to 5. These are principally technical changes that, taken together, are intended to address two possible scenarios that could occur if a portion of income tax is devolved to the National Assembly for Wales following a referendum. The first issue relates to the tax status of an individual. This is directly relevant to the calculation of certain social security benefits, state pensions and child maintenance payments, and could be affected by the introduction of a Welsh rate of income tax.
+
+An issue could arise where information regarding the tax status of an individual has not yet been established or is not available—for example, if a person has newly become self-employed and it is not yet clear what rate of tax will apply. The new clause resolves the issue by allowing the Secretary of State by order, subject to an affirmative resolution, to deem a person a Welsh taxpayer for the purposes of calculating their benefits.
+
+The second issue relates to a situation where the Welsh rate of income tax has not been set for the coming year at the time when certain social security benefits need to be calculated. New section 116D of the Government of Wales Act 2006 requires the National Assembly to pass a Welsh rate resolution before the start of the tax year, but this could be set late in the preceding tax year, thus not allowing the Government sufficient time to make the calculations that need to be made. In such cases it would be important for the Secretary of State to be able to deem a Welsh rate. This mirrors the position in the Scotland Act 1998, which includes a similar power in respect of the Scottish rate of income tax. The Bill needs to provide for the same contingencies in respect of the Welsh rate.
+
+Jonathan Edwards (Carmarthen East and Dinefwr) (PC)
+In Committee, there was some confusion as to whether Kay Swinburne, the Conservative Member of the European Parliament who represents Wales but lives in England, would be eligible for the Welsh tax rate. Can the Minister clarify that?
+
+Mr Gauke
+I fear that the hon. Gentleman may not recall that debate correctly. There is no confusion about the definition of a Welsh taxpayer. A Welsh taxpayer includes anybody who represents Wales or a Welsh constituency. I hope that repetition will provide some clarity for him, but the position was already clear.
+
+Owen Smith (Pontypridd) (Lab)
+The Minister is right: there is no confusion. He clarified the position in Committee. Does he agree, though, that the people of Wales might think it slightly peculiar that a Tory Member of the European Parliament who lives in England should be deemed a Welsh taxpayer?
+
+Mr Gauke
+All I can say is that Wales has a very good MEP in Kay Swinburne and I am delighted that she has been re-elected—[Interruption.] Indeed: by the people of Wales.
+
+I return to the new clauses and amendments before us. However rare the circumstances that I set out a moment ago might be, the potential hardship that a delay in the calculation of entitlements would cause to individuals makes it essential that we make these amendments to cater for such circumstances.
+
+Amendments 2 to 5 are consequential and relate primarily to the commencement of the new clause. As I said, these amendments are minor and technical, but they address an important set of circumstances that could have a serious impact on some of the most vulnerable in society. I urge all hon. Members to support them.
+
+On Government amendment 1, clause 6 gives effect to the Silk Commission’s recommendation that the Welsh Government should be funded from a combination of a block grant and some devolved taxes, with the clause conferring the required competence on the Assembly to legislate for these devolved taxes. Amendment 1 slightly alters new section 116A of GOWA, inserted by clause 6, to correct the possibly misleading impression that those taxes listed in chapters 3 and 4 of part 4A are the only taxes for which the Assembly has competence. The Assembly already has competence for local taxation, which includes council tax and business rates, and this minor amendment clarifies the position.
+
+On amendments 11 and 12, we have been working closely with the Welsh Government in relation to Welsh funding. In particular, the Government recognise that there has been convergence between the levels of funding in Wales and England since devolution, and that this is a significant concern in Wales. As a result, in October 2012 we agreed to implement a joint process to review the levels of funding in Wales and England in advance of each spending review. If convergence is forecast to occur during a spending review period, options will be discussed to address the issue in a fair and affordable manner, based on a shared understanding of all the available evidence.
+
+In advance of the 2013 spending round, a joint review was therefore undertaken by the two Governments and the outcome set out in a written ministerial statement. The review determined that funding levels are not expected to converge during the period to 2015-16. In fact, an element of divergence is forecast to occur. The review also determined that relative funding levels in Wales are within the range recommended by the Holtham Commission. These arrangements ensure that we have a shared understanding of funding levels in Wales, and that a process is in place to consider options if convergence is forecast to resume. There is therefore a firm basis for proceeding with the new financial powers in the Bill, and I hope that when the opportunity arises, hon. Members will withdraw amendments 11 and 12, but I look forward to hearing them make their case.
+
+I turn now to amendments 9 and 10. When it comes to the extent of income tax devolution in Wales, there is a careful judgment to make. Devolving an element of income tax would increase the financial accountability of the Assembly and the Welsh Government in three important ways. First, it would enable the Assembly to fund more of the spending for which it is responsible. Secondly, the Welsh Government’s budget would be directly linked to their economic decisions in areas such as education, skills, housing and planning. Thirdly, the Welsh Government would be able to vary the levels of tax and spending in Wales. However, creating the link between the Welsh Government’s decisions and their budget involves transferring some risk to the Welsh Government. Specifically, the Welsh Government’s budget would benefit if the income tax base grew faster in Wales than the UK average, but would be adversely affected if growth in Wales was slower.
+
+The larger the proportion of income tax we devolve, the greater the potential impact on the Welsh Government’s budget. Devolving 15p of income tax would increase the size of these impacts by 50%, compared to devolving 10p. Devolving all income tax to Wales, which is the stated aim of amendment 9, would increase the potential impacts even further.
+
+Jonathan Edwards
+In the light of what the Minister has just said, why has the Prime Minister made a manifesto pledge, should there be a no vote in Scotland, to devolve 100% in the case of Scotland?
+
+Mr Gauke
+No, my right hon. Friend the Prime Minister has not made a manifesto pledge. The Strathclyde Commission has put forward recommendations, which will be considered in due course by my party for the next Parliament. I should point out with regard to the amendment tabled by the hon. Gentleman and his colleagues, which suggests replacing 10 percentage points with 100, that the effect would be to produce negative tax rates—a minus 60% tax, a minus 55% tax and a minus 80% tax. I am not sure that that was quite what the hon. Gentleman sought to do, but I appreciate that he was trying to devolve all income tax to Wales. I take the opportunity to point out that there is a technical problem with amendment 9.
+
+There is a balance to be struck between risks and rewards. At this stage we see no evidence that suggests we should move away from the Silk Commission’s recommendation to devolve l0p of income tax.
+
+Wayne David (Caerphilly) (Lab)
+Will the Minister give the House an assurance that what the Government propose today has the full support of all the Conservative Members of the Welsh Assembly?
+
+Mr Gauke
+It is for this Parliament to determine what we should put in place in the Bill. We believe that our proposals strike the right balance. We support the powers. In the time that I have been involved with the Bill, it has not yet been made clear to me whether the hon. Gentleman’s party supports or opposes these measures, but perhaps we will find out today. This Government believe that the powers should be in place and that there should be an option, following a referendum, for devolution of an element of income tax to the Welsh Government. I hope, therefore, that hon. Members will accept the  balance contained in the Bill and recommended by the Silk Commission, and that they will withdraw amendments 9 and 10.
+
+14:30:00
+
+Owen Smith
+It is a pleasure to serve under your chairmanship, Mr Deputy Speaker, and to do battle once more with the Exchequer Secretary, who seems to have been permanently seconded to the Wales Office—he is like a ringer, to use football parlance. We welcome him and the opportunity he now has to clarify some of the things that he was unable to clarify when we last debated the Bill.
+
+On income tax, the Opposition’s priority is very clear: we believe that we ought to have a fair and progressive tax system across the whole UK. For us that means reinstating the 50p rate and having a starting rate of 10p. That will be far fairer for the people of Wales, and indeed the people of every other part of the UK, than the tax cuts for millionaires that the Exchequer Secretary has overseen at the Treasury.
+
+In the context of the Bill, we have three further priorities. Our first priority—this is why we will support the Bill this evening—is to ensure that Wales has access to borrowing powers in order to offset the £1.6 billion that the Conservatives have cut from the budget for Wales. That is linked to the taxation powers set out in the Bill.
+
+Our second priority is to ensure that Wales is not further disadvantaged by potential additional cuts to the block grant that might be associated with the transfer of tax powers, as we heard a moment ago from the Exchequer Secretary, and as I will test in a moment.
+
+Our third priority is to test properly the costs and benefits to Wales of the transfer of additional powers, particularly in respect of tax, because one of the truths about the Bill thus far is that the Government cannot really be taking this seriously. If they took it seriously and thought that it would really benefit Wales, they would have done a bit of the work to determine what the net costs and benefits would be for Wales. They have undertaken no such analysis, which I think calls into question the seriousness with which they address it.
+
+Hywel Williams (Arfon) (PC)
+The hon. Gentleman has outlined three priorities. May I ask him, perhaps a little cheekily, which of those priorities is his priority?
+
+Owen Smith
+If I understand the hon. Gentleman’s question correctly, the answer is borrowing powers for Wales, because we have seen £1.6 billion cut from the budget for Wales, which is money that could usefully be made up by borrowing. Of course, all the tax powers set out in the Bill—income tax and, more immediately, stamp duty and landfill tax and other minor taxes—are directly associated with those borrowing powers. We are keen to see those borrowing powers afforded to Wales, and therefore to see the Bill passed.
+
+However, we have never said that income tax-varying powers are a Labour priority for Wales. We remain sceptical about the benefits they would afford to Wales. Our scepticism is entirely factually based. The Silk commission’s report looks extensively at the revenues Wales receives from taxes and compares them with expenditure in Wales. It determines, to put it in blunt  terms, that Wales currently spends around £35 billion in public moneys and nets in revenues from tax receipts of around £17 billion. That leaves a significant deficit that would need to be made up by a Welsh Government, were they to be reliant to a greater extent on their own tax receipts.
+
+The Minister explained a moment ago that, under the terms of the formula outlined in the Bill and in some of the explanatory material, Wales would of course benefit if the growth of GDP in Wales outstripped that of England, but he also said that it
+
+“would be adversely affected if growth in Wales was slower.”
+
+Although in recent years the rate of GDP growth has been faster in Wales than in England, he will know that historically—if we look at the past 20 years, for example, and certainly over any longer period—the rate has been lower in Wales than in England, for all the obvious demographic and industrial reasons. We need to be certain that Wales would not be worse off, in both the short and the long term. We remain suspicious that tax competition, which seems to be the Government’s driving ideological imperative on the matter, will not benefit Wales, for the reasons I have given.
+
+Mark Tami (Alyn and Deeside) (Lab)
+As someone who represents a border constituency, I think that my hon. Friend touches on a very important area. Tax competition, which might mean people moving their office across the border to take advantage of where the rate was better, will not do the overall economy in England or Wales any good.
+
+Owen Smith
+Absolutely. On previous occasions in the House I have outlined the difference between Wales and Scotland, in terms of the populous nature of our border, as well as the far greater problems that we will experience in Wales. I will touch on that later.
+
+Huw Irranca-Davies (Ogmore) (Lab)
+I agree with my hon. Friend on the Front Bench. There is an ideological difference between the idea that tax competition will inspire a race to prosperity and to the top, from which everyone benefits, and the opposite, in which nations and regions compete with each other in a race to the bottom. We do not want that for our constituents.
+
+Owen Smith
+I entirely agree. I have been at pains throughout our deliberations to make it clear that, in this Bill, we are being accommodating with regard to borrowing that we understand, but there are real concerns—they are not frivolous—about the benefit for our constituents of Wales having powers that could be misused, particularly by the Conservative party, to cut taxes in Wales in order to engender tax competition across the UK. We think that would bring little benefit but many risks.
+
+Alun Cairns (Vale of Glamorgan) (Con)
+Is the hon. Gentleman telling us that he is absolutely against lower taxes in Wales, and is he therefore ruling out any Labour Administration using these powers to reduce taxes in Wales at all?
+
+Owen Smith
+The latter part of that question would of course be a matter for the First Minister, were those taxes to be devolved to Wales, but I think that I have  been absolutely clear that we are not in favour of Wales undercutting the rest of Britain to afford benefits to itself. We do not think that would be beneficial to Wales in the long term. Let me be clear: were that to happen, we do not imagine that Wales would continue to enjoy the same degree of welcome support that we receive from the rest of the UK.
+
+Mr Mark Harper (Forest of Dean) (Con)
+I am now thoroughly confused about the hon. Gentleman’s position. If he is in favour, as I think he is, of devolving these tax powers, but not of their being used to reduce taxes, he can only be in favour of them being used to put taxes up. Is he really saying that he wants Wales to have tax powers, but only so that people living in Wales can pay higher taxes than those living anywhere else in the United Kingdom?
+
+Owen Smith
+That is a misrepresentation of my position, but I have come to expect little else from the hon. Gentleman or, as he is also known, the shadow shadow Welsh Secretary—well, shadow shadow Foreign Secretary. [Interruption.] Maybe, but he seems to be auditioning these days for the Welsh Secretary’s job. Perhaps he will move on to the Foreign Secretary’s position at a later stage.
+
+The Secretary of State for Wales (Mr David Jones)
+Can the hon. Gentleman clarify whether the Labour party in the Assembly will be pushing for an early referendum on tax-varying powers?
+
+Owen Smith
+It was well worth waiting for the Secretary of State to intervene, but I think that the answer is no. Had he been paying attention, he would know that the First Minister has been very clear—[Interruption.] He says “Ah!”, but I think that there is no surprise in hearing that the First Minister has said that income tax-varying powers for Wales are not a priority, for all the reasons I have enumerated many times in this Chamber. If the Secretary of State was to debate some of these issues with me, rather than standing behind the Exchequer Secretary when it comes to all these detailed parts of his brief, perhaps we would have a clearer idea of his understanding of these issues.
+
+Jonathan Edwards
+Is the hon. Gentleman therefore concerned that the 22 local authorities in Wales can all put forward different levels of business rates?
+
+Owen Smith
+That is a tendentious and off-piste point, and I do not intend to busy the Chamber by bothering to respond to it.
+
+We are still suspicious of the Government’s motives, not least because the leader of the Conservative party in Wales, Andrew R.T. Davies, has said explicitly that he wants to cut taxes for the wealthiest people in Wales. That is what we suspect that the Tory party would do if, heaven forfend, it were ever to assume power in Wales. We also still have suspicions that the Government are not really serious about doing this for Wales; in truth, we feel that it is more evidence that Wales is of interest to them only as a stick with which to try to beat the wider Labour party. We have heard this on health, on housing, and on education. Again, their perspective is to try to drive wedges into gaps that do not exist.
+
+If the Government were serious about this, they would have undertaken some of the work that they have done in Scotland. When we last met here to debate this Bill on 6 May, we were anticipating a report by the Government—in fact, it was late by then—on the costs of implementing a similar scheme in Scotland. It did not come out on 30 March, as promised, but on 6 May—on the day, slightly unfortunately, of our debate. The report is entitled “Second Annual Report on the Implementation and Operation of Part 3 (Financial Provisions) of the Scotland Act 2012”. It contains welcome news, because it concludes that the total cost for Scotland will not be the £40 million to £45 million originally anticipated, but a mere £35 million to £40 million. That is what it will cost not Her Majesty’s Government but the Scottish Government to implement a separate Scottish tax regime.
+
+One would have thought that if the Government were serious about implementing this, the cost to Wales should be measured, but the Treasury and the Wales Office have undertaken no such analysis. That is particularly troubling because of the point made by my hon. Friend the Member for Alyn and Deeside (Mark Tami), who is no longer in his seat. There is more complexity in implementing this scheme in Wales because of the greater population density on the border between England and Wales—on either side of Offa’s Dyke, or the line between life and death, as the Prime Minister refers to it. Just 4% of the Scottish population and 0.5% of the English population live within 25 miles of the Scottish border, whereas 48% of the Welsh population and fully 10% of the English population live within 25 miles of the Welsh border.
+
+In Scotland, such measures would potentially affect just 450,000 people who travel back and forth across the border, whereas in Wales the number is likely to be closer to 6.5 million. The implementation costs for Wales are therefore likely to be greater, if not the volume of communication that the Government will have to undertake. Were they serious about this, we might have heard some analysis from them today, but we have heard not a jot.
+
+Glyn Davies (Montgomeryshire) (Con)
+I would like some clarity about the Opposition’s position. We are being told that they will vote in favour of the Bill, which is very good news, but the whole discussion on income tax devolution to Wales suggests that they are completely against it. There will inevitably be differences—we know that the border areas are more difficult in Wales than in Scotland—but the Opposition’s entire rhetoric suggests that they are against the devolution of financial accountability to Wales.
+
+Owen Smith
+I say again that we will support these measures. We will not press amendments 10 and 11 to a vote because we see value in greater accountability and, in particular, in the borrowing powers that are associated with income tax and other taxes. Nevertheless, there are all sorts of reasonable questions to be asked about the impact on the hon. Gentleman’s constituents and mine. The Government are being remiss, if not incompetent, in failing to deal with those questions and failing to come to this House with a proper explanation of what they think the impact will be, as opposed to using the issue merely as a stick with which to beat Labour.
+
+14:45:00
+
+Mr David Jones
+I think that everyone in the House is now even more confused as a consequence of what the hon. Gentleman has said. He said that he sees the value of borrowing powers associated with income tax, but given that Labour will never hold a referendum on income tax powers, how does he hope to access those borrowing powers?
+
+Owen Smith
+I suspect that that reveals why the Secretary of State cannot speak to his own Bill and instead relies on the Exchequer Secretary. The Secretary of State will know, of course, that irrespective of whether there is a referendum in future, the volume of income tax powers to be extended to Wales has a direct link to the amount of borrowing, because the Government have chosen to introduce a different rationale for affording Wales borrowing powers from that which they used for Scotland. The Scotland Act 1998 draws a connection between the amount of capital expenditure—the budget for capital—and the amount of borrowing. In this Bill, for some reason, the Government have chosen to pursue a different rationale, whereby the ratio of borrowing is to be equal to the ratio of income tax devolution. It is very important that the Government consider amendment 10, because it would increase the volume of income tax that could potentially be exercised by the Welsh Government, and should therefore, under the logic employed by the Government, increase the amount of borrowing above the £500 million that is currently envisaged.
+
+Mr Gauke
+In moving on to borrowing, the shadow Secretary of State is finding whole new areas in which he is confusing the House. Does he not appreciate that there is a link between the revenue streams that the Welsh Government will have independently, including income tax, and the maximum borrowing levels that they will have? If an element of income tax is devolved, the borrowing cap will be higher than if it is not devolved. Does he understand that, and, if so, will he attempt to reconcile it with his earlier comments?
+
+Owen Smith
+I will forgive the Exchequer Secretary’s slightly patronising tone and simply say that I absolutely understand it. Perhaps he has not understood my point. Why does this Bill draw a causal connection between the quantum of income tax and other taxes to be devolved to Wales on the one hand, and the amount of borrowing that can be afforded to the Welsh Government on the other, when that rationale was not employed explicitly in the Scotland Act? Would he like to come to the Dispatch Box and tell us why that is different? Obviously there is no explanation—none whatsoever. Clearly, the Government have chosen to employ a totally different rationale in order to justify the lower level of borrowing that they will give to the Welsh.
+
+The shift from 10p to 15p would not only increase the amount of borrowing that Carwyn Jones’ Government could undertake to fill the £1.6 billion gap left by this Government, but afford greater symmetry between what Labour is proposing in Scotland and what we are proposing in Wales. That shift is another positive thing about the Bill, although it will be superseded by the next Labour Government introducing even greater tax devolution in Scotland.
+
+Mr David Jones
+rose—
+
+Owen Smith
+I can see that the Secretary of State is champing at the bit. Why he did not simply do this in the first place is beyond me.
+
+Mr Jones
+The hon. Gentleman does not seem to understand that if there is never a referendum on income tax powers, the Welsh Government will not be able to access an income stream of either 10p or 15p. Does he not understand that point?
+
+Owen Smith
+Absolutely, so perhaps the Secretary of State could come back to the Dispatch Box to explain why that connection was never made in Scotland, and why, in Scotland, the powers relating to the amount of borrowing were a function of the capital expenditure budget. Can he explain why that difference occurred? Obviously, he cannot, so once again, we know that the Government have simply made it up as they went along.
+
+My last point deals with our fair funding amendments. We remain convinced that the Government do not intend to provide fair funding for Wales, and that any extension of devolution of taxation to Wales ought to be subject to a clear understanding, and agreement by the Welsh Government that the fair funding issue has been dealt with. The Exchequer Secretary acknowledged earlier that the issue of convergence has been accepted by the Government in the floor that has been put beneath the Barnett formula. The Holtham commission said that there was a shortfall of about £300 million—perhaps it is now as little as £150 million—in Wales, but we are convinced that the Welsh Government ought to be the arbiter of whether that fair funding test has been met. That is why we would encourage the Government to adopt our proposal of a back-stop power for the Welsh Government to determine whether fair funding is afforded to Wales.
+
+Jonathan Edwards
+Diolch yn fawr, Mr Deputy Speaker. It is a pleasure to serve under your guidance as we discuss this vital Bill, which will empower the Welsh Government with an element of fiscal responsibility for the first time. I would have hoped that all MPs representing Welsh constituencies were united in the view that one of our major roles as elected Members is to ensure that the Welsh economy is able to perform far better than it has in the recent past. Considering the incredible wealth inequalities that exist within the UK, with Welsh communities all too often at the bottom of the wealth league, I would have hoped that every political party was united in a mission to turn around the decades of neglect served upon Wales by successive UK Governments.
+
+Far too many politicians in Wales rejoice at the underperformance of the Welsh economy, as it enables them to preach that Wales is far too poor, too small and too weak to succeed as an independent country. Their assertions are plainly ridiculous; Wales has all the ingredients to be a successful nation. We are a country that is rich in natural resources. Our people are highly talented, producing global leaders in science, academia, sport, culture and economics. The real question we should ask ourselves in Wales is: how do we find ourselves in such a predicament? Are we, as a people, content to languish at the bottom of every performance table and at the top of all poverty measurements?
+
+If I was a unionist, I would be ashamed of the fact that gross value added per head in inner London is 12 times larger than that in west Wales and the valleys—the communities I represent. Westminster is not working for Wales, which is why my party believes that the potential of the people of Wales can be achieved only if our own democratic institution has the tools to move our country forward. History shows that changing the colour of the Government in Westminster will make no difference: the Westminster parties are all signed up to the same economic agenda that has failed Wales for far too long, and the people of Wales increasingly understand that. All polling indicates that they want the National Assembly empowered with more political responsibility. A poll by the Silk commission found that 64% believed that income tax should be devolved to the Welsh Government, so it is disappointing, to say the least, that the efforts of Plaid Cymru to improve and strengthen the Bill in Committee hit the infamous Westminster wall. In Committee, we endeavoured to preserve the integrity of the proposals of the Silk commission, which of course were the foundation for this Bill. Disappointingly, all the Westminster parties reneged on the cross-party agreement that had been made during the commission. The Bill undermines what was agreed in the Silk commission, cherry-picking from a comprehensive package. On more powers for Wales, the three Westminster parties are three peas in a pod, despite the protestations of their representatives in the National Assembly.
+
+In Committee, Plaid Cymru put forward sensible and reasonable amendments that would have improved the Bill. Those included removing the damaging lockstep on the proposed income tax-sharing arrangement between the UK and Welsh Governments; inflation-proofing the borrowing powers included in the Bill; and empowering the Welsh Government to issue bonds and tax credits, as has been done in Scotland. We also tabled a series of constitutional amendments on matters as simple as enabling the National Assembly to determine its own name; to set its own number of elected Members; and to determine its own electoral system. Needless to say, none of the amendments was accepted by the UK Government and neither would Labour offer its support, preferring instead to table wrecking amendments that would further dilute the effectiveness of this Bill. I suspect that has something to do with the anti-devolution cabal currently ruling the roost in the Labour Westminster shadow Wales Office.
+
+Wayne David
+Can the hon. Gentleman answer this simple question: are he and his party in favour of tax competition and the race to the bottom among the nations and regions of the United Kingdom?
+
+Jonathan Edwards
+Enabling the Welsh Government with tax-raising powers would incentivise the Welsh Government to improve the Welsh economy. At the moment, they are a spending body, in essence; there is no incentive for them to improve the economy. That is why these fiscal powers are so important.
+
+Mr Harper
+It might help the House if we thought for a moment about what Opposition Members mean when they talk about a “race to the bottom”. They mean that we allow hard-working families and other people to keep more of their own money so that they can make decisions about spending it, rather than having it taken  off them and spent by the Welsh Government. That is what Opposition Members mean and it indicates all too clearly what they are about.
+
+Jonathan Edwards
+Well, that is the hon. Gentleman’s position. But if the Labour party’s position were to hold true in Wales, there would be a uniform business rate across the 22 Welsh local authorities. There seems to be a slight misunderstanding in Labour’s position.
+
+Alun Cairns
+Extending that logic beyond business rates, the same would apply to council tax rates. We have seen a 12% increase in council taxes in Wales since 2010, whereas there has been a broad freeze here in England.
+
+Jonathan Edwards
+The hon. Gentleman makes my point for me. He says that there are 22 local authorities in Wales, all with fiscal powers to change council tax rates and non-domestic rates. The Labour party does not seem to think that is a problem in Wales in terms of tax competition.
+
+In my opening remarks in Committee, I also said that events in Scotland would supersede the second part of the Silk commission’s work and probably this Bill. Although it might appear that I have fortune-telling abilities, I reassure you, Mr Deputy Speaker, that I have yet to acquire such powers. Earlier this month, the Tory Strathclyde commission recommended that in the increasingly unlikely event of a no vote in Scotland in September, the Scottish Government should be given full income tax powers, and powers over VAT and the welfare system. The proposed new powers would make the Scottish Government responsible for gathering 40% of the money they spend. Crucially for this Secretary of State and this Bill, the Prime Minister has fully backed the commission’s proposals and promised to include them in the Conservative manifesto for next year’s general election. Contrary to the Minister’s remarks, the Prime Minister said that there was no reason why these powers should not be transferred to Scotland after the general election. Ruth Davidson, the leader of the Conservative party in Scotland, has said that this was going to be in its 2015 manifesto. Therefore, Treasury Ministers’ revelations might be revealing in terms of the debate in Scotland over the next few weeks.
+
+The Secretary of State finds himself in an uncomfortable position, as this Bill represents the Tory offer for Wales. The people of our country can easily compare and contrast what is on offer for Wales with what is on offer for Scotland. Furthermore, the BBC is reporting that all three Westminster parties are pledging an agreement of joint travel, promising more powers for Scotland. Yet, this Bill does not even take us in Wales to where Scotland is now. Wales is not a second-class nation and there is no more powerful message in Welsh politics than equality with Scotland. This Bill is far from being a settlement that will last a generation; if the Tories want to survive in Wales next year, this Bill is unlikely to make it past the Lords in the autumn.
+
+Only last week, none other than the Financial Times stated in its editorial that the UK should move to a federal model, noting that
+
+“the status quo is not an option.”
+
+It added that Wales should be included in proposals for full fiscal and policy autonomy. Today, we will endeavour to put forward amendments that will strengthen the Bill  considerably. As the Westminster parties have decided to torpedo the Silk commission, we will also put forward amendments that go beyond its recommendations and reflect the rapid change of the constitutional debate within these isles. We will seek to divide the House on our later amendments in the next group, so that the people of Wales can contrast Plaid Cymru’s ambition for Wales with the apathy of the Westminster parties.
+
+First, however, I will speak to our amendment 9, which is a straightforward, probing amendment. It would make the Welsh Government responsible for 100% of the income tax revenue gathered in Wales, rather than having the meagre 10%-90% split income tax-sharing arrangement on offer in this Bill. My Plaid Cymru colleagues and I have already tried to maintain the integrity of the original cross-party Silk commission recommendations. We tabled relevant amendments to the Bill in Committee, but they were either voted down or abstained on by Labour MPs who would not support what their colleagues in the National Assembly had been saying.
+
+I mentioned the fact that the Tory Strathclyde commission has reported its conclusions. It recommended 100% devolution of income tax to Scotland. The report was fully endorsed at the highest levels of the Conservative party, with the Prime Minister himself giving it his full backing and saying that its recommendations would be included in the Conservative manifesto at the next UK general election. I need not point out to the Secretary of State, therefore, that what his party is offering to Scotland reveals what is on offer here to be completely behind the times.
+
+15:00:00
+
+As I said earlier, equality with Scotland is one of the most powerful messages in Welsh politics. Why should we not have the same powers as Scotland? Are the other parties content for Wales to have inferior powers to those of the other nations of the UK? The Labour party states, through its First Minister, that it wants the same powers for Wales as for Scotland, yet it does precious little about getting them. Only now is Labour meekly saying that it is standing up for Wales to get the powers that were given to Scotland a generation ago.
+
+Wayne David
+Is there not a contradiction between what the hon. Gentleman is now arguing for and his total support for the Silk recommendations? Surely he must choose one or the other.
+
+Jonathan Edwards
+I appreciate the hon. Gentleman’s intervention. As I have said, we endeavoured to preserve Silk during the Committee stage, but our attempts were completely torpedoed by the Government and by Labour. We are therefore saying that we are going to go beyond Silk in the remaining stages of the Bill.
+
+Even the Financial Times says that the UK should move to a fully federal constitution. As I said earlier, it stated in its editorial on Monday last week:
+
+“A shift to far greater fiscal devolution north of the border would have to be mirrored across the rest of the union. It would require a whole new constitutional settlement whose purpose would be to create a more federalised Britain...First, Wales and Northern Ireland would need to gain similar powers to those in Scotland to raise, and vary, tax rates.”
+
+Crucially, it ended by saying that
+
+“the creation of a new constitutional settlement...is not something that can be left on hold”.
+
+Last week we also learned not only that 55% of the peoples of the UK want greater fiscal and policy powers for Scotland, but that 54% want Wales to have those same greater freedoms, according to an ICM poll commissioned by the Evening Standard.
+
+We are moving towards a far looser Union, and that is why this Wales Bill is a major missed opportunity. I have always said that the powers on offer in the Bill would be completely overtaken by events in Scotland and I have been vindicated, not least by the fact that there is an increasing likelihood of Scotland voting yes in September, thereby making the Bill look like a sticking plaster put over a burst dam.
+
+All the Unionist parties are now falling over themselves to offer increased devolution in Scotland, despite having previously said that that should not be an option in the referendum. They must be kicking themselves that they did not include it as a third option on the ballot paper. Who will believe a word they say when they promise jam tomorrow? I would say, based on past evidence—and on what the Exchequer Secretary to the Treasury has said today—that the only way for the people of Scotland to guarantee more powers for Scotland is to vote for independence.
+
+I would draw the people of Scotland’s attention to the Wales Bill. Here we have a Government who set up a cross-party commission to bring forward a consensus which carefully put together a fully endorsed package of reforms. The Conservatives and the Liberal Democrats then reneged on their word by cherry-picking and watering down the recommendations of the cross-party commission. They added restrictions and caveats further to render the powers unusable via mechanisms such as the lockstep. The UK Government’s attempt to strangle the cross-party Silk commission’s original recommendations by adding caveats, restrictions and locksteps should be a salutary reminder to the Scottish people of the sincerity of Westminster’s promises regarding further devolution. If the Wales Bill is anything to go by, the Government here will make a big headline-grabbing announcement promising more devolution, only to reveal a paltry offer when the surface is scratched away.
+
+Wayne David
+I take the hon. Gentleman back to his comments a moment ago, when he said he was supporting Silk. He is now saying that he is not supporting Silk. Is he behind Silk or not? Does he want to see those proposals taken much further? He cannot have his cake and eat it; he must decide one way or another.
+
+Jonathan Edwards
+I am grateful to the hon. Gentleman for that second attempt, but I think I answered his question when he first intervened on me.
+
+It is interesting that Labour Front Benchers have only now tabled amendments to the Bill to give Wales control over 15% of income tax revenue gathered in Wales. That proposal is in amendment 10. Admittedly it is better than the 10% on offer in the Bill as it stands, but it is still meagre and shows a lack of ambition and vision for Wales. That is symptomatic of the Labour Government in Cardiff and their puppet-masters here in Westminster. Of course, 15% is better than 10% and we shall be supporting the amendment if it is pressed to   a vote, especially as it does not include the lockstep-plus mechanism I referred to in Committee. However, it still reflects Labour’s lack of dynamism. Why only 15%? That figure seems to have been chosen simply because it is ever so slightly better than the Tory and Lib Dem offering.
+
+I see that Labour’s other amendments are more concerned with delay, obfuscation and preserving its own positions than with trying to get the best deal for Wales and its economy. On the vote in Committee to remove the lockstep restriction, Labour abstained, despite the Labour First Minister and Finance Minister having said that it should be removed. Where is Labour’s consistency? Again Labour Members say one thing in Wales and do another at Westminster. They are now saying that Wales should have control over 15% of income tax revenue, yet their amendment says nothing about the removal of the lockstep.
+
+When the Westminster Government announced in November last year that Wales would be getting new powers, they stated that the powers would make Wales an “equal partner” in the UK. Nothing could be further from the truth. The Secretary of State for Wales has previously argued that Wales must be given “equal respect with Scotland”, yet his actions run completely against that. His party is effectively offering Scotland full income tax devolution, yet he is maintaining the lockstep in the Bill for Wales and proposing that we should have control of only 10% of the income tax revenues raised in our country.
+
+In conclusion, I want the same powers for Wales as the other nations of the British state either have or are being offered. If the main party of Government here at Westminster has full income tax devolution for Scotland as its party policy, why on earth should Wales not have those same powers? The changing context of the Scottish independence referendum debate vindicates what I have said all along—namely, that its rapid development will ensure that the powers on offer in the Bill will not be the settlement for a generation that the Government are suggesting.
+
+The Welsh economy needs those powers now, never mind in three years’ time—the earliest point at which they would come on stream. Ultimately, the powers on offer in the Bill pale into insignificance in the context of how the constitution of the British state will alter in the coming years. That should be noted by this Government and all the parties, and we should begin with full devolution of income tax, so that the Welsh Government can determine their own bands and rates.
+
+Mr Gauke
+I shall briefly respond to a number of the points raised in the debate. The first related to the cost of implementing the Welsh rate of income tax. HMRC is looking to develop a specific estimate for that cost but, because the timing of the introduction of a Welsh rate is uncertain and because it would depend on the outcome of a referendum in Wales, it is difficult to do so at this time.
+
+I want to make two comments in regard to the comparisons with Scotland. First, the Scottish population is obviously larger than the Welsh population, so that will reduce some of the costs. Secondly, however, a counteracting element is that the number of people living close to the border might result in an increase in the number of people contacting HMRC to seek  clarification. The hon. Member for Pontypridd (Owen Smith) mentioned the concern about the number of people working in Wales but living in England, and vice versa. We must remember that the definition of a Welsh taxpayer is based on where they live, not where they work. For the vast majority of people, it will be clear where they are, so we should not overstate those costs. As I have said, however, it is difficult to come up with a precise number at this point.
+
+On the Strathclyde commission, I have made it clear that that will relate to what happens in the next Parliament. We certainly welcome Lord Strathclyde’s recommendations; there is much to take from them.
+
+Jonathan Edwards
+Given the comments of the Prime Minister and, especially, of the leader of the Conservative party in Scotland, does the Minister think that Ruth Davidson was being rather exuberant—for want of a better word—in proclaiming that those measures would definitely be in the manifesto?
+
+Mr Gauke
+I would say to the hon. Gentleman that what the Prime Minister says will be in the manifesto tends to be in the manifesto. That is a fairly wise approach.
+
+The Opposition have set out their views and I think we have finally got some clarity. I think that Labour’s position is that we should not devolve any element of income tax to Wales, but that devolving 10p is not high enough and it should be 15p. In other words, it is saying that 15p is better than 10p, but nothing is better than anything. Labour also supports the Bill because it wants the Welsh Government to have access to borrowing powers that come as a consequence of having independent revenue streams, but it does not support the Welsh Government having access to the biggest independent revenue stream that might be available, which is income tax. I hope I have characterised Labour’s position correctly. It is simultaneously both for and against, on at least two different grounds.
+
+With those points of clarification, I hope that the Government new clause and amendments will be accepted and that the Opposition amendments will not be pressed to a Division.
+
+Question put and agreed to.
+
+New clause 1 accordingly read a Second time, and added to the Bill.
+
+
+
+New Clause 2
+
+Infrastructure guarantees in Wales
+
+‘Her Majesty may by Order in Council provide for the transfer of responsibility for providing infrastructure guarantees in Wales to the Welsh Ministers.’—(Jonathan Edwards.)
+
+Brought up, and read the First time.
+
+Jonathan Edwards
+I beg to move, That the clause be read a Second time.
+
+Mr Deputy Speaker (Mr Lindsay Hoyle)
+With this it will be convenient to discuss the following:
+
+New clause 3—National Assembly ability to hold binding referenda—
+
+‘Her Majesty may by Order in Council provide for the transfer of responsibility for holding binding referenda to the National Assembly for Wales.’
+
+New clause 4—National Assembly for Wales: reserved powers—
+
+‘(1) The Secretary of State will lay a report before each House of Parliament on the further legislative steps needed to move to a model of reserved powers for the National Assembly for Wales and shall lay the report before each House of Parliament within nine months of this Act receiving Royal Assent.
+
+(2) Part 2, except the referendum-related provisions and sections 19 and 20 shall not come into force until the report has been laid in accordance with subsection (1).’
+
+Amendment 8, in clause 19, page 22, line 8, at end insert—
+
+‘(1B) Welsh Ministers may set their own capital expenditure priorities.”
+
+This amendment and amendment 5 enable the new clause inserted by new clause NC1 to come into force by order of the Secretary of State if the majority of voters in a referendum held under clause 11 vote in favour of clauses 8 and 9 (the income tax provisions) coming into force.
+
+Jonathan Edwards
+We should be using this Bill to empower the Welsh Government—with an arsenal of powers to enable them to intervene in the Welsh economy. During our discussions on the Bill, we have debated fiscal powers and different elements of borrowing powers. However, we have not debated one lever that could be of enormous use to the Welsh Government and that might not necessarily cost a penny, but that would allow them to provide security to various infrastructure projects that might not take place without such backing.
+
+New clause 2 would allow the Welsh Government to issue financial guarantees for private projects that they choose to support in such a manner. Government guarantees are useful for companies that are then able to draw down private investment to fund their projects. As I have said, these guarantees would cost the Government nothing, unless the project fails.
+
+Effectively, guarantees mean that the Government financially underwrite a project. In many cases, guarantees are more useful for helping projects get off the ground than borrowing powers. It is a simple measure that would help the Welsh Government kick-start infrastructure development in Wales, boosting jobs and growth.
+
+I need only quote what the Chief Secretary to the Treasury had to say about the importance of guarantees when he launched the most recent outline of UK Government-backed projects:
+
+“The offer of a guarantee is helping to get projects going…There is a lot of infrastructure happening in this country because of this programme.”
+
+The Institute of Civil Engineers said that the guarantee scheme had enabled
+
+“viable projects to secure finance in difficult market conditions…It is an excellent example of government making creative use of its resources to get projects moving,”
+
+Last October, the UK Government announced their £40 billion guarantee scheme. Projects earmarked for support included a £300 million biomass energy generation plant in Avonmouth in Bristol; a £400 million gas-storage facility in Islandmagee in County Antrim; two gas-fired power plants in Lincolnshire and Essex; mixed-use development of homes, offices and shops in Aberdeen; a wind farm on the Forth estuary; a renewable energy port facility in north Lincolnshire; a low-carbon fuel plant for commercial vehicles; development of the university of Roehampton campus in Surrey; a wood-fired generation plant in Tilbury in Essex; relocation of Northampton university; a Five-Quarter Energy gas plant in the north-east of England; and ethane storage facilities at the Ineos Grangemouth plant near Falkirk in Stirlingshire.
+
+If we look at the UK Government’s list of prequalified projects, which was updated on 16 June, we will see that none of those projects is in Wales. Despite heady announcements from the UK Government about “co-operation agreements” and the inclusion in the national infrastructure plan of projects in Wales, not one has even reached the prequalified stage, according to the publicly available list.
+
+The UK Government guarantee scheme should not be confused with the national infrastructure plan, which is a wish list of future projects. The plan does include the proposed Wylfa B, with a promise of UK Government financing help following planning approval. The national infrastructure plan of December 2013 mentions
+
+“a new cooperation agreement with Hitachi and Horizon with the aim of being able to agree an in-principle guarantee by the end of 2016 to support the financing of a new nuclear power plant at Wylfa, subject to final due diligence and ministerial approval.”
+
+It has, therefore, still not reached the prequalified stage.
+
+Returning to the UK Government guarantee scheme, the eagle-eyed will notice that none of the prequalified projects is located in Wales. Therefore, the Treasury is using Welsh taxpayers’ money to underwrite projects in other parts of the UK, and Wales has so far seen precious little, despite being desperately in need of better infrastructure to drive forward the Welsh economy. Driving forward the Welsh economy would be a real effort to rebalance the UK economy geographically, yet this Government have no real interest in doing so. They should either bring more infrastructure projects to Wales, or give the Welsh Government more tools to do so. I and my Plaid Cymru colleagues believe that it is for the people of Wales, through their democratic institutions, to decide which infrastructure projects to underwrite and where.
+
+15:15:00
+
+The UK Government have pledged to underwrite the £4 billion Thames super-sewer here in London. Some might regard that project as especially high-risk, considering the widely recognised indebtedness of Thames Water, a company that failed to pay any corporation tax last year, despite its profits increasing 79% to £259 million.
+
+A few months ago, Welsh Members were invited to a meeting by the £280 million Circuit of Wales developers in Blaenau Gwent. They informed MPs and peers that one of the measures they needed above all else to get the project going was a Government guarantee. Hardly a week goes by without some Labour MP, Assembly Member or Lord saying that the circuit could be the saviour of the Welsh valleys. Today, Labour MPs will have their opportunity to give the Welsh Government the power to issue the guarantee required to get the project going. As ever, I do not hold out much hope that Labour MPs will put the communities they represent first, but the way they vote will be a matter of public record.
+
+Our new clause 2 proposes that the Welsh Government should have the ability to issue guarantees—ultimately guaranteed by the Treasury—worth 5% of the UK Government scheme. That would enable the Welsh Government to underwrite £2 billion-worth of infrastructure projects, which would inevitably provide a significant boost to the Welsh economy.
+
+Technically speaking, a guarantee gives rise to a contingent liability for the Government. In other words, it is a potential liability depending on something happening that will trigger the guarantee and require funds to be paid in full or in part to satisfy the guarantee. Given the uncertain nature of such liabilities, the Government do not score them against departmental expenditure limits, unless and until they result in payments being made.
+
+The major infrastructure projects announced, or semi-announced, for Wales by the UK Government—the M4 relief road and rail electrification—will not come through infrastructure guarantees, but via puppet-master strings. The UK Government are seeking to force a future Welsh Government to use their borrowing capacity for the first, and the second is a complete shambles because neither Government can agree on who said what they would pay for.
+
+Ultimately, Wales should get its fair share of economy-boosting infrastructure projects and the Welsh Government should be empowered to provide guarantees, without the constraints placed on them by Westminster as with the other cases I have just mentioned. If used prudently, the guarantees need not cost the Welsh taxpayer a single penny. It is a simple and effective mechanism.
+
+The UK Government’s proposals in the Bill effectively handcuff the Welsh Government. They are saying, “You can have tax powers, which can’t be used because of the lockstep, and you can have borrowing powers as long as you spend them on our preferred projects.” They are treating the Welsh Government and the people of Wales with contempt.
+
+In these remaining stages, the Secretary of State needs to rethink his position. The leader of the Conservatives in Scotland has described the current Scottish fiscal arrangements as those of a “pocket money Parliament”. Surely there should be a better deal on offer for the people of Wales. A Bill genuinely aimed at helping the Welsh Government to drive economic growth would at the very least include this new clause.
+
+My Plaid Cymru colleagues and I also tabled amendment 8. We remain concerned that the UK Government will seek to shackle the ability of a future Welsh Government to use the borrowing-for-investment powers as they see fit. The case in point is the plan to use the new borrowing capacity for a new M4 road. Plaid Cymru has long advocated infrastructure investment as a means of creating jobs and developing the Welsh economy, which still languishes at the bottom of the UK economic league table. However, it would be a dereliction of duty by any future Welsh Government if they agreed to use their borrowing capacity solely to fund a new M4 road, because, first, there are far better ways of relieving congestion on the existing M4 in south-east Wales; secondly, any future Government of Wales will have a duty to the whole of Wales, not just the south-east; and thirdly, if the powers are to be devolved, surely it should be a matter for the democratically elected Government of Wales to determine their own priorities, not a matter of command and control from the Treasury.
+
+The Bill as drafted says that the Treasury will have the final say on any infrastructure projects in Wales paid for via the borrowing powers. Our amendment 8 would enshrine the right of a future Welsh Government to choose as they see fit. Ultimately, as in other areas of the Bill, the Westminster Government are saying, “You can  have the power to do x, y and z, but we still retain the right to overrule you or to attach conditions and caveats so that the power cannot be used freely.” We have seen that with the Government’s addition of the lockstep, the cherry-picking and the complete failure to give to Wales any devolved powers that match those for Scotland and Northern Ireland.
+
+When the UK Government announced that they would make money available for investment in a new M4 relief road, it was unclear which funds would be allocated. As the Bill’s contents were gradually revealed, it became apparent that the Westminster Government intended to bind a future Welsh Government’s hands on the borrowing powers available by funnelling the new power into the project that they saw as the one worthy of investment—namely, the priority from a Treasury perspective. It is highly telling that the Government here want the money to be spent on the M4, as they see Wales through a colonial lens. For Westminster, Wales is worthy only of mineral and natural resource extraction and as a source of labour, which means that its only interest is in maintaining east-west links and that it has no interest in developing infrastructure internally in Wales.
+
+In a close parallel, the UK Government stated that they would electrify the great western line to Swansea and the valley lines, but then reneged on their word. That also revealed the incompetence of the Labour Government in Wales, who completely failed to nail down the Westminster Government on the precise terms of the agreement. All along, the people of Wales are being let down by unionist parties who squabble among themselves and who deliver only mealy-mouthed promises and an economy in Wales that is still languishing.
+
+Mark Tami
+Will the hon. Gentleman please explain or elaborate on the imperialist nature of the M4, because I am slightly at a loss?
+
+Jonathan Edwards
+The point I am making is that all the investment seems to be on an east-west basis, rather than on a north-south basis.
+
+Hywel Williams
+Apropos of that intervention, I would have thought that the hon. Member for Alyn and Deeside (Mark Tami) was rather more interested in developing the A55 than the M4.
+
+Jonathan Edwards
+I am sure that that very useful intervention will be noted by the constituents of the hon. Member for Alyn and Deeside (Mark Tami).
+
+Plaid Cymru recognises the issue of congestion on the M4 corridor around Newport and wants investment to take place. However, the current Labour Welsh Government’s preference for a new M4 to the south of Newport at a cost of £1 billion is a disproportionate solution to the amount of congestion. According to Friends of the Earth and Professor Stuart Cole, the Welsh Government consultation documentation overestimated traffic growth in 2012 and 2013. The flows were lower than the Welsh Government predicted, so they do not have a strong enough statistical base on which to justify such a huge financial and environmental cost. As the Federation of Small Businesses has pointed out, committing the vast majority of Welsh borrowing capacity and   money from outside the borrowing limit in the Bill to one single project is misguided and does not serve the whole of Wales or the whole of the Welsh economy.
+
+Paul Murphy (Torfaen) (Lab)
+I am listening with extreme interest to the hon. Gentleman’s points. It seems to me that Plaid Cymru is therefore actively opposing the development of the relief road around the M4, which he will have to explain to those who vote for Plaid Cymru in Gwent and Glamorgan.
+
+Jonathan Edwards
+I have huge respect for the right hon. Gentleman. I will outline two alternative proposals that would be a better use of the borrowing capacity of the Welsh Government than blindly following what the Treasury wants.
+
+The new M4 will not be a quick and decisive solution, despite what its supporters say. It will not be completed until 2031, according to the Welsh Government. The £380 million blue route, an upgrade of the A48 corridor that includes flyovers, would represent better value for money and would avoid the environmental damage caused by building on the Gwent levels to the south of Newport. The road upgrade would be accompanied by modern traffic management methods, such as signage to direct traffic flows between the A48 and the existing M4, depending on congestion levels. The blue route is future-proofed until 2035 and, if needed, it could be developed further beyond 2035. Money saved by developing the blue route could be invested elsewhere in Wales. In our previous transport consultation, Plaid Cymru identified transport needs in north, mid, west and south Wales. Above all, Plaid Cymru’s proposal to support the blue route is more innovative and balanced than the proposal with which the Labour and Conservative parties are trying to push ahead. Wales must not get tied into the UK Government’s deal on the M4.
+
+Ultimately, although a new route is needed to relieve the pressure on the M4, what is really needed is the development of a metro system for south-east Wales and the valleys. Early estimations have put the costs at about £1 billion. The reality is that the M4 is used as a local road in south Wales, as the right hon. Member for Torfaen (Paul Murphy) well knows: 40% of journeys made on the M4 in that area are local ones of less than 15 miles. This means that—in one act—commuter journeys could be transferred to a metro system to relieve the pressure on the M4. The great thing about a metro system is of course that, after the initial outlay, a ready stream of revenue is provided through ticket sales that could be used in part to repay the initial expense and reinvest in services and upkeep. The success of the Newcastle and Tyneside metro could be repeated in south Wales if we had the necessary vision.
+
+In conclusion, it appears that the Westminster Government are intent on binding the Welsh Government’s hands on how they utilise the borrowing capacity. The M4 relief road is a case in point. Unfortunately, the current Labour Welsh Government lack the ambition and vision to do something different, and are blindly following the UK Government’s lead. Amendment 8 would make sure that a future Plaid Cymru-led Welsh Government were not bound in the same way but could prescribe more intelligent solutions to infrastructure problems and provide a boost for the whole of the Welsh economy, rather than just the primary corridor  routes in and out of Wales that concern the Westminster Government. With your permission, Mr Deputy Speaker, I will therefore definitely push amendment 8 to a vote at the appropriate time.
+
+Paul Murphy
+It was interesting to hear the points made by the hon. Member for Carmarthen East and Dinefwr (Jonathan Edwards), but I want to concentrate on my party’s new clause 4 on reserved powers. I very much welcome the new clause, which relates to the laying of
+
+“a report before each House of Parliament on the further legislative steps needed to move to a model of reserved powers for the National Assembly for Wales”.
+
+[Interruption.] Perhaps I should give up for a second while negotiations are going on behind the Speaker’s Chair.
+
+I repeat that I support new clause 4 on reserved powers for Wales. I remind the House that the Leader of the Opposition, who was in north Wales for the Labour party conference some months ago, said that the next Labour Government would introduce a
+
+“new Government of Wales Act, with powers assumed as devolved to Wales, unless specifically reserved. Bringing Wales into line with Scotland—modernising and advancing the devolution settlement for generations to come.”
+
+I do not see why the Government, and particularly the Secretary of State for Wales, should reject such a proposal. In an earlier incarnation, I was probably more sceptical about devolution than even he is now, but the world changes. As the hon. Member for Carmarthen East and Dinefwr mentioned several times, the world has changed with regard to what might or might not happen in Scotland in a few months’ time. Let us assume, as I hope will be the case, that the voters of Scotland vote no. If that happens, we know that the Government—not the Opposition—will make far-ranging changes to Scotland’s constitution, with its Government being given extra powers as a consequence of his Government’s commitments. The Secretary of State also knows that it is quite likely that a future Labour Government would agree to such proposals. I therefore cannot understand why he is opposed to reserved powers for Wales only a matter of weeks before the possible introduction of a new Bill for Scotland that would give extra powers.
+
+That argument is simple enough, but in a sense it goes back to our previous debate about borrowing. The Treasury Minister tried to make the point, rather heavily I thought, that borrowing could not be greater in Wales because we did not have sufficient streams of income. However, the shadow Secretary of State pointed out that Scotland and Northern Ireland were given borrowing powers for different reasons. Therefore, it is strange that, within Government, Wales is going that way and Scotland is going another way. There is no reason why that should be the case.
+
+15:30:00
+
+This is a modest measure. The new clause calls for a report to come to Parliament looking at the issue of reserved powers. It will avoid the need for the Secretary of State to keep going to the Supreme Court when there are disputes on, for example, the Agricultural Wages  Board and other issues. This measure seems a simple solution to the problem. What happens in Scotland will have an effect. The Silk commission recommended this. Granting reserved powers to Wales—in other words, it would have all the powers it needed except those that are reserved to Westminster—is a way in which we can overcome the differences between Wales and Scotland.
+
+Mr Elfyn Llwyd (Dwyfor Meirionnydd) (PC)
+I am following the right hon. Gentleman’s argument and I fully accept what he says about the benefits of a reserved powers model. However, it seems to us that the problem with the new clause is that it relies on a report some time in the future to bring that in. Accepting what he says and the obvious benefits of a reserved powers model, why do we need that report?
+
+Paul Murphy
+I hope that my hon. Friends on the Front Bench will elaborate a bit more on the matter, but my guess is that they discussed the issue of reserved powers at earlier stages and a new clause is necessary to revive the debate on that on Report. I agree that this measure is relatively modest in asking that a report be laid, but I am sure that my hon. Friend the Member for Llanelli (Nia Griffith) will clarify that we are in favour of reserved powers, as described by the Leader of the Opposition in north Wales. There is no equivocation at all about whether we want reserved powers. We do. The new clause is framed in this way so that the House can debate what is an important issue.
+
+Hywel Williams
+From my reading of new clause 4, it does propose a reserved powers model, but that is contingent on a report not on the reserved powers model, but on borrowing by Welsh Ministers. The Opposition seem to be yoking two different things together. I suspect that it is a delaying, or even a wrecking tactic.
+
+Paul Murphy
+It certainly is not a wrecking tactic. I have made the position clear. I am just a Back Bencher, but Labour Front Benchers will also make it clear that the Labour party is committed to reserved powers for Wales. In the light of what is likely to happen in Scotland, that becomes much more important.
+
+The Parliamentary Under-Secretary of State for Wales (Stephen Crabb)
+I am grateful to the former Secretary of State for giving way. He is definitely not just a Back Bencher, but does he genuinely believe that moving to a reserved powers model is a panacea for all the difficulties and challenges of a devolution settlement between England and Wales—issues such as water, transport, and the populous border, which the shadow Secretary of State described earlier? Does he genuinely believe that moving to a different starting point is a panacea to overcome the challenges in the current devolution settlement?
+
+Paul Murphy
+I do not think for one second that the model is a panacea for all the issues and problems that we face, but I think that it will give tools to the National Assembly and the Welsh Government that they currently may not have and make it easier for them to resolve various issues. I do not suggest for one second that the model means that we will have to end the important cross-border co-operation that exists, or that there will be no need for the Governments to discuss matters. Of  course that will have to happen, because of points Members made earlier; large swathes of the population live on the border in Wales, in contrast to Scotland. I agree with the Minister that this model is not the complete answer but it is an answer. It is also an answer in the light of what both parties are thinking with regard to Scotland. Whatever happens in Scotland—like me, the Minister will argue for a no vote—it will undoubtedly change the political and constitutional landscape of our country and so Wales must be in a position to take part in that. Otherwise, we will be seen as an adjunct to a very large England, with Northern Ireland, with its own special issues, on one side.
+
+Therefore, I agree with the new clause. I am sure that my hon. Friend the Member for Llanelli will be able to make the points that I have not made and that have been discussed by Members.
+
+Nia Griffith (Llanelli) (Lab)
+The new clause calls on the Secretary of State to issue a report on the further legislative steps needed to move to a model of reserved powers for the National Assembly for Wales. It seeks to prepare the way for Wales to enjoy the reserved model of powers, so that legislation should set out the areas that are reserved for the UK Parliament, rather than trying to define all the areas that Wales can legislate on.
+
+The current situation is that the model of devolution in operation for Wales is the conferred powers model. Following the referendum in March 2011, the National Assembly for Wales was empowered to make primary legislation in the 20 broad policy areas. Therefore, the areas where the National Assembly can legislate are conferred upon it and listed in the statute. However, Scotland and Northern Ireland enjoy the reserved powers model, which means that the legislation sets out the areas where the devolved legislature cannot legislate—areas that are reserved to the UK Parliament.
+
+Mr Mark Williams (Ceredigion) (LD)
+At least three parties in the House support the reserved powers model, but can the hon. Lady explain what is meant by subsection (2) of the new clause? The hon. Member for Arfon (Hywel Williams) made this point. It says:
+
+“Part 2, except the referendum-related provisions and sections 19 and 20 shall not come into force until the report has been laid in accordance with subsection (1).”
+
+What is that caveat? What is the hold up in moving towards a reserved powers model in the new clause?
+
+Nia Griffith
+That provision is to ensure that the report is actually laid. That is the point of it. It says, “Let us make sure that this is a genuine part of what happens during the passage of the Bill, rather than the issue being kicked into the long grass.” Otherwise, the danger is that the new clause, which asks for further progress on reserved powers, would just be kicked into the long grass. That would be the problem. It is integrally linked now with the progress of the Bill.
+
+Mr Williams
+Is there any link with the point made by the hon. Member for Arfon about the financial provisions of the Bill?
+
+Nia Griffith
+The whole point is that this is what we want to see. We are committed to a reserved powers model and that is what we would like to see progress on. It seems a missed opportunity not to have that in the Bill, so we want to put it in.
+
+Mr Williams
+I share the passion for the reserved powers model. The point the hon. Lady is making about the contrast with Scotland and Northern Ireland is an admirable one. My party leader has said that. So has Plaid Cymru and elements of her party, but why do we need subsection (2) of the new clause? I do not understand. Why can we not proceed with the reserved powers model anyway?
+
+Nia Griffith
+The important thing is that we are firmly committed to the reserved powers model and we wanted to find a way to put that in the Bill. We have put it in the new clause in this way because that is what we have been advised.
+
+The Silk commission part 2 makes the recommendation that Wales would be better served by the reserved powers model, and it therefore seems to us that the Bill provides an ideal opportunity to pave the way for that change. Not to do so would be a missed opportunity, which is why we are proposing the new clause. The model is already there for Scotland and Northern Ireland.
+
+My right hon. Friend the Leader of the Opposition confirmed our commitment to a reserved powers model when he announced at Welsh Labour conference that Labour has a manifesto commitment for next year’s general election to introduce a
+
+“new Government of Wales Act, with powers assumed as devolved to Wales, unless specifically reserved. Bringing Wales into line with Scotland—modernising and advancing the devolution settlement for generations to come.”
+
+Labour is the party that brought devolution to Wales and Scotland. It remains the only party that is committed to and can deliver devolution in the UK and get the best deal for Wales. Therefore, let us look at why we believe that the reserved powers model would serve Wales better than the current model.
+
+As the Welsh Government told the Silk commission:
+
+“The reservation model is a technically superior method of devolving legislative competence on a devolved legislature. In our view, the conferral model is incapable of prescribing with any degree of certainty exactly what the Assembly can legislate about…The Welsh model therefore lacks…clarity and certainty, and much time is spent addressing potential arguments about whether provisions of a Bill relate to such undefined subject-matter.”
+
+Indeed, the submission from the Hywel Dda institute of the Swansea university school of law also concluded that
+
+“the reserved powers model is, in principle, superior in terms of accessibility, clarity, stability, sustainability, effectiveness and consistency with the principle of subsidiarity”.
+
+Mr Llwyd
+I am listening intently to the hon. Lady’s arguments about the benefits of a reserved powers model, and I fully agree with her. I was here when the original Wales Bill was drafted some years ago. Why was it not put in as it was for Scotland at that stage, rather than the conferred model?
+
+Nia Griffith
+I very much hope that the right hon. Gentleman will welcome the move forward that we are making in light of the referendum that showed that the people of Wales wanted to go that step further. I think it reflects the mood and the present situation in Wales.
+
+I am very pleased to hear that the hon. Member for Ceredigion (Mr Williams) is offering his support, particularly as his hon. Friend the Member for Brecon   and Radnorshire (Roger Williams) stressed his wholehearted support for a move towards the reserved powers model only a few weeks ago here in this Chamber. His thoughts were, of course, echoed on 16 June by the Deputy Prime Minister:
+
+“So, what you will find in our manifesto is a commitment to implement Silk 2 in full.”
+
+I hope today that we will see that support demonstrated in full by his party.
+
+As for the Secretary of State for Wales, I think I will have a rather more difficult time persuading him to even contemplate moving to a reserved powers model for Wales. Indeed, he is on record as preferring the current settlement and I suppose even that is a big step forward for him from our days together on the Welsh Affairs Committee, when he wanted a referendum to make provision for turning the clock back and reversing the devolution settlement.
+
+That brings me on to further evidence for wanting to move to a reserved powers model. As hon. Members will know, since the Welsh Assembly received its full law-making powers in May 2011, there have already been three referrals to the Supreme Court seeking clarification as to whether proposed legislation is within the competence of the Assembly. Two of those referrals have been made by the Attorney-General. The first of those was the Local Government Byelaws (Wales) Act 2012, which was passed by the Assembly in July 2012. The Supreme Court delivered a unanimous judgment in November 2012 that it was within the competence of the Assembly. That process both delays the legislation and comes with a cost.
+
+In this case, the legal cost of the Treasury Solicitor’s Department for representing the Attorney-General in relation to the Bill was £59,000. The legal cost incurred by the Welsh Government was £30,000 and about £15,000 was spent on civil service time in the Wales Office. The First Minister’s spokesman called it a
+
+“ridiculous situation that has arisen on what is a totally uncontroversial piece of legislation…The primary policy objective of the Bill is to simplify and rationalise how local authorities make byelaws to deal with nuisances in their areas…So why the UK government has decided to take this to the Supreme Court, at the last minute, is inexplicable.”
+
+You really do have to ask yourself, Madam Deputy Speaker, why the Secretary of State even thought it necessary to ask the Attorney-General to refer it in the first place. It is difficult not to conclude that it had something to do with his general antipathy to any new steps in devolution.
+
+The second referral by the Attorney-General was the Agricultural Sector (Wales) Bill, passed by the National Assembly for Wales in 2013, and we are still awaiting the outcome. That Bill seeks to retain in Wales an equivalent of the Agricultural Wages Board, which has been abolished by this Government in England. It therefore represents a difference in policy between the UK Government and the National Assembly for Wales.
+
+Yet again, we saw it referred by the Attorney-General. You might almost suspect, Madam Deputy Speaker, that that was a referral made by the UK Government because they disagreed with the legislation and were unwilling for the Welsh Assembly to do things differently. But to most people, it just looks like wasting public  money, fighting an expensive legal battle to try and stop the Labour Welsh Government retaining an equivalent board in Wales to protect Welsh farm workers—a move that has the support of the Farmers Union of Wales and people in Wales.
+
+Furthermore, as my right hon. Friend the Member for Torfaen (Paul Murphy), who has direct experience of these matters, said in a previous debate, when he was Secretary of State for Wales, disputes between the devolved Administrations and the United Kingdom Government were resolved at a governmental and political level and they should never get to the stage where they are resolved by the courts. He stressed that there is machinery within Government for resolving disputes between the devolved Administrations and their Parliaments and the UK Government.
+
+15:45:00
+
+The third referral was of the Recovery of Medical Costs for Asbestos Diseases (Wales) Bill by the Counsel General. The Bill was introduced by a Back-Bench Assembly Member and passed by the National Assembly in November 2013, and again, we are still awaiting the outcome of that referral.
+
+If we moved to a reserved powers model of devolution for Wales, that would help address any such issues in the future and afford the Assembly the respect it and the Welsh people deserve. That is why we are anxious to see the new clause included in the Bill.
+
+Hywel Williams
+With all due respect to right hon. and hon. Members who have spoken today, I would like to begin with a quote that, for me, exceeds anything that has been heard today for eloquence:
+
+“The will of the people is the only legitimate foundation of any government, and to protect its free expression should be our first object.”
+
+I quote that in support of our new clause 3, which stands in the name of my hon. Friend the Member for Carmarthen East and Dinefwr (Jonathan Edwards) and my right hon. Friend the Member for Dwyfor Meirionnydd (Mr Llwyd). The quote comes from Thomas Jefferson, third President of the United States, primary author of the declaration of independence and, as I am sure the Western Mail would remind us, one of 16 of the 56 signatories to the declaration who were of Welsh extraction. Jefferson’s argument is that the validity of any Government is bound up with their purpose of representing the will of the people. That could also claim to be the primary motive behind our new clause 3.
+
+In Committee, we in Plaid Cymru tabled amendments, as my hon. Friend the Member for Carmarthen East and Dinefwr said earlier, that would grant further powers to the National Assembly, including the power for it to decide on the number of Assembly Members, change its name should it wish to do so, and make amendments to secure further financial powers. We were disappointed that more Members from other parties did not support those amendments, but this new clause encompasses them all.
+
+We believe that decisions of this nature are better made when elected representatives have the backing of the people, and the most straightforward means of determining the will of the people on any particular subject is, of course, a referendum. New clause 3 would therefore give the National Assembly the power to hold  binding referendums on issues already in its competence, and on questions relating to further transfers of constitutional or financial powers, such as those that have been proposed in respect of changes to income tax.
+
+The National Assembly could ask the people of Wales questions such as how many Assembly Members they believe should sit in the Assembly, what the voting system should be, and whether new fields should be devolved if we do not get to the reserved powers model. That would give our people a clearer say in the Assembly’s decision-making process.
+
+The Wales Bill allows for a referendum on the question of transferring to the Welsh Government power over 10% of income tax receipts, but the notion that there should be a new Bill in this place each time a referendum is needed on a reserved matter is convoluted, to say the least, and convoluted is not good: witness the wretched legislative competence order process. Plaid Cymru is not in favour of holding a referendum for the sake of it. For example, the transfer of minor taxes to Wales—as recommended by the Silk commission—without recourse to a referendum has set a precedent. We have argued that the planned referendum on income tax powers is not necessary, but circumstances will certainly arise in the future when holding a referendum will be the proper and practical way forward.
+
+Unlike in other countries with written, codified constitutions, the transfer of such a power to Wales would require no official constitutional change; it could be done by an Order in Council. A recent precedent for that was signed into being by the Edinburgh agreement in 2012:
+
+“The United Kingdom Government and the Scottish Government have agreed to work together to ensure that a referendum on Scottish independence can take place…the referendum should: have a clear legal base, be legislated for by the Scottish Parliament, be conducted so as to command the confidence of parliaments, governments and people, deliver a fair test and a decisive expression of the views of people in Scotland and a result that everyone will respect”—
+
+an excellent set of principles. The agreement goes on:
+
+“The governments have agreed to promote an Order in Council under Section 30 of the Scotland Act 1998 in the United Kingdom and Scottish Parliaments to allow a single-question referendum on Scottish independence to be held before the end of 2014.”
+
+There we have the basis for a referendum for Scotland and, I would argue, the basis for a power of referendum for the Assembly. That Scottish agreement is valid for that one referendum, and no other referendum can be held under those specific terms unless they are renewed. Our new clause, however, would confer a continuing power to the Assembly.
+
+According to a recent study published by the Political Studies Association, there have been 49 independence referendums worldwide, both official and unofficial, with an average turnout of 79%—far higher than the average turnout in UK general elections over past years. I point out that in democratic countries after 1945, the average yes vote in such referendums has been 62%. Not all those referendums have been recognised by national or state Governments; for example, in 1946 the Danish Government refused to recognise the result of an independence referendum in the Faroe Islands. After negotiation, however, the islands were granted what we would now call devo-max: all powers except foreign affairs and defence were devolved.
+
+The independence referendum due to be held in Catalonia on 9 November this year is highly likely to produce a yes vote. I suspect, however, that it will be ignored by the Spanish Government on their current form, as that has been Madrid’s response to the rolling programme of non-binding local community referendums on that subject, which have been held in hundreds of towns and villages across Catalonia from September 2009, and in which a large majority voted for independence. Madrid has ignored those developments to its cost: witness the enormous pro-independence demonstration by 1.5 million people out of a population of 7.5 million in Barcelona in September 2012. That was a huge show of public opinion, interest and support—we are talking about 20% of the entire population—and it perhaps would not have been quite so huge but for Madrid’s intransigence. That is why the Edinburgh agreement is so significant, and why I believe that, precedents having been set, Wales should have that same power. My discussions with Catalonian friends, and the attitude of the Spanish Government, bear out the superiority of the situation in the UK and the Edinburgh agreement. At least it is clear, and all sides are to be congratulated on that.
+
+Guto Bebb (Aberconwy) (Con)
+I am slightly confused about the argument. As the hon. Gentleman rightly points out, the situation in Madrid is one of Madrid refusing to recognise the right of the Catalonian Government to hold a referendum. The situation in Edinburgh is of an agreement between the UK and Scottish Governments, which showed that the two Governments could work positively together. The argument in favour of the new clause seems to be based on the failure of another Government in another country.
+
+Hywel Williams
+My remarks, which will appear in print tomorrow, will repay close reading, as that was precisely the argument I made. The position in Catalonia and the rest of Spain is far inferior to that in the UK, and I am pointing out the superiority of that Edinburgh agreement as the basis of my arguments for a legally binding system of referendums to be established for Wales.
+
+In the UK, the important referendums and constitutional changes have occurred over the last 10 to 20 years, including the devolution referendum in 1979, the one in 1997, and the more recent referendum on our electoral system. In 2011, the people of Wales were asked in a referendum whether they wanted the Welsh Assembly to be given full and primary law-making powers; 63.5% of those polled voted yes. That stood in stark contrast to the results of earlier referendums that right hon. and hon. Members will remember. In 1979, for example, 79.7% voted against devolution; in 1999, there was a narrow majority of 50.3%, secured on a small turnout of 50.1%. That is how it was, but since then, I would argue that the people of Wales have grown to favour devolution, as have some right hon. and hon. Members in this place. The Assembly has grown in confidence, and as it gains further powers, it should surely have the power to ask the people of Wales what they think. That would be in the interest of legitimacy and accountability.
+
+I referred to the Edinburgh agreement, and I suggest that a similar agreement in Wales should be called not “the Cardiff agreement” but “the Celyn clause”. This refers  to Capel Celyn, which, Members will recall, was the village drowned in 1965 against the express wishes of elected and representative bodies throughout Wales—and, I understand, the wishes of every Welsh MP bar one. That was a transformational event in Welsh politics, and we have seen the effect of it over many decades. That effect is clear and provides a firm reminder of what can happen when the will of the people is so resolutely ignored. That is why we tabled new clause 3, giving the Assembly the right to hold legally binding referendums. I certainly commend it, but I assume that the matter will be discussed, possibly in greater detail, at some point in the future.
+
+Let me make a few brief points about new clause 4. My Plaid Cymru colleagues and I have supported the reserved powers model for the National Assembly for a very long time. We are glad to see the Damascene conversion of the Labour Front-Bench team—better late than never! We certainly believe that this is the next step for our country; it would certainly clear up much of the confusion, not least in the minds of the public and others, as to the split of powers between the National Assembly and Westminster. I say to the Welsh public and others that I too often see people from the media refer to Assembly matters as if they were Westminster responsibilities, and vice-versa.
+
+We in Plaid Cymru were, as I mentioned, against the LCO—legislative competence order—model, which so blighted the lives of those on the Welsh Affairs Committee and held up the pragmatic and practical transfer of the most innocuous of powers to the Welsh Government, as well as some rather more controversial powers. We wanted the boldest arrangements, but that was not forthcoming under the Government of Wales Act 2006—until the referendum. Circumstances have changed again, and the need for a move to a reserved powers model is even more pressing than before.
+
+No one in this place or in the Assembly can be sanguine, given a recent survey showing how far we have failed as politicians to inform our constituents of the reality of the split in power. As I said, the media are far from blameless. Having said all that, it is disappointing that in the second part of their new clause 4, the hon. Members for Pontypridd (Owen Smith) and for Llanelli (Nia Griffith) have chosen to predicate any developments in relation to this matter on delaying the minor taxes. I must therefore view the new clause, I am afraid, as a delaying tactic at best, and as aimed at wrecking this part of the Bill at worst.
+
+Wayne David
+I support granting and extending borrowing powers to the Welsh Government. It is important that the Welsh Assembly has at least some facility to borrow what it deems necessary, as local government does. I also share the concerns expressed about the possibility of eventual tax competition, and I deeply regret that the Government have proposed no modification of the Barnett formula to address the shortfall in what Wales receives.
+
+It also causes me concern that the Government do not appear to accept the need to address what we consider to be a fundamental shortcoming in the current devolution settlement. I believe that we need to move from a conferred powers to a reserved powers model,  which would allow the Welsh Government to make law in any area unless it was clearly stated that they were unable to do so. That is why I support new clause 4.
+
+16:00:00
+
+I should make it clear that I am not one of those people who believe that a transformation of the model would solve all the problems of devolution. Devolution inevitably throws up issues that our constitutional arrangements in this country have not confronted in the past, and there will be new challenges to meet. Nevertheless, I think that if we made that fairly significant change, the problems would be fewer and far easier to get to grips with.
+
+Members have heard me refer in the past to the difficulties experienced in Scotland in connection with what is known as the Antarctica issue. When Antarctica was not mentioned in the list of reserved powers, it was assumed that Scotland had devolved powers in relation to it. That was not the intention, and it was not what the Scottish Parliament wanted. However, the issue was resolved, although there have been other problems as well. Those difficulties do not alter my belief that there is a strong, objective and balanced argument in favour of a move to the reserved powers model. As we know from debates held in Wales and in the House of Commons, that was one of the key recommendations of the Richard commission, and was also mentioned by the Silk commission.
+
+For me, there are three fundamentally important arguments in favour of the shift. First, it would undoubtedly clarify the current devolution settlement and make it more understandable. I have read a number of academic papers that support that contention. The Hywel Dda Institute at Swansea university has argued strongly that it would make the settlement “conceptually simpler” . I agree. As the institute says, it would deal with many of the so-called “jagged edges”.
+
+Housing is an example of that. Schedule 7 of the Government of Wales Act 2006 lists housing as being eligible for legislation by the Welsh Government, but there is a complication. It lists a number of exceptions: for instance, it excludes
+
+“Coal, including mining and subsidence”.
+
+As we know, subsidence plagues the south Wales valleys, and there is inevitably a relationship between it and the plight of many houses in valley communities. That prompts the question: is housing that is affected by subsidence within the scope of potential legislation? The answer is yes, but a strict reading of the 2006 Act as it stands does not make that very clear, because of the different ways in which the various exceptions are listed. I believe that a reserved powers model would make such instances much more intelligible, and much less fraught with difficulties of, in particular, a legal nature.
+
+Mr Mark Williams
+Some parts of the Act contain even more obvious problems. No doubt the hon. Gentleman will be as alarmed as I was to read in the Western Mail about a survey that suggested that 40% of people thought that the national health service in Wales was directly administered from this place. There is an issue about the clarity of our democracy and our systems, even when it comes to core issues such as that.
+
+Wayne David
+That is a fair point, and I will touch on it a little later. We have asymmetrical devolution in the United Kingdom; we have different forms of devolution in different parts of the UK. While there are good reasons for that, it does not help the general public’s understanding of what is devolved and what is not devolved. If we had greater consistency in the bedrock of devolution between Northern Ireland, Scotland and Wales, that would help that public understanding. Some may say that strictly speaking the Northern Ireland settlement is not quite akin to the Scottish settlement, but nevertheless in effect we have a reserved powers model in place and it would be advantageous if Wales were to follow their examples.
+
+As Members, and in particular my hon. Friend the Member for Llanelli (Nia Griffith), have said, there has been an unfortunate conflict between central Government and the Welsh Government through the Supreme Court. There have been three referrals of legislation to the Supreme Court. We have heard about the then Local Government Byelaws (Wales) Bill, which the Government here in London questioned. They asked for the Supreme Court to make an adjudication, and the position of the Welsh Government was upheld, but we must consider the amount of time and effort that went into questioning such a relatively small measure and whether that meant there was better government.
+
+I feel I must quote the Counsel General for Wales, Theodore Huckle QC, who has said that
+
+“it took five Supreme Court Justices…several of the UK’s leading constitutional lawyers and a great many officials across three Governments to decide it was lawful to make minor changes to the way Welsh local councils deal with things like dog-fouling and loitering in public lavatories.”
+
+That raises this question: what sense is there in that? How on earth can that be defended as good government? It cannot be.
+
+Stephen Crabb
+I genuinely wonder whether the hon. Gentleman is suffering from amnesia, as he was a part of a Government who created that exact system. If he does not think the Supreme Court is the relevant mechanism for resolving disputes between two Governments over legislative competence, then what is, under the reserved model he supports?
+
+Wayne David
+I just think it is very important to learn. I know that is anathema to the current Government, but if we recognise that devolution is a developing process, it is vital that we learn and make things better and, when things are clearly not as they should be, make improvements. That is a good way to approach government.
+
+Paul Murphy
+I remind my hon. Friend and the House that there are highly developed mechanisms in these islands to resolve disputes of any nature through the Joint Ministerial Committee, or simply between ministerial committees, without having to go to courts of law. There are better means of proceeding, and we should use them rather than go to the Supreme Court.
+
+Wayne David
+My right hon. Friend makes an extremely good point. He has tremendous experience in these matters—far greater than I have—and I would certainly bear out what he has said. A common sense way to approach disputes between different legislatures in the  United Kingdom is to sit down and talk, and use the established structures, and not resort to expensive, time-consuming legal processes that are very obtuse to most people. That is one lesson to be learned.
+
+We must also learn the lesson that we need a different model. We need a reserved powers model to form the bedrock of our developing devolution settlement in the United Kingdom.
+
+Guto Bebb
+I have listened carefully to the hon. Gentleman’s comments, and to those of the right hon. Member for Torfaen (Paul Murphy) and the hon. Member for Llanelli (Nia Griffith), who is on the Opposition Front Bench. If the Labour proposal is to move to a reserved powers model, which is clearly the case judging from the arguments presented today, do Opposition Members believe that the report they envisage should look at the consequences for the largest part of the United Kingdom, which is England, because not once has any Opposition Member talked about any potential impact on the English electorate?
+
+Wayne David
+I have no qualms at all about talking about England, because we are a United Kingdom, but if I deviated from my notes and spoke at length about England, you would take me to task pretty quickly Madam Deputy Speaker.
+
+It is important to recognise that the Local Government Byelaws (Wales) Act was not a one-off. We have seen an attempt—perhaps most significantly, politically—to prevent the Welsh Government from carrying through their legislative plans for the agriculture sector. That is a far more emotive issue, particularly for workers who are directly affected by this Bill—or, as may happen, the lack of it. However, that reinforces the constitutional point that the current situation is unsatisfactory, facing as we do ongoing legal challenges on the basis of politics, rather than, as my right hon. Friend the Member for Torfaen (Paul Murphy) said, Members sitting down together where there is a genuine dispute between the two legislatures and working things out.
+
+The conclusion I come to is that we need a system that transcends party politics: a constitutional arrangement that is seen to be fair to everybody, and that respects the integrity of the United Kingdom but also the development of devolution in Wales; a settlement based on a reserved powers model that is far more intelligible to people in Wales, and that will help them to understand far more easily the basis of our devolution arrangements in Wales and the United Kingdom as a whole.
+
+Stephen Crabb
+The hon. Member for Carmarthen East and Dinefwr (Jonathan Edwards) said that the purpose of amendment 8 is to ensure that the Welsh Government can use their new borrowing powers to invest in projects that they, rather than Her Majesty’s Treasury, want to take forward. I should point out that the Bill already provides Welsh Ministers with complete flexibility to decide how to use their borrowing powers, in much the same way that they have complete flexibility regarding their resource and capital budgets. I wonder whether the hon. Gentleman was confusing the requirements for the early borrowing powers with the wider borrowing powers the Bill sets out. Regarding the former, he is right that there is a specific agreement between the  Welsh Government in Cardiff and the UK Government—specifically the Treasury—to facilitate early movement on a strategic project of importance to the Welsh nation and economy: namely, the M4 upgrade. So, rather than it being a project imposed from above by the UK, it is very much demand-led from within Wales.
+
+Jonathan Edwards
+The Bill as I read it states that the Treasury has the final say on what the Welsh Government will be able to use those borrowing powers for, and the UK Government have made it crystal clear that their priority is the M4 relief road.
+
+Stephen Crabb
+There is a line in the Bill that refers to Welsh Ministers being able to borrow with the approval of the Treasury. That merely refers to the overall borrowing limit, which the Treasury will agree with the Welsh Government. It is not about the Treasury signing off on individual projects. We want to give the maximum possible freedom to Welsh Ministers to use their borrowing powers to decide on exactly the infrastructure projects they want to take forward. I am very happy to continue this discussion with the hon. Gentleman another time, but that is the situation.
+
+On new clause 2, the Welsh Government already have the power to provide guarantees in relation to their devolved responsibilities. Section 70 of the Government of Wales Act 2006 states that
+
+“Welsh Ministers may give financial assistance (whether by way of grant, loan or guarantee) to any person engaged in any activity which the Welsh Ministers consider will secure, or help to secure, the attainment of any objective which they aim to attain in the exercise of any of their functions.”
+
+So there are no handcuffs or binds on Welsh Ministers. For example, they already have the powers to support the Circuit of Wales with a guarantee, should they choose to do so. Conversely, the UK Government would not be able to provide a guarantee under the terms of the Infrastructure (Financial Assistance) Act 2012 as the Circuit of Wales project does not meet the infrastructure criteria set out in the legislation.
+
+Furthermore, it is the size of the UK Exchequer that enables the UK Government to guarantee substantial infrastructure projects, such the Wylfa Newydd nuclear plant that has been guaranteed with Hitachi. Wales, therefore, benefits from UK Government guarantees in relation to energy and other infrastructure, while the Welsh Government can decide how to provide financial support to help deliver their own devolved responsibilities.
+
+16:15:00
+
+The hon. Member for Carmarthen East and Dinefwr also made the point that he did not believe that there were any current Welsh infrastructure projects that were at the prequalification stage for an infrastructure guarantee. The information that I have received from the Treasury is that there are indeed projects based in Wales. They are at the prequalification stage for an infrastructure guarantee, but the project sponsors have chosen not to reveal their identities for commercial and other good reasons. The Wales Office is keen to promote the infrastructure guarantee programme. My right hon. Friend the Secretary of State for Wales held a successful event in north Wales, promoting the programme to the  business community. I, through the Wales Office infrastructure working group and alongside Treasury officials, have been promoting it to other businesses in Wales. We want to see more Welsh projects come forward and benefit from the infrastructure guarantee scheme.
+
+Jonathan Edwards
+I can base my position only on the list of prequalified projects, which was last updated by the Government on 16 June. I have a list here of a page and a bit, which has not a single Welsh project on it.
+
+Stephen Crabb
+All I can do is reiterate the information that I have received from the Treasury that there are indeed Welsh projects at the prequalification stage. We are currently talking about infrastructure guarantees to Welsh businesses and other companies that want to invest in Wales. I will happily write to the hon. Gentleman with further information to clarify the situation. On that note, I hope that Members agree that the existing arrangements and the Bill before us are therefore optimal and will withdraw amendment 8 and new clause 2.
+
+I turn now to new clause 3, which would allow the transfer of responsibility for referendums to the National Assembly for Wales. I am afraid that with this new clause, we once again find Plaid Cymru trying to shoehorn far-reaching and fundamental changes to the wider devolution settlement for Wales into this specific Bill, which takes forward the recommendations of part 1 of the Silk commission.
+
+Referendums, such as the one this Bill provides for, are intended to allow the electorate to decide on key constitutional issues. Competence for the conduct of referendums, except in very exceptional circumstances, such as those around the Scottish independence referendum, rests at a UK level. I have seen no evidence yet to suggest that there should be any change to the existing devolution settlement.
+
+It is also worth noting that the Silk commission made no recommendations about that issue when it examined the devolution settlement in its second report. Furthermore, there have been no calls from the Welsh Government or the Assembly for this competence to be transferred.
+
+This Bill is focused on delivering new fiscal powers to Wales that were recommended by the Silk commission in its first report, and new clause 3 forms no part of that. I therefore ask Opposition Members to withdraw this amendment as well.
+
+Finally, I turn to new clause 4, which bares a striking resemblance to an amendment tabled by Opposition Members in Committee. The new clause seeks to postpone the commencement of part 2 of the Bill, apart from the referendum provisions and clauses 19 and 20 in relation to borrowing powers, until the Secretary of State has laid a report before both Houses of Parliament setting out the steps needed to move to a reserved powers model of devolution. That report would need to be laid within nine months of the Bill’s enactment, generously giving the Government three months longer than the Opposition permitted in their Committee stage amendment.
+
+With these new clauses, Labour Members once again seek to connect directly the commencement of the parts of the Bill that will devolve tax-raising powers to the Assembly with one of the most far-reaching of the Silk commission’s part 2 recommendations. Other hon. Members  have described that as a delaying tactic; some have even described it this afternoon as a wrecking tactic. It reveals yet again the Welsh Labour party’s opposition to the proposals in the first Silk commission report to devolve income tax powers to Wales. It is merely a smokescreen for Labour Members’ deep and widely held scepticism and suspicion—they have used those words this afternoon—and they fundamentally oppose fiscal devolution, which is the next important stage of devolution for Wales.
+
+As this Government have made clear on a number of occasions, a move to a reserved powers model would be a fundamental change to the devolution settlement in Wales. We have also made it clear, as did the Silk commission, that this should be a matter for party manifestos at the next election. Therefore, there is nothing to be gained by requiring the Government to report to Parliament on the legislative steps needed to move to a reserved powers model.
+
+Once again, the Labour party seems to be mired in confusion about its position in relation to the Silk commission’s recommendations in the part 1 and part 2 reports. As is typical of the Labour party, it wants borrowing powers, but it does not want the means to pay back the money borrowed. It does not want true accountability for the devolved Government in Wales; it just wants public spending on the never-never. Just such a reckless attitude by the Labour party got this country’s finances into such a mess in the last Parliament.
+
+This coalition Government have no intention of returning to that sorry state of affairs. We are committed to devolving the tax and borrowing powers in the Bill as soon as possible, so that the Welsh Government can become accountable for raising the money that they spend and for repaying the money that they borrow. I therefore invite Opposition Members to consider the full implications of new clause 4 and not to press it.
+
+Jonathan Edwards
+We have had an interesting debate on this group of new clauses and amendment 8, three of which Plaid Cymru tabled: first, to allow the Welsh Government to issue a guarantee to enable them to boost economic development; secondly, to release the handcuffs on borrowing powers to enable them to choose their own priorities—the borrowing capacity in the Bill will be more or less completely consumed by the M4 project that the Treasury favours; and, thirdly, to hold binding referendums based on the Edinburgh agreement.
+
+Labour tabled new clause 4. Obviously, as a party, we fully support the move to a reserved powers model for Wales. It is a pity that the Labour party decided to spoil the new clause with a second element, which is obviously a delaying tactic. The Welsh economy needs these powers now, rather than waiting for a report. It is obviously a wrecking new clause, typical of Labour’s attitude during progress on the Bill in all its various stages. Plaid Cymru is not a tribal party—we vote as we see fit—but we cannot support new clause 4 because of the wrecking element in its second part.
+
+With your permission, Madam Deputy Speaker, I intend to press amendment 8 to a vote at the appropriate time, but I will not press new clause 3 and ask leave to withdraw new clause 2.
+
+Clause, by leave, withdrawn.
+
+New Clause 4
+
+National Assembly for Wales: reserved powers
+
+‘(1) The Secretary of State will lay a report before each House of Parliament on the further legislative steps needed to move to a model of reserved powers for the National Assembly for Wales and shall lay the report before each House of Parliament within nine months of this Act receiving Royal Assent.
+
+(2) Part 2, except the referendum-related provisions and sections 19 and 20 shall not come into force until the report has been laid in accordance with subsection (1).”—(Nia Griffith.)
+
+Brought up, and read the First time.
+
+Question put, That the clause be read a Second time.
+
+Division 18
+24/06/2014 16:23:00
+The House divided:
+Ayes: 202
+Noes: 276
+Question accordingly negatived.
+
+Clause 2
+
+Removal of restriction on standing for election for both constituency and electoral region
+
+Nia Griffith
+I beg to move amendment 13, page 1, line 9, leave out clause 2.
+
+Madam Deputy Speaker (Dame Dawn Primarolo)
+With this it will be convenient to discuss the following:
+
+Amendment 14, in clause 28, page 30, line 19, at end insert “except section 2”.
+
+Amendment 15, in page 30, line 37, at end insert—
+
+‘(8) Part 1, section 2, comes into force when a Welsh Government Minister has laid a report before the National Assembly for Wales containing a statement to the effect that the Welsh Government, with regard to the electoral arrangements of  the National Assembly for Wales, is content with fairness of those arrangements.’.
+
+Government amendments 6 and 7.
+
+Nia Griffith
+Amendment 13 would remove a clause which would make it possible for people to stand both on the regional list and in the constituency. A bizarre argument is put forward in favour of dual candidacy—if dual candidacy is not allowed, the smaller parties in Wales may struggle to find sufficient candidates of any quality—but if such parties expect the electorate to take them seriously as parties that could help form a Government in Wales, they need to demonstrate that they can find enough additional candidates to field on each of the five regional lists.
+
+Could this problem of finding candidates be something to do with which parties we are talking about and what they believe in? Could it be that young people in Wales are not rushing to put themselves forward as Conservative candidates because they know that the Conservative party in Westminster abolished the education maintenance allowance, while the Labour Welsh Government have retained it, or because the Conservative Government here did away with Labour’s future jobs fund, whereas the Labour Welsh Government have launched a similar programme, Jobs Growth Wales, focusing on the private sector? There is also the issue of university tuition fees.
+
+Could it be that people are not coming forward as candidates for Plaid Cymru because they do not want an independent Wales, or because they do not want to support cutting tax for the better off, as Plaid Cymru’s economic adviser, Adam Price, has confirmed is its policy? People have realised that Plaid Cymru is not the progressive party it pretends to be, but a reactionary party.
+
+Perhaps people do not want to put themselves forward as Lib Dem candidates as they are somewhat confused. One minute we hear that the Lib Dems are in favour of a reserved powers model, yet we struggled to see any of them in the Lobby with us, supporting our amendment. I am not sure where they are now.
+
+People simply do not like to think that they have bothered to go out to vote, only to find that although their preferred candidate won, the candidate or candidates they rejected also got in. We all remember the Clwyd West scenario where the Labour candidate won the constituency—
+
+Pete Wishart (Perth and North Perthshire) (SNP)
+What advice has the hon. Lady had from her colleagues in Scotland on this issue, given that they are now almost totally dependent on the list for their membership in the Scottish Parliament and have reviewed their whole attitude towards dual candidacy? It is a democratic good, according to Scottish Labour.
+
+Nia Griffith
+I am not casting aspersions on any individual list candidates. We have two excellent Labour list Assembly Members in west Wales—Rebecca Evans, who champions disability issues, and Joyce Watson, who champions human trafficking issues. They are doing an excellent job, because they are focusing on topics, not sitting like some great cuckoo on one constituency out of eight and making that their sole focus of attention, ignoring what is happening in important aspects of the other seven constituencies that they represent.
+
+We have seen such abuse in Wales before. I am sure my right hon. Friend the Member for Neath (Mr Hain) will remind us again, as he has done many times, of the blatant abuse of the list system. He has quoted frequently from the leaked memorandum from Leanne Wood, the leader of Plaid Cymru, in which she gives explicit instructions to her party’s list Assembly Members to direct their time and resources, paid for by the taxpayer, to Plaid Cymru’s target seats.
+
+Some people say that putting into the 2006 Act the clause that prevents an individual from standing for both the constituency and the list was a partisan move by the Labour Government, but we knew full well that it would also prevent our candidates from standing for both. We had at least four sitting constituency AMs who we knew were likely to be vulnerable to electoral change in the 2007 Assembly election and who could have hedged their bets by standing for both. That might have been very cosy for them, but as a matter of principle we knew how much the electorate hated it. On the doorsteps we heard people ask, “What difference will it make if we go out and vote?” It was extremely difficult to convince people after the Clwyd West scenario, because whoever the constituents voted for, all four parties were elected.
+
+It was extremely important to us to stand by our principle, rather than making some sort of cosy situation for our AMs. In fact, I would go so far as to say that in some circumstances, depending on the specific arithmetic for the region, a candidate who could stand for both the constituency and the list could be pretty much guaranteed to be elected on one or other of them. That could breed a certain complacency, which would not serve the electorate well at all. We take issue with the accusation that this is a partisan point, because it is a point of principle. We strongly oppose clause 2, which seeks to turn the clocks back and allow dual candidacy. Our amendment therefore seeks to remove that clause from the Bill.
+
+Our view is that the Assembly’s electoral arrangements should be decided in Wales, so we have also tabled an amendment proposing that an order should be laid in the Assembly by the Welsh Government before any change on dual candidacy can be implemented. I hope that Members will vote for our amendments.
+
+Mr Peter Hain (Neath) (Lab)
+I, too, wish to speak in favour of amendment 13 and against clause 2 remaining in the Bill. The Secretary of State and other Members who have taken part in our proceedings on the Bill might recognise some of my comments from my single transferable vote speech on dual candidature, because I remain firmly opposed to that abuse of democracy. However, I will be brief, because my favourite premiership player, Frank Lampard, is captaining England at 5 o’clock, and I know that even Members from Welsh constituencies, with the possible exception of our Plaid Cymru friends, will want to cheer them on in their final game.
+
+I repeat my basic argument, which I have expressed throughout the Bill’s proceedings, and the rationale for my ban on dual candidature in the 2006 Act: it cannot be right for losers to become winners through the back door, despite having been rejected by the voters. That is an abuse of democracy. People who stand for a single-Member seat and then lose can end up being elected  anyway, in defiance of the electorate’s wishes, because at the same time they are in a list category, and that is an abuse of democracy. There is no real argument against losers becoming winners in that way.
+
+There was a widespread abuse practised by 15 of the 20 list AMs prior to the 2006 ban. They used taxpayers’ money to open constituency offices in the very single-Member seats in which they were defeated. They then targeted those seats at the following election by cherry-picking local issues against the constituency AMs who had beaten them. Why are they so afraid of taking their choice to the people, and why are the Government so afraid of democracy? Why are they so afraid of losing constituency elections that they need the lifebelt of standing for the lists as well? That is what the leader of Plaid Cymru, Leanne Wood, for whom I have considerable admiration despite all that, is doing in Rhondda. In a leaked memorandum written in August 2003, she was refreshingly honest about promoting abuse of the dual candidature system by list Members using taxpayers’ money.
+
+16:45:00
+
+With the 2006 Act ban having been removed by the Government, there is nothing to stop such abuse being practised again. I suspect that Leanne Wood may need to reissue her guidance. Perhaps she could pass it round to all the political parties in Wales so that Labour, the Conservatives, the Lib Dems and the UK Independence party can exploit the system together instead of leaving it to Plaid Cymru. Indeed, perhaps the Secretary of State could issue the document from the Wales Office so that it has the official approval he presumably wants in changing the law as he now intends, despite the strength of the arguments against it, because it is really a bible for the dual candidature that he and the Government are so enthusiastically preaching and want to restore following the 2006 ban in the wake of these serial abuses. I remind him, and the House, of just how valuable that guide could be for all the political parties. If the political system is to be brought into disrepute by the restoration of dual candidature and the ending of the ban following the serial abuses, why cannot all parties take part and make sure that the decline in respect of Assembly elections is endemic in the system, given that that is what he is encouraging?
+
+Leanne Wood urged Plaid Cymru list Assembly Members to concentrate tens of thousands of pounds of their local office budgets, paid for by taxpayers, on their party’s target seats. She urged them to do casework only where it might benefit Plaid Cymru in those target seats, and to attend civic and other events in the constituency only if they thought that there were votes in it.
+
+There has been a deafening silence from Ministers about this bible for dual candidature, so I will repeat its essential contents in case they have not memorised my two previous speeches on the subject. Leanne Wood’s memorandum, “What should be the role of a Regional AM?”, perfectly illustrates the problem that we faced before the 2006 Act banned dual candidature in Wales. She should be praised for her honesty—indeed, her transparency. She wrote:
+
+“Each regional AM has an office budget and a staff budget of some considerable size. Consideration should be given to the location of their office—where would it be best for the region? Are there any target seats...within the region?”
+
+She meant, of course, single Member target seats.
+
+Pete Wishart
+I am genuinely interested in the right hon. Gentleman’s view on this issue. What advice does he have for Scottish Labour, which has just done a total U-turn on dual candidacy and is now allowing the practice to go on? Will he disparage Scottish Labour as much as he seems to be disparaging Plaid Cymru for carrying out this appalling act?
+
+Mr Hain
+rose—
+
+Madam Deputy Speaker (Dame Dawn Primarolo)
+Order. Before you answer, Mr Hain, let me make it absolutely clear that we are talking about dual candidacy in Wales, as I think you probably appreciate. This is a tightly drawn debate and that is the subject of the amendment.
+
+Mr Hain
+I am grateful for your guidance, Madam Deputy Speaker, which directly answers the hon. Gentleman’s point. I am speaking about Wales. I am not aware of serial abuses of the kind practised in Wales prior to the 2006 ban occurring in Scotland. Indeed, I think that the codes that apply in Scotland may be different. I note that the then Presiding Officer of the Scottish Parliament, Lord Steel, attacked dual candidature in terms very similar to mine.
+
+Leanne Wood’s bible for dual candidature went on:
+
+“We need to be thinking much more creatively as to how we better use staff budgets for furthering the aims of the party.”
+
+She finished with a refreshing burst of honesty that, in an era of political spin, can only be commended:
+
+“Regional AMs are in a unique position. They are paid to work full-time in politics and have considerable budgets at their disposal. They need not be constrained by constituency casework and events, and can be more choosy about their engagements, only attending events which further the party’s cause. This can be achieved by following one simple golden rule: On receipt of every invitation, ask ‘How can my attendance at this event further the aims of Plaid Cymru?’ If the answer is ‘very little’ or ‘not at all’, then a pro forma letter of decline should be in order.”
+
+All the arguments and evidence I have cited in the past few minutes, in Committee and on Second Reading, demonstrate that the 2006 ban was not partisan but instead enhanced the democratic standards of all Welsh Assembly Members.
+
+Indeed, I reminded the House at the time of the ban that six Labour Assembly Members, including three Ministers, would be defeated in the 2007 Assembly elections by a very small swing of 3% against them. They would not have the lifebelt of dual candidature, which I had removed; they would no longer enjoy the safety net of the regional list. Two of them subsequently did lose, as I said could happen. The reform affected Labour candidates and candidates of other parties alike, a point that my hon. Friend the Member for Llanelli (Nia Griffith) made so eloquently.
+
+In conclusion, the Government have now officially blessed this practice—presumably, they will marshal the votes shortly to try to defeat our amendment—and it appears that they are, sadly, doing so with the blessing of the Electoral Commission. I therefore look forward to Labour being welcomed into the fold of running dual candidates again. After all, why should we lose out while everybody else takes advantage? Never mind the voters, let us put our own self-interest as political parties first. I trust that the Government will be proud of  bringing politicians in Wales into even greater disrepute than the political class right across the United Kingdom. Tellingly, the Electoral Commission is endorsing that disrepute and the Secretary of State is now smiling in anticipation of that happening. That is the consequence of his reversal of this ban; he is opening the door again to the serial abuses which have been documented and proved beyond doubt. He is going to invite that very abuse of democracy in Wales by removing the ban and installing clause 2, which is the reason for supporting amendment 13.
+
+Mrs Siân C. James (Swansea East) (Lab)
+I wish to speak briefly in support of amendment 13 and against the removal of clause 2. I oppose dual candidacy simply because if a candidate is not elected by a constituency under the first-past-the-post system, it cannot be right for them to be elected under the list system. If the electorate have rejected someone once as their first-choice candidate, it is not acceptable for them to have the opportunity to re-enter the game through the back door. In mainstream society people get one chance at a job; if they are not successful at an interview, they have to accept the decision and they do not go back squealing to the prospective employers saying, “Can we change the rules now? Can I possibly be appointed under different criteria or under a different set of interview processes?” Things should be no different for politicians. There should be no swapping or alternatives; it should be the same for everybody.
+
+Let us examine the attitudes towards dual candidacy. We have heard a lot of pooh-poohing of the Bevan Foundation’s inquiry and report, but my constituency took part in that inquiry and I did not see any party members participating; those who participated all came from local community groups and pensioners groups, were not affiliated to any particular party and were not aligned to any political point of view. Some of them were sceptical about devolution and the political process, whereas others were very supportive of it. Those who participated sent a clear message saying, “We are really concerned about the way politicians are behaving on the dual list system and about what is happening.”
+
+The report found that more respondents said that
+
+“dual candidacy was unfair compared with those who felt candidates should be free to stand in both.”
+
+Someone who was interviewed said:
+
+“I think it is unfair…It’s like people can sneak in the back door.”
+
+Another said:
+
+“It seems unfair in a way, surely if they weren’t popular enough they shouldn’t be able to get in.”
+
+There has also been international criticism of the dual candidacy idea. Moves have been made to improve things in New Zealand and in Canada, and Canadian research states:
+
+“Voters are displeased with the case where a candidate is not successful in a single member constituency, but is elected anyway by virtue of being placed on the top of a party’s list.”
+
+In further support of my argument, I give the example of the unfairness—this has already been mentioned by colleagues—in the Clwyd West constituency. It puzzles most people in Wales that it was possible for all four candidates on the first-past-the post list to end up being elected. When I got into politics, a very wise old bird  told me, “Siân, don’t get into politics if you’re not prepared to lose, because there’s only one winner.” We have totally turned that on its head with devolution and now anyone can be a winner, as long as they are at the top of their party’s list. I think the public find that difficult to understand and they are puzzled by it.
+
+Mr Harper
+We debated this issue at length in Committee. What the hon. Lady is really doing is criticising a closed-list system whereby voters can vote only for parties and have no choice of candidates. She is not really offering a critique of the Bill’s proposals. If she does not like that system, she should remind herself that it was her party that put it in place.
+
+Mrs James
+I thank the hon. Gentleman for his intervention, but it is not true that I am opposed to the list system. I think it is excellent and that it gives an opportunity to all parties. It is fair and gives a voice to parties that may not otherwise have had a voice in the Assembly. What I oppose is placing candidates at the top of the list so that if they lose in one system they have the chance to win in another. I am not criticising the system; all I am saying is that dual candidacy is not acceptable.
+
+For an individual who is already standing as a candidate on a constituency list to have an opportunity for a second bite of the cherry is political carpetbagging—that’s all it is, pure and simple—and therefore unacceptable.
+
+Bob Stewart (Beckenham) (Con)
+Does that mean that the hon. Lady is in favour of a complete list system or an individual candidacy system? What she really seems to be against is mixing them up, so which of them does she support?
+
+Mrs James
+I support having both first-past-the-post and regional Assembly Members. They add a great deal to the Assembly and, as I have already said, the system is fairer and proves that people who stand for smaller parties get a voice. That cannot be opposed, but I am opposed to people standing on both lists.
+
+Jonathan Edwards
+Will the hon. Lady give way?
+
+Mrs James
+I want to finish, because I promised to be brief and I want to keep my speech tight.
+
+It is no wonder that the public see us politicians as a bit devious and above and beyond the basic rules, because we always apply rules that suit us. That is what the public see this as, purely and simply: politicians having a second bite of the cherry when they do not. I ask the Secretary of State to reconsider the amendment and to consider our proposals seriously.
+
+Mr David Jones
+With your permission, Madam Deputy Speaker, I will first address the Government amendments in this group. The Bill provides for a referendum to be triggered by the Assembly on whether a portion of income tax should be devolved. If the Assembly triggers that referendum, as I very much hope it will, it will be the third referendum on devolution to take place in the past two decades. It is vital that we as a Government learn lessons from the previous referendums, particularly  the referendum on law-making powers that took place in 2011, to ensure that the framework for holding an income tax referendum is as robust as possible.
+
+Hon. Members will recall a key issue in 2011 that led some to question the system that was then in place, namely that, because no credible organisation applied to the Electoral Commission to become the designated no campaign, no yes campaign could be designated either. Any future referendum on the devolution of a portion of income tax would pose a crucial question to the electorate in Wales that would affect generations to come, so it is highly important that the credibility of that poll should not be questioned in any way.
+
+Amendment 6 therefore provides more flexibility in the designation process so that, should the Government of the time wish to, they could, by Order in Council, enable the Electoral Commission to designate an organisation under the Political Parties, Elections and Referendums Act 2000 for only one possible outcome of the referendum rather than only both. That will ensure that where a credible organisation seeks designation for one outcome, it can be designated even if no credible application for designation for the other outcome is made. We would of course want credible campaigns for both outcomes in a future referendum so that a full and vibrant debate about the issues could take place, but amendment 6 will help to ensure that there is no repeat of the situation that arose in 2011, when no organisation was designated for either outcome.
+
+17:00:00
+
+Amendment 7 makes further provision for when an organisation is designated for only one outcome or no organisation is designated for either outcome. Under the amendment, an Order in Council can allow the Electoral Commission to take action to promote public awareness of the referendum in Wales, including about the referendum itself, the question on the ballot paper and the importance of voting in the referendum. It will enable the Order in Council to require the chief counting officer to take action to encourage participation in the referendum and, to give full effect to that, the chief counting officer can give directions to local counting officers in Wales about how they should encourage voting in the referendum in their locality. That will ensure that if an organisation were designated for only one outcome or if no organisation were designated for either outcome, the Electoral Commission could take action to ensure that the electorate in Wales were adequately informed about the important issue on which they were asked to decide.
+
+Taken together, amendments 6 and 7 provide for flexibility in the powers to make an Order in Council for the conduct of a future income tax referendum to enable the Government to ensure that such a referendum is conducted using as robust a process as possible. The Government have consulted the Electoral Commission in preparing them. The amendments show that we have learned from previous referendums, and I ask hon. Members to support them.
+
+Turning to the Opposition amendments, amendment 13 seeks to remove clause 2 from the Bill and to continue to prohibit candidates from standing in both a constituency and a region in an Assembly election, while amendments 14 and 15 seek to delay the commencement of the provision. Once again, it is disappointing but not at all surprising  that the Labour party continues to plough its lonely furrow in opposing clause 2. Indeed, this is very much groundhog day. I must pay tribute to the hon. Member for Llanelli (Nia Griffith) and the right hon. Member for Neath (Mr Hain) for their persistence in putting their heads above the parapet to be shot at again.
+
+Hon. Members will no doubt know that this issue was debated at great length in a Committee of the whole House, which then voted by 265 votes to 191 that clause 2 stand part of the Bill. Rather than seek to debate aspects of the Bill that might have a real impact on the prosperity of businesses and individuals in Wales, the Labour party is focusing on a partisan electoral issue of appeal only to Labour party members. That is underlined by the extraordinary arrogance of amendments 14 and 15, which, if clause 2 remains part of the Bill, would provide for the Labour Welsh Government in Cardiff to decide whether the dual candidacy provisions come into force. Interestingly, the amendments would not even allow the Assembly to have a vote on the decision. Clearly, the Labour party is not even bothering to hide the partisan agenda that it is pursuing.
+
+To repeat—this is very much a repetition, because it has previously been aired at great length—Wales is the only country in the world where dual candidacy is banned under this type of electoral system. As was discussed at great length in debates on Second Reading and in Committee, when the Labour party introduced the ban in 2006, it did not make the same provisions for elections to the Scottish Parliament or the London Assembly.
+
+Mr Hain
+Is the Secretary of State aware of the evidence that Professor Roger Scully has brought forward? A number of Asian countries have a similar ban, including Taiwan and South Korea, in similar circumstances. Does the Secretary of State think that he should withdraw the statement that he has just made?
+
+Mr Jones
+I clearly referred to a particular type of system, which is the majoritarian type. That is where the votes in the constituencies count towards the list elections. In Asia and Ukraine, there is something similar, but not under that type of system. I am pleased that the right hon. Gentleman refers to Professor Scully. In his evidence to the Welsh Affairs Committee during pre-legislative scrutiny of the draft Bill, he clearly said:
+
+“If parties that are defeated at constituency level can still win representation through the list, then it is difficult to see why that should not also apply to individuals.”
+
+In other words, what is the difference for this purpose between a party and an individual? That is Professor Scully’s view. To pray him in aid goes against the advice that he gave during pre-legislative scrutiny of the draft Bill.
+
+Mr Hain
+Notwithstanding that advice, Professor Scully was simply correcting the Secretary of State on his basic proposition. The point is this, and no one has disputed it: neither the Secretary of State nor the Minister have challenged one bit of evidence that we have brought forward, and which I have repeatedly cited, about the serial abuses in Wales under the dual candidacy system, which the Secretary of State is about to reintroduce. He offers no protection or guarantee that that serial abuse will not happen; it went on prior to the ban in 2006. In fact, his Bill is a charter for reopening that abuse.
+
+Mr Jones
+I have to take issue with the right hon. Gentleman. The reason for the abuse was that a particular individual, whom the right hon. Gentleman constantly quotes and cites in this context, behaved extremely badly, and people will continue to behave extremely badly. Let us go back to Professor Scully. He said in his evidence to the Committee:
+
+“No substantial independent evidence was produced at the time of the GOWA (or, to my knowledge, has been produced subsequently) of significant public concern about dual candidacy. The claims made about dual candidacy ‘devaluing the integrity of the electoral system’, and ‘acting as a disincentive to vote’ therefore remain wholly unsupported by solid evidence.”
+
+Those were the comments of the academic Professor Scully, whom the right hon. Gentleman prays in aid. That same professor demolishes the right hon. Gentleman’s argument.
+
+The prohibition was introduced against the advice of leading academics such as Professor Scully, organisations such as the Electoral Reform Society and independent bodies such as the Electoral Commission. I was very surprised by the right hon. Gentleman’s criticism of the Electoral Commission. We are now legislating to correct this anomaly and I hope that the hon. Members for Pontypridd (Owen Smith) and for Llanelli (Nia Griffith) will not press their amendments, although I am not holding my breath.
+
+Question put, That the amendment be made.
+
+Division 19
+24/06/2014 17:08:00
+The House divided:
+Ayes: 196
+Noes: 278
+Question accordingly negatived.
+
+Clause 6
+
+Taxation: introductory
+
+Amendment made: 1, page 5, line 12, leave out “the taxes” and insert
+
+“particular taxes as devolved taxes”—(Mr David Jones.)
+
+This amendment clarifies that Chapters 3 and 4 of Part 4A of GOWA 2006 deal with devolved taxes. This distinguishes devolved taxes from the local taxes (such as council tax and non-domestic rates) over which the Assembly already has legislative competence under paragraph 12 of Part 1 of Schedule 7 to that Act.
+
+Clause 13
+
+Commencement of the income tax provisions etc if majority in favour
+
+Amendment made: 2, page 18, line 23, at end insert—
+
+‘( ) The Secretary of State may bring section (Welsh taxpayers for social security or child support purposes) into force by order.”—(Mr David Jones.)
+
+This amendment and amendment 5 enable the new clause inserted by new clause NC1 to come into force by order of the Secretary of State if the majority of voters in a referendum held under clause 11 vote in favour of clauses 8 and 9 (the income tax provisions) coming into force.
+
+Clause 19
+
+Borrowing by the Welsh Ministers
+
+Amendment proposed: 8, page 22, line 8, at end insert—
+
+‘(1B) Welsh Ministers may set their own capital expenditure priorities.”—(Jonathan Edwards.)
+
+This amendment would ensure that a future Welsh Government can utilise the borrowing capacity in order to invest in infrastructure projects that it deems a priority, and not be constricted or forced to invest in a project that the Treasury deems a priority.
+
+Question put: That the amendment be made.
+
+Division 20
+24/06/2014 17:21:00
+The House divided:
+Ayes: 8
+Noes: 278
+Question accordingly negatived.
+
+Clause 22
+
+Reports on the implementation and operation of this Part
+
+Amendment made: 3, page 25, line 43, at end insert—
+
+“() section (Welsh taxpayers for social security or child support purposes) (Welsh taxpayers for social security or child support purposes),”—(Mr David Jones.)
+
+This amendment ensures that a report under clause 22 (reports on the implementation and operation of Part 2 of the Bill) is not required to cover the new clause inserted by new clause NC1.
+
+Clause 27
+
+Power to make supplementary, consequential, etc provision
+
+Amendment made: 4, page 30, line 14, at end insert—
+
+‘( ) In this section, references to the provisions of Part 2 do not include section (Welsh taxpayers for social security or child support purposes) (Welsh taxpayers for social security or child support purposes).”—(Mr David Jones.)
+
+This amendment ensures that the power to make supplementary etc provision in clause 27 does not extend to making provision in connection with the new clause inserted by new clause NC1.
+
+Clause 28
+
+Commencement
+
+Amendment made: 5, page 30, line 27, after “9” insert
+
+“, (Welsh taxpayers for social security or child support purposes)”—(Mr David Jones.)
+
+Schedule 1
+
+Referendum about commencement of income tax provisions
+
+Amendments made: 6, page 32, line 40, at end insert—
+
+“Assistance for designated organisations
+
+6A (1) An Order under section 11(1) may make provision for the provisions of PPERA 2000 listed in sub-paragraph (2) to apply with specified modifications in relation to a referendum held by virtue of section 11(1).
+
+(2) The provisions are—
+
+(a) sections 108 and 109 of PPERA 2000 (designation of organisations to whom assistance is available);
+
+(b) section 110 of, and Schedule 12 to, that Act (assistance available to designated organisations).
+
+(3) The modifications specified may include allowing a permitted participant to be designated by the Electoral Commission under section 108(1) of PPERA 2000 in relation to one of the possible outcomes at the referendum whether or not a permitted participant is designated in relation to the other possible outcome.”
+
+This amendment enables an Order in Council under clause 11 to modify the provisions of PPERA 2000 about designation of organisations by the Electoral Commission, and the kinds of assistance available to designated organisations. For example, the Commission could designate an organisation under section 108 of PPERA 2000 in relation to one (rather than both) of the possible outcomes of a referendum. Amendment 6 is in amended form from the text originally submitted.
+
+Amendment 7, page 33, leave out lines 1 to 29 and insert—
+
+“Information and encouraging participation
+
+7 (1) An Order under section 11(1) may authorise or require the Electoral Commission to do things for the purpose of promoting public awareness and understanding in Wales about one or more of the following—
+
+(a) the referendum which the Order causes to be held;
+
+(b) the question to be included on the ballot paper at that referendum;
+
+(c) voting in that referendum.
+
+(2) An Order under section 11(1) may authorise or require the Chief Counting Officer to do things for the purpose of encouraging participation in the referendum which the Order causes to be held.
+
+(3) The things which the Commission or the Chief Counting Officer may be authorised or required to do under sub-paragraph (1) or (2) include imposing obligations, or conferring powers, on counting officers or other persons.”—(Mr David Jones.)
+
+This amendment enables an Order in Council under clause 11 to authorise or require the Electoral Commission or the Chief Counting Officer to do things for the purpose of promoting public awareness and understanding of, and encouraging participation in, the referendum. Those things may include the issuing of directions to counting officers.
+
+Third Reading
+
+17:31:00
+
+Mr David Jones
+I beg to move, That the Bill be now read the Third time.
+
+We have had a number of productive debates on this Bill, and I would like to thank all right hon. and hon. Members for their contributions. It was in November 2012 that the Silk commission recommended a package of measures to devolve fiscal powers to the National Assembly and the Welsh Government. We have had a number of debates in this House since then on giving the Welsh Government increased borrowing powers; on the devolution of a portion of income tax, subject to a referendum; and on the devolution of taxation on land transactions and landfill. Our debates on the Bill have enabled us to fine-tune those proposals further, and I appreciate the broad support that the Bill has received from all parts of the House. I would again like to thank Paul Silk and his commissioners for their work on their two reports, and also my hon. Friend the Member for Monmouth (David T. C. Davies) and the other members of the Select Committee on Welsh Affairs for their excellent pre-legislative scrutiny of the Bill.
+
+This Bill is a major milestone for Wales, and it demonstrates the Government’s commitment to strengthening Welsh devolution and Wales’s role in the United Kingdom.
+
+Mr Harper
+In the debate in Committee on 6 May, at column 109, the Secretary of State committed to updating the House, either on Report or on Third Reading, on the conversations he was going to have with the Secretary of State for Health about the health service. Is he able to do that today?
+
+Mr Jones
+Yes, and I am grateful to my hon. Friend for reminding me about that important point. I can tell the House that I have engaged with the Department of Health, and that NHS England is continuing its efforts to work constructively with the Welsh Government to find a solution to the problems faced by English patients, such as my hon. Friend’s constituents, who access NHS services in Wales. Work on resolving the issues raised by the cross-border protocol is continuing, and it is hoped that this work will conclude by the end of this year.
+
+Owen Smith
+Can the Secretary of State also inform the House on the relative performance of the NHS on either side of that border? What is the difference between, for example, the Wye Valley NHS Trust and the Aneurin Bevan health board on cancer waiting times? My understanding is that in Wales the targets are rather more stringent, and are being met.
+
+Mr Jones
+I could rehearse the remarks that were made on the last occasion we discussed this issue, but the point that my hon. Friend the Member for Forest of Dean (Mr Harper) was making was that his constituents access the health service in Wales. They wish to access the English health service, but at the moment they have difficulty doing so. I would have thought that the hon. Gentleman would want to facilitate my hon. Friend’s constituents’ access to the English health service, rather than continuing to snipe.
+
+Alun Cairns
+The shadow Welsh Secretary mentioned cancer waiting times, but does my right hon. Friend the Secretary of State agree that that is a very narrow  element of this? The patient experience involves diagnosis, and the waiting times for diagnosis are much longer in Wales. If we take into account the total waiting times in Wales for cancer treatment, the picture is very different from what was suggested.
+
+Mr Jones
+My hon. Friend makes an important point. The shadow Welsh Secretary ought to understand that there is huge public dissatisfaction with the Welsh Government’s performance on health in Wales. I suggest that, rather than trying to engage in guerrilla warfare on individual points, he has a word with his Assembly colleagues and urges them to do more to deliver a decent health service for the people of Wales.
+
+Despite Labour’s focus on dual candidacy, at its heart the Bill is about driving forward economic growth in Wales, and it illustrates the centrality of economic recovery to everything this Government do. The Bill provides the Welsh Government with additional levers and incentives to deliver economic growth. As well as providing opportunities for the Welsh Government, it increases scrutiny of them. Since devolution, the Assembly and the Welsh Government have been accountable only for how they spend taxpayers’ money; now, they will become more accountable for how they raise it. The challenge for the Assembly and the Welsh Government will be to use the tools we have given them effectively and efficiently. Part of that challenge will be deciding if and when to seek the agreement of the Welsh electorate, in a referendum, to devolving an element of income tax. I urge the shadow Secretary of State and his colleagues in Cardiff Bay to abandon their opposition to a referendum, and the Assembly to trigger a referendum sooner rather than later.
+
+We are 87 days away from probably the most momentous decision in the 300-year history of our Union. The referendum in Scotland has significant implications for devolution in Wales. The majority of us in this House sincerely hope that the people of Scotland will vote to remain part of the Union. A no vote will allow those of us who believe in the Union to consider how best to strengthen it and to enable all parts of our United Kingdom to prosper.
+
+In Wales, the recommendations made by the Silk commission in its second report provide opportunities to consider further devolution. As the commission acknowledged, the key legislative recommendations should be matters for the next Parliament, and it will be for political parties to set out their proposals at the 2015 general election. That will provide a mandate for the next Government to implement the changes they have committed to, and will enable Parliament to consider changes to the Welsh devolution settlement in the context of strengthening our Union.
+
+As well as its financial reforms, the Bill makes some highly welcome improvements to the Assembly’s electoral arrangements, making them fairer and more equitable. Assembly terms will be changed from four to five years to make it less likely that Assembly and parliamentary elections occur on the same day. Members will no longer be able to sit simultaneously in both the Assembly and the House of Commons, enabling Assembly Members to concentrate on representing their constituents in the Assembly. The Bill overturns the clearly unfair ban on  dual candidacy introduced by the Labour party, which is seen by constitutional experts and the public alike as partisan and anomalous.
+
+This Bill marks a significant strengthening of the Welsh devolution settlement. It bolsters the democratic institutions in Wales, and ensures that the Assembly and the Welsh Government are more accountable to those who elected them. It provides the tools for the Assembly and the Welsh Government better to support stronger economic growth. I commend this Bill to the House, and I trust that the House will support its Third Reading.
+
+17:40:00
+
+Owen Smith
+I echo the Secretary of State’s thanks to colleagues from all parts of the House who have engaged in debate and scrutiny of this Bill on the Floor of the House over what feels like quite a long period of time. We have had a constructive set of discussions, which have revealed some of the divisions between Ministers and their Conservative colleagues in the Welsh Assembly and exposed the clarity of the Opposition’s support for devolution.
+
+I join the Secretary of State in thanking Paul Silk and the members of his commission for preparing the groundwork for this Bill, and also for reflecting on the future of Welsh devolution, not just in respect of fiscal powers but beyond that. I am sure that we will debate the measures in the second part of the Silk report at some future stage.
+
+Labour supports much of this Bill, and will not oppose it on Third Reading. In particular, we support the Government’s decision to afford Wales borrowing powers. I have said on many occasions in this House that, in not being able to borrow, Wales has been at a disadvantage compared with other parts of the UK. We have acknowledged that that was a mistake of previous devolution legislation. Wales is a legislature that should be able to borrow in order to invest in vital infrastructure. It is welcome that the Government have recognised that, and are moving to afford Wales those borrowing powers. It is a shame that the borrowing powers are not the same as those that will be enjoyed in Scotland, but, overall, we are supportive of the measure.
+
+We are supportive, too, of the proposal to devolve stamp duty, land tax, landfill tax and other minor taxes. Business rates are also to be fully devolved to Wales. We look forward to the Welsh Government, with their progressive values, using those powers in a fair and progressive manner to deliver, hopefully, innovative and progressive solutions for Welsh people in respect of land and businesses taxes.
+
+I also welcome the move towards a more symmetrical position between Wales and Scotland. Wales is not Scotland, and the history of our two countries is very different. The way in which we came to support devolution is very different, and I have often said that. That asymmetry can be explained by our different histories and the different degrees of support for devolution in Wales and Scotland at the point of the initial referendum. However, that position has changed, which could be due in part to the impending referendum in Scotland. The Secretary of State rightly referred to it as a momentous moment for British democracy and for our country. It is right that we consider how things have moved, and why  people’s support for Welsh devolution has strengthened. It seems increasingly clear to us, and also to the Government, that a more symmetrical system of devolution might add to the stability of the devolution settlement and diminish the cause of separatism.
+
+We are disappointed that the Government have failed in this Bill to undertake any serious analysis of how the costs and benefits of tax devolution will be weighed for Wales. Any Government who were truly serious about affording these powers to another Parliament and Assembly should have undertaken that sort of analysis. Indeed, this Government did undertake that sort of analysis in respect of the Scottish proposals to take on taxation powers. I cannot therefore understand why the Government and the Secretary of State for Wales in particular have refused to insist that colleagues in the Treasury undertake a similar measure for Wales.
+
+The argument has been made that a considerable gap is now expected between the passing of the Bill and the adoption of these powers, but there was a considerable gap—three years or so—between the passing of the Scotland Act 1998 and the uptake of its powers, and that did not prevent the Government from seeing the necessity of undertaking the work in advance.
+
+It is also disappointing that the Government have failed to offer any real guarantee about whether Wales will be better or worse off under these provisions. We still do not know whether the block grant will be eroded over time. Initially, it will be protected, but the Exchequer Secretary told us again here today that if Welsh gross domestic product and revenues grew more slowly than those of England, Wales would have less money over time to spend on vital public services. Given the problems of meeting the demand for public services in Wales because of our specific demographics and history, and of a £1.6 billion cut to the Welsh budget since the Conservatives came to power, it would be better for the Government to give some sort of guarantee to the Welsh people that they would not be worse off.
+
+Jonathan Edwards
+Does not that point indicate that the hon. Gentleman has no faith in the Labour party’s abilities to improve the Welsh economy while in control of the Welsh Government ?
+
+Owen Smith
+No, it does not indicate that at all. It indicates that we are not fantasists. We understand the fiscal reality of Wales, which expends £35 billion a year in public expenditure and raises £17 billion a year in tax revenues, leaving a very large shortfall. We understand that that shortfall is made up by virtue of our being part of a generous Union that shares risks and pools rewards across the UK. Our fear is, of course, that Plaid Cymru Members wish to use this—honourably, from their perspective, as they believe in a separate, independent Wales—to fuel their cause of separatism. We are not interested in fuelling their separatist cause. That is why we have asked questions about the Bill.
+
+We are concerned that the Government have failed to take this opportunity today to use the Bill to take forward the reserved powers model. For the reasons that I mentioned earlier, we think that it would be beneficial for Wales to be placed on a similar footing to Scotland in respect of the devolution model, and the Government could have taken that step in the Bill.
+
+The biggest failing relates to the measuring of benefits and costs to Wales. We will now need to rely on noble Members of another place to undertake further scrutiny of the long-term impact on Wales of the volatility of tax revenues and of the costs of establishing an Exchequer function for Wales. The reason why the Government have not undertaken such scrutiny is that, I fear, they are not terribly interested in Wales. If they were more interested in Wales, they would not have implemented £1.6 billion-worth of cuts. If they were interested in Wales, they would not constantly mislead the public, as we have heard this evening, and seek to divide and rule in Britain when it comes to the respective merits of our health care systems, housing, education and all manner of other things where the Secretary of State chooses to bad-mouth Wales. If they were genuinely interested in assisting Wales, he would have demanded that the Exchequer Secretary undertake a similar analysis to the one that he undertook with Scotland.
+
+The bit of the Bill in which the Government are most interested—as I suspect are nationalist hon. Members—is the bit on dual candidacy. We have heard eloquent and compelling arguments from Labour Members as to why it is right that we banned dual candidacy. It is not right for losers to be turned into winners, as was the case in Clwyd West, in the Secretary of State’s seat. The public do not understand how political alchemy is used to transform people who have been rejected under first past the post, and to put them back into office via the back door. The Secretary of State and his colleagues have wholly failed to explain why they are doing that, other than for narrow party political advantage.
+
+It is fair to say that we have not had many laughs here in the last couple of days, debating this rather dry and dusty devolution Bill. One thing that has amused me is the attempt to paint my party, and indeed me, as somehow anti-devolution. That is as amusing as it is risible because, of course, the Labour party is the party of devolution. We campaigned for it for 100 years; we delivered it, and we will continue to deliver it. We have concerns about tax-varying powers because we do not want them turned to what we think would be malign intent—to fuel the separation of Wales from England. The Secretary of State is right to say that we face a very important choice in Britain; the Scottish people face an important choice. We do not want to fuel separation by encouraging tax competition, with one part of Britain undercutting another in a race to the bottom. That is anathema to Labour values and anathema to the values of the people of Wales.
+
+17:51:00
+
+Glyn Davies
+I am grateful for being called to speak on an issue that is of great personal interest. As well as being the Member of Parliament for the Welsh seat of Montgomeryshire, I served for eight years representing Mid and West Wales as a regional Member of the National Assembly for Wales. My dominant interests since becoming a Member of Parliament have been Welsh politics, the Welsh economy, Welsh public services and, indeed, the relationship between Cardiff Bay and Westminster as they deal with the devolution process, which will continue for many more years. The nature of such a process is that one does not reach an end stage, a point to which I shall return.
+
+I do not think this a dry debate at all. Constitutional debates tend not to be ones about which we joke and laugh, but as someone who is deeply embedded in Welsh politics, I find a debate about a Bill concerning the future governance of my country hugely interesting, and I have enjoyed the various aspects of it.
+
+I declare my enthusiastic support for the Bill, which is a significant step forward in the devolution process, although there are aspects with which I do not agree. Perhaps I am in a very small minority, but I should refer to those differences alongside my general support for the Bill, to put my opinions on the record for the benefit of anyone in my constituency and indeed the rest of Wales who might want to know what they are.
+
+I have listened to some of the debate; I missed some of it owing to meetings. My general impression is that Labour’s position in particular is confused. Clearly, Members on this side of the House are pleased that Labour will be supporting the Bill—that is a positive move—but the contributions of many Labour Members suggest that they just do not accept the principle underlying the devolution of tax to the Welsh Assembly. Some of their language has sounded more as though they oppose the Bill than support of it.
+
+The Plaid Cymru contributions have been churlish—that is the word that I would use. During this Parliament it was a Conservative Secretary of State who introduced, with very great determination, the Bill that created law-making powers in Wales. I do not believe that it would have been introduced if it had not been a Conservative Secretary of State; I think that a Labour Secretary of State would probably have chickened out. It was a Conservative Secretary of State who established the Silk commission. It has done very good work and, like several other Members, I commend it for that work. It is a Conservative Secretary of State who has introduced this Bill. I perfectly accept that it does not go as far as Plaid Cymru Members may want—one would not expect that—and, indeed, there are differing views on the detail of the Bill in all parties, but nobody can disagree that granting tax-raising powers to the National Assembly for Wales, and the borrowing powers that go with them, is anything but a huge constitutional step forward. On that basis, it might have been at least fair of Plaid Cymru to congratulate the Conservative party on taking us down the road, not as far as it would want, but certainly in a positive direction.
+
+Mr Llwyd
+The hon. Gentleman said that he had been in and out of the debate, and I accept that—so have I. My colleagues were generous about various parts of the Bill, but nevertheless there are parts about which we are concerned, and that is the nature of politics. Do not call us churlish because we find fault in some way with the Bill. That is just politics, is it not?
+
+Glyn Davies
+I thank my friend for that; he has been a friend for a long time. It is reassuring that he has decided to intervene and say how supportive he is of what the Conservative Government have delivered in the past few years. I shall read today’s debate in Hansard to pick out all those individual bits that he speaks so enthusiastically about.
+
+There are several elements to the Bill, the most important one by a long way being the tax-raising powers and the commensurate borrowing powers that go with them. There will be continuing debate on that. It may well feature in the manifestos of the various parties leading up to the next general election, and I think it will be revisited in the next Parliament. That is natural in constitutional issues when there is a process. I think there will be a next step to this process, which I look forward to being a part of after the next general election.
+
+Another issue that has caused a lot of excitement is dual candidacy. If there was any political intent to gerrymander, it was on the part of the Labour party when it introduced the ban. No independent body in Wales, including the Electoral Commission, thinks that it is any way partisan to scrap the ban on dual candidacy. It was brought in by the Labour Government in this place with the support of Labour in Cardiff, with the view that it would benefit the Labour party in Wales, and it is truly ironic that it did not. The Opposition should welcome what is a right and proper constitutional change brought in by this Government.
+
+I am not in favour of a referendum; generally speaking, I do not like them. Political parties should tell the people what they intend to do and if the people vote for them at a general election, they can carry that out without a referendum. I accept that I am in a minority in relation to a referendum on tax-raising powers in Wales. The Silk commission recommended it and there was a referendum in Scotland. Apart from this one contribution on this issue, I will have to sneak back into my box rather quietly on that one.
+
+I am also not in favour of a five-year term, and again I might be in a minority. I generally think that four-year terms are right for Parliaments. We have a five-year term here, and I realise that there is a lot of support for a five-year term for the National Assembly. Again, that is another little box that I will have to crawl back into, because that might be a minority view.
+
+But let us not forget what the Bill will do if, as I hope it will, it receives its Third Reading today. This Westminster Parliament is granting to the National Assembly for Wales the power to raise taxes—financial accountability, so that in future a Welsh Government will be accountable to the people whom they represent. There is further to go, but there is an important principle: that a Bill put forward by a Conservative Secretary of State is making a significant contribution to the process of devolution in Wales.
+
+17:58:00
+
+Paul Murphy
+It is a great privilege to speak on Third Reading of a Bill that my hon. Friend the Member for Pontypridd (Owen Smith) indicated we will not oppose, for a variety of reasons. The Secretary of State referred to this as a milestone Bill. I have sat through 26 years of Welsh Bills, and I have to say that I do not think this is a milestone. There are some good parts to it, but a real milestone was the Bill introduced by the Labour Government after the 1997 general elections, which set up the Welsh Assembly.
+
+The hon. Member for Carmarthen East and Dinefwr (Jonathan Edwards) suggested in a previous debate that the Westminster parties, by which I assume he meant the Conservatives, Labour and the Liberal Democrats—he  is actually a member of a Westminster party, as we meet here in Westminster, rather than Dudley or anywhere else—were obstructive when dealing with devolution matters. Had he said that in 1978, he would have been absolutely right. I was treasurer of the “No Assembly” campaign in Wales and deeply opposed devolution in the late ’70s, but I changed my mind, and for a variety of reasons, including all those years of Conservative government. He and his Plaid Cymru colleagues must reflect on this: no Labour Government would have meant no Assembly and no Welsh Government. Obviously we were helped by the pro-devolution parties—the Liberal Democrats and his party.
+
+The hon. Member for Montgomeryshire (Glyn Davies) suggested that a Labour Secretary of State might have “chickened out” of extending the Assembly’s powers. I see no evidence for that, having been a Secretary of State for Wales twice. I certainly would not have chickened out. Indeed, when this Bill was introduced I enthusiastically supported the previous Secretary of State, who I thought showed great courage in introducing it as a Conservative, and I agreed with her.
+
+Glyn Davies
+I would like to reassure the right hon. Gentleman that I do not think the Labour party would have chickened out had he been Secretary of State.
+
+Paul Murphy
+I am grateful to the hon. Gentleman for that.
+
+The devolution of extra powers was supported overwhelmingly by the people of Wales in the referendum, including in my constituency, which, having been one of the most sceptical and anti-devolution constituencies in the whole of Wales, changed its mind. I think that there has been a sea shift in how people perceive devolution. People understand it more, although not completely. We heard earlier about the Welsh television surveys indicating that many people did not know who ran the health service, for example. There will still be some of that, but there has been a change none the less.
+
+To that extent, I welcome aspects of the Bill. The change to the name “Welsh Government” might seem trivial to many people, but it is significant. I think that the fixed terms, the ban on dual membership and other aspects of the Bill are greatly to be welcomed. Even though we disagree on how the business of taxation should be introduced in Wales, the fact that the Government have introduced the idea that we should deal with it is significant. All parties now agree on that, even if we disagree on the method and mechanism by which it will be introduced. However, there are parts of the Bill, including dual candidacy, on which we fundamentally disagree with the Government. There are substantial disagreements, but there are also agreements.
+
+The Bill will now go to the other place, and I think that there is an opportunity for their lordships to improve it. I will refer to just two issues. One relates to reserved powers, which I spoke about earlier. I think that the Scottish referendum—I hope that there will be a no vote—will be followed by extra powers for the Scottish Parliament and that that will be replicated in our Assembly in Cardiff. I hope that the Government will rethink that.
+
+More immediately significant is the issue of borrowing. I think that we are being short-changed in Wales as a result of this Bill. I agree wholeheartedly with the Government that the Welsh Government should be able  to borrow, as the Northern Ireland Executive and the Scottish Government can, but I have still heard no reasonable answer to the question that all of us on the Opposition Benches have posed. The borrowing principle was introduced in Edinburgh and Belfast without necessarily any reference to streams of income, even though Scotland theoretically has a stream of income and the Northern Ireland Assembly has dealt with rates for many years. There is a gaping hole there. I think that their lordships would be well advised to examine that issue in the Bill.
+
+Mr Llwyd
+There is one further problem with the borrowing situation in the Bill. Why should the Westminster Government allow borrowing powers and then direct where the money should be spent? That undermines the whole principle of devolution, subsidiarity and any other principle of democratic accountability in sharing out responsibility. Their lordships will undoubtedly address that issue.
+
+Paul Murphy
+I think they will be right so to do. There is a lot of work to be done by their lordships, particularly the Welsh Members, in dealing with these issues, including borrowing.
+
+Mr David Jones
+I am reluctant to interrupt the right hon. Gentleman, but the intervention by the right hon. Member for Dwyfor Meirionnydd (Mr Llwyd) is completely misconceived. There is no question of the Westminster Government directing the Welsh Government as to how to exercise their borrowing powers.
+
+Paul Murphy
+In that case, we are all right, are we not, and we can see what happens next?
+
+These detailed issues are very important for us. Whatever divides us in this Chamber—the nature of politics is that we do divide on issues—there is a general consensus among us all that this Bill is another step in the right direction, and a step that makes sure that we remain members of the United Kingdom. By strengthening devolution, we strengthen the United Kingdom. However, the situation is changing. We must all accept—even I, coming from south-east Wales and Monmouthshire, with all my early scepticism, accept it, and not reluctantly but with some enthusiasm—that the landscape of our constitution and the way in which we govern ourselves in the United Kingdom is changing. Inevitably, the referendum in 87 days’ time will change us all, but I hope that in so doing it will unite us in ensuring not only that the United Kingdom remains as it is but that we devolve, sensibly, more and more powers—including, indeed, taxation—to the people of Wales.
+
+18:06:00
+
+Mr Mark Williams
+It is a privilege to say a few words in support of the Bill on its Third Reading.
+
+The Silk commission made a serious attempt to tackle the deficiencies in the devolution settlement, notably the lack of responsibility and accountability at Cardiff Bay. Those principles have been carried forward in the Bill. In assessing the funding system, Silk properly identified what was required—not just accountability but economic incentivisation, empowerment, efficiency, equity and, above all, responsibility.
+
+I applaud the Bill and thank my right hon. Friend the Secretary of State and his team in the Wales Office.
+
+Roger Williams (Brecon and Radnorshire) (LD)
+Many tributes have been paid to my constituent, Mr Paul Silk. It is extraordinary that because of the quality of the work that he and his fellow commissioners did, the Bill has gone through relatively easily, even with a few minor amendments.
+
+Mr Mark Williams
+I very much agree with my hon. Friend. Paul Silk has done the politics of consensus a great service. The commissioners, from all four parties, sometimes had to make compromises but arrived at an agreed report on two occasions. That is a mark of Paul Silk’s chairmanship and the quality of those commissioners.
+
+Of course, my right hon. Friend is a Conservative Secretary of State—
+
+Bob Stewart
+A very good one.
+
+Mr Mark Williams
+Indeed—he is a very good Secretary of State on many issues.
+
+I remind my hon. Friend the Member for Montgomeryshire (Glyn Davies) that this is a coalition Government and it is a Liberal Democrat achievement that we have got this far with this Bill. Last week I was at a book launch, as was the right hon. Member for Dwyfor Meirionnydd (Mr Llwyd), to celebrate the life of the late Emlyn Hooson—one of my hon. Friend’s illustrious predecessors—who on St David’s day in 1968 put forward a Parliament for Wales Bill that did not get very far. It is a mark of his work and that of many others from other political parties that we have reached this point today, albeit crystallised by my right hon. Friend the Secretary of State.
+
+Mr Llwyd
+Is it possible that the hon. Member for Montgomeryshire (Glyn Davies) is being churlish?
+
+Mr Mark Williams
+I could not possibly comment, but I will give way to him.
+
+Glyn Davies
+I would just like to say that the late, great Baron Hooson was a wonderful Member of Parliament who served Montgomeryshire and Wales with distinction for many, many decades; I do not want to be accused of being churlish.
+
+Mr Mark Williams
+My hon. Friend says that with great sincerity, and I know him to be a sincere man. I just wish to place on the record the fact that the process of devolution has been an achievement of politicians of all parties—Liberals, Conservatives, and friends from the nationalists and from the Labour party—over the years. That process of consensus has to continue if the process of devolution marches on.
+
+Susan Elan Jones (Clwyd South) (Lab)
+I would not wish the hon. Gentleman to continue without mentioning one of his predecessors, Lord Elystan-Morgan, who made an interesting point in his autobiography, saying that when he started his political career—many of us know that he did not spend his life in just one political party—he would not have dreamt that the process of self-government and devolution would have gone on to the extent that it has.
+
+Mr Mark Williams
+I thank the hon. Lady for that intervention, and I agree with that. I can promise her, very much in the spirit of what the right hon. Member for Torfaen (Paul Murphy) said, that Lord Elystan-Morgan and others of our respective Welsh teams will be working very hard on this Bill to make necessary amendments to make it all the more workable and successful.
+
+I wish to talk about one regret I have about this Bill, which is the lockstep, an ideal that, as a devolutionist, still confounds me. I agree with my hon. Friend the Member for Montgomeryshire on that matter. I recently read a military definition of the lockstep—I am alarmed that the hon. Member for Beckenham (Bob Stewart) is here, because he may correct me on this—which talked about how, when marching, all the marchers’ legs should be moving in the same way at the same time. Of course the Silk commission suggested something different, recommending that income tax rates should be capable of variation independently to create better economic conditions in Wales.
+
+We have heard from the Secretary of State and from the Opposition about giving the Assembly Government the tools to do the job, and that is what I want this Bill to do. We should, however, be mindful of what Paul Silk said in his report, which was that the availability of capacity borrowing powers is contingent on the level of income tax devolution available to the Welsh Government following a successful referendum. He said that the lockstep model is less attractive and would therefore discourage the Welsh Government from pursuing devolution and the additional capital borrowing powers that would accompany it. He was right, and I regret the fact that he had to say that. I regret the response of the Labour party to the Bill and what Paul Silk said. I am clear that we have not heard the last of this, and I encourage Conservative Members to examine what their colleagues in Scotland have said about the lockstep and act accordingly, because those tax-varying powers really would enhance the tools available to Government.
+
+I agree with Professor Dylan Jones-Evans who said that the important thing is to give the Government, of whichever colour, the powers to do the job. That is about grown-up government, and about respecting other Governments and other jurisdictions’ capacity to do the job; it is not about “nanny knows best”. Our friends from Plaid Cymru will agree with that characteristic, as much as Liberals and Conservatives will. That is a principle behind the Bill and I hope we can take it further. Welsh Liberal Democrats want to see flexibility of income tax powers without the Scottish lockstep model. Nevertheless, the Bill represents a huge step forward—although it does not provide the strides that some of us would have hoped for.
+
+That brings me to the reserved powers model for the future, which I support. I could not support the Labour amendment on Report, as it struck me as a fudge, although outside the Chamber I was assured by the shadow Secretary of State that it was anything but. I wish to reiterate what Liberal Democrats, including the Deputy Prime Minister, have said, which is that we support the reserved powers model. The challenge Paul Silk set was for every party in this House to sign up to the reserved powers model at next year’s general election. The debate about devolution and the progress made  have been a journey of stops and starts, but I believe the reserved powers model is the way forward and I endorse what Paul Silk has said.
+
+Finally, there is an old adage that time and tide wait for no man. I believe that the tide of devolution in Wales is flowing fast and no Government, including this one and, indeed, future ones should be left behind.
+
+Question put and agreed to.
+
+Bill accordingly read the Third time and passed.
+

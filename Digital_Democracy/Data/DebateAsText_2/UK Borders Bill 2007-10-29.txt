@@ -1,0 +1,454 @@
+UK Borders Bill
+
+Lords amendments considered.
+
+Clause 5
+
+Registration regulations
+
+Lords amendment: No. 1.
+
+15:35:00
+
+The Minister for Borders and Immigration (Mr. Liam Byrne)
+I beg to move, That this House agrees with the Lords in the said amendment.
+
+Mr. Speaker
+With this we may discuss Lords amendments Nos. 2 to 6.
+
+Mr. Byrne
+The amendments can be put into three packages. They are to do with the way in which identity cards are issued and, if necessary, surrendered. I am particularly grateful to the Delegated Powers and Regulatory Reform Committee, which helped us to get amendments on that subject straight. Lords amendments Nos. 1, 3 and 6 seek to address concerns that that Committee expressed about the way in which we proposed delegating powers to the Secretary of State. The amendments give a much sharper definition of when the Secretary of State may cancel cards, and when the individual must notify the Secretary of State of changes in circumstances. The amendments are designed to mirror the Identity Cards Act 2006 slightly more closely than the original drafting did. Effectively, in place of the suspension that was originally proposed, the Secretary of State may now require surrender, while considering cancelling the card.
+
+Lords amendment No. 2 is also designed to meet a concern expressed by the Committee. The Committee made it clear that the Secretary of State’s power needed to be bound slightly more than was proposed in the draft Bill. The amendment simply confines the Secretary of State’s power to a power to require immigration and nationality documents to be surrendered. Importantly, when biometric immigration documents are issued, the amendment will allow us to bleed insecure documents out of the system.
+
+Finally, amendments Nos. 4 and 5 simply remove references to the necessity for a code of practice governing the way in which authorised persons should issue biometric immigration documents. Frankly, I think that the original Bill—this is probably my fault—went over the top a little bit. There is no equivalent provision in the Identity Cards Act, and there is no such provision for biometric visas. I did not feel that that discrepancy could be justified. Instead, we propose to publish guidance on the subject to which people must adhere. It will be tested a little later on, next year. I commend the amendments to the House.
+
+Damian Green (Ashford) (Con)
+Broadly speaking, we welcome the group of amendments. It is always good to hear a Minister in this Government admit the possibility of error in a previous part of the legislative process. We called for amendment No. 2, so we are particularly pleased to see it, but I have some questions. Hopefully the Minister can provide clarification about the effects of the group of amendments. In general, we are pleased that the previous catch-all subsections have been removed. The Minister will be aware that there were objections, both in Committee and in another place, about the sweeping powers that Ministers gave themselves under a previous version of the legislation. The removal of those powers is a welcome step forward.
+
+My questions are about exactly how the biometric information documents fit into the Minister’s scheme for a national identity register. One of the things that their lordships found most confusing in the explanations in the Lords was whether those documents are the identity card for foreigners. If so, do the documents contain the same biometric information that UK citizens will be expected to provide under this wretched scheme? Of course, we would scrap the scheme, but let us proceed with the legislation on the basis that it might be introduced one day.
+
+The other clarification that we require from the Minister concerns the appeal mechanisms available to people whose documents have been removed. Such an action could be disastrous for people in those circumstances, so it is fair for the House to ask whether this group of amendments entails a decent and fair appeal mechanism. On the same lines, is it correct to presume that someone whose documents have been removed for one of the reasons set out in the amendments would be immediately removed from this country? I am sure that, like me, the Minister has studied carefully the very good debates in another place, both in Grand Committee and on Report, so he will know that their lordships were genuinely confused about that matter. I hope that in this broadly welcome group of amendments he will therefore take the opportunity to clear up the remaining confusion about those issues.
+
+Mr. David Heath (Somerton and Frome) (LD)
+First, it is proper that I should pay tribute to my hon. Friend the Member for Rochdale (Paul Rowen) and my noble Friend Lord Avebury for their work on the Bill. May I commend, too, Lord Hilton, who is a constituent of mine? He is a Cross Bencher, so does not speak on behalf of my party, but he played a significant role in the Bill’s consideration in another place.
+
+I certainly do not intend to urge my right hon. and hon. Friends to vote against the amendments, which we broadly support. Like the hon. Member for Ashford (Damian Green), I should like to receive further details about the interrelationship between the documents and the identity card. I am amused by the vehemence with which the Conservatives dismissed ID cards, having voted for them in the first instance, but we must set that issue aside.
+
+Damian Green
+rose—
+
+Mr. Heath
+The hon. Gentleman is about to tell me that he voted against ID cards.
+
+Damian Green
+Indeed; I should put on record once again the fact that even when my party was misguidedly in favour of identity cards, I voted against them, and I am delighted that a greater wisdom has now settled on my party.
+
+Mr. Heath
+I am grateful to the hon. Gentleman—he at least is consistent even if all around him inconsistency reigns supreme.
+
+May I address a minor point raised by Lords amendment No. 3, and urge the Minister to spend a little time explaining to the House the issue of the Secretary of State’s state of mind when those decisions are made? Each consideration that the Secretary of State must make is couched in similar terms. Proposed new paragraph (a), for example, says that a document can be cancelled if
+
+“the Secretary of State thinks that the information provided in connection with the document was or has become false, misleading or incomplete”.
+
+In proposed new paragraphs (a) to (f), it is perfectly proper to use the words,
+
+“if the Secretary of State thinks that”,
+
+because the Secretary of State must form a reasonable view, but I question their use in proposed new paragraphs (g),(h),(i),(j) and (k). Is it not writing into statute an admission on the Government’s part of just how incompetent the Department has become? It suggests that the Secretary of State thinks that “the holder has died” or that they have
+
+“been removed from the United Kingdom (whether by deportation on otherwise)”.
+
+The Secretary of State does not know whether someone has been deported, but thinks that they might have been, so will cancel the relevant documents. I would prefer a little more certainty in that Executive area. I accept that that is a forlorn hope, given the nature of the Department, but it is not unreasonable to expect a deportation to have taken place or an order to have been made. That is preferable to the pious expectation on the part of the Secretary of State that something might have happened. It might not have happened—who cares?—we will take the documents anyway.
+
+I am sorry if that observation sounds flippant, but it is based on reality. The Government’s record on deportations, and on assessing someone’s leave to enter and knowing whether they have retained the leave to enter or to remain, is not a good one. I would expect the statute to be framed in terms of greater certainty, so I would welcome the Minister’s observations on that specific point.
+
+Mr. Byrne
+I am grateful for those observations and for the opportunity to clarify one or two points. The relationship with ID cards is fairly simple to spell out. The technical infrastructure on which the cards will be issued is the same infrastructure as will underpin biometric visas, biometric immigration documents and, in turn, ID cards for British citizens, which is why it is difficult to propose shutting down bits of the system without affecting the integrity of some pretty important border controls, including biometric visas, with which Opposition parties profess to agree. Biometric immigration documents can be designated under the terms of the Identity Cards Act. Obviously, in their original issue they will not be so designated, but that will be possible in future, and cardholders will come under the protections that become available to people under that Act.
+
+The cards themselves will be the same technical design as we propose for ID cards for British citizens, which is two fingerprints and a facial image on a chip on the card, and 10 fingerprints and a facial image on the national identity register. The hon. Member for Ashford (Damian Green) makes a good point about the appeal mechanisms that are required if somebody’s card is cancelled. In effect, when a person’s leave to remain is cancelled at the same time as a biometric immigration document, or if the application for leave is refused, the person will be able to appeal through the existing system before the asylum and immigration tribunal, and where there is no right of appeal the individual can bring a judicial review under the usual principles.
+
+With regard to the belt-and-braces approach to the drafting of the legislation, I have said on the record that the way in which our systems for counting people in and out of the country were phased out was a mistake, and all of us bear some culpability for that decision, but we need to reintroduce such systems, which will give us a degree of control that we do not have today. That will mean, I hope, that these provisions become obsolete, but at the moment I hope that I will be forgiven for saying that a belt-and-braces approach is quite valuable.
+
+Damian Green
+I am grateful for the Minister’s kind remarks. I was not quite clear from what he said whether the particular biometrics on the document will be exactly the same as he proposes to put on the ID cards and the ID register for British citizens.
+
+Mr. Byrne
+That is the intention, yes. I commend the amendments to the House.
+
+Lords amendment agreed to.
+
+Lords amendments Nos. 2 to 6 agreed to.
+
+Clause 7
+
+Effect of non-compliance
+
+Lords amendment: No. 7.
+
+15:45:00
+
+Mr. Byrne
+I beg to move, that this House agrees with the Lords in the said amendment.
+
+In Committee, we had a useful and at times passionate debate about the need for the Border and Immigration Agency to step up to its responsibilities to keep children safe from harm, and this is not an unrelated area. It is increasingly important to ensure that the identity of children in the immigration system is well understood and locks down. That is why we propose to issue biometric immigration documents to those people under 18 in the immigration system .
+
+As the House will know, the ambition in the policy is for all foreign nationals to be compelled to have such a card in time. With any system of compulsion, however, there is the unfortunate necessity of a sanction for non-compliance. It is not a reasonable proposition to introduce the sanctions that we have debated in order to take action against children, and we therefore propose a designated adult as the alternative. We will seek to make the adult aware of that responsibility, and there is, of course, the comfort that if a civil penalty is imposed, the adult can object or, indeed, appeal. The amendment seeks to close a gap in the operation of the civil penalty regime.
+
+Mr. John Gummer (Suffolk, Coastal) (Con)
+The Minister is distinguished by the courtesy with which he has dealt with these matters. He has mentioned that when there is compulsion, there is unfortunately always a need to have some recourse. Given that we are dealing with children as well as adults, will he explain why the courtesies have been removed from the border arrangements in all those circumstances and why there is no question of asking anybody anything? There are no pleases or thank yous, and the whole process has become peremptory. Is that not a bad thing, particularly when we are dealing with children?
+
+Mr. Byrne
+I spend a good deal of my week visiting our ports and airports—I hope to go to Portsmouth tomorrow, and I was at Stansted a week or two ago. Border and Immigration Agency staff are a courteous bunch, and for those who travel internationally, as I used to—sadly, that is no longer the case—the courtesy of our welcome is good compared with others. If, however, the right hon. Gentleman were to point out specific examples, I would be happy to investigate them, because the courtesy of our welcome is long-established and important to preserve.
+
+Mr. Gummer
+The courtesy of the staff is unfailing; the notices are much more discourteous than they were—they are peremptory and many would say rude—and this is a good opportunity to change that.
+
+Mr. Byrne
+I thank the right hon. Gentleman for his remarks. I will re-examine those notices, most of which were authorised by me, and consider precisely how they are written.
+
+I will not dwell on the amendment at length. The Government are seeking to close a gap in the legislation, and I commend the amendment to the House.
+
+Damian Green
+Again, I have no objections in principle to the amendment, but I seek clarification from the Minister. The amendment would
+
+“designate an adult as the person responsible for ensuring that a child complies with the requirements of the regulations”.
+
+I am genuinely unsure who the Minister means by a “designated adult”. Would that include a foster carer? I am sure that he, like me, has met many people who have been foster carers and who therefore deserve our admiration and support, which is particularly true of those who take in unaccompanied children who have come to this country. Such children may not speak the language; they may have experienced trauma in their lives; and they may experience difficulties in adjusting to a new society. Will the Minister clarify whether the “designated adult” could be a foster carer? If so, and if the child were involved in an infringement, would the adult be in any way responsible, as the amendment suggests, and would that “designated adult” be subject to penalties, which would give rise to even greater difficulties than those we face at the moment in persuading people to become foster carers?
+
+Secondly, I want to ask the same question in a different context. If the designated adult were appointed to represent an individual child by the local authority in a legal case involving adoption or another matter involving children, would the sanctions apply to that individual child only, in which case what is the point of designating the adult? As it stands, the amendment is confusing; it does not appear to achieve anything very much. If my second assumption is right and the designated adult mentioned is a guardian appointed by the court, I should say that there are only so many courts to go around and they are extremely hard-pressed at the moment. If added work and pressure are to be put on the court system, there may well be resource implications—in respect of not only asylum-seeking children, but children generally.
+
+Such examples are hypothetical, but they go to the heart of what is not clear in the amendment. I should be grateful if the Minister cleared that up.
+
+Mr. Heath
+I shall also raise the issue addressed by the hon. Member for Ashford (Damian Green). Designation is fine when there is an appropriate designated person; if a parent or adult guardian enters the country with the child, there will be no difficulty in identifying who should be the designated person. However, I should be grateful for a small explanation from the Minister of how a designation would be made on the entering into the country of an unaccompanied child or a child unaccompanied by any obvious adult who may properly be said to have care and control over them. Would a person from the local authority be designated, or would there be children without a designated adult for that purpose?
+
+I should like to make a brief observation about the intervention made by the right hon. Member for Suffolk, Coastal (Mr. Gummer). The Minister says that in his current role he does not travel abroad often; I fully understand that, as he has a lot to deal with here. Perhaps he has never visited some of the southern states of the US. The United States has always been notorious for their rather unhelpful immigration process. However, if the Minister visited Dallas Fort Worth airport, he would see a welcome innovation that we might consider. Volunteers—normally of retirement age; people who give their time freely—walk up and down the queues at immigration control to proffer support and help and ensure that the forms are filled in correctly and that people are queuing in the right places. Those volunteers give a genuinely warm welcome on behalf of the state of Texas. We might consider such an idea for some of our busier airports.
+
+Mr. Gummer
+Does the hon. Gentleman agree that the courtesy of the people at the desks has also improved? The only trouble is that such people wish to chat with the travellers. I was lectured for some time on the subject of global warming from the Bush point of view, and wondered whether it was immoral of me not to argue because I wanted to get through. Perhaps I should have had a proper debate.
+
+Mr. Heath
+That is a real dilemma. The experiences are still variable; despite my possible future best interests, I am not here to sing the praises of US immigration control staff. However, easing if possible people’s passage into a country and reassuring them that they are doing the right thing in what are a difficult few moments—or few hours, sometimes—would be worth considering as a model to emulate. I commend it to the Minister.
+
+Mr. Byrne
+I consider every couple of weeks the arrangements between BAA, the Border and Immigration Agency and other partners, and I must confess that we have not yet got the reception arrangements entirely right. I am not sure that BAA contractors have quite matched the service that the hon. Gentleman has observed at Dallas Fort Worth.
+
+16:00:00
+
+I am grateful to the hon. Member for Ashford (Damian Green) for the opportunity to clarify this point and glad that he agrees with the principle. He will remember from debates in Committee that the code of practice that will need to be set alongside the implementation of the civil penalty regime will be subject to public and other scrutiny. This is one of the most important questions on which we will need to consult as regards that code. It is possible that parents could be designated, but so could permanent carers, relatives with parental responsibility for children in their care, or guardians. Of course, before we seek to draft the code we will consult local authorities and child exploitation and online protection teams, as well as Government and non-Government agencies. I hope that the House will see the results of that consultation fully reflected in the code that we put to it for consideration.
+
+Lords amendment agreed to.
+
+Clause 8
+
+Use and retention of information
+
+Lords amendment: No. 8.
+
+Mr. Byrne
+I beg to move, That this House agrees with the Lords in the said amendment.
+
+Mr. Speaker
+With this we may discuss Lords amendments Nos. 9 to 15.
+
+Mr. Byrne
+There are two packages of amendments in this group: Nos. 8 and 14 and Nos. 9 to 15, excluding No. 14. I will take each in turn.
+
+Amendments Nos. 8 and 14 are designed to define exactly what the Home Secretary can do with the information, specifically biometric information, that is retained. Hon. Members will remember that we had a wide-ranging and important debate on this in Committee, where I was very sympathetic to many of the arguments that were made. There was assent in all quarters that the rather blanket powers that we were proposing to put in the hands of the Home Secretary could, under some circumstances, be a little problematic. Opposition Members tabled helpful amendments seeking to bind that power a little more tightly. I had concerns about how some of them were phrased, particularly in relation to prerogative powers, so I undertook to go away and come back with a better package, as I have sought to do. I think that the purposes that we have set out comprise a good list that touches on some of the points that were acknowledged as important on both sides of the Committee, including the possibility of retaining such information for the purposes of crime protection, immigration control, national security and nationality. Those issues were all raised, and I hope that the House will see them adequately reflected in the amendments, which also preserve the common law powers whereby the Home Secretary already has to share data.
+
+Stewart Hosie (Dundee, East) (SNP)
+I broadly agree with the Minister. The previous drafting basically allowed the Home Secretary to do anything he or she liked with the information. The new provisions are slightly tighter in relation to immigration, borders and nationality, until we get to paragraph (f), which contains the phrase:
+
+“for such other purposes…as the regulations may specify.”
+
+Can the Minister give us a little comfort by confirming that the initial drafting of the regulations will be tight and that it is not the intention to return to what we had in the original Bill?
+
+Mr. Byrne
+That is an important point. I am happy to give the hon. Gentleman that comfort. We were merely conscious of the fact that because identity fraud is a fast-moving area, it is necessary to have a degree of flexibility, subject to the order-making provisions in the Bill, to ensure that we do not have to keep coming back to the House to ask for primary legislation.
+
+Mr. Heath
+Although I accept that this is a fast-moving area, the provisions must be related to an offence. If not related to an offence, they must be concerned with national security or one of the other issues laid down in previous provisions. It is a little difficult to understand why the Minister feels the need for such a wide provision in the final subsection.
+
+Mr. Byrne
+I suppose that the fault to which I am confessing is that I am not perfectly clear sighted about what the future will bring. Organised crime is at work and the nature and design of crime is changing in this area, which is why we could require further provisions. Rather than having to come back to the House to keep asking for different bits of primary legislation, we may need to preserve the possibility that different functions need to be added subject to the scrutiny arrangements in the Bill.
+
+Mr. Jim Cunningham (Coventry, South) (Lab)
+I was not on the Committee that dealt with the Bill, but where are we in relation to the Schengen proposals of about 10 years ago?
+
+Mr. Byrne
+We are still outside the Schengen agreement, and while it remains difficult to see how effective policing of Europe’s external border could keep this country safe, that is a position we propose to preserve.
+
+The second package of amendments is important because it provides an extra layer of protection for biometric information. That was the intention of the original clause, but it was not clear enough. There are already protections in place for biographical information, principally the Human Rights Act, especially article 8, and the Data Protection Act 1998. There are parliamentary precedents for additional protection for biometric information—specifically the need to set out when destruction of biometric information should be undertaken. Our plan is to set out regulations on the retention and destruction of information in this area. There is a carve-out for cases where biometric information is shared with agencies such as the police. In such cases, the Data Protection Act and the Human Rights Act provide the requisite protection. It would be difficult for the Secretary of State to be responsible for the destruction by the police of biometric information shared with them.
+
+These largely tidying-up amendments are designed to give a clearer expression to our original intentions, and I commend them to the House.
+
+Damian Green
+While we are all telling anecdotes about border services, I would like to add that the last time I flew through New York, about 12 months ago, the service was not just exemplarily polite but rather quicker than what I experienced going through Heathrow as a UK citizen. On one of the last occasions that I flew through Heathrow, a group of American tourists were wandering through, about to enter Britain when they did not want to because they were trying to transfer flights. I looked at the signage and I could see why they were in the queue to get into the country; it was worded in such a way that they would never have assumed that they could go the way they were supposed to. As a final point, the person who looked at my passport was not wearing one of the Minister’s new uniforms, so they are not universal yet.
+
+David T.C. Davies (Monmouth) (Con)
+While we are still on anecdotes, has my hon. Friend noticed the sort of thing that I have experienced, where the queue for non-European Union residents is almost zero while UK and EU residents have to queue for long periods of time? Perhaps there is an argument for ensuring that citizens of Great Britain can get back into their own country without having to queue a lot longer than those who come from outside even the EU.
+
+Damian Green
+I will leave the Minister to deal with my hon. Friend, who makes his point with characteristic clarity.
+
+I would like to extend the point made about the Schengen agreement. The Minister has helpfully confirmed that the Government will not sign up to it. Will he also confirm that the Government will maintain our position on the Commission’s blue card proposal, and that they have no intention of giving up our reservation on that?
+
+As the Minister correctly said, Conservative Members expressed a great deal of anxiety throughout earlier debates about the catch-all quality that the measure would grant the Home Secretary. In so far as the powers are now less all-embracing, we welcome the step forward. Again, several questions have arisen during the Bill’s passage through both Houses, which Ministers have not yet answered. I hope that the Minister can do that now, in the last knockings of our proceedings.
+
+My first question relates to the use of documents in the proposed national identity register. When the information is destroyed—for which the group of amendments would provide—will it be removed altogether from the national identity register? If the intention is to destroy sensitive personal information, it will be more reassuring for those to whom it refers to know that no traces of it exist anywhere on a register, which many of us believe will be a honeypot to hackers, and a principal target of global attack by hackers who may have nefarious purposes, such as fraud, in mind.
+
+My second question is about the spread of information around Departments. The national identity register is a compendium of three different Government computer systems—if they all talk to each other. That is a large assumption, but I shall make it for the purposes of the debate. Is it the intention to add the new biometric information to all three systems that will form the national identity register? What tests have been conducted to ensure that that is technically possible? I appreciate that those are technical questions about the future, but the Minister will understand the thrust of the point: even though he has restricted the Home Secretary’s powers, which is good, genuine, serious questions remain about the proposal’s practicality. I hope that he can tackle them.
+
+Mr. Heath
+I do not want to add a great deal to the comments that I made in my interventions. It would be churlish, to use a fine parliamentary phrase, to complain about a move in the right direction by the Minister in Lords amendment No. 8. It is better to have some rather than no specificity about the purposes for which the information can be used. However, I still find proposed new paragraph (f) difficult because it appears to open the door to any further thought that a future Home Secretary—or the current Home Secretary in the regulations—might have about extending the purposes for which the information could be used. I strongly argue that the list in proposed new paragraphs (a) to (e) is comprehensive and covers the proper use of the information that is to be held.
+
+The Minister says that he cannot foresee future developments in criminal behaviour. Of course he cannot—none of us can. One problem is that we are always running to catch up with new developments, especially in identity fraud offences. However, we can be sure that any nefarious activity will occur in relation to prevention, investigation or prosecution of an offence, nationality or national security. It is therefore unnecessary to include a further proviso which falls outwith all the previous provisions. My concern is not sufficient to argue that hon. Members should reject the amendment, but it poses the question why the Minister insists on retaining the remaining catch-all provision. The more definition he can give as to how he will not use proposed new paragraph (f), the more satisfied we will be that there is no potential or real threat of extending the use of information into quite different areas that we might find entirely inappropriate.
+
+16:15:00
+
+Mr. Byrne
+I should like to put the mind of the hon. Member for Ashford (Damian Green) at rest. I am not sure whether they are ideas or proposals from Commissioner Frattini about the blue card scheme, but we certainly have no intention of joining those proposals, and I suspect that we shall not be alone among the European member states in striking that position.
+
+Let me pick up on the three points of substance that were raised in the debate. The first was an important point about whether destruction would effectively mean destruction. The answer is yes. Of course, that will be set out in slightly longer sentences when the regulations are introduced. As the House will know, those regulations will be subject to the affirmative resolution procedure, so I hope that there will be an opportunity for a longer debate on the matter. For the purposes of this afternoon, however, I hope that that underlining will be sufficient.
+
+On the question of sharing information, the hon. Member for Ashford (Damian Green) tempts me. He knows that my background is in the technology business. I shall try not to detain the House for hours and hours—although I happily could—about the system architecture that we proposed in the strategic action plan published last December. In a nutshell, the system will effectively link together an existing Government database called CIS, which is a repository of biographical information, and a new database that will contain the biometric information. That will allow us to hard-wire a link between a single biographical record and a single biometric record. There are some pretty strong safeguards around duplication.
+
+Stewart Hosie
+We have already debated the question of access from a remote site to check the central database, once the eyes or the face of a person have been scanned where a transaction is taking place. Is the Minister suggesting that the two separate repositories will be hard-wired together, or will they be merged into a single repository to allow that checking to happen?
+
+Mr. Byrne
+Mr. Speaker, I know that you will be careful not to let me go back over the strategic action plan, which provided the answer to that question in 30 pages last December. However, I will happily send another copy of it to the hon. Gentleman by way of explanation, if I may.
+
+The hon. Member for Somerton and Frome (Mr. Heath) made an important point, and I can give him some comfort, although I am not sure that I can wholly satisfy him. Proposed new paragraph (f) contains the phrase:
+
+“for such other purposes (whether in connection with functions under an enactment or otherwise) as the regulations may specify.”
+
+The Secretary of State already has common law powers relating to the way in which information may be shared with other parts of the Government, and they are subject to the safeguards set out in the Human Rights Act 1998 and the Data Protection Act 1998. This area is therefore not protection-free; there are some quite important protections already in place. The provision is designed to ensure that those common law powers are not diminished. The only comfort I can give the hon. Gentleman is to underline the point that it refers to functions
+
+“under an enactment or otherwise”.
+
+There is a functional specification in the list, which creates some boundaries, but the principal purpose of the measure is, in effect, to preserve the status quo—namely, the power that the Home Secretary already has to share information with others. I commend the Lords amendments to the House.
+
+Lords amendment agreed to.
+
+Lords amendments Nos. 9 to 16 agreed to.
+
+Clause 19
+
+Points-based applications: no new evidence on appeal
+
+Lords amendment: No. 17.
+
+Mr. Byrne
+I beg to move, That this House agrees with the Lords in the said amendment.
+
+Mr. Speaker
+With this, it will be convenient to discuss Lords amendment No. 18.
+
+Mr. Byrne
+These are technical amendments, for which I am grateful to the Delegated Powers and Regulatory Reform Committee. In the Bill as drafted, we sought to make some changes in the way that evidence was submitted once the points-based system was in place. In particular, we wanted to avoid the nonsense of having late evidence provided at the last minute. We sought to introduce the changes in the immigration rules, but the Delegated Powers and Regulatory Reform Committee made the helpful point that we were looking in the wrong place to introduce those rules. In fact, powers relating to rules about the presentation of evidence to the asylum and immigration tribunal should be exercised by the Lord Chancellor, not the Home Secretary. The amendment is thus designed to correct the legislation on that point. The key phrases in question will now be defined in AIT procedure rules made by the Lord Chancellor, not in immigration rules made by the Home Secretary. I commend the amendment to the House.
+
+Damian Green
+This group—and, indeed, the previous group—provides a welcome step forward in clarification. In respect of the previous group, a degree of parliamentary scrutiny can be provided. I have sat on many Public Bill Committees in which scrutiny is batted back and forth. It is always good when we get to the end of the procedure and Ministers admit that some degree of parliamentary scrutiny is quite useful and that it should apply beyond the original point where the Bill is passed and should also apply to regulations or, in this case, codes of practice that are introduced as a result of legislation.
+
+My noble Friends in the other place were particularly keen for this power to be vested in the Lord Chancellor rather than the Home Secretary, which was also recommended by the Delegated Powers and Regulatory Reform Committee. I am glad that the Government have acceded to this change. As the Minister says, it is a technical change, but it improves this small corner of the Bill.
+
+Lords amendment agreed to.
+
+Lords amendment No. 18 agreed to.
+
+A New Clause
+
+Children
+
+Lords amendment proposed: No. 19.
+
+“Children
+
+(1) The Secretary of State shall issue a code of practice designed to ensure that in exercising functions in the United Kingdom the Border and Immigration Agency takes appropriate steps to ensure that while children are in the United Kingdom they are safe from harm.
+
+(2) The Agency shall—
+
+(a) have regard to the code in the exercise of its functions, and
+
+(b) take appropriate steps to ensure that persons with whom it makes arrangements for the provision of services have regard to the code.
+
+(3) The code shall come into force in accordance with provision made by order of the Secretary of State; and an order—
+
+(a) shall be made by statutory instrument, and
+
+(b) shall be subject to annulment in pursuance of a resolution of either House of Parliament.
+
+(4) The Secretary of State shall from time to time review and, if necessary, revise the code; and subsection (3) applies to a revision as to the original code.
+
+(5) In this section—
+
+(a) “the Border and Immigration Agency” means—
+
+(i) immigration officers, and
+
+(ii) other officials of the Secretary of State, and the Secretary of State, in respect of functions relating to immigration, asylum or nationality, and
+
+(b) “child” means an individual who is less than 18 years old.”
+
+Mr. Byrne
+I beg to move, That this House agrees with the Lords in the said amendment.
+
+Damian Green
+I beg to move amendment (a) to the Lords amendment, in line 10, at end insert—
+
+‘(c) record in documentation when staff and the Agency depart from the code
+
+and the reasons for such departure, and
+
+(d) inform the Office of the Children’s Commissioner in the relevant constituent part of the United Kingdom on each occasion when it has departed from the code.’.
+
+Mr. Speaker
+With this, it will be convenient to discuss amendment (b) to the Lords amendment, in line 25, at end add—
+
+‘(6) (a) This section shall come into effect six months after the day on which this Act is passed.
+
+(b) During the time specified in subsection (6)(a) the Secretary of State shall consult such organisations as he considers appropriate on the contents of the code.’.
+
+Damian Green
+We have some difficulties with amendment No. 19, which their lordships have proposed. That is why my hon. Friend the Member for Reigate (Mr. Blunt) and I have tabled amendments (a) and (b), which deal with the treatment of children. I am sure that all those who participated in debates on the Bill throughout its various stages will agree that the treatment of children has been the most sensitive and difficult issue, and the one on which, quite rightly, we have spent most time.
+
+The Government’s response to the widespread criticism of their original proposals, not just from Opposition parties, but from the many bodies that devote their lives to helping children in vulnerable positions, is amendment No. 19 and the decision to issue a code of practice, which according to the Bill seeks to ensure that the Border and Immigration Agency takes steps
+
+“to ensure that while children are in the United Kingdom they are safe from harm.”
+
+The Minister will be aware that many of the groups in the Refugee Children’s Consortium regard that as inadequate because it simply is not good enough in terms of the duties and responsibilities that any Government have towards children in this country. The Opposition also believe that it is inadequate if we are to fulfil that important purpose, hence amendments (a) and (b), which would provide extra protection, in as much as we can influence the Bill.
+
+The key is what duties should be imposed on the BIA when it comes into contact with children, as it sadly frequently does. Our original argument in an earlier debate concentrated on section 11 of the Children Act 2004, which imposes on public bodies a greater duty of care for children in their hands than the Government are prepared to accept in the Bill. Ministers in both Houses argued consistently that if they did that, it would be impossible for immigration officers to do their job properly. Instead, we now have the code of practice, which does not incorporate the section 11 duty to promote the welfare of children. That places a weaker duty on Government agencies than the duty that relates to indigenous children in England and Wales. The Government are not conferring any explicit statutory safeguarding duty for the BIA in the Bill. Although the amendment makes the Bill better, I do not, to quote the hon. Member for Somerton and Frome (Mr. Heath), wish to be churlish, but it is still not good enough.
+
+The Government have argued consistently that any attempt to impose section 11 would restrict the primary function of the immigration service. Indeed, a Minister said that any such duty would
+
+“severely compromise our ability to maintain an effective asylum system and strong immigration control”. —[Official Report, House of Lords, 17 June 2004; Vol. 662, c. 996.]
+
+I imagine that the Minister for Borders and Immigration will respond that way again today.
+
+That assertion, however, has been tested during the Bill’s passage through both Houses and has been found wanting. No one disputes that the primary function of the immigration service is to ensure effective immigration control. Indeed, we have made many proposals that would improve the effectiveness of that control. However, other Government agencies also have a different primary function and they are still included in the duty under section 11. That does not appear to have had a negative impact on their performance. The Minister will be well aware that the police have a similar duty. I have never heard Ministers argue that the police cannot exercise their proper central functions while having regard to the constraint of section 11. The police, much more than immigration officers, must take control of situations daily where the immediate welfare of a child, who may well be committing an act of violence, may be compromised. That immigration officers cannot fulfil their duties while obeying the constraints of section 11 is one of the Government’s weaker arguments.
+
+16:30:00
+
+The specific duty of care is not contradictory to the primary function; it simply qualifies the manner in which that primary function is exercised. The explanatory notes to the Act state that the duty is intended to ensure that agencies are conscious of the need to safeguard children and to promote their welfare in the course of exercising their normal functions. That is a key witness in the Government’s argument. The Minister will be aware that the Refugee Children’s Consortium has taken legal advice, which suggests that section 11 would not prevent the Home Secretary from implementing the removal directions for a child or for his or her family and would at most affect the manner in which the removal occurred.
+
+The Minister will be aware that no one on this side of the House would wish to compromise the ability of the immigration service to perform acts such as the removal of those who should not be in this country, but unless the Minister can produce alternative and contradictory legal advice, Ministers ought to take some comfort that they could proceed in the manner that they have consistently rejected throughout the Bill’s passage. I am sure that the Bill should be enhancing child safety and the Government recognised that by tabling their own amendment and by producing the code of practice, which is now before the House. It is a matter of great regret that Ministers have not taken the next step forward and agreed to incorporate section 11.
+
+On the code of practice, which is specifically mentioned in the amendment, the Minister will be aware of controversy in the other place when the code was introduced, simply because it appeared to be placed in the Library about 20 minutes before their lordships were due to debate it. A number of my hon. and noble Friends said that that was shoddy and, frankly, not the way in which they should be treated. I have a degree of sympathy with that.
+
+At least we in this House have had time to read the code of practice, which is still in draft form, so there is still a chance to influence it. We are concerned that the code of practice does not reflect the full spirit of section 11 and I seek to obtain further assurances from the Minister. He will know that amendment (a) concerns the recording of information about when the BIA or its contractors has departed from the code of practice. We believe that recording is essential to monitor the implementation of the code and, in particular, to contribute to the culture change in the BIA that the Minister has consistently said he wants to see.
+
+I do not suppose that anyone wants the procedure to be long and bureaucratic, but one thing it must be is transparent, which is why we have said that the information should be made available to the Office of the Children’s Commissioner. It is also vital that this requirement is rolled out across the whole of the BIA as part of its normal training programme and not just to those areas where children are dealt with most frequently or where a breach is most likely to occur.
+
+Stewart Hosie
+I have a lot of sympathy with the points being made and I understand the requirement to record breaches in the code, but I have a question on the reference to the OCC in the second part of amendment (a). I am not convinced that that is the best place for this work to be done. If the breach of the code relates to health, education or a justice matter, for example, would it not be better in Scotland for that to be reported to the relevant Cabinet Secretary or to the local authority, the education department or the local health board? I am trying to understand the logic of why the OCC should be involved in this matter after the recording has, correctly, been done by the agency itself.
+
+Damian Green
+I am grateful for the hon. Gentleman’s qualified support. The reason for choosing the OCC in the relevant constituent part of the UK—a point I hope he would welcome—is that that office will have as its first concern the welfare of children. It will always be open to the OCC to refer matters to other agencies if their involvement is required, but to try to specify a long list of potential agencies would give rise to a less elegant amendment. The principal point is the need for transparency. If breaches occur, somebody must be responsible for having them reported, and they must be somebody that this House and everyone involved can be reasonably certain will take effective action. I have confidence in the OCC to do that. As it is the best body to go to, this is the most effective way of protecting the interests of children—and if the OCC were not an effective way of protecting the interests of children, we should all be worried because that is what it is for.
+
+The second assurance I seek from the Minister is in response to something said by his noble Friend Lord Bassam on Third Reading. There was a discussion about whether the code could be applied retrospectively to existing contracts. Lord Bassam was not particularly precise on that. He said that
+
+“the advice that we have received is that it can be applied to existing contracts through the notice of change procedures already in place. We intend to ensure that the Border and Immigration Agency has a system of monitoring contractors’ performance by measuring them against a set of standards devised for the specific activities that they carry out for the agency.”—[Official Report, House of Lords, 23 October 2007; Vol. 695, c. 1002.]
+
+He did not state, however, whether all existing contracts would have the code of practice applied through the notice of change procedures. He simply said that it could be done. I would be grateful if the Minister could clarify that—I hope that he makes it clear that the code of practice will be applied in all such cases, and not just that it might be applied.
+
+Amendment (b) has been tabled simply in the hope—particularly in light of what happened in the other place—that everyone involved has sufficient time to agree the code. As we are taking half a step forward when we should be taking a full step forward, we must ensure that the code is supported by all who have the welfare of children at heart and that it is an effective code of practice.
+
+I recommend my amendments to the Minister and the House.
+
+Mr. Heath
+I welcome Lords amendment No. 19. I am glad that Ministers were eventually persuaded by what was a strong coalition of interests in another  place. Not only my noble Friends and those of the hon. Member for Ashford (Damian Green), but Cross-Bench Peers, right reverend Prelates and most reverend Primates, were involved in making the strong arguments that, where we have a clear commitment through the Children’s Act 2004 and our international obligations to the welfare of children, there is no reason why that should not apply in the sphere of Government activity under discussion as much as in any other. That is not to undermine the executive actions of the Border and Immigration Agency, because that would be absurd, any more than it is to undermine any of the other activities of Government that we require it to commit to the welfare of the child through pre-existing legislation and our treaty obligations. There must be a reconciliation with the proper interests of children as being a specific and vulnerable case, which needs to be addressed in respect of how things are done in the name of the state when it has an application that impinges on children. That is what was argued for strongly. There was resistance to that view in another place. I recall that the Government won a Division by a majority of one on precisely this issue before they chose to incorporate the new clause in any case.
+
+That much is welcome, but I understand the arguments for amendment (a) made by the hon. Member for Ashford. Unless we have a clear view of the actions that are in breach of the code of conduct, neither we, nor, more importantly, those outside this House who have a genuine interest in the interests of the child, will be able to monitor the adequacy of the arrangements that have been put in place. What he suggests in amendment (a) seems sensible.
+
+I accept the point, made in an intervention, that the Children’s Commissioner may not always be the most appropriate person to be notified, but he is an entirely appropriate mechanism for ensuring that whatever breaches occur are put on the official record and are then actionable by the appropriate authorities. If the hon. Gentleman presses his amendment to a Division, I shall advise my right hon. and hon. Friends to support him.
+
+I am less convinced by amendment (b), simply because I do not believe in delaying what ought to be in place ab initio in child protection. Although the argument is that a six months’ delay will allow proper consultation with all the organisations concerned to ensure that things are done adequately, I would prefer the provision to be in place from the start of the implementation of this Bill, when enacted. If we treat Home Office Acts as being of a kind, it is possible that implementation of the Act may not, in any case, be for some time—indeed, the Act may well be repealed in whole or in part before it is ever implemented. That is how the Home Office manages its affairs. Let us take it on trust that it intends to implement this Bill and that once on the statute book, it will have a real effect.
+
+Mr. Oliver Heald (North-East Hertfordshire) (Con)
+Does the hon. Gentleman agree that it is important for there to be consultation with the children’s organisations, charities and voluntary bodies? They stand up for children, and one would certainly want an assurance that such full consultation about the code of practice would take place.
+
+Mr. Heath
+I want to hear the assertion that such consultation has already happened. I want the Minister to say from the Dispatch Box that he has already listened to that range of organisations that have an interest to ensure that their views are being taken, and have been taken, into account in preparing the code.
+
+Damian Green
+I assure the hon. Gentleman that my meetings with children’s organisations over the past week suggest that whether or not the Minister feels that he has adequately consulted them on this code of practice, they do not feel that their views have yet been adequately reflected in it.
+
+Mr. Heath
+That is precisely why I was looking forward to an assertion from the Dispatch Box by the Minister, so that it could be relayed back to those organisations.
+
+The last point that I want to make is that the Minister has accepted that the provision should apply not only to the agency, but to any contracted organisation that it might use to fulfil some of its duties. Again, there should have been no argument about that. It is absolutely straightforward. It should not have posed any question. The hon. Member for Ashford asked the Minister about the slightly less than lucid response from Lord Bassam. I have known Lord Bassam for a very long time, and his responses are often not quite as comprehensible as perhaps they should be, but I hope that the Minister will tell us exactly what he meant. Perhaps he simply meant that he was unsighted on the issue in another place, and perhaps the Minister can fill in the gaps for us this afternoon. On that basis, I will certainly not oppose Lords amendment No. 19, but I will support amendment (a) if the hon. Member for Ashford presses it to a vote.
+
+16:45:00
+
+Mr. John Redwood (Wokingham) (Con)
+I congratulate my hon. Friend the Member for Ashford (Damian Green) on pressing this issue with hon. Members and those in the other place. I should like to thank the Government for listening and making some response. That is a welcome feature, but I rise to support his wish for the Government to go a bit further. The problem that they face is that they have made a concession in the form of a code of practice, which has nothing like the teeth that it would have if it were a statutory requirement or a procedure laid down in law.
+
+My hon. Friend’s proposal is a good way to bridge the gap between a clear law on the one hand and a rather weak code of practice on the other. He suggests that, where the code of practice is not followed, it should be a matter of report, so that the people who follow the procedures will understand that it is not just any old code of practice that came round in an e-mail a year ago that has been forgotten about, but something that is part of their operative procedures. I hope that the Minister will accept amendment (a) in that spirit and that, having made the move to welcome the idea of a code of conduct, he will wish to see it firmly written into procedures, because there is a consensus in the House and the other place that the problem of children is very special in the context of our immigration service.
+
+As my hon. Friend has said, many Conservative Members wish to see stronger and better policing of our borders in all sorts of ways, but we also think that the rights of children need to be looked after.
+
+Mr. Byrne
+The Government agree with Lords amendment No. 19, but resist amendments (a) and (b) for reasons that I will set out, but before I do so, I wish to put on the record my personal thanks to right hon. and hon. Members on both sides of the House who have taken part in debates in the Chamber and in Committee. The hon. Member for Ashford (Damian Green) is right to say that this has been one of the most important parts of our debates, and I am grateful for the light that that has shed on the question.
+
+I am also grateful to Professor Al Ainsley-Green, the Children’s Commissioner, with whom I have met and discussed these proposals; to the Refugee Children’s Consortium, which includes Barnardo’s and the Children’s Society; and to the Association of Directors of Children’s Services in England and officials in devolved Administrations not only for the help that they have given to us in getting the duty that we have introduced framed in the way that we have, but for the assistance that they have given to us in putting together a much broader programme of reform in how the Border and Immigration Agency treats children.
+
+This duty is one of four important measures that I have introduced over the past 12 months. We have the duty that we propose here. We have the new safeguarding code. We are now in the process of piloting alternatives to the detention of families with children. That pilot scheme will soon be operational. Of course, we are also consulting publicly on how our policies on unaccompanied asylum-seeking children can be changed. In particular, I am keen to see a much stronger provision of local authority care, with specialist authorities coming forward to look after unaccompanied asylum-seeking children, thus providing much greater protection than is currently available. It is not a case of eventual persuasion being needed, but part of a much broader and systematic programme of reform across the BIA.
+
+There have been debates about section 11 in the Chamber, in Committee and in another place, so I shall not rehearse all the arguments, save to point out that section 11 of the Children Act 2004 contains a double-headed duty. It is not only about keeping children safe but about promoting their welfare. The hon. Member for Ashford errs just a little when he colours the argument by stating that Ministers say it would be impossible to enforce the immigration rules if section 11 was imposed on the BIA. That is not the argument. The argument is that it would create the risk of judicial reviews and other legalistic devices being thrown against the agency, which will slow down its ability to remove people to the country from which they came—when courts have said it is appropriate to do so. Where there are chinks of light for people who want to resist BIA actions, they are pursued with some force, so my concern is that when Home Office lawyers and, in particular, BIA operational leaders, say that there is a risk that judicial reviews will multiply, it will slow the process of legitimate removal. That is dangerous, because where there are barriers to legitimate removal, we know they will be exploited by those who seek to do children harm.
+
+In a nutshell, if a section 11 duty was imposed on the agency, it would not be a risk-free measure; it would create a new risk—that the deportation removal process would be slowed down—and we know that is bound to be exploited by those who could do children harm.
+
+Mr. Heald
+As the Minister’s code of conduct is only one to which the agency shall “have regard” rather than one that has to be strictly followed, does not he agree that there needs to be a mechanism to protect children, such as that set out in amendment (a)? If that is not to be the protection, what is?
+
+Mr. Byrne
+I shall deal with amendment (a) and the protections, which are important, in a moment.
+
+David T.C. Davies
+In my dealings with the Minister, he often gives the impression that he shares the widespread concern about the abuse of the asylum system. If he is concerned that judicial reviews and taxpayers’ money, which funds legal aid and lawyers, are being abused, would not it be more sensible to discuss with his colleagues in the Ministry of Justice how we can prevent fatuous legally aided appeals in the first place rather than circumnavigating section 11 of the Children Act?
+
+Mr. Byrne
+The hon. Gentleman has a keen eye for some of the practicalities of the debate; he will be delighted to hear that discussions are ongoing with my colleagues in the Ministry of Justice.
+
+The upshot of my argument is that to accept section 11 is not risk-free and I am not prepared to take that risk at this stage. There are a number of necessary consequences. The first is that the code must apply to BIA contractors—a point put to me forcefully by children’s charities. I am happy to accept that principle, which is important because the BIA works with contractors to provide both detention and escorting facilities. I can be clearer than my noble Friend, Lord Bassam: the code will apply to BIA contractors currently on the books and it will apply to BIA contractors in the future.
+
+The reason I resist amendment (a) is fairly straightforward. The hon. Member for Ashford put his finger on the key principle—transparency. It is absolutely crucial that departures from the code are recorded. Amendment (a) is sketched in such a way that it begins, in effect, to make the Border and Immigration Agency accountable to the Children’s Commissioner, and to extend his original role. Let us remember that his original role is carefully defined in legislation: it is to ensure that children’s views are taken into account. As the House will know, I am keen to avoid such a change, because an important part of the Bill is the creation of a much more powerful regulator, and I do not wish to blur roles and responsibilities in the regulatory system. I want to make sure that there is one regulator, who is unchallengeable.
+
+However, I have asked officials to talk to the Children’s Commissioner about how we can satisfy the ambition behind the amendment tabled by the hon. Member for Ashford, and I can now tell the House that where there are deviations from the code, the BIA will be required to record them. Those departures will be reviewed by a senior member of the BIA team, as and when they occur. We will also alert the BIA’s chief inspector, and if it wishes to undertake an investigation on that point, it is empowered to do so. On top of that, there will be quarterly meetings between the BIA and the Children’s Commissioner, at which all departures from the code will be discussed. I am told that officials working with the Children’s Commissioner believe that that is a workable and sensible mechanism.
+
+I hope that that puts some concerns to bed, but I can give the House an additional comfort: under section 2(9) of the Children Act 2004, the commissioner has the right to be supplied with any information relating to BIA functions that he may reasonably request to discharge his role. Our policy will be to disclose immediately, should the Children’s Commissioner seek to lodge such a request. Those are important safeguards, which I am happy to read on to the record this afternoon. They underline the key point that the hon. Member for Ashford made: if the code is to be worth something, there must be transparency as regards its enforcement.
+
+I must apologise to their lordships for the late arrival of the code; that was entirely my responsibility. The code was late because I was not satisfied with the original draft. To my mind, some of the wording of the original code was ambiguous. It was not hard-edged enough in terms of the obligations that it imposed on the BIA, so I ordered a rewrite over the final weekend, and that produced a delay in making the code available in another place.
+
+I wish to resist amendment (b) to Lords amendment No. 19. I sympathise with the argument made by the hon. Member for Somerton and Frome (Mr. Heath), which is that we need to press on as fast as possible with the implementation of the code. The word of comfort that I can offer is straightforward: the code will be put out to a full public consultation, in line with Cabinet Office guidelines. I will work with the children’s charities to help to get that right. I have met them already and I am happy to meet them again. That means a full three-month consultation period, which will take place before the code is put in place—in, I imagine, about six months’ time. We will follow the Cabinet Office guideline-based process to get the code right and to put it in place, and I think that that will serve the ambitions of the hon. Member for Ashford. I urge the House to resist amendments (a) and (b), and I commend Lords amendment No. 19.
+
+Damian Green
+May I express my gratitude to the Minister for the steps forward that he has taken? He has made genuine and welcome concessions in response to our amendment (a), and I am glad to hear of them. Sadly, although we have inched towards each other, I do not think that we have yet met in the middle of the bridge. I am not convinced that a quarterly meeting with the Children’s Commissioner is enough, as in some cases an immediate and urgent investigation will certainly be required. As I say, I welcome the Minister’s concessions, but I do not think that they go far enough, and I still wish to press amendment (a).
+
+On amendment (b), I take the point that the hon. Member for Somerton and Frome (Mr. Heath) made about the six-month delay, but as we have just heard the Minister say that it will take six months for the code to come into force, it seems to me that we are left with a distinction without a difference. However, I will press amendment (a) to a Division.
+
+Question put, That the amendment to the Lords amendment be made:—
+
+The House proceeded to a Division.
+
+Madam Deputy Speaker (Sylvia Heal)
+I ask the Serjeant at Arms to investigate the delay in the Aye Lobby.
+
+Division 221
+29/10/2007 16:59:00
+The House having divided:
+Ayes: 182
+Noes: 268
+Question accordingly negatived.
+
+Lords amendment agreed to.
+
+SITTINGS OF THE HOUSE
+
+Ordered,
+
+That on Tuesday 30th October, the House shall meet at 11.30 a.m.—[Mr. Alan Campbell.]
+
