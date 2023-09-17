@@ -1,0 +1,13 @@
+## Bing
+
+Here is my response based on the text file open in your current webpage:
+
+Summary - The text file is a transcript of a debate in the UK Parliament on a bill that seeks to approve two draft EU laws based on Article 352 of the Treaty on the Functioning of the European Union[1]. The debate focuses on the EU spending programme Europe for Citizens, which some MPs oppose as a propaganda tool for European integration.
+
+For - Voting 'Ayes' in the division means supporting amendment 4, which would limit the use of the Europe for Citizens programme to fund education and reflection on the Holocaust, armed conflicts and totalitarian regimes in Europe's history, and exclude any funding for the promotion of EU citizenship, integration or institutions[2].
+
+Against - Voting 'Noes' in the division means rejecting amendment 4, and allowing the Europe for Citizens programme to continue as proposed by the EU, with 60% of the funds allocated to democratic engagement and civic participation in the EU policy making process, and 20% to remembrance activities[3].
+
+Decision - Voting 'Aye' in the division is associated with protectionism and independence from the European Union and other foreign affairs, as it would restrict the scope of the Europe for Citizens programme and prevent it from influencing public opinion in favour of European integration. It would also signal the UK's intention to use its veto power over Article 352 laws more assertively.
+
+Sentiment - B

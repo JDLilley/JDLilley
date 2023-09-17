@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I can help you review the text file open in your current webpage. Here is my response based on your request:
+
+Summary - The text file is a transcript of a parliamentary debate on the Offender Rehabilitation Bill, which aims to reform the probation service and extend supervision to short-term prisoners. The debate covers various amendments and new clauses proposed by different parties.
+
+For - Voting 'Ayes' in the division means supporting New Clause NC5, which would require the Secretary of State to report on the performance of probation service providers and their transparency and accountability. This would ensure proper parliamentary scrutiny and public oversight of the reforms.
+
+Against - Voting 'Noes' in the division means rejecting New Clause NC5, which would impose additional burdens and constraints on the Secretary of State and the probation service providers. This would hinder the flexibility and innovation of the reforms and delay their implementation.
+
+Decision - Voting 'Aye' in the division is associated with greater police powers, harsher punishments, and strengthening Crime & Justice. This is because New Clause NC5 would enable more rigorous monitoring and evaluation of the probation service providers and their outcomes, and potentially penalise them for poor performance or contractual breaches.
+
+Sentiment - A

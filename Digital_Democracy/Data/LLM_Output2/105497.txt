@@ -1,0 +1,13 @@
+## Bing
+
+Thank you for your request. Here is my response based on the text file open in your current webpage:
+
+Summary - The text file contains a transcript of a parliamentary debate on the Anti-social Behaviour, Crime and Policing Bill in 2023. The debate covers various topics such as court fees, criminal record checks, forced marriage, and miscarriages of justice.
+
+For - Voting 'Ayes' in the division means supporting amendment 96, which would remove clause 143 from the Bill. Clause 143 would narrow the definition of miscarriage of justice for compensation purposes, requiring proof of innocence beyond reasonable doubt. Those who voted 'Ayes' argued that clause 143 was incompatible with the presumption of innocence and the European Convention on Human Rights.
+
+Against - Voting 'Noes' in the division means opposing amendment 96, and keeping clause 143 in the Bill. Clause 143 would align the definition of miscarriage of justice with the Supreme Court ruling in Adams v. Secretary of State for Justice (2011). Those who voted 'Noes' argued that clause 143 was necessary to prevent undeserving claimants from receiving compensation and to protect public funds.
+
+Decision - Voting 'Aye' in the division is associated with freedom and autonomy, limiting police powers and softer punishments, limiting Crime & Justice. This is because voting 'Aye' would uphold the principle that a person is innocent until proven guilty, and that the burden of proof lies with the prosecution, not the defence[1]. It would also ensure that those who have been wrongfully convicted and imprisoned have a fair chance of receiving compensation for their suffering.
+
+Sentiment - B

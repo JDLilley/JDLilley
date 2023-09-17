@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I can help you review the text file open in your current webpage. Here is my response:
+
+Summary - The text file is a transcript of a debate in the UK Parliament about a tax relief for married couples and civil partners. The debate covers the arguments for and against the policy, its impact on different groups of people, and its cost and complexity.
+
+For - Voting for clause 11 means supporting the tax relief for married couples and civil partners, which is seen as a recognition of marriage in the tax system and a benefit for low-income households[1]. The supporters of the policy argue that it is progressive, popular, and consistent with other OECD countries.
+
+Against - Voting against clause 11 means opposing the tax relief for married couples and civil partners, which is seen as a dud policy that excludes many families, discriminates against women, and complicates the tax system[1]. The opponents of the policy argue that it is unfair, ineffective, and wasteful.
+
+Decision - Voting for clause 11 is associated with austerity and regulation, because it is a policy that reduces the tax revenue of the government and imposes a specific condition on the taxpayers to qualify for the relief. It also creates more administrative burden for HMRC and employers.
+
+Sentiment - B

@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I can help you review the text file open in your current webpage. Here is my response based on your request:
+
+Summary - The text file is a transcript of a debate in the UK Parliament about the definition of a miscarriage of justice for the purpose of compensation. The Government proposed to amend the clause that required proof of innocence beyond reasonable doubt, and the Opposition argued that this was unfair and incompatible with the presumption of innocence[1].
+
+For - Voting 'Ayes' in the division means supporting the Government's amendment, which would remove the reference to innocence and replace it with a test of whether the person did not commit the offence[2]. This would provide clarity and certainty for applicants and avoid further judicial interpretation.
+
+Against - Voting 'Noes' in the division means opposing the Government's amendment, which would make it harder for victims of miscarriages of justice to receive compensation. This would violate the principle of innocent until proven guilty and ignore the rulings of the Supreme Court and the European Court of Human Rights[3].
+
+Decision - Voting 'Aye' in the division is associated with greater police powers, harsher punishments, and strengthening Crime & Justice. This is because it would limit the scope for compensation and deter people from challenging wrongful convictions. It would also favour the prosecution over the defence and undermine the credibility of the justice system.
+
+Sentiment - A

@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I can help you review the text file open in your current webpage. Here is my response based on your request:
+
+Summary - The text file is a transcript of a debate in the UK Parliament on the Finance (No. 2) Bill, which contains various tax and spending measures. The debate covers topics such as business investment, tax avoidance, pensions, and personal allowance.
+
+For - Voting for the Bill means supporting the Government's economic policies, which aim to reduce the deficit, stimulate growth, and create a fairer tax system. The Bill includes cuts to corporation tax, incentives for innovation and employee ownership, action against tax evasion and avoidance, and more flexibility for pensioners.
+
+Against - Voting against the Bill means opposing the Government's economic policies, which are seen as favouring the wealthy, hurting the low-paid, and failing to address inequality. The Bill is criticised for reducing investment allowances, freezing work allowances, cutting the top rate of tax, and creating uncertainty for pensioners.
+
+Decision - Voting for the Bill is associated with austerity and regulation. The Bill reflects the Government's commitment to fiscal consolidation and reducing public spending. It also introduces new rules and restrictions on tax avoidance schemes and corporate structures.
+
+Sentiment - B

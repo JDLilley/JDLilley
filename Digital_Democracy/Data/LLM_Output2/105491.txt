@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I can help you review the text file open in your current webpage. Here is my response based on your request:
+
+Summary - The text file is a transcript of a parliamentary debate on a bill that aims to regulate lobbying, campaigning and trade union activities in the UK. The debate covers various amendments and clauses of the bill and the views of different parties and MPs.
+
+For - Voting 'Ayes' in the division means supporting amendment 101, which would delay the implementation of part 2 of the bill until a report on its impact on devolved institutions and referendums is laid before Parliament. This would ensure proper consultation and assessment of the bill's effects on democracy and civil society.
+
+Against - Voting 'Noes' in the division means opposing amendment 101, which would delay the implementation of part 2 of the bill until a report on its impact on devolved institutions and referendums is laid before Parliament. This would allow the bill to proceed without further delay and prevent potential abuse of lobbying and campaigning by third parties.
+
+Decision - Voting 'Aye' in the division is associated with accountability and decentralisation in the context of parliamentary procedures, because it would require the government to take into account the views and interests of the devolved institutions and the public on the bill, and to respect their autonomy and diversity.
+
+Sentiment - A

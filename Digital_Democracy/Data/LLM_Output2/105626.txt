@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I can help you review the text file open in your current webpage. Here is my response based on your request:
+
+Summary - The text file is a transcript of a debate in the UK Parliament on the Care Bill, which aims to reform the health and social care system. The debate focuses on the issues of data sharing, confidentiality, and research.
+
+For - Voting 'Ayes' in the division means supporting amendment 29, which would require the Health and Social Care Information Centre to consult the Secretary of State before disseminating information. This would ensure more oversight and accountability for data use.
+
+Against - Voting 'Noes' in the division means opposing amendment 29, which would create unnecessary bureaucracy and delay for data dissemination. This would hinder the efficiency and innovation of health and social care research.
+
+Decision - Voting 'Aye' in the division is associated with investment in public health and improving standards of care, in the context of Health & Healthcare. This is because it would protect the privacy and trust of patients, and prevent misuse or abuse of data by commercial or other interests.
+
+Sentiment - A

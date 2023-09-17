@@ -1,0 +1,11 @@
+## Bing
+
+Summary - The text file is a transcript of a parliamentary debate on the High Speed Rail (London - West Midlands) Bill, which aims to build a new railway line connecting London and Birmingham. The debate covers the benefits, costs, and impacts of the project.
+
+For - Voting 'Ayes' means supporting the Bill and the construction of HS2. It means agreeing with the arguments that HS2 will boost the economy, create jobs, increase capacity, improve connectivity, and enhance infrastructure.
+
+Against - Voting 'Noes' means opposing the Bill and the construction of HS2. It means agreeing with the arguments that HS2 is too expensive, environmentally damaging, poorly planned, unfairly distributed, and unnecessary.
+
+Decision - Voting 'Aye' is associated with innovation, progressivism, and flexibility in the context of Standards & Technology. It implies a vision of a modern and dynamic transport system that can meet the future needs and challenges of the country.
+
+Sentiment - A

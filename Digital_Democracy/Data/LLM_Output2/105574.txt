@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I can help you review the text file open in your current webpage. Here is my response based on your request:
+
+Summary - The text file is a transcript of a debate in the UK Parliament on the Offender Rehabilitation Bill, which aims to reform the probation service and extend supervision to short-term prisoners. The debate covers various amendments and clauses proposed by different parties.
+
+For - Voting 'Ayes' for New Clause 1 means supporting the amendment that would require parliamentary approval before any national restructure or reform of the probation service[1]. This would ensure proper scrutiny and oversight of the Government's plans, which are seen as risky and untested by some.
+
+Against - Voting 'Noes' for New Clause 1 means opposing the amendment that would require parliamentary approval before any national restructure or reform of the probation service. This would allow the Government to proceed with its plans, which are seen as necessary and innovative by some.
+
+Decision - Voting 'Aye' for New Clause 1 is associated with freedom and autonomy, limiting police powers and softer punishments, limiting Crime & Justice. This is because the amendment would constrain the Government's ability to privatise and outsource probation services, which could lead to lower standards and public safety risks.
+
+Sentiment - B

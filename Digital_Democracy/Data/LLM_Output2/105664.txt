@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I have reviewed the text file open in your current webpage and here is my response:
+
+Summary - The text file is a transcript of a debate in the UK House of Commons on the Immigration Bill and its amendments. The main issue is whether the Home Secretary should have the power to deprive naturalised British citizens of their citizenship if they pose a threat to national security, even if that would make them stateless.
+
+For - The Government argues that the power is necessary, proportionate and reasonable to protect the UK from a small number of dangerous individuals who abuse their citizenship[1]. They say that the power will only be used in exceptional cases, with safeguards and reviews, and that it complies with international obligations.
+
+Against - The Opposition and some peers and MPs from other parties oppose the power as a violation of human rights and a breach of the UK's commitment to reduce statelessness. They say that the power is arbitrary, ineffective and counter-productive, as it would create legal limbo, undermine co-operation with other countries and avoid dealing with the root causes of terrorism.
+
+Decision - The decision to disagree with the Lords amendment 18 would tighten immigration and borders, as it would give the Home Secretary more authority to exclude or expel naturalised British citizens who are deemed to be a risk to national security, regardless of their access to another nationality.
+
+Sentiment - A

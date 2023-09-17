@@ -1,0 +1,11 @@
+## Bing
+
+Summary - The text file is a transcript of a debate in the UK Parliament on the Gambling (Licensing and Advertising) Bill, which aims to regulate remote gambling operators and protect consumers. The debate covers various amendments and new clauses proposed by different MPs.
+
+For - Voting for new clause 14 means supporting the idea that the Gambling Commission should hold a list of people who wish to self-exclude from remote gambling, and that operators should exclude them as a condition of their licence[1]. This would enhance consumer protection and prevent problem gambling.
+
+Against - Voting against new clause 14 means opposing the idea that the Gambling Commission should hold a list of people who wish to self-exclude from remote gambling, and that operators should exclude them as a condition of their licence[1]. This would maintain the current system of voluntary self-exclusion schemes run by individual operators or trade associations.
+
+Decision - Voting for new clause 14 is associated with regulation, as it would impose a statutory obligation on remote gambling operators to comply with the self-exclusion list held by the Gambling Commission[1]. This would increase the regulatory burden on the industry and restrict consumer choice.
+
+Sentiment - B

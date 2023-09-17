@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I can help you review the text file open in your current webpage. Here is my response based on your request:
+
+Summary - The text file is a transcript of a debate in the UK Parliament on the Finance (No. 2) Bill, which covers various tax measures for 2015-16. The main topics discussed are corporation tax, business rates, and support for small and medium-sized enterprises.
+
+For - Voting for amendment 4 means supporting a review of the impact of an additional cut of 1% to the main rate of corporation tax for 2015-16, especially on businesses with fewer than 50 employees. The amendment was proposed by the Labour party, which argued that the cut would benefit only a small fraction of businesses and that alternative tax measures, such as reducing business rates, would have a greater benefit for SMEs.
+
+Against - Voting against amendment 4 means opposing a review of the impact of an additional cut of 1% to the main rate of corporation tax for 2015-16. The amendment was opposed by the Conservative and Liberal Democrat parties, which claimed that the cut would make the UK more attractive for businesses to invest and create jobs. They also argued that the Government had taken other steps to help SMEs, such as capping business rates increases, extending small business rate relief, and providing access to finance and export schemes.
+
+Decision - Voting for amendment 4 is associated with austerity and regulation, as it implies that the Government should reconsider its policy of cutting corporation tax and instead focus on other tax measures that could help SMEs cope with their costs and challenges. It also suggests that the Government should monitor and evaluate the effects of its tax policies on different types of businesses.
+
+Sentiment - B

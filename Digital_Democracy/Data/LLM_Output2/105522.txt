@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I can help you review the text file open in your current webpage. Here is my response based on your request:
+
+Summary - The text file is a transcript of a debate in the UK Parliament on the Offender Rehabilitation Bill, which aims to provide more supervision and support for offenders released from short prison sentences and to reform the probation service.
+
+For - Voting 'Ayes' in the division means supporting the Government's proposal to programme any other proceedings on the Bill, including any message from the Lords. This would allow the Government to control the timetable and speed up the passage of the Bill.
+
+Against - Voting 'Noes' in the division means opposing the Government's proposal to programme any other proceedings on the Bill, including any message from the Lords. This would allow more time for scrutiny and debate on the Bill and any amendments from the Lords.
+
+Decision - Voting 'Aye' in the division is associated with greater police powers, harsher punishments, and strengthening Crime & Justice. This is because the Government's proposal would enable them to implement their reforms to the probation service, which involve privatising most of the services and introducing payment by results. The Government claims that this would reduce reoffending and protect public safety, but the Opposition argues that this would create risks and undermine the existing probation service.
+
+Sentiment - A

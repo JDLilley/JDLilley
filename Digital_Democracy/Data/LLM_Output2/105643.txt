@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I can help you review the text file open in your current webpage. Here is my response based on your request:
+
+Summary - The text file is a transcript of a debate in the UK Parliament on the Finance (No. 2) Bill, which covers various tax measures for the financial year 2015. The main topic of discussion is the impact of corporation tax cuts on small and medium-sized enterprises (SMEs).
+
+For - Voting for the amendment means supporting a review of the corporation tax cut from 21% to 20% for large businesses, and its effect on SMEs. The amendment argues that the tax cut benefits only 2% of businesses, while SMEs face higher costs and challenges in accessing finance, exporting and energy prices.
+
+Against - Voting against the amendment means opposing a review of the corporation tax cut and maintaining the Government's policy of lowering the main rate of corporation tax to attract investment and growth. The amendment is criticised as a sign of Labour's anti-business attitude and lack of coherence on tax policy.
+
+Decision - Voting for the amendment is associated with austerity and regulation, as it implies a reversal of the corporation tax cut and a preference for alternative tax measures that would benefit SMEs, such as business rates relief. Voting for the amendment also suggests a scepticism about the effectiveness of lower corporation tax rates in stimulating the economy.
+
+Sentiment - B

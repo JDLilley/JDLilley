@@ -1,0 +1,11 @@
+## Bing
+
+Summary - The text file is a transcript of a parliamentary debate on the Health and Care Bill, which aims to reform the health and social care system in England. The debate covers various amendments and new clauses proposed by MPs and peers, some of which relate to data protection, palliative care, and cosmetic procedures.
+
+For - Voting 'Ayes' for New Clause NC16 means supporting the introduction of a licensing regime for aesthetic non-surgical cosmetic procedures, such as botox and fillers. This would make it an offence for someone to practise without a licence and ensure that the treatments are safe and regulated.
+
+Against - Voting 'Noes' for New Clause NC16 means opposing the introduction of a licensing regime for aesthetic non-surgical cosmetic procedures. This could be because of concerns about the cost and feasibility of implementing such a regime, or because of a preference for voluntary self-regulation by the industry.
+
+Decision - Voting 'Aye' for New Clause NC16 could be seen as associated with investment in public health and improving standards of care, in the context of Health & Healthcare. This is because the licensing regime would aim to protect the health and wellbeing of people who undergo cosmetic procedures, and to prevent harm and complications from unqualified or unscrupulous practitioners.
+
+Sentiment - A

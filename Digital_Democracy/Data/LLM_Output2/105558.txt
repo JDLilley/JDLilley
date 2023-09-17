@@ -1,0 +1,11 @@
+## Bing
+
+Summary - The text file is a transcript of a debate in the UK House of Commons on the Care Bill [Lords], which aims to reform the social care system and implement the recommendations of the Francis Report on the Mid Staffordshire NHS Foundation Trust. The debate covers issues such as funding, quality, integration, and regulation of health and social care services.
+
+For - Voting 'Ayes' means supporting the Government's Care Bill, which introduces a cap on care costs, a deferred payment scheme, a new chief inspector of hospitals, a duty of candour, and measures to integrate health and social care. It also means rejecting the Opposition's amendment, which criticises the Bill for being inadequate and failing to address the current crisis in care.
+
+Against - Voting 'Noes' means opposing the Government's Care Bill, which is accused of being a care con that does not protect people from selling their homes, does not provide enough funding for local authorities, and does not improve care standards. It also means supporting the Opposition's amendment, which calls for a genuinely integrated NHS and social care system and full implementation of the Francis Report.
+
+Decision - Voting 'Aye' in this division is more associated with fiscal responsibility in the context of Health & Healthcare, as the Government claims that its Care Bill is affordable and sustainable, while the Opposition argues that it is underfunded and unfair. Voting 'Aye' also implies that the Government's measures to improve quality and safety of care are sufficient and effective, while the Opposition disputes that.
+
+Sentiment - B

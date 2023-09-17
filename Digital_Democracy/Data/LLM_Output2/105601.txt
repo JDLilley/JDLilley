@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I can help you review the text file open in your current webpage. Here is my response based on your request:
+
+Summary - The text file is a transcript of a debate in the UK Parliament about the definition of a miscarriage of justice for the purpose of compensation. The debate focuses on whether the new or newly discovered fact that led to the quashing of a conviction should show beyond reasonable doubt that the person did not commit the offence or that no conviction could possibly be based on it[1].
+
+For - Voting 'Ayes' in the division means supporting the Government's amendment (a) in lieu of Lords amendment 112, which proposes that a miscarriage of justice occurs only when the new or newly discovered fact shows beyond reasonable doubt that the person did not commit the offence. This would limit compensation to cases where there is clear evidence of innocence and avoid judicial interpretation.
+
+Against - Voting 'Noes' in the division means opposing the Government's amendment (a) in lieu of Lords amendment 112, which proposes that a miscarriage of justice occurs only when the new or newly discovered fact shows beyond reasonable doubt that the person did not commit the offence. This would impose a high burden of proof on applicants and violate the presumption of innocence.
+
+Decision - Voting 'Aye' in the division is associated with greater police powers, harsher punishments, and strengthening Crime & Justice. This is because it would make it harder for people who have been wrongly convicted to receive compensation and redress, and it would give more discretion to the Secretary of State to decide who is innocent or not.
+
+Sentiment - A

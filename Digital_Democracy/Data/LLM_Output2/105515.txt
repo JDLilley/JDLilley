@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I have reviewed the text file open in your current webpage and here is my response:
+
+Summary - The text file is a transcript of a debate in the UK Parliament on the High Speed Rail (Preparation) Bill, which authorises spending for a new railway network. The debate covers the benefits and drawbacks of the project, as well as the amendments proposed by various MPs.
+
+For - Voting 'Ayes' in the division means supporting the third reading of the bill and allowing it to pass to the House of Lords. It means agreeing with the arguments that HS2 will increase capacity, connectivity, and economic growth for the regions and the country as a whole.
+
+Against - Voting 'Noes' in the division means opposing the third reading of the bill and preventing it from progressing further. It means agreeing with the arguments that HS2 is too costly, risky, and damaging to the environment and communities along the route.
+
+Decision - Voting 'Aye' in the division is associated with innovation, progressivism, and flexibility in the context of Standards & Technology. It shows a willingness to invest in a modern and efficient transport system that can meet future demand and compete globally.
+
+Sentiment - A

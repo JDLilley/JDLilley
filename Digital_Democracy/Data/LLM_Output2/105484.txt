@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I have reviewed the text file open in your current webpage and here is my response:
+
+Summary - The text file is a transcript of a parliamentary debate on a bill that aims to regulate lobbying, non-party campaigning and trade union administration in the UK. The debate covers various amendments and clauses of the bill and the arguments for and against them.
+
+For - Voting 'Ayes' in the division means supporting amendment 112, which would require trade unions to have a ballot of their members every five years to decide whether they want to have a political fund. This would increase the accountability and transparency of trade union political activities and give members more choice and control over their contributions.
+
+Against - Voting 'Noes' in the division means opposing amendment 112, which would impose an unnecessary and costly burden on trade unions and their members. This would undermine the right of trade unions to engage in political campaigning and representation on behalf of their members and weaken their voice in public debate.
+
+Decision - Voting 'Aye' in the division is associated with accountability and decentralisation in the context of parliamentary procedures, as it would make trade unions more responsive to their members' preferences and reduce the influence of centralised political funds.
+
+Sentiment - A

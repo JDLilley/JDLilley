@@ -1,0 +1,11 @@
+## Bing
+
+Summary - The text file is a transcript of a debate in the UK Parliament on the Immigration Bill, which aims to reform the immigration system and prevent abuse. The debate covers various amendments and new clauses proposed by the government and the opposition.
+
+For - Voting for (Ayes) in the division means supporting the government's new clauses 12 and 18, which would allow the Home Secretary to charge fees for certain immigration services and to deprive naturalised citizens of their citizenship if they are deemed to be a threat to national security.
+
+Against - Voting against (Noes) in the division means opposing the government's new clauses 12 and 18, which would impose additional costs on migrants and visitors who use the immigration system and potentially violate human rights by making people stateless without due process or judicial oversight.
+
+Decision - The consideration of the bill, as amended in the PBC, that new clauses 12 and 18 be added to the bill would tighten immigration and borders, as it would make it more difficult and expensive for people to access immigration services and create a new power to revoke citizenship on national security grounds.
+
+Sentiment - A

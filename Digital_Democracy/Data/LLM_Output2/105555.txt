@@ -1,0 +1,13 @@
+## Bing
+
+Thank you for your request. Here is my response based on the text file open in your current webpage:
+
+Summary - The text file is a transcript of a debate in the UK House of Commons on the Financial Services (Banking Reform) Bill, which aims to improve the regulation and standards of the banking sector.
+
+For - Voting 'For' (Ayes) in the division means disagreeing with the Lords amendment 41, which proposes a licensing regime for bank staff with minimum thresholds of competence and integrity[1]. The Government argues that this amendment is unnecessary and ineffective, and that their own certification regime is better.
+
+Against - Voting 'Against' (Noes) in the division means agreeing with the Lords amendment 41, which proposes a licensing regime for bank staff with minimum thresholds of competence and integrity[1]. The Opposition argues that this amendment is essential and beneficial, and that the Government's certification regime is insufficient and weak.
+
+Decision - Voting 'For' (Ayes) in the division is associated with austerity & regulation, because it supports the Government's approach of placing more responsibility and accountability on the banks and their senior managers, rather than relying on the regulator or professional bodies to enforce standards.
+
+Sentiment - B

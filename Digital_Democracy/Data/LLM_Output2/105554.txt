@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I can help you review the text file open in your current webpage. Here is my response based on your request:
+
+Summary - The text file is a transcript of a parliamentary debate on a new clause that would reduce employers' national insurance contributions for workers under 21[1]. The clause was proposed by the Government and opposed by the Opposition, who wanted a review of its impact and timing.
+
+For - Voting 'Ayes' in the division means supporting the Government's proposal to introduce a zero rate of secondary class 1 NICs for employers on the earnings of employees under 21 from April 2015. This would help to tackle youth unemployment and stimulate business growth.
+
+Against - Voting 'Noes' in the division means rejecting the Government's proposal and supporting the Opposition's amendment to require a review of the level of youth unemployment and the effect of bringing the measure forward to April 2014. This would show the urgency of addressing the problem and the potential benefits of an earlier implementation.
+
+Decision - Voting 'Aye' in the division is associated with cutting spending on, and provision of, welfare and social housing. This is because reducing employers' NICs would reduce the revenue available for public services and social security, and because the measure would not guarantee jobs or training for young people who are out of work or in low-paid or insecure employment.
+
+Sentiment - B

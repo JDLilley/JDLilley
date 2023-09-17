@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I can help you review the text file open in your current webpage. Here is my response based on your request:
+
+Summary - The text file is a transcript of a debate in the UK Parliament on a bill that proposes a referendum on the UK's membership of the European Union. The debate covers various amendments to the bill, such as the date, the question, and the eligibility of voters.
+
+For - Voting 'Ayes' in the division means supporting amendment 72, which would change the question of the referendum from "Do you think that the United Kingdom should remain a member of the European Union?" to "Do you think that the United Kingdom should be a member of the European Union?". The supporters of this amendment argue that it is more neutral and clear than the original question.
+
+Against - Voting 'Noes' in the division means opposing amendment 72 and keeping the original question of the referendum. The opponents of this amendment argue that it is unnecessary and confusing, and that it implies that the UK is not currently a member of the European Union.
+
+Decision - Voting 'Aye' in the division is associated with protectionism and independence from the European Union and other foreign affairs. This is because changing the question of the referendum would suggest that the UK has not benefited from its membership of the EU and that it has a choice to join or leave. This could influence the voters to favour leaving the EU and reducing its ties with other countries.
+
+Sentiment - B

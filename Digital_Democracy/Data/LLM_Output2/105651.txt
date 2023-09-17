@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I can help you review the text file open in your current webpage. Here is my response based on your request:
+
+Summary - The text file is a transcript of a debate in the UK Parliament on the Finance (No. 2) Bill, which introduces a tax relief for married couples and civil partners. The debate covers the arguments for and against the policy, as well as its impact on different groups of people.
+
+For - Voting for the policy means supporting the recognition of marriage and civil partnership in the tax system, and providing a financial incentive for couples to stay together[1]. It also means favouring a more progressive distribution of income, as the policy benefits mostly those in the bottom half of the income scale.
+
+Against - Voting against the policy means opposing the discrimination and complexity that it creates in the tax system, and rejecting the idea that marriage and civil partnership need to be rewarded by the state. It also means prioritising other measures that could benefit more families and children, especially those in poverty.
+
+Decision - Voting for the policy is associated with stimulus and the free market, as it reduces the tax burden on some households and encourages them to make their own choices about their relationships. Voting against the policy is associated with austerity and regulation, as it preserves the revenue for the state and maintains a uniform tax system.
+
+Sentiment - A

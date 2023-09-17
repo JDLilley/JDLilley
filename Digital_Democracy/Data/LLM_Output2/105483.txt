@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I have reviewed the text file open in your current webpage and here is my response:
+
+Summary - The text file is a transcript of a parliamentary debate on a bill that aims to regulate lobbying, non-party campaigning and trade union administration. The debate covers various aspects of the bill, such as its impact, evidence, consultation and amendments.
+
+For - Voting 'Ayes' in the division means supporting amendment 103, which would limit the duty to provide a membership audit certificate to trade unions only when a formal complaint is received and verified by the certification officer. This would reduce the regulatory burden and cost on trade unions and respect their autonomy and privacy.
+
+Against - Voting 'Noes' in the division means opposing amendment 103 and maintaining the duty to provide a membership audit certificate for every reporting period for trade unions with more than 10,000 members. This would increase the transparency and accountability of trade unions and ensure that they have accurate and up-to-date membership records.
+
+Decision - Voting 'Aye' in the division is associated with reduced bureaucracy and decentralisation in the context of parliamentary procedures, as it would give more discretion and flexibility to trade unions to manage their own affairs and reduce the interference and oversight of the certification officer.
+
+Sentiment - A

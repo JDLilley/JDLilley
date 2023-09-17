@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I can help you review the text file open in your current webpage. Here is my response based on your request:
+
+Summary - The text file is a transcript of a debate in the UK Parliament on the Anti-social Behaviour, Crime and Policing Bill. The debate covers various amendments and new clauses related to child protection, sexual offences, and violent offenders.
+
+For - Voting 'Ayes' in the division means supporting the new clause NC4, which would create a new offence of possession of prohibited written material about children. This would extend the existing law on prohibited images of children to cover written material that is pornographic, falls within the definition of a sexual offence, and is grossly offensive or obscene[1].
+
+Against - Voting 'Noes' in the division means opposing the new clause NC4, which would create a new offence of possession of prohibited written material about children. This would potentially criminalise a wide range of literature and textbooks that contain references to sexual activity involving children, and infringe on the freedom of expression and artistic creativity.
+
+Decision - Voting 'Aye' in the division is associated with greater police powers, harsher punishments, and strengthening Crime & Justice. This is because it would give the police more authority to search and seize written material that they deem to be prohibited, and impose a maximum penalty of three years imprisonment for those who possess such material.
+
+Sentiment - A

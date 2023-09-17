@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I am happy to help you with your request. Here is my response based on the text file open in your current webpage:
+
+Summary - The text file is a transcript of a debate in the UK Parliament on a bill that would restrict welfare benefits to UK citizens and record the nationality of claimants[1]. The bill was proposed by a Conservative MP and supported by some of his colleagues, but opposed by others who argued that it was incompatible with EU law and unfair to migrants.
+
+For - Voting 'Ayes' in the division means supporting the bill and its aim to prevent abuse of the UK benefit system by EU migrants. It means agreeing that British benefits should be for British citizens only, and that the UK should be able to decide its own welfare policy without being constrained by EU rules and courts.
+
+Against - Voting 'Noes' in the division means opposing the bill and its attempt to discriminate against EU migrants who have the right to free movement and equal treatment in the UK. It means disagreeing that British benefits should be reserved for British citizens only, and that the UK should ignore its obligations under EU law and risk legal challenges and sanctions.
+
+Decision - Voting 'Aye' in the division is associated with cutting spending on, and provision of, welfare and social housing, because it would exclude a large number of people who currently have access to those benefits based on their EU citizenship. It would also reduce the incentive for EU migrants to come to the UK for work or other reasons, which could affect the demand for social housing.
+
+Sentiment - B

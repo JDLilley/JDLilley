@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I can help you review the text file open in your current webpage. Here is my response based on your request:
+
+Summary - The text file is a transcript of a debate in the UK Parliament on the Defence Reform Bill, which covers various aspects of defence procurement, single-source contracts, and reserve forces. The debate took place on 5 May 2023.
+
+For - Voting 'Ayes' in the division means supporting the amendment proposed by the Opposition, which would require a future Government to publish a report on the options for reforming Defence Equipment and Support (DE&amp;S) at least 12 weeks before any order commencing part 1 of the Bill, which enables a Government-owned contractor-operated (GoCo) model for DE&amp;S.
+
+Against - Voting 'Noes' in the division means rejecting the amendment proposed by the Opposition, and agreeing with the Government's amendment, which would require a future Government to publish a report on the options for reforming DE&amp;S before laying the draft affirmative order commencing part 1 of the Bill, but without specifying a time limit for parliamentary scrutiny.
+
+Decision - Voting 'Aye' in the division is associated with increased accountability and limiting powers of Defence & Armed Forces, as it would ensure that Parliament has enough time to examine and debate any proposals to move to a GoCo model for DE&amp;S, which could have significant implications for defence procurement, security, and sovereignty.
+
+Sentiment - B

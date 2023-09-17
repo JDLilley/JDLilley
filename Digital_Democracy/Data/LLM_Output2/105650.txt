@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I can help you review the text file open in your current webpage. Here is my response based on your request:
+
+Summary - The text file is a transcript of a debate in the UK Parliament on a tax relief for married couples and civil partners. The debate covers the arguments for and against the policy, its impact on different groups of people, and its cost and complexity.
+
+For - Voting for the amendment means supporting a review of the policy within six months of its implementation. The amendment argues that the policy is unfair, ineffective, and complicated. It also calls for an assessment of alternative tax reliefs that would benefit more families.
+
+Against - Voting against the amendment means opposing a review of the policy and supporting its introduction as planned. The amendment argues that the policy is a recognition of marriage in the tax system, a support for low-income couples, and a progressive measure.
+
+Decision - Voting for the amendment is associated with austerity and regulation, because it implies that the policy is a waste of public money and that it needs to be scrutinised and evaluated. It also suggests that there are better ways to spend the money to help more families[1].
+
+Sentiment - B

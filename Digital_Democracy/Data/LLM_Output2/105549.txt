@@ -1,0 +1,11 @@
+## Bing
+
+Summary - The text file is a transcript of a debate in the UK House of Commons on the Energy Bill, which aims to reform the electricity market and promote low-carbon generation. The debate focuses on an amendment proposed by the House of Lords to limit the emissions from existing coal-fired power stations.
+
+For - Voting 'Ayes' means supporting the Government's position to reject the amendment. This would allow some coal plants to continue operating without carbon capture and storage (CCS) technology, which could help to maintain security of supply and avoid higher costs for consumers.
+
+Against - Voting 'Noes' means supporting the amendment from the House of Lords. This would require all coal plants to comply with the emissions performance standard (EPS), which could help to reduce carbon emissions and encourage investment in cleaner alternatives such as nuclear and renewables.
+
+Decision - Voting 'Aye' is associated with prioritising economic growth and development in the context of Environment & Energy, as it would favour keeping coal as a cheap and reliable source of electricity. Voting 'Noe' is associated with prioritising environmental sustainability in the context of Environment & Energy, as it would favour phasing out coal and reducing greenhouse gas emissions.
+
+Sentiment - B

@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I can help you review the text file open in your current webpage. Here is my response based on your request:
+
+Summary - The text file is a transcript of a debate in the UK Parliament on the Finance (No. 2) Bill, which covers various tax measures for 2015-16. The main topics discussed are corporation tax, business rates, and exports.
+
+For - Voting for the new clause NC4 means supporting a review of the impact of a 1% cut in corporation tax for large businesses, and whether alternative tax measures would benefit small businesses more.
+
+Against - Voting against the new clause NC4 means opposing a review of the impact of a 1% cut in corporation tax for large businesses, and whether alternative tax measures would benefit small businesses more.
+
+Decision - Voting for the new clause NC4 is associated with austerity and regulation, as it implies that the cut in corporation tax for large businesses may not be justified or effective, and that small businesses may need more support through other tax measures.
+
+Sentiment - B

@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I can help you review the text file open in your current webpage. Here is my response based on your request:
+
+Summary - The text file is a transcript of a debate in the UK Parliament on a bill that aims to regulate lobbying, non-party campaigning and trade union administration. The debate covers various aspects of the bill, such as its impact on parliamentary privilege, democracy, transparency and accountability.
+
+For - Voting 'Ayes' in the division means supporting the new clause 4, which proposes to add a bill of rights to the bill. The new clause 4 states that nothing in the bill shall affect article IX of the Bill of Rights 1689, which protects the freedom of speech and debates in Parliament from being questioned by any court or place outside Parliament[1].
+
+Against - Voting 'Noes' in the division means opposing the new clause 4, which proposes to add a bill of rights to the bill. The new clause 4 is considered unnecessary and potentially confusing, as article IX of the Bill of Rights 1689 already applies to all legislation and does not need to be repeated. The new clause 4 could also invite the courts to interpret and limit parliamentary privilege in ways that Parliament did not intend.
+
+Decision - Voting 'Aye' in the division is associated with accountability and decentralisation in the context of parliamentary procedures. By adding a bill of rights to the bill, the supporters of the new clause 4 aim to reaffirm and safeguard the independence and sovereignty of Parliament from any external interference or influence. They also seek to preserve the right of MPs to speak freely and represent their constituents and other interests without fear of legal consequences.
+
+Sentiment - A

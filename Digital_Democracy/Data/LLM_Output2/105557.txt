@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I can help you review the text file open in your current webpage. Here is my response based on your request:
+
+Summary - The text file is a transcript of a debate in the UK Parliament on the Financial Services (Banking Reform) Bill, which aims to improve the regulation and standards of the banking sector. The debate covers various amendments proposed by the Lords and the Opposition.
+
+For - Voting for amendment (b) to Lords amendment 155 means supporting the creation of a licensing regime for bank staff, with minimum thresholds of competence and integrity, and adherence to a code of conduct. This amendment was proposed by the Labour party to strengthen the professional standards of bankers.
+
+Against - Voting against amendment (b) to Lords amendment 155 means rejecting the licensing regime for bank staff, and instead accepting the Government's approach of a certification regime, where banks have to verify that their employees are fit and proper for their roles. This approach was based on the recommendations of the Parliamentary Commission on Banking Standards[1].
+
+Decision - Voting for amendment (b) to Lords amendment 155 is associated with austerity and regulation, as it implies more intervention and oversight by the regulator and professional bodies on the conduct and qualifications of bank staff. Voting against amendment (b) is associated with stimulus and the free market, as it implies more responsibility and flexibility for banks to monitor and enforce their own standards.
+
+Sentiment - B
