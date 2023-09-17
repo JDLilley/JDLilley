@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I can help you review the text file open in your current webpage. Here is my response based on your request:
+
+Summary - The text file is a transcript of a debate in the UK Parliament about the alternative vote (AV) system for elections. The debate focuses on an amendment that proposes a limited form of AV, where voters can only indicate two preferences. The amendment is withdrawn and the original clause is agreed to.
+
+For - Voting 'Ayes' in the division means supporting the clause that allows a referendum on the full AV system, where voters can rank all the candidates in order of preference. This is seen as a way to make elections more fair, representative and democratic.
+
+Against - Voting 'Noes' in the division means opposing the clause that allows a referendum on the full AV system, where voters can rank all the candidates in order of preference. This is seen as a way to make elections more complex, confusing and unstable.
+
+Decision - Voting 'Aye' in the division is associated with accountability and decentralisation in the context of Parliamentary Procedures, because it gives more power and choice to the voters and makes the MPs more responsive to their constituents.
+
+Sentiment - A

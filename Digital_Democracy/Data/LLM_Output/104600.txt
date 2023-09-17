@@ -1,0 +1,11 @@
+## Bing
+
+Summary - The text file is a transcript of a debate in the UK Parliament on a bill to regulate sunbeds. The bill aims to prevent under-18s from using sunbeds and to enforce safety standards. The debate covers the health risks of sunbeds, the role of consumer protection, and the impact of regulation.
+
+For - Voting 'Ayes' means supporting the new clause 1, which would require all sunbeds to comply with a European standard on UV radiation emission. This would enhance product safety and reduce the risk of skin cancer for sunbed users. It would also align with the EU declaration that the UK signed up to.
+
+Against - Voting 'Noes' means opposing the new clause 1, which would impose an unnecessary and costly burden on sunbed businesses. It would also interfere with the responsibility of another department and create confusion over the enforcement of the regulation. It would also go beyond the scope of the bill, which is focused on public health.
+
+Decision - Voting 'Aye' in this division is associated with ethical considerations, regulation, and tradition, in the context of Standards & Technology. This is because it reflects a concern for protecting consumers from harmful products, enforcing a common standard across the EU, and following an existing declaration that the UK agreed to.
+
+Sentiment - B

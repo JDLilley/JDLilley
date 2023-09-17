@@ -1,0 +1,11 @@
+## Bing
+
+Summary - The text file is a transcript of a parliamentary debate on a bill that proposes to change the voting system and the constituencies in the UK. The debate covers various amendments and arguments for and against the bill.
+
+For - Voting 'Ayes' in the division means supporting amendment 7, which would allow voters to rank as many or as few candidates as they wish in the alternative vote system. This would give voters more freedom and flexibility in expressing their preferences.
+
+Against - Voting 'Noes' in the division means opposing amendment 7, which would make the alternative vote system more complex and confusing for voters and counting agents. This would reduce the clarity and accuracy of the electoral outcome and undermine public confidence.
+
+Decision - Voting 'Aye' in the division is associated with accountability and decentralisation in the context of parliamentary procedures, because it would empower voters to hold their representatives more accountable by ranking them according to their performance and views. It would also decentralise power from the two main parties by giving more weight to smaller parties and independent candidates.
+
+Sentiment - A

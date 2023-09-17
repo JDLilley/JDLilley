@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I can help you review the text file open in your current webpage. Here is my response:
+
+Summary - The text file is a transcript of a debate in the UK Parliament on the date of a referendum on the alternative vote system. The debate covers various arguments for and against holding the referendum on the same day as other elections.
+
+For - Voting 'Ayes' means supporting amendment 4, which proposes to change the date of the referendum to a different day that does not coincide with any other election. The supporters of this amendment argue that this would ensure fairness, clarity, and respect for the devolved institutions.
+
+Against - Voting 'Noes' means opposing amendment 4 and keeping the date of the referendum as 5 May 2011. The opponents of this amendment argue that this would save money, increase turnout, and avoid further delay on an important constitutional issue.
+
+Decision - Voting 'Aye' is associated with accountability and decentralisation in the context of Parliamentary Procedures, because it would allow the voters to focus on the referendum question without being influenced by other political factors, and it would recognise the autonomy of the devolved administrations to set their own election dates.
+
+Sentiment - A

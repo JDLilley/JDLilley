@@ -1,0 +1,11 @@
+## Bing
+
+Summary - The text file is a transcript of a debate in the UK Parliament on the Financial Services Bill, which aims to reform the regulation and supervision of the financial sector. The debate covers various aspects of the bill, such as executive remuneration, consumer credit, store cards, and recovery and resolution plans.
+
+For - Voting 'Ayes' for New Clause 14 means supporting the proposal to regulate the form and content of retail credit-token agreements, such as store cards, and to introduce a cooling-off period and a cancellable agreement for such products. This would protect consumers from high interest rates and unfair sales practices.
+
+Against - Voting 'Noes' for New Clause 14 means opposing the proposal to regulate the form and content of retail credit-token agreements, such as store cards, and to introduce a cooling-off period and a cancellable agreement for such products. This would allow the market to operate freely and competitively, and respect the choice and responsibility of consumers.
+
+Decision - Voting 'Aye' for New Clause 14 is associated with austerity & regulation, because it would impose more restrictions and controls on the financial sector, and limit the availability and profitability of credit products.
+
+Sentiment - B

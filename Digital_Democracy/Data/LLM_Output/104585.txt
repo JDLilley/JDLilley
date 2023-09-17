@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I have reviewed the text file open in your current webpage and I will try to answer your questions as best as I can. Here is my response:
+
+Summary - The text file is a transcript of a debate in the House of Commons on the Constitutional Reform and Governance Bill, which contains various proposals to change the UK's constitutional arrangements. The debate covers topics such as civil service management, voting system referendum, House of Lords reform, and treaty ratification.
+
+For - Voting 'Ayes' in the division on amendment 10 means supporting the removal of clause 57 from the Bill, which would have allowed a referendum on changing the voting system for the House of Commons from first-past-the-post to alternative vote. Those who voted 'Ayes' argued that the clause was a political manoeuvre by the Government and that the alternative vote was an unfair and complex system.
+
+Against - Voting 'Noes' in the division on amendment 10 means opposing the removal of clause 57 from the Bill, which would have allowed a referendum on changing the voting system for the House of Commons from first-past-the-post to alternative vote. Those who voted 'Noes' argued that the clause was a necessary reform to make the electoral system more representative and democratic, and that the alternative vote was a simple and fair system.
+
+Decision - Voting 'Aye' in the division on amendment 10 is associated with reduced bureaucracy and centralisation in the context of Parliamentary Procedures, because it would have prevented a referendum that could have changed the way MPs are elected and given more power to voters to rank their preferences.
+
+Sentiment - B

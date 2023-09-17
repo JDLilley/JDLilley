@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I can help you review the text file open in your current webpage. Here is my response based on your request:
+
+Summary - The text file is a transcript of a debate in the UK House of Commons on a bill to reform the House of Lords and other constitutional matters. The debate focuses on clause 29, which would end the by-elections for hereditary peers[1].
+
+For - Voting 'Ayes' in the division means supporting amendment 94, which would retain the by-elections for hereditary peers until a further stage of reform is agreed. The argument for this is based on honouring the original deal made in 1999 and preserving the legitimacy and diversity of the House of Lords.
+
+Against - Voting 'Noes' in the division means opposing amendment 94, which would keep the by-elections for hereditary peers until a further stage of reform is agreed. The argument against this is based on ending an absurd and undemocratic system that allows a small number of people to inherit legislative power and influence.
+
+Decision - Voting 'Aye' in the division is associated with accountability and decentralisation in the context of Parliamentary Procedures, because it implies that the Government should not break their promise without consulting the Parliament and the public, and that the House of Lords should not be dominated by appointed peers who are more likely to follow the Government's line.
+
+Sentiment - A

@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I have reviewed the text file open in your current webpage and I will try to answer your questions as best as I can. Here is my response:
+
+Summary - The text file is a transcript of a debate in the UK Parliament on the Finance Bill, which contains measures to raise taxes and reduce the deficit. The debate covers various aspects of the economic situation, such as growth, unemployment, inflation, and public services.
+
+For - Voting 'Ayes' in the division means supporting the Finance Bill and the Government's fiscal policy. The arguments in favour of this are that it is necessary to restore confidence in the markets, to keep interest rates low, to protect the UK's credit rating, and to ensure long-term prosperity.
+
+Against - Voting 'Noes' in the division means opposing the Finance Bill and the Government's fiscal policy. The arguments against this are that it is too harsh, too fast, and too risky. It will damage the recovery, increase unemployment, hit the poorest hardest, and undermine public services.
+
+Decision - Voting 'Aye' in the division is associated with austerity and regulation, because it implies favouring a higher tax burden and more cuts in public spending, which will reduce the size of the deficit and the role of the state in the economy.
+
+Sentiment - B

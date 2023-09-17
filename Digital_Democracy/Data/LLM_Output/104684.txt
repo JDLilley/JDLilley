@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I have reviewed the text file open in your current webpage and I will try to answer your questions as best as I can. Here is my response:
+
+Summary - The text file is a transcript of a debate in the UK House of Commons on crime and policing in 2010. The main topics discussed are the budget cuts for the police, the use of ASBOs, DNA and CCTV, and the impact of these measures on crime reduction and civil liberties.
+
+For - Voting 'Ayes' in the division means supporting the motion that criticises the government's failure to prioritise the safety of communities by not protecting central government funding for the police. It also praises the previous government's achievements in reducing crime and antisocial behaviour, and condemns the government's policy of reducing police numbers, restricting police powers and imposing elected commissioners.
+
+Against - Voting 'Noes' in the division means opposing the motion that criticises the government's failure to prioritise the safety of communities by not protecting central government funding for the police. It also implies supporting the government's view that budget cuts are necessary and unavoidable, that ASBOs, DNA and CCTV need to be regulated to protect civil liberties, and that elected commissioners will enhance local accountability and democracy.
+
+Decision - Voting 'Aye' in the division is associated with greater police powers, harsher punishments, strengthening Crime & Justice. This is because it implies endorsing the previous government's approach of increasing police funding and numbers, using ASBOs, DNA and CCTV extensively to deter and catch criminals, and maintaining police authorities as the governing bodies.
+
+Sentiment - A

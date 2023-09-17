@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I can help you review the text file open in your current webpage. Here is my response based on your request:
+
+Summary - The text file is a transcript of a debate in the UK Parliament on the Academies Bill, which aims to give more autonomy and freedom to schools. The debate covers various aspects of the bill, such as its impact on disadvantaged students, local authorities, and curriculum standards.
+
+For - Voting 'Ayes' in the division means supporting the amendment proposed by the Labour party, which would require a full consultation with parents, staff, and local communities before a school can become an academy. The amendment also seeks to ensure that academies follow the same rules on admissions, exclusions, and special educational needs as other schools.
+
+Against - Voting 'Noes' in the division means opposing the amendment and backing the original bill, which would allow outstanding schools to apply for academy status without consulting anyone. The bill also grants academies more flexibility on pay and conditions, curriculum design, and school hours.
+
+Decision - Voting 'Aye' in the division is associated with limiting Education & Learning, because it would restrict the ability of schools to innovate and improve their performance. It would also undermine the principle of trusting teachers and head teachers to make the best decisions for their pupils. Voting 'Noe' in the division is associated with increasing Education & Learning, because it would empower schools to tailor their education to the needs and aspirations of their students. It would also encourage collaboration and partnership between schools and other organisations.
+
+Sentiment - B

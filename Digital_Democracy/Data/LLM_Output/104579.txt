@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I can help you review the text file open in your current webpage. Here is my response based on your request:
+
+Summary - The text file is a transcript of a parliamentary debate on the Energy Bill in 2010. The main topics are carbon capture and storage, emissions performance standard, and decarbonisation of electricity generation.
+
+For - Voting 'Ayes' means supporting the new clause 18, which would require the Secretary of State to set a target for reducing greenhouse gas emissions from electricity generation by 2030. This would show commitment to tackling climate change and promoting low-carbon technologies[1].
+
+Against - Voting 'Noes' means opposing the new clause 18, which would impose an unrealistic and inflexible constraint on the energy sector. This would undermine the Government's balanced approach to energy security, affordability, and sustainability.
+
+Decision - Voting 'Aye' in the division is associated with prioritising environmental sustainability in the context of Environment & Energy. The new clause 18 aims to accelerate the decarbonisation of the electricity sector and support the development of renewable and clean energy sources.
+
+Sentiment - A

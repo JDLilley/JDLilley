@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I have reviewed the text file open in your current webpage and I will try to answer your questions as best as I can.
+
+Summary - The text file is a transcript of a debate in the House of Commons on the Digital Economy Bill, which aims to regulate online copyright infringement and promote digital innovation. The debate covers various amendments and clauses of the bill, as well as the views and concerns of different MPs.
+
+For - Voting 'Ayes' in the division: Digital Economy Bill [Lords], Question put, That the amendment 2 be made, means supporting the amendment proposed by Mr. Don Foster, which would require a market impact assessment before imposing any technical measures on internet service providers or subscribers. This would ensure that the bill does not harm the competitiveness and diversity of the digital sector.
+
+Against - Voting 'Noes' in the division: Digital Economy Bill [Lords], Question put, That the amendment 2 be made, means opposing the amendment proposed by Mr. Don Foster, which would require a market impact assessment before imposing any technical measures on internet service providers or subscribers. This would delay or weaken the enforcement of the bill and undermine its objective of reducing online piracy and protecting creative industries.
+
+Decision - Voting 'Aye' in the division: Digital Economy Bill [Lords], Question put, That the amendment 2 be made, is associated with stimulus and the free market, because it favours a less intrusive and more flexible approach to regulating online activities, and it takes into account the potential effects of the bill on the digital economy.
+
+Sentiment - A

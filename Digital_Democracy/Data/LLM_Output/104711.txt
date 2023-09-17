@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I have reviewed the text file open in your current webpage and here is my response:
+
+Summary - The text file is a transcript of a parliamentary debate on the alternative vote (AV) system and the constituencies bill in the UK. The debate covers different forms of AV, such as London AV and Australian AV, and their advantages and disadvantages.
+
+For - Voting 'Ayes' in the division means supporting the Government's proposal to hold a referendum on changing the voting system from first-past-the-post to classic AV, where voters can rank candidates in order of preference. It also means agreeing to the timetable for the bill's progress.
+
+Against - Voting 'Noes' in the division means opposing the Government's proposal and preferring to keep the current voting system or adopt a different form of AV. It also means objecting to the timetable for the bill's progress and wanting more time for scrutiny and amendments.
+
+Decision - Voting 'Aye' in the division is associated with reduced bureaucracy and centralisation in the context of parliamentary procedures, because it would limit the debate time and speed up the legislative process. It would also favour a coalition Government that has agreed on the proposal.
+
+Sentiment - B

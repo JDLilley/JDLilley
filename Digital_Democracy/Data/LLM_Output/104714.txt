@@ -1,0 +1,11 @@
+## Bing
+
+Summary - The text file is a transcript of a parliamentary debate on the Bill that proposes to change the voting system and the constituency boundaries in the UK. The debate covers various amendments and arguments from different perspectives.
+
+For - Voting 'Ayes' for amendment 342 means supporting the proposal to extend the period of boundary reviews from five to ten years, which would reduce the frequency of changes and the disruption to communities and MPs.
+
+Against - Voting 'Noes' for amendment 342 means opposing the proposal to extend the period of boundary reviews from five to ten years, which would maintain the current system of regular updates and ensure equal representation of voters.
+
+Decision - Voting 'Aye' for amendment 342 is associated with accountability and decentralisation in the context of parliamentary procedures, because it would give more weight to local factors and historical ties, and allow MPs to serve their constituents longer without facing boundary changes.
+
+Sentiment - A

@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I can help you review the text file open in your current webpage. Here is my response based on your request:
+
+Summary - The text file is a transcript of a debate in the UK House of Commons on the government's assessment of the economic and budgetary situation for the European Commission. The main issues discussed are the fiscal deficit, the public spending cuts, the economic recovery, and the situation in Greece.
+
+For - Voting 'Ayes' in the division means supporting the government's assessment and its plan to halve the public sector borrowing by 2013-14. It also means agreeing with the government's decision to maintain fiscal stimulus until the recovery is secured and to invest in key industries for long-term growth.
+
+Against - Voting 'Noes' in the division means rejecting the government's assessment and its plan to reduce the deficit. It also means disagreeing with the government's delay in cutting public spending and its lack of credibility and transparency on fiscal matters. It implies calling for more aggressive and immediate action to restore fiscal sustainability.
+
+Decision - Voting 'Aye' in the division is associated with globalisation and strengthening ties with the European Union and other foreign affairs. This is because the government's assessment is based on its obligations under the European Communities (Amendment) Act 1993 and its commitments under the stability and growth pact[1]. It also reflects the government's view that co-ordinated action at the EU level is needed to deal with the economic crisis and to support countries such as Greece.
+
+Sentiment - A

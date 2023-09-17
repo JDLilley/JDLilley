@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I have reviewed the text file open in your current webpage and I will try to answer your questions as best as I can. Here is my response:
+
+Summary - The text file is a transcript of a debate in the UK Parliament on the Fiscal Responsibility Bill, which aims to reduce the public sector net borrowing and the debt-to-GDP ratio. The debate covers various aspects of the Bill, such as its rationale, effectiveness, implications, and alternatives.
+
+For - Voting 'Ayes' in the division means supporting the addition of New Clause NC1 to the Bill, which would require the Treasury to report on the impact of the Bill on public services and social justice. The supporters of the clause argue that the Bill is too vague and rigid, and that it does not take into account the social costs of fiscal consolidation.
+
+Against - Voting 'Noes' in the division means opposing the addition of New Clause NC1 to the Bill, which would require the Treasury to report on the impact of the Bill on public services and social justice. The opponents of the clause argue that the Bill is necessary and prudent, and that it does not prevent the Government from making appropriate decisions on spending and taxation.
+
+Decision - Voting 'Aye' in the division is associated with stimulus and regulation, because it implies a preference for more public spending and more accountability for the Government's fiscal policy. Voting 'Aye' also suggests a concern for the distributional effects of fiscal adjustment and a desire to protect public services and social justice.
+
+Sentiment - A

@@ -1,0 +1,13 @@
+## Bing
+
+Thank you for your request. Here is my response based on the text file open in your current webpage:
+
+Summary - The text file is a transcript of a debate in the UK Parliament on the Finance Bill, which proposes to increase the insurance premium tax on various types of insurance. The debate covers the arguments for and against the tax rise and its impact on consumers and the insurance industry.
+
+For - Voting 'Ayes' in the division means supporting the Government's proposal to raise the insurance premium tax from 5% to 6% as a way of generating more revenue for the public finances. It also means accepting that the tax rise is modest and will not deter people from taking out insurance or encourage them to drive uninsured.
+
+Against - Voting 'Noes' in the division means opposing the Government's proposal to raise the insurance premium tax and arguing that it will have negative consequences for individuals and businesses. It also means advocating for alternative ways of raising revenue, such as better enforcement of existing rules, or reducing the tax burden on motorists and health care users.
+
+Decision - Voting 'Aye' in the division is associated with austerity & regulation, because it implies that the Government needs to increase taxes to reduce the deficit and that it has the right to impose a tax on a compulsory purchase. It also suggests that the Government does not trust people to make their own decisions about insurance and wants to discourage them from opting out of public services.
+
+Sentiment - B

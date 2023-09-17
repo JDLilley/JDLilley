@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I can help you review the text file open in your current webpage. Here is my response based on your request:
+
+Summary - The text file is a transcript of a debate in the UK Parliament on the Children, Schools and Families Bill in 2010. The debate covers various topics related to child protection, education and parental rights.
+
+For - Voting 'Ayes' means supporting the Government's amendments to the Bill, which aim to improve the transparency and quality of serious case reviews, clarify the legal status of pupil and parent guarantees, and protect children from unreasonable punishment.
+
+Against - Voting 'Noes' means opposing the Government's amendments to the Bill, which are seen as insufficient, bureaucratic and ineffective. Some critics argue that serious case reviews should be published in full, that pupil and parent guarantees are vague and unenforceable, and that reasonable punishment should be restricted to parents only.
+
+Decision - Voting 'Aye' is associated with increased Education & Learning, because it supports the Government's efforts to safeguard children's welfare and rights, and to provide them with a clear and comprehensive offer of education. It also recognises the need for professional standards and accountability in conducting serious case reviews.
+
+Sentiment - A

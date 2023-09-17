@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I can help you review the text file open in your current webpage. Here is my response based on your request:
+
+Summary - The text file is a transcript of a parliamentary debate on a bill that would temporarily restore the power of the Treasury to freeze the assets of suspected terrorists. The bill was introduced as an emergency measure after the Supreme Court quashed the previous orders that enabled such freezing.
+
+For - Voting 'Ayes' in the division means supporting the Government's motion to allocate time for the bill and expedite its passage. It means agreeing that the bill is necessary for national security and public protection, and that there is no alternative legislation that can achieve the same effect.
+
+Against - Voting 'Noes' in the division means opposing the Government's motion and demanding more time for parliamentary scrutiny of the bill. It means questioning the Government's failure to introduce primary legislation earlier, despite repeated warnings and legal challenges. It also means expressing concern about the impact of the bill on civil liberties and human rights.
+
+Decision - Voting 'Aye' in the division is associated with softer regulations and growing powers of Defence & Armed Forces, because it allows the Treasury to freeze assets based on reasonable suspicion, without proper judicial review or appeal process. It also validates previous orders that were deemed unlawful by the Supreme Court.
+
+Sentiment - A

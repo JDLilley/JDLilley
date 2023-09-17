@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I have reviewed the text file open in your current webpage and here is my response:
+
+Summary - The text file is a transcript of a debate in the UK Parliament on the Academies Bill, which aims to allow more schools to become academies with greater autonomy and funding from the central government. The debate focuses on the implications of the bill for special schools and pupils with special educational needs[1].
+
+For - Voting 'Ayes' in the division means supporting the amendment that would exclude special schools from becoming academies. The amendment argues that special schools are a vital local resource that should not be fragmented or isolated from the local authority's planning and co-ordination. The amendment also expresses concern about the lack of consultation and evidence for the benefits of academy status for special schools.
+
+Against - Voting 'Noes' in the division means opposing the amendment and allowing special schools to become academies if they wish. The opposition argues that academy status would give special schools more freedom and security to innovate and improve their standards. The opposition also claims that the bill contains safeguards for low-incidence special needs and consultation requirements for conversion.
+
+Decision - Voting 'Aye' in the division is associated with limiting Education & Learning, as it would prevent special schools from accessing the opportunities and advantages of academy status, such as more flexibility, autonomy, and funding. Voting 'Aye' would also deny the choice and judgment of special schools, their head teachers, and their governing bodies[2].
+
+Sentiment - B

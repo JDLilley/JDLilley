@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I can help you review the text file open in your current webpage. Here is my response based on your request:
+
+Summary - The text file is a transcript of a debate in the UK Parliament on the Digital Economy Bill, which aims to regulate online copyright infringement, promote digital infrastructure and support creative industries. The debate covers various aspects and implications of the bill, such as its scope, effectiveness, fairness and urgency.
+
+For - Voting 'Ayes' in the division means supporting the bill and its measures to protect the rights and revenues of content creators and providers. It also means accepting the government's argument that the bill is necessary and urgent to address the challenges and opportunities of the digital economy.
+
+Against - Voting 'Noes' in the division means opposing the bill and its measures to restrict the access and activities of internet users and service providers. It also means rejecting the government's argument that the bill is adequate and appropriate to deal with the complex and evolving issues of the digital era.
+
+Decision - Voting 'Aye' in the division is associated with stimulus and the free market, because it favours the interests and incentives of the creative industries, which are seen as a key sector for economic growth and innovation. It also reflects a belief that the market can self-regulate and adapt to changing consumer demands and behaviours.
+
+Sentiment - A

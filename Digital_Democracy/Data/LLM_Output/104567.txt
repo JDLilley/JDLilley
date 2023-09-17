@@ -1,0 +1,13 @@
+## Bing
+
+This is Bing. I will try to review the text file open in your current webpage and answer your questions as best as I can. Here is my response:
+
+Summary - The text file is a transcript of a parliamentary debate on a bill that validates the asset-freezing orders against suspected terrorists. The bill is an emergency response to a Supreme Court ruling that quashed the previous orders.
+
+For - Voting 'Ayes' means supporting the government's bill, which aims to maintain the terrorist asset-freezing regime and comply with the UN resolutions. It also means rejecting the amendments proposed by the Liberal Democrats, which would introduce more judicial oversight and human rights safeguards.
+
+Against - Voting 'Noes' means opposing the government's bill, which is seen as a rushed and flawed legislation that violates the fundamental rights of individuals. It also means supporting the amendments proposed by the Liberal Democrats, which would make the bill more accountable and compatible with human rights standards.
+
+Decision - Voting 'Aye' in the division is associated with softer regulations and growing powers of Defence & Armed Forces, because it allows the Treasury to freeze the assets of suspected terrorists without prior judicial approval or adequate appeal mechanisms. It also gives the government more discretion and authority to implement the UN measures against terrorism.
+
+Sentiment - A

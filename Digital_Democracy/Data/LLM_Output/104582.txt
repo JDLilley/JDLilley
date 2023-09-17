@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I can help you review the text file open in your current webpage. Here is my response based on your request:
+
+Summary - The text file is a transcript of a debate in the UK Parliament on the renewal of the control order regime for suspected terrorists. The debate covers the arguments for and against the regime, as well as the legal and practical challenges it faces.
+
+For - Voting 'Ayes' means supporting the Government's view that control orders are a necessary and proportionate measure to protect the public from a serious terrorist threat. It also means accepting the Government's assurance that the regime is compatible with human rights and subject to judicial oversight.
+
+Against - Voting 'Noes' means opposing the Government's view that control orders are a necessary and proportionate measure to protect the public from a serious terrorist threat. It also means rejecting the Government's assurance that the regime is compatible with human rights and subject to judicial oversight.
+
+Decision - Voting 'Aye' in the division is associated with softer regulations and growing powers of Defence & Armed Forces, because it allows the Executive to impose restrictions on individuals without sufficient evidence or due process, and potentially undermines the rule of law and civil liberties.
+
+Sentiment - A

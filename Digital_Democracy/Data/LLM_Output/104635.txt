@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I can help you review the text file open in your current webpage. Here is my response based on your request:
+
+Summary - The text file is a transcript of a debate in the UK Parliament on the motion of government support for industry. The debate covers topics such as deficit reduction, industrial policy, regional development, and low-carbon economy.
+
+For - Voting 'Ayes' means supporting the original motion, which criticises the government for cutting investment allowances, scaling back regional development agencies, and creating uncertainty over industrial support decisions. It also calls for a clear plan for growth and a role for government in fostering new industries and jobs[1].
+
+Against - Voting 'Noes' means supporting the amendment, which welcomes the government's investment in apprenticeships, college building, and university places. It also commends the government's plans for local enterprise partnerships, reducing bureaucracy, and providing the conditions for long-term low-carbon economic growth and rebalancing the economy.
+
+Decision - Voting 'Aye' in the division is associated with stimulus and the free market, because it implies favouring more public spending and intervention to support business and industry, especially in manufacturing and low-carbon sectors. It also implies opposing tax cuts and regulation that might harm investment and innovation.
+
+Sentiment - A

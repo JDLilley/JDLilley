@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I have reviewed the text file open in your current webpage and I will try to answer your questions as best as I can. Here is my response:
+
+Summary - The text file is a transcript of a parliamentary debate on the Financial Services Bill, which aims to reform the regulation of the financial sector in the UK. The debate covers various aspects of the bill, such as executive pay, consumer credit, recovery and resolution plans, and collective proceedings.
+
+For - Voting 'Ayes' in the division means supporting the amendment to leave out clause 1 of the bill, which would abolish the Financial Services Authority and create a new regulatory framework. The supporters of the amendment argue that the proposed changes are unnecessary, costly, and risky, and that the FSA should be reformed instead of replaced.
+
+Against - Voting 'Noes' in the division means opposing the amendment and keeping clause 1 of the bill, which would establish a new system of financial regulation in the UK. The opponents of the amendment argue that the FSA has failed to prevent the financial crisis and protect consumers, and that a new approach is needed to ensure stability, accountability, and transparency in the financial sector.
+
+Decision - Voting 'Aye' in the division is associated with austerity and regulation, because it implies maintaining the status quo of a single regulator with extensive powers over the financial industry. Voting 'Noe' in the division is associated with stimulus and the free market, because it implies introducing a new regulatory structure that would promote competition, innovation, and growth in the financial sector.
+
+Sentiment - B

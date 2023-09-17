@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I can help you review the text file open in your current webpage. Here is my response:
+
+Summary - The text file is a transcript of a parliamentary debate on the Constitutional Reform and Governance Bill, which deals with various aspects of the UK constitution. The debate covers two motions: one on tax charges for MPs and Lords, and one on the timetable for the bill.
+
+For - Voting 'Ayes' in the division means supporting the government's proposal to extend the time allocated for the bill's discussion by one day. This would allow more scrutiny and debate on the new clauses and schedules relating to parliamentary standards, pensions, and tax status.
+
+Against - Voting 'Noes' in the division means opposing the government's proposal to extend the time allocated for the bill's discussion by one day. This would limit the amount of scrutiny and debate on the new clauses and schedules relating to parliamentary standards, pensions, and tax status.
+
+Decision - Voting 'Aye' in the division is associated with accountability and decentralisation in the context of parliamentary procedures. This is because it would enable more transparency and participation in the legislative process, and give more power to individual MPs and Lords to amend and challenge the bill.
+
+Sentiment - A

@@ -1,0 +1,13 @@
+## Bing
+
+Thank you for your request. Here is my response based on the text file open in your current webpage:
+
+Summary - The text file is a transcript of a parliamentary debate on the Crime and Security Bill, which deals with the retention and use of fingerprints and DNA samples. The debate focuses on the balance between public safety and privacy rights, and the compliance with the European Court of Human Rights ruling.
+
+For - Voting 'Ayes' in the division means supporting the new clause 3, which proposes to limit the retention of fingerprints and DNA profiles to three years for those arrested but not convicted of a sexual or violent offence, and to require a court order for any further extension.
+
+Against - Voting 'Noes' in the division means opposing the new clause 3, and preferring the Government's proposal to retain fingerprints and DNA profiles for six years for those arrested but not convicted of any recordable offence, and to allow the police to make decisions on retention for national security purposes.
+
+Decision - Voting 'Aye' in the division is associated with freedom and autonomy, limiting police powers and softer punishments, limiting Crime and Justice. Voting 'Aye' respects the presumption of innocence, the principle of proportionality, and the right to privacy of those who have not been proven guilty of any crime.
+
+Sentiment - B

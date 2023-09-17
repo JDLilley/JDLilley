@@ -1,0 +1,11 @@
+## Bing
+
+Summary - The text file is a transcript of a parliamentary debate on a bill that proposes to change the voting system and the constituency boundaries for the House of Commons. The bill is supported by the coalition government and opposed by the Labour party.
+
+For - Voting 'Ayes' means supporting the bill and agreeing to hold a referendum on the alternative vote system, which would allow voters to rank candidates in order of preference. It also means accepting the reduction of MPs from 650 to 600 and the equalisation of constituency sizes based on registered voters.
+
+Against - Voting 'Noes' means rejecting the bill and opposing the referendum on the alternative vote system, which would change the current first-past-the-post system that gives a clear winner in each constituency[1]. It also means rejecting the changes to constituency boundaries, which are seen as unfair, hasty and undemocratic by the Labour party.
+
+Decision - Voting 'Aye' in this division is associated with reduced bureaucracy and centralisation in the context of parliamentary procedures, because it would simplify the voting system and make it more proportional, and because it would create more uniform constituencies that would reduce the influence of local factors and regional variations.
+
+Sentiment - B
