@@ -1,0 +1,641 @@
+Anti-social Behaviour, Crime  and Policing Bill
+
+Consideration of Lords amendments
+
+Madam Deputy Speaker (Mrs Eleanor Laing)
+I must draw the House’s attention to the fact that financial privilege is involved in Lords amendment 89. If the House agrees to the amendment, I shall cause the appropriate entry to be made in the Journal.
+
+Clause 151
+
+Compensation for miscarriages of justice
+
+14:04:00
+
+The Minister for Policing, Criminal Justice and Victims (Damian Green)
+I beg to move, That this House disagrees with Lords amendment 112.
+
+Madam Deputy Speaker
+With this is will be convenient to take Government amendment (a) in lieu of Lords amendment 112.
+
+Damian Green
+I should add that I wish the House to agree to amendment (a).
+
+Clause 151 defines what amounts to a “miscarriage of justice” for the purposes of compensation under section 133 of the Criminal Justice Act 1988. There has been much debate about the clause, both here and in the House of Lords, and I am indebted to all who have contributed to examining this important issue. The Government have taken account of all the points that have been made and all the concerns that have been expressed, and our position has changed as a result of the very good debates that have taken place in Committee here as well as in the House of Lords.
+
+I was pleased to note that Members of both Houses and members of the Joint Committee on Human Rights agreed with us that that the current definition set out by the divisional court in the case of Ali was not clear enough, that we needed to legislate for a clear definition of a miscarriage of justice given the ongoing uncertainty and reinterpretation of definitions by the courts, and that our aim was not to seek to restrict compensation, but to provide clarity. The question that remains before us is how it can be determined whether someone has suffered a miscarriage of justice.
+
+This is indeed a complex issue. When a case is properly brought to court—that is, when there is evidence of a crime on which it is right to ask a jury to adjudicate—there is no miscarriage of justice when the result of the trial is an acquittal, or even in very many of the cases in which a guilty verdict is later quashed as unsafe. The Government believe that a miscarriage of justice arises only when there is in existence a fact which entirely exonerates the accused: in other words, a fact which makes it unquestionable that the accused did not commit the crime. In such cases, it is only the ignorance of this fact that allowed the accused to be convicted in the first place. What we are seeking to define is something far more than merely a failure in the investigative or trial processes. We are seeking to define a clear miscarriage of justice which is—and, in our view, can only be—the wrongful conviction of the innocent.
+
+Our aim is to create an unambiguous statutory description of such a situation for the purposes of compensation. The fact that the definition inserted in the Bill by Lords amendment 112 is open to various interpretations is obvious from the significant number of judicial review cases awaiting consideration by the administrative court—13 at present—in which the aim is to challenge the Secretary of State’s application of the Supreme Court’s judgment in the case of Adams. That number excludes the three cases that are awaiting judgment from the challenge to the divisional court’s decision in respect of Ali and others, which was heard by the Court of Appeal last December. A test similar to the “Adams test”—the definition that is at the heart of all these cases—is the test that is now being proposed in Lords amendment 112.
+
+It is vitally important for us to ensure that the definition that is introduced into statute for the first time is “fit for purpose”. It must be clear and robust enough to avoid the need for further judicial interpretation, and, as far as possible, to limit the scope for argument about what will amount to a miscarriage of justice. The amendment that we propose would leave applicants in no doubt: if the new fact that led to their conviction being quashed showed that they did not commit the offence—for example, if it were shown that they had been somewhere else at the time, if someone else was proved to be the perpetrator, or if the courts acknowledged that no offence had in fact been committed—they would have suffered a miscarriage of justice, and would be likely to be compensated.
+
+Dr Julian Huppert (Cambridge) (LD)
+Will the Minister explain to those of us who are not lawyers what the difference is between the Government’s original wording and the wording of the amendment that they are now proposing?
+
+Damian Green
+I join my hon. Friend in that state of grace of not being a lawyer. The difference is that we have removed the word “innocent”. There was, I think, a feeling that the original Government proposal required people to prove their innocence, which, of course, would alter the presumptions that lie at the heart of the criminal justice system. That is what could be described as the non-legal significant difference, which is none the less a significant difference.
+
+John McDonnell (Hayes and Harlington) (Lab)
+Will the Minister therefore explain to us what the difference is between “innocent of” and “did not commit”?
+
+Damian Green
+A lot of the debate was about the nomenclature—the thought that we were asking people to prove their innocence. I have just explained the effect of the new clause: if a new fact emerges that on its own shows the person could not have committed the offence or that an offence may not have been committed, that would entitle that person to compensation. Throughout this debate people have recognised that it is not simply a question of being declared innocent that requires a miscarriage of justice to be called.
+
+Mark Durkan (Foyle) (SDLP)
+Further to that point, will the Minister explain how it would be different for someone to prove they did not commit an offence, as   opposed to someone being expected to prove their innocence? What is the difference in terms of the burden of proof?
+
+Damian Green
+The point is that nobody has to prove that they are innocent. We are not requiring them to do that. There requires there to be evidence that shows that they could not have committed the offence because they were somewhere else, for example, or because there is new DNA evidence or the offence has not been committed. That is the material difference between the two.
+
+Hywel Williams (Arfon) (PC)
+Will the Minister concede that that puts the burden of proof squarely on the defendant, however? They will have to do what is virtually impossible: prove a negative, and perhaps many years after the alleged offence took place.
+
+Damian Green
+No, I do not accept that because what would trigger the compensation claim would be the new evidence showing they could not have committed the offence. Something has to happen. Some new evidence has to be brought forward, so it is not simply a situation of the case being redefined.
+
+Jeremy Corbyn (Islington North) (Lab)
+If an innocent bystander is watching this debate today and the Minister is saying they have to prove they did not commit an offence, it sounds awfully like they have to prove their own innocence, which of course is anathema to our legal system. Why is he so keen on this new version?
+
+Damian Green
+I am keen on this new version and consider it to be an improvement on the original version precisely because it does not require anyone to prove they are innocent, and it provides as unambiguous a wording as we can find to ensure we do not have years of judicial interpretation to come.
+
+Mr David Davis (Haltemprice and Howden) (Con)
+I assure the Minister I have not risen to intervene to ensure he takes an intervention from every other Member in the Chamber. Can he give me an example of a case that would not pass one filter but would pass the other filter, because I cannot think of one?
+
+Damian Green
+It would not be helpful to go into individual cases. I have given some examples of what requirements need to be shown for an applicant to receive compensation. What is required is that there must be a new fact that demonstrates that the applicant did not commit the crime. A Court of Appeal judgment that led to the quashing of an applicant’s conviction would have to show what the reasons were. Although I cannot give individual examples, I can tell my right hon. Friend that the reason could be new DNA evidence or compelling new medical evidence, or compelling new alibi evidence that shows the applicant was somewhere else at the time.
+
+To address what lies behind a lot of the unease, let me say that it is fundamentally important to remember that we are legislating here for a compensation scheme that is based on specific eligibility requirements. These are designed to meet our international obligations which only require payment in exceptional cases. The Government believe this clause achieves that.
+
+Everyone has been asking, “What’s the difference between the original clause and this clause?” Of course the substance is not different. However, we recognise that in this area language is very important, and precisely because of the emotion that surrounds the word “innocent”, there is a case for reviewing the reference to that word which has been so controversial, and that is what we have done. We have removed that word, which I hope adds to the clarity and lack of ambiguity.
+
+14:15:00
+
+John McDonnell
+I think I understand where the Minister is coming from, but I just think we are getting ourselves into a bit of a mess here. Let me give him a concrete example. I chaired the Guildford Four campaign for a large number of years. What happened there was the discovery that the confessions were completely wrong. They were wrong for all sorts of different reasons—the circumstances in which they were taken, the way they were taken. They were just false. At that stage it is then demonstrated that the prosecution—and the original decision of the courts—is unsound and it is then dismissed. Those people are then released. They will then have to seek to prove their innocence to gain any compensation, so practically I think we are digging ourselves into a hole here and are creating a system that will cause more problems than those we are seeking to solve.
+
+Damian Green
+I disagree. The hon. Gentleman seems to be saying the system will in some ways be more difficult because people will have to apply for compensation. That in itself is not a huge change.
+
+John McDonnell
+May I explain my point again? Let us take the Birmingham Six as our example. As soon as the confessions were seen to be completely false, they were released on the basis that their prosecution was unsound. However, to gain compensation they will now have to go out and prove they “did not commit” or they were “innocent”, whichever terminology is decided on.
+
+Damian Green
+I think this is just a genuine misunderstanding. Someone will be eligible for compensation if the new fact—the hon. Gentleman is talking about new facts emerging in respect of confessions and so on—which led to the quashing of their conviction shows they did not commit the offence for which they were convicted. I think the particular objection he is giving rise to now would not apply, therefore.
+
+John McDonnell
+rose—
+
+Damian Green
+The hon. Gentleman has had a go.
+
+Mr David Burrowes (Enfield, Southgate) (Con)
+rose—
+
+Damian Green
+I give way to my hon. Friend.
+
+Mr Burrowes
+I must declare an interest as a lawyer. Returning to the amendment, these matters must be dealt with on a proper evidential basis. It has never been the remit of a court or Minister to pronounce on innocence. The issue is dealing with the question of whether an offence has been committed. That is what any jury or tribunal considers on the basis of the evidence. It is therefore important to look at the test for  compensation on an evidential basis, which plainly is whether an offence has been committed. If we get into the territory of pronouncing on innocence, the situation becomes harder and more ambiguous. The amendment in lieu makes it much more concrete. This is a fair and just test and that is why the amendment in lieu is welcome.
+
+Damian Green
+I am grateful to my hon. Friend for bringing his legal mind to bear on this, and explaining the difference.
+
+John McDonnell
+rose—
+
+Damian Green
+The hon. Gentleman may disagree, but he will have his chance to contribute to the debate.
+
+We are seeking to provide greater clarity, which is why we are unwilling to accept the Lords amendment. We have listened to those who consider that the express reference to the concept of innocence is problematic. That is what lies at the heart of this change. Our amendment in lieu is intended to take this concern into account by removing what has been until now the controversial aspect of this clause: the use of the word “innocent”. I hope that removing the express reference to innocence will make our respect for the presumption of innocence clear, and I hope I can allay the concerns expressed by hon. Members.
+
+We remain strongly committed to ensuring that compensation is paid only to those who genuinely warrant it, however. In our view compensation should be paid only to applicants where it is shown beyond reasonable doubt that they did not commit the offence. We believe that this change takes into account the points made in the House of Lords, which we have carefully considered. As Lord Phillips said in that debate, the primary objective of section 133 of the Criminal Justice Act 1988, which this clause would amend, is to provide redress to an applicant who has been convicted when he or she was in fact innocent. He also considered that its second and subsidiary objective was to ensure that an applicant whose conviction had been quashed but who had in fact committed the offence charged should not be compensated. Our proposed test goes a long way towards achieving both of those objectives. We consider that, while the definition of a miscarriage of justice for which we are seeking to legislate is drawn narrowly, it nevertheless provides for a range of circumstances in which compensation should rightly be paid to help people who need to rebuild their lives after suffering great injustices.
+
+Throughout our debates, much has been said about the views of the European Court of Human Rights on compensation for a miscarriage of justice, and I am again grateful to Lord Phillips, who commented on this so succinctly during the debate on Report in the Lords. He stated:
+
+“In substance, whatever interpretation is given to miscarriage of justice, something more than quashing a conviction is properly required”.—[Official Report, House of Lords, 22 January 2014; Vol. 751, c. 680.]
+
+This much can be gleaned from the four most recent decisions of the European Court on this issue. Today, our business is to determine precisely what that “something  more” is. We believe that the definition we are now providing in our amendment will make it easier for applicants to assess whether they should apply for compensation, and will make decisions on eligibility easier for the applicant to understand and less likely to be the subject of legal challenge, as my hon. Friend the Member for Enfield, Southgate (Mr Burrowes) made clear a moment ago.
+
+Mark Durkan
+Surely the Government’s amendment would not make it easier for the applicant to decide. Would not the Lords amendment make it easier to decide?
+
+Damian Green
+No; my difference with the Lords amendment is that it would leave applicants less clear about what to do. This would result in a large number of cases backing up in the courts waiting for judges to interpret what Parliament meant by the legislation, just as there are at the moment. The purpose of my proposal today is twofold: first, to meet the reasonable objections that have been raised about the original Government proposal; secondly, to provide greater clarity so that the House can speak with as clear a voice as possible in these difficult areas and not leave the field open to judicial interpretation, which can take a long time and which provides uncertainty for applicants.
+
+I am aware that, in both Houses, there has been a misconception that applicants would somehow be required to prove that they did not commit the offence before compensation could be considered. I can categorically say that that is not the case. Applicants do not have to prove anything under the existing criteria, and nor would they have to do so in future under this proposal. Applicants need only rely on information that is already available to them as a result of their appeal process.
+
+The test provided for in the Bill on its introduction was one that Labour was perfectly content to operate while it was in office. I hope that the new definition, which attempts to address the concerns that have been raised, will therefore have the support of the Opposition. I hope that they will now reconsider their position so that the Bill, and the many important measures it contains, can swiftly secure Royal Assent.
+
+Jack Dromey (Birmingham, Erdington) (Lab)
+Justice demands that those who are guilty of serious offences should be held to account and brought before the courts, especially in the case of heinous offences such as the murder of a child or a terrorist outrage of the kind that the city I am proud to represent suffered in 1974, with the appalling Birmingham pub bombings by the Provisional IRA, in which 21 innocent civilians were murdered. The victims of such crimes deserve no less than having the perpetrators brought to justice. Justice also demands that the innocent should not be found guilty, however. When serious miscarriages of justice occur, it is right that the innocent have access to justice and are able to be compensated for them.
+
+I am proud of the system of jury trial in this country. I fought for many years to defend it, as a member of the executive council of the then National Council for Civil Liberties, now known as Liberty. Trial by jury is one of our great British institutions. In the words of the jurist Lord Devlin, each jury is a “mini Parliament”, and trial by jury is
+
+“the lamp that shows that freedom lives”.
+
+Juries can get it wrong in certain circumstances, however: when evidence is withheld from or not disclosed to the defence, as in the case of Sally Clark; when new forensic evidence shows that the person charged and convicted was in fact innocent, as in the case of Mary Druhan; or when evidence is extorted as a consequence of outrageous and unacceptable pressure in a police station, or when it is manufactured, as in the cases of the Birmingham Six and the Guildford Four. When we debate the importance of compensation for the victims of miscarriages of justice, it is worth reflecting on each of those sets of circumstances.
+
+Sally Clark was a practising solicitor. She was traumatised by the sudden death of her child. She was wrongly accused of murdering her child, and went to prison. When she came out, she was a crushed woman, and she died not long afterwards. Mary Druhan was convicted of arson. In a powerful speech in the other place, Baroness Kennedy of the Shaws described how Mary Druhan had served 11 years in prison, and how she had become so institutionalised that when she came out, she was unable to negotiate public transport. She was also traumatised by the tragic suicide of her daughter while she was in prison.
+
+At a time in our history when the country was reeling from the horror of terrorist violence, what happened to the Birmingham Six and the Guildford Four was absolutely wrong. The Birmingham Six were beaten, brutalised and wrongly convicted. They served 16 years in prison. In the case of the Guildford Four, I will never forget when they walked to freedom and Gerry Conlon stood on the steps of the Old Bailey and said that his dad had died in prison. Such serious miscarriages of justice are mercifully rare—there are typically only a couple a year—but it is absolutely right that compensation should be available for the innocent victims who have suffered as a result of them.
+
+At the very heart of our legal system lies the principle that a person is innocent until proved guilty, and rightly so. It is for that reason that Labour tabled an amendment on Report to ensure that that age-old principle was upheld. I said then, as I do now, that I agreed that the Government were right in principle to include in the Bill a statutory definition of the cases in which compensation should be paid for a miscarriage of justice, in order to secure greater certainty in this area of the law. However, the Government’s proposed changes today seek to redefine the compensation test, limiting it to circumstances in which a
+
+“new or newly discovered fact shows beyond reasonable doubt that the person was innocent of the offence”
+
+of which he or she was convicted. That seems to fly in the face of the age-old principle. Worse still, the Government’s proposal will lead to the Secretary of State passing judgment on whether or not a person is innocent. Requiring the Secretary of State to perform that role when no court has done so would be to impose a complex and contentious role on Ministers, in cases that are among the most sensitive.
+
+14:30:00
+
+Far from securing greater certainty in the law, the Government’s proposals seems to be a recipe for complex, expensive and highly acrimonious litigation. The problems that an innocence test would cause in cases like those of the Birmingham Six, the Guildford Four or Sally Clark  are troubling, and here I come back to the reference to “beyond reasonable doubt”.
+
+Rehman Chishti (Gillingham and Rainham) (Con)
+The hon. Gentleman talks about the issue of innocence and the test that is to be applied. Like me, he is aware that Barry George was convicted of the murder of Jill Dando, was then acquitted and then lost his appeal for compensation. What does the hon. Gentleman say about that case?
+
+Jack Dromey
+First, the number of people who receive compensation every year is a handful—it is less than the number of fingers on a hand. There is no automatic entitlement to compensation, and each case is considered on its merits. Secondly, I have rightly focused on cases where people are absolutely entitled to receive compensation for the trauma they suffered as a result of being wrongly convicted and spending many years in prison, and I hope the hon. Gentleman would agree on that.
+
+Mr David Burrowes (Enfield, Southgate) (Con)
+I share the hon. Gentleman’s concern about the cases he has cited and the appalling years that these people spent, without obtaining justice in the form of compensation. We need to recognise where we agree: there is a consensus in the House on achieving justice for these people. He mentioned the innocence test. Amendment (a) would do away with the language of “innocent” and replace it with a test of “did not commit”. What is the substantive difference between that and the Pannick amendment, which I understand he supports and which also requires that the burden is to prove
+
+“conclusively that the evidence against the person at trial is so undermined that no conviction could possibly be based on it”?
+
+There is still a burden to provide conclusive proof, so what is the substantive difference between it and the “did not commit” test that the Government are now proposing?
+
+Jack Dromey
+In English law, someone is innocent until they are proved guilty. Let me contrast the three different formulations. The Lords amendment would mean that the new or newly discovered fact showed
+
+“conclusively that the evidence against the person at trial is so undermined that no conviction could possibly be based on it”.
+
+The Government’s original clause would have required that the fact showed
+
+“beyond reasonable doubt that the person was innocent of the offence”.
+
+Amendment (a) in lieu of the Lords amendment repeats those tell-tale words of “beyond reasonable doubt” and proposes a test that the person “did not commit” the offence. We strongly believe that the formulation from the other place provides a much more appropriate test, and that the amendment in lieu is about making it more difficult for victims of miscarriages of justice like those to whom I have referred to receive compensation. Indeed, two of the Birmingham Six have expressed the view, following legal advice, that they might not have been entitled to compensation under the Government’s proposed changes.
+
+Mr Burrowes
+We are talking about where the burden lies so we are dealing with the difference between a test of “beyond reasonable doubt” and one of proving “conclusively”. This is not about distinguishing “innocence”; the debate was had in the Lords and there has been a   recognition that we need to have reference to a “did not commit” test. I am trying to work out where we differ on this. Are we differing about whether something should be proved “beyond reasonable doubt” or just be proved “conclusively”? If so, what is the substantive difference between proving “conclusively” and proving “beyond reasonable doubt”?
+
+Jack Dromey
+As a lawyer, the hon. Gentleman will know the difference between providing conclusive proof and proving something beyond reasonable doubt. I stress again that the essence of our argument, and that supported by all parties and Cross Benchers in the other place, is that an individual is innocent until proved guilty. We see no good reason why a victim of a miscarriage of justice should suffer a “beyond reasonable doubt” test.
+
+Jeremy Corbyn
+Is not the Barry George example one we should think about carefully? He was convicted and spent a lot of time in prison but was later released as “not guilty” of the offence. He was then denied any compensation. Is the amendment in lieu an attempt by the Government to deny people compensation, and thus save money? Or is it a return to the slack days when a large number of people were wrongly convicted? The Criminal Cases Review Commission, which gave evidence last week to the Select Committee on Justice, confirmed that more than 500 people had been released from prison as a result of its intervention—I believe that is the correct figure.
+
+Jack Dromey
+There is a widespread view, reflected in the debate in the other place—someone talked about “incredulity”—as to why the Government are introducing such a test. A statutory definition providing greater clarity, particularly in the light of some of the cases that have gone before the courts, is one thing, but making it more difficult for people to receive compensation for serious miscarriages of justice is something altogether different. As the Barry George case shows, very few people are receiving compensation. The fear expressed in the other place is that the Government’s proposals will make it yet more difficult to obtain compensation for a miscarriage of justice.
+
+Mr Burrowes
+We all want clarity, so let me try to understand the difference between “conclusively” and “beyond reasonable doubt”. Are we talking about a balance of probabilities—whether something is more likely than not? Or are we talking about proving something beyond reasonable doubt, so that people are satisfied and sure? Is “conclusively” a balance of probabilities test, a beyond reasonable doubt test or something else? If it is something else, that wording does not provide the clarity we all seek.
+
+Jack Dromey
+As an eminent lawyer, the hon. Gentleman will know that “beyond reasonable doubt” has a very clear standing and purpose in our criminal justice system.
+
+Mr Burrowes
+Which is it?
+
+Jack Dromey
+We believe it is inappropriate for the test to be pitched so high; a “beyond reasonable doubt” test will make it more difficult for victims of miscarriages of justice to obtain compensation.
+
+Mr Burrowes
+rose—
+
+Jack Dromey
+I have given way three times and have been more than happy to do so, but let me continue now.
+
+For all the reasons I have described, Labour tabled an amendment on Report in this Chamber and then wholeheartedly backed the amendment in the name of Lord Pannick in the other place, which would ensure that compensation should be paid only if the new or newly discovered fact showed conclusively that the evidence against the defendant at trial was so undermined that
+
+“ no conviction could possibly be based on it.”
+
+That clearly provides a statutory definition and greater certainty in this area of the law, while adhering to the age-old principle for which I have argued so strongly. When the Court of Appeal has quashed a conviction, it is simply wrong then to require the defendant also to establish beyond reasonable doubt that he or she is, to all intents and purposes, innocent. Such a provision is incompatible with the presumption of innocence.
+
+The framework for which I am arguing already applies in the Supreme Court, where it was brought in by the then President, Lord Phillips of Worth Matravers, who strongly supported the Pannick amendment in the other place, and indeed in the European Court of Human Rights. Indeed, the Joint Committee on Human Rights has said:
+
+“in our view requiring proof of innocence beyond reasonable doubt as a condition of obtaining compensation for wrongful conviction is incompatible with the presumption of innocence which is protected by both the common law and Article 6(2) ECHR.”
+
+It is worth stressing again that the amendment from the other place is not about giving people more compensation automatically or making it easier for people to get off on technicalities and then to claim compensation in all circumstances; it is about serious and rare cases in which it is entirely appropriate that the victims should receive compensation. As our amendment makes clear, asking people to prove their innocence beyond reasonable doubt is an affront to our system of law, and denying compensation to those who have been wrongly convicted is an affront to a decent society. Many Members of this House, including my hon. Friend the Member for Hayes and Harlington (John McDonnell) and the hon. Member for Foyle (Mark Durkan), have campaigned for many years on miscarriages of justice.
+
+The simple fact is that our legal system is not perfect, and cases do go wrong. It is a tribute to our legal system that miscarriages of justice are rare, but when they do happen, it is simply wrong to expect those who have suffered to prove to all intents and purposes that they are innocent beyond reasonable doubt—it is adding to the injustice that they have already suffered.
+
+As I argued at the start of my contribution, miscarriages of justice lead to ruined lives. Families are destroyed. People leave while their partners sit wrongly behind bars. Jobs and homes are lost and people’s reputations are left in tatters. The mental despair and anguish are never fully resolved, which is why victims of miscarriages of justice need real help on their release. People’s lives can never go back to how they were. That is where we, as a decent society, have to make amends, and that is what our amendment does.
+
+In conclusion, I urge all Members of this House to support a rigorous and fair justice system that sticks up for its founding principle of people being innocent until proved guilty; that rejects the notion of “beyond reasonable doubt” to obtain compensation; that ensures that where a serious miscarriage of justice has happened, innocent people receive fair compensation for all they have suffered; and that reflects rulings already set out in the Supreme Court and the European Court of Human Rights. In short, we want a justice system that is serious about putting right serious injustice.
+
+John McDonnell
+To be frank, I am absolutely confused about where we have got to. I am confused over the difference of interpretation between innocence and “did not commit”. If someone wants to intervene on me at this stage I would be really grateful, because I cannot see the difference.
+
+My hon. Friend the Member for Birmingham, Erdington (Jack Dromey) has explained the implications of the proposal with regard to the Birmingham Six and Guildford Four. Let me put the situation in context following my involvement in the case of the Guildford Four. A number of people are locked up for many years. When they come out, they have nothing—no accommodation and no employment. The financial compensation they receive is relatively minimal compared with the suffering that they have gone through, and it is desperately needed to ensure that they have a chance of some form of normal life in the future.
+
+In the case of the Guildford Four—it was the same in the case of the Birmingham Six—we found that not just the prisoners but whole families were devastated. There have been suicides in the family of Paul Hill. As my hon. Friend the Member for Islington North (Jeremy Corbyn) knows, the lives of Errol and Theresa Smalley have been permanently damaged. The whole family network has been damaged as a result of that case. Gerry Conlon admitted it when he came out of prison. He was addicted to drugs, because that was the only way he could cope. The state pays compensation to try to do whatever it can to remedy the injustice that took place.
+
+The cases of the Guildford Four and the Birmingham Six went to court and were quashed because the forensic evidence demonstrated that confessions were made under duress and that documents were tampered with. When they left court, it was on the basis that the system had failed in due process to prove that they had committed the crimes for which they were brought to court. We then went through a negotiation process, which was quite bizarre; I did not realise that, under the existing compensation arrangements, their compensation would be reduced to pay for accommodation charges while they were in prison. It was a real struggle to get that compensation. The Minister says that this is not the case, but under the proposed system, if a case is quashed on the basis of that type of evidence, the defendants will have to go to another level of proof to get any compensation. They will have to demonstrate not that the process was faulty in the first place and that they should never have been caught, but that they did not commit the crime, which is having to prove innocence. That is almost impossible, for any of us. Trying to prove that negative is contrary to everything in English law, and practically impossible to do.
+
+14:45:00
+
+Mark Field (Cities of London and Westminster) (Con)
+rose—
+
+John McDonnell
+Let me just finish this point, then I will give way; I welcome the intervention.
+
+In the cases of the Birmingham Six and the Guildford Four, the media very quickly started to say. “Well, they might have got off, but maybe they did it anyway.” A campaign then started in the gutter press. It did not matter how good the evidence was, they still came at us. They tried to damage the reputations of those individuals. What worries me is that a Secretary of State determining that a higher level of proof is required to gain compensation will affect the atmosphere that is created.
+
+Mark Field
+I must admit that I have quite a lot of sympathy with what the hon. Gentleman is saying. He expresses a specific concern about high-profile miscarriages of justice. However, is there not a concern that this new test of a convincing case brings a whole lot more uncertainty into the law? I dare say that it will be an absolute boon for the lawyers as to precisely where that comes into play. Although I have sympathy with what the hon. Gentleman says, the benefit of what the Minister is saying is that we at least have a certain test that is already set in English law.
+
+John McDonnell
+In my view, the Government’s test is faulty. I am not convinced of the need for this additional test anyway. At least the House of Lords edges towards some greater level of fairness. I would rather give up on this attempt to redefine.
+
+The hon. Member for Gillingham and Rainham (Rehman Chishti) raised the case of Barry George. There has always been an ability in our system for the court awarding compensation to take into account whether the person contributed towards their plight. That has an effect on compensation levels or even whether compensation is awarded at all. By seeking to arrive at some definition in legislation, we are digging ourselves into a very complicated and costly hole, and that cost will be on the individuals who are desperately trying to ensure that they get some compensation for the ill that they have experienced as a result of the state’s failure to live up to a proper process. Additionally, it will be extremely costly for the state. As a result of the weakness in the definition proposed by the Government, we will see case after case being dragged through the English courts and then the European courts. In trying to remedy some form of perceived ill, we will create greater damage to those who have suffered enough.
+
+In addition, the process that is under way at the moment risks making a laughing stock of the Government. As we have heard today, there will be arguments over the difference between “do not commit” and innocence, between “conclusively” and “beyond all reasonable doubt”. The lawyers will make a fortune. I plead for a common-sense approach. The compensation arrangements at the moment are not absolutely perfect, but at least we have managed to secure some compensation for those cases that have been quashed as a result of the state’s failure, and this is about the state’s failure to act accordingly.
+
+There are many other cases. Susan May recently passed away, unfortunately, but her case is still being pursued to demonstrate her innocence, and I think that, rather than it being proved in the long run that the  evidential base was the problem, it will be demonstrated that police processes were not adhered to and it will be another case that is eventually quashed. I hope that the Criminal Cases Review Commission will posthumously provide some proof that she should never have been taken through the courts, but again, the case has been dragged out over years, demonstrating how difficult it is, even when trying to prove the failure of due process, to secure not just a decision but any compensation. The new process will make it even harder to get compensation, drag the decision-making processes out for even longer and prove to be basically unfair.
+
+I support the Lords amendment, because at least it moves us a little further forward, although I think even it will be open to significant challenge in the courts.
+
+Mark Durkan
+I rise to support Lords amendment 112 and oppose the Government’s amendment in lieu. The Minister told us that the Government were moving to allay the concerns raised by the use of the word “innocence” and its abuse in the Bill as originally drafted. Of course, many of us argued that the wording used in the original Bill changed all the normal presumptions about innocence under the rule of law and that it was tilting things to say that because someone had not proved their innocence they could remain guilty, even though they had been released on a quashed conviction. We were concerned not just about the word “innocence” but about the fact that the burden of proof would be reloaded for cases subject to review on the basis of new evidence that could lead to a quashed conviction. We were concerned that the question of compensation would be tested by altering the burden of proof so that new evidence had to prove someone’s innocence. The onus was being put on that person and their legal team to show the strength of the evidence.
+
+The Government’s response to the Lords’ fairly reasonable and measured amendment is to say that they have solved the problem of innocence by using the term “did not commit” about the offence. The Minister was asked again and again to tell us the difference. A brand of soup—I cannot remember which—used to be advertised by the slogan, “The difference is in the thickness.” We are being told that there is a big difference and the Minister is emphasising its importance, but he cannot explain, specify, spell out or measure in any way the difference between whether someone can show that the evidence proves that they are innocent of an offence or whether they can show that it proves that they did not commit the offence. Even some of the interventions from the Government Back Benches seemed to rest more on whether there was evidence that an offence had been committed than on whether there was evidence that the person had actually committed the offence.
+
+There are cases, of course, in which we know that gross and horrible offences have been committed, but that is very different from saying that that proves that a person who was charged and convicted of that offence has committed it. At other times, offences that might or might not have been committed are subject to questions and conjecture. We might consider our experiences in this House, as we might be thrown into the spotlight of public judgment about whether or not we did something. If we consider “did not commit” and “innocent” in that context, we might start to tease out some of the differences.
+
+If as MPs we were arrested on the basis of some allegation, the fact that we were not charged and nothing more happened would show that we were innocent, but would other people necessarily say that it proved that no offence had been committed and nothing had happened? Things might be different; there can be a difference between “innocent” and “did not commit”. As the hon. Member for Hayes and Harlington (John McDonnell) said, it is hard to prove a negative. We know from recent events of major publicity and political import in which allegations were made that someone had spoken to and treated police officers in a particular way, leading to consequences and all sorts of sweeping media and public judgments—although thankfully not court judgments—that that person was put in the position of having to prove a negative. They were asked to prove that they did not say what they were meant to have said and that they did not behave in the way that they were meant to have behaved.
+
+We need to think not only about the hard and serious cases when we consider miscarriages of justice in this jurisdiction; some of the questions about the difference between “innocent” and “did not commit” can be asked closer to home about cases that do not necessarily reach the criminal courts. If we are conscious about language and the standards, judgments and measure of such things, it might help us and make us a wee bit more sensitive about how we word things as legislators.
+
+The Lords amendment is designed, I believe, to meet the problem that the Government were seeking to address in the Bill. The Government said that they did not want to create a situation whereby the quashing of a conviction led either to the automatic fact of compensation or to the automatic assumption or expectation of compensation. They felt that some other test or qualification was needed. That was what the Government decided; it might not have been the starting point for some of us who have campaigned on miscarriages of justice cases such as those of the Birmingham Six and the Guildford Four. Long after the latter conviction was overturned, I worked with Gerry Conlon and his mother to try to ensure that there was an apology that fully vindicated them and voiced their innocence, because many people in the system and the media were still trying to hide behind the pretence that it was a technical quashing of the conviction but that the conviction itself was due and proper. For them, the issue is not compensation but the absolute assertion of innocence. That was why offence was taken at the use and abuse of the term “innocence” in the original Bill, but that was not the only issue. The burden of proof was altered and an attempt was made to allow in the system for someone who had been convicted and imprisoned for a long period not to be entitled to compensation, because they could not prove beyond reasonable doubt that they did not commit the offence or their innocence.
+
+Lord Pannick’s amendment accepts the Government's premise that there needs to be a definition and bases that definition on many issues that have been tested in other cases, including, as we have heard from the Minister, the Adams case. Based on the working and practical use of the law, the Lords amendment is wise and considered in its suggestion that a new or newly discovered fact should show conclusively that the evidence against the person at trial is so undermined that no conviction could possibly be based on it. That is not a hard test, as  it does not open up things to conjecture. It basically allows courts to do what many appeal courts and more senior courts often have to do in considering the material evidence that would have been in front of a lower court and to make a judgment on that basis.
+
+The Lords amendment would simply allow someone, after their conviction has been quashed, to pursue compensation on the basis that the quality of the new evidence shows that there would not have been a conviction in the first place. By refusing that, the Government are basically seeking to return to a situation in which the courts, the police and the prosecution service could be seen as part of a nexus of pursuing and achieving a miscarriage of justice. The beauty of the Lords amendment is that it would clearly take the lower court out of the frame, because it states that had the lower court known about such evidence, it would never have achieved the conviction.
+
+15:00:00
+
+What we have not heard in the Government’s case today, or indeed at other times, is exactly what the state’s case would be in relation to some of those compensation cases. Will the prosecutor and the police basically say, “No, we are contesting this, because the quality of the evidence we had was good enough and would have been worthy”? That would create, to use Lord Denning’s terrible phrase, an “appalling vista”. We might end up with the law, as it is stated here, meaning that the state authorities will still use the new wording offered by the Government to make that suggestion and to implicate the courts in that case as well.
+
+As we know, the courts have been able to make wise and sensitive judgments based on the balance of the material available—the material that was available historically and that is available currently. Lord Pannick’s amendment would allow the courts to continue to behave in that measured and responsive way and to take full account of the fact that a conviction has been quashed, but the issue of compensation does not flow automatically from that; it relates to testing whether or not the evidence, had it been available the first time, would have undermined the original conviction. That seems reasonable to me, because it rests on what would have been reasonable for a court to decide, and on the judicial system having confidence in its norms, practices, assumptions and presumptions. It would not rely on anybody else having to discharge an inordinate burden of proof of their innocence—of whether they had committed an offence, if it was known to have been committed, or of whether they committed an offence that might not be known and not even fully proven, because whether or not it was committed and who was involved in the conspiracy could be a matter of conjecture.
+
+I would also like to point out that victims of miscarriages of justice have not only been offended and insulted by the way the Government brought forward their original clause and their clumsy amendment in lieu; they are also clear that the issue has never been simply about compensation alone. Indeed, I am very conscious that, along with Gerry Conlon and other victims of miscarriages of justice, and along with the hon. Member for Hayes and Harlington and others, we worked with the Ministry of Justice in the previous Parliament to try to provide some other remedies and support for victims of miscarriages  of justice. As the Minister said, people who have been wrongly convicted face enormous challenges in putting their lives back together.
+
+However, those victims of miscarriages of justice are not given the sort of psychological support and remedial therapy that the Government rightly make available to released hostages, for example; to those who have had dire experiences while serving abroad in the military or potentially in custody; or to those who have been held hostage in civilian situations or as volunteers overseas. In those cases, highly specialised support and treatment is made available, yet the traumas and the adjustments that they have to try to make are very similar to those of victims of deep miscarriages of justice and a harrowing time in prison, perhaps because of the nature of the offence for which they were charged and the nature of the treatment they received, and not just from prison authorities, but from the prison population.
+
+I ask the Minister, in moving beyond the immediate detail of the Bill, as well as in considering compensation, which I believe the Government are misaddressing  in their amendment in lieu to the reasonable Lords amendment, to look to the other issues, because if he is saying that compensation should not be the only answer and the only thing we are thinking about, what other answer are the Government providing, because they have failed to move forward on the measures examined by the previous Government?
+
+I find it hard to take seriously anything he said today, because he still cannot explain the difference, and exactly the import of that difference, between what he is offering in his original clause and the amendment in lieu. The reality is that the only real difference—the valid and important difference—is that which is contained in the Lords amendment. That is why the House should agree to Lords amendment 112.
+
+Hywel Williams
+I wish to add my voice to those seeking to support Lords amendment 112. I am indebted to my right hon. Friend the Member for Dwyfor Meirionnydd (Mr Llwyd) for his guidance and advice on the matter. He would have been here if that were possible.
+
+The hon. Member for Hayes and Harlington (John McDonnell) referred to the long-term damage done to individuals, and indeed to their families, by such miscarriages of justice. In the case of the Cardiff Three, damage was clearly done not only to those individuals and their families, but to an entire community. I believe that what happened was a public harm, because it damaged relations between community groups in Cardiff. We must not underestimate the importance of that case.
+
+The Lords rejected the Government’s original intention, which was to place an expectation that the defendant would have to prove that
+
+“the new or newly discovered fact shows beyond reasonable doubt that the person was innocent of the offence”
+
+in order to gain compensation. As I said in an intervention, that would have placed a heavier burden of proof on the individual, as he or she would have been forced to prove their innocence of a crime years or even decades after it took place. The Lords instead passed their amendment 112, which means that a person could be awarded compensation, provided that the evidence now used   against them could not possibly result in a conviction at trial. That means that the evidence against a person is so undermined that no conviction could be based on it.
+
+Regrettably, the Government now intend to disagree with the Lords and, in effect, reiterate their original intention by saying that the evidence would need to prove that the defendant “did not commit” the offence. We have already heard the debates about the semantic difference between “did not commit” and “innocent”—I was imagining lawyers dancing on the head of a pin. That would once again place the burden of proof on the defendant. It asks the defendant to do something that is virtually impossible: to prove a negative—that they did not do a certain thing—years after the trial has taken place.
+
+The Minister said that it would not be useful to provide examples of individual cases. The Government’s attempts to change the law covering compensation in cases in which an alleged miscarriage of justice has taken place runs contrary to case law, which cements the current position. Some cases have been suggested to me by my right hon. Friend the Member for Dwyfor Meirionnydd. In R (Mullen) v. the Home Secretary, Lord Bingham successfully argued that a miscarriage of justice can occur where an individual has been wronged by
+
+“a failure of the trial process”.
+
+The burden is not on the defendant to prove that they were innocent. In R (AH) v. the Secretary of State for Justice, the divisional court ruled that a miscarriage of justice occurs where an individual can prove
+
+“beyond reasonable doubt, that no reasonable jury... properly directed as to the law, could convict on the evidence now to be considered.”
+
+It is chilling to think that the cases of the Birmingham Six, the Maguire Seven, the Guildford Four and, as I have mentioned, the Cardiff Three would not have satisfied the new test put forward by the Government. If Lords amendment 112 is overturned, individuals who have already suffered a miscarriage of justice will be further wronged by not being able to access the compensation due to them—compensation meant to represent roughly the amount they would have received in earnings had they not been imprisoned.
+
+I do not believe that the Government have offered an adequate reason for introducing this ill-advised provision. The Secretary of State, by refusing to change the Government’s proposals, is not only refusing to listen to Members of the other place, but ignoring the advice of external organisations, such as Liberty and Justice, that oppose the change.
+
+I urge Members to disagree with the Government and insist on Lords amendment 112 in order to uphold the current position based on case law, which determines that a miscarriage of justice has occurred if it can be shown
+
+“conclusively that the evidence against the person at trial is so undermined that no conviction could possibly be based on it”.
+
+As the hon. Member for Birmingham, Erdington (Jack Dromey) said, the presumption of innocence is a key principle of the justice system. Defendants should never have to prove their own innocence. There can be no   reason why such an unfair burden should be placed on defendants seeking to prove that a miscarriage of justice has taken place. Lords amendment 112 must be upheld.
+
+Jeremy Corbyn
+I rise to support Opposition Front Benchers. Lords amendment 112 uses the words,
+
+“conclusively that the evidence against the person at trial is so undermined that no conviction could possibly be based on it”.
+
+I put it to the Minister that that is surely about as good as we are going to get as an effective definition in taking things forward. If we have to take the route of proving that an offence was not committed, then I see all kinds of injustices occurring further down the line. A point was made about Barry George. We all agree that the murder of Jill Dando was disgusting, appalling and revolting, and obviously the person who did it should suffer the consequences of committing it. Barry George was imprisoned and later released. Therefore, the court had decided that he did not commit the offence. Has he now to prove his innocence even though he has been released by a court? That case is very well known, and I suspect that very many others do not get that degree of publicity. Miscarriages of justice happen all the time.
+
+Like my hon. Friend the Member for Hayes and Harlington (John McDonnell), who has had to leave to chair a Public and Commercial Services Union group meeting but will return, I was very involved in the Birmingham and Guildford cases. Indeed, Paul Hill, who was the first person ever arrested under the Prevention of Terrorism Act 1974, was a constituent of mine. I went through the whole business of the campaign, and eventually those people were released and compensation was paid. However, I have to say two things about the compensation. First, there seemed to be a calculation based on the expected income of those people throughout their lives, yet at the time of their arrest, the Guildford Four were not particularly well paid, working as part-time building workers in some cases, and one would not have said that their economic prospects were particularly good. But who knows what would have happened to their economic prospects had that terrible miscarriage of justice not happened?
+
+Secondly, one area of compensation was not effectively taken into account. This was not just about the emotional cost to the wider families—my hon. Friend the Member for Hayes and Harlington is correct that there have been some awful traumas in the families of the Guildford Four, the Birmingham Six and many others—but the financial cost. In mounting a campaign to try to gain the release of a convicted prisoner, particularly when they have been convicted of very serious offences, it is difficult to gain public support and even more difficult to find anybody to help finance it, so in many cases the families paid out a great deal of money themselves.
+
+The step forward that was taken on the release of the Birmingham and Guildford people was the establishment of the Criminal Cases Review Commission, from which we took very interesting evidence last week in the Justice Committee. There are a number of cases that it does not review because it does not think there is enough evidence to do so. When people come back and demand a re-examination, in some cases the CCRC will then review. In the very large number of cases where it does review, it sends those cases back to the Court of Appeal and subsequently the individual is released. On that basis, compensation should be automatic—a given. If  someone has been convicted, the case has been reviewed by the Court of Appeal, and they have been released, obviously the Court of Appeal must have had some very good grounds for releasing them. I do not see why they should then have to go through another hoop of trying to get compensation by proving that they did not commit an offence that they have been released for not committing. We are getting into a big problem in this regard.
+
+15:15:00
+
+I realise that the Minister is unlikely to change his mind at this stage, but if we as a House do the right thing and accept the Lords amendment, that would be good. If we reject it, I hope that the Lords will return to it and insist on it, because it protects some of the very good advances that we have made in dealing with miscarriages of justice. As my hon. Friend the Member for Birmingham, Erdington (Jack Dromey) pointed out, the judicial system is not perfect. No legal system is perfect. The jury system is as good as we will get, but it is not perfect. Juries can make mistakes or misread evidence; all kinds of things go wrong. Highly trained legal minds can misread evidence and get things wrong. These things happen. Therefore, there must be the failsafe of an appeals system. There can be gross miscarriages of justice, as we well know. There has to be a further safeguard, and that is where the review system and the Court of Appeal come in.
+
+When society as a whole has got it wrong about an individual, that individual cannot get the years back. They cannot get their youth back, they cannot get their life back, and they cannot get back all those years of missing their children, their grandchildren, their friends, their family and everything else, but they can at least get some financial compensation, which is society’s way of saying that we got it wrong and we are determined to make sure that it does not happen again in future.
+
+We owe it to the families who campaigned for justice for the McGuire Seven, the Guildford Four, the Birmingham Six and so many others to say “Thank you” for the work they did in bringing about these changes. I feel very sad that the Government now seem in part to be undermining that progress by rejecting the Lords amendment. I hope that the Minister will think again on this subject.
+
+Damian Green
+With the leave of the House, Madam Deputy Speaker, I will respond briefly to some of the important points that have been made during this debate.
+
+Taking this back to first principles, the domestic courts have always made it clear that compensation should be paid when the new facts that form the basis on which a person’s conviction was quashed clearly show that the applicant did not commit the offence. However, the courts have never been able to define without ambiguity a stable and robust test. Given the courts’ difficulty in this area, we decided to create a clear and definitive statutory test, the requirement for which is supported by Parliament and others, including the Joint Committee on Human Right, although I appreciate not by the hon. Member for Hayes and Harlington (John McDonnell) and conceivably the hon. Member for Foyle (Mark Durkan), although he did not address the point.
+
+With regard to the test, we have sought to provide an amendment that recognises that compensation should be paid only to those who genuinely warrant it. What we require to achieve that is for the new fact to demonstrate that the applicant did not commit the crime—I addressed the various situations in which that could be shown—and that this should be evident from the reasons outlined in the Court of Appeal’s judgment that led to the quashing of an applicant’s conviction. The applicant does not have to prove their innocence—in other words, the reversal of the burden of proof, which Members have mentioned. That is simply not the case. The reasons why the applicant could not have committed the crime will be evident from what is outlined in a successful appeal.
+
+The hon. Member for Birmingham, Erdington (Jack Dromey) talked about the Sally Clark case. Obviously it is difficult to say how we would consider any applications where compensation would be payable under the new test in the abstract. We have heard much mention of their lordships’ discussion of this. On Report in the Lords, there was disagreement between two eminent lawyers as to the facts of the case that would be fundamental in consideration of an application for compensation. Great lawyers can disagree about that, but what we do know, and what therefore cannot be in dispute, is that the Secretary of State did grant compensation in that case.
+
+Jack Dromey
+Just for the record, Lord Saville of Newdigate, Lord Phillips of Worth Matravers, Lord Hope of Craighead and Lord Scott of Foscote, who are members of the Supreme Court, all supported amendment 112. Why is the Minister pitching this at the level of beyond reasonable doubt?
+
+Damian Green
+I should point out that Lord Brown disagreed and that the Supreme Court’s judgment in the Adams case was five to four. It genuinely is the case that our most distinguished lawyers were very close to disagreeing.
+
+On the question of beyond reasonable doubt, the ambiguity we seek to resolve with our amendment (a) is illustrated not just by the 13 cases currently awaiting consideration by the administrative court, but by the disagreement between the lawyers in the House of Lords about whether Sally Clark would not have qualified for compensation under that test. The fact that the hon. Gentleman could not tell my hon. Friend the Member for Enfield, Southgate (Mr Burrowes) whether the test he supports—the conclusive test—is one of beyond reasonable doubt or of the balance of probabilities reflects that test’s inherent ambiguity.
+
+There is nothing new in the “beyond reasonable doubt” test. The existing provision in section 133 of the Criminal Justice Act 1988 already requires a miscarriage of justice to be shown to have occurred beyond reasonable doubt. The Government, therefore, are not introducing a new test. The aspect on which the hon. Gentleman and the hon. Member for Foyle have laid such great weight is already in the 1988 Act, which we are seeking to improve.
+
+The hon. Member for Hayes and Harlington made a reasonable point. He does not think that Parliament should get involved at all and that we should just leave it to the lawyers. I disagree with that argument and so do  most people who have addressed the issue. I think we should try to set out a clear, unambiguous basis for the payment of compensation.
+
+I return to the basic point that where the new fact which underpins the quashing of the conviction clearly shows that the offence did not happen, that the applicant could not have carried out the offence or that someone else carried out the offence, that would qualify as a miscarriage of justice. That seems to me to be clearer and less ambiguous than what we have at the moment. It will not deny anyone who genuinely deserves compensation from getting it.
+
+Question put, That this House disagrees with Lords amendment 112.
+
+Division 202
+04/02/2014 15:22:00
+The House divided:
+Ayes: 292
+Noes: 239
+Question accordingly agreed to.
+
+Lords amendment 112 disagreed to.
+
+Amendment (a) proposed in lieu of Lords amendment 112.—(Damian Green.)
+
+Question put, That the amendment be made.
+
+Division 203
+04/02/2014 15:36:00
+The House divided:
+Ayes: 297
+Noes: 238
+Question accordingly agreed to.
+
+Amendment (a) made in lieu of Lords amendment 112.
+
+Clause 1
+
+Power to grant injunctions
+
+The Minister for Crime Prevention (Norman Baker)
+I beg to move, That this House agrees with Lords amendments 1 to 68, 138 and 168.
+
+Mr Deputy Speaker (Mr Lindsay Hoyle)
+Order. The House is agreeing with Lords amendment 1 only, with which we will consider Lords amendments 2 to 111.
+
+Norman Baker
+Thank you, Mr Deputy Speaker, I am so keen to agree that I got carried away.
+
+The amendments deal with the new antisocial behaviour powers in parts 1 to 6 of the Bill, and I will deal briefly with each one in turn. Members will, I am sure, have watched with interest the proceedings in the House of Lords on the test for issuing an injunction in part 1 of the Bill. Because of the clear vote in the Lords, where there seems to be a majority, and in the light of that debate, the Government has accepted that the test for an injunction should be amended. Lords amendments 1 and 5 will provide for a two-tier test, and the nuisance or annoyance test will continue to be used to deal with housing-related antisocial behaviour. In all other circumstances, the test of harassment, alarm or distress will apply.
+
+The Government believes that the fears raised in the Lords and by campaign groups were unfounded, and our view is shared by the Law Society and housing providers who have been using the nuisance or annoyance test responsibly and proportionately for more than a decade. The suggestion was made that we somehow wanted to curtail the activities of carol singers. It is slightly difficult to believe that any Government would want to do that, and that we would mis-write legislation to enable that to occur. We are then expected to believe that a local council or police officer would want to use the legislation to ban carol singers. We are then expected to believe that any court in the land would deem it proportionate, just and convenient to ban carol singers. Of course, by the time a court had so decided, several weeks on, the carol singers would have left the place where they were singing and it would not be possible to capture them. I think that that example shows some of the exaggeration and scaremongering that have occurred on this proposal. The Lords have spoken, however, and we have listened carefully. It is a democratic Parliament and we have therefore accepted, largely, the substance of Lord Dear’s amendments.
+
+Jim Shannon (Strangford) (DUP)
+I do not take exception to the Minister’s comments, but those of religious persuasion who are concerned about the proposed  changes support the view that the Lords have put forward. Will the Minister confirm that the position of those of religious persuasion and religious beliefs will not be in any way changed?
+
+Norman Baker
+Yes, I am happy to deal with the issue of religious beliefs. Lords amendments 2 and 19 respond to concerns by the Joint Committee on Human Rights relating to the provision in clauses 1 and 21 that requires a court to avoid, so far as practicable, imposing prohibitions or requirements in an injunction or a criminal behaviour order that would conflict with a respondent’s religious beliefs. The amendments remove this wording, as the right to hold a religious belief is absolute. It was simply the manifestation of a person’s religious beliefs that we intended the provision to capture, but a court would be obliged to consider this in any case to comply with its obligations under the Human Rights Act. That being the case, the neatest solution is simply to remove the provision. That is what has happened, and I hope that that deals with the hon. Gentleman’s point.
+
+Mark Field
+While I agree with the Minister that we should agree with what the Lords have had to say on this matter, I do not necessarily think that it is the result of the workings of democracy—it is anything but. He slightly trivialised the issue of carol singers, but there is a bigger nuisance concern. For example, there might be a sense that if trick or treating was being clamped down on, it would be unfair not to clamp down on other activities, such as carol singing. I think that that is what might have been behind the Lords thoughts on this matter.
+
+Norman Baker
+I am not quite sure what was in the Lords thoughts. Other examples were given—bellringers and so on—and nobody in this country would want, in any way, to limit the activities of bellringers. I fear that the Government’s honest attempt to deal with genuine antisocial behaviour has been misconstrued, either inadvertently or otherwise, but we are where we are. We have accepted the form of words—“harassment, alarm or distress”—which was wanted by their lordships.
+
+The next set of amendments in this group relate to under-18s. Lords amendments 3, 4 and 12 enable an applicant for an injunction to apply to the youth court for permission to have cases involving respondents, who are both over and under 18 years of age, to be heard together in the youth court if it is in the interests of justice to do so. If the youth court does not grant the application, the hearings will be separated, with the adults in the county court and the under-18s in the youth court. By linking these hearings, we will help to put victims first.
+
+Lords amendment 10 brings us to the prohibitions that can be included in an injunction where the respondent is under 18. As originally drafted, clause 12 meant that the injunction could be used to exclude a respondent of any age from his or her home in cases of violence or risk to others. However, in the Lords, concerns were expressed, by my Liberal Democrat colleague Baroness Hamwee, on whether it would ever be appropriate to exclude under-18s from their own home on the grounds of antisocial behaviour. Lords amendment 10 limits the exclusion provisions to injunctions where the respondent is over 18. Where it is in the best interests of the child to  be removed from the family home, there are sufficient powers in other safeguarding legislation to ensure that that is possible without the need to resort to an injunction.
+
+Other amendments and provisions in this group relate to tenancy injunctions, the criminal behaviour order, dispersal powers, the public spaces protection order, the recovery of possession of dwelling houses and the issuing of statutory guidance. I will be very happy to pick up on any questions that Members have on any of those particular matters.
+
+Helen Jones (Warrington North) (Lab)
+I am grateful to the Minister for outlining how the Government do not intend to oppose the Lords amendments, although it is interesting that he bows to the wisdom of the Lords on this issue, but not on miscarriages of justice. The Lords amendments, particularly on the threshold for injunctions to prevent nuisance and annoyance, improve the Bill, taking the threshold from “nuisance and annoyance” to “harassment, alarm or distress”, but overall we feel that the Bill still weakens the powers against antisocial behaviour, which is of growing concern to people. It is a badly worded Bill thrown together on the usual principle of, “We must do something. This is something. Therefore, we must do it”, which the Government seem to operate under. Large parts of the Bill will not offer people the protection they need.
+
+Mark Field
+I think the hon. Lady is being too sceptical about the genesis of these provisions. As a central London MP, I do not think that everything about the old ASBO regime was bad; elements worked well for many of my constituents. I know that Westminster City council has expressed concerns, which were raised in another place, but it is still a little unfair to suggest that nothing good is coming from the Bill. We will have to see how it works in practice.
+
+Helen Jones
+The hon. Gentleman makes the important point that in many cases ASBOs worked. I have seen them work in my own area, as he has in his. As he said, it remains to be seen how the Bill will work, but I look forward to debating it in the future.
+
+I want to comment on a number of other amendments in this group that the Minister did not mention, but I do not intend to take up too much of the House’s time. We are grateful that the Government have accepted the Lords amendments on forced marriage originally moved on Report by my noble Friend Baroness Thornton and later taken up by the Government, who tabled similar amendments ensuring that where a person lacks capacity an offence would be committed where conduct was carried out for the purpose of forcing someone into a marriage. It is arguable, I agree, that this is the case under present law, but the amendment makes it clear. It is sensible because it ensures that where a person is incapable of understanding the implications of their decision, the new offence can be committed even without violence, threats or coercion. This will also apply in Scotland.
+
+Much work still needs to be done on forced marriage, and I commend the work of the forced marriage unit and all those working in this area, but the House is making it clear in the Bill that British children and young people, whatever the colour of their skin, and including the most vulnerable who lack capacity, will  have the same protections in law as anyone else, and that is to be welcomed. There are many things in the Bill on which we might disagree, but on this issue, the House is united. These provisions will take us forward.
+
+The Government’s firearms amendments seem fairly minor: one closes the loophole around antique firearms, which seems perfectly sensible, while the other relates to suspended sentences. Currently, a three-year jail term bans someone from owning a firearm for life and a three-month sentence leads to a five-year ban. The amendment treats a three-month suspended sentence in the same way, which we welcome, although it does not go far enough. When someone has a conviction, the police have grounds for refusing an application. The problem comes when there is no conviction but the police have evidence of violent behaviour in the past. That was why we wanted an amendment to provide that where the police found credible evidence of domestic violence, or drug or alcohol abuse, a firearms licence could be refused. No sensible gun owner has anything to fear from such a provision.
+
+The case of Michael Atherton is the one that I must refer to here. He was convicted of the murders of his partner, Susan McGoldrick, her sister and her niece. He had a long history of domestic violence, but he was still allowed to own four shotguns. The licensing officer’s comments on his application were chilling. He wrote:
+
+“Four domestics, last one 24/4/04, was cautioned for assault. Still resides with partner and son and daughter. Would like to refuse, have we sufficient to refuse re public safety?”
+
+Durham constabulary decided it did not have sufficient grounds to refuse and people died as a result. This is an issue that the Opposition will want to return to in the future because it is essential to keep women safe.
+
+16:00:00
+
+Jim Shannon
+I sympathise greatly and understand the issue that the hon. Lady raises. In the case of someone against whom a domestic complaint has been made to the police which is unsubstantiated, how would that be taken care of, in the Opposition’s view, under impending legislation? Incidents are not always taken as proof; there may be only complaints that are not substantiated.
+
+Helen Jones
+The hon. Gentleman makes a fair point. He is right that incidents of domestic violence do not always make it to court for a number of reasons, usually involving the vulnerability of the victims, but in such cases the police would have to find credible evidence of domestic violence or drug or alcohol abuse, and that refusal could be challenged in court. As a first premise, we should be clear that we should not put guns in the hands of people with such a record. We know that there are people who need to hold guns for a number of reasons. For example, farmers—some of my relatives are farmers—and vets do, but we should not be putting guns into the hands of people with a record of domestic violence. I hope that in time the Government will see that.
+
+I shall comment briefly on the amendments to deal with child sexual exploitation, particularly amendment 76, which allows closure of premises suspected of harbouring those who have committed child abuse. We know from the cases that have happened in Rochdale, Oxford and other towns in this country how horrific some of this  abuse has been. The reviews from Oxford and Rochdale were very clear that certain premises were repeatedly used for grooming and sexual exploitation. It was, in my view, impossible for the proprietors of those premises not to know what was taking place there. In Oxford it was guest houses in particular, and it was horrific beyond belief.
+
+When the Minister responds to the debate, will he clarify one point in particular? For a closure order there has to be reasonable suspicion that a criminal offence has occurred. This could be a sexual offence against a child, but the obvious thing that we are likely to be dealing with in such situations is grooming, and the offence of grooming is quite a hard one to establish. That is why there are few convictions for it. The adult has to have met and communicated with the child twice, and the adult must then meet the child and, at that time, the offender must have the intention of committing a relevant sexual offence.
+
+Perhaps the Minister could clarify for us how the police will have a reasonable suspicion of all aspects of the offence of grooming, and whether the difficulties in establishing this will prevent the power from being used. If that is found to be the case as time goes on, will he undertake to come back to the House with further proposals if necessary? This issue is causing deep disquiet in some of our communities, and rightly so. When we are talking about protecting children, we should err on the side of caution—on the side of children, as it were, rather than anyone else.
+
+Julie Hilling (Bolton West) (Lab)
+Before my hon. Friend sits down, will she say whether she, like me, welcomes Lords amendment 69, which strengthens the penalties for attacks by dogs, but does she regret, as I do, the fact that the Government have not accepted amendments to introduce dog control notices or to continue to review the progress of these changes?
+
+Helen Jones
+My hon. Friend makes a good point. I well recall the horrific case in her constituency. I do regret the fact that the Government did not accept what were reasonable suggestions on that issue. I hope we will be able to return to them in future, because we have seen some awful attacks, against children in particular but also against adults. This is something we will have to deal with in future.
+
+We have reservations about some of the Lords amendments, but all in all we are glad that the Government have accepted them. I look forward to hearing the Minister’s reply to some of my queries when he sums up.
+
+Dr Julian Huppert (Cambridge) (LD)
+There is a huge range of issues to cover in this group of amendments. I will not even try to touch on them all, but will talk about a few that I am particularly concerned about and have raised on a number of occasions.
+
+This Bill started with pre-legislative scrutiny. It is telling, to me at least, that quite a number of the amendments made in the other place were originally recommended during pre-legislative scrutiny. Perhaps if the Government looked at pre-legislative scrutiny earlier, we might get there somewhat faster. With that in mind, I particularly welcome the changes to the injunction to  prevent nuisance and annoyance, or IPNA—the issue that has received perhaps the most attention—in Lords amendments 1 to 5. This is a welcome change, and I pay great tribute to my hon. Friend the Minister for his work in getting us to this place.
+
+During the pre-legislative scrutiny, the Home Affairs Select Committee said there was a risk that the provisions could be interpreted as being too broad. The Minister has quite rightly described why some of the stories that were going round—for example, about how carol singing would be prevented—were simply not true but were good debating points. We made it clear that we had real concerns with the provisions as they stood. I am pleased that, as a result of the changes in the other place, we now have something that is much more proportionate. We have moved away from causing nuisance and annoyance in the general sense to something more serious. That is definitely right, because all of us are quite capable, I am sure, of causing nuisance or annoyance to people on various occasions.
+
+Richard Fuller (Bedford) (Con)
+Some more than others.
+
+Dr Huppert
+I hope my hon. Friend would join me in being in the annoying category.
+
+Richard Fuller
+It would be a club of one.
+
+Mr Deputy Speaker (Mr Lindsay Hoyle)
+Order. I think we go through the Chair.
+
+Dr Huppert
+I was somewhat surprised by the original amendment passed in the other place, which was backed by many, including Labour peers, because it wrote into law discrimination that I would not be happy with. We have rules about behaviour that is unfair—behaviour that is too harsh—but I was really surprised to see an amendment that said there should be one set of rules for people in social housing and a completely different set of rules for people in private housing. If someone’s behaviour is causing problems that are sufficiently serious to be dealt with under the Bill, the form of tenure should not matter. I was very disappointed by that amendment and very pleased that the Government corrected it. What we now have corrects that problem and I am happy to support it, because I would not have been able to support the previous version from the Lords.
+
+Jack Dromey
+Just for the record, the proposal for a tenure-neutral approach in fact came from Labour Lords.
+
+Dr Huppert
+I do not have the list of exactly who proposed what. The Government amendment we have is neutral; the one that Labour peers supported in the other place was not tenure-neutral. I hope the hon. Gentleman agrees that that was a flaw in it, although the other principle was there.
+
+I welcome the change, although I remain surprised by the position of the Opposition, who felt that the version that left this place was both too draconian and too liberal. I am glad that their position has moved in a more liberal direction. The new approach is far better than the failed system of ASBOs, which many young people collected as a badge of honour. A huge number  of people broke them; they simply did not work. I think that this non-criminalising approach will work much better.
+
+Let me turn now to some of the other issues. Lords amendment 10 is important and concerns the principle that we should not be using these rules to throw children out of their own homes. The Lords pushed for that, and it is a shame that we did not manage to get it fixed in this place. The importance of care for the under-18s should have been emphasised more strongly during the Bill’s earlier stages, and I am glad that it has been emphasised more strongly now. This is another of the issues that were dealt with by the Home Affairs Committee. I am also pleased that Lords amendment 11 proposes the removal of clause 13, because it discriminated on the basis of tenure.
+
+Lords amendments 23 and 24 deal with the rights of free expression and free assembly. The Home Affairs Committee recommended that we should ensure that dispersal powers were not used in a way that could damage those rights. Before my hon. Friend became a Minister in this Department, the Government moved some of the way towards this, and I am glad that he has now been able to persuade them to move the whole way, so that we can protect all forms of free expression and free assembly.
+
+Lords amendments 59 to 64 deal with cases of riot. Riot is of course very serious, and we have already seen what it can lead to in this country. As a result of what happened, the Prime Minister said that he wanted stronger powers to deal with the families of people who were rioting. Many of us felt that, although we could understand the tensions that existed at the time, his suggestion went too far. It did not seem appropriate to throw everyone out of a house because a 16-year-old child had committed a minor offence where a riot was happening. I do not in any sense condone either the riot or the behaviour, but throwing an entire family out of their home seems to be a disproportionate response. I pay tribute to my hon. Friend the Minister for his work in this regard, which has led to the proposal that an automatic eviction should take place only if the offence is committed by an adult, and only if it is a serious, indictable offence. A trivial offence that happened to be committed near a riot would not lead to such an eviction; nor would an offence committed by a child.
+
+Finally, let me raise two issues that we had very little time to discuss during our initial debates in this House, and that were not particular topics of interest at that stage. The first involves surveillance and the Terrorism Act 2000. Lords amendment 102 and related amendments deal with the powers of the Investigatory Powers Tribunal to deal with complaints about the surveillance commissioners and their decisions. The IPT does not necessarily work as well as it needs to, and it is not as transparent and open as it needs to be, but I am glad that we are taking a step towards more transparency. Surveillance oversight is an extremely important subject, and the Bill does not finish what we need to do about it. There is much more to be done, but although the amendments represent just a tiny piece of the jigsaw, I welcome them.
+
+Lords amendment 100 and related amendments deal with schedule 8, which amends schedules 7 and 8 to the Terrorism Act. Schedule 7 became very topical at the time of the detention of David Miranda. I am pleased that, after a great deal of argument in this House, we  have managed to get some changes made in the House of Lords. People must be questioned within an hour of detention, reviews must take place within two hours of that, and people’s right to consult a solicitor is made clear. That fundamental right was omitted by the Terrorism Act when it was passed by the last Government. There is much more to be done about that as well, but I am very pleased with all the amendments. I commend the Minister and his team for their work, and look forward to our passing the amendments promptly.
+
+Mark Field
+I agree with the hon. Member for Cambridge (Dr Huppert) that it is a shame that the Government did not take more account of the pre-legislative scrutiny, relying instead on the other place. I accept that all too often, whichever Government are in play, the electoral arithmetic ensures that legislation is rushed through and guillotined here in the House of Commons, and some sensible suggestions are then made in the House of Lords, many of which—as in this instance—we end up not seeking to oppose. Given the relative paucity of legislation in the House of Commons over the next 15 months, I hope that we will pay the House a little more respect, and ensure that whatever Bills come before us during the fifth year of this five-year Parliament are given proper scrutiny.
+
+I support what the Government are doing in Lords amendments 40, 41 and 44 to 47, which relate to public bodies that can issue a public spaces protection order. That has particular resonance in my constituency, and I am glad that a number of friends—in the broadest sense—of the City of London corporation in another place were able to make some important changes. Numerous other bodies which operate open spaces under local Acts—such as the Wimbledon and Putney commons conservators, to name but two of them—will also benefit from what the Government are doing. The proposed new clause would enable bodies other than local authorities administering open spaces under byelaws to use public spaces protection orders. I believe this is particularly relevant to trustees or local conservators who operate under byelaws inferred by private Acts of Parliament, many of which go back not just many decades but some centuries. I hope the Minister agrees with that point.
+
+The City of London corporation operates some of the most important open spaces in London and the south-east, including Epping forest and Hampstead heath. There are also important local authority parks. In Newham there is West Ham park and there is Queen’s park in the London borough of Brent. It was often under private Acts of Parliament, frequently through bequests of what were the curtilage of large mansion houses, that these local parks and amenities were founded, often back in the 18th and 19th centuries.
+
+Conservators have exactly the same issues as local authorities in terms of the public open spaces they administer, so it is sensible to include these places in order not to have duplication but to ensure there is not an opportunity for some of these powers to slip through the net. Conservators are not required to use the orders, and they can keep to the local byelaws if they so wish. If they do make an order, however, and the local authority for the area makes its own, the local authority’s order will take precedence. That is right.
+
+These clauses are sensibly drafted. The powers of the City of London corporation would not in any way  usurp those of the relevant local authority, but this does provide a belt-and-braces approach to ensure there is a proper focus on public order within those important open spaces.
+
+I wish the Minister and Government well in getting this change into the Bill and I hope there will be no opposition from any corner of this House.
+
+Richard Drax (South Dorset) (Con)
+I will not detain the House for long. I want to touch briefly on the dangerous dogs element of the Bill. The Environment, Food and Rural Affairs Committee of which I am a member published its report on dog control and welfare on 6 February 2013. In that report we recommended that all dog-related issues should be consolidated in a comprehensive Bill. This would pull together the fragmented legislation referring to dog control and welfare and allow us to amend the Dangerous Dogs Act 1991 where necessary.
+
+Such consolidation is essential because there are yawning gaps in our legislation. Voluntary compliance with guidelines on responsible ownership has proved to be limited and slow, but that is not surprising as there are 8 million dogs in this country—a huge number. The vast majority are well cared-for, kept and controlled, but there are exceptions. Dangerous dogs have killed seven people, five of them children, since 2007. In my own constituency a small child had her eye savaged by a West Highland terrier, but more about that later because there are certain circumstances there which I want the Minister to cover when he responds to the debate. Dangerous dogs have attacked specially trained dogs for the blind, causing untold grief and difficulties—and let us not forget the postmen and postwomen who all too often are assaulted by animals as they deliver our mail.
+
+Irresponsible dog breeders, driven only by greed, run puppy farms where a single bitch can legally produce up to five litters a year. That is not good for the welfare of the bitch or her litter. Subsequent failure to socialise these puppies properly has the potential to create more badly behaved and dangerous dogs.
+
+Under the law as it stands, it has proved impossible to prosecute the owners of vicious dogs if the attack takes place on private property. In such cases it has also frequently proved difficult to prove ownership. The proposals in this Bill include many of the Committee’s recommendations on dog control and welfare, such as compulsory micro-chipping by 2016, stricter oversight of puppy farms, and extending dangerous dogs legislation to private property in clauses 98 and 99, and I wholly endorse them. The tougher sentences in the two amendments in question for those whose dogs attack, injure or kill people or guide dogs for the blind are also necessary and proportionate.
+
+I have just one concern, which I ask the House to consider. If we legislate to allow enforcement agents on to private property to handle or destroy a dangerous dog after an attack, we are impinging on important rights to privacy in our own homes. While I—and, I am sure, the other members of the EFRA Committee—fully endorse the amendments to the current legislation, any new legislation must be careful to protect those rights.
+
+I want to give an example from my constituency, and I hope that the Minister will listen to it, because I would be interested to hear his response. A couple and their  four-year-old daughter were invited to a party next door. It was a dog party, and there were several dogs—and several people—there. In the resulting mêlée of people wandering around and having tea, the couple lost sight of their daughter. Suddenly, they heard the most appalling noise. There had been some form of communication with a dog by the girl, but we do not know whether she had poked it in the eye or put her hand in its mouth. Whatever she had done, the dog—a West Highland terrier, which had done no harm at all up till then—responded by leaping up and latching on to the left side of her face. It would not let go, and caused horrific damage to her eye.
+
+I ask the Minister’s guidance on this point. I assume that, under the proposed new law, the lady who owned the dog would face a criminal prosecution. If that is the case, the change in the law will provide a salutary warning to dog owners who keep their dog in their home, as many millions of people do. When the law is passed, they will have to be very careful what they do with their dog when inviting people into their house. I suspect that not many people have even considered the matter up to now. I have two dogs, and I do not think about whether they are going to attack anyone who comes into my house. From now on, however, I am going to have to think carefully. If a child comes into my house, I am going to have to think about whether my dogs could assault that child.
+
+Obviously, it goes without saying that a dog owner must take responsibility for their dog, but I raise this question because I wonder whether the process of the law has been thought through by everyone outside this place. Can the Minister confirm that, if the new law had applied at the time of that incident, the lady in question would not have faced five years in jail, and that the judge would have considered all the facts of the case and perhaps recommended that the dog be put down, with the lady facing no further consequences? Will the Minister also tell us how and when the enforcers would go into the owner’s house in such a case? If a complaint was made, would they go in on the same night to remove the dog, informing the owner that it could either be put down or returned, depending on the result of the ensuing investigation? I ask the Minister to clarify those points if he can.
+
+I assume that if the dog owner were someone with a bad reputation—let us be blunt: if they were well known to the police for breeding properly vicious dogs, rather than West Highland terriers, for ill-gotten gains—the enforcer would simply go into the house and take the appropriate action. That is exactly as it should be. Such a case would be very different from the one that I have described, in which a perfectly innocent lady was going about her business when an appalling accident happened. Yes, that accident could have been avoided if the dog had been locked up, and that is the point that I would like to have clarified. I welcome the Lords amendments to allow people who have dogs on private property to be reached by the law. That is incredibly important, but I would be most grateful if the Minister could comment on the example that I have raised.
+
+Richard Fuller
+It is a pleasure to follow my hon. Friend the Member for South Dorset (Richard Drax), because I am always better informed after listening to his speeches. I wish to speak to Lords amendment 69,  which deals with changes to the penalties relating to attacks by dogs, and I, too, hope that the Minister will respond directly to the points that my hon. Friend and I are raising today.
+
+This amendment originated in the Bill Committee in this House. I, too, thank my hon. and learned Friend the Member for Sleaford and North Hykeham (Stephen Phillips) and my hon. Friend the Member for Chatham and Aylesford (Tracey Crouch) for supporting the pressure that was put on the Government in Committee to increase the maximum sentence permissible for these offences. We were all appalled by the evidence that the police gave in our evidence sessions, so I am very pleased that Lord de Mauley took forward the Committee’s recommendations, produced this amendment, and obtained the Government’s support and, I hope, that of the whole House.
+
+There have been a number of victims of dangerous dogs. The hon. Member for Bolton West (Julie Hilling) has made a powerful case on behalf of her constituents who were affected by a dangerous dog, and other hon. Members have done the same on behalf of victims of upsetting cases that resulted in only a minimum sentence. The police told us how difficult it was for them to prosecute under the existing legislation, and Lords amendment 69 gives them the tools they need to deal with the small minority of people that my hon. Friend the Member for South Dorset was talking about who breed or keep dogs that go out of control, attacking and maiming people. The police will now have the measures to provide the proper prosecution and sentencing through the courts for those people.
+
+The amendment is also an indication of the good work of the trade unions. The Communication Workers Union has run an excellent campaign in support of its members who face the daily risk of attack by a dog. Such attacks can end in injury and be quite severe: they may have a negative psychological effect on postal workers. It is fair to put on the record my support for the CWU and its campaign to bring this legislation to the House.
+
+Although this took place before my time here, I understand that legislating on dangerous dogs is treacherous territory for Governments of whatever party or origin. I hope that this amendment will prove to be an exception to that rule, and I commend the Minister for bringing it to the House today.
+
+Norman Baker
+With the leave of the House, Mr Deputy Speaker, I will respond to some of the points that have been raised in a very wide-ranging debate. As you will appreciate, we are considering a huge range of disparate measures, so I will do my best to make sense of them. I welcome the Opposition spokesperson’s general support, even if, as my hon. Friend the Member for Cambridge (Dr Huppert) says, we are not clear whether they are accusing us of being too draconian or too weak in our response to antisocial behaviour. As they are accusing us of both, perhaps we have got it about right.
+
+I know that the Opposition are wedded to the ASBO, but the simple fact is that, although it may have been useful on occasions, as my hon. Friend the Member for Cities of London and Westminster (Mark Field) has said—I am not saying it has not—it has generally been a failure. In 2012, the 1,329 ASBOs issued represented a decrease of 68% since 2005. Up to the end of 2012,  58% of ASBOs were breached at least once and 43% were breached more than once. Where ASBOs were breached, they were breached five times on average, and the breach rate for under-18s was 69%. Defending a continuation of that arrangement is not a sensible approach for anyone in this House who is as sensible and concerned as everybody should be, and is, about tackling antisocial behaviour.
+
+The hon. Member for Warrington North (Helen Jones) also referred to the use of hotels and other such premises for child sexual exploitation and, in particular, for grooming. She wanted to know how the law stood on that matter. If she looks at Lords amendment 77, she will see that subsection 1(b) of the new clause we propose refers to
+
+“conduct that is preparatory to, or otherwise connected with, child sexual exploitation.”
+
+I believe that provision is sufficiently wide as to provide reasonable grounds for the police to take action.
+
+Helen Jones
+That was precisely my concern; I fear that it is difficult to prove a grooming offence, because of the nature of the offence. I asked the Minister this earlier, but will he keep this under review and, if necessary, come back to the House with further proposals?
+
+Norman Baker
+I am happy to keep anything like that under review. Everyone in this House shares a dislike of and distaste for the reprehensible child exploitation activities that some people engage in. Of course there are other evidential trails that the police can use. Grooming often takes place online, and so sometimes evidence can be accrued and then added to the use of a hotel, which then gives the police reasonable grounds for taking action. Of course we will keep matters under review, because we want to ensure that we eliminate all such cases as far as it is possible to do so. We share that objective across the House.
+
+16:30:00
+
+Comments were also made about the control of dogs. I welcome the fact that we have now rationalised the powers and made them more effective. I am sorry that the Opposition appear to be wedded to dog control notices as the only solution to the problem. [Interruption.] I am delighted that it is not the case of either/or, because the range of powers that we are including in the Bill gives us the opportunity to deal with problems that arise with dogs in a comprehensive and cohesive way. [Interruption.] The hon. Member for Warrington North (Helen Jones) says they are not flexible. On the contrary, they are very flexible, which is why they are not specifically dog control notices and why they relate to generalities of antisocial behaviour. That allows action to be taken more easily than was hitherto the case.
+
+I wish to commend the work on dangerous dogs done by Members in this House, including my hon. Friend the Member for Bedford (Richard Fuller). The Bill will put us in a better position when it comes to dangerous dogs. The Government made a commitment to consult on increasing the penalties for an offence under section 3 of the Dangerous Dogs Act 1991. That is the aggravated offence of owning or being in charge of a dog that is dangerously out of control—where a dog kills or injures a person or an assistance dog. That was prompted by an amendment tabled by my hon. Friend, and I am grateful to him for raising that important issue.
+
+Following consultation, Lords amendment 69 increases the penalties from the current maximum of two years' imprisonment. Where a dog is dangerously out of control and that results in the death of a person, the maximum penalty will increase to 14 years’ imprisonment. Where a person is injured, the maximum penalty will be five years, and where an assistance dog is injured or killed, it will be three years’ imprisonment. That is a sensible way forward.
+
+My hon. Friend the Member for South Dorset (Richard Drax) asked about a specific situation in which a person is invited into someone’s home, and what that might mean if an offence is committed. It might be decided that an offence had been committed under those circumstances if the police and then the Crown Prosecution Service conclude that there is sufficient evidence and that a prosecution is in the public interest. That is not to say that such a prosecution would always take place. I suspect that it would be a matter of the CPS concluding that the dog was dangerously out of control and that there were other aggravating factors of that nature. It would not automatically follow that if there were an attack, there would be a prosecution.
+
+Richard Drax
+I am most grateful to the Minister for answering my question. If the Crown Prosecution Service decides not to take any action, would someone still be in a position to decide, in the case that I cited, to put down that West Highland terrier because a view had been taken that it was indeed dangerous? What would the situation be there? If the case does not go to court, who has the power to decide on the future of that dog, which has caused an offence on private property?
+
+Norman Baker
+On the face of it, if no offence has been committed or pursued, there is no case to answer. However, I imagine that responsible owners would want to take into account the activity that has taken place or the attack on the individual that has occurred. Of course it is always open to people to take civil action if they believe that that is the appropriate course of action. If I find out any further details, I will drop my hon. Friend a line on that particular matter.
+
+The hon. Member for Warrington North referred to the issue of firearms ownership and guidance, particularly in relation to domestic violence. I assure her that we take both issues extremely seriously. Indeed I am spending a great deal of time on those two issues in my ministerial role. I want to make it plain that the law sets out that the police must consider whether a firearms or shotgun applicant can possess a gun without danger to public safety or the peace. The detailed criteria are set out in the firearms guidance, which can be amended when we believe it to be necessary. On 31 July last year, we took action to strengthen the guidance for the police on domestic violence specifically, and published new, more detailed guidance. For the avoidance of doubt, if there is an expectation or an understanding that someone has been involved in domestic violence, I would expect in most if not all circumstances the police to refuse to issue a licence to that particular individual.
+
+Helen Jones
+I am grateful to the Minister, who is being generous in giving way. If the Government accept that that should happen, can he explain why they are so opposed to having it written into law?
+
+Norman Baker
+The Opposition, as we saw during their time in government, appear to believe that the  only solution to anything is to create a law about it. If laws and statutory guidance already exist and it is common practice for certain processes to be followed, it might not be necessary to create a law to achieve the aim that she wants. The question that she should be asking me is whether we have put in place a mechanism to achieve the aim that she rightly identifies, and the answer to that is yes. We do not need to create further legislation to deal with something that has already been dealt with satisfactorily under present arrangements.
+
+Mr David Hamilton (Midlothian) (Lab)
+Will we have continuity? What discussions has the Minister had with the devolved Parliaments to ensure that we have a similar approach across the country?
+
+Norman Baker
+We and my officials have regular discussions with the devolved Administrations on this and other areas, and irrespective of political control the relationships between central Government here in London and the Administrations in Wales, Scotland and Northern Ireland are sensible and good. If the hon. Gentleman has any particular concerns and believes that there is a scenario in which the approach has not worked and is willing to drop me a line, I would happily look into it for him and take it further.
+
+My hon. Friend the Member for Cambridge (Dr Huppert) referred to schedule 7, which, unless I have got this wrong, appears in the next string of amendments, but as he raised the matter I will deal with it now. He quite properly asked about our response to the changes to the schedule recommended by the Joint Committee on Human Rights. In coming to a final view on that and other matters relating to the schedule, we want to take into account the judgment of the judicial review into the David Miranda case and the report of the independent reviewer of terrorism legislation into Mr Miranda's examination. Once they are available, we will naturally study them carefully and decide how best to proceed. Should we conclude that further amendments to schedule 7 to the Terrorism Act 2000 are appropriate, we will seek to bring them forward as soon as parliamentary time allows.
+
+My hon. Friend the Member for Cities of London and Westminster (Mark Field) rightly drew attention to the peculiar powers—peculiar in the sense that they are unique—of the City of London. For example, it is the only authority to be designated a secondary authority for the control of dogs. Let me be clear on this point: we are, of course, deleting the reference to private Acts. Much of the land operated by the City of London corporation, as he mentioned, is done so under a private Act. As worded, the measure would have resulted in that land not being designated as a public space for the purposes of chapter 2 of part 4. That would have the perverse result of restricting the corporation’s ability to manage land that it is entitled to manage under a private Act, and that is why we have taken the steps that we have in that regard.
+
+I hope that that deals satisfactorily with the amendments and points raised by hon. Members.
+
+Lords amendment 1 agreed to.
+
+Lords amendments 2 to 88 agreed to.
+
+Lords amendment 89 agreed to, with Commons financial privileges waived.
+
+Lords amendments 90 to 111 agreed to.
+
+After Clause 152
+
+Abolition of defence of marital coercion
+
+Norman Baker
+I beg to move, That this House agrees with Lords amendment 113.
+
+Mr Deputy Speaker (Mr Lindsay Hoyle)
+With this it will be convenient to take Lords amendments 114 to 180.
+
+Norman Baker
+I will not repeat the numbers, in case I get that wrong, but these are the main amendments to the policing provisions in the Bill. The first relates to schedule 7 to the Terrorism Act 2000, which we have already touched on and which is a part of the UK’s counter-terrorism strategy. Lords amendments were made in line with our ongoing commitment to ensure respect for individual freedoms and the need to balance that against reducing the threat of terrorism to the public in the UK and to British interests overseas. Other amendments clarify how the right to consult a solicitor as soon as is reasonably practicable and privately at any time may be exercised under schedule 7.
+
+The amendments make it clear that a detained person who exercises the right to consult a solicitor may not be questioned until they have consulted a solicitor or no longer wish to do so unless the examining officer reasonably believes that postponing the questioning would prejudice the determination of whether the detained person appears to be a person who is or has been concerned with the commission, preparation or instigation of acts of terrorism. I would expect that exception to be used very sparingly.
+
+The amendments also clarify that a detained person is entitled to consult a solicitor in person, where it is practicable to do so, without prejudice to the purpose of the examination. Other amendments respond to a commitment given in Committee in the Lords to consider building on one of the key changes we are already making in the Bill: namely, the introduction of statutory provision for the review of detention under schedule 7 to the 2000 Act. On reflection, we agree that the maximum periods between reviews should be specified in primary legislation, rather than in a code of practice. The amendments provide for a first review of detention by a review officer no later than one hour after the start of detention, and for subsequent reviews at intervals of no more than two hours.
+
+I ought also to refer to marital coercion. I will deal briefly with a final substantive amendment, Lords amendment 113, tabled by Lord Pannick, which would abolish the defence of marital coercion. It is currently a defence for all criminal offences, other than treason and murder, for a wife to show that she committed the offence in the presence of, and under the coercion of, her husband. The defence is an historical one and reflects the particular dynamics of marriage at the time when it was introduced, which was by section 47 of the Criminal Justice Act 1925, which in turn abolished the previously existing presumption that a wife who committed any offence, except treason or murder, in the presence of her husband did so under his coercion and should  therefore be acquitted. For those historical reasons, the defence applies only for the benefit of a woman married to a man. I am happy to say that time has moved on, as indeed will I in a moment. That one-sided defence is now clearly an anachronism, and we accordingly agree that it can be consigned to history. Lords amendment 113 achieves just that.
+
+These amendments, and the one in the previous string, reaffirm the value of effective scrutiny and demonstrate, yet again, that the Government is receptive to sensible proposals from hon. Members on both sides of the House and from noble Lords to help address the many issues of public policy we face on a daily basis.
+
+Lords amendment 113 agreed to.
+
+Lords amendments 114 to 180 agreed to.
+
+Business of the House
+
+Ordered,
+
+That, at the sitting on Wednesday 5 February, paragraph (2) of Standing Order No. 31 (Questions on amendments) shall apply to the Motions in the name of Edward Miliband as if the day were an Opposition Day.—(Claire Perry.)
+

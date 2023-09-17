@@ -1,0 +1,199 @@
+ Automated and Electric Vehicles Bill
+
+Consideration of Lords amendments
+
+Clause 1
+
+Listing of automated vehicles by the Secretary of State
+
+16:36:00
+
+The Parliamentary Under-Secretary of State for Transport (Jesse Norman)
+I beg to move, That this House agrees with Lords amendment 1.
+
+Mr Deputy Speaker (Sir Lindsay Hoyle)
+With this we may take Lords amendments 2 to 32.
+
+Jesse Norman
+I am very pleased to be able to bring back this piece of legislation to the House. The Bill is an important aspect of our industrial strategy, which was published last year. It brings forward legislation, where it is appropriate, to assist the development and deployment of both automated and electric vehicles in this country. It does so by amending the existing compulsory third party insurance framework for vehicles, extending it to cover the use of automated vehicles. It also gives powers to improve the electric vehicle charging infrastructure framework to ensure that it is easy to use, available in strategic locations and “smart” to alleviate pressures on the grid.
+
+Members will recall that, in addition to the support from both the insurance and the motor industries, this Bill had broad support from across the House when it was considered, and this broad support continued, I am delighted to say, throughout the Bill’s passage in the Lords. The Lords have made several amendments, which have helped to strengthen the Bill still further.
+
+Mr John Hayes (South Holland and The Deepings) (Con)
+My hon. Friend has done a great job in taking this legislation further forward, notwithstanding the fact that most of the heavy lifting was done when I was the Minister. I wonder whether he might specifically deal with the issue of the design of the charging points. Members will remember that I pledged to the House in Committee that there would be a design competition, and that we would have charging points that would last forever as wonderful aesthetic symbols as well as practical ones. What progress has he made with that competition?
+
+Jesse Norman
+I am grateful to my right hon. Friend for drawing the House’s attention to his own role in the creation of this Bill, and for doing so in such a typically modest and retiring way, for which I am grateful. After some consideration, we have decided to look favourably on the idea of continuing the competition that he initiated, possibly in a somewhat amended form. He can take great credit for having initiated the idea, if not for its specific implementation.
+
+Mr Jim Cunningham (Coventry South) (Lab)
+The hon. Gentleman knows that, in my constituency, Jaguar Land Rover carries out research and development. Has he had any discussion with the company as to where the batteries might be manufactured?
+
+Jesse Norman
+The hon. Gentleman will be aware that the question of battery manufacturers is a very important one not just for the country, but for the Government in their industrial strategy. The Faraday challenge that we have launched is designed specifically to support new technologies with a view, ultimately, to some form of development and, potentially, manufacture in this country.
+
+Tom Brake (Carshalton and Wallington) (LD)
+I apologise if this has been covered in earlier debates, but will the Minister tell us whether there has been any engagement from the Government with local authorities? For many people, electric charging is likely to take place on the forecourt of their property, and there are clearly issues around dropped kerbs and easy access to people’s forecourts to enable them to charge at home.
+
+Jesse Norman
+I can give the right hon. Gentleman comfort on that point. Through officials, we have consulted extensively with local authorities. Indeed, I will discuss some aspects of those consultations later in my remarks.
+
+Sir Greg Knight (East Yorkshire) (Con)
+Lords amendment 14 deals with the regulation-making power in clause 9 and says that these regulations may, for example, deal with technical specifications. Can the Minister confirm to the House that the regulation-making power is wider than that and could, for example, require the operator to display the price per unit that is to be charged? It is important that motorists know what they will be asked to pay before they commit themselves to paying for it.
+
+Jesse Norman
+My right hon. Friend is absolutely correct that motorists should know what they will be paying. The Bill does what it says and Lords amendment 14 is technical in nature, but he has made his point, which we will be happy to look at more generally as we consider further aspects of the issue.
+
+After clarifications were sought on which vehicles were covered by the definition in the Bill, the Lords made changes to clauses 1 and 2. Amendments 1 to 4 clarify that the measures in the Bill apply only to vehicles that are designed or adapted to be capable—in at least some circumstances or situations—of safely driving themselves, and are able lawfully to be used in that way on roads or other public places in Great Britain. For example, these amendments clarify that the insurance measures in the Bill will not apply to an agricultural vehicle on public roads which, although perfectly capable of autonomously running up and down a private field, could only be driven on the road manually by a human driver. Such a vehicle will fall under the current insurance regime under the Road Traffic Act 1988.
+
+Lords amendment 5—the new clause after clause 6 —places a requirement on the Government to report on
+
+“the impact and effectiveness of section 1; the extent to which the provisions…ensure that appropriate insurance or other arrangements are made in respect of vehicles that are capable of safely driving themselves.”
+
+We want the report to be as relevant and useful as possible, so we have urged that the timing of the report should be after the measures have been in operation for a reasonable period. Our judgment is that a report prepared two years after the list is first published will cover a time when secondary legislation can be introduced, automated vehicles can be added to the list and insurance policies can be offered to drivers of automated vehicles. Subsection (1)(a) of this new clause will require the Secretary of State to report on the impact on consumers and industry, and on the effectiveness of clause 1—that is, whether the definitions and list work as intended.
+
+By specifically referencing the Road Traffic Act 1988 in clause 7, Lords amendment 6 provides a definition of the term “road” to ensure consistency with existing legislation, and to provide clarity to the public and industry.
+
+The Lords also made a number of changes relating to electric vehicles. They expressed concern that the draft text did not make it sufficiently clear that hydrogen fuel cell electric vehicles were covered by the measures, alongside battery electric vehicles. Therefore amendments were made to add “refuelling” wherever “charging points” are mentioned. As the House well knows, the Government are taking a technology-neutral approach to the development and deployment of electric vehicles, and these changes serve to make that clearer on the face of the Bill.
+
+The peers made two substantive changes to policy. The first was to add a power in clause 9 to enable the Secretary of State to bring forward regulations to set availability, maintenance and performance standards for public charging infrastructure. It is inevitable that public charging points will fall into disrepair from time to time, particularly in the early stages as new technologies are developing. Having a significant number of public charging points out of action risks adversely affecting the experience of users, and could inconvenience and frustrate drivers of electric vehicles. Amendments 11, 14 and 30 therefore provide the Government with the necessary power to introduce regulations that would specify performance standards for publicly available EV charge points, and will ensure that operators take measures to ensure that faulty charging points are repaired. I believe that these amendments will improve the Bill, as the provision of this power will help to ensure that we have a widely available and reliable public charging network.
+
+16:45:00
+
+The second substantive change to policy was the introduction of a new clause after clause 10 through amendment 20. This new clause provides a duty for the Secretary of State to consider requests from elected Mayors to make regulations under clause 10. Cities, regions and counties can play a hugely important role in dealing with air quality challenges, and the provision of charging infrastructure will need to be a part of addressing that challenge. The new clause will give elected Mayors a lever to help them deliver that locally. It enables elected Mayors—the Mayor of London and Mayors of combined authorities—to designate locations, limited to large fuel retailers within their areas, at which they would wish charging infrastructure to be installed. Mayors would be required to consult on their proposals and notify the Secretary of State of the intent for regulations to be made. It is then for the Secretary of State to decide whether to make such regulations.
+
+As with part 1, the Lords has, through amendment 32, added a new clause to report on the effectiveness of regulations made under part 2 of the Bill. This is a broad reporting clause that would, for example, allow the Government to assess the effects of the regulations made under the Act on electric vehicle uptake, to assess the effects of regulations on industry and consumers, to assess how regulations are benefiting the energy system and consumer electricity bills, and to assess the impact on the Government’s carbon and air quality targets. As well as assessing the impact of the regulations made, the amendment introduces a requirement for an assessment of the need for other regulations to be made under this part during subsequent reporting periods. That will help to ensure that further regulations are made in a timely and appropriate manner. A number of smaller, technical changes were also made to the Bill that have improved the drafting and clarified the regulation-making procedures.
+
+Further to the point raised by my right hon. Friend the Member for East Yorkshire (Sir Greg Knight), we have committed to taking forward legislation to ensure that pricing is standardised and transparent for consumers. We have existing powers to enable us to do so, and we will act on those.
+
+I urge the House to agree to these Lords amendments.
+
+Karl Turner (Kingston upon Hull East) (Lab)
+I do not intend to speak for long because we support the aims of this Bill. However, we want to ensure that the UK remains at the forefront of research and development in this important and fast-moving industry. We supported the Bill first time round and welcome these amendments today. That is largely because of the good work of our colleagues in the other place, and I pay tribute to them.
+
+The Bill aims to provide the framework necessary to encourage the take-up of electric vehicles as well as updating the regulatory environment for motor insurance for them. We particularly welcome the amendments to include hydrogen filling stations as well as electric charging points. Currently, there are about 12,000 electric vehicle charge points in the UK but only seven hydrogen refuelling points.
+
+The Government must work harder if they are serious about tackling poor air quality and climate change. They are nowhere near meeting their legally binding 2020 target of 10% of transport fuel being renewable. They are presiding over an air quality crisis, and they could and should be more ambitious in dealing with vehicle pollution. Electric vehicles are an important way, but not the only way, of confronting these serious problems.
+
+The Bill gives the Secretary of State a series of secondary legislative powers for the design and standardisation of charging points. Universal standardisation and distribution of charging points across the UK is crucial if the Government really are serious about increasing uptake. I have mentioned this before, but there are more charging points available on the Orkney Islands than in Blackpool, Grimsby and my own city of Hull combined. The Government must do much better.
+
+There is also a new amendment to review the legal framework for automated and electric vehicles that should ensure the effectiveness of the regulations in this Bill as this fast-changing technology develops. Industry, I think I am right to say, has generally welcomed these amendments. The Association of British Insurers said that Lords amendment 5
+
+“provides a realistic timeframe for reporting as the insurance industry does not expect fully automated driving technology to be commercially available until 2021 at the earliest”.
+
+The Opposition will continue to hold the Government to account in that regard.
+
+I thank the Government Front-Bench team for the spirit of co-operation in which the Bill has been handled. I reiterate my thanks to colleagues in the other place, as the Bill has returned here in a much better condition. We thank the Government for listening and acting on our concerns.
+
+Mr John Hayes
+I only wish to speak briefly. The Minister and the shadow Minister are right that the Bill has improved during its passage. That is in part due to the spirit in which we have conducted ourselves and scrutinised this legislation.
+
+I think there is general agreement across the House that this is the right legislation at the right time, but it is difficult to try to envisage what a future might look like of which we cannot be certain. The technology will move on apace. It is not clear what people will be driving in one, two or three decades’ time, so making these decisions about infrastructure is challenging.
+
+None the less, it seems to me that three things are clear, and these amendments give us a chance to rehearse them once again, albeit briefly. The first is that the charging infrastructure is a critical element in getting people to accept electric vehicles. If people are confident about the ability to charge conveniently, reasonably quickly and, I hope, inexpensively, they are more likely to embark upon the journey that is the acquisition of an electric vehicle. When people are surveyed about why they do not buy electric vehicles, charging infrastructure and the fear that they will run out of charge is often cited as one reason.
+
+Having accepted that axiomatic argument, the second point is that there is a perfectly proper case to be made for what the infrastructure needs to look like. The right hon. Member for Carshalton and Wallington (Tom Brake) is right—I rarely agree with him, but on this occasion I cannot help but do so—that on-street charging is critical. Many people live in flats, particularly in cities, and they do not have easy and convenient points at which they can charge their vehicle. The work of local authorities will therefore be critical, in terms both of new housing developments and of existing settlements.
+
+Bob Stewart (Beckenham) (Con)
+There are two charging points close to my house, and the thing that causes problems is that the same cars are there permanently. In terms of infrastructure, we will need more charging points, because people will not use electric cars unless they can charge them quickly if they run out. At the moment, I see those two charging points permanently occupied by two cars.
+
+Mr Hayes
+With characteristic insight mixed with perspicacity, my hon. Friend has anticipated my next point, which is that once one has made the decision about the need to put into place charging infrastructure, it needs to be sufficiently plentiful and recognisable. Moreover, there has to be universality about it: the method of payment has to be common and the way in which one engages with the charging point needs to be common too. The last thing we want is for electric users to arrive at a charging point to find that they do not have the means to pay—it might be a pre-paid device, for example—or cannot plug their vehicle in at all because it is a proprietary charging point. Universality, recognisability and affordability are fundamental.
+
+Tom Brake
+Perhaps I could add one extra thing to the right hon. Gentleman’s list, which is enforcement. It is not only electric vehicles hogging particular charging points. Often, in my experience, vehicles that are not electric are also hogging the electric bays, simply because they have not noticed that those bays are not for them.
+
+Mr Hayes
+I do not want to agree with the right hon. Gentleman too often, otherwise this fleeting romance might become a marriage—heaven forbid, as we know how that worked out for the Liberal Democrats last time round—but he is right again. Rapid charging will, to some degree, help with that, but we also need a sufficient number of charge points, conveniently located.
+
+It is possible that, knowing me as he does, the Minister assumed, not unreasonably, that in making my point about the look and feel of the charging points I was merely advancing a case for aesthetics. It is true that, like Keats, I believe that truth is beauty and beauty is truth, but getting the appearance of the charging points right will be vital to the gaining of public acceptance. People know what a pillar box looks like, they know what a telephone box looks like, and they need to know with equal certainty what an electric charging point looks like. It should be beautiful, but it should also be immediately identifiable for what it is.
+
+Having made those few points, I endorse all that the Minister said about the character of the amendments and the nature of the consideration so far. Once again, I congratulate him on the role that he has played—together, by the way, with my old friends on the Opposition Front Bench, who have themselves played a dutiful and entirely responsible role in trying to make this legislation better.
+
+Alan Brown (Kilmarnock and Loudoun) (SNP)
+It is a pleasure to follow the right hon. Member for South Holland and The Deepings (Mr Hayes).
+
+Mr Hayes
+I should have mentioned the hon. Gentleman as well.
+
+Alan Brown
+Cheers! We had better watch out that this does not become the road to a marriage.
+
+The right hon. Gentleman—the former Minister—talked about the standardisation of charge points, and I agreed with what he said. I thought that he was going to end with a reference to the “Hayes hook-up”.
+
+I will be brief, although last night I got a slight kick out of speaking for longer than others thought I was entitled to. I support the Bill, as do the Labour Opposition, and I support the Lords amendments, most of which are tidying-up measures. I also welcome the clarification on hydrogen fuel cells because there is no doubt that hydrogen will play a big part in the decarbonisation of transport.
+
+In particular, I support Lords amendment 32, which requires the Secretary of State to report on the impact of part 2 of the Bill. I have previously pointed out to the Minister that when I have tabled amendments suggesting that the Government should report, I have always been rebuffed. I looked back and found the new clauses about reporting that I tabled in the Public Bill Committee, and, in the context of the reporting to which the Government are committed, I hope that they will take on board some of my previous suggestions.
+
+One of my new clauses, entitled “Review of impact of Part 2”, required the Secretary of State to report on
+
+“the number and location of charge points in the United Kingdom…the resulting uptake of electric vehicles…the manufacturing of electric vehicles”.
+
+Another, entitled “Report on electric charging points”, referred to the development of
+
+“a strategy for establishing charging points for…domestic properties…urban and rural settlements, and…the road network.”
+
+Sir Greg Knight
+Does the hon. Gentleman agree that it is important for the motorist to know where the charging points are? Most satellite navigation systems have a feature that will display the locations of filling stations. Is it not essential for them also to display the locations of electric charging points?
+
+Alan Brown
+I agree wholeheartedly. There are already online maps that can do that, but it is important for people to be aware that the information exists, so that they can take comfort in the knowledge that they can undertake longer journeys because they know exactly where the charging points are.
+
+I also tabled a new clause requiring the Secretary of State to report on the impact of charging points on
+
+“energy consumption…grid management, and…grid storage capacity.”
+
+Regular reporting would obviously keep Members informed, but it would also help Governments to develop future strategies.
+
+I welcome the Bill and look forward to its implementation, but I have another request. I hope that there will be some trials of autonomous vehicles in Scotland, because that has not happened yet.
+
+Tom Brake
+I first want to say that I do not think marriage is an option so long as I do not wear a tie, because I know that the right hon. Member for South Holland and The Deepings (Mr Hayes) has strong views on that subject, so I may be tieless for a long time to come.
+
+I want to reinforce the point about talking to local authorities about flatted developments, but also—I have already had such inquiries, as I suspect other Members have—about residents who want to be able to charge their electric car where they park it at the front of the house, but cannot do so because of the issues of dropped kerbs and so on. That will become a growing problem in future years.
+
+We must ensure that we can respond to the way in which technology changes. I want to put in a plug—pardon the pun—for the Dearman engine, with which the right hon. Gentleman may or may not be familiar, which works on liquid nitrogen. It has some very exciting applications in relation to the auxiliary power units used at the front of refrigerated trucks, which at present often use some of the dirtiest engines available, without any sort of environmental controls. Such technology has the ability to address some very significant air quality issues in our town centres, but it would also require an infrastructure for liquid nitrogen, which is clearly not readily available at present.
+
+This is a very welcome set of amendments. The Bill is also welcome, but it must be flexible enough to pick up and move with other technologies as they develop.
+
+17:00:00
+
+Jesse Norman
+With the leave of the House, I will briefly address some of the many interesting points raised by colleagues. Let me start by thanking the Opposition for the constructive and thoughtful way in which they have engaged with the Bill. I am very grateful for all the points that have been raised.
+
+Let me start with the points made by the hon. Member for Kingston upon Hull East (Karl Turner). On the importance of hydrogen, that point is absolutely understood. We have so far committed something like £23 million to refuelling and the development of hydrogen-based technologies, so I take that point. On renewable fuels, he will be aware that we took the renewable transport fuel obligation through the House a few months ago, and I expect to return to the House to consider E10 and other renewable fuels more widely over the next few months.
+
+The hon. Gentleman is absolutely right to flag up the issue of charge points. We recently had a roundtable to talk to those in the industry. At the moment, they are quite comfortable about the way in which charge points are being rolled out by the private sector. However, as electric vehicles start to get into an S curve of take-up, it will be very important to have adequate charge points to meet users’ needs.
+
+My right hon. Friend the Member for South Holland and The Deepings (Mr Hayes) is of course absolutely right that we have no capacity to predict the future—uncertainty is an ever-present factor of human life—so all we can have is flexibility and resilience, and that is what we are trying to build in through the flexible structure of this enabling legislation. He rightly points again to the importance of the charging infrastructure. The issue of range anxiety is being overcome with the next generation of electric vehicles, as he will be aware. That itself will go some way to removing anxiety about charging, but I absolutely take the point.
+
+My right hon. Friend quoted Keats. I very much look forward to his composing an “Ode on a well designed charge point” in the style of Keats. Perhaps he can present it to the Speaker in due course—and to you, Mr Deputy Speaker. Indeed, my right hon. Friend could recite it in the House.
+
+I also thank the hon. Member for Kilmarnock and Loudoun (Alan Brown) for his constructive support for the Bill. Let me make a couple of points in response. He is absolutely right to refer to the points he raised during the passage of the Bill and in the debates we have had so far, and I am grateful to him for that. He is right to focus on public communication and trust. With all new technologies, the issue of consent is essential, and we want the roll-out of autonomous vehicles and electric vehicles to be warmly received and carried through by the public.
+
+Finally, I absolutely agree with the right hon. Member for Carshalton and Wallington (Tom Brake) on his point about local authorities, as I have said, and I am very glad that he has placed the Dearman engine and similar technologies on the public record.
+
+That said, let me say that our ambition is to lead the world in electric vehicles. The powers in this Bill will help us to do that, and I commend it to the House.
+
+Lords amendment 1 agreed to.
+
+Lords amendments 2 to 32 agreed to.
+
+Haulage Permits and Trailer Registration Bill [Lords] (Programme) (No. 2)
+
+Motion made, and Question put,
+
+That the Order of 14 May 2018 (Haulage Permits and Trailer Registration Bill [Lords]: Programme) be varied as follows:
+
+(1) Paragraphs (4) and (5) of the Order shall be omitted.
+
+(2) Proceedings on Consideration and any proceedings in legislative grand committee shall (so far as not previously concluded) be brought to a conclusion two hours after the commencement of proceedings on the Motion for this Order.
+
+(3) Proceedings on Third Reading shall (so far as not previously concluded) be brought to a conclusion three hours after the commencement of proceedings on the Motion for this Order.—(Jesse Norman.)
+
+Division 196
+26/06/2018 17:03:00
+The House divided:
+Ayes: 273
+Noes: 168
+Question accordingly agreed to.
+
