@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I can help you review the text file open in your current webpage. Here is my response based on your request:
+
+Summary - The text file is a transcript of a parliamentary debate on the Financial Services Bill, which aims to reform the regulation of the financial sector in the UK. The debate covers various amendments and issues related to the bill, such as stewardship, consumer protection, payday lending, and remuneration.
+
+For - Voting for amendment 40 means supporting the proposal to require an employee representative to be a member of the remuneration committee of a relevant body corporate, and to require the remuneration consultants advising on remuneration policy to be appointed by the shareholders of a relevant body corporate[1]. This is intended to improve the transparency and accountability of executive pay and to align it with the interests of employees and owners.
+
+Against - Voting against amendment 40 means opposing the proposal to require an employee representative to be a member of the remuneration committee of a relevant body corporate, and to require the remuneration consultants advising on remuneration policy to be appointed by the shareholders of a relevant body corporate[1]. This is based on the argument that such a requirement would create conflicts of interest, undermine the independence of remuneration committees, and impose unnecessary burdens on businesses.
+
+Decision - Voting for amendment 40 is associated with regulation, as it seeks to impose new rules on how executive pay is determined and overseen by different stakeholders. It reflects a view that the current system of remuneration is flawed and needs reform to prevent excessive risk-taking and reward for failure.
+
+Sentiment - B

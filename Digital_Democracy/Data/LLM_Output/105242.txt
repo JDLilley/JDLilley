@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I can help you review the text file open in your current webpage. Here is my response:
+
+Summary - The text file is a transcript of a parliamentary debate on the Enterprise and Regulatory Reform Bill, which aims to promote growth and simplify regulation. The debate covers various aspects of the Bill, such as health and safety, equality, estate agents, and green investment.
+
+For - Voting for the motion means supporting the Government's timetable for the debate, which allocates two days for the consideration of new clauses and amendments to the Bill. The Government argues that this arrangement will ensure that the debate is not too drawn out and covers the entirety of the Bill appropriately.
+
+Against - Voting against the motion means opposing the Government's timetable for the debate, which allocates two days for the consideration of new clauses and amendments to the Bill. The Opposition argues that this time is insufficient to properly debate the serious changes envisaged by the Bill, especially on people's rights at work and equality.
+
+Decision - Voting for the motion is associated with austerity and regulation, as it implies accepting the Government's agenda of reducing public spending and simplifying regulation. The Bill contains measures that would limit workers' rights, such as abolishing civil liability for health and safety breaches, restricting access to employment tribunals, and removing provisions on third-party harassment and discrimination questionnaires.
+
+Sentiment - B

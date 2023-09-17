@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I have reviewed the text file open in your current webpage and I will try to answer your questions as best as I can. Here is my response:
+
+Summary - The text file is a transcript of a debate in the UK House of Commons on the Welfare Reform Bill, which aims to reduce the cost of housing benefit and other welfare payments. The debate focuses on the Lords amendments that would protect some groups from the proposed cuts[1].
+
+For - Voting 'Ayes' in the division means supporting the Government's motion to disagree with the Lords amendments 3B and 26B, which would exempt some disabled people, foster carers, war widows and ESA claimants from the reduction of housing benefit for under-occupying social housing. The Government argues that this policy is fair, consistent and necessary to save money and address the problem of under-occupation.
+
+Against - Voting 'Noes' in the division means opposing the Government's motion and supporting the Lords amendments 3B and 26B, which would protect some vulnerable groups from the loss of income due to the housing benefit cut. The Opposition argues that this policy is spiteful, unworkable and counter-productive, as it penalises people who cannot move to smaller accommodation and may force them into more expensive private renting.
+
+Decision - Voting 'Aye' in the division is associated with cutting spending on and provision of welfare and social housing, as it would reduce the amount of housing benefit paid to social tenants who have spare bedrooms, regardless of their circumstances or availability of alternative accommodation. This would affect about 660,000 households, many of whom are disabled or low-income.
+
+Sentiment - B

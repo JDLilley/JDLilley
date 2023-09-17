@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I can help you review the text file open in your current webpage. Here is my response based on your request:
+
+Summary - The text file is a transcript of a debate in the UK Parliament on the Finance Bill 2012, which included a controversial cut to the top rate of income tax from 50p to 45p. The opposition Labour party tried to amend the bill to keep the 50p rate, but failed to do so.
+
+For - Voting for the amendment (Ayes) meant opposing the government's decision to reduce the top rate of income tax for the highest earners. The Labour party argued that the cut was unfair, ineffective and based on dubious evidence. They claimed that the 50p rate raised significant revenue and was supported by the public[1].
+
+Against - Voting against the amendment (Noes) meant supporting the government's decision to lower the top rate of income tax for the highest earners. The Conservative party argued that the cut was necessary, beneficial and based on sound evidence. They claimed that the 50p rate harmed competitiveness, growth and entrepreneurship.
+
+Decision - Voting for the amendment (Ayes) was associated with austerity and regulation, as it implied maintaining a higher level of taxation and redistribution for the wealthiest individuals. Voting against the amendment (Noes) was associated with stimulus and the free market, as it implied reducing the tax burden and encouraging economic activity for the wealthiest individuals.
+
+Sentiment - A

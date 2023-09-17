@@ -1,0 +1,13 @@
+## Bing
+
+Thank you for your request. Here is my response based on the text file open in your current webpage:
+
+Summary - The text file is a transcript of a parliamentary debate on the Enterprise and Regulatory Reform Bill, which aims to reform the employment tribunal system and the whistleblowing legislation. The debate covers various amendments and clauses proposed by different parties.
+
+For - Voting for amendment 82 means supporting the removal of clause 13, which would allow the Secretary of State to change the limit on unfair dismissal compensatory awards. The amendment argues that clause 13 is unnecessary, unfair and unpredictable for both employers and employees.
+
+Against - Voting against amendment 82 means opposing the removal of clause 13, which would give the Secretary of State flexibility to adjust the limit on unfair dismissal compensatory awards. The amendment argues that clause 13 is sensible, balanced and beneficial for both employers and employees.
+
+Decision - Voting for amendment 82 is associated with austerity and regulation, as it would prevent the Secretary of State from lowering or raising the limit on unfair dismissal compensatory awards, which could affect the incentives and costs of hiring and firing workers.
+
+Sentiment - B

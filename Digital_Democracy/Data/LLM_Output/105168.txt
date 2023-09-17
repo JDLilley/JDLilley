@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I can help you review the text file open in your current webpage. Here is my response based on your request:
+
+Summary - The text file is a transcript of a parliamentary debate on the Civil Aviation Bill, which aims to reform the regulation of airports and air transport services. The debate covers various aspects of the bill, such as passenger welfare, airport licensing, environmental impacts, and competition issues.
+
+For - Voting 'Ayes' in the division means supporting the Opposition's amendment 9, which would require airport licence holders to develop passenger welfare plans and provide support for stranded passengers during periods of disruption[1]. The amendment is based on the recommendation of the Transport Committee and seeks to improve the passenger experience and protect their rights.
+
+Against - Voting 'Noes' in the division means rejecting the Opposition's amendment 9 and accepting the Government's position that passenger welfare plans are not necessary or appropriate to be included in the licence regime. The Government argues that the Civil Aviation Authority has sufficient powers to collect information and impose conditions on airports to ensure they are prepared for contingencies and provide adequate services to passengers.
+
+Decision - Voting 'Ayes' in the division is associated with accountability and decentralisation in the context of Parliamentary Procedures, because it would impose a clear obligation on airport operators to take responsibility for passenger welfare and to consult with other stakeholders, such as airlines, local authorities, and regulators, to develop effective plans. It would also empower passengers to hold airports accountable for their performance and service quality.
+
+Sentiment - C

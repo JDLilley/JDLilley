@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I can help you review the text file open in your current webpage. Here is my response based on your request:
+
+Summary - The text file is a transcript of a debate in the UK Parliament on the Welfare Reform Bill, which aims to reduce welfare spending and reform the benefits system. The debate covers various amendments proposed by the House of Lords and the Government's response to them.
+
+For - Voting 'Ayes' in the division means supporting the Government's motion to disagree with Lords amendment 1, which would remove the benefit cap for households with children under five. The Government argues that the cap is fair, simple and encourages work, and that there are exemptions and protections for vulnerable groups.
+
+Against - Voting 'Noes' in the division means opposing the Government's motion and supporting Lords amendment 1, which would remove the benefit cap for households with children under five. The amendment argues that the cap is unfair, complex and harms children's well-being, and that there are not enough exemptions and protections for vulnerable groups.
+
+Decision - Voting 'Aye' in the division is associated with cutting spending on, and provision of, welfare and social housing. The benefit cap limits the amount of benefits that a household can receive, regardless of their circumstances or needs. This could reduce the income of many low-income families, especially those living in high-rent areas, and force them to move to cheaper accommodation or face homelessness.
+
+Sentiment - B

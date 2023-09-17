@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I can help you review the text file open in your current webpage. Here is my response:
+
+Summary - The text file is a transcript of a debate in the UK Parliament on the Welfare Reform Bill, which aims to reform the welfare system and reduce the deficit. The debate focuses on the time limit for contributory employment and support allowance (ESA) for people with disabilities or illnesses.
+
+For - Voting 'Ayes' means supporting the Government's proposal to limit the contributory ESA to one year for those in the work-related activity group, regardless of their condition. This would save money for the taxpayer and encourage people to find work.
+
+Against - Voting 'Noes' means opposing the Government's proposal and supporting the Lords amendment to extend the time limit to at least two years, or remove it altogether for some cases such as cancer patients. This would protect the rights and dignity of those who have paid into the system and need more time to recover.
+
+Decision - Voting 'Aye' is associated with cutting spending on, and provision of, welfare and social housing. This would reduce the income and support for many people with disabilities or illnesses who rely on contributory ESA, and force them to rely on means-tested benefits or other sources of income.
+
+Sentiment - B

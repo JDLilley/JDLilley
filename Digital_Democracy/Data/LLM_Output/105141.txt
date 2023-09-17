@@ -1,0 +1,11 @@
+## Bing
+
+Summary - The text file is a transcript of a debate in the House of Commons on the Legal Aid, Sentencing and Punishment of Offenders Bill. The debate covers various amendments proposed by the House of Lords, some of which the Government disagrees with and seeks to overturn.
+
+For - Voting 'Ayes' means supporting the Government's position to reject Lords amendment 171, which would retain legal aid for welfare benefit appeals. The Government argues that legal aid is not necessary for such cases, as they are straightforward and do not involve complex points of law. The Government also claims that legal aid is unaffordable and should be focused on the most serious and urgent cases.
+
+Against - Voting 'Noes' means opposing the Government's position and supporting Lords amendment 171, which would preserve legal aid for welfare benefit appeals. The opposition argues that legal aid is essential for such cases, as they affect the most vulnerable people in society and often involve complex evidence and procedures. The opposition also claims that legal aid saves money in the long run by preventing further problems and hardship.
+
+Decision - Voting 'Aye' is associated with limiting the scope of legal aid and reducing public spending on legal services. This could be seen as strengthening Crime & Justice by making it more efficient and targeted, or as limiting Crime & Justice by restricting access to justice and leaving people without adequate representation.
+
+Sentiment - A

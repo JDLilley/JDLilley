@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I can help you review the text file open in your current webpage. Here is my response:
+
+Summary - The text file is a transcript of a debate in the UK Parliament about a proposed bill to issue annual statements of health care costs to each person[1]. The bill was rejected by a majority of MPs.
+
+For - Voting 'Ayes' means supporting the bill and its aim to inform the public about the true costs of health care and to encourage personal responsibility and sustainability. The bill's sponsor argued that the current NHS model was unsustainable and needed fundamental change.
+
+Against - Voting 'Noes' means opposing the bill and its potential negative impact on people's well-being and dignity. The bill's opponent argued that the bill could be divisive, distressing and devaluing for people who need health care, especially those with chronic or life-limiting conditions.
+
+Decision - Voting 'Aye' in the division is associated with fiscal responsibility in the context of Health & Healthcare, as it implies a concern for the financial viability of the NHS and a desire to reduce unnecessary or wasteful spending on health care.
+
+Sentiment - B

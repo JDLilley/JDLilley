@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I have reviewed the text file open in your current webpage and here is my response:
+
+Summary - The text file is a transcript of a debate in the UK Parliament on a bill to approve a treaty amendment that allows the eurozone to set up a bail-out fund. The debate covers the legal, economic and political implications of the bill and the eurozone crisis.
+
+For - Voting 'Ayes' in the division means supporting the new clause NC3, which would require the UK Government to report annually on the activities and liabilities of the European stability mechanism (ESM). The supporters of the new clause argue that it would increase transparency and accountability of the ESM and protect UK interests.
+
+Against - Voting 'Noes' in the division means rejecting the new clause NC3, which would require the UK Government to report annually on the activities and liabilities of the European stability mechanism (ESM). The opponents of the new clause argue that it is unnecessary and burdensome, as the UK is not a member of the ESM and has no financial obligations to it.
+
+Decision - Voting 'Aye' in the division is associated with protectionism and independence from the European Union and other foreign affairs, as it implies a distrust and suspicion of the ESM and its impact on UK sovereignty and economy. It also reflects a desire to distance the UK from the eurozone crisis and its resolution.
+
+Sentiment - B

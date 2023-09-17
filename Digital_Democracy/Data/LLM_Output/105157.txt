@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I can help you review the text file open in your current webpage. Here is my response based on your instructions:
+
+Summary - The text file is a transcript of a debate in the UK Parliament on the Financial Services Bill, which aims to reform the regulation of the financial sector. The debate covers various amendments and motions related to consumer protection, debt management, and prepayment schemes.
+
+For - Voting 'For' (Ayes) in the division: Financial Services Bill (Programme) (No. 3) Motion made and Question put, That the Order of 6 February 2012 , as varied by the Order of 21 February 2012 (Financial Services Bill (Programme) (No. 2)) be further varied; Question accordingly agreed to, means supporting the Government's proposal to change the timetable for the remaining stages of the Bill. This would allow more time for scrutiny and debate on the Bill in the House of Commons.
+
+Against - Voting 'Against' (Noes) in the division: Financial Services Bill (Programme) (No. 3) Motion made and Question put, That the Order of 6 February 2012 , as varied by the Order of 21 February 2012 (Financial Services Bill (Programme) (No. 2)) be further varied; Question accordingly agreed to, means opposing the Government's proposal to change the timetable for the remaining stages of the Bill. This would maintain the original schedule for the Bill and limit the time available for further discussion and amendments.
+
+Decision - Voting 'For' (Ayes) in the division: Financial Services Bill (Programme) (No. 3) Motion made and Question put, That the Order of 6 February 2012 , as varied by the Order of 21 February 2012 (Financial Services Bill (Programme) (No. 2)) be further varied; Question accordingly agreed to, is associated with neither stimulus & the free market nor austerity & regulation. It is a procedural matter that does not directly affect the substance or content of the Bill.
+
+Sentiment - C

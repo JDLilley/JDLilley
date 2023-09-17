@@ -1,0 +1,11 @@
+## Bing
+
+Summary - The text file is a transcript of a debate in the House of Commons on the Legal Aid, Sentencing and Punishment of Offenders Bill. The debate covers various amendments proposed by the House of Lords, some of which the Government disagrees with and seeks to overturn.
+
+For - Voting 'Ayes' means supporting the Government's position to reject Lords amendment 1, which would impose a duty on the Lord Chancellor to secure access to legal services for individuals. The Government argues that this amendment is unnecessary, unclear, and potentially costly, as it could create legal challenges and widen the scope of legal aid beyond the intended limits.
+
+Against - Voting 'Noes' means supporting the Lords amendment 1, which would reaffirm the principle of access to justice and the provision of legal aid for those who need it. The amendment is based on previous legal aid statutes and is qualified by the resources available and the provisions of the Bill. The amendment would not affect the financial privilege of the House or increase public spending.
+
+Decision - Voting 'Aye' in this division is associated with limiting the scope and availability of legal aid, which could be seen as weakening the Crime & Justice system and reducing access to justice for vulnerable groups. Voting 'Noe' in this division is associated with preserving the principle and purpose of legal aid, which could be seen as strengthening the Crime & Justice system and ensuring access to justice for all.
+
+Sentiment - B

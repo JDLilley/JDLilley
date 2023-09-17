@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I have reviewed the text file open in your current webpage and here is my response:
+
+Summary - The text file contains a transcript of a debate in the UK Parliament on the Finance Bill 2023, which deals with various VAT measures. The debate covers topics such as hot food, holiday caravans, listed buildings, and face-value vouchers.
+
+For - Voting 'For' in the division means supporting the Government's proposal to add a new schedule to the Bill that clarifies and simplifies the VAT rules on certain supplies. The Government argues that this will reduce anomalies, loopholes, and unfairness in the VAT system and raise revenue.
+
+Against - Voting 'Against' in the division means opposing the Government's proposal to add a new schedule to the Bill that changes the VAT rules on certain supplies. The Opposition argues that this will increase the cost of living, harm businesses and jobs, and damage the heritage sector.
+
+Decision - Voting 'For' in the division is associated with austerity and regulation, because it increases the tax burden on consumers and suppliers of certain goods and services, and imposes more uniform rules on the VAT system.
+
+Sentiment - B

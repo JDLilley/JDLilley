@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I have reviewed the text file open in your current webpage and I will try to answer your questions as best as I can.
+
+Summary - The text file is a transcript of a parliamentary debate on the Finance (No. 4) Bill, which contains various tax and fiscal measures proposed by the coalition government in 2023. The debate covers topics such as corporation tax, child benefit, stamp duty, and charitable donations.
+
+For - Voting for the Second Reading Motion means supporting the government's plan to reduce the deficit, promote private sector growth, and create a fairer tax system. The government argues that its measures are necessary to restore economic stability, competitiveness, and confidence, and that they will raise more revenue from the wealthiest in society.
+
+Against - Voting against the Second Reading Motion means opposing the government's plan and favouring alternative proposals. The opposition argues that the government's measures are unfair, ineffective, and damaging to the economy and public services. The opposition criticises the government for cutting the top rate of income tax, capping tax reliefs for charities, and reducing tax credits and child benefit for low and middle-income families.
+
+Decision - Voting for the Second Reading Motion is associated with austerity and regulation. The government's plan involves reducing public spending, increasing taxes on banks and high-value properties, and introducing new rules to prevent tax avoidance and evasion. These measures are aimed at reducing the budget deficit and ensuring that everyone pays their fair share of tax.
+
+Sentiment - B

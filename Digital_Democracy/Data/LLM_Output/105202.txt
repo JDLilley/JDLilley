@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I can help you review the text file open in your current webpage. Here is my response based on your request:
+
+Summary - The text file is a transcript of a parliamentary debate on the Electoral Registration and Administration Bill in 2023. The bill aims to introduce individual electoral registration and improve the accuracy and completeness of the electoral register. The debate focuses on the duties and powers of electoral registration officers (EROs) and the role of the Electoral Commission.
+
+For - Voting 'Ayes' in the division means supporting amendment 35, which proposes to remove the phrase 'so far as is reasonably practicable' from the bill. The amendment is intended to strengthen the obligation of EROs to secure that all eligible persons are registered in the register, without any qualification or limitation.
+
+Against - Voting 'Noes' in the division means opposing amendment 35 and keeping the phrase 'so far as is reasonably practicable' in the bill. The Government argues that this phrase does not dilute the requirements on EROs, but rather recognises that no register can be perfect and that EROs must take all necessary steps to achieve a high level of completeness and accuracy.
+
+Decision - Voting 'Aye' in the division is associated with accountability and decentralisation in the context of parliamentary procedures. This is because it implies that EROs should be held accountable for their performance and that they should have more autonomy and discretion in carrying out their duties, without being constrained by what is deemed 'reasonably practicable' by the Government or the Electoral Commission.
+
+Sentiment - A

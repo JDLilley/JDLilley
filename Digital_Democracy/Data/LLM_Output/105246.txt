@@ -1,0 +1,13 @@
+## Bing
+
+Thank you for your request. Here is my response based on the text file open in your current webpage:
+
+Summary - The text file is a transcript of a parliamentary debate on the Enterprise and Regulatory Reform Bill, which aims to reform employment law and promote business growth. The debate covers various aspects of the bill, such as early conciliation, settlement agreements, whistleblowing, and tribunal fees.
+
+For - Voting for amendment 81 would remove clause 12 from the bill, which introduces confidentiality of negotiations before the termination of employment[1]. Those who support the amendment argue that clause 12 would undermine workers' rights, create a culture of fear and mistrust, and encourage unfair dismissals.
+
+Against - Voting against amendment 81 would keep clause 12 in the bill, which enables employers and employees to come to a consensual end to employment relationships that are not working out by facilitating the use of settlement agreements. Those who oppose the amendment argue that clause 12 would help businesses and employees to resolve disputes quickly and amicably, reduce the cost and stress of tribunals, and support growth.
+
+Decision - Voting for amendment 81 is associated with austerity and regulation, as it seeks to preserve the existing employment law framework and protect workers from potential abuse by employers. Voting against amendment 81 is associated with stimulus and the free market, as it seeks to introduce more flexibility and confidence for businesses to manage their staff and end employment relationships.
+
+Sentiment - B

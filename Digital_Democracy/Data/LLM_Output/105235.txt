@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I can help you review the text file open in your current webpage. Here is my response based on your request:
+
+Summary - The text file is a transcript of a debate in the UK Parliament on the Defamation Bill, which aims to reform the law of libel and slander. The debate covers various aspects of the Bill, such as website operators, corporations, public interest, and trial by jury.
+
+For - Voting 'Ayes' in the division means supporting New Clause NC2, which would introduce a statutory defence for academic peer-reviewed publications in scientific or academic journals. This would protect researchers and scholars from being sued for expressing their opinions or findings in their fields of expertise.
+
+Against - Voting 'Noes' in the division means opposing New Clause NC2, which would create a special privilege for academic peer-reviewed publications that could undermine the right of individuals to seek redress for reputational harm. This would also exclude other forms of publications that may have similar rigour and quality.
+
+Decision - Voting 'Aye' in the division is associated with freedom and autonomy, limiting police powers and softer punishments, limiting Crime & Justice. This is because it would allow academic peer-reviewed publications to express their views without fear of legal consequences, and it would reduce the scope of criminal libel laws that could be used to suppress dissent or criticism.
+
+Sentiment - B

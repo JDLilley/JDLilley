@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I have reviewed the text file open in your current webpage and I will try to answer your questions as best as I can.
+
+Summary - The text file is a transcript of a debate in the UK Parliament on the Finance (No. 4) Bill, which contains various tax changes. The debate focuses on the clause 4, which freezes and abolishes the age-related allowances for pensioners[1].
+
+For - Voting for amendment 75 means opposing the Government's plan to freeze and abolish the age-related allowances for pensioners. It means supporting the view that pensioners deserve to be treated with respect and dignity, and that they should not be taxed more to fund a tax cut for the richest.
+
+Against - Voting against amendment 75 means supporting the Government's plan to freeze and abolish the age-related allowances for pensioners. It means supporting the view that this is a necessary and modest measure to simplify the tax system and to address the demographic challenge of an ageing population.
+
+Decision - Voting for amendment 75 is associated with austerity and regulation, because it implies that the Government should not reduce the tax burden on high earners and should maintain a progressive tax system that protects the vulnerable groups such as pensioners.
+
+Sentiment - B

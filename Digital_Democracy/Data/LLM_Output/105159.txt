@@ -1,0 +1,13 @@
+## Bing
+
+Thank you for your request. Here is my response based on the text file open in your current webpage:
+
+Summary - The text file is a transcript of a parliamentary debate on the Financial Services Bill, which aims to reform the regulation of financial services in the UK. The debate covers various amendments and clauses related to consumer protection, debt management, credit regulation, and mortgage rates.
+
+For - Voting for amendment 22 means supporting the proposal to require the Financial Conduct Authority to make rules on the maximum total cost of credit that can be charged by lenders. This would aim to protect consumers from excessive fees and interest rates, especially in the high-cost credit market.
+
+Against - Voting against amendment 22 means opposing the proposal to impose a cap on the total cost of credit. This would argue that such a measure could have unintended consequences, such as reducing access to credit for some consumers, driving them to illegal lenders, or harming competition and innovation in the market.
+
+Decision - Voting for amendment 22 is associated with regulation, as it would involve imposing a statutory limit on the price of credit products. This could be seen as a form of intervention in the market to correct market failures or address social concerns.
+
+Sentiment - B

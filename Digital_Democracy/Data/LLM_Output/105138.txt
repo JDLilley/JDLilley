@@ -1,0 +1,13 @@
+## Bing
+
+Thank you for your request. Here is my response based on the text file open in your current webpage:
+
+Summary - The text file is a transcript of a debate in the House of Commons on the Legal Aid, Sentencing and Punishment of Offenders Bill. The debate covers various amendments proposed by the House of Lords, some of which the Government disagrees with and seeks to overturn.
+
+For - Voting 'Ayes' means supporting the Government's position to disagree with Lords amendment 24, which would remove the mandatory telephone gateway for accessing legal aid services. The Government argues that the telephone gateway is more efficient, convenient, accessible and high quality than face-to-face advice, and that it would save public money and reduce unnecessary litigation.
+
+Against - Voting 'Noes' means opposing the Government's position and supporting Lords amendment 24, which would allow people to choose between telephone and face-to-face advice for legal aid services. The opposition argues that the telephone gateway is unsuitable for many vulnerable groups, such as those with mental health issues, communication problems or language barriers, and that it would deter people from seeking support and worsen their problems.
+
+Decision - Voting 'Aye' in this division is associated with greater police powers, harsher punishments and strengthening Crime & Justice, because it would limit the access to legal aid services for many people who need them to defend their rights and interests in court. It would also favour the Government's interests over those of individuals, businesses and public services that are involved in litigation.
+
+Sentiment - A

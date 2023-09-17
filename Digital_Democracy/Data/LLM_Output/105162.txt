@@ -1,0 +1,13 @@
+## Bing
+
+Thank you for your request. Here is my response based on the text file open in your current webpage:
+
+Summary - The text file is a transcript of a debate in the UK House of Commons on the Legal Aid, Sentencing and Punishment of Offenders Bill. The debate covers various amendments proposed by the House of Lords, such as those related to domestic violence, mesothelioma and legal services.
+
+For - Voting 'Ayes' in the division means supporting the Government's motion to disagree with the Lords amendment 1B, which would impose a duty on the Lord Chancellor to ensure that people have access to legal services that effectively meet their needs. The Government argues that this duty is unnecessary, unclear and costly, and that it would undermine the scope of legal aid defined by the Bill.
+
+Against - Voting 'Noes' in the division means opposing the Government's motion and supporting the Lords amendment 1B, which would introduce a statement of purpose for legal aid and a guiding principle for the Lord Chancellor. The Opposition argues that this duty is consistent with the financial limits of the Bill, and that it would reinforce the Government's commitment to access to justice.
+
+Decision - Voting 'Aye' in the division is associated with limiting the availability and scope of legal aid, which could be seen as strengthening Crime & Justice by reducing public expenditure and encouraging alternative dispute resolution. However, it could also be seen as limiting freedom & autonomy by restricting people's access to legal services and judicial review.
+
+Sentiment - C

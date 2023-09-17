@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I can help you review the text file open in your current webpage. Here is my response based on your request:
+
+Summary - The text file is a transcript of a debate in the UK Parliament on the Public Service Pensions Bill, which aims to reform public service pensions to make them more affordable, sustainable and fair. The debate covers the main arguments for and against the Bill, as well as some specific issues related to different sectors and regions.
+
+For - Voting 'Ayes' in the division means supporting the Bill and its main principles. It means agreeing that public service pensions need to be reformed to reflect the increased longevity of workers, the rising costs for taxpayers and the unfairness of final salary schemes. It also means accepting the Government's offer of transitional protection, final salary link and career average schemes for public service workers.
+
+Against - Voting 'Noes' in the division means opposing the Bill and its main principles. It means rejecting the Government's arguments that public service pensions are unsustainable, unaffordable and unfair. It also means challenging the Government's decisions to change the indexation of pensions, increase the contributions of workers and link the normal pension age to the state pension age.
+
+Decision - Voting 'Aye' in the division is associated with cutting spending on, and provision of, welfare and social housing. This is because the Bill will reduce the future costs of public service pensions by around 40% over the next 50 years, which will have an impact on the living standards of public service workers and their families[1]. Moreover, the Bill will affect some of the sectors that are directly involved in providing welfare and social housing services, such as health, education and local government.
+
+Sentiment - B

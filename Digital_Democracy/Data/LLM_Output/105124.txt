@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I can help you review the text file open in your current webpage. Here is my response based on your request:
+
+Summary - The text file is a transcript of a parliamentary debate on the Protection of Freedoms Bill, which aims to reduce the number of powers of entry that public officials have to enter people's homes or businesses. The debate focuses on the safeguards and exemptions that should apply to such powers.
+
+For - Voting 'Ayes' in the division means supporting an amendment that would require public officials to obtain a warrant or the consent of the occupier before exercising any power of entry, unless there is an urgent need to protect life, health or property[1]. This would limit the intrusion of the state and respect the privacy of individuals and businesses.
+
+Against - Voting 'Noes' in the division means rejecting the amendment and accepting the Government's approach, which is to review each power of entry individually and add safeguards where necessary. This would allow for flexibility and legal certainty and ensure that the police and others can act swiftly to protect the public.
+
+Decision - Voting 'Aye' in the division is associated with freedom and autonomy, limiting police powers and softer punishments, limiting Crime & Justice. This is because it would restrict the ability of public officials to enter premises without a warrant or consent, except in emergencies, and thus protect the rights and liberties of the people against an overbearing state.
+
+Sentiment - B

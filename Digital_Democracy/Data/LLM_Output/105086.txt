@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I can help you review the text file open in your current webpage. Here is my response:
+
+Summary - The text file is a transcript of a debate in the UK Parliament on the Welfare Reform Bill in 2023. The Bill aims to reduce the spending on benefits and tax credits, simplify the system, and encourage work[1]. The debate focuses on the time limit for contributory employment and support allowance (ESA) for people with disabilities or illnesses.
+
+For - Voting 'Ayes' means supporting the Government's proposal to limit the contributory ESA to one year for those in the work-related activity group. The arguments for this are that it is fair to the taxpayers who fund the system, that it is consistent with the principle of other benefits such as jobseeker's allowance, that it provides a safety net for those who have no other income or savings, and that it helps to tackle the deficit and welfare dependency.
+
+Against - Voting 'Noes' means opposing the Government's proposal and supporting the Lords amendment to extend the time limit to at least two years and make it subject to regulations. The arguments against this are that it is unfair to those who have worked and paid into the system, that it does not give people enough time to recover from their health conditions and find work, that it penalises those who have a partner with a low income or modest savings, and that it ignores the special circumstances of cancer patients.
+
+Decision - Voting 'Aye' is associated with cutting spending on, and provision of, welfare and social housing. This is because the Government's proposal would reduce the number of people who are eligible for contributory ESA, which is a non-means-tested benefit that does not depend on household income or capital. This would also affect their entitlement to other benefits such as housing benefit, council tax benefit, and disability premiums.
+
+Sentiment - B

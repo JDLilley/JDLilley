@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I will try to review the text file open in your current webpage and answer your questions. Here is my response:
+
+Summary - The text file is a transcript of a parliamentary debate on the Electoral Registration and Administration Bill, which aims to introduce individual electoral registration in the UK. The debate covers various amendments and issues related to the Bill, such as the role of the Electoral Commission, data matching, and voter registration.
+
+For - Voting 'Ayes' in the division means supporting amendment 9 to clause 4, which would require the Secretary of State to consult with the Electoral Commission before making any regulations about the transition to individual electoral registration. This would ensure that the Commission's views are taken into account and that the regulations are based on evidence and best practice.
+
+Against - Voting 'Noes' in the division means rejecting amendment 9 to clause 4, which would give the Secretary of State more flexibility and discretion to make regulations about the transition to individual electoral registration. This would allow the Government to implement their policy more efficiently and effectively, without being constrained by the Electoral Commission's opinions or recommendations.
+
+Decision - Voting 'Aye' in the division is associated with accountability and decentralisation in the context of parliamentary procedures, because it would give more power and influence to an independent body (the Electoral Commission) and require more scrutiny and oversight from Parliament over the Government's actions.
+
+Sentiment - A

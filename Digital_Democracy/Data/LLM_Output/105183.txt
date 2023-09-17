@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I have reviewed the text file open in your current webpage and I will try to answer your questions as best as I can. Here is my response:
+
+Summary - The text file is a transcript of a parliamentary debate on the Electoral Registration and Administration Bill, which aims to introduce individual electoral registration and improve the conduct of elections in Great Britain.
+
+For - Voting 'Ayes' in the division means supporting the Bill's second reading and agreeing to its general principles. The supporters of the Bill argue that it will modernise the electoral system, prevent fraud, increase voter participation and confidence, and make elections more efficient and fair.
+
+Against - Voting 'Noes' in the division means opposing the Bill's second reading and rejecting its general principles. The opponents of the Bill argue that it will reduce the completeness and accuracy of the electoral register, disenfranchise millions of voters, especially those who are young, poor, or from ethnic minorities, and create unnecessary costs and bureaucracy.
+
+Decision - Voting 'Aye' in the division is associated with reduced bureaucracy and centralisation in the context of Parliamentary Procedures. The Bill proposes to simplify the registration process by using data matching and verification, and to speed up the introduction of individual registration by 2014. It also gives more powers to the Secretary of State and the Electoral Commission to make regulations and issue guidance on electoral matters.
+
+Sentiment - B

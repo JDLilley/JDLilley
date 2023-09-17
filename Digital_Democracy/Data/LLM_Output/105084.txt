@@ -1,0 +1,13 @@
+## Bing
+
+Thank you for your request. Here is my response based on the text file open in your current webpage:
+
+Summary - The text file is a transcript of a debate in the House of Commons on the Welfare Reform Bill, which aims to reform the welfare system and reduce the deficit. The debate focuses on the amendments made by the House of Lords, especially on the time limit for contributory employment and support allowance (ESA).
+
+For - Voting 'Ayes' means disagreeing with the Lords amendment 47, which would remove the one-year time limit for contributory ESA for people in the work-related activity group. The Government argues that this measure is necessary to save money, simplify the system, and encourage people to return to work.
+
+Against - Voting 'Noes' means agreeing with the Lords amendment 47, which would protect the rights of people who have paid into the system and are unable to work due to illness or disability. The Opposition argues that this measure is unfair, arbitrary, and harmful to the most vulnerable people.
+
+Decision - Voting 'Aye' is associated with cutting spending on, and provision of, welfare and social housing. This is because the measure would reduce the income of many people who rely on contributory ESA, and could force them to use their savings or their partner's income to meet their living costs. This could also affect their eligibility for other benefits, such as housing benefit.
+
+Sentiment - B

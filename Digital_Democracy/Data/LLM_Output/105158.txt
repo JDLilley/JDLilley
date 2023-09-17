@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I can help you review the text file open in your current webpage. Here is my response based on your request:
+
+Summary - The text file is a transcript of a debate in the UK Parliament on the Financial Services Bill, which aims to reform the regulation of financial services and consumer credit. The debate covers various amendments and new clauses proposed by the Government and the Opposition.
+
+For - Voting for New Clause 10 means supporting the proposal to require mortgage lenders to forewarn existing customers about potential interest rate changes and their impact on the affordability of mortgage repayments[1]. This is intended to protect consumers from unexpected increases in their mortgage costs and help them plan ahead.
+
+Against - Voting against New Clause 10 means opposing the proposal to require mortgage lenders to forewarn existing customers about potential interest rate changes and their impact on the affordability of mortgage repayments[1]. This is based on the argument that the Financial Conduct Authority already has sufficient powers and responsibilities to make such rules if necessary, and that specifying them in the Bill would limit the regulator's discretion and flexibility.
+
+Decision - Voting for New Clause 10 is associated with stimulus and the free market, because it implies that consumers should have more information and choice in the mortgage market, and that lenders should not be able to exploit their customers' lack of awareness or bargaining power.
+
+Sentiment - A
