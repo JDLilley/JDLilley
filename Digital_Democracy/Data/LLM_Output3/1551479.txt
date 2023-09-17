@@ -1,0 +1,11 @@
+## Bing
+
+Summary - The text file is a transcript of a UK parliamentary debate on a bill to remove asylum seekers to safe countries, which was rejected by a majority of MPs. The debate was interrupted by a royal visit.
+
+For - The bill's supporter argued that the UK should ignore the European Court of Human Rights and offshore illegal migrants to Rwanda, as a way of taking back control of the borders and fulfilling the Brexit mandate.
+
+Against - The bill's opponent condemned the bill as offensive, grubby and dangerous, and said that the UK should respect the human rights and dignity of asylum seekers, who are fleeing war and persecution. They also criticised the Australian model as costly and ineffective.
+
+Decision - The bill would have tightened immigration and borders, as it would have made it harder for asylum seekers to claim protection in the UK and easier for the government to deport them to third countries without regard for their safety or welfare.
+
+Sentiment - A

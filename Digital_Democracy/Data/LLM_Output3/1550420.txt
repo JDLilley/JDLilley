@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I can help you review the text file open in your current webpage. Here is my response based on your request:
+
+Summary - The text file is a transcript of a parliamentary debate on the Trade (Australia and New Zealand) Bill, which aims to implement the procurement chapters of the free trade agreements with those countries. The debate covers various amendments and new clauses proposed by different parties, as well as the impact of the deals on various sectors and regions.
+
+For - Voting 'Ayes' in the division: NC2 means supporting an assessment of the impact of the procurement chapters on farmers in different parts of the UK, especially in relation to market access, environmental standards, and animal welfare. It also means expressing concern about the potential negative effects of the deals on British agriculture.
+
+Against - Voting 'Noes' in the division: NC2 means opposing an assessment of the impact of the procurement chapters on farmers in different parts of the UK, and trusting that the deals will benefit British agriculture. It also means rejecting the need for additional scrutiny and consultation on the deals.
+
+Decision - Voting 'Aye' in the division: NC2 is associated with protectionism and independence from the European Union and other foreign affairs, because it implies a preference for safeguarding domestic producers from foreign competition and maintaining high standards that may differ from those of other countries.
+
+Sentiment - B

@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I have reviewed the text file open in your current webpage and here is my response:
+
+Summary - The text file contains a debate on the Illegal Migration Bill, which aims to reform the UK's asylum system and deter illegal entry. The debate covers various clauses and amendments related to the bill, such as suspensive claims, third countries, safe and legal routes, and family reunion.
+
+For - Voting for (Ayes) in the division: New Clause 6 means supporting the establishment of a humanitarian travel permit scheme for asylum seekers from designated countries with a high grant rate. The scheme would allow them to enter the UK safely and legally to make their claim.
+
+Against - Voting against (Noes) in the division: New Clause 6 means opposing the creation of a humanitarian travel permit scheme for asylum seekers from designated countries with a high grant rate. The scheme would undermine the government's objective of preventing illegal entry and encouraging resettlement from safe regions.
+
+Decision - The New Clause 6 would soften immigration and borders by providing a new pathway for asylum seekers from certain countries to enter the UK without permission. It would also increase the number of people who could access the UK's asylum system and potentially reduce the incentives for resettlement from safe regions.
+
+Sentiment - B

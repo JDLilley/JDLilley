@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I can help you review the text file open in your current webpage. Here is my response:
+
+Summary - The text file is a transcript of a parliamentary debate on a bill that aims to regularise the past practice of granting British nationality to certain persons. The bill is subject to a strict timetable and a programme order. The debate also includes a motion to suspend a member for breaching Covid-19 rules.
+
+For - Voting 'Ayes' in the division: Committee on Standards Motion means supporting the recommendation of the Committee on Standards to suspend Margaret Ferrier from the service of the House for 30 days. This is based on the finding that she breached the Code of Conduct and the public health guidance by travelling while infected with Covid-19.
+
+Against - Voting 'Noes' in the division: Committee on Standards Motion means opposing the recommendation of the Committee on Standards to suspend Margaret Ferrier from the service of the House for 30 days. This could be based on the argument that the suspension is too harsh, too lenient, or not appropriate for the offence committed by Ferrier.
+
+Decision - Voting 'Aye' in the division: Committee on Standards Motion is associated with ethical considerations, regulation, and tradition, in the context of Standards & Technology. This is because it shows respect for the rules and norms of the House, as well as the public health measures that are based on scientific evidence and advice.
+
+Sentiment - B

@@ -1,0 +1,13 @@
+## Bing
+
+Here is my response based on the text file open in your current webpage:
+
+Summary - The text file is a transcript of a debate in the House of Commons on the proposed reforms to the code of conduct and the guide to the rules for MPs. The main points of contention are the registration of ministerial interests and the interpretation of the seven principles of public life.
+
+For - Voting 'Ayes' in the division on amendment (b) means supporting the recommendation of the Committee on Standards that Ministers should register any donations or support received in their capacity as a Minister in the Register of Members' Financial Interests, as well as any hospitality above a certain threshold. This would enhance transparency and accountability, and align the reporting requirements for Ministers with those for other MPs.
+
+Against - Voting 'Noes' in the division on amendment (b) means opposing the recommendation of the Committee on Standards and accepting the Government's alternative proposal to improve the timeliness and quality of ministerial declarations within their Departments. This would respect the constitutional separation of powers and the operational differences between the role of an MP and that of a Minister, and avoid creating confusion and duplication[1].
+
+Decision - Voting 'Aye' in the division on amendment (b) is associated with ethical considerations, regulation, and tradition, in the context of Standards & Technology. Ethical considerations are relevant because registering ministerial interests would demonstrate honesty, integrity, and openness, which are some of the principles of public life. Regulation is relevant because registering ministerial interests would ensure compliance with the rules and oversight by the Parliamentary Commissioner for Standards. Tradition is relevant because registering ministerial interests would restore a practice that was in place until 2010.
+
+Sentiment - C

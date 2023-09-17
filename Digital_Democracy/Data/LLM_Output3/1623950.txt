@@ -1,0 +1,11 @@
+## Bing
+
+Summary - The text file is a transcript of a parliamentary debate on the Illegal Migration Bill, which aims to reform the UK's asylum system and border security. The debate covers various amendments and new clauses proposed by the Government and the Opposition.
+
+For - Voting for (Ayes) in the division: New Clause 9 means supporting a requirement for the Home Secretary to consult with local authorities before providing or arranging accommodation for asylum seekers[1]. This is intended to ensure better coordination and accountability in the provision of asylum accommodation.
+
+Against - Voting against (Noes) in the division: New Clause 9 means opposing a requirement for the Home Secretary to consult with local authorities before providing or arranging accommodation for asylum seekers. This is intended to preserve the Home Secretary's discretion and flexibility in the provision of asylum accommodation.
+
+Decision - New Clause 9 would soften immigration and borders, as it would give more voice and influence to local authorities, which may have different views and priorities from the Home Secretary, in the provision of asylum accommodation. It would also limit the Home Secretary's ability to use accommodation as a deterrent or a tool for removal.
+
+Sentiment - B

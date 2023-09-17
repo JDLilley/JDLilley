@@ -1,0 +1,11 @@
+## Bing
+
+Summary - The text file is a transcript of a parliamentary debate on the Procurement Bill, which aims to reform the public procurement system after Brexit. The debate covers various amendments and new clauses proposed by MPs from different parties.
+
+For - Voting for Amendment 18 means supporting the requirement that large multinational corporations bidding for a public contract provide information about their tax affairs in the UK and abroad, and that this information is published. This would increase transparency and accountability in public procurement.
+
+Against - Voting against Amendment 18 means opposing the requirement that large multinational corporations bidding for a public contract provide information about their tax affairs in the UK and abroad, and that this information is published. This would avoid imposing additional burdens and costs on suppliers and contracting authorities.
+
+Decision - Voting for Amendment 18 is associated with austerity and regulation, as it would impose stricter rules and standards on suppliers and contracting authorities, and potentially reduce the scope for tax avoidance or evasion by multinational corporations.
+
+Sentiment - B

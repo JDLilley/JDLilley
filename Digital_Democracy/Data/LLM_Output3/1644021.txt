@@ -1,0 +1,11 @@
+## Bing
+
+Summary - The text file is a transcript of a parliamentary debate on the Procurement Bill, which aims to reform the public procurement system after Brexit. The debate covers various amendments and new clauses proposed by MPs from different parties.
+
+For - Voting for New Clause 10 means supporting the requirement for large multinational corporations bidding for a public contract to provide information about their income, profit, and tax paid in the UK, and to publish that information[1].
+
+Against - Voting against New Clause 10 means opposing the requirement for large multinational corporations bidding for a public contract to provide information about their income, profit, and tax paid in the UK, and to publish that information.
+
+Decision - Voting for New Clause 10 is associated with austerity and regulation, as it implies a stricter scrutiny of the tax affairs of large multinational corporations and a potential increase in their tax liability.
+
+Sentiment - B

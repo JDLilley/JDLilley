@@ -1,0 +1,11 @@
+## Bing
+
+Summary - The text file is a transcript of a parliamentary debate on the Illegal Migration Bill, which aims to reform the UK's asylum system and border security. The debate covers various amendments and new clauses proposed by the Government and the Opposition.
+
+For - Voting for (Ayes) in the division: New Clause 15 means supporting the Government's proposal to remove the duty to remove under clause 2 from unaccompanied children and those who arrived as unaccompanied children, unless they pose a threat to national security or public safety.
+
+Against - Voting against (Noes) in the division: New Clause 15 means opposing the Government's proposal and maintaining the duty to remove under clause 2 for all persons who entered the UK illegally, regardless of their age or vulnerability.
+
+Decision - The New Clause 15 would soften immigration and borders, as it would exempt a category of people from the removal duty and allow them to make protection or human rights claims in the UK.
+
+Sentiment - B

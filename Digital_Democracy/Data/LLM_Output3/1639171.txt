@@ -1,0 +1,13 @@
+## Bing
+
+Thank you for your request. Here is my response based on the text file open in your current webpage:
+
+Summary - The text file is a transcript of a debate on the Non-Domestic Rating Bill Committee, which aims to reform the business rates system in England and Wales. The debate covers various amendments proposed by different MPs, some of which are supported or opposed by the Government and the Opposition.
+
+For - Voting 'Ayes' for Amendment 20 means supporting the exemption of businesses that are eligible for small business rate relief from the duty to notify the Valuation Office Agency of any changes to their properties, if there is no change to report[1]. This would reduce the administrative burden and cost for small businesses.
+
+Against - Voting 'Noes' for Amendment 20 means opposing the exemption of businesses that are eligible for small business rate relief from the duty to notify the Valuation Office Agency of any changes to their properties, if there is no change to report. This would maintain the consistency and accuracy of the rating lists and ensure that all businesses comply with the same rules.
+
+Decision - Voting 'Aye' for Amendment 20 is not associated with cutting spending on, or provision of welfare and social housing. It is a measure that would benefit small businesses by easing their reporting requirements, but it would not affect the funding or delivery of welfare and social housing services.
+
+Sentiment - C

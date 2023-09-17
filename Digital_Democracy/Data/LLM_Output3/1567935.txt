@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I have reviewed the text file open in your current webpage and I will try to answer your questions as best as I can. Here is my response:
+
+Summary - The text file is a transcript of a parliamentary debate on the Retained EU Law (Revocation and Reform) Bill, which aims to end the special status of retained EU law on the UK statute book by 2023[1]. The debate covers various amendments and new clauses proposed by different MPs, as well as the Government's response.
+
+For - Voting 'Ayes' in the division: Amendment 28 means supporting the amendment that restricts the automatic revocation or "sunsetting" of EU-derived subordinate legislation and retained direct EU legislation under Clause 1 of the Bill so that it does not apply to legislation that is within the legislative competence of the Scottish Parliament[2][3]. This amendment is intended to protect the devolution settlement and respect the Scottish Parliament's authority over devolved matters.
+
+Against - Voting 'Noes' in the division: Amendment 28 means opposing the amendment and supporting the Government's position that Clause 1 of the Bill should apply to all retained EU law, regardless of whether it is within the devolved competence of the Scottish Parliament or not. This position is based on the argument that Clause 1 does not affect devolution, as it only removes a layer of EU law that was imposed on the UK statute book without consent, and that any changes to devolved legislation will still require the consent of the devolved authorities.
+
+Decision - Voting 'Aye' in the division: Amendment 28 is associated with globalisation and strengthening ties with the European Union and other foreign affairs, as it implies a preference for maintaining some degree of alignment and cooperation with EU law and standards, rather than diverging from them. It also suggests a recognition of the benefits of devolution and subsidiarity, which are principles that underpin the EU's governance structure and its relations with its member states and regions.
+
+Sentiment - A

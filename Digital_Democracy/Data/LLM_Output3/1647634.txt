@@ -1,0 +1,11 @@
+## Bing
+
+Summary - The text file is a transcript of a debate in the House of Commons on the Financial Services and Markets Bill, which aims to reform the regulation of financial services after Brexit. The debate covers various amendments made by the Lords and the Government's response to them[1].
+
+For - Voting for the motion to disagree with Lords amendment 10 means rejecting the proposal to add a financial inclusion objective to the FCA's remit. The Government argues that this would create uncertainty for firms and that the FCA already has powers to promote financial inclusion.
+
+Against - Voting against the motion to disagree with Lords amendment 10 means supporting the proposal to add a financial inclusion objective to the FCA's remit. The Opposition argues that this would empower the FCA to tackle issues such as the poverty premium and ensure that regulation works for consumers and the sector.
+
+Decision - Voting for the motion to disagree with Lords amendment 10 is associated with austerity and regulation, as it implies that the Government is not willing to expand the FCA's role in addressing social policy issues and wants to maintain the status quo of its objectives.
+
+Sentiment - B

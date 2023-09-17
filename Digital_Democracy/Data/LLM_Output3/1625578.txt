@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I can help you review the text file open in your current webpage. Here is my response based on your request:
+
+Summary - The text file is a transcript of a debate in the UK Parliament on the National Security Bill, which aims to protect the UK from hostile state actors and their activities. The Bill introduces new powers and offences for the security services and law enforcement, as well as a foreign influence registration scheme.
+
+For - Voting 'Ayes' in the division means supporting the Government's motion to disagree with Lords Amendment 22, which would require political parties to publish a policy statement to identify donations from foreign powers[1][2]. The Government argues that this amendment is unnecessary, disproportionate and impractical, as there are already robust laws and checks to prevent foreign donations.
+
+Against - Voting 'Noes' in the division means opposing the Government's motion and supporting Lords Amendment 22, which would require political parties to publish a policy statement to identify donations from foreign powers. The amendment aims to enhance transparency and accountability in political financing, and to guard against undue influence from hostile states that may seek to manipulate UK politics.
+
+Decision - Voting 'Aye' in the division is associated with softer regulations and growing powers of Defence & Armed Forces, as it would reject an amendment that seeks to limit the potential influence of foreign powers on UK political parties. Voting 'Aye' would also show support for the Government's National Security Bill, which grants new powers and tools to the security services and law enforcement.
+
+Sentiment - A

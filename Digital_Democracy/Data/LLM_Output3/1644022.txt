@@ -1,0 +1,11 @@
+## Bing
+
+Summary - The text file is a transcript of a parliamentary debate on the Procurement Bill, which aims to reform the UK's public procurement system after Brexit. The debate covers various amendments and new clauses proposed by MPs from different parties.
+
+For - Voting for Amendment 2 means supporting transparency and accountability in public procurement, especially in cases of emergency or direct awards. It would require Ministers, MPs, Lords and senior civil servants to declare any private financial interest in a supplier they recommend for a contract.
+
+Against - Voting against Amendment 2 means opposing additional bureaucracy and scrutiny in public procurement, especially in cases of urgency or national security. It would allow Ministers, MPs, Lords and senior civil servants to exercise discretion and confidentiality in recommending suppliers for contracts.
+
+Decision - Voting for Amendment 2 is associated with regulation, as it would impose more rules and obligations on public authorities and individuals involved in procurement. It would also limit their flexibility and autonomy in choosing suppliers.
+
+Sentiment - B

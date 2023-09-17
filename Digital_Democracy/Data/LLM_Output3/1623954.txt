@@ -1,0 +1,11 @@
+## Bing
+
+Summary - The text file is a transcript of a parliamentary debate on the Illegal Migration Bill, which aims to reform the UK's asylum system and border security. The debate covers various amendments and clauses proposed by the Government and the Opposition.
+
+For - Voting for (Ayes) in the division: Amendment 45 means supporting the requirement that the courts interpret the Act in accordance with the UK's international obligations contained in several human rights and refugee conventions[1]. This would ensure compatibility and consistency with existing legal frameworks.
+
+Against - Voting against (Noes) in the division: Amendment 45 means opposing the requirement that the courts interpret the Act in accordance with the UK's international obligations contained in several human rights and refugee conventions[1]. This would allow more flexibility and discretion for the Government and the courts to implement the Act.
+
+Decision - Amendment 45 would soften immigration and borders, as it would limit the scope of the Act to comply with international standards and norms that protect the rights of asylum seekers, refugees, victims of trafficking and other vulnerable groups.
+
+Sentiment - B
