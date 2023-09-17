@@ -1,0 +1,1595 @@
+Crime and Courts Bill [Lords]
+
+[2nd Allocated Day]
+
+Further consideration of Bill, as amended in the Public Bill Committee
+
+New Clause 21A
+
+Awards of exemplary damages
+
+‘(1) This section applies where—
+
+(a) a relevant claim is made against a person (“the defendant”),
+
+(b) the defendant was a relevant publisher at the material time,
+
+(c) the claim is related to the publication of news-related material, and
+
+(d) the defendant is found liable in respect of the claim.
+
+(2) Exemplary damages may not be awarded against the defendant in respect of the claim if the defendant was a member of an approved regulator at the material time.
+
+(3) But the court may disregard subsection (2) if—
+
+(a) the approved regulator imposed a penalty on the defendant in respect of the defendant’s conduct or decided not to do so,
+
+(b) the court considers, in light of the information available to the approved regulator when imposing the penalty or deciding not to impose one, that the regulator was manifestly irrational in imposing the penalty or deciding not to impose one, and
+
+(c) the court is satisfied that, but for subsection (2), it would have made an award of exemplary damages under this section against the defendant.
+
+(4) Where the court is not prevented from making an award of exemplary damages by subsection (2) (whether because that subsection does not apply or the court is permitted to disregard that subsection as a result of subsection (3)), the court—
+
+(a) may make an award of exemplary damages if it considers it appropriate to do so in all the circumstances of the case, but
+
+(b) may do so only under this section.
+
+(5) Exemplary damages may be awarded under this section only if they are claimed.
+
+(6) Exemplary damages may be awarded under this section only if the court is
+
+satisfied that—
+
+(a) the defendant’s conduct has shown a deliberate or reckless disregard of an outrageous nature for the claimant's rights,
+
+(b) the conduct is such that the court should punish the defendant for it, and
+
+(c) other remedies would not be adequate to punish that conduct.
+
+(7) Exemplary damages may be awarded under this section whether or not another remedy is granted.
+
+(8) The decision on the question of—
+
+(a) whether exemplary damages are to be awarded under this section, or
+
+(b) the amount of such damages, must not be left to a jury.’.—(Maria Miller.)
+
+Brought up, and read the First time.
+
+20:22:00
+
+The Secretary of State for Culture, Media and Sport (Maria Miller)
+I beg to move, That the clause be read a Second time.
+
+Mr Deputy Speaker (Mr Nigel Evans)
+With this it will be convenient to discuss the following:
+
+Government new clause 22—Relevant considerations.
+
+Government new clause 23—Amount of exemplary damages.
+
+Government new clause 24—Multiple claimants.
+
+Government new clause 25—Multiple defendants.
+
+Government new clause 26—Awards of aggravated damages.
+
+Government new clause 27A—Awards of costs.
+
+Government new clause 29—Meaning of “relevant publisher”.
+
+Government new clause 30—Other interpretative provisions.
+
+Government new schedule 5—‘Exclusions from definition of “relevant publisher”.
+
+Government amendments 121A and 122.
+
+Maria Miller
+The Leveson inquiry shone a spotlight on the worst excesses of the press. As a result of the revelations involving the hacking of Milly Dowler’s phone and all that went before it, we have seen the closure of a national newspaper and a range of ongoing criminal investigations.
+
+Lord Justice Leveson heard evidence for more than a year. I should like to pause for a second to pay tribute—[Interruption.]
+
+Mr Deputy Speaker
+Order. Please will Members leaving the Chamber do so quietly? I am finding it very difficult to hear what the Minister is saying.
+
+Maria Miller
+Thank you, Mr Deputy Speaker.
+
+I should like to pay tribute to those who gave evidence that involved them revisiting those harrowing experiences. I hope it will be clear today that that ordeal has not been in vain.
+
+Today marks a turning point. We can move on from simply talking about Lord Justice Leveson’s report to starting to act on it, with a new package that is agreed by all three party leaders. The package includes a new royal charter, as announced by the Prime Minister earlier; a new costs and damages package that seeks to maximise incentives for relevant publishers to be part of the new press self-regulator; and one short clause reinforcing the point that politicians cannot tamper with the new press royal charter, which is the subject of debate in the other place.
+
+Before I discuss the Bill, I should like to make clear what we are not talking about. The Prime Minister said to the House on the day the report was published that he had serious misgivings about statutory press regulation. He—I agreed with him—was determined to find a better way of establishing the recognition body that would oversee the tough self-regulatory body that Lord Justice Leveson envisaged. That is what our royal charter does.
+
+Our proposals will provide the toughest system of regulation that this country has ever seen. The system will protect the public and ensure that the freedom of the press is not undermined. Alongside our proposals, we will include a three-line clause that reinforces the language within the charter and says that it cannot be  changed without a two-thirds majority in both Houses. The clause ensures that, for generations to come, Ministers cannot interfere with the new system without explicit and extensive support from both Houses.
+
+We have achieved all of that without needing to set out a system of press regulation in legislation—hence, our proposals are not statutory underpinning. The three-line clause applies to all royal charters of a particular nature from this point onwards. It is simply a safeguard.
+
+We are in the House to debate amendments that will put in place a new, tough set of incentives for publishers. There are two such incentives—the first relates to the award of exemplary damages, and the second relates to the award of costs in litigation involving relevant publishers. The package forms a crucial part of the new regulatory regime, providing strong new incentives to relevant press publishers to join the press regulator. When they choose to join the press regulator, they will receive a series of benefits on costs and damages. However, those that choose not to join the regulator will be exposed to the tough new regime, which includes payment, in most cases, of the costs of people who bring claims in the courts against publishers on civil media laws, regardless of whether those people win or lose; and exposure to a new exemplary damages regime—we are introducing a new punitive damages regime for breaches of those media laws for those who do not sign up to the regulator.
+
+Victims of press mistreatment will, for the first time, have access to a new toughened complaints mechanism with prominent apologies, tough £1 million fines, and access to a new arbitration system.
+
+Paul Flynn (Newport West) (Lab)
+The Secretary of State gives us the welcome news that this is the toughest regulatory system in the UK, but will the system impose on newspapers the duty of political balance that is imposed by the royal charter on the BBC and ITV?
+
+Maria Miller
+The hon. Gentleman knows that we are trying exactly to protect freedom of speech, so that newspapers have the ability to comment on proceedings in this place and more widely. We are protecting that important ability and maintaining and promoting freedom of speech.
+
+Jacob Rees-Mogg (North East Somerset) (Con)
+I want to clarify schedule 4 of the royal charter, which states that a “relevant publisher” is
+
+“a newspaper or magazine containing news-related material”.
+
+Does that include, for example, newspapers published by local Conservative associations? Might we therefore have to register?
+
+Maria Miller
+My hon. Friend is slightly jumping the gun—we will come to that in more detail later—but I can give him a sneak preview of the answer, which is no. Clear tests included in new clause 29 make it clear that such publications will not be covered.
+
+20:30:00
+
+The first group of amendments relates to exemplary damages. It will perhaps be helpful to the House to explain their effect. Exemplary damages are already available, as I am sure hon. Members know, under common law. They are, however, very rare, and reserved  for the most serious cases. They are designed to punish only where there is no alternative. That general position will not change, but the new scheme will change the position for relevant publishers in certain types of cases relating to the media, namely: defamation, misuse of private information, breach of confidence and harassment. They would give effect to the recommendation in Lord Justice Leveson’s report that exemplary damages should be put on a statutory footing for media cases, with the aim of incentivising publishers to join the regulator.
+
+New clause 21A incentivises publishers to join the regulator by making it clear that a court may contemplate awarding exemplary damages only in cases where a publisher has not joined the regulator, with very limited exceptions, on the basis that a publisher joining the regulator will already face the prospect of regulatory fines of up to £1 million, as set out in the royal charter. This approach, therefore, is designed to incentivise publishers to join the regulator by offering them protection from the award of exemplary damages. However, the clause also provides that if a court feels that a regulated publisher has acted in a way that would lead the court to award exemplary damages but for their membership of the regulator, and that the regulator has acted “manifestly irrationally” in its approach to sanctioning that conduct, then the courts may, in exceptional circumstances, make an award of exemplary damages in that case.
+
+Sir Bob Russell (Colchester) (LD)
+Will the right hon. Lady confirm that the legislation has been driven by the behaviour of certain national newspapers, and that our local newspapers and provincial press have not been responsible, but will have to pay for the sins of Fleet street?
+
+Maria Miller
+I understand the sentiment behind my hon. Friend’s question. I can reassure him that we have been working directly with representatives of the local press to ensure that the new system does not, as he suggests, burden them unnecessarily. Perhaps the right hon. and learned Member for Camberwell and Peckham (Ms Harman) will remark on that further; I will do so in my comments later.
+
+Exemplary damages will be awarded only in the most serious cases, in line with both the Leveson report and the report of the 1997 Law Commission. The test for the award will be: where the defendant’s conduct has shown a deliberate or reckless disregard of an outrageous nature for the claimant’s rights; where conduct is such that the court should punish the defendant for it; and where other remedies would not be adequate to punish that conduct. The supplementary new clauses ensure that the new exemplary damages system works in practice.
+
+New clause 22 sets out factors that the court must take into account in deciding whether an award of exemplary damages is appropriate, and whether membership of an improved regulator was available to the defendant at the time of the events giving rise to the claims. If so, what reasons the defendant had for not being a member are factors that can be considered. The court must also have regard, so far as it is relevant, to whether the defendant has internal compliance procedures of a satisfactory nature in place and how they are adhered to.
+
+Sir Edward Garnier (Harborough) (Con)
+I wonder whether my right hon. Friend could provide me with some clarification. She says that the exemplary damages  regime will apply as per the new clauses and so on. One of the exclusions from the definition of a “relevant publisher”, which she will find in new schedule 5, is:
+
+“A person who publishes a title that relates to a particular pastime, hobby, trade, business, industry or profession”.
+
+Maybe the “hobby” relates to the point made by my hon. Friend the Member for North East Somerset (Jacob Rees-Mogg). What is the position of an irrelevant publisher, if I can describe him as that, who publishes a magazine or some other publication about a pastime, hobby or trade, but who none the less behaves within the terms of Rookes v. Barnard? Would the court still be able to award exemplary damages in that circumstance?
+
+Maria Miller
+My hon. and learned Friend raises an issue in which he is well versed. If I do not provide a complete answer, then I will get back to him with all the details. Clearly, if somebody is not a relevant publisher then they are not drawn into the self-regulatory scheme. They would not be subject to exemplary damages or be eligible for the scheme. Therefore, they would not be caught within this remit. We have so drawn the definition of “relevant publishers” to ensure that the scheme does not catch people we do not need to catch, and that is why we have been careful to set out the three tests in new clause 29—to ensure that we are clear about who is covered. Some individual organisations might well fall close to the line, but then it would be for the courts to decide.
+
+New clause 23 sets out matters to which the court must have regard in deciding the amount of exemplary damages appropriate, and the key principles governing the court’s consideration are that the amount should be no more
+
+“than the minimum needed to punish the defendant for the conduct complained of”
+
+and that it should be “proportionate”. New clauses 24 and 25 ensure that those provisions will operate effectively in cases involving more than one claimant or defendant.
+
+For completeness, I shall also mention new clause 26 and amendment 121A. New clause 26 implements recommendation 71 in Lord Justice Leveson’s report and confirms that, in cases under the new system, aggravated damages should be awarded only to compensate for mental distress and should have no punitive element. Amendment 121A provides that the provisions on exemplary damages come into force one year after the date on which the body is established by royal charter. That will be a powerful incentive to the press to establish the new regulator on a timely basis. For all their rarity, the availability of exemplary damages should send a powerful signal to publishers.
+
+I turn to the provisions relating to costs in new clause 27A. The proposals are designed to give further real and powerful incentives and give effect to Lord Justice Leveson’s recommendation that the award of costs should be another tool to encourage publishers to join the regulator. The new clause would provide a clear presumption that where a claimant took a publisher inside the regulator to court, even if the claimant was successful, the normal rule that their costs would be met by a losing publisher would not apply. In other words, a defendant publisher that had joined the regulator should pay a claimant’s costs only in limited circumstances—if  the issue could have been resolved at arbitration, had the defendant agreed to its being referred, or if it was just and equitable for the defendant to pay the claimant’s costs.
+
+Guy Opperman (Hexham) (Con)
+The fundamental problem is not necessarily the costs paid at the end of the case, but the costs of a litigant’s bringing an action against a publisher. I and my hon. and learned Friend the Member for Harborough (Sir Edward Garnier) have represented many individuals who would have struggled to bring such actions without protections. Will the Secretary of State advise the House of what protections are in place, and may I highly recommend the protective costs order regime that provides protection to an impoverished, but justified, litigant as against a very wealthy publisher?
+
+Maria Miller
+My hon. Friend pre-empts something that I will cover in more detail later. I will not only deal with the cost regime, but explain that to comply with Leveson the new self-regulatory regime will include free arbitration, so giving those individuals the access to justice that he rightly says they should have.
+
+New clause 27A establishes a second presumption—that a relevant publisher that chooses to stay outside the regulator would generally have costs awarded against it in proceedings for media tort, whether or not the claim is successful. In other words, a defendant publisher that does not join the regulator should always pay the claimant’s costs, unless the issue could not have been resolved at arbitration if the publisher had been a member of a regulator, or unless it were just and equitable for the defendant publisher not to pay those costs. These provisions deal with defendants and the costs they should or should not pay to claimants. The issue of claimants and the costs they might have to pay to defendants is also important and is addressed in subsection (5).
+
+Lord Justice Leveson endorsed Lord Justice Jackson’s recommendation that qualified one-way cost shifting should be introduced for defamation and privacy cases. QOCS is a form of cost protection. The Government accepted that recommendation, and we have asked the Civil Justice Council, chaired by the Master of the Rolls, to make recommendations by the end of this month on appropriate cost protection measures to be introduced for defamation and privacy cases. The Government then expect to introduce a cost protection regime through the civil procedure rules.
+
+Let us be clear: the new provisions on the awarding of costs, coupled with the provisions I have set out on exemplary damages, provide a powerful incentive to join the regulator and for disputes to be resolved through arbitration that meets the standards set out in the royal charter. Those defined as a “relevant publisher” for the purposes of the new legislation will, if they choose to sit outside the regulator, be exposed to the full force of the new exemplary damages and costs provisions. We want to ensure that the new provisions act as a powerful incentive—as I am sure you can hear me say, Mr Deputy Speaker—but we do not want to draw in too broad a range of publishers.
+
+Mark Reckless (Rochester and Strood) (Con)
+Is it not the case that the incentives are so powerful—with the exemplary damages and the requirement to pay the  other side’s costs, even if their claim may be very poor —that, in essence, we are almost forcing the press into joining the new regulator and being subject to the regulation framework determined by Ministers through the Privy Council?
+
+Maria Miller
+I gently remind my hon. Friend that the criteria used in reaching judgments will not be determined by Ministers, as he will know from the earlier debate. The reason we are establishing a royal charter is exactly so that all this is put very much at arm’s length from Ministers. I suggest to him that every publisher has a choice it can weigh up. Publishers can come inside the self-regulatory process and get the support of the regime for exemplary damages and costs, or they can choose to stay outside. That was absolutely the essence of Lord Justice Leveson’s recommendation not to have compulsion, and that is why the Prime Minister and I were so against taking a statutory approach—because we did not feel the press would want to take part in such a regime, which would be a fundamental weakness in the system.
+
+Mark Reckless
+But is it not the case that Ministers, albeit with senior members of the Opposition, have agreed the royal charter on Privy Council terms—in some ways that is worse than statutory regulation, because MPs have had no opportunity to debate it on behalf of our constituents—and that in many cases the only choice the media face will be whether to join or be bankrupted?
+
+Maria Miller
+I would say to my hon. Friend that when I have heard people talk about the approach they want the Government to take, they say that they want regulation of the press to be very much at arm’s length from politicians. What we are talking about is a self-regulatory body for the press, set up by the press. The royal charter is a verification panel that will ensure that the press is doing what it should do. It will not be under the eyes of Ministers; it will be independent. However, I urge him to look at the detail of the charter so that he does not take just my word for it, but sees it written down in black and white.
+
+Guy Opperman
+Will my right hon. Friend give way?
+
+Maria Miller
+There are lots of people who want to take part in the debate on these amendments, so if my hon. Friend lets me make a little progress, perhaps he can intervene on me a little later.
+
+In new clause 29 we set out a definition of “relevant publisher” that captures national newspapers and their online editions, local and regional newspapers and their online editions, and online-only edited press-like content providers, as well as gossip and lifestyle magazines. Exemplary damages and costs are designed to catch larger news publishers—those at the centre of the circumstances giving rise to Leveson. As highlighted by my hon. Friend the Member for Colchester (Sir Bob Russell), who is no longer in his place, many of those are not necessarily the smaller publications.
+
+20:45:00
+
+The new provisions will act as the key incentive for joining the new press regulator. However, our new clause is also designed to protect people who are not intended  to be covered by the new regulator. Three interlocking tests will apply in that regard. They ask whether the publication is publishing news-related material in the course of a business, whether its material is written by a range of authors and whether that material is subject to editorial control. This provision aims to protect small-scale bloggers and the like. Together with new schedule 5, it will ensure that the publishers of special interest, hobby and trade titles such as the Angling Times and the wine magazine Decanter are not caught in the regime. Student and not-for-profit community newspapers such as the one mentioned by my hon. Friend the Member for North East Somerset (Jacob Rees-Mogg) will not be caught, and scientific journals, periodicals and book publishers will also be left outside the definition and therefore not exposed to the exemplary damages and costs regime.
+
+Jacob Rees-Mogg
+We in this corner of the Chamber have been discussing definitions and wondering which magazines would count as hobby magazines. How, for example, would my right hon. Friend define Hello! magazine? It is surely not a newspaper, given that it indulges in the publication of gossip and celebrity pictures. Would it be covered, or would it be exempt, and who will decide where the line is to be drawn?
+
+Maria Miller
+My hon. Friend tempts me to repeat what I have just said, but perhaps he should read Hansard or the Bill instead.
+
+New clause 29 describes in great detail who will be caught by the definition of “relevant publisher”. The publisher would have to meet the three tests of whether the publication is publishing news-related material in the course of a business, whether their material is written by a range of authors—this would exclude a one-man band or a single blogger—and whether that material is subject to editorial control. This is specifically designed to protect small-scale bloggers. Lone bloggers clearly do not meet those criteria. I hope that that clarifies that point.
+
+Mr Richard Bacon (South Norfolk) (Con)
+One could easily envisage a railway enthusiasts’ magazine which had a range of authors whose material was subject to editorial control but which many people would nevertheless consider to be a hobby magazine. It would fall outside the regime because it was aimed solely at enthusiasts. What would happen, however, if such a magazine were to get hold of some information, perhaps confidential information, about High Speed 2? Would it then be caught by the regime? Does my right hon. Friend not see the path that she is going down?
+
+Maria Miller
+We have clearly set out the direction that we are going in, and it is there in the information for my hon. Friend to read. Ultimately, the court will decide whether any particular issues fall near the line. If a publication is concerned about whether it would be caught by the new regime, it can of course seek legal advice, but we have done a great deal to make this clear to individual publications. I am sorry—I did not make it clear to my hon. Friend the Member for North East Somerset whether Hello! magazine would be caught by the provisions. Yes, it will be. People tell me that it is a gossip magazine. I am not a regular purchaser of it.
+
+Mark Durkan (Foyle) (SDLP)
+The Minister mentioned publications that would not fall into the category of “relevant publisher”. If a publication posing as a constituency newsletter—perhaps with a title like Target Marginal South—were to make a serious allegation against someone in another party, what would happen if a relevant publisher were to pick up the story and publish it? Where would they stand if they published a controversial story that had originally been published by a non-relevant publisher?
+
+Maria Miller
+I am sure that the hon. Gentleman knows that such instances already arise and that they are covered by the normal laws of libel. That would continue to be the case because those organisations would not be deemed to be relevant publishers. The normal laws would therefore be in play. Hopefully, that provides him with some clarification.
+
+In conclusion, getting the balance of incentives right is clearly important, as it was really important in the Leveson report. We are, I believe, striking a balance through these amendments that will present a tough new system of press regulation, but equally one that does not compromise the freedom of the press or investigative journalism. We are all clear that investigative journalism and freedom of the press should be given paramount importance in the process. Throughout cross-party talks, we agreed a set of proposals that will create a tough new system of self-regulation.
+
+I believe the package put in front of us all today provides real incentives with real effect. It embodies a crucial part of Lord Justice Leveson’s proposals and part of the tough new regime for press regulation. These amendments have been put forward with cross-party support, so I commend them to the House.
+
+Ms Harriet Harman (Camberwell and Peckham) (Lab)
+I rise to support the Government new clauses in the group and the manuscript new clauses standing in the name of the Prime Minister, the Secretary of State, the Deputy Prime Minister and the Leader of the Opposition. The manuscript new clauses arise out of the cross-party talks, into which I thank the Secretary of State for inviting us. That explains why hon. Members have not, I am afraid, had much time to look at them. We all want to be sure that hon. Members have the opportunity to scrutinise provisions in advance, but because we worked late into the night in attempting to agree them, they have been brought before the House with inadequate notice. I offer my apologies for that.
+
+I hope to add to the points made by the Secretary of State, with which I greatly agree. Also, because hon. Members have not had much chance to look at the manuscript amendments and consider what they mean, I shall try to explain my understanding of how they sit with the new framework set out in the royal charter.
+
+As the Secretary of State has said, the choice Leveson made was not to impose direct regulation on newspapers as a complaints system, but to invite them instead to set up their own regulation system and to encourage subscribers to it, not only because it is a good idea as the framework is fair and reasonable, but because incentives and disincentives have been provided. That, of course, leaves the choice to them—the point of incentives and disincentives is that they incentivise and disincentivise—but encourages them to go into the new regime.
+
+It is also crucial—this is a major change—that a new arbitration system is being set up. Over the years, people have wrung their hands about how inaccessible the courts are to people who have been defamed, while newspapers have wrung their hands about being tied up for ages with the enormous costs that can arise if some oligarch takes a newspaper to court. Importantly, therefore, arising from the Leveson report is not just a new complaints system but a new arbitration system. Media torts, defamation and privacy claims that would otherwise have gone to court will instead go into the arbitration system. The manuscript new clauses on cost will incentivise not only newspapers but individual complainants to go into an arbitration system and not straight to court. There is an incentive for a complainant who wants to bring an action against a newspaper that is a member of a regulatory body to agree to arbitration, which will be available to members of the body and which will be run inexpensively. A complainant who does not want to go to arbitration, who says “I will take my chances in court” and who then wins the case will not win the costs, and costs may be awarded against that complainant. Arbitration will involve no cost to complainants, and they will benefit from a top-rate, legally kosher procedure without having to go to court.
+
+Guy Opperman
+rose—
+
+Ms Harman
+If the hon. Gentleman is going to ask me a difficult, complicated question, I can tell him the answer. It is “The Secretary of State will respond on my behalf.” However, he is welcome to ask the question anyway.
+
+Guy Opperman
+I am delighted to observe that the Labour party studied the legislation in such detail before presenting it.
+
+I should probably declare that I am a qualified mediator and arbitrator. Under the current system, people involved in arbitration can appeal against the process if they are not happy with it, and the litigation can begin anew. Would that arrangement continue, and how would an individual litigant defamed by a newspaper or any other publication bring an action, given that—contrary to what the right hon. and learned Lady has just said—the costs of arbitration are very high?
+
+Ms Harman
+The royal charter requires the regulator to provide for an inexpensively run arbitration service which will impose no costs on complainants. As the hon. Gentleman will know, things can happen further along the chain after arbitration has been agreed to, but the essence of arbitration is that both sides embark on it agreeing that the arbitrator will settle the issue.
+
+I think that this will be a great step forward, because it will deal with the problem of inaccessibility. Most people who are defamed, or whose privacy has been invaded in what is termed a media tort, would never dream of being able to go to court, although many lawyers are prepared to act on the basis of conditional fee arrangements. A free-to-use arbitration service is therefore an important component of the Leveson package contained in the royal charter. It is good news for claimants, but it also means that newspapers will be well and truly incentivised not to remain outside the regulatory body. If they are not in the regulatory body and arbitration  is therefore not available to those who may complain about them, it is possible that when the case goes to court, costs will be awarded against them even if they win.
+
+Sir Edward Garnier
+rose—
+
+Ms Harman
+That is how we understand that the system will work. May I invite the hon. and learned Member for Harborough (Sir Edward Garnier) to answer his question at the same time as asking it? I suspect that he thinks he knows the answer better than I do. He does not, but he probably thinks he does.
+
+Sir Edward Garnier
+What a charming way of allowing an intervention! I should have thought that a fellow member of the former Solicitor-Generals’ club would be a little more polite to me. I shall have to take our dispute to arbitration as soon as possible.
+
+There is no doubt that the proposal presented by the Government, and agreed to by the Opposition, to encourage people to become members of the regulatory body and to make use of an arbitration scheme has its attractions, but I think that the right hon. and learned Lady and my right hon. Friend the Secretary of State should be careful not to be seduced into thinking that arbitration equals no expense, no time, and simplicity. The sorts of cases that go to arbitration can be just as complicated as those which go to court and the expense involved in a fully tuned-up arbitration is no less than that of a piece of litigation. So this is a jolly good idea and let us all say how wonderful it is, but let us not seduce ourselves into thinking that arbitration is some magic answer, because there will be plenty of cases where the interlocutory procedures will be far too complicated for speedy mediation or arbitration under the regulatory scheme.
+
+21:00:00
+
+Ms Harman
+I am well aware that many arbitration cases are incredibly complex—for example, those in the construction industry. However, one thing that the recogniser established under the royal charter is charged to do is to see that the regulator, which is coming forward to seek recognition, has an inexpensive arbitration system. Obviously, it is not automatic that an arbitration system will be inexpensive—it could be very expensive—but the regulator, seeking recognition, has an opportunity to put forward a brand new system that starts off by trying to be as inexpensive as possible; it is free of cost for the complainant but there are the costs of running it. I apologise for my slightly waspish response to the hon. and learned Gentleman’s intervention; I must have been trying to get my defence in first.
+
+That deals with the point about arbitration and costs, and I now wish to deal with the issue of exemplary damages. Obviously, the bar for those is set very high and they are rarely awarded. As hon. Members will know, they occur where the court wants not only to quantify the compensation for the claimant’s suffering and loss—mental, physical and financial—but to teach the defendant a lesson. Sometimes called punitive damages, exemplary damages are awarded to make an example; they are like a public policy intervention that gives a good bonus to the claimant, because the court wants to teach the defendant a lesson and so imposes extra damages.
+
+New clause 21A sets the bar for exemplary damages very high, as it provides that the “defendant’s conduct” must have
+
+“shown a deliberate or reckless disregard of an outrageous nature for the claimant’s rights”.
+
+In addition, the conduct must have been
+
+“such that the court should punish the defendant for it”.
+
+We know what we are dealing with here—very extreme conduct.
+
+Mr John Redwood (Wokingham) (Con)
+We are being asked to legislate for exemplary damages here in this House, so does that mean that this really is a statutory system and that the right hon. and learned Lady won?
+
+Ms Harman
+No, because there is no statute that says, “We are setting up a system and we are passing a law to make all the newspapers be in it.” The newspapers have a choice as to whether or not they enter the system. However, the point is that we are incentivising them to enter it and disincentivising them from staying outside. They could make a judgment that they want to stay outside. They could decide that they do not want to go to arbitration and that they will take their chances with the court. They might decide that they will be so careful that they will never commit a media tort, and even if they did, that they would never get anywhere near the “outrageous” behaviour that would justify exemplary damages and so would not need to worry about that. I hope that they will not take the view. I hope they will think that, even if they are not behaving outrageously, they would want to shelter themselves from the prospect of exemplary damages. I hope that they will go into the system willingly. Exemplary damages will still be available to the courts to award against people who are in the regulator, but it is more or less a presumption that those people will not be in it. That is a major disincentive.
+
+Mel Stride (Central Devon) (Con)
+There is clearly a very strong disincentive to go into the scheme for those who might qualify, but there is a grey area about which publications should fall within the scope of the scheme. Would it be possible under these arrangements for those publications that might not be sure to establish whether they should or could qualify for the scheme?
+
+Ms Harman
+Any publication could apply to be a member of a regulator. It would find out whether it came within the purview of that regulator, as the regulator might reply saying, “Sorry, we don’t regulate you.”
+
+Exemplary damages simply give newspapers another incentive to join the regulator. The court is left with the opportunity to award exemplary damages, only in much narrower circumstances. I hope that all the newspapers—including those that did not agree with the setting up of the Leveson inquiry, with how Lord Leveson took evidence or with his report—will propose regulators and join them now that the report has been published and all parties have agreed that we should have the royal charter and the accompanying bits of statute. I am sure that the Secretary of State, the Deputy Prime Minister and the Prime Minister will want to do everything they can to say to the press, as the Prime Minister said in today’s debate, that it is impossible for the newspapers to hold the powerful to account if they are abusing their own power. A good complaints system, which is respected  and has public confidence, is a good thing in principle, so it is important that the newspapers step forward and join the regulator.
+
+After Leveson reported, he said that the ball was now in the politicians’ court. He asked us all to work together to agree and we did. Now, the ball is in the press’s court and I hope that they will rise to that challenge.
+
+Mr Bacon
+I am listening to the right hon. and learned Lady with interest, although she reminds me of George Orwell’s comment about the sort of people who play with fire without knowing that fire is hot. That comment is directed at those on both Front Benches, including my right hon. Friend the Secretary of State, who is a very old friend. They have no idea what they are playing with—no idea. Does the right hon. and learned Lady not understand that one person’s outrageous behaviour is another person’s sensible and moderate behaviour? Does she not understand that after Lord Hutton issued his whitewash report, some of those who criticised it were accused of acting outrageously?
+
+Ms Harman
+We are not talking about any old person’s view of deliberate or reckless disregard or conduct of an outrageous nature. We are not talking about my view of what might constitute deliberate or reckless disregard or conduct of an outrageous nature, or even the view of the Secretary of State. We are talking about the judge’s view—not any old person but a judicial personage—
+
+Mr Bacon
+Lord Hutton was a judge.
+
+Ms Harman
+The hon. Gentleman needs to calm down and relax. We are giving the courts an opportunity to exercise their judgment so that when something is so outrageous that they do not think that the normal quantum of damages assessed on what has been suffered is enough, they can add to it. It is right that that should apply to media torts.
+
+As I have said, Lord Justice Leveson urged us all to work together and we have. The Secretary of State invited us to cross-party talks and I thank Lord Wallace, who was the Liberal Democrat there. It just goes to show that one should not believe what one reads in the newspapers. I had read a lot about the Minister for Government Policy, the right hon. Member for West Dorset (Mr Letwin),in the newspapers and thought he was an absent-minded professor type who was absolutely ditsy. I had read it in the newspapers, so I thought it must be true—[Interruption.] He is now in the Chamber. I discovered that it was not at all like that, and that he was very intelligent and purposeful. He played a key part in reaching this agreement, which is very important indeed.
+
+We were ably assisted by a number of the Culture Secretary’s Conservative colleagues. I do not want to do what my right hon. Friend the Member for Exeter (Mr Bradshaw) did and blight their reputations, but we found it incredibly helpful to be joined at our very long meetings—we had one meeting that lasted seven hours—by the hon. Members for Camborne and Redruth (George Eustice), for Stratford-on-Avon (Nadhim Zahawi), for South Swindon (Mr Buckland) and for Richmond Park (Zac Goldsmith) and the right hon. Member for Bermondsey and Old Southwark (Simon Hughes).
+
+We tried to work on a cross-party basis because what the press have always done in the past is divide and rule. They have always sought to play one party off against another. We have to win elections, so having the press shining a light on us and saying how great we are is very tempting. It is hard to win the support of the voters. If we have the backing of the press, it seems much easier, especially if they are slagging off our opponents. That is what the press have always relied on—that we have never worked together to put a proper complaints system in place, but have allowed the press to divide us and rule.
+
+Sir Bob Russell
+Would the right hon. and learned Lady like to clarify that? Will she make it clear that when she refers to the press, she is referring to elements of the national press, not the local or the provincial press? They have got caught up in this, and they are not responsible.
+
+Ms Harman
+The Leader of the Opposition, the Prime Minister and the Deputy Prime Minister all acknowledged that successive Governments have not taken action to put in place a proper, sensible, reasonable complaints system, not because of the regional or local press, but because of the power of the national press, particularly the monopolistic power of the national press. We will have to move on to the question of monopolistic ownership, but not now because we are exhausted. However, the regional and local press have nothing to fear from having good standards and having a complaints system. One of the reasons why we worked to narrow the arbitration system was the great fears of the regional and local press. We know that they are facing very tough times so we do not want to do anything to make matters more difficult for them.
+
+I agree with the hon. Member for South Dorset (Richard Drax), who is no longer in his place. He said there was something uncomfortable about dealing with matters behind closed doors. The royal charter is an agreement that is not subject to scrutiny. It does not go before a Committee or to the House of Lords. It drifts by in a flash, then it is up to the Privy Council. However, we cannot have it both ways. We can have Parliament crawling over legislation that applies to the press, which makes the press feel very uncomfortable and makes the Prime Minister apparently feel neuralgic. I do not have the same sensitivities, but apparently the Government do. We can avoid that through the royal charter process, in which case there is no parliamentary scrutiny. We cannot have both, and the choice has been to have a royal charter and a self-regulatory system, without parliamentary scrutiny of it, beyond the discussion that we have had.
+
+In that respect, I shall mention one issue which is not the subject of the amendments but which comes into the question of the charter. I refer to conscience clauses for journalists. Many journalists gave evidence to Leveson and said, “We knew that we were being asked to do things that were in breach of the code and we wanted not to do them, but we feared that we would be sacked if we said, ‘We won’t do this.’” Journalists talked of being asked to do outrageous things but because it is so difficult, and fearing that if they lost their job they would never get another, they never dared speak up.Lord Justice Leveson proposed that the industry and the  regulatory body should consider encouraging conscience clauses in journalists’ contracts. The relevant new clause has not been selected, so I will not mention it because that would be out of order. However, in schedule 2, on page 13 of the charter, which hon. Members have had scant opportunity to look at, there is what the Foreign Office calls a brush past. Basically, this is mentioned in paragraph 4.
+
+21:15:00
+
+I hope that we will see people getting cheaper arbitration. I hope that fewer people will need to go to arbitration because of media torts. I hope that the higher levels of accountability will make the newspapers more careful—not to chill freedom of speech, but just to respect the civil law and their own code of conduct. I hope that there will be higher standards so that we do not have masses of apologies all over the front pages, because they will have thought before they write a story : is it accurate, is it fair, is it truthful? That will be better for the readers as well as those who write the story. We are not at the end of the process, but at the beginning. I hope we will continue to work together to protect the freedom of the press, recognising that we can have a free press but also protect those who have suffered horribly from abuse.
+
+I finish on the question of Hacked Off, because people have accused the Labour party of being its political wing. I would say that they should think for a moment about what it must be like to suffer the disappearance of one’s child, as happened to Milly Dowler’s family and the McCanns. Those people had never had any exposure to or relationship with newspapers, but found that they were dealing not only with the most horrific personal tragedy but that their lives were turned upside down by the newspapers. People should think about the absolute sense of grief and the inability of every family member to deal with what was happening.
+
+By bringing together the victims of this awful press abuse, Hacked Off enabled them to support each other, to be in a network with other people who had some sense of what they had gone through. It enabled them to move from being just victims to people who were able to speak at the Leveson inquiry, which took the most enormous courage. If the thing that one wants most of all is not to be in the newspapers, stepping forward into the spotlight and giving evidence at such an inquiry was an incredibly brave thing for the Dowlers, the McCanns and the Watsons to have done and, indeed, for people such as J.K. Rowling and Charlotte Church. Hacked Off enabled them to be not just victims, trying to cope with their lives, but agents for change, to improve public policy. As the Leader of the Opposition said, I do not think we would be here today if they had not had that courage and bravery. Hacked Off helped them play that role, so I make no apology for our relationship with Hacked Off, and I pay tribute to the work that it has done.
+
+Sir Edward Garnier
+I thank the Secretary of State for Culture, Media and Sport, my right hon. Friend the Member for Basingstoke (Maria Miller), and the right hon. and learned Member for Camberwell and Peckham (Ms Harman) for introducing this section of the debate. It is clear that Members on both sides of the Chamber have worked extremely hard to bring the matter to a head. As I said in the debate opened earlier by the  Prime Minister, everyone must be congratulated, but we must not oversell it or exaggerate the claims for the solution that may have been found.
+
+I was interested in looking at some of the new clauses and new schedules to see that the statutory framework that seems to have been set down for the Crime and Courts Bill makes some changes to the law, but only up to a point. If one looks at new clause 21A, provision is made for the award of exemplary damages unless the defendant was a relevant publisher. But that is cancelled because the court can disregard subsection (2), and that is cancelled because under subsection (4) the court is not prevented from making an award of exemplary damages for other reasons. It rather disappears up its own grammar—I was about to use a rather unparliamentary term. We might need at some stage to reconsider the English used in the new clause if it is to be understood by the people we wish it to attract.
+
+The other point we ought to think about—something my hon. Friend the Member for Hexham (Guy Opperman) and I were discussing only a moment ago—is that we must be careful not to set up two regimes for exemplary damages. There already exists a common law regime for exemplary or punitive damages. Broadly, it is available where a state actor has behaved in an unconstitutional or high-handed fashion, for example when the police or the Prison Service grossly misbehaves in relation to someone in custody. That example is perfectly easy to describe: the court will award punitive and exemplary damages to mark society’s disapproval of the behaviour of that arm of the state.
+
+Guy Opperman
+Does my hon. and learned Friend agree that there appears to be, in effect, almost a mirror image of the common law system of exemplary damages? Under the present system, which he rightly describes, for an unlawful arrest involving a police officer verballing an innocent defendant, for example, a judge would give exemplary damages. Surely that would be mirrored in exactly the same way in the provisions proposed in the new clause. All that might be good, but surely those provisions would apply on an ongoing basis in any event. Does he agree that the concern is that the provision on exemplary damages does not necessarily change the common law?
+
+Sir Edward Garnier
+I think that I largely agree with my hon. Friend. The first limb relates to unconstitutional state behaviour, which he described and I mentioned, but the second limb relates to situations in which, under the common law, the defendant has calculated that the gain he could make from the civil wrong he commits will lead to greater profit for him than any potential damages he might have to pay as compensation to the wronged person. The court can recognise that by punishing the defendant, and deterring others from doing the same thing, through the separate and additional award of exemplary damages. Those two limbs of the exemplary damages regime are well described in the 1964 case of Rookes v. Barnard, but I will bore the House no further on that.
+
+What we are creating is a regime that will be similar to the common law regime but not exactly the same and that will be limited to “relevant publishers”. We need to think carefully about whether we are setting up two systems that are close, but not quite parallel, for securing  exemplary damages. While we are legislating to adjust exemplary damages for the perfectly sensible and understandable motive of encouraging newspaper publishers, or those who will become “relevant publishers”, to enter a scheme under a regulator, I wonder whether we ought to bring together everything relating to exemplary damages under one statutory umbrella. I say that not simply because I think that it would be neater, but also because of what is said in subsection (4) of new clause 30, which defines a relevant claim. It states:
+
+‘“Relevant claim” means a civil claim made in respect of any of the following—
+
+(a) libel;
+
+(b) slander;
+
+(c) breach of confidence;
+
+(d) misuse of private information;
+
+(e) malicious falsehood;
+
+(f) harassment.’
+
+Under the common law, libel, slander and malicious falsehood are already susceptible to punitive and exemplary damages, but as we know from Max Mosley’s case against Mirror Group Newspapers—I will not rehearse the facts of the case—the judge, when asked to award exemplary damages to the claimant in respect of the behaviour of the defendant newspaper, said, “Under the common law I do not think that I can extend the ambit of exemplary damages beyond the categories of libel and slander and so forth to a claim involving a breach of confidence or the misuse of private information.”
+
+In the Bill we are extending by statute what that judge could not do, but we are extending it only to cases involving “relevant publishers”; we are not extending it to what I will crudely call “irrelevant publishers” or individual defendants who might misbehave in such a way that brings them within the regime of either of the two limbs of exemplary damages. I do not want there to be two separate types of exemplary damages. One statutory system should govern the consideration and awarding of exemplary damages, not one and a half or two systems. I urge the Government to consider this when they are thinking about how to take these matters forward. Perhaps having done so they will think that my concerns are of no importance or account, but I raise them nevertheless, admittedly in the light of having seen the document only during the course of this afternoon.
+
+New clause 27A on the award of costs mirrors the arguments about exemplary damages. I entirely understand that the policy behind exemplary damages and the statutory costs regime as described in this set of manuscript amendments is intended to incentivise relevant publishers to come within the regulatory scheme. That is understood and perfectly sensible. However, we are in danger of misleading ourselves if we think that that is going to lead to easy and early resolution of media disputes. A moment ago I had a brief discussion with the right hon. and learned Member for Camberwell and Peckham (Ms Harman) on arbitration and so forth. New clause 27A(2) —I will read it, if I may, because it might be helpful—says:
+
+“If the defendant was a member of an approved regulator at the time when the claim was commenced (or was unable to be a member at that time for reasons beyond the defendant’s control or it would have been unreasonable in the circumstances for the defendant to have been a member at that time), the court must  not award costs against the defendant unless satisfied that…the issues raised by the claim could have been resolved by using an arbitration scheme of the approved regulator, or…it is just and equitable in all the circumstances of the case to award costs against the defendant.”
+
+That involves a bit of saying, “On the one hand but then on the other.” It is not quite clear which is the desired policy because there is a bifurcation.
+
+On the question of whether
+
+“the issues raised by the claim could have been resolved by using an arbitration scheme of the approved regulator”,
+
+we would of course first have to see what that arbitration scheme looked like. Going back to the days of the now-no-longer-regretted Press Complaints Commission, that organisation, because of how it was set up and staffed and how the panels of adjudicators were composed, was wholly incapable of dealing with hugely complicated factual issues or with matters that required quite a nice calculation, or a nice discussion, of matters of law.
+
+One might think that it would be very sensible that if a series of grossly defamatory allegations were made in a front-page article in a tabloid newspaper, or any other newspaper, that would lead to a dispute resolution process of the sort envisaged under this regime. Of course, it has a spurious attraction: “Let’s mediate, let’s settle, and let’s get it all dealt with quickly and cheaply and with the least possible intervention by lawyers.” As a matter of theory, that is a jolly good idea, but disputes come in different shapes and sizes. One can have the simplest possible dispute that does not require evidence or looking at complicated documents. I give the example of the meaning of words. If an article is defamatory on the face of it, a professor of English does not need to come and give a lecture about what this word means or that word means. The judge, if he is the arbiter, or the arbitration panel, can say, “This, in its natural and ordinary meaning, bears the following defamatory meaning”—end of story. Then the defendant, or the respondent to the arbitration, can say, “Okay, I accept what you say and I apologise—I didn’t mean that.” If meaning is the only question that has to be considered, some form of early, non-court dispute resolution, assuming that the panel is competent, would be a perfectly sensible way to do it.
+
+Let us assume, however, that four contended meanings can be derived from the words under discussion. The defendant newspaper, be it a relevant publisher or otherwise, may say, “We don’t think that the words have those two highest meanings, but we do think that they have the two lower, less serious and less defamatory meanings. In so far as those meanings are to be derived from the words, we say they are true and we intend to justify them. We will also go further by saying that those meanings are not only true as a matter of fact, but that, in so far as they comprise or include comment, they are honest comment.” That will require the proposed system’s mediation procedure to go into all sorts of complicated questions with regard to the disclosure of relevant evidence, documents and so on.
+
+21:30:00
+
+Guy Opperman
+My hon. and learned Friend is making a very good case. Does he agree that the PCC was notoriously fallible when resolving large newspaper disputes, but very effective at resolving disputes involving local media and newspapers, which genuinely respected and  obeyed its procedures? The danger with the new system, which my hon. and learned Friend is outlining eloquently, is that the local paper will be stuck with the same regulatory process, which is clearly meant to be a sledgehammer, as large national newspapers such as The Sun and the Daily Mirror. I suspect that that will result in the process being more expensive for the smaller paper—
+
+Mr Speaker
+Order. The hon. Gentleman’s intervention is exceptionally lengthy. I know that he has a distinguished record at the bar. If he were being paid by the word he would be greatly enriched, but I trust that he has made his point to his satisfaction. If not, he can always have another go in a moment.
+
+Sir Edward Garnier
+What the PCC was good at was dealing with unfairness—the hideous intrusion on private grief, the doorstepper, the camera coming through the letter box, the knock on the door demanding a photograph of the dead child and so on. The PCC dealt with that extremely well, but what it could not deal with was the multi-issue disputes that I have outlined.
+
+It is not just a question of assessing the truth or falsity of words or of whether they are defensible and honest comment. On honest comment and certain forms of qualified privileged defence, the judge or the arbiter has to consider the question of malice and the respondent newspaper’s motive when it published the words complained of. I do not think, even with the best will in the world, that the proposed arbitration system for relevant publishers, under a recognised regulator, good though it will be, will be sufficiently well breeched and resourced to substitute itself for a disinterested judge when dealing with the case.
+
+When it comes to disciplinary measures or the incentivisation of costs to bring people into this scheme, either as claimants or defendants—this goes back to a point that I made in the earlier debate—it will not be possible to deal with many expensive cases cheaply and quickly. They will need to go to a more formal, court-like, if not court, system. They will require proper arbitration with qualified arbiters, the sifting and assessment of evidence, the judging of witnesses and the reading of lots of documents. Those are functions of any form of arbitration dispute and it will not be quick or cheap.
+
+Richard Drax
+Is my hon. and learned Friend saying that this proposed policy is a complete waste of time and that the system we have is perfectly workable, so long as it is more accessible to the many people who are not well off and cannot afford a listening?
+
+Sir Edward Garnier
+I most certainly am not saying that it is a complete waste of time. I am saying that we should not seduce ourselves into thinking that it will do more than it can. It will be a far better system, all being well, than the PCC. It will have real teeth. It will have the ability to discipline respondent newspapers that are within the scheme by awarding costs and penalties of one sort or another.
+
+The cases in which the new system will award a penalty of £1 million will be so rare as to be unthinkable. I imagine that it will deal with cases rather similar to those that are dealt with under the provisions of the Defamation Act 1996 on summary decisions, for which  there is a limit of £10,000. I suspect that many of the cases that at the moment go to the High Court under those provisions will, if people are sensible, go into the new scheme. It will look at low-level damages, low-level punitive sanctions and cases that do not involve lots of complicated factual and legal issues.
+
+Just because the new system will not look at many cases and just because the cases will not be hugely complicated does not mean that we should not do it; we should. We need access to some form of arbitration system for the people who have been bullied and disturbed by tabloid newspapers sticking their lenses through people’s letterboxes and so on. However, I urge the House not to think that we have suddenly waved a magic wand and that all future disputes will be resolved between victims or individual claimants and large media organisations through a cheap and speedy system; they will not. We ought to be a little cautious about that.
+
+Mark Reckless
+I have been enjoying my hon. and learned Friend’s speech for the past 20 minutes and I believe that the House benefits greatly from his exposition of these concepts. However, I am still unclear whether he supports or opposes what is proposed.
+
+Sir Edward Garnier
+I do apologise if I did not make myself clear. I will try to do so again, but perhaps rather more speedily. I support what is in the measures. It is easy to understand that point, I suspect.
+
+Mark Reckless
+indicated assent.
+
+Sir Edward Garnier
+The second point is that, although I support the measures, I suspect that they will be of limited availability and limited use. However, that they will not solve every problem does not mean that we should not deploy them to solve some problems. As I said a moment ago, the sorts of problems that I think they will be used to solve are those that are currently dealt with summarily under the Defamation Act 1996 with a damages limit of £10,000. There is no suggestion of a damages limit here, but I think that it is in that area of dispute that the system will work. It will be broadly in disputes over meaning, unfairness or beastly behaviour by a newspaper that it will work.
+
+The new system will also bring into the exemplary damages regime, to go back to my first set of arguments, causes of action for which punitive damages cannot currently be received under common law, such as breach of confidence and misuse of private information.
+
+There is a lot to be said in favour of what is proposed. I just urge Members not to get excessively excited about what we are achieving. There will come a time when we have to look at the guts of the regulatory system, including at who is to be on the panels that decide the cases and so on. There is therefore a lot more work for the Minister for Government Policy and the Secretary of State for Culture, Media and Sport to do, with co-operation, I hope, from the Opposition parties and our coalition partners.
+
+I am probably going to the church by way of the moon, but I really do think that much of what has been said today is commendable, but that much of it is too overexcited. Yes, we should celebrate the consensus, but let us not be misled by it.
+
+Michael Connarty (Linlithgow and East Falkirk) (Lab)
+It is a genuine pleasure to follow the hon. and learned Member for Harborough (Sir Edward Garnier), who made a considered and reasonable contribution in a mellow way. It is right to say that the royal charter is not a solution to all the problems that occurred in the past, and that it is possibly not a solution for the future if malevolent forces out there wish to break the law and the arrangements in the charter.
+
+I welcome the Leveson-compliant solution—that is the key: it is Leveson-compliant. I did not take part in the earlier debate, although I listened to all the contributions in what one of my constituents phoned to say was a bit of a love-in in the House of Commons, given the amount of self-congratulation across the Chamber. Let us be frank—I am a very frank person as you know, Mr Speaker: my constituents and the general public know that the Government, the Prime Minister and the Secretary of State were cajoled, bullied and harassed into solving the problem with a Leveson-compliant solution. Let us not avoid that. If MPs had not been present in large enough numbers to vote the Government down, there was no possibility that the weak proposal put forward by the Prime Minister would have been amended to what we have now. That must be said so that people know the truth.
+
+I heard the atrocious comments on the radio this morning by the person I now consider to be not the Minister for Culture, Media and Sport, but the Minister for spin, about dragging the Labour party along and defending the press from the terrible things that the Labour party was going to do through statute. In fact, however, what those on the Labour and Liberal Democrat Front Benches, including the Deputy Prime Minister, sought all along was a Leveson-compliant solution, and that is what we have.
+
+I am worried about the Minister’s approach to the amendments in her speech. She was either incentivising publishers and publications to join up to the charter—I thought that was done in a better and more balanced way by the deputy leader of the Opposition—or it sounded to me that she was trying to assure publishers and publications that if they sign up to the arrangement as amended, they will not find it much more demanding of their own self-discipline than under the discredited Press Complaints Commission. People should read her speech in some detail because lots of signals were put out that I believe were wrong.
+
+This is an opportunity for the press to right the wrongs of the past by signing up to self-discipline through this form of charter. If, however, the system is not more demanding or effective than the Press Complaints Commission, the first time the press create another victim of a new abuse, perhaps of a different sort, Parliament will be brought into serious disrepute. That is what the Leader of the Opposition and the Deputy Prime Minister were trying to avoid by putting together a measure that is Leveson-compliant.
+
+Bob Stewart (Beckenham) (Con)
+I very much hope that the charter will act as a catalyst for good behaviour, as well as everything else. My children were doorstepped in their school when I was in Bosnia and not a public figure, and my mother had her door pushed in and photographs were taken. I hope that the press will try to  regulate itself and stop such things so that they never happen and the press never have to come before any regulator.
+
+Michael Connarty
+I normally lean on the optimistic side—the sun rises every morning; I am glad I am still alive and my heart is still beating. That is two-up for me and I am happy to go on with the day with a positive view. Recently, however, some of my constituents were in Algeria, one of whom was a captive and in the trucks that were bombed. He managed to run away but he had bombs hanging round his neck as he did so. The press insisted on trying to get to that person’s home. I must pay a compliment to MSP colleagues in my constituency, who both happen to be SNP. We agreed that we would not talk to the press or the media, and that we would not give out the names of the people involved. The press still found a way to the family home and tried to get into the house to interview the young people involved, one of whom was still very traumatised by their experience. The press therefore still have a form of approach to the public whereby they see them as another byline without thinking about the consequences of what they do. The charter might help with that. It might not help, as the hon. and learned Member for Harborough said, but I hope it does.
+
+21:45:00
+
+At some time, Parliament must look at the question of media ownership. That is for another day, but we still have the problem. Media ownership by people who are citizens and residents of another country is a great problem we have had to face in the past.
+
+I am glad new clause 21A has been tabled, because new clause 21(2) states:
+
+“Exemplary damages may not be awarded against the defendant in respect of the claim if the defendant was a member of an approved regulator at the material time.”
+
+That is a get-out-of-jail-free clause. Thank goodness we now have clause 21A(3)— this may be the point made by the hon. and learned Gentleman and others—which says that
+
+“if…the approved regulator imposed a penalty on the defendant in respect of the defendant’s conduct or decided not to do so”,
+
+they can still be taken to court. The reality is that we cannot deny people the right to take matters to court, particularly if the regulator has taken a decision that there is a penalty to pay. The penalty might not be sufficient and people might look for further damages. The proposal is a great improvement and I welcome it.
+
+New clause 27A adds to my concerns, because so many excuses are introduced in subsection (2). For example, it states:
+
+“If the defendant was…unable to be a member at that time for reasons beyond the defendant’s control”.
+
+How much money could a good barrister make in arguing the case that the defendant would have become a member if only it had been possible at the time? It goes on to state:
+
+“or it would have been unreasonable in the circumstances for the defendant to have been a member at that time”.
+
+How much money would be made by the legal profession in arguing that one? I am sure the hon. and learned Gentleman would like to give it some thought. That get-out clause is in the Bill but it was not previously,  which worries me, because it is a great defence. The press can say, “Circumstances beyond our control, your honour, meant we didn’t really become part of the scheme, so please don’t treat us as outside the scheme.” In fact, as the Minister has said, they will be targeted for not being compliant and for being unwilling to be self-disciplined or to join up with the royal charter.
+
+That measure is a great worry, and I do not know how the Minister can explain why it is in the Bill. I am sure everyone was trying to be reasonable in the negotiations on the amendments. I am sure the Opposition and the Liberal Democrats tried to be reasonable and said, “Let’s give as much leeway as possible.” We will see whether that leeway is justified. We are asking for a new way of approaching the reporting of news and acting as publishers. They should not take the measure as a get-out clause, but have a genuine reason why they took such slow steps and why their feet were dragged into the self-regulating regime.
+
+New clause 27A(5) leads me to my main point. It refers to the Courts and Legal Services Act 1990. The point about the Act is that its writ does not run in Scotland. I am a Scottish Member of Parliament. The writ of the royal charter runs to all of the United Kingdom, which I welcome, but we have a difficult conundrum in Scotland at the moment. The Scottish Government set up their own inquiry and asked Lord McCluskey to look at the proposals that might be relevant in Scotland. The clauses and amendments we are considering all contain the term “exemplary damages”, but exemplary damages do not exist in Scotland—I am also told that “aggravated damages”, which are also referred to, do not exist in Scottish law. First, we are passing amendments that are to do with England and Wales, and possibly Northern Ireland, but not with Scotland, which has a separate legal system; and, secondly, the measures do not even use terms that would be recognised in Scotland. We have a real problem because this, surely, is a charter for the whole of the United Kingdom—for my constituents, and all constituents in Scotland, as much as anywhere else. We have to find a solution in Scotland that puts into law the same protection for victims, which is the intention of the amendments. I believe they are good amendments, despite my reservations, because they will provide access, protection and redress for those who find that self-regulators are breaking the self-regulating code.
+
+What worries me is that there are no Scottish National party Members here at all. I have spoken with the shadow Secretary of State for Scotland, and had discussions today with members of the Scottish parliamentary Labour group. The statement released by the shadow Secretary of State for Scotland states clearly that we will have to table amendments in Scotland to ensure that this will cover everyone in the United Kingdom, should the Scottish Government choose the Leveson-compliant approach of the royal charter rather than trying to draft their own legislation based on McCluskey.
+
+I hope the message will go out loud and clear from this Chamber. Just as we achieved a solution by all parties coming together, I hope that in Scotland the SNP will sit down with the Labour party, the Liberal Democrats and others, and draft the necessary clauses to change the law in Scotland to introduce the same rights, access and compensation for the people of Scotland that will not be available through these amendments  because they will not apply to them. That is what I hope will happen. We have an excellent example—with some pressure, but with persuasion, in the main, from the deputy leader of the Labour party, the Leader of the Opposition, the Deputy Prime Minister and his representatives—of the Government changing to something that is an all-party solution. I hope that those solutions will be translated into legislation in Scotland, or all of this will mean nothing to the people of Scotland. It will be a charter with no ability to change behaviour. I hope that my colleagues in Scotland are listening; I know that the shadow Secretary of State for Scotland agrees with me.
+
+Several hon. Members
+rose—
+
+Mr Speaker
+Order. Just before I call the right hon. Member for Bermondsey and Old Southwark (Simon Hughes), I will just point out that there are four Members seeking to contribute. The Secretary of State will want briefly to wind up on the new clause, and the knife falls at 10.21 pm. I am sure all Members will wish to take account of that; it would be good to get them all in.
+
+Simon Hughes (Bermondsey and Old Southwark) (LD)
+I rise to thank the Secretary of State for introducing this group of new clauses and amendments, and to support them. They are in the name not just of the Prime Minister, the Secretary of State, the Home Secretary and the Leader of the Opposition, but the Deputy Prime Minister. They are the additional provisions on exemplary damages and costs agreed as a result of the labours of recent days. I have paid tribute to various people, but I just want to add my tribute to my hon. Friend the hon. Member for South Dorset (Richard Drax), who was more thoroughly engaged, and later into the night, than many of us throughout pretty much all of this process. He must be thanked, too.
+
+I am relieved that agreement was reached, because otherwise it would have been my name leading on 10 amendments, new clauses and schedules, and I would have had to explain all the technical matters on exemplary damages, costs and so on, on behalf of the coalition and other parties, instead of the Secretary of State. I therefore thank those who came to the rescue and did the deal. I will make just a couple of simple points and follow your request, Mr Speaker, to make sure there will be time for the other Members who wish to speak.
+
+As we have all done, I went back to what Lord Justice Leveson said on these matters in his report. He was clear, in paragraphs 66 to 70, about what he was seeking to do. He led into that in paragraph 57, in relation to the body he recommended. He stated that it should
+
+“order appropriate redress while encouraging individual newspapers to embrace a more rigorous process for dealing with complaints internally…and provide a fair, quick and inexpensive arbitration service to deal with any civil law claims based upon its members’ publications.”
+
+I agree absolutely with the deputy leader of the Labour party that an arbitration service is an indispensible part of the structure. I hear, of course, what the hon. and learned Member for Harborough (Sir Edward Garnier) said—that that does not necessarily produce a quick, speedy or cheap outcome—but to get something by agreement, rather than full-frontal litigation, is clearly a good thing.
+
+Paragraphs 66 and 67 read:
+
+“The need for incentives…has led me to recommend the provision of an arbitration service… Such a system…would then make it possible to provide an incentive in relation to the costs of civil litigation. The normal rule is that the loser pays the legal costs incurred by the winner but costs recovered are never all the costs incurred”—
+
+everyone who has been to law knows about that—
+
+“and litigation is expensive not only for the loser but frequently for the winner as well. If, by declining to be a part of a regulatory system, a publisher has deprived a claimant of access to a quick, fair, low cost arbitration of the type I have proposed, the Civil Procedure Rules (governing civil litigation) could permit the court to deprive that publisher of its costs of litigation in privacy, defamation and other media cases, even if it had been successful.”
+
+Lord Justice Leveson then sets out how that would happen in relation to exemplary damages, and concludes in paragraph 69:
+
+“Such a system would also work the other way round. If an extremely wealthy claimant wished to force a newspaper publisher that was a member of the regulatory body into litigation (in the hope that the financial risk would compel settlement), it would be open to the publisher to argue that having provided a recognised low cost arbitral route, that claimant, even if successful, should be deprived of costs, simply because there was another, reasonable and cheap route to justice which could have been followed.”
+
+Then there is an easy-to-understand set of recommendations at the back of the Lord Justice Leveson’s introduction on the process for damages.
+
+The really good thing is that, without anybody, including the Secretary of State, pretending that the drafting is perfect for all time, those of us who were involved in the discussions have sought to strike a balance: if a publisher is part of the system, the presumption—I use the word in a non-legalistic way—will be that it will not be subject to exemplary damages, but if it is outside the system, the presumption will be that it could be subject to them. It is not quite that straightforward, but that was the general idea—and it was a good idea. It is an incentive-disincentive system, which was what everybody was working towards, so I join others in calling on the press to join up. If they do, there will be a system ready for them to make. This is not a pre-made system. The starting point is the existing code, but it will be up to the press to make the system work, and we all encourage them to do that. I am glad, then, that we have a platform from which to proceed.
+
+I want to make three final points. First, I understand that further amendments might be necessary. The House of Lords has that opportunity, and the Liberal Democrat team is certainly willing to collaborate with Conservative colleagues, Labour colleagues and colleagues from elsewhere to ensure that we get it right, if we need to make further, more technical amendments in the Lords. We have time to do it. Secondly, I join others in thanking Hacked Off, which became the assembly of people speaking on behalf of victims. It was hard work at times, as all of us who were in the negotiations know, but it had a justified case. Its job was to remind us why we went down this road and, rightfully, to hold our feet to the fire and ensure that we did not forget why we were doing this. It is about the lives of people not in the public gaze.
+
+Finally, we have referred to people—the McCanns, the Dowlers and others have been cited—who suddenly find themselves unexpectedly in the public eye. The  other people referred to by at least one colleague are those who become part of the public commentary simply by their association with somebody who is in the public eye. That is equally unacceptable. It is the children, the mother, the elderly parent, the former wife, husband or partner, the friend or the associate—those people often get dragged in completely unwittingly. Perhaps they happened to be in a photograph or were at the house when somebody knocked on the door. We have to have a system that understands that if there is due cause for complaint about a politician, a sports celebrity or a business person, that is fine, but that does not mean that anyone has a free rein to go after all the other people who are absolutely innocent appendages to their lives, which happen to be public lives.
+
+Richard Drax
+Is the right hon. Gentleman saying that if a journalist goes to someone’s door and there are other people in the house, the press should be stopped from commenting on them? If that is the case, who on earth is going to make those judgments, when so many stories we read involve other people? It is never just one person; there are always other people involved in a story.
+
+22:00:00
+
+Simon Hughes
+I do not want to elaborate—I want to sit down and let others get in—but let me give an example. I refer my hon. Friend to Lord Justice Leveson’s inquiry—to the evidence he took and the commentary he made in his report. He made the case that people who are associated with others can get swept into the press’s undermining or attacks entirely unjustifiably. The example given by one of our hon. Friends was that of an elderly mother who is nothing to do with the individual concerned—she lives somewhere else, in another house—but is pursued by the press, who go after her, knock on her door, go up her drive, sit outside her house and have cameras focused on it, drilling her with questions and trying to get things out of her. We are talking about people who are totally ill-equipped and unprepared for that degree of exposure and who never asked for it. Obviously I am not seeking to stop the press if they knock on the door of my neighbour, the right hon. and learned Member for Camberwell and Peckham (Ms Harman), the deputy leader of the Labour party, at her home in my borough or at my home. That is fine, but it is not fine if they suddenly start pursuing all sorts of other people and giving them grief.
+
+I think we now understand much better what the parameters are. We are hoping to protect the innocent who have been the victims, not to make the press have a more difficult job to do in pursuing proper inquiries into people who are properly the subject of public interest.
+
+John McDonnell (Hayes and Harlington) (Lab)
+There are other victims of this whole process, some of whom were revealed in the evidence to Leveson by the National Union of Journalists. They were the journalists who stood up and said, “I refuse to implement some of these strategies”—these tactics, manipulations or whatever we want to call them—and as a result lost their jobs, while others were victimised. The culture of bullying in some newsrooms was exposed in the NUJ’s evidence. That is why part of the union’s policy was to advocate a conscience clause.
+
+I am grateful that, as my right hon. and learned Friend the Member for Camberwell and Peckham (Ms Harman) said, there is a “brush past” in schedule 2 to the charter, with the reference to Leveson’s recommendation that:
+
+“The industry generally and a regulatory body in particular should consider requiring its members to include in the employment or service contracts with journalists a clause to the effect that no disciplinary action would be taken against a journalist as a result of a refusal to act in a manner which is contrary to the code of practice.”
+
+That would add to the architecture of protection and lift the standards of journalism in our country. That is why I welcome the important reference in schedule 2, which my right hon. and learned Friend shared with us. I regret the fact that it is a brush past, rather than something more specific, but I understand the negotiations that had to take place. We will need to return to this issue in the coming months. As the board of recognition panel is established, the regulator then applies for recognition. Consideration of whether the regulator has taken the recommendations into account is critical. One of this House’s roles will be to explore whether full consideration has been given to the conscience clause.
+
+When the idea of a conscience clause was introduced into the debate by Leveson, there seemed to be cross-party support for it. Certainly the Deputy Prime Minister made a statement in support and the Prime Minister said he would consider the matter. Since then, the NUJ has been invited to go off and negotiate a conscience clause with individual employers. Unfortunately, that has not been taken seriously by a number of the employers. Negotiations have not proceeded and so far a conscience clause has not been inserted into a single contract. This is therefore an important factor to be taken into account by the recognition panel, and the regulator needs to put it firmly on the agenda for the future. A conscience clause would be an additional bulwark of support in establishing the point that we should not go through this cycle again and that there is a standard of journalism that we do not expect any journalist, editor or publisher to resile from. This will be beneficial in the long run. It will not impose onerous conditions on employers or publishers, and it should be welcomed as it will ensure a level playing field and a high standard of journalism right across the profession.
+
+I am grateful for the reference in schedule 2 to Leveson’s recommendation 47, but I believe that the House needs to pay close attention to the roll-out of the process to ensure that it is considered by the regulator and that it forms part of the considerations of the recognition panel when the regulator is appointed.
+
+Guy Opperman
+Our constituents want a press that does not abuse the innocent, but that exposes the wrongdoer, the charlatan and the fraudster. I pay tribute to the work of Lord Justice Leveson, and to the people who have given evidence. Anyone who has ever given evidence or conducted legal proceedings will know that giving evidence is a traumatic and upsetting process, and to give evidence to the Leveson inquiry was a brave thing to do. Credit must be given to the Prime Minister for setting up the inquiry, and to all the parties for reaching some sort of agreement. However, it is a truism in legal circles and certainly in parliamentary circles that last-minute law is normally bad law. It is a matter of concern that the provisions have been produced overnight and that, even today, we are receiving manuscript amendments—only  in Parliament are manuscript amendments typed—on important issues relating to exemplary damages, costs and the like.
+
+Jacob Rees-Mogg
+Is not the key to the matter the fact that this will be the law, and that it therefore constitutes statutory regulation of the press, with penalties and coercion if the press do not go along with it?
+
+Guy Opperman
+I hesitate at any stage in my parliamentary career to disagree on a matter either of parliamentary protocol or of statutory interpretation with the éminence grise that is my hon. Friend the Member for North East Somerset (Jacob Rees-Mogg). However, on this point I would disagree with him, because although the charter has to be brought to fruition through this House, it is clear that it is part of the common law. Its ongoing interpretation will be a common-law interpretation by a variety of High Court judges, who will spend a lot of time decoding, interpreting and attempting to fathom the provisions not only in the manuscript amendments but in the original proposals for the charter and the subsequent amendments that we received overnight. So, on this particular point, I disagree with my hon. Friend.
+
+I suggest that this is a pragmatic resolution of a difficult parliamentary dispute. It is an all-party solution that accepts the fundamental principle that the Press Complaints Commission was patently not fit for purpose and was clearly letting people down. As my hon. and learned Friend the Member for Harborough (Sir Edward Garnier) made clear in his well thought-out and eloquent speech, the PCC was unable to handle the large disputes of fact and law pertaining to the serious libels and slanders that take place in the media. It was extremely good at dealing with the local press and with low impact resolution-type cases such as those involving £10,000 payable for defamation, for example, but it struggled desperately to cope with the large media organisations and the particularly malign and difficult cases that, sadly, had to go to court.
+
+That brings me, in the limited time I have, to the issue of costs. It fusses me tremendously that the position of an individual litigant in a case will not change that much. The royal charter might introduce a free process, in the sense that there is no claim form, unlike in normal litigation, but it will be free to those who are successful, because they will have some form of protection. The problem is that an individual litigant without means who lives in a suburban street in Hexham, for example, will still be unable to bring a course of action against a large media organisation. Contrary to the best efforts of those on both Front Benches, arbitration is still a complex, expensive and difficult process through which to navigate. It is also the case that while simple arbitration can and will be resolved on a relatively speedy basis, for the large cases that so concern us—everything from the Dowlers downwards—arbitration will take months at the very least, if not years, and will cost money.
+
+That brings us back to the point of whether an individual who is so maligned by the press will be in a position to bring a course of action against a newspaper on the present basis of financial support. If that is lacking to such an individual, I struggle to see that happening. The individual would have to go to organisations such as the Free Representation unit or the Bar Pro  Bono unit. I suppose I should make a declaration not only that I was involved with those organisations as a mediator, but that, statutorily speaking, I am still owed money by the Government for the work I did on behalf of the Government. That is, however, a side matter.
+
+Finally, speedy laws done at the last minute—despite the massive efforts over many months by the Minister for Government Policy, my right hon. Friend the Member for West Dorset (Mr Letwin) and others—will always need improvement. The improvement ability of this royal charter is exceptionally difficult and, as was explained earlier, is part of the problem of having a royal charter. The difficulty is now passed to the House of Lords, which has a solitary day to consider all the provisions in the charter, the amendments and the manuscript amendments in circumstances in which, I suggest with respect, there cannot be reasoned debate or reasoned assessment. If we could address that particular problem, things would improve massively. The reality in the end will be that High Court judges will assess the royal charter on a common-law basis and interpret it as best they can—with all the ramifications that we would not wish to see on an ongoing basis.
+
+Paul Flynn
+I rise to challenge the hyperbole of the Government Front-Bench team on this particular measure, which will not be a great Act that will bring new liberty to the country. It describes itself as a royal charter presumably in the hope that it will gain the respect that other royal charters have. One effective example is the one under which the BBC operates. At one time in my life, I had duties as a member of the Broadcasting Council for Wales to decide on political balance in broadcasts. Everything was decided on the basis of ensuring that those broadcasters who had air time represented the views of the country—not easy when it came to deciding on Welsh language broadcasts where one party was predominantly represented by Welsh speakers. It had to be done, and we found a way of dealing with the press that was effective and balanced.
+
+No attempt could really be made to impose a political balance on our national press, which was described by Aneurin Bevan as
+
+“the most prostituted in the world”.
+
+We see that that is still true if we look at today’s newspapers and examine the way in which the Daily Mail, for example, devoted six days of front-page headlines, including in The Mail on Sunday, to one subject—to attack the Liberal Democrats. Other things were happening in the world, but day after day we had this political tract seeking to affect the results of a by-election.
+
+As my hon. Friend the Member for Linlithgow and East Falkirk (Michael Connarty) said, we should look at the proprietors as people who have immense power—power without responsibility—so that even elected Prime Ministers pay court to them. John Major, for example, was threatened with having a bin dumped on his desk by the editor of The Sun. Tony Blair flew to Australia to pay court to the empire of Murdoch. We know that my right hon. Friend the Member for Kirkcaldy and Cowdenbeath (Mr Brown) and the present Prime Minister were in close relationships, socially, with editors, and we have been given a very unhealthy revelation about cabals  who are far too close to, and have too much interest in, the press, the police and politicians. That is a worrying situation.
+
+22:15:00
+
+We are not dealing with any of those problems, but we have a Bill which, as my hon. Friend the new Member for Rotherham (Sarah Champion) tweeted today, was settled in a way that we should perhaps try to emulate in other contexts. Although we cling to the myth that we decide policy in the House by means of debate and persuasion, we know that most issues are settled by means of deals behind closed doors.
+
+I believe that the worst, the most egregious, objections to the Prime Minister’s proposals have been removed from the Bill, and I find it generally satisfactory, but I think that we must recall the dreadful acts of the newspapers. For 23 years, the loved ones of those who were killed at Hillsborough had to face the foul accusations, described by The Sun as the truth, that were made against their dead loved ones. We know that the agony of the Dowlers and the McCanns, who had suffered the worst possible bereavement and disappearance, was added to by a cynical press who acted with great cruelty.
+
+We are dealing with part of the problem. This is a relatively modest proposal, and it is probably the best that we can have in the circumstances. However, we hope that the press will learn the lesson that the more hysterical and the more partial they become, fewer people will trust them. The trust of the country goes to the organs of the press that are governed by a strict royal charter and which must have a balance politically, and those are the broadcasters.
+
+Maria Miller
+The right hon. and learned Member for Camberwell and Peckham (Ms Harman) spoke of the importance of working together. One group of people to whom we have not yet paid tribute is the amazing team of officials at the Ministry of Justice, the Department for Culture, Media and Sport, and the Cabinet Office. Those people have gone above and beyond the call of duty in all that they have done, and I salute them.
+
+I entirely understand why my hon. Friend the Member for Colchester (Sir Bob Russell) raised the issue of the local press twice today. Leveson recognised that the local press were not the main cause of the problem, and the system that we propose allows them different and appropriate terms of membership so that they will not pay more than they do at present.
+
+My hon. and learned Friend the Member for Harborough (Sir Edward Garnier) spoke of the importance of arbitration, but pointed out that it should not be expected to fix everything. Of course he is absolutely right. The provisions that we have drawn up will comply with the Arbitration Act 1996, and the arbitrators will be appropriately qualified expert lawyers, as recommended by Leveson.
+
+The hon. Member for Linlithgow and East Falkirk (Michael Connarty) rightly raised the issue of Scotland. The charter is capable of applying to newspapers in Scotland that wish to be recognised under the system, and I have had discussions about that with Scottish Ministers. Lord McCluskey has now reported, and we wait to hear how his proposals will be dealt with. Like the hon. Gentleman, I hope that attention will be paid to the views that have been expressed in the debate.
+
+The hon. Member for Hayes and Harlington (John McDonnell) raised the issue of a conscience clause, as he has done previously. I think it important for newspapers and the journalists who work for them to abide by the standards code of the industry self-regulator. I know that the hon. Gentleman has a long-standing interest in that. I can tell him that Leveson said that it was an issue for the industry itself to consider, and not something that the recognition body should require. As my right hon. Friend the Prime Minister himself said to the hon. Gentleman in November, the press do not have to wait for any further discussions or for the charter, but can start putting the system in place immediately.
+
+A number of thoughtful contributions were made by learned colleagues, and of course we will pay great heed to the advice and thought contained in those. Although the discussion of these provisions on the Floor of the House may be somewhat brief, it clearly cannot be said that these issues have not been given long consideration, because they have been. More than a year of evidence was given to Lord Justice Leveson as part of his inquiries and since his report was presented to the House last November it has had some three months of consideration, on a cross-party basis and involving other groups, including those representing people affected by the problems of the press.
+
+We have before us an important set of real incentives that have real effect to make sure that we can move forward, with today as a turning point where we stop talking about the theory of Leveson and start putting the practice of Leveson out for everybody to benefit from it. The provisions are a crucial part of this new tough regulatory regime and I commend them whole- heartedly to the House.
+
+22:21:00
+
+Three hours having elapsed since the commencement of proceedings on the programme motion, the debate was interrupted (Programme Order this day.)
+
+The Speaker put forthwith the Question already proposed from the Chair (Standing Order No. 83E), That the clause be read a Second time.
+
+The House proceeded to a Division.
+
+Mr Speaker
+I ask the Serjeant at Arms to investigate the delay in the Aye Lobby.
+
+Division 192
+18/03/2013 22:21:00
+The House having divided:
+Ayes: 530
+Noes: 13
+Question accordingly agreed to.
+
+New clause 21A read a Second time, and added to the Bill.
+
+The Speaker then put forthwith the Question necessary for the disposal of the business to be concluded at that time (Standing Order No. 83E).
+
+New Clause 22
+
+Relevant considerations
+
+‘(1) This section applies where the court is deciding whether the circumstances of the case make it appropriate for exemplary damages to be awarded under section [Awards of exemplary damages].
+
+(2) The court must have regard to the principle that exemplary damages must not usually be awarded if, at any time before the decision comes to be made, the defendant has been convicted of an offence involving the conduct complained of.
+
+(3) The court must take account of the following—
+
+(a) whether membership of an approved regulator was available to the defendant at the material time;
+
+(b) if such membership was available, the reasons for the defendant not being a member;
+
+(c) so far as relevant in the case of the conduct complained of, whether internal compliance procedures of a satisfactory nature were in place and, if so, the extent to which they were adhered to in that case.
+
+(4) The reference in subsection (3)(c) to “internal compliance procedures” being in place is a reference to any procedures put in place by the defendant for the purpose of ensuring that—
+
+(a) material is not obtained by or on behalf of the defendant in an inappropriate way, and
+
+(b) material is not published by the defendant in inappropriate circumstances.
+
+(5) The court may regard deterring the defendant and others from similar conduct as an object of punishment.
+
+(6) This section is not to be read as limiting the power of the court to take account of any other matters it considers relevant to its decision.’.—(Maria Miller.)
+
+Brought up, and added to the Bill.
+
+New Clause 23
+
+Amount of exemplary damages
+
+‘(1) This section applies where the court decides to award exemplary damages under section [Awards of exemplary damages].
+
+(2) The court must have regard to these principles in determining the amount of exemplary damages—
+
+(a) the amount must not be more than the minimum needed to punish the defendant for the conduct complained of;
+
+(b) the amount must be proportionate to the seriousness of the conduct.
+
+(3) The court must take account of these matters in determining the amount of exemplary damages—
+
+(a) the nature and extent of any loss or harm caused, or intended to be caused, by the defendant’s conduct;
+
+(b) the nature and extent of any benefit the defendant derived or intended to derive from such conduct.
+
+(4) The court may regard deterring the defendant and others from similar conduct as an object of punishment.
+
+(5) This section is not to be read as limiting the power of the court to take account of any other matters it considers relevant to its decision.’.—(Maria Miller.)
+
+Brought up, and added to the Bill.
+
+New Clause 24
+
+Multiple claimants
+
+‘(1) This section applies where a relevant publisher—
+
+(a) is a defendant to a relevant claim, and
+
+(b) is found liable to two or more persons in respect of the claim (“the persons affected”).
+
+(2) In deciding whether to award exemplary damages under section [Awards of exemplary damages] or the amount of such damages to award (whether to one or more of the persons affected), the court must take account of any settlement or compromise by any persons of a claim in respect of the conduct.
+
+(3) But the court may take account of any such settlement or compromise only if the defendant agrees.
+
+(4) If the court awards exemplary damages under section [Awards of exemplary damages] to two or more of the persons affected, the total amount awarded must be such that it does not punish the defendant excessively.
+
+(5) If the court awards exemplary damages under section [Awards of exemplary damages] to one or more of the persons affected, no later claim may be made for exemplary damages as regards the conduct.’.—(Maria Miller.)
+
+Brought up, and added to the Bill.
+
+New Clause 25
+
+Multiple defendants
+
+‘(1) Any liability of two or more persons for exemplary damages awarded under section [Awards of exemplary damages] is several (and not joint or joint and several).
+
+(2) Subsection (1) has effect subject to the law relating to the liability of a partner for the conduct of another partner.
+
+(3) Where the liability of two or more persons for exemplary damages is several, no contribution in respect of the damages may be recovered by any of them under section 1 of the Civil Liability (Contribution) Act 1978.’.—(Maria Miller.)
+
+Brought up, and added to the Bill.
+
+New Clause 26
+
+Awards of aggravated damages
+
+‘(1) This section applies where—
+
+(a) a relevant claim is made against a person (“the defendant”),
+
+(b) the defendant was a relevant publisher at the material time,
+
+(c) the claim is related to the publication of news-related material, and
+
+(d) the defendant is found liable in respect of the claim.
+
+(2) Aggravated damages may be awarded against the defendant only to compensate for mental distress and not for purposes of punishment.
+
+(3) In this section, “aggravated damages” means damages that were commonly called aggravated before the passing of this Act and which—
+
+(a) are awarded against a person in respect of the person’s motive or exceptional conduct, but
+
+(b) are not exemplary damages or restitutionary damages.
+
+(4) Nothing in this section is to be read as implying that, in cases where this section does not apply, aggravated damages may be awarded for purposes of punishment.’.—(Maria Miller.)
+
+Brought up, and added to the Bill.
+
+New Clause 27A
+
+Awards of costs
+
+‘(1) This section applies where—
+
+(a) a relevant claim is made against a person (“the defendant”),
+
+(b) the defendant was a relevant publisher at the material time, and
+
+(c) the claim is related to the publication of news-related material.
+
+(2) If the defendant was a member of an approved regulator at the time when the claim was commenced (or was unable to be a member at that time for reasons beyond the defendant's control or it would have been unreasonable in the circumstances for the defendant to have been a member at that time), the court must not award costs against the defendant unless satisfied that—
+
+(a) the issues raised by the claim could have been resolved by using an arbitration scheme of the approved regulator, or
+
+(b) it is just and equitable in all the circumstances of the case to award costs against the defendant.
+
+(3) If the defendant was not a member of an approved regulator at the time when the claim was commenced (but would have been able to be a member at that time and it would have been reasonable in the circumstances for the defendant to have been a member at that time), the court must award costs against the defendant unless satisfied that—
+
+(a) the issues raised by the claim could not have been resolved by using an arbitration scheme of the approved regulator (had the defendant been a member), or
+
+(b) it is just and equitable in all the circumstances of the case to make a different award of costs or make no award of costs.
+
+(4) For the purposes of subsections (2) and (3), a claim could have been resolved by using an arbitration scheme of an approved regulator if, at the time when the claim was commenced, the approved regulator had arrangements in place for an arbitration scheme under which the claim could have been referred for determination by an arbitrator appointed under the scheme.
+
+(5) The Secretary of State must take steps to put in place arrangements for protecting the position in costs of parties to relevant claims who have entered into agreements under section 58 of the Courts and Legal Services Act 1990.
+
+(6) This section is not to be read as limiting any power to make rules of court.
+
+(7) This section does not apply until such time as a body is first recognised as an approved regulator.'..—(Maria Miller.)
+
+Brought up, and added to the Bill.
+
+New Clause 29
+
+Meaning of “relevant publisher”
+
+‘(1) In sections [Awards of exemplary damages] to [Awards of costs], “relevant publisher” means a person who, in the course of a business (whether or not carried on with a view to profit), publishes news-related material—
+
+(a) which is written by different authors, and
+
+(b) which is to any extent subject to editorial control.
+
+This is subject to subsections (5) and (6).
+
+(2) News-related material is “subject to editorial control” if there is a person (whether or not the publisher of the material) who has editorial or equivalent responsibility for—
+
+(a) the content of the material,
+
+(b) how the material is to be presented, and
+
+(c) the decision to publish it.
+
+(3) A person who is the operator of a website is not to be taken as having editorial or equivalent responsibility for the decision to publish any material on the site, or for content of the material, if the person did not post the material on the site.
+
+(4) The fact that the operator of the website may moderate statements posted on it by others does not matter for the purposes of subsection (3).
+
+(5) A person is not a “relevant publisher” if the person is specified by name in Schedule [Exclusions from definition of “relevant publisher”].
+
+(6) A person is not a “relevant publisher” in so far as the person’s publication of news-related material is in a capacity or case of a description specified in Schedule [Exclusions from definition of “relevant publisher”].’.—(Maria Miller.)
+
+Brought up, and added to the Bill.
+
+New Clause 30
+
+Other interpretative provisions
+
+‘(1) This section applies for the purposes of sections [Awards of exemplary damages] to [Meaning of “relevant publisher”].
+
+(2) “Approved regulator” means a body recognised as a regulator of relevant publishers.
+
+(3) For the purposes of subsection (2), a body is “recognised” as a regulator of relevant publishers if it is so recognised by any body established by Royal Charter (whether established before or after the coming into force of this section) with the purpose of carrying on activities relating to the recognition of independent regulators of relevant publishers.
+
+(4) “Relevant claim” means a civil claim made in respect of any of the following—
+
+(a) libel;
+
+(b) slander;
+
+(c) breach of confidence;
+
+(d) misuse of private information;
+
+(e) malicious falsehood;
+
+(f) harassment.
+
+(5) For the purposes of subsection (4)—
+
+(a) the reference to a claim made in respect of the misuse of private information does not include a reference to a claim made by virtue of section 13 of the Data Protection Act 1998 (damage or distress suffered as a result of a contravention of a requirement of that Act);
+
+(b) the reference to a claim made in respect of harassment is a reference to a claim made under the Protection from Harassment Act 1997.
+
+(6) The “material time”, in relation to a relevant claim, is the time of the events giving rise to the claim.
+
+(7) “News-related material” means—
+
+(a) news or information about current affairs,
+
+(b) opinion about matters relating to the news or current affairs, or
+
+(c) gossip about celebrities, other public figures or other persons in the news.
+
+(8) A relevant claim is related to the publication of news-related material if the claim results from—
+
+(a) the publication of news-related material, or
+
+(b) activities carried on in connection with the publication of such material (whether or not the material is in fact published).
+
+(9) A reference to the “publication” of material is a reference to publication—
+
+(a) on a website,
+
+(b) in hard copy, or
+
+(c) by any other means;
+
+and references to a person who “publishes” material are to be read accordingly.
+
+(10) A reference to “conduct” includes a reference to omissions; and a reference to a person’s conduct includes a reference to a person’s conduct after the events giving rise to the claim concerned.’.—(Maria Miller.)
+
+Brought up, and added to the Bill.
+
+New Schedule 5
+
+‘Exclusions from definition of “relevant publisher”
+
+Broadcasters
+
+1 The British Broadcasting Corporation.
+
+2 Sianel Pedwar Cymru.
+
+3 The holder of a licence under the Broadcasting Act 1990 or 1996 who publishes news-related material in connection with the broadcasting activities authorised under the licence.
+
+Special interest titles
+
+4 A person who publishes a title that—
+
+(a) relates to a particular pastime, hobby, trade, business, industry or profession, and
+
+(b) only contains news-related material on an incidental basis that is relevant to the main content of the title.
+
+Scientific or academic journals
+
+5 A person who publishes a scientific or academic journal that only contains news-related material on an incidental basis that is relevant to the scientific or academic content.
+
+Public bodies and charities
+
+6 (1) A public body or charity that publishes news-related material in connection with the carrying out of its functions.
+
+(2) “Public body” means a person or body whose functions are of a public nature.
+
+Company news publications etc
+
+7 A person who publishes a newsletter, circular or other document which—
+
+(a) relates to a business carried on by the person, and
+
+(b) only contains news-related material on an incidental basis that is relevant to the person’s business.
+
+Book publishers
+
+8 (1) A person who is the publisher of a book.
+
+(2) “Book” does not include any title published on a periodic basis with substantially different content.’.—(Maria Miller.)
+
+Brought up, and added to the Bill.
+
+New Clause 15
+
+Restraint orders and legal aid
+
+‘(1) Section 41 of the Proceeds of Crime Act 2002 (confiscation in England and Wales: restraint orders) is amended in accordance with subsections (2) to (6).
+
+(2) After subsection (2) insert—
+
+“(2A) A restraint order must be made subject to an exception enabling relevant legal aid payments to be made (a legal aid exception).
+
+(2B) A relevant legal aid payment is a payment that the specified person is obliged to make—
+
+(a) by regulations under section 23 or 24 of the Legal Aid, Sentencing and Punishment of Offenders Act 2012, and
+
+(b) in connection with services provided in relation to an offence which falls within subsection (5),
+
+whether the obligation to make the payment arises before or after the restraint order is made.”
+
+(3) In subsection (3)—
+
+(a) after “subject to” insert “other”, and
+
+(b) omit paragraph (c).
+
+(4) In subsection (4), for “But an exception to a restraint order” substitute “But where an exception to a restraint order is made under subsection (3), it”.
+
+(5) After subsection (5) insert—
+
+“(5A) A legal aid exception—
+
+(a) must be made subject to prescribed restrictions (if any) on—
+
+(i) the circumstances in which payments may be made in reliance on the exception, or
+
+(ii) the amount of the payments that may be made in reliance on the exception,
+
+(b) must be made subject to other prescribed conditions (if any), and
+
+(c) may be made subject to other conditions.
+
+(5B) Any other exception to a restraint order may be made subject to conditions.”
+
+(6) After subsection (9) insert—
+
+“(10) In this section “prescribed” means prescribed by regulations made by the Secretary of State.”
+
+(7) In section 459 of that Act (orders and regulations)—
+
+(a) in subsection (4)(a), after “section” insert “41(5A),”, and
+
+(b) in subsection (6)(a), after “section” insert “41(5A),”.’.—(Damian Green.)
+
+Brought up, and read the First time.
+
+The Minister for Policing and Criminal Justice (Damian Green)
+I beg to move, That the clause be read a Second time.
+
+Mr Speaker
+With this it will be convenient to discuss the following:
+
+Government new clause 16—Restraint orders and legal aid: supplementary.
+
+Amendment 1, in clause 24, page 21, line 22, at end insert—
+
+‘(6A) In fixing such an amount, and subsequent additions, account must be taken of the person’s relevant weekly income, excluding housing benefit and child related benefits, and allowance must be made for the protection of a reasonable financial subsistence level, in the manner used to determine the initial fine.’.
+
+Amendment 103, page 21, line 25, leave out subsection (2).
+
+Amendment 96, page 22, line 3, at end insert—
+
+‘(5A) The Lord Chancellor must, by regulation, in statutory instrument of which a draft has been laid before and approved by resolution of each House of Parliament, provide the amount of any costs for services carried out for the purposes of collecting sums.’.
+
+Amendment 97, in clause 25, page 23, line 11, leave out ‘person’ and insert ‘civil servant’.
+
+Amendment 98, page 24, line 1, leave out paragraph (3).
+
+New clause 12—Provision of intermediaries for very vulnerable witnesses—
+
+‘(1) The Secretary of State must provide for intermediaries to be assigned to very vulnerable witnesses in all court cases.
+
+(2) In the Youth Justice and Criminal Evidence Act 1999, after section 29 there is inserted:
+
+“29A Intermediaries for very vulnerable witnesses
+
+(1) A special measures direction must be made to provide for any examination of a very vulnerable witness (however and wherever conducted to be conducted through an interpreter or other person approved by the court for the purposes of this section (“an intermediary”).
+
+(2) In addition to the functions set out in subsection 29(2), an intermediary must be assigned to very a vulnerable witness through their whole experience before, during and after court.
+
+(3) For the purposes of this section, “very vulnerable witness” has the same meaning as defined in section [Court arrangements for very vulnerable witnesses] (5) of the Crime and Courts Act 2013.”.’.
+
+New clause 14—Court arrangements for very vulnerable witnesses—
+
+‘(1) The Secretary of State must make arrangements for specialist courts for very vulnerable witnesses.
+
+(2) A specialist court for very vulnerable witnesses will consist of a partnership programme within the criminal court structure.
+
+(3) In establishing the specialist court, the Secretary of State must involve the following partners—
+
+(a) the judiciary;
+
+(b) court officials;
+
+(c) the Crown Prosecution Service;
+
+(d) police forces;
+
+(e) witness support services;
+
+(f) victim support services; and
+
+(g) any other specialist services that the Secretary of State deems appropriate.
+
+(4) In cases where there is a very vulnerable witness—
+
+(a) no judge can sit on the case unless he has taken part in appropriate training provided by the Judicial College;
+
+(b) a single court usher, who has taken part in appropriate training provided by Her Majesty’s Courts and Tribunal Service, must be assigned to the witness throughout their time at court;
+
+(c) the case will be assigned to a court with all necessary facilities to offer the full range of special measures set out in sections (23) to (30) of the Youth Justice and Criminal Evidence Act 1999;
+
+(d) before allocating time for trials the court must take into account the impact of delays on very vulnerable witnesses; and
+
+(e) the services of independent sexual violence advisors must be offered to very vulnerable witnesses in cases involving sexual offences.
+
+(5) The Secretary of State must issue a code of practice giving guidance about court arrangements for very vulnerable witnesses, which must be published, and may be revised from time to time.
+
+(6) Before issuing or revising a code under subsection (3), the Secretary of State must lay a copy before each House of Parliament for approval within a 40 day period.
+
+(7) For the purposes of this section—
+
+“very vulnerable witness” includes the victim in a case of child sexual abuse.
+
+“independent sexual violence advisers” are victims-focused advocates who work with victims of recent and historic serious sexual crimes to enable them to access the services they need in the aftermath of the abuse they have experienced.’.
+
+Government amendment 119.
+
+Damian Green
+Given the time pressure on our consideration of this large and disparate group, I propose to speak to the Government amendments—new clauses 15 and 16 and amendment 119—which relate to legal aid, and then, if possible, respond to the other amendments once I have had an opportunity to hear the arguments put forward by their sponsors. I hope that will provide a proper balance between Front-Bench and Back-Bench contributions to the debate.
+
+Access to legal aid is a fundamental part of our legal system. However, difficult decisions relating to how the legal aid budget should be spent are made every day. We must remember that legal aid is not free and that we do not have unlimited resources. As such, we need to ensure that the limited funds are used effectively and directed to those who really need them.
+
+At present, the Proceeds of Crime Act 2002 prevents restrained funds from being released to a defendant for legal expenses in relation to the offences to which the restraint order relates. Before the 2002 Act, there was a risk that individuals might recklessly dissipate assets through lavish spending on their defence in order to try to secure an acquittal at any cost. In 2002, the then Government decided that it was better to allow access to legal aid than to allow a defendant to draw down restrained funds to pay for their defence. However, that has led to a public perception that rich offenders with significant restrained assets are receiving vast sums of legal aid when they could afford to make a contribution to their defence. For example, over the past three years more than £14.3 million in legal aid was paid to just 49 high-profile individuals. Let us not forget that we are talking about individuals suspected of involvement in serious and organised crime, including drug smuggling and large-scale fraud, the victims of which are all too often numerous. [Interruption.]
+
+Mr Speaker
+Order. I apologise for interrupting the Minister. May I gently say to the House that a number of Back Benchers on both sides have new clauses or amendments to which they wish to speak, and there is such a hubbub that it is quite difficult to hear properly what the Minister is saying? Let us please have a bit of order, in everybody’s interests.
+
+Damian Green
+Since the introduction of the 2002 Act, a system of means-testing for legal aid has been introduced for all Crown court defendants. Those who can afford to pay some, or all, of their legal aid costs are required to do so. Although anyone charged with a criminal offence and facing imprisonment or loss of livelihood is entitled to legal aid, I think that the whole House would agree that if the defendant can pay some, or all, of their legal bill, they should do so. After all, as we ask people on modest incomes to pay something towards their defence costs, it is only fair and reasonable that we ask millionaires to do so. As such, new clause 15 amends section 41 of the 2002 Act to allow payment of a contribution towards, and up to the full amount of, their publicly funded legal aid costs.
+
+The detailed mechanisms of how that will operate in practice will be set out in legal aid regulations made by the Lord Chancellor and, as provided for in new clause 16, regulations made by the Home Secretary, the latter being subject to the affirmative procedure. Both sets of regulations will be developed taking into account the potential impact on returning money to victims and assets that are used to incentivise further asset recovery work.
+
+We can already freeze criminals’ assets to make it easier to recover ill-gotten gains and compensate victims, but that often leaves the state picking up their legal bill, even if the offender has plenty of money to pay that as well. I am sure that the whole House would agree that our aim should be to increase the overall amount of money taken from criminals. As I have said, the full details of the scheme will be set out in secondary legislation that will be subject to debate and approval in both Houses.
+
+22:45:00
+
+Jenny Chapman (Darlington) (Lab)
+We support new clauses 15 and 16 and we welcome their inclusion in the Bill, although the Government have dragged their heels on this matter, which should more appropriately have been dealt with in the Legal Aid, Sentencing and Punishment of Offenders Act 2012.
+
+I am pleased to have the opportunity, alongside colleagues, to speak in favour of new clauses 12 and 14 on support for vulnerable witnesses. It is welcome to see such important proposals brought forward with support from Members in all parts of the House. In particular, I pay tribute to my hon. Friend the Member for Stockport (Ann Coffey) and the hon. Member for Oxford West and Abingdon (Nicola Blackwood) for their work on this. The new clauses would provide for a number of positive support mechanisms for very vulnerable witnesses such as a victim in a case of sexual abuse of a child. These are exceptionally distressing cases, and court proceedings are complex and stressful even for the most able adult. Justice is done when, and only when, victims feel able to come forward and report abuse and to cope with court proceedings.
+
+New clause 12 deals specifically with registered intermediaries and calls for the provision of that support to every child who is in court as a victim of sexual abuse. An intermediary offers support to a vulnerable witness in communicating comfortably with the court throughout the trial. They are also able to assess the victim and advise the court on how best to meet their needs and provide effective but manageable questioning.
+
+New clause 14 would provide for a wider array of improvements to court arrangements, making provision for a specialist court to handle cases involving a very vulnerable witness. The provisions include training for judges; assigning to the witness a single, consistent and familiar court usher; and taking into account the effect of time delays on the witness. It is difficult to overstate the importance of having such sensitive measures in place. It is our duty to ensure that a trial is as accessible and bearable for a victim as it could possibly be. We will support new clauses 12 and 14 should they be put to a vote.
+
+I should also like to speak in support of amendment 1. I commend my right hon. Friends the Members for Torfaen (Paul Murphy) and for Wythenshawe and Sale East (Paul Goggins) for bringing these matters before the House and I thank Lord Touhig for raising it earlier in another place. The amendment would make no change to the premise of the Government’s proposals on liability for enforcement costs, nor would it introduce any new premise into the law. It would simply replicate a system of basic means-testing that is already in use and that the Government already accept as a reasonable and proportionate method for setting fines. It is right that an offender feels the financial hardship of their given fine and that they are expected to pay on time. The means-testing system is in place as a low-level safety net to ensure that penalties imposed do not jeopardise a basic level of subsistence for vulnerable debtors. The amendment would extend this safeguard, which is already subscribed to in law, to the stage where the Government have added the costs of recovery into the final system. I commend it to the House.
+
+Nicola Blackwood (Oxford West and Abingdon) (Con)
+I rise to speak to new clause 14, which stands in my name, supported by the hon. Member for Stockport (Ann Coffey) and many colleagues. I also express my support for new clause 12.
+
+New clause 14 is designed to introduce specialist courts for very vulnerable victims. It is no secret that I have been deeply affected by a child sexual exploitation case in my constituency, but in addition the Home Affairs Committee inquiry has been hearing about the realities of child sexual exploitation across the country. I am repeatedly told that these girls do not appear to be victims—that they are just bad girls making bad choices and voting with their feet. The process of grooming makes them believe they are complicit in their abuse. Even if they manage to get away, heartbreakingly they too often go back to their abusers, feeling that that is their best option. They simply see no way out. But there are ways out. There is now more support available for victims of sexual abuse, conviction rates are on the up, and prosecutions in Rochdale and Keighley and excellent work in Lancashire show that we are getting our act together.
+
+That is not, however, always the case and it is certainly not the perception. Keir Starmer made it clear just days ago that traditional tests by the Crown Prosecution Service to evaluate witnesses have the potential to leave this category of vulnerable witnesses unprotected. He used the example of the Rochdale witnesses, stating that if they were tested
+
+“solely by asking questions such as whether they reported their abuse swiftly, whether they returned to the perpetrators, whether  they had ever told untruths in the past, and whether their accounts were unaffected by drink or drugs, the answers would almost always result in a decision not to prosecute.”
+
+Last year ChildLine received more than 15,000 calls relating to child sexual abuse, yet the National Society for the Prevention of Cruelty to Children thinks that more than 60% of child sexual abuse goes unreported, which is unsurprising when witnesses are being told that they are not credible owing to the very behaviours that arise from their abuse. I am delighted that the Director of Public Prosecutions has made it clear that he intends to act on this, but it will be effective only if it is fully supported by the whole system.
+
+Victims, charities, senior police officers and lawyers all confirm that a barrier to victims coming forward is not only the fear of not being believed, but a potentially traumatic court process. A lot has been done, including the introduction of special measures, but certain very vulnerable witnesses face higher credibility barriers and questioning on much more distressing evidence and are inclined to react negatively or aggressively to intimidating situations. These witnesses respond differently and unpredictably in court situations and it is for these victims that new clause 14 is designed.
+
+Much of this cannot be avoided in an adversarial system and I will be the first to defend the principle of innocent until proven guilty, but if a witness is deeply vulnerable because of previous abuse and therefore unable to give clear evidence, understand the questions asked or remember events, that undermines the quality of justice served and is not in the interests of the witness or the defendant.
+
+New clause 14 seeks to assist by proposing that such cases be assigned to a specialist court where everyone, from the ushers to the judges, has specialist training in witness management and the special measures. Those mechanisms would ensure that the measures would be implemented consistently and to the highest standards for such cases, which need to be handled differently owing to the nature of the evidence and the vulnerability of the witnesses.
+
+This is a partnership programme that does not require primary legislation, which is why this is a probing amendment. I hope that the Minister will acknowledge that the proposed new clause has attracted significant cross-party support, which is why I want him to make a clear commitment to take forward this proposal in a timely manner. I know that he will raise the issue of cost, but I would pre-emptively respond that preventing cases from collapsing is nothing if not a good investment.
+
+In the wake of Savile, the Welsh care homes, Rochdale and ensuing cases of child sexual exploitation, there will be a significant increase in highly sensitive cases in the courts. I want victims to have the confidence to be able to go to court and give evidence. I want them to know that we did everything we could to support the most vulnerable witnesses in the most sensitive cases. It is in the interests of justice for all involved.
+
+Several hon. Members
+rose—
+
+Mr Speaker
+Order. Before I call the next speaker, I would like to accommodate others as well, if at all possible, and that requires extreme self-discipline.
+
+Paul Murphy (Torfaen) (Lab)
+I rise fleetingly to speak in support of my amendment 1, which relates to the payment of fines. It was moved in the other place by my noble friend Lord Touhig and its purpose is to introduced safeguards to ensure that the new financial penalties imposed on people who make late or incomplete fine payments do not plunge them into poverty when they have to pay that second fine. In no way is it a wrecking amendment, but the new system should not jeopardise housing security, the well-being of children or basic household outgoings.
+
+The magistrates court sentencing guidelines say that fines should have
+
+“an equal impact on offenders with different financial circumstances. . .but should not force the offender below a reasonable ‘subsistence’ level.”
+
+I do not want people to be forced to go to payday lenders—I do not believe that that is necessary—and I hope that the companies that the Government propose to engage in this matter take these things into account. Above all else, we have to understand that the reason why some people do not always pay fines is not that they are persistent non-payers, but for other very important reasons, such as debt, a family crisis or illness.
+
+I hope that in the seconds available to the Minister, he will accept my argument and avoid a vote later this evening.
+
+Tim Loughton (East Worthing and Shoreham) (Con)
+I rise briefly in support of new clauses 12 and 14, which were put forward so ably by my hon. Friend the Member for Oxford West and Abingdon (Nicola Blackwood) and are supported by the hon. Member for Stockport (Ann Coffey).
+
+A key part of the four-point action plan “Tackling child sexual exploitation”, which was launched in November 2011, was a better court procedure for vulnerable young witnesses. Too many girls, having been abused, have effectively been re-traumatised in the courtroom by a phalanx of defence barristers. For many of them, it has meant that they have not given credible evidence or that the case has not come to court and has collapsed. In many cases, the witnesses run away rather than go through the procedure and appear in court.
+
+The two new clauses, which I hope the Minister will take away and look at favourably, are about ensuring that we get justice in our courts and, in particular, that vulnerable witnesses and victims appear to get the justice they have been denied for so many years. The cases that are coming to court now are a sign of success. They are at least beginning to be taken seriously. We want to ensure that more people come forward and that more perpetrators are nailed. The new clauses will help to achieve that.
+
+Ann Coffey (Stockport) (Lab)
+I will speak to new clause 12, which I tabled along with the hon. Member for Oxford West and Abingdon (Nicola Blackwood) and other hon. Members. I agree totally with the comments that she made in arguing for specialist courts.
+
+Under new clause 12, registered intermediaries, which were first introduced in 2004, would be assigned to support all very vulnerable witnesses. Children are very vulnerable witnesses because they do not communicate in the same way as adults. Recent NSPCC research showed that more than 90% of children under 10 do not  understand the questions that they are asked in court. It also showed that more than half of young witnesses experience stress symptoms ranging from sleeping and eating problems to self-harming. Children under stress become confused in the witness box.
+
+Registered intermediaries are communication specialists, such as child psychologists, who are trained to help child witnesses to communicate their evidence effectively, both at the police interview and the trial. However, NSPCC figures show that only 2% of young witnesses were assigned a registered intermediary. That has to change.
+
+In view of the tremendous cross-party support for new clauses 12 and 14 today, and in the wake of the Rochdale and Jimmy Savile scandals, I hope that the Minister will feel able to give a positive response to the new clauses tabled by the hon. Member for Oxford West and Abingdon and me that call for specialist courts and registered intermediaries to give the victims of sexual abuse the confidence to come forward so that justice can be done.
+
+John McDonnell
+This is the parliamentary equivalent of “Just a Minute”.
+
+I will speak to the amendments in my name, which are amendments 103 and 96 to 98, which relate to clause 25. Clause 25 commences the process of privatising the work of the fines officers of the courts. They are not just bailiffs, but officers who exercise judicial powers. This will be the first time that the House has privatised any office holder who has judicial powers. What do I mean by judicial powers? These officers can make a deduction from a benefits order, make an attachment of earnings order, and order the variation of the length of time over which a fine can be paid.
+
+Clause 25 will privatise the 2,000 jobs of the fines officers and hand the work over to private bailiffs. We have seen the report by Citizens Advice on the role of private bailiffs. They are misrepresenting their powers, using intimidating behaviour, charging fees in excess of what is allowed in law, failing to accept reasonable offers of payment and failing to recognise debtors in vulnerable situations, as required by the national standards for enforcement agents. We are handing over these powers to private bailiffs, who have failed significantly and have intimidated many of our constituents, and yet we know that the existing fines officers are performing well and meeting every target that is set by their management and the Government.
+
+This is a privatisation too far. We have never privatised the roles of judicial officers. This matter needs the consideration of the House. I urge the Government to think again. This measure is just an enabling part of the legislation and I hope that the Government will step back before they implement it.
+
+Damian Green
+On the last point, I think it is fair to say that the hon. Member for Hayes and Harlington (John McDonnell) thinks that every privatisation is a privatisation too far. He is wrong. Choosing the sanction or collection method, which is what fines officers do, is not a judicial function. Those are essentially case management decisions and have been performed by administrative staff since 2006.
+
+On amendment 1, we recognise that we must make allowances for the fact that some people find themselves in hardship and find it difficult to pay their debts, but that does not mean that the court should permit those convicted of an offence to ignore the sentences imposed on them. Fines are a criminal sentence, and taxpayers should not be subsidising those who avoid payment for whatever reason.
+
+I have a great deal of sympathy with what was said about new clauses 12 and 14 by my hon. Friend the Member for Oxford West and Abingdon (Nicola Blackwood) and the hon. Member for Stockport (Ann Coffey), who has a distinguished record in this field. The Government and HM Courts Service already do a huge amount to protect victims and witnesses. There is always more we can do and we will take this issue away and consider it.
+
+23:00:00
+
+Debate interrupted (Programme Order, this day).
+
+The Speaker put forthwith the Question already proposed from the Chair (Standing Order No. 83E), That the new clause be read a Second time.
+
+New clause 15 accordingly read a Second time and added to the Bill.
+
+The Speaker then put forthwith the Questions necessary for the disposal of the business to be concluded at that time (Standing Order No. 83E).
+
+New Clause 16
+
+Restraint orders and legal aid: supplementary
+
+The Secretary of State may by regulations—
+
+(a) make provision about the making of relevant legal aid payments out of property that is the subject of a restraint order under Part 2 of the Proceeds of Crime Act 2002 (“the 2002 Act”), and
+
+(b) make provision in connection with cases in which such payments are or may be made out of such property,
+
+whether by modifying the operation of Part 2 of the 2002 Act or Chapter 1, 2 or 4 of Part 8 of that Act or otherwise.
+
+(1) The provision that may be made by regulations under this section includes—
+
+(a) provision about how much property may be subject to a restraint order, including provision made by reference to the amount or estimated amount of relevant legal aid payments;
+
+(b) provision for a restraint order or other order under Part 2 of the 2002 Act to remain in force, where a relevant legal aid payment remains unpaid, in circumstances in which the order would otherwise have to be discharged;
+
+(c) provision about powers of investigation for the purpose of identifying property that may be used to make relevant legal aid payments, including powers exercisable where an order continues in force in accordance with provision described in paragraph (b);
+
+(d) provision about the use of property in cases in which there is or has been a restraint order, including provision about the order in which different obligations to make payments may or must be satisfied in such cases;
+
+(e) provision about powers of entry, search and seizure;
+
+(f) provision about the payment of compensation by the Lord Chancellor;
+
+(g) provision about the disclosure and use of documents, information and other evidence.
+
+(2) The provision that may be made by regulations under this section (whether by virtue of this section or section 43(12)) includes—
+
+(a) provision conferring, removing or otherwise modifying a function;
+
+(b) provision amending, repealing, revoking or otherwise modifying provision made by or under any enactment (including provision inserted or amended by this Act).
+
+(3) In this section—
+
+“function” means a function of any description, including a power or duty (whether conferred by an enactment or arising otherwise);
+
+“property” has the same meaning as in Part 2 of the 2002 Act;
+
+“relevant legal aid payment” means—
+
+(a) a payment that is a relevant legal aid payment for the purposes of section 41 of the 2002 Act, and
+
+(b) a payment that would be such a payment if a restraint order were made.
+
+(4) In subsection (2)(a) and (c) the references to relevant legal aid payments include any payment that is likely to be a relevant legal aid payment when the obligation to make the payment arises.’.—(Damian Green.)
+
+Brought up, and added to the Bill.
+
+Amendment proposed: 1, in clause 24, page 21, line 22, at end insert—
+
+‘(6A) In fixing such an amount, and subsequent additions, account must be taken of the person’s relevant weekly income, excluding housing benefit and child related benefits, and allowance must be made for the protection of a reasonable financial subsistence level, in the manner used to determine the initial fine.’.—(Paul Murphy.)
+
+Division 193
+18/03/2013 23:01:00
+The House divided:
+Ayes: 215
+Noes: 307
+Question accordingly negatived.
+
+Clause 28
+
+Enabling the making, and use, of films and other recordings of proceedings
+
+Amendment made: 60, page 31, line 39, at end insert—
+
+‘(5A) The preceding provisions of this section do not apply in relation to Supreme Court proceedings.’.—(Damian Green.)
+
+New Clause 4
+
+Varying designations of authorities responsible for remanded young persons
+
+‘(1) Section 102 of the Legal Aid, Sentencing and Punishment of Offenders Act 2012 (where child remanded to youth detention accommodation, court must designate local authority to look after child and meet costs) is amended as follows.
+
+(2) In subsection (7)(a) (authority that already looks after child to be designated) after “being looked after by a local authority” insert “otherwise than by virtue of section 104(1)”.
+
+(3) In subsection (7)(b) (in other cases, court must designate authority for area where child habitually resides or offence committed) for “, the local authority” substitute “but subject to subsection (7B), a local authority”.
+
+(4) After subsection (7) insert—
+
+“(7A) In a case to which subsection (7)(b) applies, the court is to designate a local authority in whose area it appears to the court that the child habitually resides (a “home authority”) except where the court—
+
+(a) considers as respects the home authority, or each home authority, that it is inappropriate to designate that authority, or
+
+(b) is unable to identify any place in England and Wales where the child habitually resides.
+
+(7B) If in a case to which subsection (7)(b) applies—
+
+(a) the court is not required by subsection (7A) to designate a home authority, but
+
+(b) it appears to the court that the offence was not, or none of the offences was, committed in England and Wales,
+
+the court is to designate a local authority which it considers appropriate in the circumstances of the case.”
+
+(5) After subsection (7B) insert—
+
+“(7C) Where a child has been remanded to youth detention accommodation, the court—
+
+(a) which remanded the child, or
+
+(b) to which the child was remanded,
+
+may designate a local authority (“B”) as the designated authority for the child in substitution for the authority previously designated (whether that previous designation was made when the child was remanded or under this subsection).
+
+(7D) Where a child has at any one time been subject to two or more remands to youth detention accommodation, a court which has jurisdiction to make a replacement designation under subsection (7C) in connection with one or some of the remands also has jurisdiction to make such a replacement designation in connection with each of the other remands.
+
+(7E) Where a replacement designation is made under subsection (7C) after the end of the period of remand concerned, the substitution of B for the previously-designated authority has effect only for the purposes of regulations under section 103.
+
+(7F) Where a replacement designation is made under subsection (7C) during the period of remand concerned, the substitution of B for the previously-designated authority—
+
+(a) has effect, as respects the part of that period ending with the making of the replacement designation, only for the purposes of regulations under section 103, and
+
+(b) has effect, as respects the remainder of that period, for all of the purposes listed in subsection (6).
+
+(7G) A court may make a replacement designation under subsection (7C) only if it considers that, had everything it knows been known by the court which made the previous designation, that court would have designated B instead.
+
+(7H) Where a replacement designation is made under subsection (7C) in relation to a remand, the previously-designated authority is to be repaid any sums it paid in respect of the remand pursuant to regulations under section 103.
+
+(7J) A court which has jurisdiction to make a replacement direction under subsection (7C) may exercise that jurisdiction on an application by a local authority or of its own motion.”
+
+(6) A replacement designation under the new section 102(7C) may be made in respect of a remand ordered before this section comes into force, and the amendments made by this section have effect for the purpose of making a replacement designation in any such case; but, in such a case, the substitution of B for the previously-designated authority (and any entitlement to repayment under new section 102(7H)) does not have effect as respects any time before this section comes into force.
+
+(7) Except as provided by subsection (6), the amendments made by this section have effect only in relation to remands ordered after this section comes into force.’.—(Damian Green.)
+
+Brought up, and added to the Bill.
+
+New Clause 5
+
+Supreme Court chief executive, officers and staff
+
+‘(1) For section 48(2) of the Constitutional Reform Act 2005 (chief executive of the Supreme Court to be appointed by Lord Chancellor after consulting President of the Court) substitute—
+
+“(2) It is for the President of the Court to appoint the chief executive.”
+
+(2) Section 49 of that Act (officers and staff of the Supreme Court) is amended as follows.
+
+(3) In subsection (2) (number of officers and staff, and their terms, are for the chief executive but subject to the provision in subsection (3) about application of civil service pension arrangements)—
+
+(a) for “these matters with the agreement of the Lord Chancellor—” substitute “the following matters—”, and
+
+(b) for “subsection” substitute “subsections (2A) and”.
+
+(4) After subsection (2) insert—
+
+“(2A) Service as the chief executive of the Court, and service as an officer or staff appointed under subsection (1), is service in the civil service of the State.”
+
+(5) In subsection (3) (civil service pension arrangements apply to chief executive, officers and staff) for “The” at the beginning substitute “Accordingly, the”.’.—(Damian Green.)
+
+Brought up, and added to the Bill.
+
+New Clause 6
+
+Making and use of recordings of Supreme Court proceedings
+
+‘(1) Section 9 of the Contempt of Court Act 1981 (recording of court proceedings) is amended as follows.
+
+(2) After subsection (1) insert—
+
+“(1A) In the case of a recording of Supreme Court proceedings, subsection (1)(b) does not apply to its publication or disposal with the leave of the Court.”
+
+(3) In subsection (2) (leave under subsection (1)(a): grant, refusal, conditions, withdrawal and amendment)—
+
+(a) after “paragraph (a) of subsection (1)” insert “, or under subsection (1A),”,
+
+(b) for “if granted may” substitute “if granted—
+
+(a) may, in the case of leave under subsection (1)(a),”, and
+
+(c) after “leave; and” insert—
+
+“(b) may, in the case of leave under subsection (1A), be granted subject to such conditions as the Supreme Court thinks proper with respect to publication or disposal of any recording to which the leave relates;
+
+and”.
+
+(4) In subsection (1) (activities which are contempt of court) after paragraph (c) insert—
+
+“(d) to publish or dispose of any recording in contravention of any conditions of leave granted under subsection (1A).”’.—(Damian Green.)
+
+Brought up, and added to the Bill.
+
+Schedule 19
+
+Extradition
+
+Amendments made: 111, page 303, line 36, leave out ‘an’ and insert ‘the most’.
+
+Amendment 112, page 303, line 42, at end insert—
+
+(da) any delay that might result from proceeding in one jurisdiction rather than another;’.
+
+Amendment 113, page 306, line 1, at beginning insert
+
+‘In England and Wales, and Northern Ireland,’.
+
+Amendment 114, page 306, line 6, at end insert—
+
+‘( ) In Scotland, for the purpose of determining any questioning of a relevant certification decision, the High Court must apply the procedures and principles that would be applied by it on an application for judicial review.’.
+
+Amendment 115, page 307, line 41, leave out ‘an’ and insert ‘the most’.
+
+Amendment 116, page 308, line 2, at end insert—
+
+(da) any delay that might result from proceeding in one jurisdiction rather than another;’.
+
+Amendment 117, page 310, line 1, at beginning insert ‘In England and Wales, and Northern Ireland,’.
+
+Amendment 118, page 310, line 6, at end insert—
+
+‘( ) In Scotland, for the purpose of determining any questioning of a relevant certification decision, the High Court must apply the procedures and principles that would be applied by it on an application for judicial review.’.—(Damian Green.)
+
+Clause 43
+
+Orders and regulations
+
+Amendments made: 72, page 47, line 5, leave out ‘2’ and insert ‘[Modification of NCA functions]’.
+
+Amendment 119, page 47, line 21, at end insert—
+
+‘( ) regulations under section [Restraint orders and legal aid: supplementary];’.
+
+Amendment 73, page 47, line 27, at end insert—
+
+‘(k) an order under paragraph 5 of Schedule [The NCA: Northern Ireland].’.
+
+Amendment 74, page 47, line 37, at end insert—
+
+‘( ) an order under paragraph 1, 2, 3 or 4 of Schedule [The NCA: Northern Ireland].’.
+
+Amendment 75, page 47, line 37, at end insert—
+
+‘( ) an order under Schedule [Proceeds of crime provisions: Northern Ireland].’.—(Damian Green.)
+
+Clause 46
+
+Short title, commencement and extent
+
+Amendments made: 77, page 49, line 13, after first ‘to’ insert
+
+‘26 and [Supreme Court chief executive, officers and staff] and’.
+
+Amendment 78, page 49, line 13, before ‘28’ insert ‘27 and’.
+
+Amendment 79, page 49, line 13, leave out ‘(except section 24(2))’.
+
+Amendment 80, page 49, line 15, at end insert—
+
+‘( ) Subsection (3) does not apply to—
+
+(a) Part 4A of Schedule 13, or section 18 so far as relating to that Part;
+
+(b) section 24(2).’.
+
+Amendment 81, page 49, line 15, at end insert—
+
+‘( ) Section [Varying designations of authorities responsible for remanded young persons] comes into force on the day after the day on which this Act is passed.’.
+
+Amendment 82, page 49, line 16, after ‘24(2)’ insert
+
+‘, [Making and use of recordings of Supreme Court proceedings]’.
+
+Amendment 121A, page 49, line 17, at end insert—
+
+‘( ) Sections [Awards of exemplary damages] to [Awards of aggravated damages] come into force at the end of the period of one year beginning with the day on which a body is established by Royal Charter with the purpose of carrying on activities relating to the recognition of independent regulators of relevant publishers (as defined by section [Meaning of “relevant publisher”]).’.
+
+Amendment 83, page 49, line 30, leave out subsection (8) and insert—
+
+‘(8) The following come into force on the day on which this Act is passed—
+
+(a) Part 4A of Schedule 13, and section 18 so far as relating to that Part;
+
+(b) section 33 (except subsection (6)(a));
+
+(c) Part 2 of Schedule 17;
+
+(d) sections 43 to 45 and this section.’.
+
+Amendment 84, page 49, line 31, at end insert—
+
+‘( ) Section 30 comes into force on the day on which this Act is passed.’.
+
+Amendment 85, page 49, line 31, at end insert—
+
+‘( ) Schedule [The NCA: Northern Ireland] comes into force on the day on which this Act is passed.’.
+
+Amendment 86, page 49, line 31, at end insert—
+
+‘( ) Schedule [Proceeds of crime provisions: Northern Ireland] comes into force on the day on which this Act is passed.’.
+
+Amendment 122, page 49, line 37, at end insert—
+
+‘( ) sections [Awards of exemplary damages] to [Other interpretative provisions];’.
+
+Amendment 87, page 50, line 13, at end insert—
+
+‘( ) This section is subject to Schedule [The NCA: Northern Ireland] (the NCA: Northern Ireland).’.
+
+Amendment 88, page 50, line 13, at end insert—
+
+‘( ) This section is subject to Schedule [Proceeds of crime provisions: Northern Ireland] (proceeds of crime provisions: Northern Ireland).’.—(Damian Green.)
+
+Third Reading
+
+Queen’s consent signified.
+
+23:14:00
+
+The Secretary of State for the Home Department (Mrs Theresa May)
+I beg to move, That the Bill be now read the Third time.
+
+The Bill has undoubtedly been enhanced by the process of parliamentary scrutiny, so I would like to pay tribute to all right hon. and hon. Members who served on the Bill Committee and to those who spoke on Report, as well as to the Clerks and the Bill teams in my Department and the Ministry of Justice for their advice and support. In particular, I would like to commend the work in Committee of the Minister for Policing and Criminal Justice, my right hon. Friend the Member for Ashford (Damian Green), and the Minister of State, Home Department, my hon. Friend the Member for Taunton Deane (Mr Browne), who is unable to be here this evening owing to the imminent—it might even have happened in the past few hours—arrival of the baby that his partner has been expecting.
+
+The Bill already had many excellent features when it was first introduced in the other place last May, but it now returns to that House with a number of important new additions to which I shall refer. I welcome the broad measure of support for many—indeed, for most, I think it fair to say—of the provisions in the Bill. Over the two days on Report, the Government have, quite properly, been probed on a number of detailed aspects of the Bill, but the approach of the official Opposition, in Committee and again on Report, has been to seek to weigh down the Bill with a litany of requirements to produce impact assessments or to undertake reviews. Of course, we must properly assess the impact of these important measures, but the Government are determined to get on with the task of implementing these much-needed reforms to our justice system, not to procrastinate and delay by undertaking review after review.
+
+I commend the efforts of all those who work with professionalism and dedication in our criminal and civil justice systems, but reforms are undoubtedly needed if we are to continue to see further reductions in crime, including serious and organised crime, and drive further improvements in the efficiency, effectiveness and responsiveness of the police, prosecutors, the courts, and prisons and probation services. Our reforms must be judged, first and foremost, by whether they help us to cut crime and lead to a reduction in harm to our communities and to fewer victims of crime.
+
+For too long, too many organised criminals have managed to stay one step ahead and beyond the reach of law enforcement. That will be the case no longer. The new National Crime Agency will have the capabilities,  powers and authority to bring about a step change in our response. It will have a global reach and a local impact. It will lead the fight against the gangs that traffic drugs, people and guns; who abuse and exploit children; and who corrode and subvert our institutions and cost our economy billions of pounds a year. It will not do this alone, but in partnership with others. We are redrawing the policing landscape, with the NCA at the centre. The public will be better protected, as will our national security, for its establishment
+
+The introduction of the new drug-driving offence will bear down on those who put other road users at risk of death and serious injury by taking illegal drugs and driving, and the enhanced protection for householders who honestly act in self-defence, and in the defence of their loved ones, when faced with an intruder in their home will ensure that the criminal justice system treats them as the victim, not as the perpetrator, of a crime. Furthermore, in helping the NCA and its law enforcement partners to tackle serious, organised and complex crime, the Bill provides for an innovative new tool—the deferred prosecution agreement—that will enable more organisations that commit economic and financial crimes to be brought to justice.
+
+Among the important changes made to the Bill in this House is the provision to strengthen the civil recovery regime. As well as seeking to prosecute and convict those who commit crimes for financial gain, we must also ensure that we use all legitimate means to deprive such individuals of their ill-gotten gains wherever they may be. The Bill plugs a significant gap in the Proceeds of Crime Act 2002 that had opened up as a result of the Supreme Court’s judgment in the case of Perry. It cannot be right that someone who commits crimes in this country should be able to escape the reach of our courts by siphoning off the profits of their criminal activity to buy property and other assets in another jurisdiction or to hide away cash in some foreign bank account. The Bill makes good the damage done to the civil recovery regime by the Perry judgment and ensures that, provided there is some connection with the United Kingdom, the reach of our courts continues, as before, to extend worldwide.
+
+We have also made another important change to the 2002 Act. The system of restraint orders under that Act is designed to ensure that someone suspected of profiting from crime cannot squander or squirrel away their assets while the proper legal processes leading to the forfeiture of those assets is under way. However, it cannot be right that those with significant restrained assets can then qualify for publicly funded legal aid, free from any contribution. Those who can afford to pay towards their defence costs should do so, even if their assets are frozen. I am pleased that the House has today agreed to add provisions to the Bill to end this abuse. In implementing the scheme, we will want to be assured about the potential impact on the moneys paid as compensation to victims or to the police and prosecutors to fund further enforcement activity. Our aim should be to ensure that more is received from criminals, rather than simply to redistribute funds around the criminal justice system.
+
+The Bill also includes some important reforms to the system of immigration appeals. There are two drivers for these reforms. The first is to ensure that the limited resources available in this tight financial climate are  focused on those immigration decisions, such as a refusal of asylum, that have the more significant impact on the persons affected. The refusal of a family visit visa simply does not fall into that category of seriousness. No other category of visit visa attracts a right of appeal and the costs of the appeals process in such cases simply cannot be justified, particularly when the more timely and cost-effective option is to submit a fresh application.
+
+The second driver underpinning the reforms to the immigration appeals system is to ensure that those who are a threat to our national security are removed from this country as quickly as possible. It simply makes no sense for those whose presence in this country the Home Secretary has personally deemed not to be conducive to the public good should then be able to return to the United Kingdom to challenge the cancellation of their leave, nor should someone who is being deported on national security grounds be able to delay their removal from this country by raising any and all objections on human rights grounds, which must then be determined before the deportation can be effected. Following an amendment in Committee, such a person will now be entitled to an in-country appeal only where they would face a real risk of serious, irreversible harm if their deportation were to go ahead before the appeal had been heard.
+
+Finally on this issue, I thank my hon. Friend the Member for Esher and Walton (Mr Raab) for his implacable resolve that the qualified right to respect for private and family life under article 8 of the European convention on human rights cannot be allowed to stand in the way of the will of Parliament on the deportation of foreign nationals who commit serious offences. Last June the House gave its unanimous support to changes to the immigration rules for this purpose. I have already indicated that I now intend to bring forward primary legislation as soon as parliamentary time allows to establish the correct approach to article 8 in immigration cases. I am determined that the will of Parliament on this issue will prevail.
+
+My hon. Friend has also been assiduous in seeking to strengthen the safeguards in our extradition arrangements. It is vital that we have effective extradition arrangements with our European partners and countries further afield. This country must not become a safe haven for those who commit offences abroad, nor should those who commit crimes here be able to escape justice by fleeing our shores. However, I will be the first to accept that our extradition arrangements must not only be fair, balanced and proportionate, but be seen to be such. That is why I have brought forward a significant change to the arrangements—namely, to introduce a new bar on extradition on grounds of forum, so that wherever possible decisions about where a trial should be held must be made in open court, where they can be challenged and explained. We will continue to examine whether we can make additional changes to the Extradition Act 2003, both to add further safeguards where they are needed and to improve its effective operation. I am determined to bring forward such changes as soon as parliamentary time allows.
+
+Sir Edward Garnier
+I want to press the Home Secretary further on that point. When does she think parliamentary time will be allowed? Will it be before the end of this Session, or are we talking about later in the year or just some time in the future? [Laughter.]
+
+Mrs May
+I think the chances of it being before the end of this Session are pretty slim—the Leader of the House’s reaction from a sedentary position probably indicated that—but it is certainly my intention that the changes should be brought forward in the next Session, in suitable legislation. One further point on extradition is that I believe our extradition treaty with the United States is fair and balanced, and I think the changes being put through will increase public confidence in the system.
+
+Lastly, I want to mention briefly three further matters before the Bill returns to the other place. These relate to areas of disagreement between the two Houses, which I hope can be quickly resolved. When the Bill was in the other place, their lordships removed the power to confer counter-terrorism functions on the National Crime Agency by order, and they also added unnecessary and unworkable proposals in respect of the adjudication of complaints against bailiffs and the management of female offenders. These were removed from the Bill in Committee. Last Wednesday this House voted to restore what was originally clause 2 and voted—again, by a wide margin—against the Lords amendment on bailiffs.
+
+I would urge the other place to respect the views of the elected House and, when it comes to consider these Commons amendments in a week’s time, to agree to them all so that the Bill can be speedily enacted and we can get on with the business of implementing the much-needed reforms that it contains. The Bill, of course, now goes back to the other place with amendments on press conduct, and I am pleased that these have now been agreed by those on both sides of the House. On that final note, I commend the Bill to the House.
+
+23:24:00
+
+Yvette Cooper (Normanton, Pontefract and Castleford) (Lab)
+So, at this late hour, we finally reach the Third Reading of the Crime and Courts Bill and gather to bid it farewell and send it on its way back to the other place. I have to say that it is lovely to see the Home Secretary in her place. We missed her last week—at least on this side of the House—and now that she is here, perhaps she would care to intervene and tell us what her alcohol pricing policy is. We would love to hear it, because unfortunately, her crime prevention Minister, the Minister of State, Home Department, the hon. Member for Taunton Deane (Mr Browne), struggled to tell us what it was. He took the flak for her, and given the news about his new arrival, she really does owe him one. She needs to ensure that she pays that debt.
+
+Opposition Members owe thanks to my right hon. Friend the Member for Delyn (Mr Hanson), my hon. Friends the Members for Walthamstow (Stella Creasy), for Darlington (Jenny Chapman), and for Middlesbrough (Andy McDonald), my right hon. Friend the Member for Wythenshawe and Sale East (Paul Goggins), my hon. Friends the Members for Walsall South (Valerie Vaz), for Birmingham, Selly Oak (Steve McCabe) and for Sedgefield (Phil Wilson), all of whom have led our efforts on the Bill.
+
+We support the Bill overall, and we support many of its key measures and objectives. We clearly support the Leveson measures that we have discussed extensively this afternoon, and the aims to strengthen the fight against organised crime. We also support the efforts to  increase judicial diversity, although we wish that the Government could have done more in that regard, and we support the action on drug-driving.
+
+The Home Secretary has done an admirable job of attempting to create a theme in what many Members have repeatedly described as a Christmas tree of a Bill that has had an increasing number of different things attached to it during its passage through the House. That leaves the right hon. Lady and me to take it in turns to play the fairy on the top in the debate this evening.
+
+Although we support the principles behind many of the key measures, the detailed debates have revealed considerable weaknesses in the Government’s implementation plans and a chaotic approach to some serious aspects of the fight against crime and terrorism. The Home Secretary made great play of the issues regarding the National Crime Agency, which, as she knows, will simply pick up much of the valuable work now being done by the Serious Organised Crime Agency. However, the Bill will leave this House with the Government still having failed to reach agreement on how serious organised crime will be dealt with in Northern Ireland. The Bill will abolish SOCA, which has done a considerable amount of work on human trafficking, drug smuggling and other organised crime in Northern Ireland, yet the National Crime Agency will be unable to operate there or to continue any of that work because the Government have failed to reach agreement on that matter. We have no idea how long it will take to sort that out, or how that work will be done in the meantime.
+
+Jim Shannon (Strangford) (DUP)
+It is a matter of concern that we read in the papers back home today that someone who is involved in crime in south Armagh has been able to launder some £85 million through various banks. That is an example of an issue that cannot be addressed, and it is down to the intransigence of Sinn Fein at this time.
+
+Yvette Cooper
+There are some very serious gaps as a result of the Bill. The Government chose the timing of its passing. I think it was nearly two years ago that the Home Secretary announced that she wanted to replace SOCA with the NCA, yet they have failed to reach agreement on the way in which the NCA should operate in Northern Ireland. That is a matter of concern. As a result of the joint work between SOCA and the Police Service of Northern Ireland, more than £13 million of drugs were seized, 33 potential victims of human trafficking were rescued, and more than £4 million of criminal assets and 23 million counterfeit and smuggled cigarettes were seized. There were also 23 criminal convictions for serious environmental offences.
+
+That was all as a result of the important joint work being done by the PSNI and SOCA. As of tonight, however, we do not know whether any of that work will continue, or how and when a solution will be reached. And if that was not bad enough, there is no agreement on handling the overseas proceeds of crime with Northern Ireland either. Again, the Home Secretary made great play of the importance of overseas and global reach. Criminals in England, Scotland and Wales, however, who have assets abroad will rightly find under this Bill  that they can be seized by the courts, but because of the Government’s failure to reach agreement, criminals in Northern Ireland will be able to keep those assets abroad untouched. Again, we have no idea when that will be sorted out. The Home Secretary chose the timetable, yet she failed to get agreement and has created this gap.
+
+On terrorism, too, the Home Secretary’s approach is chaotic. After the Government were defeated in the other place on their plans on counter-terror and the National Crime Agency, she told the House on Second Reading that she would “listen and reflect” on the concerns of the experts, including the former Metropolitan Police Commissioners in the other place, but she has done nothing of the sort. Instead, at the last minute, she has simply reinstated an order-making power to deal with a major change to counter-terror action in Britain, yet with no reason given in her Third Reading speech when she had the opportunity to do so. She has told us repeatedly that she has not made a decision whether or not to transfer the powers from the Met to the NCA. In that case, why put an order-making power in the Bill? We can guarantee that there will be another Christmas tree Bill coming from the Home Office, if not many more, which will give her the opportunity to do so and to have a proper debate after she has taken a decision, when she can set out for Parliament the grounds for her decision rather than trying to pre-empt serious debate—either in this place, or in the other place—despite the serious concerns raised with her. I am sure that the other place will want to look at this again.
+
+We have had other concerns, such as the watering down of protection against abuse by bailiffs; ignoring the concerns of the Lords; removing the obligation inserted by the other place to address problems for women offenders; the lack of implementation plans for drug-driving; removing immigration visitor appeals even though a high proportion of decisions are wrong in the first place; and the Government’s failure to bring in the stronger immigration enforcement powers we called for. We are concerned that the Government were late in bringing forward the proposals on a forum bar without consultation. I hope that the Home Secretary has got the details of this right. Clearly, it is extremely complex, but given the importance of extradition issues, it is unfortunate that she still proposes to pull out of the European arrest warrant.
+
+There are some very important issues in the Bill, and we will support it. The Government have, however, wrongly ditched some of the improvements that the noble Lords made, and I hope they will be made to think again. We will support the Bill tonight; we hope the Lords will improve it; and we very much hope that the Government will sort out the serious gaps and failings in the detail and implementation that these debates have exposed.
+
+23:33:00
+
+Sir Edward Garnier
+I congratulate all those who have had rather more to do with this Bill than I have on getting to this point, and I hope that it will have fair passage in the other place next week. I am particularly pleased that, after a great deal of to-ing and fro-ing, the Bill still contains clause 32 on deferred prosecution agreements. I have a bit of a one-track mind on the subject, but I suspect that this piece of the Bill is going  to earn, rather than cost, the Treasury some money—acting as a criminal justice weapon that will be to the advantage of the Chancellor. I hope that as he thinks about this Wednesday, he will remember clause 32 of this Bill.
+
+I urge my right hon. Friend the Home Secretary—and the Justice Secretary, who is temporarily absent—to get on with the underlying secondary legislation, Crown court rules and so forth, which will allow the deferred prosecution agreements to be implemented. I hope that we can prosecute the first deferred prosecution agreement before the end of this year and, if not before Christmas, very shortly after it. It will be a valuable addition to our criminal justice armoury.
+
+I heard what my right hon. Friend the Home Secretary said about further consideration of extradition matters. It was, if I may say so, pretty dreadful that we did not have an opportunity to discuss any aspect of extradition this evening. This was an entirely self-inflicted wound, and I suspect that with a little more flexibility it could have been achieved—but there we are. I know that my right hon. Friend has said that something will be done about it later in the year. I am sure she will be as good as her word. I shall certainly be watching to see that she is.
+
+23:34:00
+
+Paul Goggins (Wythenshawe and Sale East) (Lab)
+The Home Secretary began by noting how much the Bill had improved since Second Reading. As one who has sat through all the Bill’s stages so far, I must admit that I found it difficult to remember what was in it, given the huge range of other issues with which we were confronted at a very late stage. However, it is indeed a very important Bill, and I compliment those on both Front Benches on the assiduity with which they have debated the issues and led the argument, both in Committee and in the Chamber.
+
+The National Crime Agency is now with us. I have never accepted the Home Secretary’s premise that it had to be introduced because what had gone before had failed—I think that the Serious Organised Crime Agency was an excellent organisation—but if the Home Secretary has judged that the NCA can take SOCA’s work forward, it has my full support. I do not quibble with that for a minute.
+
+I am pleased that, in Committee and in other debates, we were given clear assurances that the Child Exploitation and Online Protection Centre would remain as an independent force for good in our society. It is a global leader, and I am delighted that Ministers have ensured that its reputation and its work will be protected.
+
+My right hon. Friend the Member for Belfast North (Mr Dodds) mentioned the difficulty involving the legislative consent motion. We debated that extensively last Wednesday. It is deeply regrettable that the National Crime Agency will not be able to operate fully in Northern Ireland, and I urge the Home Secretary and all Ministers who are concerned with the issue to do everything that they can. I urge them to negotiate, to discuss the issue in detail, and to bring Northern Ireland into line with the rest of the United Kingdom in this regard. As my right hon. Friend said, it is essential for the same rule of law to operate there, and for the same resources to be applied to the combating of organised crime. I know that the Home Secretary shares that view, and I hope that she will be able to secure an agreement soon so that all those additional amendments can be implemented and the NCA can work properly in Northern Ireland.
+
+Mr Nigel Dodds (Belfast North) (DUP)
+Because of his experience in Northern Ireland, the right hon. Gentleman is well aware of the importance of establishing measures for it. He has appealed to the Home Secretary to do what she can. Will he also appeal to the parties in Northern Ireland that have blocked such action, namely Sinn Fein and the Social Democratic and Labour party? The Democratic Unionist party, the Ulster Unionists and the Alliance party are strongly in favour of it. I am sure that the right hon. Gentleman will widen his appeal still further.
+
+Paul Goggins
+I am happy to agree with my right hon. Friend. That is a very important point. Let me put a rhetorical question to those who are not in the Chamber tonight, but who represent all the parties in Northern Ireland. SOCA was able to sit alongside the Police Service of Northern Ireland from 2006 onwards, and did an excellent job. Why should that work not be continued to ensure that those whose organised criminality poses a threat are dealt with, and dealt with properly?
+
+Mark Durkan
+My right hon. Friend will recall from the debate last week that some of us made clear that we had drawn attention for a long time to problems about which no one in the Northern Ireland Office, the Ministry of Justice or anywhere else had talked to us. Since people have talked to us, the negotiations have made progress. Let me also say that, unlike Sinn Fein, my party has never had any problem with the provisions relating to asset recovery. We want asset recovery to go the distance.
+
+Paul Goggins
+I warmly welcome what my hon. Friend has said. He will recall that last week I intervened on his speech to observe that it was strange that the Minister had not leapt to his feet and embarked on negotiations with him there and then, because he was clearly willing to discuss this matter. I urge the Home Secretary, in good faith, to talk to the parties in Northern Ireland and work with Northern Ireland Ministers to ensure that legislative consent is secured as soon as possible.
+
+We discussed community orders at some length in Committee. I thank the Minister for Policing and Criminal Justice, who, along with the Under-Secretary of State for Justice, the hon. Member for Kenilworth and Southam (Jeremy Wright), has had constructive discussions with the Restorative Justice Council, with me and with others about the merits of moving restorative justice to the mainstream of the criminal justice system. I know that the Minister shares that aim and aspiration, and I welcome amendment 110, which the Government tabled last Wednesday. We did not have time to debate it, but the substance is there, and that is important. I thank the Minister for the attention that he paid to the issue.
+
+I hope that the amendment relating to women offenders, which was cruelly removed from the Bill in Committee, will be reinserted when the Bill returns to the House of Lords, because I think it important to focus on the needs of women offenders. The aim of working with any offender is to try to ensure that they do not reoffend and that they can re-establish their lives in a proper way. The Lords amendment was right to focus attention on the needs of women offenders and if that is re-inserted into the Bill, I urge Ministers to accept it as a positive move that they can work with.
+
+May I also thank the Ministers who have responded to the debates on child neglect? Again, we did not have time to debate an amendment on that on Report, but the Minister for Policing and Criminal Justice made positive assurances about continuing to discuss the matter. The law is very outdated and it is important that we try to modernise it in a way that works and protects our children. Again, I pay tribute to him for what he has done on that.
+
+Finally, I think that the Home Secretary is wrong to bring the super-affirmative order proposal back. I say to her that the way in which this has been done is not acceptable. She told us on Second Reading that she had not made her mind up, the Minister in Committee never raised it there, except obliquely, and yet right at the end it is brought back in. There is a debate about who should lead on counter-terrorism, but I find it odd—it is nice to be able to say this to her personally, as I said it the other day when she was not here—that this Home Secretary told us that to extend pre-charge detention beyond 14 days and to get the enhanced terrorism prevention and investigation measures we had to have fresh primary legislation, but to change the lead responsibility for counter-terrorism we need only secondary legislation. I ask her to reflect on that again. I hope that their lordships will take that measure out of the Bill again, and I urge her to think carefully before she moves to try to put it in.
+
+Let me end by saying to the Home Secretary, to her colleagues and certainly to my Front-Bench colleagues that they have done a fine job in leading this difficult and complex Bill to the conclusion that we have reached tonight.
+
+23:41:00
+
+Mark Reckless (Rochester and Strood) (Con)
+The Home Secretary introduced her remarks by referring to how the Bill had been enhanced by parliamentary scrutiny. I have no doubt that the Public Bill Committee did good work, but as a description of the 20 minutes we have had in today’s debate to consider all the remaining non-Leveson clauses, “enhanced by parliamentary scrutiny” is probably not the appropriate one.
+
+I welcome what I see as the core of this Bill: the creation of the National Crime Agency. The shadow Home Secretary cavils in respect of how it is not going to be greatly different from the Serious Organised Crime Agency, but surely the key difference is that the NCA will be able to task police forces with carrying out necessary policing activities in the national interest. SOCA has not had that power and has been reliant on persuasion to get co-operation from local forces, and the creation of the NCA is the other side of the coin of the election of police and crime commissioners. We are making local and democratic what properly should be local and democratic while ensuring the necessary central control over national policing, which we have not really had in this country previously.
+
+I very much regret the attachment to this Bill of what I consider to be, in all prospects, a press law. An organisation, Hacked Off, seems to have taken over both the Liberal Democrat and the Labour party positions on this issue. In response to an apparent allegation that  the Labour party was the political wing of Hacked Off, the deputy leader of the Labour party did not deny it; she merely gave great congratulations to Hacked Off on what it had achieved. I am concerned that what it has achieved is eliding two different groups: the genuine victims of the press, such as the Dowler family, and a group of celebrities who would like to engage with the press on their own terms. I fear that what is coming out of today’s proceedings will benefit that latter group at least as much as the former. Some older Members of the House may recall the days of the industrial relations court in the early 1970s. When trade unions did not co-operate with that body, it failed in its objectives. That could, and I hope will, also happen to the royal charter, with its statutory underpinning that we are pushing through today.
+
+The problem with the royal charter is that in many ways it is worse than a statute, because we cannot actually scrutinise it; it is just Ministers and senior people in the Opposition meeting behind closed doors to cook up these instructions to the press, and next to no scrutiny is provided in this House. For instance, article 11.7 of the royal charter states that the board
+
+“shall have the right to request further reasonable sums from the Exchequer. In response to such a request, the Exchequer shall grant such sums to the Recognition Panel as it considers necessary”.
+
+It could be argued that that was a disbursement of public funds without scrutiny from this House.
+
+Another area of concern to me in the charter can be found in paragraph 11 of schedule 3, which states:
+
+“The Board should have the power (but not necessarily the duty)”—
+
+whatever that means—
+
+“to hear complaints…from a third party seeking to ensure accuracy of published information.”
+
+The schedule goes on to say:
+
+“Although remedies are essentially about correcting the record for individuals, the power to direct a correction and an apology must apply equally in relation to…matters of fact where there is no single identifiable individual who has been affected.”
+
+Instead of the interplay of ideas between different journalists and individuals competing to have their material published and heard in the public sphere, a regulator will determine the meaning of truth—a Ministry of Truth, as it were.
+
+People will have to submit to this process, and if they do not there will be exemplary damages or they will have to pay the costs of anyone who wants to take up a case against them, however ill-founded it might be. We are not going to the right place with this royal charter; it is not where we should be heading.
+
+It is also extraordinarily unclear how the charter will apply in the blogosphere and to the web. The definition of relevant publisher almost suggests that one particular blog, that of Guido Fawkes, has been singled out to try to ensure that it is caught by the terms of the charter. Let us consider the statutory underpinning. Public bodies are exempted under paragraph 6 of new schedule 5, and apparently a public body
+
+“means a person or body whose functions are of a public nature.”
+
+I hope that my blog will be exempt and I will not have to answer to the Home Secretary for any transgressions I make within that sphere. The final issue in considering the charter is where it will go next. We are setting it up without any idea of its final destination.
+
+One thing we failed to consider in today’s debate was the excellent new clause tabled by my hon. Friend the Member for Esher and Walton (Mr Raab). The Home Secretary referred to the respect in which she holds my hon. Friend, but judging by the letter she issued earlier today he would have caused the release on bail and the non-deportation of 4,000 people a year. We were not told that his advice has been signed off by three eminent QCs, whereas the record of the Home Secretary’s officials and, in particular, her lawyers in this area is, to put it mildly, less than stellar.
+
+We heard yet again from the Home Secretary about the supposed binding rule 39 injunctions when, as the Abu Hamza case showed, they are merely indications to the Government of the European Court’s view according to its rules of what might be in the interests of justice. They are not binding on the Court and it is the Home Secretary who decides that these people will not be deported. It is as if she has not even read the second leg of article 8, under which she is able to interfere in the operation of the right to a private life in the interests of national security, public safety and the prevention of crime. What else could be covered by a rule saying, “You cannot consider this”, when a crime has been so serious that the foreign national has been imprisoned for more than a year? Those people should be sent back and if we had agreed to the new clause tabled by my hon. Friend the Member for Esher and Walton, they would be sent back. Because we ran out of time, and because the Home Secretary is not prepared to take on his far better ideas, the situation will, unfortunately, continue.
+
+23:48:00
+
+Richard Drax
+I want to speak very briefly on the royal charter, if I may do so again. As a former journalist of some 17 years’ experience, I am extremely concerned about where the House is going. What has happened today has been described by those outside as a bit of a love-in; it was self-congratulatory. When all the parties agree, I am pretty concerned that something is wrong. In this case, to use a military analogy, we have dragged a tank out with nothing on it—just the frame. We have parked it on the press’s lawn and said, “Here’s our latest  toy, our latest weapon, that we are going to use to control you.” What frightens me about this toy is that inevitably, now that the royal charter is underpinned by statute—whatever people say, however they disguise it, that is the fact; it is—politicians in the future will not be able to resist the temptation to slap on an extra gun, a mortar tube, because they need it to control the press because the press have done something that does not please the House.
+
+This, for me, is a red line, and my biggest fear. I have spoken to many of the local press down in my constituency and already, because of the Data Protection Act and other law, it is a nightmare for them to get hold of the facts. When I was a journalist, the police, the fire brigade and others used to tell us what was going on because it was in the public interest. Local journalists now are finding it harder and harder to get information from local authorities, the police or the fire brigade—information that is in the public interest. Freedom of information requests, which have been mentioned, have increased because journalists have to use that method to get information that is in the public interest and which this place, on occasions, is trying to hide. That cannot be right and it certainly cannot be in our interest in the future.
+
+I do not believe the House will divide on Third Reading, but I leave it with this thought. I fear that this tank will rumble forward in the years ahead. As my hon. Friend the Member for North East Somerset (Jacob Rees-Mogg) said, the next Government—for example, the Opposition—can get rid of this and bring in their own legislation anyway. What we are doing is purely notional, nothing more.
+
+I conclude on this cautionary note: what we are doing affects the freedom of our country and the freedom of our press. As the final irony, I understand from a source—perhaps the Minister who sums up can reassure me that this is not the case—that former MPs who have been disgraced in the expenses scandal could stand for the new regulatory body. If that is the case, what an irony it would be.
+
+Question put and agreed to.
+
+Bill accordingly read the Third time and passed, with amendments.
+

@@ -1,0 +1,657 @@
+ Covert Human Intelligence Sources (Criminal Conduct) Bill
+
+Consideration of Lords amendments.
+
+Clause 1
+
+Authorisation of Criminal Conduct
+
+15:57:00
+
+The Solicitor General (Michael Ellis)
+I beg to move, That this House disagrees with Lords amendment 1.
+
+Mr Deputy Speaker
+With this it will be convenient to discuss the following:
+
+Lords amendment 2, and Government motion to disagree.
+
+Lords amendment 3, and Government motion to disagree.
+
+Lords amendment 4, and Government motion to disagree.
+
+Lords amendment 5, and Government amendment (b) thereto.
+
+Lords amendments 6 to 14.
+
+The Solicitor General
+This Bill is an important piece of legislation that places a long-standing tactic on a clear and consistent statutory basis. It provides certainty for those who engage in important and dangerous operations on our behalf that they are able to utilise the tools needed to keep us safe and prevent crime. It also rightly provides assurance to the men and women who may find themselves in risky and dangerous situations in order to provide vital intelligence that the state will not prosecute them for activity that the state has asked them to commit.
+
+Since March 2017, MI5 and counter-terrorism police have together thwarted 28 terror attacks, a figure that is higher than that which the Government provided on Second Reading a few months ago. As the director general of MI5 said when this Bill was first introduced:
+
+“Without the contribution of human agents, be in no doubt, many of these attacks would not have been prevented”.
+
+There is a real threat out there, and it is critical that our partners have the tools they need to stop it.
+
+I thank the other place for its detailed and thoughtful debate on this legislation. The other place considered the Bill at length, and has brought forward several amendments to it, which I will now speak to in turn. However, I will first take the opportunity to pay tribute to my right hon. Friend the Member for Old Bexley and Sidcup (James Brokenshire), who is the Bill Minister on this legislation and has taken a typically collaborative and thoughtful approach to it. I think I can say on behalf of the whole House that we wish James all the best for a speedy recovery. [Hon. Members: “Hear, hear.”]
+
+Lords amendment 1 introduces the requirement that an authorising officer must “reasonably” believe that an authorisation is necessary and proportionate. The Government cannot support this amendment because it is both unnecessary and risks creating inconsistency, thereby casting legal doubt on the position in other legislation.
+
+16:00:00
+
+As I previously confirmed in this House to my right hon. and learned Friend the Member for Kenilworth and Southam (Jeremy Wright), the former Attorney General, it is indeed the case that the belief of an authorising officer should be reasonable. That is, as it were, axiomatic. The revised code of practice confirms this and, in response to concerns raised in the other place, it was further amended to make that clear.
+
+The Government therefore cannot accept this amendment, as it creates problematic inconsistency with the position in other legislation. For example, under the Regulation of Investigatory Powers Act 2000, the belief of an authorising officer that an authorisation for the general use and conduct of a covert human intelligence source is necessary and proportionate must be reasonable. Section 29 of that Act simply states that there must be a belief, but it does not use the word “reasonable”. If the word “reasonable” were to be added before the word “belief” in this Bill, it would cast into doubt whether the belief must be reasonable where it is not specified elsewhere.
+
+However, I make it clear that the legal position is already that the belief must be reasonable, as a matter of public law. I say that clearly from the Dispatch Box, as I have done before in answer to a question from my right hon. and learned Friend the Member for Kenilworth and Southam, the former Attorney General. That is why we cannot support Lords amendment 1.
+
+Lords amendment 2 places express limits on the conduct that can be authorised under the Bill. This House has already discussed the issue in some detail, but I will reiterate the reasons why the Government cannot support this amendment. First, the limits on what could be authorised under the Bill are provided by the requirement that any authorisation must be necessary and proportionate, and must comply with the Human Rights Act. Any authorisation that is not compliant with the Human Rights Act would be unlawful, and nothing in this Bill seeks to undermine the important protections in that Act.
+
+However, were we to place explicit limits on the face of the Bill, it would create a risk to the operational tactics involved and, I might add, to the safety of the covert human intelligence source and the general public at large. This assessment has been put to the Government explicitly by operational partners—the people who are actually operating these tactics. The decisions we have made throughout this Bill, particularly on this issue, are based entirely on the reality that our operational partners have experienced in the field, and that is what they are telling us.
+
+By creating a checklist on the face of the Bill, Lords amendment 2 makes it very easy for criminal gangs and others to develop initiation tests. It will certainly be the case that some criminals, in seeking to demonstrate that they are not a covert human intelligence source, will go away and do what is asked of them, and perhaps even commit rape or another serious offence to demonstrate their loyalty to the cause and prove, as it were, that they are not a CHIS—a covert source. Those who do not will instead risk the consequences of wrongly being thought to be a source. Of course, that does not mean that if a covert human intelligence source were asked to commit any crime as part of an initiation process, they could do so, not least because the Human Rights Act 1998 and the test of necessity and proportionality already provide limits. It is not as though there are no limits, because the Human Rights Act and the test of necessity and proportionality provide those limits; it is simply that we need to avoid presenting criminals and criminal gangs with a means to test those people they suspect are agents. The consequence of presenting such a checklist would be felt ultimately by the public, because this tactic will not be able to be deployed to the same degree, and so more successful crimes, terrorist attacks and serious crimes would be committed.
+
+Amendment 3 seeks to confirm that a person who is, at present, able to access the criminal injuries compensation scheme will be unaffected in their ability to access it because of this Bill. As I have outlined, it is dangerous to get into a discussion of the limits of conduct of our operational sources—those that can be authorised—but I will say that, in practice, the operation of the criminal injuries compensation scheme is unaffected by the Bill, and the amendment is therefore unnecessary.
+
+Amendment 4 deals with the safeguards in place for the rare occasions when a juvenile is authorised to participate in criminal conduct. It also deals with the authorisation of vulnerable adults. I recognise that this is an important and emotive issue. None of us likes to contemplate a juvenile being involved in criminal activity. I understand and respect the honourable motivation behind these concerns; it is, no doubt, a desire to protect young people, and Her Majesty’s Government also have that motivation. The Bill does not seek to give public authorities new powers to authorise juveniles as covert human intelligence sources; it simply creates a clear and consistent legal basis for the authorisation of a covert human intelligence source to participate in criminal conduct where that is necessary and proportionate. The Bill also introduces increased safeguards from those that existed before, such as the requirement for all authorisations to be notified to the independent Investigatory Powers Commissioner in close to real time.
+
+Mr Kevan Jones (North Durham) (Lab)
+On juveniles, the right hon. and learned Gentleman is correct that the Bill does not give authorisation to allow for CHIS, because it happens already under the CHIS code of practice, which is also legally enforceable under the Regulation of Investigatory Powers (Juveniles) Order 2000. Given some of the concerns that people rightly have, would it not help to put that into the Bill?
+
+The Solicitor General
+The right hon. Gentleman makes a perfectly reasonable point, as he very often does. The issue with putting the code of conduct into the Bill is, in part, that the code of conduct is, I think, hundreds of pages long. There are also issues of precedent in terms of codes of practice and codes of conduct elsewhere. However, I will give careful consideration to what he says and hope to come back to it.
+
+Juveniles are authorised as covert human intelligence sources only in exceptional circumstances. There are significant additional safeguards in place for these authorisations, including authorisation that must be given by a more senior-level officer, an enhanced risk assessment process, and a shorter authorisation of only four months, with reviews of that authorisation having to take place at least monthly. Several safeguards will be in place, over and above, in respect of juveniles. There is also a requirement that an appropriate adult would be present in any discussions between the handlers and a young person under 16 years of age, and a rebuttable presumption that this is the case for 16 and 17-year-olds. Let me be clear on this point: the presumption is that an appropriate adult will be in place for meetings with 16 and 17-year-olds. That is the default position, if I can put it that way. If the public authority deems that it is necessary to derogate from that position, the rationale detailing the reasons why should be documented and then considered by the Investigatory Powers Commissioner. The commissioner confirmed that, in practice, juveniles are not tasked to participate in criminality that they are not already involved in.
+
+Bob Stewart (Beckenham) (Con)
+Thank you, Madam Deputy—Mr Deputy Speaker. Forgive me—a slip of the tongue.
+
+Mr Deputy Speaker (Mr Nigel Evans)
+As always.
+
+Bob Stewart
+Forgive me—I am on my knees.
+
+Having done this sort of thing, albeit in a relatively minor way, I want to clarify one thing. Often, information was given to people who were doing this kind of work in the field by juveniles. That does not make the juvenile a source. That information can still obviously be passed on, but clearly there are restrictions on using that juvenile in future. However, the information given by juveniles certainly must not be stopped.
+
+The Solicitor General
+Not for the first time, my hon. Friend makes a very powerful point by dint of his experience in these matters, and in a moment I will give an example that he might find interesting on that exact point. As I said, the Investigatory Powers Commissioner confirmed that, in practice, juveniles are not tasked to participate in criminality that they are not already involved in. The commissioner also noted that decisions to authorise were only made when that was the best option for breaking the cycle of crime and danger for the young person involved.
+
+To demonstrate how authorisations for juvenile covert human intelligence sources are managed in reality by the police, let me give an example that can also be found in the IPC’s most recent annual report:
+
+“In one…case, a juvenile was carrying out activity on behalf of a ‘county line’ drug supply group”—
+
+a gang. The juvenile owed money to the gang. He or she
+
+“approached the police wishing to provide information. A referral under the Modern Slavery Act was made by the police and a care plan was drawn up with Children’s Services, including relocating the juvenile and finding them a training course. Once this had been done, as an authorised CHIS, the juvenile was able to provide intelligence to the police regarding the ‘county line’ crime group.”
+
+That is a particularly instructive example of the sort of circumstances in which that can apply.
+
+Lords amendment 4 seeks to add further safeguards for the authorisation of juveniles and vulnerable adults when they are granted a criminal conduct authorisation. While the Government recognise the spirit of these amendments, Lords amendment 4 as drafted creates operational issues. For example, the amendment defines exceptional circumstances as
+
+“where all other methods to gain information have been exhausted”.
+
+That requirement has a tendency to risk the workability of the power and, crucially, the safety of the juvenile because there may be occasions, in the cut and thrust of these things, where there are other ways to gain the information, but those other ways may not be the safest way to extricate the juvenile from the situation that he or she finds themselves in and to lead to the best outcome for the juvenile involved. The words in the amendment are too prescriptive and creative operational and workability issues.
+
+16:15:00
+
+Similarly, the requirement for an appropriate adult to be present in all meetings with all vulnerable adults risks unintended consequences. The definition of a “vulnerable individual” in our legislation in this country is deliberately quite broad, to ensure that the additional safeguards apply to a wide group of people. Let me confirm that it includes victims of modern slavery. It is not clear, however, who could be approached to be an appropriate adult for all vulnerable individuals, bearing in mind, as I know the House will want to do, the duty of care that a public authority, be it the police or any other public authority, has to protect the identity of the CHIS—the covert human intelligence source. The fact is that these individuals may not have a parent, guardian or other person who is responsible for their welfare. So widening the number of people who are aware that a person is a CHIS is undesirable, to say the least, and it increases the risk of disclosure of their identity.
+
+However, the Government are listening and I am listening. The Government are continuing to listen to the views of Parliament on this issue. I thank, in particular, the hon. Member for Walthamstow (Stella Creasy) for her detailed engagement on it, as well as colleagues on the Government Benches behind me. The Government recognise and agree with the spirit of the amendments, understanding the motivation behind them. I commit to continuing to work with parliamentarians in advance of the Bill returning to the other place. Her Majesty’s Government are willing to provide further additional safeguards on the authorisation of any juvenile or vulnerable adult, but Members of this honourable House will, I hope, agree that in doing so we need to get the right balance. We have to have the right balance to ensure that the result of the terminology here does not unwittingly create an unintended consequence for the safety of the CHIS or for the operational workability of this important tactic.
+
+Lords amendment 5 would add further independent oversight to the authorisation process. Both this House and the other place considered and voted on the issue of prior judicial approval, and both Houses voted against that, recognising the operational challenge it would have created. The Government do, however, recognise the need for confidence as to the oversight process for this important power. As such, we supported amendments from Lord Anderson of Ipswich in the other place which require all authorisations to be notified to the Investigatory Powers Commissioner as soon as reasonably practicable, and within seven days. That will provide the IPC with real-time oversight of every authorisation. So the Government are bringing back an amendment in lieu of Lords amendment 5 that retains the notification process but removes the power of the commissioner to cancel an authorisation and stop activity. The cancellation provision to Lords amendment 5 rendered the notification process unworkable. Although this House should be in no doubt as to the seriousness with which public authorities hold the views of the IPC and the strong collaborative nature of their interactions to resolve any issues, the authorising officer has to be, and is, best placed to consider not only the necessity and proportionality of an authorisation, but the live operational environment and the safety of that CHIS. It has to be the authorising officer who has that responsibility. On the extremely rare occasions where a judicial commissioner may find issue with an authorisation, the public authority will consult with the commissioner and may indeed stop, or not commence, the activity that they planned to commence. However, this should not be at the expense of the safety of the CHIS. We think, therefore, that the existing process of close collaboration to agree a way to resolve outstanding issues is the right approach.
+
+Mr Kevan Jones
+I welcome what the Minister has said, but would that information be contained in the annual report of the Investigatory Powers Commissioner?
+
+The Solicitor General
+That is a perfectly reasonable question, but I cannot speak to what might feature in the report of the Commissioner. However, there has been a clear indication from looking at previous reports that he has been as full and frank in his reports as one might expect in the circumstances. I think that is all I can say about what might feature in his reports.
+
+The remaining amendments are either consequential on those discussed or they carve out devolved activity in Scotland. The Government have engaged extensively with the Scottish Government on this legislation, and we are disappointed that we have had to bring forward these amendments, but we do so in respect of the Sewel convention. The Scottish Government were unwilling to recommend legislative consent, despite movement from the UK Government on several issues, as they are requiring express limits on the face of the Bill. As I have mentioned, the Government’s approach to this is driven solely by the advice that we are getting from our operational partners—the people at the coalface, the brave men and women who are doing the job—and I note that operational partners from all parts of this kingdom have advised of the risks to covert human intelligence sources and to the general public of this approach. So it will now be for the Scottish Government to bring forward their own legislation if they wish to place devolved activity on an express statutory basis. I hope and expect that, like the Government, they will strongly follow the advice of their operational partners to ensure that all parts of the United Kingdom retain access to a workable form of this vital tactic.
+
+Mr Kevan Jones
+I agree with the Minister on this point, but can he clarify whether the non-adoption of this in Scotland will affect the operational impact on, for example, MI5? I understand that that is a national jurisdiction, and not controlled by Scotland.
+
+The Solicitor General
+What I can say is that the Scottish Government will need to bring forward their own legislation if they wish to place devolved activity on an express statutory basis.
+
+I hope I have outlined in some detail the issues and amendments that the House needs to consider today. The Government have shown a willingness to compromise on the Bill where that helps to reassure Parliament, but only where it does not threaten the operation of this critical tool that prevents crime and saves lives.
+
+Mr Deputy Speaker (Mr Nigel Evans)
+Initially, I will not be putting a time limit on Back-Bench contributions, but if Members could be concise, that would be welcome.
+
+Conor McGinn (St Helens North) (Lab)
+It is a pleasure to follow the Solicitor General, but I am sure he will understand when I say that I would much prefer to have been following the Minister for Security, the right hon. Member for Old Bexley and Sidcup (James Brokenshire). We wish him well, and I want to thank him for his engagement with me and the shadow Home Secretary, my hon. Friend the Member for Torfaen (Nick Thomas-Symonds), on the progress of the Bill throughout its passage. I am grateful to colleagues in the other place who have shown their customary high standards of diligence and ensured that the Bill contains some robust and vital checks. It returns to us in substantially better shape than when it left us.
+
+As I have said throughout the Bill’s passage, my right hon. and learned Friend the Member for Holborn and St Pancras (Keir Starmer) has made it clear that security is a top priority for the Labour party. Under his leadership and that of the shadow Home Secretary, we will support a robust policy in fighting terrorism and crime in all its forms. We consider it our first responsibility to keep this country, its citizens and our community safe. We are, of course, grateful to those in the police, the security services and wider law enforcement who put their own safety and lives at risk to protect us, and we will meet our duty to support them.
+
+It is the responsibility of Members of Parliament to ensure that there is a system in place that allows our law enforcement to uncover, disrupt and ultimately bring to justice illegal and dangerous activity that threatens the safety and security of the British people. The Solicitor General reminded us of the sobering context of this debate, given the number of terror plots that have been disrupted. The latest figures show that in the last year alone covert human intelligence sources foiled 30 threats to life. It is therefore right that, finally, we should put on a statutory footing the activity of those who work to disrupt some of the vilest crimes imaginable. It is vital that through this process, in creating a statutory framework for the operation of the CHIS, we seek to make sure that there are formal checks, balances and safeguards that ensure that the Bill is fair and protects those who work under its jurisdiction, as well as innocent parties who may be affected by their activity.
+
+Lords amendment 1 was proposed by Cross-Bench peers, and it seeks to ensure a fair and reasonable frame- work for those making an authorisation. It adds the word, “reasonably” so that, with an order to grant an authorisation, the person authorising would need reasonably to believe that it was necessary and proportionate. Without confusing the House with the use of too many “reasonables”, that would seem eminently reasonable. When dealing with sensitive matters of this nature, that places trust in those authorising the activity required, but ensures that their judgment is guided by the parameters of what is deemed appropriate or reasonable.
+
+Lords amendment 2 progresses an amendment that we tabled in the Commons on Report, and which has received support in both Houses. It adds so-called Canada-style limitations to the Bill, including on death, grievous bodily harm, perverting the course of justice, sexual offences, torture and the deprivation of liberty. The Solicitor General has sought to assure us that the Bill is explicit about the fact that the Human Rights Act is applicable in all circumstances, but there is merit at least in exploring the setting-out of specific limitations on the Bill for the sake of clarity and reassurance. Like him, I do not want to see circumstances in which these horrendous offences are set as a test for the CHIS in the field—I know that that view is shared by my right hon. Friend the Member for North Durham (Mr Jones)—but if countries that are our allies, with similar criminal justice systems and with whom we co-operate on security matters, can do this, the Government need to set out a little more forcefully why we should not.
+
+Lords amendment 3 builds on amendments that we introduced in the Commons, and ensures that victims of violent crime in particular are not ineligible for criminal injuries compensation by virtue of the fact that the crime was the subject of a criminal conduct authorisation. We heard many powerful arguments for the amendment during the passage of the Bill. It is vital that, as well as clarifying permissible action for agents working to keep us safe, the Bill ensures that victims are properly protected and can seek redress and compensation if those boundaries are broken. The amendment would ensure that victims can seek adequate redress from the criminal injuries compensation scheme. All victims deserve an unimpeded pass to attaining justice. Despite the unique and rare circumstances of what we are discussing, the provision none the less protects victims of any criminal acts with proper and due process.
+
+Lords amendment 4 makes a change to the Bill that would ensure an authorisation involving children and vulnerable people could be authorised only in exceptional circumstances. I pay tribute to my hon. Friend the Member for Walthamstow (Stella Creasy), as the Solicitor General has done, for her strong campaigning, along with the right hon. Member for Haltemprice and Howden (Mr Davis), other Government Members and the shadow Home Secretary, my hon. Friend the Member for Torfaen, who has taken part in intensive discussions and lobbied on these incredibly important matters.
+
+The amendment has also been supported by the Children’s Commissioner, because it provides the necessary safeguards. The Children’s Society urged the Government to look at the complex interrelationships between different forms of exploitation and abuse, and suggested that they need to be properly considered in policy, policing and child protection. The anomaly that would see 16 and 17-year-olds treated differently if they commit a criminal offence of their own volition, rather than one they are instructed to commit as CHIS, needs to be addressed. I hope the Government listen to the concerns of Parliament, as the Solicitor General outlined, and to those of experts, children’s advocates and wider civil society on this issue.
+
+16:30:00
+
+We also welcome Lords amendment 5, which we pushed for in this place on Report, which sets out that people granted criminal conduct authorisations must inform a judicial commissioner within seven days of the granting of the authorisation. That is vital to ensuring the immediate accountability of the authorisation and to enabling the commissioner to undertake proper scrutiny of decisions. There should be no reason why authorisation cannot be registered within that timeframe, and the amendment provides a clear and efficient process of record. It is right that, if a judicial commissioner thinks upon notification that the authority should not have been authorised, those activities cease forthwith. I am glad that the Government have noted that proposal and amendment—again, it was something that my hon. Friend the shadow Home Secretary raised on Second Reading. It gives necessary transparency to the process, and further assurances on the necessity and proportionality of what is being authorised.
+
+Our amendment (a) to Lords amendment 5 builds on that spirit of oversight by ensuring criminal conduct authorisations may not take place until a warrant has first been issued by a judicial commissioner. We very much appreciate the fast pace at which developments move in an operational sense. However, I think it is similarly important to recognise that in many areas of law we have judges available 24 hours a day to give judgments on urgent matters and emergencies. Such prior judicial oversight in this process would provide even higher standards and additional reassurances, while having minimal impact operationally.
+
+Sir Edward Leigh (Gainsborough) (Con)
+It is welcome that, under new management in the Labour party, the country can probably rest assured that after an interlude the Labour party have returned to the attitude that prevailed under the Blair and Brown leaderships and can be trusted on security issues. I hope therefore, in that spirit of bipartisanship, the Labour party will think carefully about dividing the House and recognise that many of the arguments promoted by the Solicitor General actually made a lot of sense. We might put our agents’ lives at risk if we were to set limits on what could be authorised, so I hope the hon. Gentleman can give me a reassuring reply on that.
+
+Conor McGinn
+I think I might put the first part of what the right hon. Gentleman said on my election leaflets the next time around. On the second part of what he said, I respect entirely the point he made. I listened carefully to the Solicitor General and I will explain in my conclusion our approach to the Bill, which I think has been one where we have sought to co-operate, given its serious and sensitive nature. We rightly and understandably wanted to scrutinise the Bill in its entirety and would seek to improve it were we in the position of introducing it. I hope that will make sense in the next few minutes.
+
+Before I come to that conclusion, let me say that it is unfortunate and disappointing that the Government and the Scottish Government have not been able to reach an agreement. We encouraged those discussions from the outset to ensure that the Bill covered the entirety of the United Kingdom. Even at this late stage, I urge them to work together, because it is important that the public in Scotland have confidence not only that their safety and security is protected, but that they have the safeguards that other parts of the United Kingdom will have, too.
+
+In conclusion, we feel that the Bill has been improved by the amendments. It is not perfect—far from it—but it does provide an important legal framework for activity that previously operated with none. We recognise that it provides formal safeguards and protections for those who operate in this field at this precise moment and who seek to keep us all safe. It provides clarity and guidance for those who have to make difficult decisions in the interests of law enforcement in areas of serious and highly organised terrorism and crime, and it provides protection and the potential for recompense for those who may be adversely affected.
+
+As I have said before, this is uncomfortable territory for the whole House and for many of us personally. It covers activity that operates, frankly, in the shadows, tackling serious and deadly crime and some of the most heinous and awful offences imaginable. The Opposition are committed to working in the national interest to keep people, their families, our communities and the country safe. We know that it is not just the Government who have to make difficult decisions to do this but us as well. I want to be clear: we would and will put forward a different Bill with the safeguards we have outlined at its heart. But when it comes to national security and keeping the public safe, we are not prepared to allow these matters to remain outside parliamentary scrutiny and without any statutory footing. We have a duty to the public and to those who keep us safe.
+
+We acknowledge the importance of putting CHIS activities on a statutory footing, and we have unapologetically worked to scrutinise robustly and responsibly the way in which that is done. We have hopefully ensured some vital safeguards, accountability and protections, and we will continue, as always, to place national security, human rights and support for victims at the centre of our approach to these matters.
+
+Dr Julian Lewis (New Forest East) (Con)
+On behalf of the Intelligence and Security Committee, I entirely endorse the tributes and good wishes paid by the Solicitor General and the hon. Member for St Helens North (Conor McGinn) to my right hon. Friend the Member for Old Bexley and Sidcup (James Brokenshire). His professionalism, calmness and dedication as Security Minister and in other roles are a model for us all. We admire him greatly and wish him the best of health.
+
+Despite extraordinary technical advances in surveillance and espionage methods, human sources in intelligence operations remain indispensable, especially in the counter-terrorist work of our Security Service. Going undercover to join terrorist groups or remaining in a terrorist group, having become disillusioned with its objectives, in order to frustrate them, calls for courage of the highest order. The Intelligence and Security Committee has been briefed by MI5 on specific instances of this, and we accept that, without the use of covert human intelligence sources, many of the attacks foiled in recent years would have succeeded in their horrific aims. That is what justifies the authorisation of specified criminal acts, on occasion, in order to maintain an agent’s cover and in proportion to the potential harm that he or she is working to prevent.
+
+As pointed out on Second Reading on 5 October, the report on Northern Ireland-related terrorism compiled by our predecessor Committee and presented to Parliament that same day firmly concluded at paragraph 39:
+
+“While there are, rightly, concerns that criminal activity may somehow be being legitimised, the need for such authorisations is clear. What is key is that authorisations are properly circumscribed, used only when necessary and proportionate, and subject to proper scrutiny.”
+
+Precisely because covert human intelligence sources are so effective, ruthless terrorist organisations have no qualms in devising tests of the utmost depravity to flush out agents infiltrating their ranks. That is why the provisions of Lords amendment 2 to prohibit the granting of criminal conduct authorisations, or CCAs, are certain to be as counterproductive as they are well-intentioned.
+
+What the amendment proposes, if enacted, would soon come to constitute a checklist of atrocities that could be used to expose undercover agents known to be forbidden from carrying them out. As sure as night follows day, it would also increase the number of such atrocities committed. In order to flush out MI5 agents by putting suspects to the test, paranoid extremists would resort to testing more and more of their group members, if they felt that their organisation was coming under pressure and suffering setbacks.
+
+Mr David Davis (Haltemprice and Howden) (Con)
+My right hon. Friend does great service to this House and the Committee. Given what he has just said, does he believe that these terrorists are unable to read the Human Rights Act?
+
+Dr Lewis
+I have the advantage of having been present when my right hon. Friend made that very point on Second Reading, and therefore I was entirely prepared for that intervention. I will give a response that is perhaps slightly unorthodox, despite the emphasis put on the Human Rights Act by my right hon. and learned Friend the Solicitor General.
+
+In my previous role as Chair of the Defence Committee, it became more and more obvious that the Human Rights Act, and the European convention on human rights, had had serious, and perhaps largely unanticipated, adverse consequences for the operations of our military. I suspect that if applied too literally, they would have equally adverse effects on the operations of our security and intelligence services. As the years go by, and as experience shows, I fully expect that there will have to be amendments to the Human Rights Act. I believe that although terrorists could indeed read it, they would take rather more seriously a categoric list of forbidden offences in the Bill than they would the rather generalised content of the Human Rights Act. I do not expect my right hon. Friend to be wholly satisfied with that, but it is my honest opinion.
+
+Consequently, terrorist groups whose operations might have been compromised by technical means, rather than by human infiltration, would be likely to ask their genuine members to commit more and more forbidden offences, simply to prove their loyalty. The outcome would inevitably be an increase in murders and other serious offences on their lordships’ list, which would not have happened but for the incorporation in statute of such a collection of prohibited crimes.
+
+As I said earlier, the ISC has had a comprehensive briefing from MI5, explaining how those authorisations are used in practice. We are convinced that the Security Service uses them appropriately and proportionately. We are also reassured that the measures in the Bill legalise only what is specified in each criminal conduct authorisation. That means that any other criminal behaviour not covered by the terms of a CCA may be subject to prosecution—a safeguard that will hopefully encourage the House to reject Lords amendment 2. This is one of those occasions when it is necessary—really necessary—to keep our enemies guessing.
+
+Joanna Cherry [V]
+I mean no disrespect to the Solicitor General when I say that, like others, I am sorry not to see the right hon. Member for Old Bexley and Sidcup (James Brokenshire) on the Government Front Bench today. He is a thoroughly decent man. I wish him all the best, and I have been in touch to tell him that privately.
+
+The Scottish National party will support the Lords amendments, but we do not support the Bill. We voted against it on Third Reading for reasons that I set out in some detail in Committee. We regard it as another milestone in the British Government’s retreat from support for such basic rule-of-law principles as equality before the law, and another milestone in the rolling back of human rights protections. That is not to say that we do not see the necessity for some legislation, given the ongoing court proceedings, but we do not think the balance is right in this legislation at all.
+
+16:45:00
+
+The Lords amendments go some way to addressing some of the concerns expressed by my hon. Friends the Members for Gordon (Richard Thomson) and for Glasgow North West (Carol Monaghan), and by me, during the Bill’s passage through this House, and on that basis we will support them. However, by no means do they meet all our concerns.
+
+The speeches from the Front Benchers and others have already addressed in some detail the scope of the Lords amendments, so I shall not waste time by going into that, but given the careful consideration that was given to the matter in the other place, we very much regret that the Government oppose Lords amendments 1 to 4 and seek to remove the second part of Lords amendment 5.
+
+As we have heard already, the remaining Lords amendments remove the Bill’s provisions in relation to matters devolved to Scotland. It is nice, for once, to see what is these days the rare sight of the Sewel convention actually being respected. The reasons why the Scottish Parliament voted to withhold consent to the Bill, on the recommendation of the Scottish Government, were set out in some detail in the Scottish Parliament last week, particularly in the speech of my friend and colleague, the Justice Secretary Humza Yousaf. It is noteworthy that all parties in the Scottish Parliament, apart from the Conservative and Unionist party, shared the Scottish Government’s concerns about the Bill. Notably, the Labour party in Scotland has taken rather a tougher line than its colleagues in this place.
+
+As I said, I outlined the SNP concerns regarding the Bill during its passage through this House. I am afraid to say that although the House of Lords amendments address some of those concerns, they do not go nearly far enough. For a rule of law and human rights-compliant system, we would like to see, among other things, prior judicial authorisation; the removal of the grounds of “preventing disorder” and “economic well-being”; and proper protections for trade union and other activist activities.
+
+In respect of the speech by the right hon. Member for New Forest East (Dr Lewis), for whom I have the greatest respect, I should point out that the Bill is out of step with international practice, including that of other Five Eyes countries. The Government are being misleading when they seek to reassure the House that the Human Rights Act will provide sufficient safeguards to address concerns about the Bill. I explained in detail in Committee why that is wrong, and furthermore pointed out that the Government are in the course of reviewing that Act, so their arguments about it being a safeguard are far from reassuring.
+
+It has been good to see the Lords address the concern about child covert human intelligence sources, and to see protections for children added to the Bill, which the SNP supports with great enthusiasm. However, our party has always stood up for women’s rights, so I emphasise that in the light of the spy cops scandal there is real concern that the Bill could affect a woman’s right to know the true identity of the man with whom she wishes to form a sexual relationship. I do not see anything to address that in the Lords amendments.
+
+Women Against Rape has signed a statement objecting to the Bill that has the support of more than 50 organisations, including the Haldane Society of Socialist Lawyers, Black Lives Matter groups and disability, women’s and environmental justice campaigners. Of course, such groups worked hard with the Lords to ameliorate some of the Bill’s effects, but I know that the unions will not be completely satisfied with the outcome in the Lords. Nevertheless, all those who worked to achieve the Lords amendments are to be commended. The SNP will support them, and we urge the Government to withdraw their opposition to Lords amendments 1 to 5.
+
+We will support the amendments, but we do not support the Bill. Very real concerns remain in Scotland, and indeed across the four nations, that this Bill could be used to suppress dissent. That is not part of Scotland’s enlightenment tradition, and we will not see it done in Scotland’s name. The Scottish Parliament has withheld its consent, and in so far as the current litigation requires changes to the law of Scotland, we will deal with that ourselves in our own Parliament.
+
+Sir Robert Neill (Bromley and Chislehurst) (Con) [V]
+This is a very important Bill, not least because it touches on that really difficult balance that we often have to struggle with—perhaps not to this degree very often, in a democracy—between keeping the nation and our fellow citizens safe and our commitment to the rule of law. There are rare occasions when those can rub up against each other, sometimes uneasily, but whenever possible, I think we would all agree, the rule of law ought to be as paramount as it can be, subject to that duty to protect our citizens and our national interests. So are there ways in which we can reconcile this?
+
+Can I, too, refer to my good and personal friend and constituency next-door neighbour, my right hon. Friend the Member for Old Bexley and Sidcup (James Brokenshire), and wish him well? I think the consensual and constructive approach that he adopted has done a great deal to smooth the passage of this Bill through potentially difficult matters.
+
+I welcome the approach that the Solicitor General adopted in his opening speech, but can I perhaps press him on one or two matters precisely from the rule of law point of view? I would not seek to trespass on some of the expertise of others in relation to operational matters of the security services. I do not think anyone would wish to make life harder for those brave men and women who put their lives at risk to protect ourselves, and sometimes have to authorise operations that otherwise we might find unpalatable. I recognise that, but there are still rule of law issues that I think need to be addressed and ventilated. They were in the upper place, and we need at least to pay attention to them here.
+
+In relation to Lords amendment 1, I hear what the Solicitor General says, but I am struggling at the moment to see why it is convincing to say that it is not reasonable to have, as the shadow Minister said, a reasonableness test. One would have thought that it was logical, if we are to have a statutory scheme, that that scheme should set out what the test shall be. By and large, I would have thought that an objective test, of a high but well-established standard, would be sensible and potentially a safeguard for operatives should their use of the test subsequently be challenged.
+
+I note and understand the Solicitor General’s point about the potential inconsistency with the terms of different parts of the Regulation of Investigatory Powers Act, but as Lord Anderson of Ipswich and Lord Thomas of Cwmgiedd pointed out in the other place—both highly experienced lawyers and people with experience in sensitive matters—there is potentially a greater inconsistency between the wording in the Bill, and therefore potentially the governing statute when it comes into law, and the code of practice. The code of practice, at paragraph 6.4, provides that
+
+“it is expected that the person granting the authorisation should hold a reasonable belief that the authorisation is necessary and proportionate.”
+
+As Lord Anderson pointed out, that of course is not law, but it is something that, should there be any challenge, would doubtless be taken into account. It seems undesirable that there should be a difference in wording between the code of practice and the statute that governs it.
+
+Would the Solicitor General think again about what is so objectionable about the existence of a reasonableness test and how that would actually compromise the effective operation of operatives in the field? I do not see that. As Lord Thomas put it, at the end of the day
+
+“it is very important to make sure that the language of the statute is clear. Nothing could be less desirable than the language of paragraph 6.4…using the words ‘it is expected’”.—[Official Report, House of Lords, 11 January 2021; Vol. 809, c. 553.]
+
+Basically, if it is a statutory scheme, the statute ought to be clear. I would like to hear some further justification from the Solicitor General on that, because it seems to me that if we are creating one inconsistency, we are potentially creating another. I think the words of the former Lord Chief Justice deserve some consideration.
+
+In relation to Lords amendment 2, what was said by my right hon. Friend the Member for New Forest East (Dr Lewis), the Chair of the Intelligence and Security Committee, is right. Although the amendment is well intentioned, it seems to me that practical risks could arise. Those of us who have some experience of serious organised crime will know the lengths to which these gangs are prepared to go to prevent infiltration and the ruthlessness with which they operate. On balance, I think the Government’s case against that amendment is made out.
+
+In relation to Lords amendment 3, I do not think anyone would wish to have a situation where villains—people who would do us great harm, either as terrorists or as serious organised criminals—might seek an opportunity to use the criminal injuries compensation scheme or some other scheme to make claims against the state for circumstances that, in effect, they brought upon themselves, such as injury which they brought upon themselves because of the activities in which they were engaged. I am sure we would all agree with that.
+
+I hope the Solicitor General will address the issue raised by Lord Cormack and others in the debate in the other place: what about the innocent victim, the person who is collateral damage? Say that in pursuant to a properly granted authorisation, a CHIS carries out an  activity that unintentionally—perhaps as a result of a car chase, which is the example that Lord Cormack gave—causes injury to a passer-by, a bystander or someone who happened to be in the wrong place at the wrong time. Surely the Government would accept that morally there can be no justification for that person not being properly compensated. What is the scheme, therefore, by which they are to be properly compensated? I would have thought there was a way forward for the Government to achieve compromise on this. The suggestion is that the Government say, “There are means of doing this”, and I hope the Solicitor General can spell that out.
+
+The person ought at least to be able to go to the criminal injuries compensation scheme. I am told that in Australia and some other jurisdictions, there is a separate indemnity scheme. Either way, the innocent victim of work that is necessarily and properly undertaken to protect the broader interests of the state and its citizens should not go without the scope for recompense. I hope the Solicitor General will address that when he responds to the debate.
+
+Lords amendment 4 raises very sensitive issues. We all accept that there have to be particular protections in law for children and vulnerable people, so I am very sympathetic to the spirit of the amendment, but I do listen to what the Solicitor General says, and I take on board in particular the view of the Investigatory Powers Commissioner as to what actually happens in practice. I hope that the Solicitor General will undertake that the Government will continue to keep a most careful watch on how young people and potentially vulnerable people are used on the very rare occasions when it might be thought necessary to authorise activity involving them.
+
+That brings me to Lords amendment 5 and the amendment in lieu, where it is the second part that is the issue. It was generally accepted that although in an ideal world judicial pre-authorisation would be preferable from a legal point of view, there were arguments about operational difficulties that could arise. Could the Solicitor General do more to address the very important point that Lord Thomas of Cwmgiedd made in moving his amendment, which the Government seek to reverse by the amendment in lieu? We have set up a system with a judicial commissioner, who is to be notified, and who then has a duty to consider that notification and come to a view on it. If they are under a duty to do that, and their conclusion is that the authorisation should not have been granted, are we really to leave it hanging there and to leave it to a rather fudged system of, “Let’s have a word and see what can be done”? If a judicial commissioner—in effect a judge, as Lord Thomas pointed out—says that something was not lawful, because that would be the ground on which they would find that was to be the case, are we then to have a means where something that is unlawful is to carry on, but without more ado? That does not seem to be consistent with our commitment to the rule of law.
+
+17:00:00
+
+The Solicitor General made the point about the risk of safely unravelling that activity. I understand that point, but that is not the same as saying that the commissioner should not be able to insist on unlawful activity—improperly authorised activity—ceasing to take place. Rather than simply rejecting this in the way that is proposed, would it not be more constructive of the Government to seek a means by which that might be  balanced? If an Investigatory Powers Commissioner of the quality of Sir Brian Leveson, arguably the most significant criminal judge of his generation, or one of his deputies were to find that there was an improper authorisation, that would not be done lightly and I would have very great confidence indeed in any such finding and there ought to be action in consequence of it. At the moment, though, the Bill does not provide a satisfactory scheme for that being done. I would have thought that a commitment to upholding the rule of law would require there to be a satisfactory scheme to achieve that, and, given the gravity of the matters, that really ought to be—in some form or another—in the statute. Those are the areas where I hope that the Government will think again about their stance on improving the Bill and perhaps give appropriate assurances to us that could be addressed if the Bill goes back to the other place.
+
+Mr Kevan Jones
+May I join colleagues in the House in sending best wishes to the Minister for Security, the right hon. Member for Old Bexley and Sidcup (James Brokenshire), for a speedy recovery?
+
+In his contribution to this debate, my hon. Friend the Member for St Helens North (Conor McGinn) said that we were talking about issues that take place in the shadows. Well, we are, because many of the activities that our security services undertake cannot, quite rightly, be talked about publicly. I wish to put on record my thanks to the men and women of our services who protect us.
+
+The Chair of the Select Committee, the right hon. Member for New Forest East (Dr Lewis), said that covert human intelligence is important. It is, but there is an emphasis these days that, because we have electronic eavesdropping, data collection and everything else, it is a thing of the past. May I recommend that you, Mr Speaker, and other Members read John Ferris’s excellent new book on the history of GCHQ? It was always the case, even during the second world war, that human intelligence along with intercept was the way in which we got the full picture around intelligence. That is important.
+
+Why do people become covert human intelligence sources? Having seen some of the cases, I can say that the reasons vary. In some cases, they are very brave individuals who put their lives at risk to protect others, and the interface with our security services is vital. I said on Second Reading that, sadly, certain labels got stuck on this Bill right from the beginning. It was felt that, somehow, it would allow the state suddenly to authorise everything from torture to murder. Certainly in my party, it is felt that if a Member is a true socialist on the left, they would have to oppose this Bill every step of the way. I am sorry, but I think that that is very unfortunate. People should read what is in the Bill. We should be welcoming the Bill, as my hon. Friend the Member for St Helens North said. What it is doing is putting on a statutory footing what is taking place anyway. If we look at the law as it stands at the moment, certain authorisation of and participation in criminality by CHISs has always been accepted as necessary by UK courts as long as it is proportionate to the safeguarding of the public. However, it is not on a statutory basis, so actually people who have concerns about the operation of our security services should welcome the Bill. Certainly, in MI5’s case there is an implication about this in the Security Service Act 1989, but the Bill, for the first time, puts it on a statutory footing, which we should welcome.
+
+Having said that, there are aspects of the Bill that need to be improved. Will there be situations in which the individuals that we are talking about have to be part of criminal activity? Yes, there will be. I have been a member of the ISC for a number of years now. I have been briefed, along with other Members, by MI5 not just on this Bill but on others. I have also, in a previous inquiry, read the transcripts between handlers and CHISs. I will not divulge their contents; all I can say is that the information and intelligence obtained in the transcripts that I read was vital to disrupt a number of terrorist plots. This will not go away if we just think that it is too hot to handle; it has a real impact on our daily lives in this country in terms of national security.
+
+I understand what those who tabled Lords amendment 1 want. They want some protection in the Bill so that the list of things that can be authorised can be a checklist. As the Solicitor General and the right hon. Member for New Forest East have already referred to, setting that checklist will make the operation of CHISs very difficult. I do not necessarily agree with what the right hon. Member for New Forest East said about the Human Rights Act, but the idea that the Bill will allow murder, rape and everything else is just not true. That assures me that the justifiable and proportional approach in the Bill is important. We also have the cover-all in terms of the Human Rights Act, so I do not accept, for practical reasons, that Lords amendment 2 would either improve the Bill or make it easier for our security services to operate.
+
+Bob Stewart
+I thank the right hon. Gentleman, who happens to be a good friend, for letting me intervene. I am slightly worried that if we put something into statute and law, it would be utterly tragic if someone who was operating covertly was killed as a result of having a constraint on him or her—there are hers too—that identifies them, and the next thing we know they are stuck in a ditch somewhere with a round in the back of their head. That is the dilemma we face.
+
+Mr Jones
+It is, and there is another thing of which I would like to reassure the House, from a security point of view and from my position on the ISC. As I think I said on Second Reading, such decisions are not taken lightly by the security services. Senior officers authorise and control CHISs for good reasons. Do they have some difficult calls to make? Certainly, from one of the transcripts that I read, they do. Do they, on occasions, withdraw authorisation? Yes, if they think that the individual is doing something that is not justifiable or proportionate.
+
+The other point is that we, and a lot of the Bill’s opponents, have concentrated on the security services, but remember that it will be used by the police and others.
+
+Mr David Davis
+As I was listening to the right hon. Gentleman’s very thoughtful speech, it occurred to me that it might be a mistake to have the same Bill cover the security services and everything up to and including the Food Safety Agency.
+
+Mr Jones
+I have to agree. One thing I do not agree with about the Bill is the scope in terms of some of the organisations that it covers; I raised my concerns about that on Second Reading.
+
+Use of CHISs disrupts child exploitation, county lines, organised crime and—increasingly, when it comes to the security services—right-wing extremism, for which human intelligence is part of the suite of intelligence gathering that those services need to use. I do not agree with Lords amendment 2.
+
+Lords amendment 4 is about juveniles. I pay tribute to my hon. Friend the Member for Walthamstow (Stella Creasy), who has raised what is clearly an emotive issue. I think that covert human intelligence sources should be authorised for the investigation of juvenile criminality only in very exceptional circumstances. But as the Solicitor General said, the impression being given again is that somehow the Bill for the first time gives our security services or police the ability to authorise juvenile covert human intelligence sources. It does not: the ability is there already.
+
+When I intervened on the Solicitor General, I referred to the CHIS code of practice. The Regulation of Investigatory Powers (Juveniles) Order 2000 sets out the additional safeguards relating to junior CHISs. The Government need to find some way of incorporating that in the Bill. The Solicitor General said that it was rather long, but something needs to be there, to answer the issues being raised. I accept—I have seen evidence of this—that there are occasions when junior CHISs are needed: work around county lines gangs is just one example. But the provisions need strengthening, and I ask the Solicitor General to look at that when the Bill goes back to the other place.
+
+Lords amendment 5, on judicial oversight, is important. It is important that the Investigatory Powers Commissioner looks at these issues. Personally, I am not in favour of pre-authorisation because, having spoken to MI5 and seen the transcripts of at least one of the interviews in one terrorist case, I see that these situations are dynamic. It would be very difficult if authorisation had to be obtained every time.
+
+However, I am very much in favour of the Investigatory Powers Commissioner having scrutiny over the authorisations afterwards; that would allow an extra tier of judicial oversight, which would certainly knock on the head some of the nonsense we have heard about the Government or the security services being given the powers to murder people. I asked the Solicitor General about the annual report because it is important for public transparency and scrutiny of this place. I welcome what the Solicitor General said about bringing back an amendment on the issue. That would also allow us on the Intelligence and Security Committee to have some scrutiny.
+
+Like my hon. Friend the Member for St Helens North, I am a little disappointed that Scotland has not agreed to this; to protect the public, it is vital that it does. However, I am reassured by what the Minister said in the House of Lords about that not in any way limiting MI5 operations in Scotland in the national security interests of the whole UK.
+
+Finally, I turn to the issue just raised by the right hon. Member for Haltemprice and Howden (Mr Davis). If I have one big concern about the Bill, it is the Christmas tree of other agencies that are to have these powers; I have not yet personally been given a good explanation of why the Food Standards Agency needs them, for example. I am quite comfortable and satisfied not only that the  security services, police and other agencies are able to run CHISs, but that they do it. They know what to do, they do it on a regular basis, and they have officers with huge experience. That gives me some reassurance that the operation of the Bill, when it becomes law, will be done properly. I would like some convincing that the Food Standards Agency and others that use these powers on a less regular basis will necessarily have that thoroughness.
+
+Let me conclude by again thanking the Solicitor General and the right hon. Member for Old Bexley and Sidcup, who have interacted on the Bill with Members across the House, and by once again thanking the men and women of our security services.
+
+17:15:00
+
+Mr David Davis
+May I, too, start by paying proper credit to the Minister for Security, my right hon. Friend the Member for Old Bexley and Sidcup (James Brokenshire)? James is a very old friend, a very long-standing colleague and an old protégé of mine. I spoke to him only a few days ago, and I have to tell the House that, given the seriousness of the operation that he is facing, he is both calmer and braver than I would be. We wish him well.
+
+The origins of this Bill are, to say the least, somewhat doubtful. It started out with a circumstance where the state faced the prospect of being taken to the English courts over its current practice of giving many state agencies, including the Food Standards Agency, the right to authorise any criminal activity by their informants or agents, and having that power taken away from it. That is the origin of this Bill; that is where it comes from.
+
+So what did the Government do? They cobbled together all the existing practices of their various police, intelligence and other agencies, good and bad—there were both good and bad—and set out to put them into law. That is not just theoretically problematic; it does not work perfectly today. For example, the Investigatory Powers Commissioner uncovered a case a couple of years ago where an MI6 agent or informant clearly very seriously broke the law, in breach of the guidelines he had been given, and the agency did not even inform the Minister before it carried on and allowed him to do the same again.
+
+I am not prissy about the operation of our intelligence and police agencies. I was one of the Ministers who took through this House the Intelligence Services Act 1994. That is the one with the so-called licence-to-kill clause—the 007 clause, section 7 of that Act—which explicitly permits the action of the agencies to commit crimes under English law, but with restrictions and ministerial oversight built into it.
+
+Nevertheless, this Bill, unamended, in my view goes too far, as is demonstrated by the fact that the amendments in front of us today were voted for in the Lords by a past Cabinet Secretary, a past Home Office permanent secretary, a past Foreign Office permanent secretary, a past National Security Adviser, a past Director of Public Prosecutions and a past reviewer of our counter-terrorism legislation—every single one of them more familiar at a close and tactical level than any Minister serving in Government. That is not meant as an insult; it is just a fact of life.
+
+I have sympathy with many of the Lords amendments, but the business before us today contains, in my view, two vital amendments passed in the other place: Lords amendment 4, concerning the use of children as agents; and Lords amendment 2, placing limits on the type of crime that can be sanctioned. Both are entirely sensible amendments that significantly improve the Bill.
+
+Let me start with child spies. The use of children as undercover informants is, in my view, very largely a morally repugnant policy. It results in children being put in dangerous positions during the investigation of serious and violent crimes with, frankly, minimal safeguards in place. The Investigatory Powers Commissioner has already confirmed that child spies can themselves often be part of violent gangs, or continuing victims—continuing: that is the important point—of child sexual abuse, when they are recruited as intelligence sources. We should normally be seeking to move heaven and earth to remove these children from their horrible situations. Instead, the Bill would allow them to be sent back into harm’s way with minimal safeguards in place.
+
+I am speaking from memory here, so I hope I get this exactly right, but in the other place, an example was given of a 17-year-old who was basically sold for sex to a variety of people, along with a number of other young women and children—legally, children—under one of these CHIS arrangements, and this was allowed to continue. The result was that the child involved was the witness to a murder, and not just the witness: she was effectively coerced by her circumstance into helping to cover up the murder, having to hide the evidence and so on. This was a youngster who had been a product of the care system, who had bounced from authority to authority—as we have seen happen in so many terrible cases—yet she was left in these circumstances in pursuit of getting more information about the criminal she was under the control of.
+
+The Bill also raises the possibility of 16 and 17-year-olds being authorised by any of a number of different agencies to spy on their parents. These agencies include police forces and the intelligence services, but it also extends to the others that the right hon. Member for North Durham (Mr Jones) referred to earlier. Do we really want to give such arbitrary and unfettered powers to such agencies? I, for one, do not under any circumstances. Amendment 4 would limit the deployment of child spies to exceptional circumstances, where all other methods to gain information have failed, and only if there is no risk of any reasonably foreseeable harm. We are not talking about MI5 or MI6 here, but about police agencies that are dealing with people, no doubt in county lines operations, sex trafficking operations and so on. Their first duty is to rescue the child, so it is an entirely sensible amendment, which I will support. It introduces real, meaningful safeguards that have been endorsed by the Children’s Commissioner.
+
+However, on its own, amendment 4 is not enough. In its current form, the Bill also allows organisations to permit their employees and informants to commit criminal activity, with no express limit on the crimes that can be authorised—a point addressed by my right hon. Friend the Member for New Forest East (Dr Lewis), the Chairman of the Intelligence and Security Committee. In my view, this lack of an express limit is wrong. It can never be right for the state to authorise the gravest of crimes—we are talking about a narrow group of crimes here: torture, murder, or sexual violence—yet that is precisely what this Bill will do if left unamended. I am as sceptical about the human rights protections as my right hon. Friend, but for different reasons, and I will explain why. For a start, allowing this type of behaviour puts us out of step with our international allies. Our Five Eyes security partners recognise the need for limits. Australia, Canada, and nowadays America all have common-sense limits on what their covert agents can do to prevent this line from being crossed. We must now do the same.
+
+Lord Carlile of Berriew, who frankly is a long-standing opponent of mine in these things—he mostly takes the authoritarian state line, despite the fact that he is nominally a liberal—has described this Bill as the most constitutionally dangerous legislation presented in his working life. I agree, which is why I support Lords amendment 2, which places clear, common-sense limits on the crimes that covert agents can be authorised to commit, ensuring that the worst crimes such as murder, torture and rape can never be authorised. It mirrors an amendment I tabled in Committee in the Commons, and if the CHIS Bill becomes law without those limits, it is almost certain to be challenged in the courts and may eventually be overturned. This will not be the first time we have been here: those who have been here for some years will remember the Data Retention and Investigatory Powers Act 2014, which went through the same process. Tom Watson and I took it to court; we won, and the Government had to rewrite it. I hope we do not have to do the same with this Bill—it would be unwise to repeat that experience.
+
+Let me explain why that is a risk. The argument made by some hon. Members, particularly those on the Intelligence and Security Committee—who have close involvement with this issue, and whose experience I recognise—has to be put up against one test: if it is impossible for us, why is it not impossible for Australia, America and Canada? They can operate; why can’t we? The Government have to answer that question, otherwise I think they will find that this Bill will not stand.
+
+There are real risks to providing these powers without limit. At the end of last year, the Investigatory Powers Commissioner reported that he had identified several weaknesses in MI6’s agent-running practices in the UK, leading to several errors, and, even worse, that high-risk covert agents had indulged in serious criminality overseas. Only this morning, MI5 confirmed in court that it would authorise one of its informants to carry out murder as part of its activities. So much, frankly, for the safeguards of the Human Rights Act. If MI5 is willing to say that in court, where in this exercise is the protection of the Human Rights Act, which was the Government’s defence last time and, indeed, the Minister’s defence today?
+
+There is a real need for legislation in this area; I agree about that with pretty much everybody who has spoken. This is better in law than in some standard written inside an agency, with all the influences that being inside an agency brings to bear on it. There is a need for legislation, but this legislation is, bluntly, thrown together. In many ways, it incorporates some of the worst elements of the preceding arrangements, which need to be put right. The Minister kindly said that he will be listening before the Bill goes back to the Lords for amendment. I think there are amendments that could meet most of the concerns of those who have spoken, and that is what I would like to see before it goes back to the Lords.
+
+Stella Creasy (Walthamstow) (Lab/Co-op) [V]
+The House is considering this Bill and these amendments at a time when we recognise the difficult job that we ask our security services, and indeed our police, to do to keep us safe. However, these practices have gone on for some years and it is right to legislate to give the protection of a framework as to how they can happen. It is important that that framework is protected. I therefore want to speak in support of amendment 4, tabled in the other place by Baroness Kidron and supported by a cross-party group including Lord Young, Lord Kennedy and Baroness Hamwee, which sets out the protections and safeguards that we should ask for if we expect children or vulnerable people to commit crimes on our behalf. Like others, I thank the people in the Lords who have done a huge amount of work to get us to this place on these protections. I also thank the previous Minister, the right hon. Member for Old Bexley and Sidcup (James Brokenshire), and his counterpart in the Lords, Baroness Williams, both of whom have listened to concerns with regard to this amendment. I know that the Minister has come to this matter late and he wants to listen too.
+
+That is why I want to put on record how sorry I am that we have not yet got to agreement across this House and across this Parliament. If the Minister was listening to the right hon. Member for Haltemprice and Howden (Mr Davis), who I recognise also has strong feelings about this, he would see that there is concern across this House about how we best protect children. I think that everyone in this House knows that when it comes to other people’s children, it is a fundamental principle that we should want for them what we want for our own. Sadly, some children will not be as loved as others, as well cared for as others or as well-behaved as others, but they are all children.
+
+That is why, although I listened carefully to the Minister’s comments on amendment 4 and why he will not accept it, I want the Government to go further and give assurances about what will happen next. Ministers have yet to acknowledge that if we do not include amendment 4 in the Bill, there is no alternative provision to cover this scenario and the inconsistencies in the arguments that they are making today. The Minister has said that there are no new powers in the Bill with regard to child CHISes, but there are no protections either. He will be well aware that the Government were taken to court by Just For Kids and the court said that children were put in harm’s way as a result of these proposals. Therefore, this House does have to act. The Government’s own guidance accepts that participation in criminality is an inescapable feature of being a CHIS, including for children. Ministers have said that there is increasing scope for young people to be used as they are increasingly being involved in criminality—that as the criminals use more children, so should we.
+
+17:30:00
+
+That is particularly the case when it comes to county lines. The Children’s Society estimates that there are 46,000 children involved in such gangs, with 4,000 in London alone. The Government are asking us to treat these often broken and scared young people as capable of consenting to engage in criminal behaviour. We spend so much of our time trying to get children out of harm, but the Government are now trying to argue that, in order for that to happen, we must put them directly in harm’s way. There is almost a risk in what the Solicitor General said of implying that these children have to help the police in order to be helped by the police; I am sure that that is not what he wishes to say. Many of us may argue, why use them at all? There is merit in the simplicity of simply prohibiting children from being CHIS, but we recognise that there may be circumstances—exceptional circumstances—in which we would consider that to be necessary, with careful supervision. That is what Lords amendment 4 does. It writes on the face of the Bill the principle that no child should be asked by the state to commit a crime except in exceptional circumstances, and by “exceptional” we mean when there can be no doubt that the child would not come to harm. It upholds our obligations under the United Nations convention on the rights of the child to treat all people under 18 as children.
+
+Currently, if a child is arrested for shoplifting at the age of 16 or 17, an appropriate adult would oversee their interactions with the police. That is because we recognise that there is a fundamental power imbalance between anybody who is working with the police and a child. Under the Government’s plans, the police will be under no obligation to appoint such a person for those 16 or 17-year-olds. That means that a 16 or 17-year-old could be recruited without anybody knowing—not their parents or a social worker. They could be asked to inform on anyone, including their own parents, or asked to remain in dangerous situations at great personal risk, without any legal advice, independent voice or help to say no if they want to.
+
+Baroness Hamwee set out the case, described by the right hon. Member for Haltemprice and Howden (Mr Davis), of a young girl who was in a sexually exploitative relationship with a man and eventually witnessed a murder as a result of being in that relationship. She was maintained in that relationship in order to provide information to the police. What is crucial to our debate is that that young girl was 17. Under the Government’s proposals, there is no guarantee that there would be an appropriate adult overseeing that relationship with her and raising the necessary questions. The Government say that this is because, by the time a child is 16 or 17, they become increasingly independent and mature. Are we really comfortable with the argument that if a child shoplifts, they are childish and need a guardian when they talk to the police, but if they spy and commit crimes for the police, they are mature and they do not?
+
+Ministers simply cannot have it both ways: there is an apparent presumption of an appropriate adult, so we do not need to write that on the face of the Bill, and having an appropriate adult with a child raises the risk that they will be revealed as a source. When the Solicitor General makes that argument, he fails to explain why we then require an appropriate adult for under-16-year-olds. If having an appropriate adult involved raises the risk of a child being unveiled as a CHIS, that is surely true at any age, so why deny this to a 16 or 17-year-old?
+
+By including Lords amendment 4 in the Bill, we would be in line with our obligations under the UN convention, which defines every person under 18 as a child. I hope Ministers can tell us whether a child rights impact assessment has been carried out on the legislation and, if so, why the Home Office feels that it can ignore those obligations to the UN when the Department for Education has recently said that we must reaffirm them.
+
+Lords amendment 4 also extends the protection of having a second pair of eyes and the principle of exceptional circumstances, so as not to put somebody in the face of foreseeable harm, to vulnerable people and victims of trafficking or modern slavery. Those people may be older than 18 but are no less at risk of being placed in harm’s way, and they, too, may struggle with notions of consent when faced with state authorities.
+
+Lords amendment 4 is not prohibition. It is rooted in the real and dangerous world of criminality in which many of these children and vulnerable people already live. If the Government will not accept it, they must commit today to put on the face of the Bill the protections that they claim exist—the protection of not putting somebody knowingly in harm’s way, the protection of an appropriate adult for all under-18-year-olds and the protection of the presumption that they would have that person. If what the Solicitor General says is true, none of those requirements should be onerous, and then he can understand why his objection and resistance to doing that is so worrying.
+
+The Government argue that these children often want to help, and the more people who know that they are involved, the more at risk they are. But with the police offering them money for their work, and being in the scheme the sole arbiter of what is in their best interests, the conflicts of interest in this are manifest. That is why it is right that MPs should step in. Every one of us has a responsibility, to all the children we know, not knowingly to put them in harm’s way. We act in loco parentis as if they are our child and ensure that their welfare comes first, even if it means that an investigation might be denied their insight. Today, every MP has an opportunity to let children be children, not child spies.
+
+Sir Edward Leigh
+I would like to associate myself with the arguments that have been adduced today by the Solicitor General and by my right hon. Friend the Member for New Forest East (Dr Lewis). I am afraid that I must disagree with my other very good friend, my right hon. Friend the Member for Haltemprice and Howden (Mr Davis). Nobody doubts his complete honesty and passion in these matters, and I hope that he does not accuse me of being an authoritarian, because I really am not. I hope I am as committed to civil liberties as anybody, but we are under a ruthless attack. The Minister mentioned 28 attacks, and we all know the appalling atrocities that have been committed on our streets in recent years. We all know about the Manchester bombing and about Lee Rigby. The list is endless. We all know that there are absolutely ruthless people who care nothing about our values and who are prepared to destroy and kill innocent people. This is not a game of cricket, and we cannot play and defeat these people by traditional policing methods. We cannot rely simply on bugging their mobile phones. As my right hon. Friend the Member for New Forest East, who speaks with more experience than anybody else as Chairman of the Intelligence and Security Committee, said, we rely absolutely on covert intelligence sources: people going into these organisations and acting with extraordinary bravery.
+
+I understand the motivation of what has been said in the other place, and I can understand why people are adducing these arguments based on human rights, but there is a possibility that if we were to accept these Lords amendments we would be putting the lives of our own people at risk. The most powerful point made by the Solicitor General was almost at the beginning of his speech when he said that the state should not prosecute people for actions that the state asks them to do. These people are working for us. They are working to defend our people, and I have to say to my right hon. Friend the Member for Haltemprice and Howden that if it is a choice between my daughters being blown up on the London tube and there being some slight and occasional infringement of the human rights of terrorists and potential terrorists, I know where my choice is. I think that the public are also on this space.
+
+Mr David Davis
+I do not think that my right hon. Friend was in the Chamber for the beginning of my speech, because I was going to refer to him and tell him that I did not agree with him that the Blairite approach to terrorism worked at all. Indeed, I think it made it considerably worse. In my speech I listed a whole series of people—the Home Office, the Foreign Office, security and prosecution specialists—who knew their way around this like the back of their hand, and they were not making the recommendations because they thought they needed to uphold some civil liberty. They were making the recommendations because they thought that what they were proposing worked better than what the Government were proposing, and that is what I think, too.
+
+Sir Edward Leigh
+I apologise for missing that. I was summoned in to see the Speaker, as I warned the Deputy Speaker, so I missed that part of my right hon. Friend’s speech, but I listened to everything that was said in the early part of the debate, and I followed it carefully. I made an intervention on the Opposition spokesman, and I still believe it. I frankly trust Mr Blair and Mr Brown more than I trust the former leader of the Labour party on these issues.
+
+Dr Julian Lewis
+In support of my right hon. Friend, it will come as no surprise that I would simply say that, whether one trusts this expert or that expert, or this or that Committee Chairman, that is what is known in philosophical terms as the appeal to authority. I am happy to rely on the argument that I put forward, which is that, if we create a list of things that agents cannot do, we invite terrorists to use it as a checklist to test their own membership for spies and infiltrators.
+
+Sir Edward Leigh
+Of course I agree with that, and I wanted to make that point as best I could. It is quite a weak argument to say that, because certain people who have been in authoritative positions make a certain argument, that it is therefore a clincher in argumentation. Actually, the point put by my right hon. Friend the Member for New Forest East was far more powerful, frankly. He was adducing a specific example. If it is laid down in statute that a covert agent cannot take a particular action, that is an invitation to terrorist or gangster groups to have an initiation ceremony based precisely on what is forbidden by Parliament. I thought that that was a completely unanswerable argument.
+
+Mr David Davis
+rose—
+
+Sir Edward Leigh
+But if my right hon. Friend wants to defeat it, let us hear it.
+
+Mr Davis
+I knew my right hon. Friend would liven up the debate. The test is not the test of authority. It is an empirical test. America, Australia and the other Five Eyes all have these limitations, and their intelligence agencies seem to work perfectly well.
+
+Sir Edward Leigh
+So he says, but I am no expert.
+
+Dr Julian Lewis
+Just because an ally has a system that may leave its agents vulnerable to exposure and death, that does not mean that we should copy that.
+
+Sir Edward Leigh
+Exactly, and I hazard a guess—as we have seen with the covid outbreak—we are a uniquely open society. We have very large levels of immigration. We have large minority communities. By the way, 99.9% totally oppose terrorists, do not believe in that and all the rest of it, but we know we are fundamentally and hugely vulnerable as a nation, probably much more vulnerable than Australia or New Zealand, so the fact that Australia does certain things does not apply. Personally, speaking for myself, I would rather listen to arguments from my right hon. Friend the Chair of the Intelligence and Security Committee, who has been briefed by MI5 and MI6, than to arguments adduced at second hand by my right hon. Friend the Member for Haltemprice and Howden, who tells me that in New Zealand and Australia they do things in a different way and are at no higher risk. In any court of law, the evidence adduced by my right hon. Friend the Member for New Forest East is more powerful than the arguments adduced by my other right hon. Friend.
+
+We have just heard a passionate defence of children. No one denies the commitment of the hon. Member for Walthamstow (Stella Creasy) to the welfare of children, but when I was reading about this debate in some Sunday papers and other parts of the media at the weekend, it gave the impression that we were almost going back to Stalin’s Russia, and getting children to spy on their parents. This is ridiculous—we have to have a sense of proportion. We live in the United Kingdom. We have a system of law. Can we not trust our operatives in MI5, MI6 or the police force to act proportionately and in a necessary way?
+
+Mr David Davis
+No. That is why we have the law
+
+Sir Edward Leigh
+I am sorry, we already have human rights legislation—my right hon. Friend places a lot of faith in that. Like my right hon. Friend the Member for New Forest East, I think we have seen numerous instances where our armed forces have been treated appallingly in the past. There is great public concern about that. We do not want to put our security services, who are living in an infinitely more dangerous world, in the same position in which we put our armed forces. The Bill as it stands is proportionate and reasonable, and there has to be an element of trust. Personally, I think that it is extraordinarily unlikely in our country that MI5, MI6 or the police forces would act in such a way that if we knew what they were doing we would be horrified and think it was corrupt or that they were somehow abusing children. I suspect that if we use minors who are 16 or 17 in a certain way that is done very carefully. I suspect that we are not initiating any new behaviour at all and we are rescuing young people from cruel fate.
+
+Bob Stewart
+I thank my really good friend, my right hon. Friend, for letting me intervene. I speak from experience, because I have run an organisation—I will not be too precise—and there were several hundred people on my books. Not one was a child. We did not need a law to tell us not to use children. We did not use children, and there was no flipping law that stopped us.
+
+17:45:00
+
+Sir Edward Leigh
+I think that is powerful evidence. This is about common sense; it is about proportionality and being reasonable. We cannot use law or statute to provide a sort of envelope around every action that the security services do. In the real world that does not work. It may be counterproductive, dangerous, and could put our own people at danger.
+
+Finally, perhaps the Minister can comment on the fact that Lords amendment 5 would require all criminal conduct authorisation to be notified to the judicial commissioners, as set out in the Investigatory Powers Act 2016. Again, that sounds reasonable, but it also provides the judicial commissioners with the power to cancel an authorisation if they determine that it should not have been granted. That would require the covert activity to cease immediately. Such authorisations would only need to be notified to the judicial commissioners within seven days of them being granted. That means that they might cancel an authorisation, and insist that the activities carried out under it cease immediately, in the middle of the very acts in question. As I understand it—I may be wrong—the amendment would therefore undermine the very ability of our security services to recruit covert human intelligence sources. I mention that point because am not sure that it has already been raised in this debate. Let us be reasonable and proportionate, and let us leave the Bill as it is.
+
+Mr Alistair Carmichael (Orkney and Shetland) (LD) [V]
+It is a pleasure to follow the right hon. Member for Gainsborough (Sir Edward Leigh), and I confess that I am slightly frustrated sitting here in my sitting room in Orkney. I suspect that if I were with you on the green Benches, Mr Deputy Speaker, I would have joined the right hon. Members for Haltemprice and Howden (Mr Davis) and for New Forest East (Dr Lewis) in engaging in the debate as it went along. Such is the nature of the times in which we find ourselves.
+
+The thesis that the right hon. Member for Gainsborough offers the House tonight proceeds on the basis that it is necessary to empower those who engage in protecting us through the work of the security services, by offering them unlimited power and leaving everything up to their discretion. The thesis that I offer in rebuttal to that—this is very much in line with what the right hon. Member for Haltemprice and Howden said—is that we best serve the people who put themselves in the way of danger by laying down the limits with which we authorise their activity. It seems to me that to leave everything to their discretion means that we abdicate our duties as parliamentarians, and subcontract them to those who do not have the authority that we have, and who as a consequence are left exposed.
+
+May I add my name to the long list of those who send good wishes to the right hon. Member for Old Bexley and Sidcup (James Brokenshire)? He is a Minister who brings an incredible amount of diligence, care and thoughtfulness to his work in the House, and it was a matter of significant regret and sadness when I heard that he found himself again unwell. No Member of the House would not concur in sending him the very best of wishes.
+
+I thank their lordships in the other place for the manner in which they have further scrutinised the Bill. They did so in a typically thoughtful and reasoned manner, and I invite the Solicitor General to consider the nature of those who have sent us these amendments. They include Lord Anderson of Ipswich, Lord Thomas of Cwmgiedd, Lord Paddick and Baroness Hamwee, a former independent reviewer of terrorism legislation, a former Lord Chief Justice, a former senior police officer, and a distinguished legal practitioner of many decades and experience. This is not some cabal of over-zealous radicals and anarchists. These are people, men and women, who have significant experience in the realities—the practicalities—of those matters before the House. I suggest gently to the Solicitor General that their views require rather more substantial and considered rebuttal than we have heard from those on the Treasury Bench today.
+
+I will canter through the different amendments that come to our House tonight from their lordships. On Lords amendment 1, inserting the word “reasonably” would effectively turn a subjective test into an objective test. This comes back to the point that I made at the start. It is for the benefit and protection of those who are required to engage covert human intelligence sources and send them out into the field that there should be some objective measures that they know their conduct and judgments can be measured against.
+
+Lords amendment 2 introduces a number of limitations —Canadian-style, essentially. I thought that the objections that we heard from those on the Treasury Bench in relation to this were somewhat synthetic. In terms of our standing in the world community and as important protectors of the concept of the rule of law, I suggest again to the Minister that this is something that really requires a bit more care for our reputation on the world stage.
+
+Lords amendment 3 is different from all the others, because all the others relate to the practice and conduct of people who are the sources, whereas this relates to those who are victims. It is entirely right that protections should be put in the Bill for those who are victims—innocent victims, in particular—of this sort of criminality. Again, I ask the Minister to reconsider the position on what is a very modest protection, but an important one none the less for those who will find themselves in that position.
+
+The hon. Member for Walthamstow (Stella Creasy) made a powerful and impassioned case on Lords amendment 4. It is a well-accepted principle throughout the criminal and civil law of this country that we treat children differently. I again suggest that the Government need to be a bit more circumspect in relation to that.
+
+I thought that the hon. Member for Bromley and Chislehurst (Sir Robert Neill) dealt very effectively and eloquently with Lords amendment 5. In the event that conduct is deemed to have been unlawful, even retrospectively, surely that is the point at which it should be stopped. The Government’s case that our intelligence services can serve the national interest by continuing with conduct that has been considered by a judicial authority to be unlawful undermines the force of their arguments.
+
+I want to remind the House of the genesis of this legislation. As the right hon. Member for Haltemprice and Howden and the right hon. Member for North Durham (Mr Jones) touched on, the third direction by the former Prime Minister was being tested in the investigatory powers tribunal. The Government had what I think would be best described as a narrow squeak there, and it was then, as a measure of some panic, that they decided to bring in this legislation in anticipation of the fact, or in fear, that their position would be overturned in the Appeal Court. I think that that was a not unreasonable view to be taken by the Government in all the circumstances. It is worth noting, in relation to the effectiveness of the Human Rights Act as a protection in this area of law, that not only is the Human Rights Act itself under review by the Government, but that the reliance on the Human Rights Act in Parliament stands in very stark contrast to the repudiation of it being applicable in their pleadings in the tribunal. I do not think the Government can have it both ways. The bringing of the Bill is in itself is a good and worthy ideal, but these are matters that should be regulated by Parliament. We realise that this is not done for any sort of Damascene conversion, but that it is, in fact, a panic measure.
+
+The thinking behind the Bill seems to be that the Government accept that there has to be change inasmuch as the regulation of this activity has to be put on to a statutory footing. At the same time, however, they want to do it in such a way that nothing actually changes. It is done on a fairly crude world view, if I may say that. Somehow or other, law enforcement is always about good guys doing good things, pursuing bad guys who have done bad things. Those of us who have worked in the criminal courts and elsewhere know that is often a bit more nuanced than that. The sort of world view that brings this legislation is one which very quickly brings us to the point where the end can be seen always to justify the means. The bottom line is that those who are involved in these difficult areas of judgment very often do get them wrong.
+
+I offer not a directly applicable example here, but one that I think should give the House cause to pause: the operation under the Blair Governments of extraordinary rendition and the cases of Boudchar and Belhaj. Jack Straw, as Foreign Secretary, and Mark Allen were essentially responsible for the rendition of Belhaj and Boudchar to Libya—incredibly, to say it now—and they did so in contravention of every stated Government policy. Ultimately, those cases were required to be settled with non-disclosure agreements and substantial amounts of public money paid in compensation.
+
+Those cases illustrate the fact that there is a need for us as Parliament to put limits on what can be done by those who we charge to operate in this field. It should not be prescriptive, but it should be something that is there to which they can have reference, so that we can have security of knowledge that the work they do on our behalf is done properly. That is what these amendments are about. That is why this Bill has gone so badly wrong. The amendments from the other place seek to improve the Bill and my party will this evening vote in support of maintaining them.
+
+Geraint Davies (Swansea West) (Lab/Co-op) [V]
+I do not want to breach the consensus that has emerged, but I have to say that in my view the Bill brings new powers that are unnecessary, disproportionate and open to abuse, and brings operatives beyond the rule of law, which is unnecessary. I have already opposed the Bill in the past and I very much support the amendments to provide some constraints on prospective abuses.
+
+I should say at the outset that we all very much welcome and applaud the covert human intelligence sources, and the fantastic work they have done over the past few years in thwarting 28 terrorist attempts. However, that, of course, was all achieved under the current law, with safeguards. The problem with the Bill is that it actually removes the law and the safeguards, and I therefore cannot support it. In a nutshell, the Bill allows new powers—not existing powers—for Ministers and officials to confer immunity from prosecution for people to commit serious crimes.
+
+Those crimes can be authorised in the name of national security, which we understand, of crime prevention and detection—yes, perhaps—and of the
+
+“economic well-being of the United Kingdom.”
+
+In other words, crimes could be committed against anti-frackers and Extinction Rebellion and so on, so this is much too broadly defined.
+
+18:00:00
+
+Furthermore, this provision is unnecessary, because we already have statutory powers to authorise criminal acts, where necessary, controlled by the third direction policy and enforceable in court, as was found in respect of the MI5 policy—the two-test policy about things being “necessary” and “proportionate” in terms of the public interest. It is also claimed that the Human Rights Act will somehow protect us, but the Government came in on a manifesto of abolishing or repealing that Act, and a review of it is going on at the moment. Furthermore, during the third direction test case the Government argued that the Human Rights Act did not constitute a basis against the Government for a CHIS offence. Therefore, I do not support the Bill; and I support the Lords amendments.
+
+Lords amendment 2 seeks to exclude murder, grievous bodily harm, sexual violence, torture and depriving someone of their liberty from these authorisations. Even if the amendment is accepted, Ministers can still be empowered to harass political opponents and suppress dissent. I support Lords amendments 1, 5, 12 and 14, which seek to improve judicial scrutiny, so that we have a report to judicial commissioners and objective tests—not just subjective ones—on the basis of reasonable belief, which can be tested, so that judges can rule whether an action is lawful and exercise a power to remove the authority to commit a crime that is not reasonable. But of course the judicial commissioners will be appointed by the Prime Minister—they will not be independent judges—which again blurs the division between the Executive and the judiciary. That is not normal in modern democracies—or in any democracies for that matter.
+
+Amendment (a) relates to the issue of having authorisations in respect of juveniles and vulnerable individuals in only “exceptional circumstances”. I would support that of course, but I fail to imagine where we should be using juvenile and vulnerable individuals—getting them to spy on their parents, be in drug gangs or whatever it is. I do not think that is something we should be authorising. Clearly, if we are, there need to be constraints. For the reasons I have already outlined, I respect the position of Scotland: if it is not bust, don’t fix it.
+
+Lords amendment 3 is on criminal injuries compensation for victims of crimes authorised. Clearly, there should be compensation if crimes are authorised that are disproportionate and unnecessary—and we may never know. On the overall situation, clearly, we have a duty to protect the public, and we must balance security, liberty and human rights. In a democracy, we should certainly support the Lords amendments, to put constraints on the Bill, which other democracies have not adopted and which we would not like to see applied in less liberal environments than our own.
+
+Imran Ahmad Khan (Wakefield) (Con) [V]
+I would like to take a moment to wish my right hon. Friend the Member for Old Bexley and Sidcup (James Brokenshire) a speedy recovery and thank him for all his hard work in his role as Minister for Security.
+
+This Bill provides our operational agencies with the powers required to enhance our national security, protecting British citizens from those who seek to do them harm. When a story relating to covert intelligence breaks in the news, there follow lazy and ill-informed references to James Bond and a licence to kill. We in Parliament have a duty to keep the discourse on this topic sensible. James Bond is a magnificent manifestation of the United Kingdom’s creative arts. He does not, however, reflect the reality of the serious work that goes on in the intelligence services. Those brave men and women do not have a licence to kill or needlessly commit crimes, but have chosen to put themselves at risk for our common safety. The best way to express our gratitude to those who serve this country is for us to help stop sensationalising this issue. It pollutes the debate and does nothing to help pass effective legislation that simultaneously safeguards security and human rights. I am committed to both, and it is a mistaken belief to maintain that security and human rights are mutually exclusive, for in truth they are mutually reinforcing.
+
+Covert human intelligence sources operations have proven their effectiveness. CHIS-led operations have allowed the National Crime Agency to disrupt over 30 threats to life, safeguard over 200 people and seize 60 firearms from those who may use them to do harm. Between 2017 and 2019, HMRC CHIS have prevented hundreds of millions of pounds in tax loss, including one case that was estimated to have prevented a loss of over £100 million.
+
+I recognise that some of the amendments sent by the Lords wished to safeguard vulnerable and juvenile CHIS and ensure that operatives do not take part in the worst type of crimes, such as rape or murder. Certainly, I understand the thinking behind these amendments, but I do not support them. With regard to juvenile and vulnerable CHIS, Her Majesty’s Government have put forward substantial amendments to the Bill to ensure that robust safeguards are established for the very rare circumstances when juvenile CHIS may be tasked with participating in criminal activities.
+
+The Government amendments leave no doubt that the authorising officer has a duty to safeguard and protect the best interests of the juvenile. This duty is a key factor in any decision for the authorisation of  a mission. The amendment proposed by the Lords certainly raises the importance of ensuring that CHIS are adequately protected from harm, but ultimately it would undermine our ability to tackle criminal activities. I have an extract from the report from the Investigatory Powers Commissioner that demonstrates the importance of juvenile CHIS:
+
+“In one such case, a juvenile was carrying out activity on behalf of a ‘county line’ drug supply group. The juvenile owed money to the group and approached the police wishing to provide information. A referral under the Modern Slavery Act was made by the police and a care plan was drawn up with Children’s Services, including relocating the juvenile and finding them a training course. Once this had been done, as an authorised CHIS, the juvenile was able to provide intelligence to the police regarding the ‘county line’ crime group.”
+
+With regard to concerns that the Bill allows operatives to get away with the worst types of crimes, let me say this: the Bill has already outlined that authorisation is only granted by highly trained authorising officers, who work within and maintain strict operating parameters. Crucially, there are clear and regulated limits to the types of criminal activities that may be conducted. As part of our obligations under the European convention on human rights, the prohibition of torture and subjection of individuals to degrading treatment is strictly enforced. Further, all activity is overseen by the independent Investigatory Powers Commissioner, who ensures that accountability is maintained throughout the process of any such operation. It is crucial that the ISC and the Investigatory Powers Commissioner have proper oversight and that such oversight is published.
+
+In ensuring greater accountability, more effective oversight should be promoted. I am not alone in taking that view, but share it with those possessed of particular understanding and expertise in these matters. For example, that view is at the centre of the research by Professor Rory Cormac of the University of Nottingham, who is one of the country’s leading experts on covert intelligence. A number of points that I have made are mentioned in his research, including his book “Disrupt and Deny”, which I recommend to colleagues. One point stressed by Professor Cormac is that CHIS have to be able to commit certain crimes in order to be credible, gain information and/or engage in covert operations.
+
+Regulation is certainly crucial to prevent problems such as the collusion in Northern Ireland from ever arising again. Any co-operation with violent non-state actors must be properly regulated to prevent officers and agents from getting ahead of themselves and interpreting their own parameters too broadly. The Bill would make such activity less likely, while allowing those who take risks with their lives to keep us safe the support that they need to be successful. I do not doubt the well-meaning intentions of the Lords amendments or the concerns surrounding the Bill; however, the Bill will ensure that regulations and processes are effectively enforced, preventing officers from acting autonomously or beyond their remit.
+
+As I have said previously, protocols are already in existence that ensure that the interests and safety of juvenile and vulnerable CHIS are maintained; however, I am gladdened that additional measures are being considered to bolster the existing provision. Without such operatives working within strict parameters and with the necessary oversight, as outlined in the Bill, we, and all that we care about most, would be less secure.
+
+Apsana Begum (Poplar and Limehouse) (Lab) [V]
+I speak in support of Lords amendments 1 to 6, and particularly Lords amendment 3.
+
+I have repeatedly spoken out and voted against the Bill because I believe it to be fundamentally unjust. The Government have claimed that the Bill is
+
+“a continuation of existing practice”
+
+that it puts on a “statutory footing”. For many, though, the existing legislation was not fit for purpose in the first place. The Government’s approach to the Lords amendments does not go far enough to recognise the extent to which the Bill still undermines human rights.
+
+Public inquiries into the nature and impact of the criminal actions of covert human intelligence operatives are still under way. We in this House have not had the opportunity to consider any of the findings of those inquiries, nor any that they may produce in future, but it is clear that those inquiries have come about because there are lessons to be learned from serious cases involving our operatives engaging in sexual relationships. It would therefore be helpful if the Solicitor General outlined in his closing statement whether the Government will commit to reviewing the Bill in the light of any findings produced by inquiries in the future.
+
+It is not clear how any provisions of the Bill, even with the Lords amendments that the Government are indicating they are willing to listen to, will ensure that innocent victims can seek redress. The Solicitor General said in his speech earlier that Lords amendment 3 is unnecessary. Government Front Benchers have also said that the Human Rights Act provides sufficient safeguards, but that Act, significant as it is as a piece of legislation, contains no provision for prosecutions to be brought against individuals. For example, if an innocent victim—a woman or a child—believes that they have been exploited for the collection of intelligence, they cannot bring a covert operative or a public body in front of the courts under the Human Rights Act. For that reason, Lords amendment 3 is absolutely necessary to ensure that the door of justice is open for such victims.
+
+So far in this debate, many Members have rightly highlighted the threats posed by terrorism, but they have failed to mention the scope of the authorities to which the Bill provides powers—not just MI5 and MI6 but authorities such as the Food Standards Agency. The Government should consider the impact of the Bill, even with all the Lords amendments, and how it goes much further beyond the very serious threat of terrorism.
+
+There has been little, if any, mention of the communities that are likely to be most impacted by the Bill—communities that are already experiencing marginalisation in society. Among them is a community that is extremely and excessively policed and unduly spied on. They have had their homes raided and their children targeted in schools. They have unduly borne the brunt of security and counter- terrorism legislation, particularly over the past two decades —I recognise that that has been under successive Governments. That community is the Muslim community. The Government’s Prevent programme has fostered discrimination against Muslims by perpetuating Islamo- phobic stereotypes. This Bill, even with the amendments that the Government have conceded, does not address the environment of hostility that the community will be further subject to or the threats to their human rights in particular.
+
+I conclude by saying that for as long as I am a Member of this House, I will continue to speak out about these concerns on behalf of such communities in the east London constituency that I represent. For as long as they continue to experience the erosion of their human rights, I will continue to oppose this legislation as it continues its journey in this House and the other. I will do so as a Member of this House, in proud, socialist, Labour tradition.
+
+18:15:00
+
+The Solicitor General
+With your leave, Madam Deputy Speaker, I would now like to make some closing remarks. I thank colleagues from across the House for the thoughtful and considered contributions made this afternoon.
+
+First, I shall address remarks about limits and the conduct that can be authorised under the Bill. I make the point again, because it is important: the limits on what could be authorised under this legislation are provided by the requirement for all authorisations to be necessary, proportionate and compliant with the Human Rights Act. There are limits, and they are defined in that way. Nothing in the Bill seeks to undermine the important protections in the Human Rights Act; the Government have been consistently clear on that. Public authorities will not and cannot act in a way that breaches their legal obligations under the Human Rights Act. I say this clearly on the record, from the Dispatch Box: any authorisation that was not compliant with the Human Rights Act would be unlawful.
+
+Let me take this opportunity to thank my right hon. Friend the Member for New Forest East (Dr Lewis) for the important oversight role that his important Committee plays and in particular for his remarks about the difficulties concomitant on placing, or seeking to place, limits in a Bill such as this—he articulated those with typical clarity. Those points were also well made by the right hon. Member for North Durham (Mr Jones), as is usually the case. As we know, both right hon. Members contribute insight from their roles on the Intelligence and Security Committee.
+
+The hon. Member for St Helens North (Conor McGinn) asked me to set out why we cannot have limits in this legislation similar to those in the legislation of some of our partners, such as our great ally Canada. I do not think it particularly useful or helpful to compare UK legislation with legislation in other countries because each country has its own unique laws, public authorities and current threat picture.
+
+We know that covert human intelligence source testing takes place in the United Kingdom, particularly in relation to the unique challenges that we face in Northern Ireland. It is important that we legislate for the particular circumstances in which we need our operational partners to operate, to keep the public safe. Our advice on this issue is based solely on the advice of our operational partners. I hope that all Members place the weight that the Government have placed on their assessment of this issue.
+
+I greatly respect the vast experience of my right hon. Friend the Member for Haltemprice and Howden (Mr Davis) in these areas. He is not in his place at the moment, but he raised information presented in argument to the Court of Appeal today. The House will understand that my position as Solicitor General means that I cannot comment on ongoing legal proceedings, but I can confirm that MI5 did not say what my right hon. Friend articulated it had said.
+
+Let me respond now to the points raised by my hon. Friend the Member for Bromley and Chislehurst (Sir Robert Neill) on this issue of putting reasonable belief into the Bill.
+
+I will, if I may, confirm again that the Government do not dispute that the test for these authorisations should be one of reasonable belief. We do not support the amendment simply because we need to ensure that legislation is consistent across the board. We cannot have some Acts of Parliament using one form of words, and other Acts of Parliament using another form of words, because then others might interpret those Acts of Parliament to mean different things.
+
+My hon. Friend also asked about civil redress. The Bill does not prevent those who have been impacted by a criminal conduct authorisation from seeking redress where that is appropriate. Any person or organisation can make a complaint, for example, to the Investigatory Powers Tribunal, which is a judicial body that operates totally independently of the Government and provides a right of redress for anyone who believes that they have been a victim of unlawful action by a public authority that has been using covert intelligence or investigative techniques. With regards to the criminal injuries compensation scheme, let me confirm that, in practice, access to that scheme is unaffected by this Bill.
+
+Let me turn now to the important issue of juveniles, which many colleagues have raised, and respond to the points raised on the authorisation of juvenile CHIS. This Bill is not providing a new power for juveniles to be authorised as CHIS. What it does is seek to place on an explicit statutory basis the framework and safeguards for the very rare occasions where a juvenile may participate in criminal conduct in their role as a covert human intelligence source. There are also additional safeguards in place for the authorisation of juvenile CHIS and any authorisation of a juvenile as a source requires additional safeguards, as set out in the Regulation of Investigatory Powers (Juveniles) Order 2000 and considered by Parliament in 2018. That authorisation is required before a criminal conduct authorisation can be granted. Equally, the Investigatory Powers Commissioner will consider every authorisation of a juvenile.
+
+I note that the High Court of Justice considered the safeguards for juvenile CHIS in 2019, as noted by the hon. Member for Walthamstow (Stella Creasy) in her virtual contribution. I also note that the court expressly found them to be lawful. In fact, Mr Justice Supperstone explicitly rejected the contention that the scheme is inadequate in its safeguarding of the interests and welfare of juvenile CHIS.
+
+The High Court also set out its view that it was clear that the principal focus of the framework for juvenile CHIS is to ensure that appropriate weight is given to a child’s best interests and that the practical effect of the enhanced risk assessment is that juveniles are utilised only in extreme circumstances and when other potential sources of information have been exhausted. The IPC has concluded similarly.
+
+Let me say specifically that police CHIS handlers are separate from their operational teams and they have a duty to safeguard and promote the best interests of the child as a primary consideration, and the aim of an authorisation is to remove them from the harm that they are already in, not to put them in greater harm.
+
+Conor McGinn
+I appreciate the Solicitor General giving way and I am reassured by much of what he says, but having just said that the Government would not accept amendment 1 because of the need to be consistent across the law, will he comment on the fact that it is still an anomaly that 16 and 17-year-olds who commit a crime of their own volition are entitled to different protections from 16 and 17-year-olds who commit a crime as a result of a criminal conduct authorisation?
+
+The Solicitor General
+The reality, of course, is that the safeguards that I have adumbrated in regard to CHIS are very relevant here and, as I have mentioned, there are considerable safeguards that form the protections that we can say with confidence mean that those 16 and 17-year-olds will have very good protection.
+
+I will now turn specifically to the point raised by the requirement for an appropriate adult to be placed for sources aged 16 or 17, which I would like to explore a little bit more. The Regulation of Investigatory Powers (Juveniles) Order sets out a requirement for an appropriate adult to be in attendance at all meetings between a public authority and a source below the age of 16. It must be considered on a case-by-case basis for sources aged 16 or 17, and this is the case for any general authorisation of the CHIS and any specific additional authorisation for participation in criminal conduct, which is what we are debating in this Bill.
+
+Let me be clear, though, that when each case is being considered carefully, there is a presumption that there will be an appropriate adult in place—that is the default position, unless there is a justification for not having an appropriate adult in place. An example of such a justification might be that doing so would not be in the best interests of the child. The best interests of the child are always at the heart of the decision making. If the authorising officer believes that an appropriate adult should not be in place, that justification must be documented, and can be considered by the IPC.
+
+I would caution the House against using examples, whether real or hypothetical—it does tend to be risky to do so, and puts young people at risk—but criminal gangs will seek to apply the scenario that has been set out to their own experience, which could result in them wrongly identifying and putting at risk of harm anyone suspected of being a CHIS. As such, the example suggested by the hon. Member for Walthamstow and by my right hon. Friend the Member for Haltemprice and Howden does not fit with the framework of safeguards that is in place for juvenile CHIS. This could not happen, and we do not recognise the example given.
+
+However, as I said in my earlier remarks, the Government are listening. We will continue to listen, and will do so by means through which we can provide further reassurance about these authorisations. I hope these conversations can continue, and that we can find a means of providing additional reassurance while not risking the safety of a juvenile CHIS. While it is not appropriate to put all 74 pages of the code of practice into the Bill—I think I said “hundreds” earlier, but it is actually only 74 pages— I agree with the right hon. Member for North Durham that it may be appropriate to include some of those safeguards, including confirmation that a juvenile could only be authorised in exceptional circumstances. Not all of the code of practice applies to this Bill, but some parts may, so the right hon. Gentleman makes a perfectly good point.
+
+Turning briefly to Lords amendment 5, I think there is consensus that the additional oversight provided by the requirement to notify a judicial commissioner is reassuring. The commissioner will see all authorisations of juvenile CHIS, and likewise will be able to confirm that all authorisations are compliant with the Human Rights Act.
+
+In response to the question posed by my hon. Friend the Member for Bromley and Chislehurst, let me offer reassurance about what would happen if the IPC or a judicial commissioner did not agree with an authorisation when notified of its grant. A judicial commissioner would flag any concerns to the authorising officer, and they would work collaboratively to address such concerns. If an authorisation has been granted but the activity not yet started, the judicial commissioner and authorising officer will work together to address those concerns. If the activity has started, the authorising officer must take into account any concerns that have been raised, and will continue to discuss these with the judicial commissioner. It would not be the case that a public authority would simply ignore feedback from the IPCO: it is a collaborative process, and the views of the commissioners carry serious weight. However, ultimately, it would be a matter for the court to determine.
+
+
+
+Finally, in response to the right hon. Member for North Durham, who asked whether any concerns raised by the IPC will feature in the annual report, I can confirm that the IPC must include statistics on the use of this power, including any errors and areas where improvement has been recommended.
+
+I hope that I have been able to provide additional clarity and reassurance on these issues, and that the House will vote to reject these amendments.
+
+Question put, That this House disagrees with Lords amendment 1.
+
+Division 219
+27/01/2021 18:30:00
+The House divided:
+Ayes: 367
+Noes: 265
+Question accordingly agreed to.
+
+Lords amendment 1 disagreed to.
+
+The list of Members currently certified as eligible for a proxy vote, and of the Members nominated as their proxy, is published at the end of today’s debates.
+
+Motion made, and Question put, That this House disagrees with Lords amendment 2.—(The Solicitor General.)
+
+Division 220
+27/01/2021 18:41:00
+The House divided:
+Ayes: 363
+Noes: 267
+Question accordingly agreed to.
+
+Lords amendment 2 disagreed to.
+
+The list of Members currently certified as eligible for a proxy vote, and of the Members nominated as their proxy, is published at the end of today’s debates.
+
+Motion made, and Question put, That this House disagrees with Lords amendment 3—(Solicitor General.)
+
+Division 221
+27/01/2021 18:51:00
+The House divided:
+Ayes: 367
+Noes: 265
+Question accordingly agreed to.
+
+Lords amendment 3 disagreed to.
+
+The list of Members currently certified as eligible for a proxy vote, and of the Members nominated as their proxy, is published at the end of today’s debates.
+
+19:01:00
+
+More than three hours having elapsed since the commencement of proceedings on consideration of Lords amendments, the debate was interrupted (Programme Order, this day).
+
+The Deputy Speaker put forthwith the Questions necessary for the disposal of the business to be concluded at that time (Standing Order No. 83F).
+
+After Clause 2
+
+Notification to a Judicial Commissioner
+
+Amendment (b) proposed to Lords amendment 5.— (Michael Ellis.)
+
+Question put, That the amendment be made.
+
+Division 222
+27/01/2021 19:02:00
+The House divided:
+Ayes: 366
+Noes: 265
+Question accordingly agreed to.
+
+Amendment (b) made to Lords amendment 5.
+
+The list of Members currently certified as eligible for a proxy vote, and of the Members nominated as their proxy, is published at the end of today’s debates.
+
+Lords amendment 5, as amended, agreed to.
+
+Clause 1
+
+Authorisation of Criminal Conduct
+
+Motion made, and Question put, That this House disagrees with Lords amendment 4.—(Michael Ellis.)
+
+Division 223
+27/01/2021 19:12:00
+The House divided:
+Ayes: 361
+Noes: 267
+Question accordingly agreed to.
+
+Lords amendment 4 disagreed to.
+
+The list of Members currently certified as eligible for a proxy vote, and of the Members nominated as their proxy, is published at the end of today’s debates.
+
+Lords amendments 6 to 14 agreed to.
+
+Motion made, and Question put forthwith (Standing Order No 83H), That a Committee be appointed to draw up Reasons to be assigned to the Lords for disagreeing to their amendments 1 to 4;
+
+That Michael Ellis, Tom Pursglove, Paul Holmes, Mark Tami and David Linden be members of the Committee;
+
+That Michael Ellis be the Chair of the Committee;
+
+That three be the quorum of the Committee.
+
+That the Committee do withdraw immediately.—(Rebecca Harris .)
+
+Question agreed to.
+
+Committee to withdraw immediately; reasons to be reported and communicated to the Lords.
+
+Madam Deputy Speaker (Dame Rosie Winterton)
+In order to observe social distancing, the Reasons Committee will meet in Committee Room 12.
+
+Medicines and Medical Devices Bill (Programme) (NO.3)
+
+Motion made, and Question put forthwith (Standing Order No. 83A(7)),
+
+That the following provisions shall apply to the Medicines and Medical Devices Bill for the purpose of supplementing the Order of 2 March 2020 (Medicines and Medical Devices Bill (Programme)), as amended by the Order of 22 April 2020 (Medicines and Medical Devices Bill (Programme) (No. 2)):
+
+Consideration of Lords Amendments 
+
+(1) Proceedings on consideration of Lords amendments shall (so far as not previously concluded) be brought to a conclusion two hours after their commencement.
+
+Subsequent stages 
+
+(2) Any further Message from the Lords may be considered forthwith without any Question being put.
+
+(3) The proceedings on any further Message from the Lords shall (so far as not previously concluded) be brought to a conclusion one hour after their commencement.—(Rebecca Harris.)
+
+Question agreed to.
+

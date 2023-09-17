@@ -1,0 +1,1021 @@
+ Digital Economy Bill [Lords]
+
+Considered in Committee.
+
+[Sir Alan Haselhurst in the Chair]
+
+The Chairman of Ways and Means (Sir Alan Haselhurst)
+I must say to the Committee that before I propose the Question that clause 1 stand part of the Bill, I must inform hon. Members that two manuscript amendments have been tabled by the Minister to clause 11. Copies of a supplementary amendment paper with the texts have been in the Vote Office for some time. The amendments are numbered 44 and 45. I have selected them and grouped them with the second group of amendments under clause 4, where the lead amendment is amendment 39.
+
+Clause 1
+
+General duties of OFCOM
+
+Question proposed, That the clause stand part of the Bill.
+
+20:52:00
+
+The Parliamentary Under-Secretary of State for Business, Innovation and Skills (Mr. Stephen Timms)
+Sir Alan, I am not going to move that clause 1 stands part of the Bill. In—
+
+The Chairman
+Order. For the sake of rectitude, I should say to the right hon. Gentleman that he does not have to move this. The Question is on whether the clause stands part of the Bill, so we shall see what the debate brings on that matter.
+
+Mr. Timms
+I am grateful to you, Sir Alan. As I say, I am not going to move this.
+
+Clause 1 gives us a requirement in the Bill for Ofcom to promote investment in electronic communications networks and public service media content. That is an important measure, particularly given that there is wide agreement, including across the House, about the importance of promoting investment and of Ofcom facilitating the investment we need in next-generation broadband and in modern communications networks. Nevertheless, given the nature of this wash-up process and my wish to help other Members, I am not moving that the clause should stand part of the Bill and I am not seeking to persuade Members to support it.
+
+Lembit Öpik (Montgomeryshire) (LD)
+I understand what the Minister is saying about the nature of the process. Is he aware that in Montgomeryshire, which has many “not spots”, there is a general nervousness that the Government have not sought to legislate to guarantee good access to fast broadband across the country? How does his action on this clause interrelate with my efforts to try to get Montgomeryshire on to the information superhighway?
+
+Mr. Timms
+The hon. Gentleman raises a very important point. It is a matter of deep concern in rural areas across the country—in Scotland, where I have been recently, and in England and Wales too.
+
+The key steps that are being taken are, first, our commitment to universal service at 2 megabits per second—because many of the areas about which the hon. Gentleman is talking do not have any broadband at all at the moment—by 2012. Broadband Delivery UK is working on that at the moment. Secondly, we need the landline levy—sadly not now in the Finance Bill for this year, although it will be in the Finance Bill that we will introduce straight after the election—with a 50p a month levy on phone lines that will give us the funding to invest in next-generation broadband in rural areas across the country. There is wide agreement across the House about the importance of next-generation broadband being delivered in rural areas. There also needs to be a means to deliver it. That is what the landline levy will give us. There will be no means otherwise.
+
+Lembit Öpik
+Am I therefore right to understand that the action that the Minister is taking on this clause does not represent a change of policy from the Government on guaranteeing 2 megabits per second to rural seats? Can I go back to Montgomeryshire and say that despite the fact that he will not press this clause, he will still give an absolute assurance that all the communities and homes in Montgomeryshire can expect 2 megabits per second broadband access were his Government to be re-elected, however rural or remote the settlement?
+
+Mr. Timms
+I can give the hon. Gentleman the reassurance that our universal service commitment stands.
+
+Mr. Don Foster (Bath) (LD)
+The Minister tells us that he is sad that the broadband tax has been dropped and he said that it was being done to be helpful to the House. Will he explain why, given that there is a majority in this House and a majority in another place in favour of that tax, it has been dropped?
+
+The Chairman
+Order. I must say to the hon. Gentleman that that matter has nothing to do with the Bill or with the clause that we are discussing.
+
+Mr. Timms
+Thus warned, Sir Alan, I shall be cautious, other than to say that the hon. Gentleman knows well how these matters are determined.
+
+Question put and negatived.
+
+Clause 1 accordingly disagreed to.
+
+Clauses 2 and 3 ordered to stand part of the Bill.
+
+Clause 4
+
+Obligation to notify subscribers of reported infringements
+
+Mr. Tom Watson (West Bromwich, East) (Lab)
+I beg to move amendment 36, page 6, leave out lines 16 to 20 and insert
+
+‘infringement of the owner’s copyright appears to have taken place by means of an internet access service’.
+
+The Chairman
+With this it will be convenient to discuss the following: amendment 37, page 6, line 27, at end insert
+
+‘by reason of the work in relation to which the copyright subsists being uploaded or downloaded to peer-to-peer filesharing networks.’.
+
+Amendment 32, in clause 8, page 11, line 30, after ‘copyright’, insert ‘through peer-to-peer filesharing networks’.
+
+Amendment 33, page 11, line 31, after ‘evidence’, insert
+
+‘in relation to subsistence of copyright and infringement of the owner’s copyright through peer-to-peer filesharing networks’.
+
+Amendment 34, page 11, line 42, at end insert—
+
+‘(d) an indication of whether or not it is alleged that the subscriber or anyone else obtained financial or commercial gain from the alleged online copyright infringement through peer-to-peer filesharing networks’.
+
+Amendment 30, in clause 9, page 12, line 39, after ‘copyright’, insert ‘through peer-to-peer filesharing networks’.
+
+Amendment 31, page 13, line 11, after ‘copyright’, insert ‘through peer-to-peer filesharing networks’.
+
+Amendment 27, in clause 10, page 14, line 13, leave out ‘by means of the internet’ and insert
+
+‘by reason of their infringing copyright through the use of a peer-to-peer file sharing network’.
+
+Amendment 24, in clause 11, page 15, line 7, after ‘providers’, insert
+
+‘in relation to online copyright infringement through peer-to-peer filesharing networks’.
+
+Amendment 40, in clause 17, page 21, line 2, after ‘copyright’, insert ‘through peer-to-peer filesharing networks’.
+
+Amendment 41, page 21, line 31, at end insert—
+
+‘“peer-to-peer filesharing network” means a network that allows files to be shared directly from personal computer to personal computer with no intermediate server - thus, peer to peer’.
+
+New clause 3—Objective of sections 4 to 17—
+
+‘The objective of the measures in sections 4 to 16 is to move to a lawful means of access to copyright material for consumers and businesses and to reduce unlawful file sharing and other forms of copyright infringement.’.
+
+Mr. Watson
+Sir Alan, you have always been a very patient man. I want to apologise to you in advance for the number of amendments that I suspect I will be moving alone. I know that you will patiently bear with me, but we have had to submit amendments and to consider our thoughts at light speed. Those people looking in will find the process as baffling as I am sure some of us in the Chamber do.
+
+This basket of amendments is concerned with some definitions and with the scope of the Bill. Amendment 36 amends clause 4(1). This is about trying to identify liability. The wording in the Bill, as it stands, has an assumption of liability when it comes to people receiving notifications. Of course, a wi-fi network might have been used in a household. A parent might be paying for the broadband connection, whereas their children are illegally downloading. The assumption in the current wording is that that parent has authorised the child’s infringement of copyright. My amendment would replace that wording with a neutral meaning to provide reassurance to parents up and down the country, students in houses in multiple occupation and anyone who shares a network, as the legislation would not assume guilt when a notification was sent out.
+
+21:00:00
+
+Amendment 37 deals with definitions. The lineage of the Bill is that it came out of a consultation that lasted for six months and looked into how we deal with illicit P2P—person-to-person—file sharing. In the amendment, I try to give a narrow definition of P2P file sharing, as opposed to opening up a rather general definition of copyright infringement. If the amendment were accepted, it would probably save embarrassment to many people on both sides of the House because, under the clause as it stands, anyone who downloaded the image of Gene Hunt that has been used by both political parties would be caught by the measure. I will not embarrass one of my very good friends in the Whips Office who every day sends me clipped pieces of news reports from national newspapers, but that practice could be seen as copyright infringement under the clause unless the amendment is accepted.
+
+Mr. Edward Vaizey (Wantage) (Con)
+Name him.
+
+Mr. Watson
+I shall not name him because, as the hon. Gentleman knows, naming Whips is not a good thing to do, particularly when one is moving an amendment that is hostile to the Government. I think I have chanced my arm enough. This Bill’s whole definition has been broadened in the different iterations that have appeared since the original concept in the “Digital Britain” report, and I am trying to focus it just on P2P file sharing.
+
+Dr. Nick Palmer (Broxtowe) (Lab)
+Does my hon. Friend agree that there is quite a lot of concern among members of the wider public who are interested in these things that this widening seems to be taking place in a Bill that is coming in right at the end of the Parliament, when there is limited scope for consideration? That is one reason why it makes sense to narrow the scope.
+
+Mr. Watson
+Yes; I have said categorically that if I had my way, the Government would remove clauses 11 to 18. Given the time scale, that would be a sensible way of going forward. I am really trying to tidy up what could be a catastrophic disaster if all the measures are voted through this evening.
+
+Mark Lazarowicz (Edinburgh, North and Leith) (Lab/Co-op)
+I am grateful to my hon. Friend for giving way and for all the arguments that he has put forward so far this evening and previously. If those measures were removed from the Bill and it turned out that it was incredibly important to consider them at an early stage, I presume that they could be brought forward in the new Parliament in a very short Bill to deal with the matters that had arisen. Do they need to be dealt with tonight, at this stage, or could they be addressed in a few weeks if it was important to do so then?
+
+Mr. Watson
+I shall not be tempted to go too far on that point, except to say that we heard yesterday that there is broad consensus on some of the measures in the Bill. I feel certain that the House could consider all these clauses again straight after the election and give them the proper scrutiny that they deserve.
+
+Lynne Featherstone (Hornsey and Wood Green) (LD)
+Does the hon. Gentleman agree that, given the very real public concern about this Bill, it is much more important to get things right than to get them through?
+
+Mr. Watson
+Yes; I was rather taken aback yesterday to hear someone—I think it was the Conservative Front Bencher—say, “Let’s just get this Bill through and if there’s anything wrong with it, we can put it right.” Ten years into being here, I know that if we do things in a hurry and get them wrong, the law of unintended consequences always kicks in. It would be far better to remove clauses 11 to 18 and have a period of reflection.
+
+Amendment 34 would place a responsibility on rights holders to inform people whether the infringement that the rights holders have identified was, in their view, done for financial gain or simply because those people decided to infringe. The thinking behind the amendment is that, because the lobby groups that we have talked to have given us a host of what I consider to be rather bogus financial and economic predictions about the effects of illicit file sharing, rights holders and internet service providers should be required to determine whether this so-called online privacy is being done for personal financial gain, or simply because people want to share things that interest them. That would allow us to build up a body of evidence showing the true effects of illicit downloading in the future. I believe that this is a reasonable amendment, and I hope that the Government will consider accepting it.
+
+Amendments 32, 34, 30, 31, 27, 24 and 40 are consequential, and deal with definition. We want to get the Bill refocused on P2P file sharing alone.
+
+John Hemming (Birmingham, Yardley) (LD)
+I thank the hon. Gentleman for giving way. He is making a point about the financial aspect of file sharing, but does he agree that many of the people being criticised in the Bill are children, and that they will not pay for downloads or access to sites because they do not have the money?
+
+Mr. Watson
+Yes, and the same is true more broadly for people who want to share knowledge, data, culture, art and music with each other. They are not motivated by financial gain. Much of the criticism that the Bill has attracted is based on the fact that it concentrates on the economic impact of file sharing, whereas its social and cultural impact has not really been discussed or teased out.
+
+Amendment 41 provides a definition of P2P file sharing. The Government have had trouble in that regard, and this amendment is my stab at the problem. It may be a rather folksy and, I guess, amateur attempt but, given that the great people at the Department for Business, Innovation and Skills have been unable to come up with a definition, I thought that I would try.
+
+I turn now to new clause 3. We have been told that the whole thrust of the Bill is to reduce illegal infringement and illicit file sharing by 70 per cent. The use of such a target strikes me as slightly naive and gauche, when we should really be adopting a carrot-and-stick approach. We could reduce copyright infringement and illicit file sharing by 70 per cent., but there is no certainty that that would raise a single penny for the creators and rights holders.
+
+Accordingly, new clause 3 seeks to remove people from the illegal black or grey markets by placing an obligation on the Government to promote legal downloading. I hope that the greater optimism of that approach will take the place of the pessimism that pervades the Bill.
+
+With that, I conclude my remarks on this basket of amendments.
+
+Mr. David Drew (Stroud) (Lab/Co-op)
+I am delighted to support the amendments tabled in the names of my hon. Friend the Member for West Bromwich, East (Mr. Watson) and for Selby (Mr. Grogan). My hon. Friend the Member for West Bromwich, East has put his finger on the problems with the Bill, which are twofold. First, the Bill needs proper scrutiny in this House. That was the basis of yesterday’s Second Reading. I did not speak because I hoped that the Government would listen to wiser, brighter and more technically advanced voices than mine, and realise that we need to be careful about what we introduce at such a time. I hoped they would also realise that what seemed merely a technical Bill has become emotive and—dare I say it—quite dangerous. My hon. Friend the Member for West Bromwich, East has just proved how difficult it will be to word the measure. He showed why we need proper scrutiny in Committee in the normal way, but that is not happening at all.
+
+My hon. Friend’s second point was that the Bill started with quite a narrow focus, but now seems all-encompassing. As he rightly said, the real worry is that we shall pick up the very people we do not want. We are looking for the pirates, the cowboys, the commercial operators and we shall end by picking up children.
+
+Mr. Mark Todd (South Derbyshire) (Lab)
+My hon. Friend referred to proper scrutiny. The word he left out was “democratic”—the phrase should be “proper democratic scrutiny”. The Bill has been scrutinised in the other place, but it is exactly the kind of measure that deserves the scrutiny of those who represent electors and who have much greater contact with citizens when dealing with matters of this kind. Does my hon. Friend agree?
+
+Mr. Drew
+I completely agree. Perhaps my position is unusual, but the Bill is getting me more of a postbag, and certainly more electronic contact, than any other issue at present. A few of us are standing for re-election and could do with getting on with that rather than trying to understand the Digital Economy Bill and trying to explain to people why what they think should be happening—proper scrutiny—is not happening.
+
+I take the wise words of my hon. Friend the Member for West Bromwich, East: we need to tighten up the provisions. Like him, I should like to see clauses 11 to 18 go, but we are making a fist of at least refocusing the Bill, to make it narrower. What happened in the other place was almost the reverse of what normally occurs, which is tightening up things that have not been done satisfactorily in this place. Now we have the obverse; the other place seems to have gone on a fishing trip to extend the Bill—I say no more—and we have to try to make good the damage in the most limited time and in the most limited ways.
+
+I can assure the Committee that our constituents—the people who have e-mailed and written to us—will be watching. They will not be at all pleased, just as they were not pleased yesterday when there was no vote on the Second Reading of this controversial Bill—its first hearing in this House. They will not be happy unless we give the Bill some scrutiny.
+
+I finish on that point. I do not want to say more on this amendment, as I want to speak on the second group. However, as a number of Labour Members have chosen to stay here and make representations, I think it is fairly clear that we feel very unhappy.
+
+Mr. John Grogan (Selby) (Lab)
+It is with great pleasure that I follow my hon. Friend the Member for Stroud (Mr. Drew).
+
+The amendments could have the generic title—“The all-praise to Lord Carter amendments”, because they seek to restore the Bill to his White Paper. I say quietly, and in parenthesis, that the subtitle might be, “Let’s dare to question the wisdom of Lord Mandelson”. I encourage my right hon. Friend the Secretary of State for Culture, Media and Sport to do that, because I know how closely he worked with Lord Carter on the original proposals that the amendments seek to restore by narrowing the scope of the Bill.
+
+I have been contacted today by no fewer than three Ministers in Lord Mandelson’s empire—I admit that that is a relatively small proportion of the total—and all of them expressed disquiet and said that we should continue to question the measures. They said, “We were all lined up with Lord Carter and we conducted an extensive consultation on illegal peer-to-peer file sharing and what should be done about it, but we are deeply unhappy with the wording of the Bill because it is now much broader and talks about online copyright infringement.”
+
+21:15:00
+
+Jeremy Corbyn (Islington, North) (Lab)
+My hon. Friend makes an important point. Does he accept that amendment 34 would bring some sanity to the Bill because it quite specifically states that action should be taken only against those who financially gain from such activity? That is different from the catch-all provision in the Bill that, as my hon. Friend the Member for West Bromwich, East (Mr. Watson) pointed out, will pick up all kinds of people who merely share information.
+
+Mr. Grogan
+My hon. Friend the Member for West Bromwich, East (Mr. Watson) has been working on the amendments night and day in the limited time available—[Hon. Members: “One night and one day.”] Yes, but he has done a remarkable job. I am attracted by amendment 34, just as I am attracted by amendment 36, which would restore the United Kingdom view of the internet. Up until now, it has been assumed that a subscriber to an internet access service is responsible only for the actions that they take, but the Government’s provision has the problem that it goes down the lines of the French model—it was actually rejected in the French courts—that a person is liable for any activity that takes place on an internet access service to which they subscribe.
+
+Lord Carter would be proud of new clause 3 because it would restore the balance of the Bill by incentivising those who file share and internet service providers to develop new economic models that would result in a return to rights holders—the approach is as much carrot as stick. The stick that Lord Mandelson introduced—again, I speak softly—has completely distorted the Bill.
+
+I urge the Committee to think carefully about the amendments. We look forward to hearing the Government’s response. I do not think that there will be any alternative to voting against Third Reading, given the Bill’s lack of democratic scrutiny.
+
+Mr. Andy Reed (Loughborough) (Lab/Co-op)
+We have a very short time in which consider the Bill. Would it not have benefited from pre-legislative scrutiny,  given that it is so technical and few Members probably understand all aspects of it? If it were to be defeated on Third Reading, I would look forward to it coming back and being scrutinised in such a way.
+
+Mr. Grogan
+Many Members in the Chamber—sadly I will not be one of them, because I shall not be here after the election—would make excellent Chairs of such a scrutiny Committee. There would be several candidates, and I would imagine that the Chair would be elected by the whole House—that would be a good way for the new House of Commons to start.
+
+I will be interested to hear my right hon. Friend the Minister’s reply to this short debate. I urge him to return to a position that reflects the spirit of what Lord Carter proposed.
+
+Derek Wyatt (Sittingbourne and Sheppey) (Lab)
+It is alarming, although not surprising, that it took me a search of the internet to discover exactly what amendments had been tabled, rather than finding out through the Vote Office.
+
+I have raised my confusion about the Bill with the Secretary of State privately. I own the e-mail system that is predominantly used by my family—I sign it off. If one of member of my family was illegally file sharing, I could have my e-mail taken away, or rather I would say to them, “Apparently you’re illegally file sharing, so if I was you, I’d go along to Gmail or Hotmail and open an account, and could you come off the family account?” Under the Bill, all that will happen is that we will endlessly change our ISPs and e-mail addresses. That is not a solution to the fundamental problem that I think that hon. Members want to solve. The critical point is that the intellectual copyright of musicians and artists must be protected online as well as offline. I support what my hon. Friend the Member for West Bromwich, East (Mr. Watson) said, but I do not understand how we got into this situation so late in the day, notwithstanding the apparent scrutiny that the Bill received in the House of Lords.
+
+Mr. William Cash (Stone) (Con)
+It strikes me that a lot of the difficulties that we are experiencing and hearing about are not dissimilar to those encountered in previous attempts to resist the growth of modern technology. Even in the 16th century, there was an attempt to track down people who set up secret presses; it made no difference. Although the attempt to prevent what is regarded as an illegal use of technology is understandable to achieve certain objectives, it seems to me that, underneath that, there is an attempt to stem a tsunami. The number of people who have connected with their MP, with the public at large, on radio and on television represent a significant core—perhaps even a significantly vast range—of people who simply are not prepared to accept the restrictions that the Bill suggests should be imposed on them.
+
+Perhaps there are all sorts of legal reasons why the proposals in the Bill have been assembled in a way that would achieve the objectives of the industry, but I have been reading material from the Open Rights Group, the Internet Service Providers Association, the BPI, which represents the UK recorded music business, and others. The chair of the Creative Coalition Campaign and general secretary of Equity says:
+
+“Those employed in the UK's creative industries have waited four years for laws to tackle illegal file-sharing—to delay now would further threaten the contribution that this sector makes to the economy.”
+
+I have no doubt that there is a strong degree of truth in the assertion that people engaged in the creative industries provide a lot of help and sustenance to the economy, but I believe also that it is wrong to pass laws that will be ignored.
+
+As I described, people simply refused to accept restrictions on freedom of printing, and the same is true of freedom of expression and freedom of speech. We hear a lot of talk about freedom of information. I know that some will say that information can be freely available only if it is regarded as legal information, but over the past few months we have had some experience of illegal information being made available, with interesting consequences. I would not advocate that, but I will say that there is an element of, not only uncertainty, but impossibility in seeking to restrain something without proper consultation, without a properly considered Bill and without the sort of analysis that the subject requires. I have listened carefully to Labour Members; not one has yet suggested that they think that the legislative proposals set out in the Bill are understandable and capable of being explained to the people who would be affected by them. That is the practical question, which, among other reasons, will lead me to vote against Third Reading of the Bill.
+
+I think that this is a bad Bill in the sense that is being rushed through. It is unthinkable that a Bill of such importance is being rushed through simply because the Prime Minister—I say this with respect to Labour Members—has set out in his five pledges something that approaches the content of the Bill. In addition, we are told that paper amendments are coming down from House of Lords as we speak.
+
+The bottom line is that we are dealing with a situation that calls out for proper scrutiny. I have just attended the proceedings on the Finance Bill; not one single Government Member was present during the whole course of those proceedings. Perhaps one popped in for 20 minutes, but that was that. However, I have just come from the Dining Rooms and there are about 100 people sitting there, all talking to one another, and I suspect that they are there for a purpose. I suggest that the Government take that on board and realise that they are really up against it. The Bill should not be rushed through. It is not the Dangerous Dogs Bill; it is a very different type of Bill.
+
+Mr. Don Foster
+Is the hon. Gentleman aware that the deliberations in another place, which I think he will acknowledge were extensive, finished on 15 December? There have been three weeks—and in some days, business collapsed and ended early—in which we could have had much greater deliberation on this very important Bill.
+
+Mr. Cash
+That is fascinating and very important. It illustrates the point that I have been trying to make, which is that the Bill is being pushed through in a way that is completely contrary to all the discussion that we have had over the past few months about radical parliamentary reform, which I strongly advocate, as does my hon. Friend the Member for Christchurch (Mr. Chope) and many others in all parts of the House. The Wright Committee proposals have just been kicked not just into touch but into the gutter. The reality is that proposals such as those in the Bill would never get past a House Committee, or a Back-Bench business committee. An example is being set; what the Government have disgracefully done this afternoon with regard to the Wright Committee proposals could be balanced by a significant revolt against the way in which the House is being treated with regard to the Bill.
+
+Mr. Austin Mitchell (Great Grimsby) (Lab)
+I will not spend time on the lecture delivered by the hon. Member for Stone (Mr. Cash), but I agree with him. He has turned cash-and-carry filibusters into a central part of the British constitution, and in this instance, he is absolutely right. I made my main position on the Bill absolutely clear yesterday, and I will not repeat what I said then. I shall be very brief. The central point is that we should not be discussing a series of amendments of this kind, although they are good and welcome amendments, at this late stage in the Bill’s progress. The issues should have been discussed in proper scrutiny by the House of Commons, with representations from outside. Pre-legislative scrutiny would have been very helpful, too.
+
+The main point is that the Bill uses a sledgehammer to crack a nut, so we are inducing a lot of fear in young people. I have had lots of representations—mainly by e-mail, it has to be said, which is a nuisance; I find it difficult to deal with. I have also had representations from young members of the Labour party—we have quite a number in Grimsby—who are all concerned, or frightened, that their harmless peer-to-peer file-sharing activities will be clamped down on. They fear that that will cause trouble for their family’s internet connection and will lead to it being cut off. That is exactly the problem. We are not talking about big commercial operators who are defrauding the system; those should indeed be dealt with. The measures will have extensive repercussions for ordinary people with teenagers in the house, or young people around, who share files among themselves, thereby endangering the whole family.
+
+Jeremy Corbyn
+I do not know why my hon. Friend thinks that it is only young people who are worried about file sharing on the internet. An awful lot of very serious people are worried that they will lose their internet connection—internet connections that the Government spend a great deal of money promoting. Is he not aware that the measures could lead to the closure of internet cafés?
+
+Mr. Mitchell
+My hon. Friend is absolutely right.
+
+The Chairman
+Order.
+
+Mr. Mitchell
+I was not speaking for the silver surfers, of whom my hon. Friend the Member for Islington, North (Jeremy Corbyn) is obviously one.
+
+The Chairman
+Order. The hon. Member for Great Grimsby (Mr. Mitchell) could not hear me, but I was getting up to say that because he kept turning away from the Chair, I could not hear him. I am sure that I was the greater loser; he should address the Chair.
+
+21:30:00
+
+Mr. Mitchell
+I am very sorry that my internet connection with you was cut off, Sir Alan, but that is an illustration of what could happen to quite ordinary families, whether the people using the internet are silver surfers or teenagers. The danger is that file sharing, peer to peer, will endanger the connection for the whole family.
+
+Mark Lazarowicz 
+rose—
+
+Mr. Mitchell
+I will have to give way to another silver surfer.
+
+Mark Lazarowicz
+Is not one of the problems that the whole basis of this measure is that it assumes that the internet providers will not make mistakes? Many of us have people coming to our surgeries with problems with mobile phones or internet access, so mistakes are frequently made. Without an adequate appeals procedure, people will be doubly at risk of being cut off, and not just because they may be downloading illegally. They may be doing nothing wrong at all, but a mistake may have been made, against which they have no valid right of appeal.
+
+Mr. Mitchell
+That is true, and that is the second reason for supporting the amendment. My third reason would be that it is quite possible for people to snitch and sneak on each other, and report each other to the internet service provider just to make trouble. Again, that trouble can lead to a disconnection. For all those reasons, this use of a heavy weight to crack a quite trivial problem, which fails to deal with the commercial—
+
+Stephen Pound (Ealing, North) (Lab)
+rose—
+
+Mr. Mitchell
+I am not sure how to describe my hon. Friend. He is certainly not a silver surfer.
+
+Stephen Pound
+More “Teenage Kicks”, I would have hoped. As ever, my hon. Friend makes a persuasive point. But what happens if you have a young band of transcendent genius, such as Stiff Little Fingers or The Undertones, which is denied the opportunity of its royalties? Does he not realise that there is a case to be made for intellectual property and money coming to those start-up bands?
+
+Mr. Mitchell
+To answer my hon. Friend’s transcendent genius, there is a case to be made for protecting intellectual property, and the Bill tries to make it. But it does so by placing a heavy weight of retribution on people who are not infringing intellectual property for commercial gain, which is what the measure is aimed at. That could be dealt with by altering the Bill, which proper scrutiny would have brought about, rather than by rushing through a piece of legislation that is bound to be damaging because it interferes with the activities of a lot of young people and produces an atmosphere of fear.
+
+I am all in favour of dealing with commercial infringements for gain and for money, but those that are carried on by young people, peer to peer, should be excluded from the province of this Bill, and the amendments certainly try to do that. That is why they are worthy of support.
+
+The Second Deputy Chairman of Ways and Means (Sir Michael Lord)
+Has the hon. Gentleman completed his contribution? In plain words, has he finished?
+
+Mr. Mitchell
+I have.
+
+John Hemming
+I start by declaring some interests. I am a member of the BPI, the Performing Right Society and the Musicians Union, and I have also run e-commerce companies for more than 10 years.
+
+The Bill is a complete mess. There is a real problem, and, to be fair, a lot of the market for music is among younger people, so although the industry overestimates the amount of money that it would gain from having a very much more restrictive approach on download, a lot of the music business is involved in selling to teenagers and perhaps even younger children at times. There is an issue here; there is no question about it. Musicians need a way of getting their return.
+
+The first problem is trying to deal with a very complex issue in the wash-up. It is a completely absurd thing to do. I accept that the industry has had to wait four years for this, but that is not a reason to do it all in one night or two nights. That is a reason to drop clauses 11 to 18 and new clause 1 from the Bill and examine the matter properly in the new Parliament.
+
+The dangers lie with sites such as WikiLeaks, which is a good example to look at. It publishes leaked Government information, on which Governments always have the copyright. A recent example is the US air force video, which it published. Copyright exists with the US Government, who under the Bill could, and would want to, apply to ban WikiLeaks from the UK. That provision is clearly in the Bill. Yesterday I gave the example of freedom of information. Most local authorities, when they send people freedom of information requests, say, “By the way, we keep the copyright on this.” They keep the copyright, and they could say, “There are websites that report on freedom of information requests, and they can be banned as well.” I know that it sounds absurd.
+
+This debate comes down to the fact that we need to review copyright, fair use and where copyright does and does not exist. On the one hand, the Government are imposing massive restrictions on copyright, whereby any situation involving any vague copyright suddenly means banning everyone in the family from the internet. On the other, the Government are taking from a television programme a picture of an Audi Quattro and mashing it up—and then somebody else is doing the same thing. We have that absurdity.
+
+In my previous life I did a little computer programming for my casework system, and I still do. With computer programming, a small amount of code can have a massive impact. A plane that flies on duff computer programming can actually crash, and the same applies to laws. Computer programming involves testing, and the lesson is that we should test things rigorously before letting them go live. With laws we have scrutiny, and that process should be rigorous, particularly when it involves something that is a part of so many people’s daily lives.
+
+The amendments are welcome, but the Government’s big mistake has been to take on this most complex issue, which has wide implications. WikiLeaks is a good example to consider, as are the websites that report on freedom of information requests, because the Bill would give the US Government the opportunity to ban people from looking at WikiLeaks. I am sure that the Government do not wish to achieve that end, but the way to deal with the issue is not to push the Bill through in two nights without any adequate scrutiny, and not to push through new clause 1 or clauses 11 to 18—although I understand that clause 18 will actually be disagreed to. The way to deal with the issue properly is to spend some time on it in the new Parliament, so that it can be examined from all angles. There is a real problem, but let us not make a real mess of it in order to deal with just one aspect.
+
+Dr. Palmer
+I shall be brief, because time is short. I am possibly one of the few Members who have suffered directly from illegal copying. When I produced my video game it was almost immediately copied, and I presume that I lost some royalties from that. So I do not consider this to be a completely trivial problem, as has been suggested.
+
+However, there are two basic difficulties. First, the remedy is inappropriate. I am completely open to the argument that we should have stricter penalties for people who seek to make money out of illegal copying, from which many young people, to whom we referred earlier, might benefit. However, young people are not the primary instigators. The primary instigators are the people who make the original illegal copy and sell it on for gain. If we blocked internet access for individuals who make use of illegal copying, that would be inappropriate in two ways: they are not the primary instigators, and although we can imagine that perhaps they should be fined, we would be denying them access at a time when society as a whole increasingly depends on access, and when we are attempting to reduce the digital divide. By analogy, if I misused the postal service and as a penalty I was no longer allowed to receive letters, that would simply not be the right solution.
+
+Secondly, owners of copyright are generally quite powerful in their financial resources. I take the point made by my hon. Friend the Member for Ealing, North (Stephen Pound) that some of them may be start-up bands and not very well set, but there has been reluctance among major companies to pursue copyright infringements. Sometimes the infringements can be helpful in their marketing. As one of my constituents has said to me, targeting ISPs is a bit as though we were prosecuting road maintenance workers because the council had failed to impose the correct restrictions on how the roads were used. The ISP should not be our primary target in attempting to attack the problem.
+
+Mr. Cash
+Does the hon. Gentleman believe that, although we will not get the opportunity to look into it, there is a lot to be said for confining the offences to those who are both organised and acting for profit on a commercial basis? Any attempt to place a restriction on young people and then provide for an astonishing mechanism of appeals to a first-tier tribunal seems unbelievable. Young people who are engaged in the activities in question as a matter of practice will not be restrained, despite what everyone might want to say. We might end up producing an unworkable law on a fast track through the House, when there are remedies if we could only get down to the business of considering them properly.
+
+Dr. Palmer
+The hon. Gentleman is quite right. Either the law will be effective or it will not. If it is effective, it will impose intolerable sanctions on individuals who are not the main instigators. If it is ineffective, we are wasting our time. I agree that the focus should be on the wholesale commercial violators. I would be very much in favour of stricter penalties for them, because I recognise that there is a genuine problem.
+
+Mr. Vaizey
+I commend the hon. Member for West Bromwich, East (Mr. Watson), who has set himself up as the digital tsar of the House of Commons and an expert on all matters to do with the creative industries. He is filling a vacuum left by the Government, who have refused to replace the hon. Member for Birmingham, Erdington (Mr. Simon) since he resigned as Minister with responsibility for the creative industries.
+
+Mr. Watson
+I appreciate the hon. Gentleman’s praise. I guess the vacuum that I am filling is the one left by the lack of amendments tabled by Conservative Front Benchers.
+
+Mr. Vaizey
+I will come on to that. I was going to commend the hon. Gentleman for his amendments, and he has been open and honest in saying that they are probing amendments that he scribbled on the back of an envelope this morning at 100 megabits a second. He knows that we have not had time to scrutinise them or for the Government to redraft them.
+
+That is the point that I wish to address. If we had listened in isolation to the Labour contributions, we would have heard the most extraordinary bleating from the hon. Gentleman and from the hon. Members for Great Grimsby (Mr. Mitchell) and for Stroud (Mr. Drew). One would have thought that this was not their Government. The hon. Member for West Bromwich, East is one of the Prime Minister’s closest friends, and the hon. Member for Great Grimsby is one of the House’s most eminent Members. The hon. Member for Sittingbourne and Sheppey (Derek Wyatt) is a former Parliamentary Private Secretary in the Department for Culture, Media and Sport. Do they not know Ministers and the Prime Minister? Were they not able to say months ago, “Bring this Bill into the House of Commons and scrutinise it”?
+
+We hear talk of Lord Carter of Barnes, the author and éminence grise of the Bill, as though he were somehow passed away, deceased and spinning in his grave. No, he is alive and well. He spoke in support of the Bill on Second Reading in the other place. It is true that he has left the country—many people are poised to leave the country if the Labour Government win again, and Lord Carter was simply anticipating that possible eventuality—but he is on his mobile phone and Members could ring him up to see what he thinks. It is pathetic for Labour Members to pretend that the fact that we have had two hours to debate the Bill on Second Reading and one hour in Committee has nothing to do with them. They are responsible for the lack of scrutiny of the Bill, and that must be put on the record.
+
+21:45:00
+
+Dr. Palmer
+Is the hon. Gentleman going to proceed from his party political knockabout to tell us what the Conservative party’s position is? Were it to take power, would it not do something very similar?
+
+Mr. Vaizey
+We decided to support the Bill in principle. We would have loved to scrutinise the clauses being debated now and to table and debate amendments in the House. However, we supported the Bill in principle, and we support the principle that something should be done to combat illegal file sharing. In fact, every single Labour Member who has spoken has said that they support the principle that something should be done to combat illegal file sharing; they simply said that there is not enough scrutiny to make the Bill work, and whose fault is that? It is the fault of Labour Members.
+
+Mr. Christopher Chope (Christchurch) (Con)
+If my hon. Friend is suggesting that the remedy proposed by those who tabled the amendments is wrong, what remedy does he think should be put in place instead?
+
+Mr. Vaizey
+We simply make the point that there is not time—we have been put in an invidious position. My hon. Friend the Member for South-West Surrey (Mr. Hunt) has made this absolutely clear. The astonishing position of the Labour Members—it’s nothing to do with me, guv!—is absolutely incredible.
+
+Mr. Watson
+The hon. Gentleman is a very good friend of mine, and that is the most intellectually disingenuous contribution I have heard in the debate. If I, as a raggedy Back Bencher, can table a dozen amendments in 12 hours and write a speech, he should pull his finger out and do the same.
+
+Mr. Vaizey
+The hon. Gentleman is not even going to move all his amendments; he is simply putting them forward for form’s sake. I ask him what conversations he had with the Prime Minister—a close personal friend of his—who could have brought this Bill forward for scrutiny. The fault lies on the Labour Benches and with those hon. Members who could have brought the Bill forward for scrutiny. I rest my case, Sir Michael.
+
+Mr. Timms
+I ask the House to resist the amendments in the name of my hon. Friend the Member for West Bromwich, East (Mr. Watson). Clause 4 deals with the obligation to notify. Several points have been made that will be raised later, but I shall comment on some of them now.
+
+It is important for the House to be clear that we are debating the circumstances in which people should be notified that a copyright infringement has occurred. My hon. Friend said that the remedy is inappropriate, but let us be clear that the remedy here is to send people a letter informing them that a copyright infringement has occurred. I hope that, in dealing with peer-to-peer file sharing, as this part of the Bill does, that measure—sending letters to people—on its own will lead to a substantial reduction in the incidence of the unlawful activity about which we are concerned. Many people have rightly spoken about the seriousness of the concern about the current level of unlawful activity under way.
+
+Mr. Don Foster
+I apologise for interrupting so early, but will the Minister make it clear to the House that the ambition to reduce the number of illegal file sharing activities will be met not though letter-writing alone, but by placing requirements on the industry to develop new models that make it easier for people to legally access their material at an affordable price?
+
+Mr. Timms
+The hon. Gentleman is absolutely right. It is very important that the industry does that and develops an effective education campaign. In fact, I have seen some interesting proposals to do that, which I hope will go forward. However, we need legislation as well. The House needs to be clear that we cannot make headway on this issue unless we have legislation along the lines proposed.
+
+Stepping back from the detail of the amendments, let me make a couple of points. Does anything really need to be done to address online copyright infringement? A subsidiary question might be: is legislation the right vehicle to do so? In a number of the speeches that we have heard, hon. Members have expressed misgivings about some aspects of the Bill. I am thinking, for example, of what was said by my hon. Friend the Member for Sittingbourne and Sheppey (Derek Wyatt), who, in his speech on Second Reading yesterday, strongly supported the need to support the creative industries in the Bill. However, my sense is that there is a pretty broad acceptance across the House that we are talking about a serious matter, that it needs to be addressed and that legislation is appropriate for addressing it.
+
+There is certainly significant harm to our creative industries resulting from the current level of online copyright infringement. That harm is estimated in the impact assessment for the Bill at £400 million for music, film and TV. Others have come up with a larger figure for the content industries more widely. My hon. Friend the Member for West Bromwich, East talked about the games industry, which is certainly affected by online copyright infringement. The figure that the International Chamber of Commerce estimated for the scale of the problem is £1 billion, or perhaps more, so we are talking about a serious problem. My hon. Friend the Member for Great Grimsby (Mr. Mitchell) suggested that we are taking a sledgehammer to crack a nut, but it is not a nut; it is a serious problem that needs to be addressed.
+
+Mr. Cash
+There is a real problem, but there is also a problem of proportionality and realism. I return to the question that I put to the Minister earlier, which is simply this. I object to the speed at which the Bill is being progressed, but leaving that aside for the moment, if the Bill was more focused on that £400 million, or whatever figure the Minister quoted for the loss to legitimate complainants whose copyright was being infringed, so that only those who were organised and engaged in such activity for commercial advantage were affected, those complainants would get the benefit of a piece of legislation that was directed at something that can actually be tackled. The problem is that we are trying to engage in a surveillance society-like attack on young people, who will not take any notice and in respect of whom there will be no reasonable way of enforcing the Bill.
+
+Mr. Timms
+The hon. Gentleman’s characterisation of clause 4 is quite wrong. It is a very focused provision, dealing with the problem of unlawful downloading by means of peer-to-peer file sharing, which accounts for the lion’s share of the problem, although that will no doubt change in future. Clause 4 is proportionate to the scale of the problem, and we have come up with an effective method to address it. My hon. Friend the Member for Stroud (Mr. Drew) suggested that the provision had been added at a late stage, but that is not the case. It has been in the Bill from when it was published.
+
+There are strong feelings on the issue, but let me say this to the House. We have heard the strength of feeling against what is in the Bill, which many people have expressed. However, the House also needs to recognise both the strength of feeling on the other side of the debate—a feeling that we need to move, as we are in this Bill—and its importance, not only given the point of view of an economically significant part of UK activity, but in terms of the number of people affected. That is reflected, for example, in the campaign of the Creative Coalition Campaign, the trade unions representing workers in the film industry and others. In the end, the House has to take a view. There are different and opposing views being expressed, and we have to take a view about what is right.
+
+John Hemming
+On the practicalities of clause 4, proposed new section 124A(6)(d) of the Communications Act 2003 talks about collecting the IP address, which will be supplied to the internet service provider. How is that to be achieved?
+
+Mr. Timms
+When a copyright owner identifies that their copyright has been obtained by somebody without payment, they will notify the details to the ISP. The ISP will then send a letter to the customer who is responsible for that account. We are simply talking about letters being sent at that stage. I challenge anyone to suggest that sending such a letter would be a disproportionate response, given the scale of the problem.
+
+John Hemming
+rose—
+
+Mr. John Randall (Uxbridge) (Con)
+rose—
+
+Mr. Timms
+I will not give way. I need to make a bit more headway before I give way again.
+
+It is right that we ask the industry to help to educate consumers and—as the hon. Member for Bath (Mr. Foster) rightly suggested—to develop the kind of attractive commercial deals that consumers want, at a price that they are willing to pay. However, we need legislation as well.
+
+Turning to amendment 36, I think it appropriate that we should ask an internet access subscriber to be responsible for trying to ensure that their access is not used for unlawful purposes. That is what the current wording of the Bill does. Perfectly proper concerns have been expressed about children downloading material unlawfully. I remind the House that, under the clause, a letter would be sent to the person responsible for the internet access, to inform them that unlawful downloading had occurred. It would be a matter for them to ensure that their internet access was safeguarded. Sending a letter is entirely appropriate in such circumstances.
+
+Mr. Todd
+Will my right hon. Friend give way?
+
+Mr. Timms
+I would be grateful to my hon. Friend if he will forbear for a moment while I make a little more headway.
+
+A couple of people have suggested that we should send out these letters only if people are doing this for financial gain, but I cannot accept that argument at all. That is almost like arguing that stealing is wrong only if it is being done for financial gain, and I do not think that anyone would seriously maintain that that is the case. It would depend on how one defined financial gain, but I believe that it would be wrong to restrict this measure to cases in which there was clear commercial gain. People who take what others have paid for without paying for it are doing something that is already illegal; that is clear in the law at the moment. To say that we should not send a letter to such people is quite wrong.
+
+Mr. Watson
+The amendment does not seek to do that. It seeks to oblige people to say whether they think the infringement is for financial gain or not. That would enable the industry to gather its own evidence on how deep the piracy runs and how much of it involves people sharing not for financial gain. This is important because, if the Bill is going to go through—and there is an insistence that it does—there will be an emerging debate in the industry about incorporating a fair use clause following copyright reform. I hope that the Government will accept that this is about helping the industry to get its figures right. It is not about targeting a particular group; it is about collecting evidence.
+
+Mr. Timms
+I am grateful to my hon. Friend for that reassurance, but I do not think that we need to amend the Bill to enable the industry to collect data in that way. He is perfectly right about the need for us to reform copyright. The Minister for Higher Education and Intellectual Property, who was with me on the Front Bench yesterday, intervened to point out that the Government are developing a copyright strategy, which is certainly needed in the light of online technological developments. I say to my hon. Friend the Member for West Bromwich, East, however, that we ought not to give the impression that it is okay for someone to take something that they should have paid for without paying for it, so long as they are not doing it for commercial gain.
+
+Several hon. Members
+rose—
+
+Mr. Timms
+I give way first to the hon. Member for Uxbridge (Mr. Randall).
+
+Mr. Randall
+It really is kind of the Minister to give way. I support him in what he says about copyright. I have a real problem, however, as a result of a constituency case in which someone was accused of illegal downloading. We found out that the IP number—I have to say that I am a member of the Luddite society on this issue—was not unique, so the provider gave an IP number and the person who thought that copyright had been infringed wrote to a person who had nothing to do with the infringement. What worries me is that, because the IP number is not unique to one particular person, there is a chance of innocent people being accused.
+
+22:00:00
+
+Mr. Timms
+There are some particular issues about mobile networks, and we could get into discussion about how to address them. When it comes to ordinary internet access, the case is quite straightforward. I remind the House that at this stage we are talking only about a letter being sent; that is all.
+
+John Hemming
+I return to the point that it does not matter whether the IP is version 4 or version 6. How can we get the IP address, as the copyright owner does not have control over the server from which the data are being accessed?
+
+Mr. Timms
+The copyright owner can obtain the information by observing the fact that somebody has downloaded material that is their copyright, which can be done by using the same P2P methods that the downloaders use. From that information, it is clear which service provider has provided that connection. The copyright owner gives the information to the internet service provider, but he does not know who is breaching the copyright; he does not know anything other than a technical address. The internet service provider, however, knows who is responsible for the account, and it writes to the individual to inform them that a breach has occurred.
+
+I say to my hon. Friends that these amendments are not appropriate.
+
+Mr. Todd
+rose—
+
+Mr. Timms
+I gladly give way to another of my hon. Friends.
+
+Mr. Todd
+I thank my right hon. Friend. I wanted to draw his attention to his repeated use of the phrase that an infringement of copyright “had occurred”. In fact, what the Bill says is somewhat different—that what is required is that the copyright owner produce information about an “apparent” breach of copyright. I am puzzled about the test that must be applied to demonstrate that a genuine breach has actually occurred as opposed to an apparent perception of the same on the part of the copyright owner. I spent 20 years in the media industry, so I know that demonstrating precise copyright ownership is not by any means as straightforward as might be assumed.
+
+Mr. Timms
+I think that the copyright owner will be clear about what copyright they own. I say again to my hon. Friend, however, that in this part of the Bill, we are talking only about letters being sent. Clause 4 is about the circumstances under which a letter will be sent and to whom. We will come on later to the possibility of technical measures, which I hope we will never need to invoke because I hope that the letters alone will be sufficient to reduce the incidence of the problem.
+
+My hon. Friend the Member for Sittingbourne and Sheppey said that people can simply change their e-mail address, but it is actually much harder and more difficult, although not impossible, to change one’s internet access. We want to create an environment in which it is clear when people are doing things that they should not be doing and an environment in which they are discouraged from doing them. That is what this part of the Bill will provide.
+
+My hon. Friend the Member for Great Grimsby (Mr. Mitchell) asked about technical measures which are not in this part of the Bill. I can, however, reassure him that no one will be subject to technical measures until they have received a number of letters, or notifications, and had an opportunity to appeal. We may come to those measures later.
+
+I hope that the Committee will accept that ours is an effective and proportionate proposal, and will oppose the amendments.
+
+Mr. Watson
+My right hon. Friend suggested that I was making the case that the clause was a sledgehammer to crack a nut. That is not true. I understand the magnitude of the problem. I am making the case that the clause is a steamroller, crushing any democratic accountability that the House may claim to have. Given that we have so little time, however, I beg to ask leave to withdraw the amendment.
+
+Amendment, by leave, withdrawn.
+
+Mr. Watson
+I beg to move amendment 39, page 7, line 36, after ‘subscriber’, insert
+
+‘which have been the subject of notifications sent after the effective date of an order made by the Secretary of State under section 124H’.
+
+The Second Deputy Chairman
+With this it will be convenient to discuss the following: amendment 38,  page 7, line 39, leave out ‘electronic or’.
+
+Amendment 26, in clause 11, page 15, leave out lines 21 and 22.
+
+Amendment 16,  page 15, line 25, after ‘section’, insert—
+
+‘(a) before the super-affirmative procedure under section 124HA has completed, and
+
+(b) ’.
+
+Government amendments 44 and 45.
+
+Amendment 17, page 15, line 27, at end add—
+
+‘124HA  Super-affirmative procedure
+
+(1) The Secretary of State must have regard to—
+
+(a) any representations,
+
+(b) any resolutions of either House of Parliament, and
+
+(c) any recommendations of a committee of either House of Parliament charged with reporting on the draft order,
+
+made during the 60-day period with regard to the draft order.
+
+(2) If, after the expiry of the 60-day period, the Secretary of State wishes to make an order in the terms of the draft, the Secretary of State must lay before Parliament a statement—
+
+(a) stating whether any representations were made under subsection (1)(a); and
+
+(b) if any representations were so made, giving details of them.
+
+(3) The Secretary of State may after the laying of such a statement make an order in the terms of the draft if it is approved by a resolution of each House of Parliament.
+
+(4) However, a committee of either House charged with reporting on the draft order may, at any time after the laying of a statement under subsection (2) and before the draft order is approved by that House under subsection (3), recommend under this subsection that no further proceedings be taken in relation to the draft order.
+
+(5) Where a recommendation is made by a committee of either House under subsection (4) in relation to a draft order, no proceedings may be taken in relation to the draft order in that House under subsection (3) unless the recommendation is, in the same Session, rejected by resolution of that House.
+
+(6) If, after the expiry of the 60-day period, the Secretary of State wishes to make an order consisting of a version of the draft order with material changes, the Secretary of State must lay before Parliament—
+
+(a) a revised draft order; and
+
+(b) a statement giving details of any representations made under subsection (1)(a) and of the revisions proposed.
+
+(7) The Secretary of State may after laying a revised draft order and statement under subsection (6) make an order in the terms of the revised draft if it is approved by a resolution of each House of Parliament.
+
+(8) However, a committee of either House charged with reporting on the revised draft order may, at any time after the revised draft order is laid under subsection (6) and before it is approved by that House under subsection (7), recommend under this subsection that no further proceedings be taken in relation to the revised draft order.
+
+(9) Where a recommendation is made by a committee of either House under subsection (8) in relation to a revised draft order, no proceedings may be taken in relation to the revised draft order in that House under subsection (7) unless the recommendation is, in the same Session, rejected by resolution of that House.
+
+(10) For the purposes of subsections (3) and (7) an order is made in the terms of a draft order if it contains no material changes to the provisions of the draft order.
+
+(11) In this section the “60-day period” means of the period of 60 days beginning with the day on which the draft order was laid before Parliament under section 124H.
+
+(12) In calculating the 60-day period no account is to be taken of any time during which Parliament is dissolved or prorogued or during which either House is adjourned for more than four days.’.
+
+Mr. Watson
+Clause 4 deals with the obligation to notify subscribers of a copyright infringement. The Minister himself has described it as the so-called sending letters clause. I am deeply upset that the hon. Member for Perth and North Perthshire (Pete Wishart) is not present, as he spent considerable time lecturing the House on the fact that it was only about sending letters. To him it was simply about a letter-writing campaign to educate the nation on what its children might or might not be doing in regard to copyright infringement.
+
+It is because the Minister himself said that the clause was only about sending letters that I was curious and concerned about subsection (8)(d), which suggests that
+
+“copyright infringement reports relating to the subscriber may be taken into account for the purposes of any technical measures.”
+
+The amendment states explicitly that those letters will not be taken into account until Ofcom has prepared its report and the technical measures stage is reached.
+
+Amendment 38—peculiarly, given that this is the Digital Economy Bill—is an analogue amendment. The Bill allows notifications to be sent either by post or by e-mail, but the amendment seeks to remove the capacity for them to be sent by e-mail. This is simply about the digital age. Many “digital natives” have huge amounts of dormant e-mail accounts. Indeed, if a Member of Parliament were suspected of copyright infringement in the next six weeks and had given his or her parliament.uk e-mail address to the ISP, it is highly likely that he or she would miss the e-mail. Members of the Communication Workers Union may also be grateful for the fact that Royal Mail will have more post to deal with.
+
+Jeremy Corbyn
+How does my hon. Friend expect a name and address to be discovered so that a letter can be sent, given that all previous correspondence may have taken place by means of e-mail and fictitious names may have been used?
+
+Mr. Watson
+If someone has an ISP connection, the bill is likely to be sent to a postal address, which will allow more certainty. People receiving notifications by e-mail may not see them.
+
+Mr. Todd
+Is my hon. Friend sure that a postal delivery will suffice? Many people may have chosen to form a contract with an ISP at some stage before moving, and may not have seen any particular reason to notify the ISP of a change of address.
+
+Mr. Watson
+My hon. Friend has identified a further flaw in the clause that I had not. The importance of the postal address is that if clause 4(8)(d) goes through and the number of notifications is taken into account when it comes to technical measures, there is an incentive for people to appeal at the first notification, even if they know that it is their next-door neighbour who has stolen their bandwidth and downloaded something that infringes copyright. They may have put a security measure on, but this could still be taken into account if a further copyright infringement takes place, so my proposal seeks to provide clarity on that.
+
+Amendment 26 is about the powers of the Secretary of State. The Bill, as drafted, provides for the Secretary of State to decide to take technical measures at any point. If a Secretary of State were less charitable than the current incumbent—let us suppose that a successor was a lickspittle to a media oligarch who just gave instructions from his tax haven abroad—people could be cut off as a result of a single allegation of infringement by some hokey rights holder. The amendment seeks to remove or curtail the powers of the Secretary of State.
+
+Mr. Todd
+I just wish to strengthen that point. Does my hon. Friend share my surprise at the confidence of our Front-Bench spokesman in the ability of a copyrighter to demonstrate copyright, which is an area of extraordinary legal complexity where an assertion that someone has had their copyright infringed may have no basis whatsoever in fact?
+
+Mr. Watson
+As we see now—there are other amendments ahead of us—suspect practices take place whereby people make dubious allegations of copyright infringement to try to increase their revenue and frighten ordinary citizens. Thus I think my hon. Friend is right.
+
+The three amendments are about providing clarity and certainty that the notification process takes place, and about curtailing the power of any future Secretary of State to abuse their judgment.
+
+Stephen Pound
+I am sure I cannot be the only Member of the House who feels considerable distaste at this list of sanctions, which can range from reducing someone’s bandwidth to imposing a daily download limit. What worries me is that although my hon. Friend is addressing that issue, I have not yet heard an answer to the question relating to musicians, authors, poets, playwrights and film makers. What can we give them to protect their intellectual copyright and allow them to flourish, while rightly maintaining a neo-libertarian stance and trying to avoid a situation in which people get letters and go before second-tier tribunals?
+
+Mr. Watson
+I understand the point. I am sorry that my hon. Friend was not here on Second Reading, because some suggestions were made as to how we could do that. I would like there to be statutory licensing for online music. That is how we destroyed pirate radio in the 1960s; it took a Labour Government to oppose it for nine years, then we moved and that breathed life into the commercial radio sector. If I carry on talking like this I will be drawn away from the purpose of my amendments. I hope my hon. Friend knows that we both want the music industry to thrive. However, because this Bill has not been given adequate scrutiny we have not been able to improve it. The amendments that I have tabled are an expression of my legitimate concern that music lovers and internet users alike will not get justice if an allegation is made against them. This is not an attack on the music industry, and I hope that the tenor of his argument is along those lines; this is about trying to obtain a necessary settlement for people who have been accused of copyright infringement.
+
+Mr. Don Foster
+We are often concerned about why members of the public hold us in such low regard, but anybody observing our proceedings tonight will not be convinced that this House is doing its job of holding the Government to account. We have spent more than an hour discussing just one clause of a 50-clause Bill in the knowledge that we have less than an hour left to cover all the remaining clauses—that is hardly evidence that we are doing our job properly. It is frankly totally disgraceful that a Bill of this complexity has been given so little time for debate in this House.
+
+22:15:00
+
+As I said earlier, it would have been possible to have the Second Reading much earlier—nearly three weeks ago—and to have had full deliberations in Committee for a three-week period before bringing the Bill back for the final stages. That is why so many of us are in such a difficult position. The hon. Member for West Bromwich, East (Mr. Watson) has already moved a number of really important probing amendments about various aspects of the legislation. We already know that this evening there will be no time to discuss, for instance, orphan works and the very legitimate concerns raised by photographers. That means that we will all be forced, I suspect, to vote against new clause 43.
+
+There will be no opportunity to discuss why the Government are going to announce later this evening that they are backing down on one of their cherished projects, which is to have independently funded news consortiums, or to discuss in detail the other very important amendments tabled by the hon. Member for West Bromwich, East, me and other Members.
+
+I speak to amendments 16 and 17 in particular. On Second Reading, I acknowledged that there was a serious problem in terms of providing support to our creative industries, which are losing hundreds of millions of pounds because of illegal activity on the internet. Action needs to be taken. That is why we have been willing to consider supporting the string of clauses—4 to 17—on illegal peer-to-peer file sharing.
+
+We pointed out then that three additional conditions need to be put in place. The first was that we needed to have the super-affirmative resolution to ensure that the next Parliament could have proper scrutiny of any proposals to introduce technical measures, which we believe should be introduced only as a last resort based on clear evidence of the need for them. The super-affirmative resolution is what is proposed in amendments 16 and 17.
+
+We also said that we needed to resolve the serious problems faced by our universities, schools and wi-fi cafés to ensure that they will not fall foul of this legislation, given that they often have one IP address and a very large number of users. That is the case, for example, in this place. Many of us use the same IP address.
+
+We also said that we need to address the time scale in which the initial obligations code is produced by Ofcom, arguing that it could not possibly be given full justice if it was done within a six-month period, given that three of those months have to be spent in consultation with our European colleagues.
+
+Adam Afriyie (Windsor) (Con)
+The hon. Gentleman is quite right to say that there is not enough time to consider this Bill in great detail. I am pleased that the Government have dropped one or two of the measures that they were going to introduce. There is some merit to his point about a super-affirmative resolution, but will he explain why it is relevant for clause 18, on site blocking, which his amendment seems to tackle, but not for clause 11, on technical measures?
+
+Mr. Foster
+I fear that the hon. Gentleman ought to do his homework a little better. If he reads the amendment that we are debating, he will see that that is exactly what it does. It proposes a super-affirmative resolution in relation to clause 11, which is what I said a few moments ago.
+
+I am grateful to the Government for the fact that, although they have not entirely accepted the concept of a super-affirmative resolution, they have at an incredibly late hour—this afternoon—now tabled amendments 44 and 45. They go a long way, if not the whole way, towards addressing the concern about the need for a super-affirmative resolution. However, I believe it is crucial that we should have the maximum opportunity for scrutiny in the new Parliament. There should be an amendable resolution before that House before the severe technical measures are introduced. That is why I have tabled these amendments.
+
+Mr. Grogan
+I want to say a few words about the concept of the super-affirmative resolution procedure, which I had never heard of before last week when I was having my photograph taken with six members of the Mongolian Revolutionary People’s party—a sister party of the Labour party—and Lord Mandelson. That is not an event that happens every day, but it did happen last week. Lord Mandelson whispered “super-affirmative resolution” in my ear. I was not quite sure what he was referring to, but I realised I would have to explain it to my Mongolian friends later, so I looked it up. It certainly is not the answer to the democratic deficit in this Bill, which will give Ministers of whichever party forms the Government after the election extensive powers to lay orders that will basically translate the principles of the Bill, which are very bad principles for much of it, into legislation.
+
+Such orders will not be rushed through a legislative Committee of the House, as often happens with orders. Instead, there will be a 90-day consultation process in which a Committee—it is usually the Regulatory Reform Committee, but I do not know whether it would be another Committee at that stage—will take evidence. The Committee will also be able to propose amendments, but in the end the Government will be able to go through the normal procedures of getting an order through. Heavily whipped, the order will no doubt go through the House whichever Government is in power and on to the House of Lords. The idea that everyone in this House and outside who is concerned about the democratic deficit in the Bill can breathe a sigh of relief because we now have a super-affirmative procedure promise is far from the truth. The only super procedure that we need in this House is the old-fashioned super procedure of MPs considering a Bill line by line and giving it proper scrutiny. That is the super procedure we need, and the only way we will get it is by voting against Third Reading.
+
+Dr. Palmer
+I am just concerned, as are a lot of people out there, that what is underlying this debate is a Front-Bench stitch-up. None of the Front Benchers are saying clearly that they are taking a different course. They are whingeing at length about the process, but we are not hearing an alternative concept. For me, the basic case for what is being proposed has not been made, and until we have a coherent case, I am going to vote against it.
+
+Mr. Timms
+Let me comment on the three amendments that my hon. Friend the Member for West Bromwich, East (Mr. Watson) moved at the outset of the debate. On the first amendment, I can give him an assurance that technical measures will not be imposed until Ofcom has concluded its report. On the second amendment, we will certainly need to cover, in the code that the Bill requires to be drawn up, how the notifications will be sent out. I thought that his comments on that issue made a good deal of sense, but that is something that Ofcom will need to address, in conjunction with the industry, when drawing up the code.
+
+On my hon. Friend’s concern about giving undue power to a future Secretary of State, it is certainly right that imposing technical obligations is a big and undoubtedly controversial step to take. That is why clause 11 requires the Secretary of State to have regard to the assessment prepared by Ofcom as to whether technical measures should be imposed as well as to the reports prepared under clause 9. We have agreed that those documents should be published so that everyone can see the evidence that will inform the decision.
+
+My hon. Friend and the hon. Member for Bath (Mr. Foster) have made a telling point. It is right that Parliament should have the greatest opportunity to scrutinise and debate the order. That is why my right hon. Friend the Secretary of State has today tabled the amendment that the hon. Member for Bath mentioned, which provides for the super-affirmative procedure. The procedure is, as my hon. Friend the Member for Selby (Mr. Grogan) rightly said, quite a novel arrangement. I thought he was going to tell us that it is well known in Mongolia, but he did not.
+
+However, the procedure underlines the extent to which we want to maximise proper parliamentary scrutiny. Government amendment 45 sets out how it will work; proposed subsection (8) states:
+
+“In preparing a draft order…the Secretary of State must have regard to any of the following that are made with regard to the draft order during the 60-day period”,
+
+while proposed paragraph (b) of the subsection specifies,
+
+“any recommendations of a committee of either House of Parliament charged with reporting on the draft order.”
+
+I think that is a significant move, as it amends the Bill to address some of the concerns raised in amendment 26, the third moved by my hon. Friend the Member for West Bromwich, East.
+
+The hon. Member for Bath talked about education and universities, but they are covered in the next group of amendments, so I will say no more about those matters now. He said that he would prefer it if Ofcom had more than six months to prepare the code, but I remind him that that period will not begin until two months after this Bill gets Royal Assent. That means that we are looking at rather longer than the six months stated on the face of the Bill.
+
+In view of the amendments tabled by my right hon. Friend the Secretary of State, I hope that my hon. Friend the Member for West Bromwich, East will not press his amendment to a vote, and that the House will accept the Government amendments.
+
+Mr. Watson
+I am reassured about the first amendment in the group. However, I am not convinced on what my right hon. Friend has said about the second amendment, and certainly not by what he has said about the third. Nevertheless, because the House has important amendments still to discuss, I beg to ask leave to withdraw amendment 39.
+
+Amendment, by leave, withdrawn.
+
+Clause 4 ordered to stand part of the Bill.
+
+Clause 5 ordered to stand part of the Bill.
+
+Clause 6
+
+Approval of code about the initial obligations
+
+Mr. Don Foster
+I beg to move amendment 15, page 8, line 25, leave out ‘may’ and insert ‘must’.
+
+The Second Deputy Chairman
+With this, it will be convenient to discuss the following: amendment 35, page 8, line 29, after ‘case’, insert
+
+‘or in relation to a particular class of internet service providers or subscribers’.
+
+Amendment 14, page 8, line 33, at end insert—
+
+‘(c) specifies reasonable rights and obligations in relation to a subscriber that is a library, an educational or cultural establishment, hotelier or internet cafe as a provider of networks operating between an internet service provider and a user of the network.’.
+
+Amendment 29, in clause 10, page 14, line 31, at end insert—
+
+‘( ) an economic and social impact assessment as to whether any application of the technical measures will be proportionate to its likely affect on, inter alia, subscribers, households, businesses, users of wi-fi networks, not-for-profit organisations, libraries, educational establishments and the internet network; and’.
+
+Amendment 43, in clause 13, page 16, line 35, leave out ‘and’ and insert—
+
+‘( ) that those provisions are proportionate to their effect and take into account the impact upon, and relevant arrangements made by, an educational establishment, prescribed library or accredited museum in order to achieve what the provisions are intended to achieve; and’.
+
+Mr. Foster
+I shall be very brief indeed. The House will know that I have already raised the concerns expressed by very many people about universities, libraries, small businesses, wi-fi cafes and the like. These organisations  often have a very large number of users on a single system and could very easily fall foul of the legislation unless we ensure that that does not happen.
+
+In another place, my noble Friend Lord Clement-Jones tabled an amendment to solve the problem, and he was given an assurance by the Government that it would be dealt with in the obligations code to be drawn up by Ofcom. Since that time, however, no amendment to that effect has been forthcoming from the Government—perhaps because we have had so little time to discuss any of these issues.
+
+Therefore, to save the Government time and to help them out, we have drafted an amendment that would give effect to the promise that they made in another place. In that spirit, I hope that the Government will be willing to accept it.
+
+Mr. Watson
+I have tabled some of the amendments in this group. Amendment 35 is really a reaction to the Bill’s economic impact assessment which, frankly, was fairly hopeless. It did not look at the impact on libraries, hotels, internet cafes or any other institution that might have wi-fi. The problem is the lack of clarity about what constitutes a service provider, and the amendment would enable Ofcom to define special categories of service provider, such as libraries, universities and institutions, that provide open wi-fi networks.
+
+Amendments 29 and 43 deal with how we assess the technical measures that need to be taken. The aim is to provide some safeguards to ensure that such measures are proportionate. Obviously, we could take a technical measure to remove internet access from a parent because their child had been infringing, but that parent might sustain a small business in their home, employing a number of people. We should be removing those people from employment. There are many examples showing that the technical measures might be unfair and disproportionate to the infringement that had taken place. The amendments would provide protections in the Bill, so that Ofcom had an obligation to measure its proportionality and fairness.
+
+22:30:00
+
+Mr. Denis MacShane (Rotherham) (Lab)
+I rise as a parent and a former president of the National Union of Journalists to humbly suggest to the Committee that the labourer is worthy of his hire. If someone puts his intellectual effort into writing an article, making some music or creating something, it should not be stolen from him and handed out free through the power of the internet.
+
+As a parent, I have to say that it may not be the most unwelcome thing in the world for a father or mother to tell their child, “Actually, you can’t spend all evening on the internet.” I understand why the Liberal Democrats—representing big capitalism—generally oppose the measure, but as a socialist I am astonished that any Labour MP—
+
+Mr. Watson
+I am sorry that the right hon. Gentleman did not hear the earlier parts of this debate or Second Reading yesterday. He has just walked into the Chamber and expressed astonishment, but there are legitimate concerns about people having access to justice if allegations of copyright infringement are made under the Bill. Those are the people we are standing up for—our constituents who may lose their livelihoods as a result of the Bill’s being bounced through in an hour. I hoped that the right hon. Gentleman would have had a more proportionate response to our legitimate concerns.
+
+Mr. MacShane
+I have been following the debate in great detail. In the very last debate of this Labour Government, some of my hon. Friends are telling my journalist colleagues and others that they do not have the right to protect that which they have created, and to have some modest share of the value they add to our economy, because that would represent problems for wi-fi providers, internet café owners or hotels. That is not something I am happy with, and that is why, in the last, dying hours of a Labour Government, I am doing something that may be difficult for colleagues, which is to support a Labour Government. I do so not from Labour loyalty, but because I profoundly believe that the explosion of the net—of information provision—which I welcome, must not deny those who add value to it their chance to have some share of that which they produce.
+
+Mr. Don Foster
+Will the right hon. Gentleman give way?
+
+Mr. MacShane
+A Liberal Democrat asks me to give way. We are in the last dying hours of this Parliament. That party has always stood up for the rich and the privileged against the rights of journalists and trade unionists. I will not give way. If he wants to make another speech, he can do so.
+
+Mr. Timms
+I agree that what we are doing on infringement must not undermine our efforts to ensure that there is good public access to broadband and to rich content. Everybody will agree that that is important. We should not act to make commercial provision something that coffee shops, pubs or hotel chains will have to think twice about.
+
+We need to put the provisions in context. It would not be right to introduce a large and growing loophole in what we are doing. If we did so, there would be serious consequences for providers. We need to keep that concern in mind.
+
+Universities tend to take tough action against students or staff found infringing copyright, not just because it is unlawful, but because it clogs up valuable resource—bandwidth needed for legitimate use, including file sharing of research. However, I agree that libraries, universities and the rest need to be sent appropriate advice on reasonable steps that they can take to protect their networks. I agree that there might well be a case for such institutions to be subject to a different threshold than other subscribers. It would be rather silly—it would not make sense for anyone—if a big hotel faced the same threshold as an individual before being added to an infringement list.
+
+I said on Second Reading that we would not approve any code that did not take full account of the needs of such subscribers. I repeat that now, and I think that it is the reassurance that the hon. Member for Bath (Mr. Foster) said that the Government gave in another place. No amendment is needed to give effect to that. The code will require the consent of the Secretary of State, and I am happy to confirm again that we would not give consent to any code that did not properly take account of the position of libraries and educational establishments.
+
+Mr. Austin Mitchell
+There is a type of case that is not covered by the Minister’s reassurance. Somebody might park outside my house with a laptop, access my signal and abuse it without my knowledge. What would happen if such an abuse occurred and it could be traced back to me?
+
+Mr. Timms
+In such a case, my hon. Friend might receive a letter in due course informing him that an infringement had occurred on his internet access. He would then have the opportunity to protect that access.
+
+Mr. Mitchell
+How?
+
+Mr. Timms
+My hon. Friend could introduce a password so that somebody driving up outside his house would not be able to use his access. The letters that are sent out will have to give such advice and explain what people can do.
+
+There are a number of things that libraries and others can do to prevent infringers from using their connection. For example, they can apply controls so that particular file-sharing sites with unlawful content are blocked at the subscriber level, which would be more difficult for an ISP to do more generally. Alternatively, they can block particular protocols or limit the bandwidth available so that file sharing on such connections is unrealistic. Such measures would allow libraries to prevent widespread infringement, but would still permit people to enjoy good online access.
+
+I hope that I have provided some reassurance to hon. Members and that the amendments will not be pressed to a Division.
+
+Mr. Don Foster
+In light of the Minister’s assurances, and because I am conscious of the time available, I beg to ask leave to withdraw the amendment.
+
+Amendment, by leave, withdrawn.
+
+Clause 6 ordered to stand part of the Bill.
+
+Clause 7
+
+Initial obligations code by OFCOM in the absence of an approved code
+
+Mr. Don Foster
+I beg to move amendment 12, page 9, line 35, leave out ‘six’ and insert ‘nine’.
+
+The Second Deputy Chairman
+With this it will be convenient to discuss amendment 13, page 9, line 36, leave out from ‘force’ to end of line 38.
+
+Mr. Foster
+I refer the Committee to the comments that I made a few moments ago regarding my concern about the time scale, which was why I tabled the amendments. I look forward to the Minister’s response.
+
+Mr. Timms
+Taking my cue from the hon. Gentleman, I refer him to the remarks that I made a few moments ago, which I hope he found reassuring.
+
+Mr. Foster
+In the light of that reassurance, I beg to ask leave to withdraw the amendment.
+
+Amendment, by leave, withdrawn.
+
+Clause 7 ordered to stand part of the Bill.
+
+Clause 8
+
+Contents of initial obligations code
+
+Mr. Timms
+I beg to move amendment 2, page 11, line 23, leave out from ‘transparent’ to end of line 26.
+
+The Second Deputy Chairman
+With this it will be convenient to discuss the following: clause 18 stand part.
+
+Government new clause 1—Power to make provision about injunctions preventing access to locations on the internet.
+
+Government new clause 2—Consultation and Parliamentary scrutiny.
+
+Mr. Timms
+We want to remove clause 18, the text of which was inserted in another place on a joint initiative of the Conservatives and Liberal Democrats. New clauses 1 and 2 contain amended provisions, and I hope I can persuade the Committee that our approach is the right way to proceed.
+
+We have set out why we did not think that the clause 18, which was inserted by the other place, would work and our concerns about introducing such provisions in such a way and at such a time. We have also set out why we think the text in new clauses 1 and 2 would have the same benefits, but ensure proper consideration, including full consultation and proper safeguards. The key benefits of the amended approach are that, as a power to introduce regulations, which is what we are providing for, it is enforceable; it does not immediately fall foul of the technical standards directive, as the existing text would.
+
+There will be proper opportunities to consult on the measure and for Parliament to consider it via the now famous super-affirmative procedure, with any recommendations having to be taken into account. The Secretary of State must consider the proportionality of the regulations and the evidence that they are necessary to deal with infringement that is having a serious adverse effect. We can also ensure that any security law enforcement concerns are properly taken on board.
+
+In addition, should such regulations be introduced, the court from which an order was being sought would need to consider carefully legitimate uses and users affected by any order, as well as have due regard to freedom of expression. We certainly do not want the clause to be used to restrict freedom of speech. We want to ensure that the safeguards are properly considered and that ISPs do not have an incentive to block sites purely on the basis of an allegation, for fear of bearing costs—although we also need to ensure that ISPs are not allowed to flout a decision of the court. Essentially, our view is that the costs should be borne, not by the ISPs, but by those seeking a court order.
+
+The new clause we propose does the job of dealing with online infringement other than unlawful file sharing, which is dealt with by earlier parts of the Bill, but adds safeguards to ensure that the position of internet intermediaries and citizens are properly protected. On that basis, I commend the amendments.
+
+Mr. Don Foster
+On Second Reading, I acknowledged that two thirds of current illegal activity on the internet, which is costing our creative industries dear, comes from illegal peer-to-peer file sharing, but the other third comes largely from persons downloading material from illegal websites, often hosted in Russia and that part of the world. Clearly, that is wrong and action is needed.
+
+Having got rid of the all-embracing clause 17 in the original Bill, which gave the Secretary of State unfettered powers, my colleagues in another place thought it appropriate to table an amendment to deal with the problem of illegal websites. However, we did so in the certain knowledge at that time that we would not have got it all right and that it was likely to be the subject of extensive debate in this House. As I freely acknowledged last night and I repeat now, there is considerable concern in the community about that amendment; however, there is also widespread concern about the new clause now proposed, which has many faults.
+
+First, the new clause penalises sites that facilitate access, or that are
+
+“used for or in connection with an activity that infringes copyright.”
+
+That is too wide ranging and even puts sites such as Google at risk. Injunctions can be used against sites that are not only making such material available in the present, but that have done so in the past and that “are likely to”. That is hardly a good basis for the principle of innocent till proved guilty.
+
+There is not enough indication that the rights holders must take reasonable steps to notify the site owner before seeking an injunction. The proposed injunctions are indefinite, which is inappropriate, and the injunctions would, it appears, not cover all service providers. Infringing customers could therefore simply move from one provider to another, as the hon. Member for Sittingbourne and Sheppey (Derek Wyatt) said earlier. There are many faults in new clause 1. For the reasons that I have given, and because of the House’s total lack of ability to scrutinise the proposals in detail, we will vote against amendment 2.
+
+22:45:00
+
+Adam Afriyie
+To be absolutely clear, in the other place, the Liberal Democrats proposed an amendment to the Bill, and argued vehemently in favour of it. Here in the House of Commons, they are now arguing against it. Am I right in understanding that to be the situation?
+
+Mr. Foster
+Of course the hon. Gentleman understands the situation absolutely correctly; he was present in the House on Second Reading when I made it perfectly clear. However, a person who has significant problems drawn to their attention is foolish if they do not take any notice of them, particularly in circumstances where, because of the Government’s failure to provide adequate time, there has been no proper detailed consultation. I am surprised that the hon. Gentleman is willing to accept new clause 1.
+
+Adam Afriyie
+That was the most elegant of U-turns; it was beautifully put. It highlights the point that we have detailed and onerous decisions to make. I simply point out that the Bill has been incompetently rushed through the House of Commons, and many of the measures will need to be revisited at a future date.
+
+Mr. Timms
+Let me just remind the hon. Member for Bath (Mr. Foster) that what we are doing is taking powers to make regulations. The issues that he has raised can, will and should be fully scrutinised through the super-affirmative procedure when the regulations are drawn up.
+
+Question put, That the amendment be made.
+
+Division 131
+07/04/2010 22:47:00
+The Committee divided:
+Ayes: 197
+Noes: 40
+Question accordingly agreed to.
+
+Amendment 2 agreed to.
+
+22:58:00
+
+More than two hours having elapsed since the commencement of proceedings in the Committee, the proceedings were interrupted (Order, this day).
+
+The Chair put forthwith the Questions necessary for the disposal of the business to be concluded at that time (Standing Order No. 83D).
+
+Clause 8, as amended, ordered to stand part of the Bill.
+
+Clauses 9 and 10 ordered to stand part of the Bill.
+
+Clause 11
+
+Obligations to limit internet access
+
+Amendments made: 44, page 15, line 25, after ‘unless’ insert—
+
+‘(a) the Secretary of State has complied with subsections (6) to (10), and
+
+(b)’.
+
+Amendment 45, page 15, line 27, at end insert—
+
+‘(6) If the Secretary of State proposes to make an order under this section, the Secretary of State must lay before Parliament a document that—
+
+(a) explains the proposal, and
+
+(b) sets it out in the form of a draft order.
+
+(7) During the period of 60 days beginning with the day on which the document was laid under subsection (6) (“the 60-day period”), the Secretary of State may not lay before Parliament a draft order to give effect to the proposal (with or without modifications).
+
+(8) In preparing a draft order under this section to give effect to the proposal, the Secretary of State must have regard to any of the following that are made with regard to the draft order during the 60-day period—
+
+(a) any representations, and
+
+(b) any recommendations of a committee of either House of Parliament charged with reporting on the draft order.
+
+(9) When laying before Parliament a draft order to give effect to the proposal (with or without modifications), the Secretary of State must also lay a document that explains any changes made to the proposal contained in the document laid before Parliament under subsection (6).
+
+(10) In calculating the 60-day period, no account is to be taken of any time during which Parliament is dissolved or prorogued or during which either House is adjourned for more than 4 days.’—(Mr. Timms.)
+
+Clause 11, as amended, ordered to stand part of the Bill.
+
+Clauses 12 to 14 ordered to stand part of the Bill.
+
+Clause 15
+
+Enforcement of obligations
+
+Amendment made: 3, page 19, line 42, after ‘provider’ insert ‘or owner’.—(Mr. Timms.)
+
+Clause 15, as amended, ordered to stand part of the Bill.
+
+Clauses 16 and 17 ordered to stand part of the Bill.
+
+Clause 18 disagreed to.
+
+Clauses 19 to 28 ordered to stand part of the Bill.
+
+Clause 29 disagreed to.
+
+Clauses 30 to 42 ordered to stand part of the Bill.
+
+Clause 43 disagreed to.
+
+Clauses 44 to 48 ordered to stand part of the Bill.
+
+Clause 49
+
+Commencement
+
+Amendment made: 7, page 59, line 44, at end insert
+
+‘and the entry in Schedule 3 relating to the Public Lending Right Act 1979 (and section 47 so far as it relates to that entry)’.—(Mr. Timms.)
+
+Clause 49, as amended, ordered to stand part of the Bill.
+
+Clause 50
+
+Short title
+
+Amendment made: 8, page 60, line 3, leave out subsection (2).
+
+Clause 50, as amended, ordered to stand part of the Bill.
+
+Schedule 1 agreed to.
+
+Schedule 2 disagreed to.
+
+Schedule 3 agreed to.
+
+New Clause 1
+
+Power to make provision about injunctions preventing access to locations on the internet
+
+‘(1) The Secretary of State may by regulations make provision about the granting by a court of a blocking injunction in respect of a location on the internet which the court is satisfied has been, is being or is likely to be used for or in connection with an activity that infringes copyright.
+
+(2) “Blocking injunction” means an injunction that requires a service provider to prevent its service being used to gain access to the location.
+
+(3) The Secretary of State may not make regulations under this section unless satisfied that—
+
+(a) the use of the internet for activities that infringe copyright is having a serious adverse effect on businesses or consumers,
+
+(b) making the regulations is a proportionate way to address that effect, and
+
+(c) making the regulations would not prejudice national security or the prevention or detection of crime.
+
+(4) The regulations must provide that a court may not grant an injunction unless satisfied that the location is—
+
+(a) a location from which a substantial amount of material has been, is being or is likely to be obtained in infringement of copyright,
+
+(b) a location at which a substantial amount of material has been, is being or is likely to be made available in infringement of copyright, or
+
+(c) a location which has been, is being or is likely to be used to facilitate access to a location within paragraph (a) or (b).
+
+(5) The regulations must provide that, in determining whether to grant an injunction, the court must take account of—
+
+(a) any evidence presented of steps taken by the service provider, or by an operator of the location, to prevent infringement of copyright in the qualifying material,
+
+(b) any evidence presented of steps taken by the copyright owner, or by a licensee of copyright in the qualifying material, to facilitate lawful access to the qualifying material,
+
+(c) any representations made by a Minister of the Crown,
+
+(d) whether the injunction would be likely to have a disproportionate effect on any person’s legitimate interests, and
+
+(e) the importance of freedom of expression.
+
+(6) The regulations must provide that a court may not grant an injunction unless notice of the application for the injunction has been given, in such form and by such means as is specified in the regulations, to—
+
+(a) the service provider, and
+
+(b) operators of the location.
+
+(7) The regulations may, in particular—
+
+(a) make provision about when a location is, or is not, to be treated as being used to facilitate access to another location,
+
+(b) provide that notice of an application for an injunction may be given to operators of a location by being published in accordance with the regulations,
+
+(c) provide that a court may not make an order for costs against the service provider,
+
+(d) make different provision for different purposes, and
+
+(e) make incidental, supplementary, consequential, transitional, transitory or saving provision.
+
+(8) The regulations may—
+
+(a) modify Chapter 6 of Part 1 of the Copyright, Designs and Patents Act 1988, and
+
+(b) make consequential provision modifying Acts and subordinate legislation.
+
+(9) Regulations under this section may not include provision in respect of proceedings before a court in England and Wales without the consent of the Lord Chancellor.
+
+(10) Regulations under this section must be made by statutory instrument.
+
+(11) A statutory instrument containing regulations under this section may not be made unless—
+
+(a) the Secretary of State has complied with section [Consultation and Parliamentary scrutiny], and
+
+(b) a draft of the instrument has been laid before and approved by a resolution of each House of Parliament.
+
+(12) In this section—
+
+“copyright owner” has the same meaning as in Part 1 of the Copyright, Designs and Patents Act 1988;
+
+“Minister of the Crown” has the same meaning as in the Ministers of the Crown Act 1975;
+
+“modify” includes amend, repeal or revoke;
+
+“operator”, in relation to a location on the internet, means a person who has editorial control over material available at the location;
+
+“qualifying material”, in relation to an injunction, means the material taken into account by the court for the purposes of provision made under subsection (4);
+
+“service provider” has the same meaning as in section 97A of the Copyright, Designs and Patents Act 1988;
+
+“subordinate legislation” has the same meaning as in the Interpretation Act 1978.
+
+(13) In the application of this section to Scotland—
+
+“costs” means expenses;
+
+“injunction” means interdict.’.—(Mr. Timms.)
+
+Brought up, and added to the Bill.
+
+New Clause 2
+
+Consultation and Parliamentary scrutiny
+
+‘(1) Before making regulations under section [Power to make provision about injunctions preventing access to locations on the internet] the Secretary of State must consult—
+
+(a) the Lord President of the Court of Session and the Lord Chief Justice of Northern Ireland,
+
+(b) the persons that the Secretary of State thinks likely to be affected by the regulations (or persons who represent such persons), and
+
+(c) such other persons as the Secretary of State thinks fit.
+
+(2) If, following the consultation under subsection (1), the Secretary of State proposes to make regulations under section [Power to make provision about injunctions preventing access to locations on the internet], the Secretary of State must lay before Parliament a document that—
+
+(a) explains the proposal and sets it out in the form of draft regulations,
+
+(b) explains the reasons why the Secretary of State is satisfied in relation to the matters listed in section [Power to make provision about injunctions preventing access to locations on the internet](3)(a) to (c), and
+
+(c) contains a summary of any representations made during the consultation under subsection (1).
+
+(3) During the period of 60 days beginning with the day on which the document was laid under subsection (2) (“the 60-day period”), the Secretary of State may not lay before Parliament a draft statutory instrument containing regulations to give effect to the proposal (with or without modifications).
+
+(4) In preparing draft regulations under section [Power to make provision about injunctions preventing access to locations on the internet] to give effect to the proposal, the Secretary of State must have regard to any of the following that are made with regard to the draft regulations during the 60-day period—
+
+(a) any representations, and
+
+(b) any recommendations of a committee of either House of Parliament charged with reporting on the draft regulations.
+
+(5) When laying before Parliament a draft statutory instrument containing regulations to give effect to the proposal (with or without modifications), the Secretary of State must also lay a document that explains any changes made to the proposal contained in the document laid before Parliament under subsection (2).
+
+(6) In calculating the 60-day period, no account is to be taken of any time during which Parliament is dissolved or prorogued or during which either House is adjourned for more than 4 days.’.—(Mr. Timms.)
+
+Brought up, and added to the Bill.
+
+Title
+
+Amendment made: 10, line 2, leave out from ‘copyright’ to ‘to’ in line 3 and insert
+
+‘and about penalties for infringement of copyright and performers’ rights’.—(Mr. Timms.)
+
+The Deputy Speaker resumed the Chair.
+
+Bill, as amended, reported.
+
+Bill, as amended in the Committee, considered.
+
+Question put forthwith (Order, this day), That the Bill be now read the Third time.
+
+Division 132
+07/04/2010 23:03:00
+The House divided:
+Ayes: 189
+Noes: 47
+Question accordingly agreed to.
+
+Bill read the Third time and passed, with amendments.
+

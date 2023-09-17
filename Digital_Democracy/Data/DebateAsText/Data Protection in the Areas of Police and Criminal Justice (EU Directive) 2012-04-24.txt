@@ -1,0 +1,567 @@
+Data Protection in the Areas of Police and Criminal Justice (EU Directive)
+
+[Relevant document: The Fifty-ninth Report from the European Scrutiny Committee, HC 428-liv.]
+
+19:50:00
+
+The Parliamentary Under-Secretary of State for Justice (Mr Crispin Blunt)
+I beg to move,
+
+That this House takes note of European Union Document No. 5833/12 and Addenda 1 and 2, relating to a Draft Directive of the European Parliament and of the Council on the protection of individuals with regard to the processing of personal data by competent authorities for the purposes of prevention, investigation, detection or prosecution of criminal offences or the execution of criminal penalties, and the free movement of such data; and supports the Government’s recommendation not to exercise its right to opt out of this draft Directive under Protocol 19 of the Treaty on the Functioning of the European Union (The Schengen Protocol).
+
+The motion stands on the Order Paper in my name and that of my right hon. and learned Friend the Lord Chancellor.
+
+I welcome the opportunity to debate the proposed data protection directive, which the European Commission published on 25 January. The directive would repeal and replace the 2008 framework decision on data protection in the police and criminal justice sector. It is an important instrument for law enforcement in this country and across the European Union, and it is right that this House is given the opportunity to consider the effect of the proposals on both the security and the freedoms of UK citizens. The debate fulfils the commitment made by my right hon. Friend the Minister for Europe to seek Parliament’s views on an opt-in decision in justice and home affairs matters, as well as opt-out decisions under the Schengen protocol, and I am keen to hear the views of right hon. and hon. Members.
+
+Mr David Davis (Haltemprice and Howden) (Con)
+In the Ministry of Justice’s impact analysis, the summary is that the overall impact is
+
+“likely to be substantially negative”.
+
+Given that, can the Minister explain why he does not want to opt out?
+
+Mr Blunt
+I will deal with that, but in deciding whether to exercise the opt-out, the Government looked at the most pessimistic reading of events. The conclusion to which my right hon. Friend refers has been before the European Scrutiny Committee, but that impact assessment does not take into account some of the consequences that would flow if we exercised an opt-out. I shall talk about those consequences later in my speech, but they include negotiating all the bilateral data protection arrangements that would be required were we not party to the directive.
+
+Having held the responsibility of Europe Minister, my right hon. Friend, of all people in this House, will understand the complexity of the legal basis—complexity that has increased considerably since he and I were serving in the Foreign Office together, I as a special adviser and he as a Minister. If he will forgive me, I will get my arguments on the record, give right hon. and hon. Members the opportunity to contribute in the light of that, then respond to their remarks at the end of  the debate. I will therefore resist taking too many interventions. This area is complex enough without adding further to that complexity—
+
+Kate Hoey (Vauxhall) (Lab)
+Will the Minister give way?
+
+Mr Blunt
+If the hon. Lady will forgive me, let me get our position on the measure on the record, then I will be able to respond to interventions and points made in a more disciplined way.
+
+It is the Government’s view that the proposed data protection directive can be classified as a Schengen building measure; therefore, under protocol 19 of the treaty on the functioning of the European Union, which governs how the Schengen acquis are integrated into the UK framework, the UK does have the option of opting-out of the directive. The deadline for notifying the Council of the European Union of an opt-out decision is 14 May.
+
+The Government's position is that the continued ability to share information on crime and justice matters between nations is of fundamental importance. In an increasingly globalised world, crime does not stop at national borders, but reaches across jurisdictions and involves people of many different nationalities. The Government therefore support proportionate, clear and coherent data protection rules that keep personal data safe, protect the rights of citizens and enable our police to pursue criminals to protect the lives and interests of our citizens.
+
+Mr William Cash (Stone) (Con)
+Will the Minister give way to the Chair of the Scrutiny Committee?
+
+Mr Blunt
+Given my hon. Friend’s position, I will give way.
+
+Mr Cash
+Does the Minister accept that the Government’s explanatory memorandum of 13 February did not mention the Schengen protocol, or the offer of an opt-in debate; nor was any formal correspondence to that end received by the European Scrutiny Committee?
+
+Mr Blunt
+I am grateful to the Chair of the Scrutiny Committee for that point, but I will have to take advice on what was received and when before replying to him. I am trying to explain that, in this area, there is considerable confusion between opt-ins and opt-outs, so if he will forgive me, I shall try to explain this complicated matter and its consequences in as simple terms as I can, as much for my own benefit as for anyone else’s.
+
+To address specifically the subject of debate this evening, we support the transfer of data across borders and between organisations where it improves our ability to prevent crime, increase security and keep our citizens safe. We must therefore protect the arrangements that have allowed EU member states to share information about suspected criminal activity in a regulated and proportionate manner. The challenge of the directive is that, although parts of it are welcome and will help in the fight against crime, some of the provisions are excessively bureaucratic and unwieldy. As it is drafted, we have concerns about the costs it would impose on  UK law enforcement agencies. We are particularly concerned about the fact that it has been drafted so as to apply to internal processing of data—that is, information being shared by police forces or other criminal justice authorities within the borders of one country.
+
+The Government's approach to the directive has been to establish the best way of securing the benefits of continued data sharing with EU member states, while minimising any resultant costs. Having gone through this analysis, our judgment is that, despite concerns about the current text, we should not opt out of the directive. There are three main reasons for this. First, the directive is at a very early stage of negotiation. There is substantial room for improvement, and it is clear that the UK has significant allies within the Council of Ministers who share our concerns. We believe that we can secure a more effective deal by working with our partners than by going it alone.
+
+Jacob Rees-Mogg (North East Somerset) (Con)
+Will the Minister give way?
+
+Henry Smith (Crawley) (Con)
+Will the Minister give way?
+
+Mr Blunt
+No. Secondly, the legal base of the measure gives the UK an effective exemption on the issue about which we are most concerned: internal processing of data. The directive is based on article 16 of the TFEU—the new data protection competence created under the Lisbon treaty. Under article 6a of protocol 21, which gives the UK and Ireland particular provisions and protections in the areas of freedoms, security and justice, the UK has what we believe to be a firm protection that provisions on internal processing will not apply to us.
+
+Jacob Rees-Mogg
+Will the Minister give way?
+
+Mr Blunt
+No. My intention was to respond to the intervention made by my right hon. Friend the Member for Haltemprice and Howden (Mr Davis), but he is no longer in his place, so I shall come back to it later.
+
+Thirdly, and most important, exercising the opt-out would endanger our continued ability to share information across borders without necessarily freeing us from the bureaucratic and unwelcome obligations potentially created by the new directive. That is because in the absence of the directive, the UK would have to negotiate new data-sharing arrangements bilaterally with each of the other member states in the European economic area. Notwithstanding the significant time and cost of those separate negotiations, the fact is that each of the member states with which we would be negotiating would be bound by the terms of the new directive, and of course would press the UK to adopt similar requirements to their own. The effect would be that we would end up taking on similar obligations to those of a directive that we had not participated in negotiating, and whose content we had not had the opportunity to influence.
+
+The Schengen instruments contain their own specific and extensive data protection provisions, which will not be affected by the directive and will continue to operate, so in effect we would be opting out of very little, with little potential benefit for the United Kingdom, but potentially to our detriment. Furthermore, there are broader consequences to an opt-out.
+
+Jacob Rees-Mogg
+Will the Minister give way?
+
+Mr Blunt
+If we were outside the directive, our ability to negotiate essential data-sharing agreements, such as we are in the process of doing on the passenger name records directive and the European Union third-country passenger name records agreements, could be significantly undermined. Equally fundamental, exercising our opt-out on this measure could throw our participation in other, broader Schengen measures into question and the Council could take the decision not allow us to continue to participate in valuable data-sharing arrangements under the police co-operation provisions of Schengen. This would be a serious problem for our law enforcement agencies, which benefit from the sharing of criminal data under Schengen.
+
+It is therefore our careful collective judgment, based on the most pessimistic view of costs and benefits, shared with the European Scrutiny Committee, that our national interests are best served by participating in this directive so that we are party to the framework governing data-sharing for policing and criminal justice across the European Union.
+
+Kate Hoey
+I thought it was this Government’s policy to bring back gradually more powers from Europe. The directive is gobbledegook to most people and seems to me to be expensive and to do nothing at all for the safety of this country. Why are we going down this road?
+
+Mr Blunt
+I am afraid I do not agree with the hon. Lady. The directive is important for the security of our citizens. I will go on to give an example of the kind of co-operation that we wish to protect under these arrangements. If we are not party to these arrangements, we will have to start negotiating at least 27 bilateral arrangements, which would take us to precisely the same place as the directive, without the benefit of negotiating under the directive.
+
+Mr David Nuttall (Bury North) (Con)
+Will the Minister give way?
+
+Mr Blunt
+Let us be clear about what is at stake here. Rules enabling the sharing of data have made a tangible difference to the United Kingdom, and we take steps that imperil them at our risk and at risk to our citizens. Let me give an example, which concerned a 32-year-old Romanian national who was arrested in the United Kingdom on suspicion of raping two women within the Metropolitan area. A request for conviction data identified that the suspect had a previous conviction for rape in Romania. Just prior to the trial, the individual disputed the Romanian conviction, but through close liaison with the central authority and the police liaison officer at the Romanian embassy in London, a set of fingerprints relating to the Romanian rape conviction was obtained and proved the conviction beyond doubt when they matched the suspect.
+
+An application to use the previous conviction as bad character evidence was made by the prosecuting counsel and was granted by the judge, allowing the Romanian rape conviction to be put before the jury. The defendant was convicted of four counts of rape and other offences at the Inner London Crown court in July 2010. The defendant was given an indeterminate prison sentence,  with a recommendation that he serve at least 11 years in jail as he presents a “high risk” of further sexual offences. The investigating officer on the case said:
+
+“The use of foreign conviction data can be of great importance to police investigations. In my case, by working with the UK Central Authority I was able to draw on their professionalism and expertise to secure details of”—
+
+the individual’s—
+
+“previous conviction for rape in Romania which was put before the court and used as bad character evidence. This information undoubtedly assisted in providing a successful outcome, convicting a dangerous offender who will now spend a considerable number of years behind bars.”
+
+Perhaps I hope that under European Union and Council of Europe prisoner transfer agreements, a good proportion of those years will be spent behind Romanian bars, but if I follow that up, I may be diverging from the immediate subject of the debate.
+
+Henry Smith
+Will the Minister give way?
+
+Mr Blunt
+That case is far from unique. We should be clear that the Government want to remain within the directive precisely to enable such practical, common-sense sharing of data. It is not because we do not have concerns about the precise details or think it cannot be improved. It is because we make the judgment that we stand a much better chance of securing a sensible deal within the tent than outside it, and without risking the likelihood that by having to negotiate dozens of bilateral deals, we would endanger co-operation that the public depend upon.
+
+It will not have escaped the attention of hon. Members that press coverage has warned about new rights for criminals under this measure. Let me set the record straight. All UK citizens under current law are able to know what information the state holds about them and can ask for data to be erased. But the ability of criminals to enjoy this right is, for obvious reasons, qualified. Put simply, the rights of the law-abiding public to security come first. Nothing in this proposed directive creates any new right for criminals or for anyone else.
+
+Mr Dominic Raab (Esher and Walton) (Con)
+Will the Minister give way?
+
+Mr Blunt
+On that point?
+
+Mr Raab
+On that point. May I quote to the Minister directly from paragraph 50 of the impact assessment? It says that criminal justice sector agencies may also be prosecuted directly or via the Information Commissioner’s Office if they fail to protect personal data. This will represent a cost to them in terms of defending themselves in court and in paying fines and/or compensation that may result from these cases. Does that not conflict directly with what he has just told the House?
+
+Mr Blunt
+No, because these rights already exist. The suggestion in the newspapers yesterday, which I am sure my hon. Friend had nothing to do with, was about whether we were creating some new set of rights for criminals under the directive. No new set of rights is being created, any more than exist now under our own data protection laws.
+
+Charlie Elphicke (Dover) (Con)
+Will the Minister give way?
+
+Mr Blunt
+No. Let me turn to the substantial content of the proposed directive and the policy issues that are raised. We want to see a system that allows police and judicial authorities to continue to protect and serve the public effectively and which also allows individuals to be confident that their privacy, safety and freedom will be safeguarded. The Government believe that these two objectives are not contradictory, but may be achieved in tandem, by creating a data protection framework that is founded on the principles of necessity and proportionality.
+
+In the light of this position, there are legitimate concerns regarding the content of the directive. The United Kingdom believes in a principles-based approach that allows the necessary amount of flexibility in processing data. In some areas, the proposed directive seems far too prescriptive to meet this requirement.
+
+Henry Smith
+Will my hon. Friend give way?
+
+Mr Blunt
+Our priority in negotiations will be to resist the application of the directive to all domestic processing—that is, data sent between two United Kingdom agencies. Although article 6a of protocol 21 means that this will not apply to us, we feel that it is important to remove this expansion as such data processing should not be the subject of European Union rules. We will seek to remove that for all European Union countries.
+
+As further examples, the proposal lays down new obligations for data controllers regarding the documentation and records that they must keep and the consultations that they must hold with the Information Commissioner’s Office in order for the processing to be considered compliant with the rules. We also have reservations about the compulsory appointment of data protection officers, a role that will need to be filled ostensibly to ensure that data controllers fulfil the various obligations presented to them, including those that I just outlined.
+
+We already expect robust data protection governance as a matter of course in public authorities. However, we question the necessity of having the European Union telling us how to create, organise and run these arrangements. The more prescriptive and burdensome aspects of the directive are opposed by the Government and we will seek to remove or mitigate them during negotiations in the Council of the European Union. This is the beginning of a lengthy process of negotiating new data protection legislation, not the end. The UK will seek to influence negotiations in order to bring about outcomes that are more in line with our policy objectives, which is to end up with an effective but proportionate framework.
+
+Sir Peter Bottomley (Worthing West) (Con)
+Will the Minister give way?
+
+Mr Blunt
+I will.
+
+Sir Peter Bottomley
+I think that my hon. Friend the Member for Dover (Charlie Elphicke) could put the question on costs better than I could.
+
+Charlie Elphicke
+rose—
+
+Mr Blunt
+rose—
+
+Madam Deputy Speaker (Dawn Primarolo)
+Order. Minister, please resume your seat for a moment. Sir Peter, I thought that you wanted to intervene. You have been in the House a long time and know that you cannot stand up and then ask someone else to speak for you, unless you have lost your voice, which you have not.
+
+Sir Peter Bottomley
+You are right to correct me, Madam Deputy Speaker, and I think that I am also right in saying that every word in “Erskine May” may create a new precedent. My question, which I think my hon. Friend the Member for Dover would have put better, is this: will my hon. Friend the Minister start talking about costs at some stage during his very good speech?
+
+Mr Blunt
+I will not. I am unable to, because work is still ongoing on the impact assessment to try better to identify the precise costs of each measure. If my hon. Friend has had a chance to read the impact assessment, he will have noted that much of the assessment in this area is based on fairly tentative criteria. What are not included in the impact assessment are the benefits of a successful negotiation or the costs that would be inflicted on us if we chose to opt out and had to live with the consequences.
+
+As I was saying, this is the beginning of a lengthy process of negotiating new data protection legislation, not the end. We will seek to influence negotiations in order to bring about outcomes that are more in line with our policy objective, which is to end up with an effective but proportionate framework. I note that every other member of the European Union faces that same challenge of finding the right balance between the two principal objectives: the privacy of our citizens and the protection of their data; and the protection of their interests through the operation of our police and criminal justice agencies. However, it is worth noting that the proposed directive is one part of a two-part package of revised data protection instruments that the Commission proposed in January; it also proposed a regulation that would cover general and commercial data processing by public and private bodies. The regulation is neither the trigger, nor the subject of this debate.
+
+To return to the directive, which is the subject of today’s debate, let me summarise our position. We believe that an opt-out decision is a possibility for the Government but that it would be the wrong choice for the United Kingdom. We would need to replace the directive with bilateral agreements with each member state, which would be a time-consuming and tortuous process, and it is likely that in those negotiations we would find ourselves bound by aspects of the directive that we feel confident we can remove in negotiations.
+
+The Government’s position, therefore, is clear: we want to be part of a European data protection framework that enables practical, common-sense sharing of data between member states’ law enforcement agencies engaged in the fight against international crime. We believe that the limiting effect of article 6a on the aspects of the directive that relate to data exchanges within the United Kingdom means that we should be content to be part of it, which will of course substantially reduce the costs identified in the impact assessment. Although there are areas of the proposal that the Government will seek to alter, I can unhesitatingly commend the motion to the House.
+
+20:13:00
+
+Mr Andy Slaughter (Hammersmith) (Lab)
+I will begin by saying that it is not the Opposition’s wish to divide the House on this resolution—
+
+Sir Peter Bottomley
+Look behind you.
+
+Mr Slaughter
+I think I will take interventions a little later in my speech.
+
+It is not my wish to speak for long. These debates, a number of which it has been my privilege to speak in over the past few months, are always animated, if only on the Government side of the House—indeed, sometimes I think mine is the last friendly voice the Minister hears.
+
+Mr Blunt
+This is as good as it gets.
+
+Mr Slaughter
+He is in a pretty desperate situation if that is true.
+
+The animation in these debates often comes from what I might call the meta-issue of why we are discussing European law expansion at all, rather than the precise statutory powers being considered, or at least that is my observation. I intend neither to engage in that debate, nor—other than briefly—to discuss the matter of principle that the draft directive raises. In dealing with the matter of processing personal data for the purposes of preventing, detecting and prosecuting crime, there will always be a balancing act. On the one hand, the prevalence of cross-border crime, including serious and organised crime, crimes of violence, sexual crime and terrorism, is growing, and criminals and criminal gangs are becoming more organised and sophisticated and making better use of technology and information systems, so the police and prosecuting authorities must have the means to match them. On the other hand, the issue of data protection and privacy from the prying eyes of the state in particular is important, contentious and topical, from data storage to the Leveson inquiry.
+
+In opposition, both Government parties set themselves up as opponents of data collection where it could be seen as intrusive, yet I read the following in today’s edition of The Guardian:
+
+“Ministers are planning a shakeup of the law on the use of confidential personal data to make it far easier for government and public-sector organisations to share confidential information supplied by the public. Proposals to be published next month by the Cabinet Office Minister, Francis Maude, are expected to include fast-track procedures for ministers to license the sharing of data in areas where it is currently prohibited.”
+
+The Cabinet Office Minister said:
+
+“In May we will publish the proposals that will make data sharing easier”.
+
+The home affairs editor of The Guardian notes that
+
+“databases continue to proliferate across Whitehall, even before the extension of data-sharing powers. Now the Cabinet Office minister…says government must be ‘smarter and more effective’ at sharing such sensitive data.”
+
+It is not only the EU that has to undertake this tricky balancing of civil liberties with security and the pursuit of crime.
+
+The issue before us is not one of principle, but whether the proposals achieve that balance. That question may be answered only in the further examination of the  directive. As I have indicated, we do not oppose the Government’s decision today not to opt out, and I hope that that is clear.
+
+Mr Cash
+Does the shadow Minister accept that it is a prerequisite that the European Scrutiny Committee should have the opportunity to examine matters of this kind?
+
+Mr Slaughter
+I do, and I was going to deal with that matter after raising a number of specific points of concern.
+
+I am grateful to the European Scrutiny Committee for its report, which states that
+
+“there is now the possibility of establishing a comprehensive data protection framework ensuring both a high level of protection of individuals’ data in the area of police and judicial cooperation in criminal matters and a smoother exchange of personal data between Member States’ police and judicial authorities, fully respecting the principle of subsidiarity.”
+
+The report then adds:
+
+“The Commission concludes that the practical difficulties encountered by a number of Member States in distinguishing between rules for domestic and cross-border data processing could be solved through a single set of rules covering data processing both at national level and in a cross-border context”.
+
+The aim might be laudable, but the solution appears to say that, in order to avoid confusion, principles of subsidiarity should in fact give way to an overarching system controlled centrally. One consequence of that that the Minister has already alluded to is an extension of the scope of data processing to include domestic processing for the purpose of policing and judicial co-operation. In other words, the directive will regulate the passing of data between purely domestic organisations, such as neighbouring county police forces, and I share the Minister’s concern in raising that.
+
+In the area of data protection, the draft directive is stronger and, I think, should be broadly welcomed. It includes: new rights of access and information for data subjects, such as the identity of the data controller, the purpose of the data processing and the period for which the data will be stored; a right for data subjects directly to demand the erasure of their personal data by the data controller; an obligation on data controllers to inform supervisory authorities and data subjects of data breaches, informing the former within 24 hours of discovery and the latter without undue delay; and an obligation for data controllers or processors to appoint data protection officers. The incorporation of human rights legislation—the Human Rights Act 1998—into UK law by the previous Labour Government has improved the right to privacy and to protection from intrusion into family life, but we still have some way to go.
+
+Keith Vaz (Leicester East) (Lab)
+I agree with everything that my hon. Friend has said so far, but will he look in particular at the issue of Europol and how this exchange of information affects our obligation to it?
+
+Mr Slaughter
+I am happy to do that, and I am even happier to note the support from my Back Benchers—the almost unanimous support—[Interruption.] No, 50% might be a better figure.
+
+The key to the balance that I have talked about is the drafting of the directive within very prescribed bounds to restrain the opportunities for data sharing, thus the  controls for in-country transfer, to which the Minister has referred, are restricted—if one accepts what the draft directive says. As currently drafted, it covers data transferred between two UK regional police forces with no cross-border elements, but that will apply to the UK only when such processing is pursuant to an EU measure on police or judicial co-operation, and that is indeed what the draft directive states.
+
+I just worry that sometimes the intention is not carried out in practice, and I cite—on a perhaps analogous subject—from the same Guardian article today this note of caution:
+
+“Last week the European parliament ratified plans to allow airline passenger records, including credit card details, for all transatlantic flights between Europe and the US, including in and out of the UK, to be handed over to the US department of homeland security to be stored for 15 years.”
+
+If these proposals are to go ahead, they need to do so in such a way that there are the tightest possible controls on the exchange of data.
+
+Sir Peter Bottomley
+First, does the hon. Gentleman, who is doing well, if I can say so without being patronising, think that when those data rules are breached the victim of the breach should be notified? Secondly, and separately, does he agree with my hon. Friend the Minister that the problems of cost and of value for money are a matter for another day?
+
+Mr Slaughter
+I accept what the Minister has said—that the matter is at an early stage and we should not press him on those points. I am very happy to be patronised by the hon. Member for Worthing West (Sir Peter Bottomley), and whether he is asking by himself or by proxy—
+
+Charlie Elphicke
+rose—
+
+Mr Slaughter
+Ah! His proxy also wishes to intervene.
+
+Charlie Elphicke
+I am proud to be the proxy for my hon. Friend the Member for Worthing West (Sir Peter Bottomley), and I thank the hon. Gentleman for the generosity with which he has taken interventions and for the great courtesy that he brings to the House.
+
+My concern is that we will end up with a free-of-cost subject access request. Does the hon. Gentleman agree with Tony Blair, who wrote in his book, “A Journey”, that freedom of information requests and such costless information requests are one of the biggest mistakes and that one should be very careful about them?
+
+Mr Slaughter
+I must get around to reading that book, because it is quoted to me so often in these debates and exactly the same point is made. I am sure it is a very good read.
+
+I conclude by quoting one paragraph from the proposed directive which sums up its laudable intention:
+
+“When personal data moves across borders it may put at increased risk the ability of individuals to exercise data protection rights to protect themselves from the unlawful use or disclosure of that data. At the same time, supervisory authorities may find that they are unable to pursue complaints or conduct investigations relating to the activities outside their borders. Their efforts to work together in the cross-border context may also be hampered  by insufficient preventative or remedial powers, inconsistent legal regimes. Therefore, there is a need to promote closer co-operation among data protection supervisory authorities to help them exchange information with their foreign counterparts.”
+
+That neatly encapsulates the two principal aims of the proposals, as set out in the impact assessment: dealing with the fragmentation of data, when it prevents cross-border law enforcement, and allowing individual citizens to control their personal data. Those are proper aspirations, and we are prepared to give the directive the benefit of doubt at this stage, but I do await with interest, as I always do, the rest of the debate and, indeed, the Minister’s response.
+
+20:24:00
+
+George Eustice (Camborne and Redruth) (Con)
+I have a number of concerns about the motion. First, it is not just about introducing a directive, because it undermines existing British opt-outs in justice and home affairs; secondly, the Government’s own impact assessment raises serious concerns about the administration costs of the directive; and, finally, on a point to which the Minister alluded, the Government are themselves still undertaking consultation and work in this area. I shall put forward the novel proposal that we make a decision on this matter after that work is complete, not before it has been done.
+
+On our opt-out, under a very unusual quirk of the Lisbon treaty, Britain has what is sometimes described as an opt-in protocol, meaning that by 1 June 2014 we have to make a very big decision. There are about 130 justice and home affairs measures, and we have a right to opt out of each and every one should we want to. We have to opt out of all of them en bloc, and we have to make our mind up within the next 18 months.
+
+We should make that decision now. Let us look at all 130 powers, and let us be very clear that we are going to opt out of all of them en bloc. If we do so, we will have three options: abandon the whole lot but do some bilateral work in the area; agree with some and opt back into them but on our own terms; or do something similar to Denmark by opting into some or all of them but doing so outside the jurisdiction of the European Court of Justice.
+
+The problem with the directives, as they emerge, is that they subject us to the jurisdiction of the ECJ in a way that we are not subject at the moment. Every time we accept one of the new directives that are put before us, we replace an existing framework decision and lose the power to opt out of that area. The opt-out falls by default, so we should not take such decisions lightly, because the decision tonight is a decision to scrap a British opt-out, not just a decision to wave through an amendment.
+
+One or two Members have touched on the explanatory memorandum, and it is quite damning. Paragraph 25, which relates to domestic processing, states:
+
+“We…consider the impact of this on law enforcement agencies, in particular regarding the administrative burdens it places on them”
+
+could be significant. It continues:
+
+“The Data Protection Framework”—
+
+which went before—
+
+“does not cover domestic processing. We are considering the implications of this.”
+
+Paragraph 28, which relates to data protection and design, states:
+
+“The DPFD did not impose obligations to protect personal data by design and default and their inclusion in the Directive could prove to be a disproportionate cost and burden on the functionality of law enforcement bodies.”
+
+Paragraph 30, on the data breach notifications requirement, states:
+
+“This could add a resource burden on low enforcement agencies and be count-productive if it distracts data controllers from mitigating the adverse effects of the breach.”
+
+Finally, the impact assessment refers to financial implications, and paragraph 33 states:
+
+“The Directive, if adopted as is, poses a number of financial implications. In particular, police and law enforcement authorities would need to comply with specific obligations, such as the requirement to employ Data Protection Officers. We are examining the implications of these requirements further to determine how significant they would be”.
+
+The memorandum is dated 13 February. When I contacted the Ministry of Justice today, it said that it had launched its consultation, but that it had not yet been concluded.
+
+We should have gathered all the evidence together before making this decision. We must question why we are being asked to make this decision tonight, when all the information is not before us. The answer is that there is an arbitrary EU timetable that says that we have to make the decision by the middle of May. This is exactly what is wrong with the European Union: we are presented with these matters, but we are not given time to gather the evidence that we need before we are bounced into making a decision. That is a complete mistake.
+
+I want to return to my first point about our opt-outs. People sometimes say that it is impossible to do anything in the European Union because it is too difficult to renegotiate matters and because treaty changes are needed. This area is the one exception to that: we do not need to renegotiate anything and we do not need a new treaty. Our opt-outs are already provided for. We must not allow the 130 British opt-outs to wither on the vine. We must decide now to opt out of all those provisions and adopt a more strategic approach to the ones that we will accept in future.
+
+20:29:00
+
+Keith Vaz (Leicester East) (Lab)
+I intend to speak very briefly. The hon. Member for Camborne and Redruth (George Eustice) made an eloquent and thoughtful speech, which indicated that we ought to spend much more time discussing justice and home affairs issues on the Floor of the House. I would like a debate on the European arrest warrant, because it has created enormous problems for the British judicial system. However, we have only an hour and a half and there are probably only about 30 minutes left, so I will be brief and raise only one point with the Minister, which is about the operation of Europol.
+
+Last Friday, the European Commission had a meeting to which it invited the Chairs of the Home Affairs Committees of all the EU countries to discuss the future of Europol. I am concerned about how the directive might affect the way in which the Europol databases operate. I support what the Government are trying to do. They are clear that the reason why they want better data sharing among our EU partners is to combat  Europe-wide crime. We have to share data if we are to deal with the organised criminal gangs that exist in the EU in so many areas of criminal activity, including drugs and human trafficking. However, we need to be careful about who gets the data and what use they make of them. That is why I am such a strong supporter of Europol. Anyone who has visited it will know that it has a particularly British dimension. The information that we give that organisation is kept very much under our control.
+
+The Minister mentioned the case of a Romanian who came to this country and whose criminal record tracked him back to Romania. I would have thought that Europol should provide that assistance. It does not necessarily have to be done through bilateral help. I raise with the Minister the case of the Albanian who worked in a hotel in the midlands and beheaded his manager after a row with him. Only after he had committed that terrible criminal act was it discovered that he was wanted in Sweden and Switzerland on other charges before he came to the United Kingdom.
+
+In looking at data sharing, I am concerned that we do not have enough information about those who come into this country. The Minister described the case of the Romanian and I have described the case of the Albanian—this is not an attack on eastern Europe, but since we have mentioned the nationality of these people, we may as well be open about it. It would have been better if we had known about the offences committed by those people at the time of their arrival. I do not think that the directive would have ensured that that information was provided, although perhaps I am wrong. However, it is important to know the criminal background of those who arrive at our borders and who come to live and work in this country. That would be sensible data sharing, as opposed to data sharing after the event. I hope that in his winding-up speech—if he does not make one, perhaps he will write to me—the Minister will speak about the implications of the directive for Europol.
+
+Finally, I pay tribute to the European Scrutiny Committee and its Chairman. They do a splendid job. It is important that we have more such debates on the Floor of the House, even though they might sometimes be an irritant to Ministers. As with pre-summit debates in the House, which seem to have gone by the board, it is important that we have as much time as possible to discuss directives that will have far-reaching effects in the justice and home affairs area of EU policy.
+
+20:34:00
+
+Mr William Cash (Stone) (Con)
+The issue here is one of process as well as substance. I am sorry that the Lord Chancellor has just left the Chamber. I was glad to note that he was here before I rose, but he seemed to depart rapidly. I can only assume it was because some of the remarks that I am about to make may not be entirely to his liking or that of the Under-Secretary.
+
+This is a Lidington debate, and the significance of such debates is that Parliament has an opportunity to debate, and vote on, motions that clearly set out the Government’s recommended approach—that they wish to exercise their right either to opt into a title V proposal or to opt out of a Schengen-building title V measure.
+
+I pay tribute to my hon. Friend the Member for Camborne and Redruth (George Eustice) for his remarks on the substance of the matter, but there is a very important question to be asked about scrutiny. I speak as Chairman of the European Scrutiny Committee, having just this afternoon come back from duties in relation to the Danish presidency.
+
+I say to the Minister that the way in which this matter is being handled is a disgrace. I will of course refer to the Committee this quite blatant breach of the spirit of the proposals that we have agreed in the past, and I intend to ask the Committee whether it wants to bring him in front of us to explain himself and how this has been handled. It is that serious.
+
+No mention of the Schengen protocol or offer of an opt-in debate was made in the Government’s explanatory memorandum of 13 February, as it should have been, nor was any formal correspondence to that end received by the European Scrutiny Committee. I also mention that the Schengen protocol gives the United Kingdom and Ireland three months to opt out of legislation that builds on the Schengen acquis. The Government’s omission is very significant and has meant that the Committee has not had the opportunity either to scrutinise the opt-in/opt-out decision or report to the House on it prior to a debate taking place.
+
+It may be a matter of some interest to the House that there is no report before the House on the matter. Members can go to the Vote Office and get the Committee’s previous paperwork on the provision, based on our consideration of the explanatory memorandum of 13 February. In that document, we stated:
+
+“It is regrettable that the Minister’s Explanatory Memorandum did not mention any of”
+
+certain opt-in considerations, in blatant breach of Baroness Ashton’s undertaking to Parliament of 9 June 2008. We continued:
+
+“We ask the Minister to keep us informed of progress in negotiations on the points of concern for the Government…We assume, therefore, that the negotiations are unlikely to be completed under the Danish Presidency, and would be grateful to be informed if and as soon as this assumption appears to be incorrect.”
+
+On every single element of what I have just described, the Minister is completely in breach of undertakings and of the requirement to refer matters to the Committee appropriately.
+
+The manner in which the decision has been explained is a disgrace. There has been no attempt to explain it, or its implications, to the House properly. I have to go further and say that Members will need an explanation for the Government’s omission, and I hope the Minister will find an opportunity to provide one before we conclude these proceedings. It must have been obvious to the Government that the draft directive was a Schengen-building measure, because several of the recitals state explicitly that it is and because the framework decision that it replaces was stated to be a Schengen-building measure. Recital 43 states that the UK is
+
+“taking part in this Framework Decision, in accordance with Article 5 of the Protocol integrating the Schengen acquis into the framework of the European Union.”
+
+In order to have a meaningful and informed debate on the Floor of the House under the Lidington arrangements, the Committee should have had reasonable notice of the Government’s recommended approach. A mere 24 hours is clearly inadequate.
+
+I could refer to many other matters, but the question on which I shall conclude is simply this: what negotiating strategy will the Government adopt to mitigate the negative impact of the proposal as drafted, and what is the Minister’s estimation of the likelihood that the Government’s strategy will succeed?
+
+This is a very sorry day in the scrutiny of European legislation. I am only sorry the Lord Chancellor is not here, because if he were, I would invite him to go to the Dispatch Box instead of the Minister, who has let us down so woefully.
+
+Sir Peter Bottomley
+Were there to be a meeting of Ministers of European Union countries during the next few days, and were there to be either a satisfactory or an unsatisfactory outcome, how could it be reported to the House and how could we take a decision that supports or negates any decision that is taken this evening?
+
+Mr Cash
+I find it extraordinary that my hon. Friend should seek to defend the Government’s breach of a series of requirements as prescribed in the spirit of the orders before the House, but in addition, it is perfectly clear—to me at any rate—that these proceedings are happening because of the timetable of Prorogation.
+
+Jacob Rees-Mogg
+I wonder whether the real reason why this is being done in this appalling way, completely ignoring the proper forms of scrutiny, is that the Government know they have an absolutely rotten argument and thought they would push this through quickly while people were thinking about Prorogation and the Queen’s Speech and what will be in the next programme. It is little more than prestidigitation.
+
+Mr Cash
+I concur. Other hon. Members wish to speak, so all I can say is that this matter will not to be allowed to rest. We will look into it further. The Committee will expect the Minister to give an explanation in person to us. I shall leave my remarks at that for the time being.
+
+20:42:00
+
+Kate Hoey (Vauxhall) (Lab)
+It is always a pleasure to follow the hon. Member for Stone (Mr Cash). The hon. Member for Camborne and Redruth (George Eustice), who is just leaving the Chamber, made an excellent speech. I agreed with practically every word he said, as I did with the hon. Member for Stone, who outlined that the way in which the measure is being put through the House is totally against the way in which the new Government supposedly intended to treat European legislation. That is wrong but rather typical of Governments. This Government and the previous one, and everybody in the establishments of the parties at the top level, want to avoid a genuine debate––and certainly any debate in the country––and rush measures through.
+
+I, too, read the directive checklist for analysis on EU proposals. I happen to feel sorry for poor Mr John Bowman, who is the lead policy official who wrote it, because everything in it points towards why we should not support the motion to not opt out of the directive.  That is not just because of the cost analysis, but it is worth quoting that for the public, who may well be listening. It states:
+
+“The proposals would impose substantial costs which would largely fall on the criminal justice agencies”
+
+and ultimately on the taxpayer.
+
+The checklist also states:
+
+“The overall impact is likely to be substantially negative”.
+
+I heard not one single word from the Minister on that. He should have listened to the previous European debate just an hour and a half ago, when the Financial Secretary to the Treasury took many questions and ended up getting a lot more information. This Minister simply wanted to get through his speech and was prepared only very rarely to give way. He did not in any way respond to all the arguments against supporting this motion tonight.
+
+The ministerial sign-off—presumably by the Minister tonight—reads:
+
+“I have read the analysis above of the potential impacts of this proposal and I am satisfied that, given the significance of the proposal, the time and evidence available, and the uncertainty of the outcome of negotiations, it represents a proportionate view of possible impacts.”
+
+That is precisely why the people of this country are sick, sore and tired of everything that this Parliament does on the European Union.
+
+If the outcome of the case of the Romanian rapist, who has suddenly become a very famous person tonight—my right hon. Friend the Member for Leicester East (Keith Vaz) also mentioned him—was possible before we had this directive, why do we need it? The system worked perfectly well in that case. It even worked for the Albanian head chopper. It seems to me that we are struggling for reasons to prove that this directive will help, but the real reason we are pushing it through quickly is, as the hon. Member for Camborne and Redruth said, that there is a whole raft of European Union regulations coming that we will have to make a decision on and this Government know that on their Back Benches, and increasingly on this side I am glad to say—although there are none here tonight apart from my right hon. Friend the Member for Leicester East—resentment is felt towards the European Union and its regulations, its burden and its undemocratic nature. The Government therefore want to get this through as quickly as possible.
+
+I cannot understand why we cannot have bilateral agreements. If we have the agreements there already, why cannot we strengthen them?
+
+Henry Smith
+Is it not the case that if we opt in to this directive, it will be a one-way decision that we cannot back out of? It will be decided through qualified majority voting, so we may not get exactly the sort of directive that would suit the United Kingdom, which is yet another reason.
+
+Kate Hoey
+I absolutely agree, and that is precisely what some of us wanted to ask the Minister about, but he was not prepared to take interventions. I hope that he will respond to some of these questions. He himself said that he does not like bits of it—some of it is excessively bureaucratic and it is far too prescriptive. He said that the Government do not like the domestic  aspect of it, but that they will negotiate. He actually thinks that we are going to believe that we would manage to change very much of this, when the reality is that we rarely change things and we ultimately give in. We will give in on this. If this is put through tonight, no matter how much we decide that it is not a good thing, we can do nothing about it.
+
+It is an absolute disgrace that after a one and a half hour debate, and my party refusing to even vote on it, this will be pushed through. This is just one more sign. I remind the House of the people’s pledge campaign, which is all-party—including my right hon. Friend the Member for Leicester East. We are keen to see a referendum on the European Union. It is holding by-election-type referendums across the country. In Thurrock, just before Easter, 90% of the people who voted—in a higher turnout than in most local elections—voted for an in/out referendum. Anyone who has been watching this debate tonight and listening to the arguments put by the Minister will even more strongly believe that we need a referendum and an opportunity for the people to decide their destiny.
+
+Several hon. Members
+rose—
+
+Madam Deputy Speaker (Dawn Primarolo)
+Order. This debate concludes at 9.20 and I would like to leave a few minutes at the end for the Minister. Members could help each other out by perhaps not speaking for quite so long, and then everyone can get in.
+
+20:49:00
+
+Mr David Nuttall (Bury North) (Con)
+I will be conscious of your remarks, Madam Deputy Speaker. It is, as always, a great pleasure to follow the hon. Member for Vauxhall (Kate Hoey). If this motion is passed tonight, it will result in yet another slice of the sovereignty of this House passing to Brussels and to the European Union. We have no obligation to do it. This country has every right to opt out of the measure, and that is exactly what we should do. The rest of the EU would, of course, continue to be bound by the measure, and if there was a benefit to our citizens, they would benefit too. If the House felt the need to legislate independently of the EU, we could do so, but we should not simply accept the measure as it stands.
+
+We have a choice. The Government propose to inch further down the path to greater European integration—a path that, I submit, runs in the opposite direction to that in which the vast majority of the British public wish to go. Although the two Front-Bench teams might agree, I suspect that millions of people outside this place agree with those who have spoken from the Back Benches who, in this argument, are on the side of the British public. Once we have chosen not to exercise our right to opt out, there will be no option to reverse that decision, and we will have slipped yet further into the EU’s clutches.
+
+The Minister expressed concern that if we did not accept the measure, other European countries might choose not to co-operate with us. My first thought to that was, “Simple. Let’s tell them we’ll stop sending the cheque every month.” That might soon get them into order. Then there is this nonsense that we might be obliged to enter bilateral agreements and that it is all too difficult. What nonsense! We have thousands and  thousands of civil servants who must surely negotiate bilateral agreements all the time.
+
+Jacob Rees-Mogg
+Not only would it not be too difficult but we have an agreement in place already under which it is a requirement of the EU that every effort be made to maximise its effectiveness in the event of it being replaced. So the Government’s argument does not stand up.
+
+Mr Nuttall
+My hon. Friend makes a good point. It would not be at all difficult, as the Minister suggested, for us to reach separate bilateral agreements, not just with the remaining 26 members but with the other European countries that are not members. We need to be doing deals with them as well, if this is such a good idea.
+
+As pointed out, if we adopted this measure, it would have significant resource implications, as paragraph 33 of the Government’s explanatory memorandum, dated 13 February, makes clear. At a time when the whole thrust of Government policy is aimed at reducing the amount of regulation, our public services will have to contend with yet more rules and regulations. Many will rightly question why we are subjecting them to more Brussels red tape. The bundle of papers available from the Vote Office on this motion demonstrates the size of the problem. It contains well over 300 sides of A4 paper. So we have more regulations, the cost of which we know not. In essence, we are being asked to sign a blank cheque. We should not be taking this step, and I urge the House to vote against the motion.
+
+20:53:00
+
+Mr Dominic Raab (Esher and Walton) (Con)
+It is a pleasure, as always, to follow my hon. Friend the Member for Bury North (Mr Nuttall), who powerfully and eloquently put the constitutional case against the measure.
+
+The motion gives the House an opportunity to assess the latest proposals from Brussels on the processing of personal data by the police and other law enforcement agencies. Like others, I am surprised and disappointed that the motion endorsing the opt-in, which is an important step for the reasons already mentioned, first appeared on the Order Paper this morning. Now we learn that the Ministry of Justice impact assessment—the basis on which the House is scrutinising this measure—is fundamentally flawed, having omitted the decisive considerations Ministers have relied on. That is a poor basis for Parliament to exercise its scrutiny prerogatives on.
+
+The Commission argues that the provisions are needed because of the speed of technological change and the increasing amount of information being transferred, but the draft directive would make data protection obligations more onerous and more expensive for UK police forces. The police would have to appoint specialist data protection officers. There would be restrictions on the information that could be held, and rules to allow suspects and criminals to know what data are being held on them and to request amendments and deletion of that information. These are clearly and palpably new rights; it is completely wrong to suggest otherwise.
+
+The directive will apply not only to cross-border investigations but to data transferred between two UK forces, subject to what the Minister has said. The EU sees the proposals as a safeguard but, in reality, they risk creating a bureaucratic straitjacket, sowing legal confusion and adding to the costs of police forces on the front line. The Ministry of Justice impact assessment put it very clearly when it stated that
+
+“many of the new obligations appear disproportionate and unnecessary leading to an overall negative outcome.”
+
+So why are we opting in, against departmental advice?
+
+I listened to the new arguments advanced by the Minister this evening, but I find it unacceptable that they are wholly missing from the impact assessment and that they have not been reviewed by the European Scrutiny Committee. We have heard the standard boilerplate arguments for meekly submitting to extra EU regulation, and there has been no analysis at all of the countervailing arguments, which, if they are as serious as has been suggested, we really ought to be scrutinising properly. At the very least, should we not wait until Ministers have quantified the administration costs of the measures to police forces?
+
+The impact assessment estimates that there will be substantial costs to the police and other agencies, but we have no further details. When will a proper assessment be made? Has the Association of Chief Police Officers, or any individual police force, been asked for a view of the operational impact of the measures? We know that the Ministry of Justice has looked at them; have the Home Office or police forces in general done so? We ought to learn a lesson from the Abu Qatada saga, which is dragging on, and be acutely aware of the real risk of European legislation, judicial or otherwise, tying the hands of UK law enforcement.
+
+When it comes to data protection and related privacy rights, we have been here before. The House will remember the case of Gary Ellis, a serial thief and burglar. In 2003, Essex police were forced to abandon a crime-fighting campaign that would have displayed his picture across his home town of Brentwood in an attempt to deter him and warn potential victims. The courts banned the posters because they breached his privacy rights under article 8 of the convention.
+
+In 2008, the Serious Organised Crime Agency had similar problems with 41 criminals under financial reporting orders. It was forced to protect their privacy and therefore not publish the orders, which led to SOCA’s head, Sir Stephen Lander, publicly expressing his frustration. I appreciate that those cases involve a slightly different set of rights, but they are related and the impact is similar. Is not the reality that this opaque directive will risk arming offenders with yet another legal weapon with which to sue those whose job it is to put them behind bars and protect the public? Paragraphs 49 and 50 of the impact assessment also highlight the cost of civil litigation brought by offenders and suspects against the police and others, and even the prospect of prosecution by the Information Commissioner’s Office.
+
+I note the Minister’s statement that there were no new rights, but paragraph 47 of the impact assessment states that it is likely that this proposal—not existing rights—could have
+
+“a large impact on CJS agencies.”
+
+The risk of such unintended legal consequences is aggravated by the fact that the new directive will be subject to the full jurisdiction of the European Court of Justice. That is why assurances about the limits of its application cannot be relied on.
+
+When it comes to pan-European co-operation, as opposed to data sharing within the UK, the impact assessment is equally sceptical. It states that, far from making us more secure, there will be an increased risk from criminal acts because the directive will gum up international data sharing by adding burdens that will discourage co-operation. Overall, this is a bleak assessment. It raises the question why is Brussels micro-managing policing and law enforcement? If we need a change to our data protection rules, it should be tailored to the problem under national law and in relation to national law enforcement agencies. Why, given the Ministry’s lousy impact assessment, are we even contemplating opting in?
+
+Bitter experience suggests that we may end up with gold-plated provisions protecting UK criminals while other EU countries would apply the provisions selectively, if at all. The obvious course, which I understand is available—I stand to be corrected by the Minister or hon. Members who are lawyers if I am wrong—is to remain at the negotiating table, albeit without a vote, and to decide whether or not we like the end product in due course. Why have Ministers opted against that specific course of action? Why cannot we go down that route? As to relying on bilateral co-operation outside the justice and home affairs regime, can we seriously say that the prospect of negotiating bilateral treaties has harmed public protection, national security or law enforcement for the Swiss or the Norwegians?
+
+Beyond these practical problems, there is a constitutional dimension. The new directive would replace the 2008 EU rules on data protection. These are part of the 130 measures in respect of which we need to decide whether to repatriate or to accept the full jurisdiction of the European Court from 2014. Any laws amended or replaced are not subject to that block opt-out, so by opting out of this measure, we will prevent the UK from opting out of this area of EU policy making later. My hon. Friend the Member for Camborne and Redruth (George Eustice) made that point eloquently and powerfully.
+
+As with most international law enforcement co-operation, effective data sharing is achieved through practical co-operation between national authorities, not through top-down bureaucratic schemes. We do not have a proper analysis of the cost of the directive, and we do not have a proper assessment of the operational impact. The impact assessment has not even been signed off by a Minister. In those circumstances, frankly, it would be irresponsible to commit the UK to this measure without further detail and without further scrutiny. I cannot support the motion.
+
+21:01:00
+
+Tom Brake (Carshalton and Wallington) (LD)
+A number of Members have commented on the process, and it will be appropriate for the Minister to respond to them. I suspect that I am not in agreement on European issues with most of those who have spoken so far, but we can agree that European issues need to be discussed   in more depth. In my view, if we had that in-depth debate, some people would reach different conclusions on European matters than they do now.
+
+I welcome the opportunity to discuss the draft directive. I want to highlight the fact that this is about the processing of personal data for the purposes of prevention, investigation, detection or prosecution. I emphasise “investigation” because much of the focus has been on criminals, as has been the case with the Mail Online, but many of the people we are dealing with and much of the data being exchanged are relevant to investigations. People who are being investigated may not, of course, be criminals at all.
+
+The Commission highlights the fact that new technologies require a refresh of some of the standards that are in place. We are also debating communications and how we are going to address the new technologies. The Commission is seeking to achieve greater efficiencies in law enforcement co-operation. We have heard a lot tonight about the cost of this particular proposal, but we have heard a lot less about the cost of trying to negotiate this 27 times over in the European Union. We should bear that in mind, too.
+
+The hon. Member for Vauxhall (Kate Hoey) said—I am not sure whether it was in a speech or an intervention—that this is all very complicated, but I do not think it is. The directive’s content is quite straightforward. It deals with the principles governing personal data processing and the rights of individuals to access their personal data, to rectify or erase them. It talks about obligations on data controllers and data processors and so forth. All that is fairly straightforward.
+
+It is interesting to note that the Mail Online is running a campaign on issues to do with the communications database, which I welcome. It talks about standards and who can have access to and control data, yet for this particular proposal, which in many respects is about the same issue of maintaining standards, it has adopted a different position.
+
+This is about cross-border co-operation on crime. I look forward to the debate that we will have—in fact, it may be a debate times 130—about the different proposals that we as a nation may wish to opt in or out of at some point before the end of 2014. I expect us to debate whether measures such as the European arrest warrant, which I accept could be improved on, are helping to bring to justice rapists, murderers and paedophiles. That is what they are there for and what the police believe they are being effective in doing, and that is what we will debate in the Chamber many times over the next couple of years.
+
+Mark Reckless (Rochester and Strood) (Con)
+So many instruments in the security and home affairs field are being either repealed or amended that it may not be open to us to make the decision about large numbers in 2014, because we will no longer have any ability to make a choice as a nation other than through a referendum on our membership of the European Union.
+
+Tom Brake
+I note what the hon. Gentleman has said. I certainly think that we need to embark on the debate on these measures sooner rather than later because of the potential for Parliament to grind to a halt, which I hope all Members agree would not be in its interests.
+
+The Minister touched on the issue of the directive being a Schengen-building measure. I ask him to reassure me that that is absolutely certain, because I think that there is some uncertainty. I am glad that the Government intend to make it clear that there should be no attempt to impose standards in relation to internal processing.
+
+It has been alleged that the directive might allow criminals to gain access to, or indeed delete, information about themselves. Article 12 of the draft directive states that the right to know the purpose of processing and to whom personal data have been sent can be refused by the police on the grounds that it would obstruct
+
+“official or legal inquiries, investigations or procedures”.
+
+The directive has clearly taken on board the concerns expressed by some Members and parts of the press.
+
+The Government have rightly highlighted concerns about the requirement to act immediately on data security breaches, and I expect them to seek to negotiate on that in the discussions that will take place.
+
+I welcome the position adopted by the Government. I am sure that this is just one of very many similar debates that we shall have over the next 12 or 18 months, which I think will give us an opportunity to highlight many of the positive proposals that have been implemented at EU level to ensure that the police and the judicial system become more effective.
+
+21:08:00
+
+Charlie Elphicke (Dover) (Con)
+I represent what are probably some of the most Eurosceptic electors in the country, but they feel passionately about one issue: the need to ensure that Europe works when it comes to dealing with international crime. We see at first hand the problems of people-trafficking and people-smuggling, particularly the disgraceful exploitation of women who are carted secretly over our border and slipped into such places as Soho.
+
+We see drug running, international organised crime, gun running and all the rest of it—that is, some of the most serious international crimes, on which we absolutely have to have co-operation. I therefore strongly support measures to ensure effective international co-operation. However, we have to ask whether this directive is on the side of international co-operation to tackle crime. Is it on the side of law enforcement, or is it on the side of the villain and protecting the villain’s rights? Is it yet another villain’s charter by proxy, emanating from the European Union?
+
+For me, the balance shows the right intent—that we should co-operate—but what we have from the European Union is the wrong way of going about that. We need to give our law enforcement agencies the strongest possible tools to fight crime and the serious international gangs, and so on. However, I am worried because, having listened to this debate, it seems to me that we do not need to opt in at this stage. From the discussion and debate so far, it seems that we could take part in the negotiations, reserving our position, and decide to opt in later. We have the possibility of co-operating bilaterally. Up to now, we have co-operated quite successfully, and to date we have managed to data-share. Why will that suddenly come to a crashing halt if we have a right of  privacy and a right not to data-share for criminals and villains, whom we should be fighting with all the data at our disposal?
+
+I am concerned about the lack of attention to detail. Let us look at the checklist analysis that has been provided in the Vote Office, which no Minister has signed. It is a basic thing, but no one paid sufficient attention to detail to ensure that it was signed. Let us look at the Order Paper. The first thing we knew, late last night, was that this motion would be on the Order Paper in the form that it is. Why do Ministers not reach out to Back Benchers, to make the case and to win friends and influence people? The one example given by the Minister—the example of the Romanian—seems a stronger argument for reforming the European arrest warrant than for supporting this directive.
+
+My principal concern, and the principal concern that my constituents will have, is this. Of course we should have international co-operation, and of course we should combat international crime, but are our Ministers going to make the case passionately in Europe, on a line-item basis? Are they going to show that attention to detail, when they will not even accept an intervention from Members on their own side, which in my case was going to be helpful? I am concerned that we should be making sure that we are not frit when we put the case in Europe—that we are strong and trenchant, and that we ensure that our European friends focus on the necessity of ensuring that our law-enforcement agencies are sent into battle not with one hand tied behind their back, but with the full support of all European nations to ensure that we deal with the scourge and evils of international crime.
+
+Many workers in my constituency work tirelessly on the front line for the UK Border Agency. Paragraph 30 of the impact assessment says that the UKBA is seriously concerned, because although people would normally be charged a tenner for a data request, under this proposal it will be completely free. That means that people could be bombing them in all the time, at great administrative expense and effort—for the UKBA, in this case. The UKBA receives 22,000 such requests every year. At the moment, the charge of a tenner wards off ever more requests. Indeed, the UKBA says that the charge should be higher, in order to ward off more vexatious requests. Its preference is for
+
+“an increase in the fee limit to above the present £10 level.”
+
+The UKBA is not going to be happy that the Europeans come along and say, “Actually, it should all be free.” We need Ministers to go to Europe to make the case passionately to our European colleagues that we must ensure that we do not give a blank cheque to anyone who wants to be vexatious in order to protect the so-called privacy of potential villains and criminals. We must send our law enforcement agencies into battle with our strong and passionate support, so we can deal with the great evils of international crime.
+
+The one area on which my constituents support the EU is in respect of co-operation, but we must also ensure that our criminal justice services are not under threat of prosecution, as suggested at paragraph 50 of the impact assessment. I am deeply concerned that the overall impact of this will be substantially negative, even if it is difficult to be specific about that. I hope that Ministers will make a strong and passionate case for taking away the bad things in this directive and ensuring  we keep the good things. I urge the Minister not to be frit. Instead, he must be strong and trenchant and win the day.
+
+21:15:00
+
+Mr Blunt
+After that contribution, it is clear that I owe my hon. Friend the Member for Dover (Charlie Elphicke) an apology for not having taken his intervention, not least because he welcomed the Government’s general objectives and the balances we are seeking to strike. However, he did then say that this was another villain’s charter from the EU—an argument that some in the press have also made.
+
+The rights of United Kingdom citizens under our existing laws under the Data Protection Act—their rights to access information and for information to be erased—are pretty much the same as what is being proposed in this directive. The same rights of the authorities not to have to erase data that are important for criminal investigations will also continue to exist in the future.
+
+Let me turn to the important question of process, and address the concerns of my hon. Friend the Member for Stone (Mr Cash), the Chairman of the European Scrutiny Committee. I am perfectly happy to concede that these matters could have been handled better. One of the constraints we have placed on ourselves in the so-called Lidington debates is to bring the measures relating to opt-ins or opt-outs under the Schengen protocol to the House and give Members the opportunity to debate them. My hon. Friend pointed out that there is the small matter of prorogation. The decision on the opt-out must be taken on 14 May. [Interruption.] Well, that is what is in the treaties of the EU. The Government have to decide whether to opt-out by 14 May, and we are also committed to coming to the House and giving Members the opportunity to debate.
+
+The information given to my hon. Friend—which was given within 10 days of the directive being published—made no reference to Schengen. I will examine why that was the case, but I am advised that whether or not the matter fell within Schengen was still under examination at the time. There is also an element of legal opinion as to whether or not the Schengen acquis can be correctly claimed by the Commission when it comes forward with these measures. There is an element of process to be applied, therefore, rather than our just taking at face value Commission statements on regulations and directives and whether measures are compliant with Schengen.
+
+Mr Cash
+When the Minister reads the transcript, he will see that the matter is specifically referred to in the framework decision recitals. I do not think there is any debate about this point, therefore. What I would like to know is whether the Minister for Europe consulted the Minister on this matter; after all, the Lidington debates are based on an assumption in the context of decisions taken by this House in the light of what the Minister himself specified.
+
+Mr Blunt
+No, I did not speak directly to my right hon. Friend the Minister for Europe. Yes, it is in the recitals, but the regulation published by the European Commission in parallel with this also asserts some involvement with Schengen, which we dispute. These issues are not always very straightforward. On the timetable we have placed on ourselves to have this debate in time  for the Government’s decision on the opt-out, which has to be taken, and on parliamentary arrangements, I accept that things could always have been done better—
+
+Mr Nuttall
+rose—
+
+Mr Blunt
+I will not give way, because I want to try to finish with—
+
+21:20:00
+
+One and a half hours having elapsed since the commencement of proceedings on the motion, the Deputy Speaker put the Question (Standing Order No. 16(1)).
+
+Division 538
+24/04/2012 21:20:00
+The House divided:
+Ayes: 267
+Noes: 24
+Question accordingly agreed to.
+
+Resolved,
+
+That this House takes note of European Union Document No. 5833/12 and Addenda 1 and 2, relating to a Draft Directive of the European Parliament and of the Council on the protection of individuals with regard to the processing of personal data by competent authorities for the purposes of prevention, investigation, detection or prosecution of criminal offences or the execution of criminal penalties, and the free movement of such data; and supports the Government’s recommendation not to exercise its right to opt out of this draft Directive under Protocol 19 of the Treaty on the Functioning of the European Union (The Schengen Protocol).
+
+21:32:00
+
+Roberta Blackman-Woods (City of Durham) (Lab)
+On a point of order, Mr Speaker. I would appreciate your ruling on the appropriateness of commencing this important debate on the national planning policy framework with only about half an hour of parliamentary time available. Surely this is shambolic organisation, mirroring the NPPF process itself. Would it be possible to have the debate rescheduled, bearing in mind the commitment given by the Minister in this House on 27 March to have a full parliamentary debate on the subject?
+
+Mr Speaker
+I am grateful to the hon. Lady for her point of order. The time available for this debate was always to be a function of the amount of time taken by earlier proceedings, and therefore what was left at the end. However, as the scheduling of business is a matter for the Government and as the Minister leading the debate is here, and no less a figure than the Deputy Leader of the House is in his place, it is open to, though not obligatory for, either of those distinguished hon. or right hon. Members to respond to the hon. Lady’s point of order, if either wishes to do so.
+
+The Minister of State, Department for Communities and Local Government (Greg Clark)
+Mr Speaker, I am anxious to get on with the debate. I have had some indications from my right hon. and hon. Friends that, although we may commence the debate this evening, it will be possible for us to continue it in the days ahead. I hope that we can make a start and that Members can make their contribution on this very important subject.
+
+Mr Speaker
+I am grateful to the right hon. Gentleman for what he has just said.
+
+We now come to the motion relating to the national planning policy framework, and I shall deny the Minister, who is so eager and enthusiastic, not a moment longer.
+
