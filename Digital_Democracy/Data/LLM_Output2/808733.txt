@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I have reviewed the text file open in your current webpage and here is my response:
+
+Summary - The text file is a transcript of a debate in the UK Parliament on the Finance (No. 2) Bill, which makes changes to the bank levy, a tax on banks' balance sheets. The debate covers the rationale, impact and alternatives of the changes.
+
+For - Voting for the changes means supporting the Government's plan to reduce the scope and rate of the bank levy, and to tax banks' profits instead. The Government argues that this will make UK banks more competitive, reduce risks to the economy, and raise more revenue.
+
+Against - Voting against the changes means opposing the Government's plan and favouring a different approach to taxing banks. The Opposition argues that this will benefit large banks at the expense of smaller ones, weaken regulation, and reduce transparency and accountability.
+
+Decision - Voting for the changes is associated with stimulus and the free market, because it aims to boost the growth and profitability of UK banks, especially those with overseas operations. It also reduces the burden of taxation on banks' balance sheets, which could encourage more lending and investment.
+
+Sentiment - A

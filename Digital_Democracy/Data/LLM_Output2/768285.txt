@@ -1,0 +1,13 @@
+## Bing
+
+Here is my response based on the text file open in your current webpage:
+
+Summary - The text file is a transcript of a debate in the UK Parliament on the Finance Bill, which deals with tax changes. The debate focuses on clause 5, which affects the taxation of termination payments for workers who lose their jobs.
+
+For - Voting for clause 5 means supporting the Government's intention to close a loophole that allows some employers and employees to avoid paying tax and national insurance on payments in lieu of notice. It also means rejecting the amendments that would limit the Treasury's power to change the tax-free threshold or include injured feelings as an exemption.
+
+Against - Voting against clause 5 means opposing the Government's plan to tax more of the termination payments that workers receive when they are made redundant or dismissed. It also means supporting the amendments that would protect the tax-free threshold from being reduced, require a review of the impact on low-income workers, and include injured feelings as an exemption.
+
+Decision - Voting for clause 5 is associated with austerity and regulation, as it increases the tax burden on workers who lose their jobs and gives more power to the Treasury to change the rules. It also rejects the amendments that would provide more relief and protection for workers.
+
+Sentiment - B

@@ -1,0 +1,13 @@
+## Bing
+
+Here is my response based on the text file open in your current webpage:
+
+Summary - The text file is a transcript of a parliamentary debate on the Finance (No. 2) Bill, which contains tax and spending measures proposed by the government. The debate covers topics such as housing, productivity, banking, and tax avoidance.
+
+For - Voting for the bill means supporting the government's fiscal policy, which aims to reduce the deficit, boost investment in infrastructure and innovation, help first-time buyers, improve air quality, and crack down on tax evasion[1].
+
+Against - Voting against the bill means opposing the government's fiscal policy, which is seen as failing to address the challenges of low growth, stagnant wages, rising inequality, underfunded public services, and Brexit uncertainty.
+
+Decision - Voting for the bill is associated with austerity and regulation, as the government is committed to cutting public spending and borrowing, and imposing new taxes and rules on certain sectors such as banking and diesel cars.
+
+Sentiment - B

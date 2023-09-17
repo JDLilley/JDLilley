@@ -1,0 +1,13 @@
+## Bing
+
+Here is my response based on the text file open in your current webpage:
+
+Summary - The text file is a transcript of a debate in the UK Parliament on the Finance Bill, which contains measures to reform the tax rules for non-domiciled individuals and offshore trusts.
+
+For - Voting for the Finance Bill means supporting the Government's proposals to make non-doms pay more tax after 15 years of residence, and to protect existing offshore trusts from new deemed domicile rules.
+
+Against - Voting against the Finance Bill means opposing the Government's proposals as insufficient and unfair, and calling for a review of the effects of the offshore trust exemption and a public register of beneficial owners.
+
+Decision - Voting for the Finance Bill is associated with austerity and regulation, as it aims to increase tax revenues from non-doms and to prevent tax avoidance through offshore trusts.
+
+Sentiment - B

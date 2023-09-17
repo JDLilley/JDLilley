@@ -1,0 +1,13 @@
+## Bing
+
+This is Bing. Here is my response to your request:
+
+Summary - The text file is a transcript of a debate in the UK Parliament on the Finance Bill, which includes a proposal to review the tax rules for non-domiciled individuals and offshore trusts.
+
+For - Voting for the proposal means supporting a review of the effects of the provisions that protect overseas trusts from the new rules on deemed domicile, which are seen as a loophole for tax avoidance by the Labour party[1].
+
+Against - Voting against the proposal means opposing a review of the provisions that protect overseas trusts, which are seen as a pragmatic and fair way to attract wealthy and entrepreneurial individuals to the UK by the Conservative party.
+
+Decision - Voting for the proposal is associated with austerity and regulation, as it implies a desire to increase tax revenues from non-doms and offshore trusts and to reduce tax avoidance opportunities.
+
+Sentiment - B

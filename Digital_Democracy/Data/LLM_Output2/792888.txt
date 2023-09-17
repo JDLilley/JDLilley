@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I can help you review the text file open in your current webpage. Here is my response:
+
+Summary - The text file is a transcript of a parliamentary debate on the European Union (Withdrawal) Bill, which aims to transpose EU law into UK law after Brexit. The debate covers various amendments and new clauses proposed by MPs, mainly concerning the protection of human rights, equality and environmental principles.
+
+For - Voting 'Ayes' in the division on New Clause 79 means supporting the proposal to ensure that Parliament is informed of changes in EU and EEA provisions that might have amended UK laws around family-friendly employment rights and gender equality and their potential impact, as well as committing the Government to considering their implementation[1]. This is to ensure that rights of workers and employees with caring responsibilities, and women's rights, are no less favourable than they would have been had the UK remained a member of the EU or EEA beyond exit day[2].
+
+Against - Voting 'Noes' in the division on New Clause 79 means opposing the proposal to require the Government to report and consider changes in EU and EEA law related to family-friendly employment rights and gender equality[1]. This could be based on the arguments that the UK can make its own decisions on these matters without being influenced by the EU or EEA, that the proposal would create unnecessary bureaucracy and delay, or that the proposal would undermine the sovereignty of Parliament.
+
+Decision - Voting 'Aye' in the division on New Clause 79 is associated with globalisation and strengthening ties with the European Union and other Foreign Affairs, because it implies a willingness to keep up with the standards and developments of other countries and regions, especially those that are close neighbours and trading partners. It also shows a commitment to promoting human rights and equality across borders, and a recognition of the benefits of co-operation and dialogue with other nations.
+
+Sentiment - A

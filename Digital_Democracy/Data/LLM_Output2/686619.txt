@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I have reviewed the text file open in your current webpage and I will try to answer your questions as best as I can. Here is my response:
+
+Summary - The text file is a transcript of a debate in the UK Parliament on the European Union (Notification of Withdrawal) Bill, which would allow the Prime Minister to trigger Article 50 and start the process of leaving the EU. The debate covers various amendments and new clauses proposed by different MPs on various aspects of the withdrawal negotiations.
+
+For - Voting 'Ayes' in the division: Committee of the whole House Amdt 86 means supporting the amendment that would require the Government to negotiate to continue the UK's participation in the European Aviation Safety Agency (EASA) on the same basis as any other member state of the EU. The supporters of this amendment argue that EASA provides benefits for the UK aviation industry, such as common safety standards, mutual recognition of certificates, and access to EU markets.
+
+Against - Voting 'Noes' in the division: Committee of the whole House Amdt 86 means opposing the amendment that would require the Government to negotiate to continue the UK's participation in the European Aviation Safety Agency (EASA) on the same basis as any other member state of the EU. The opponents of this amendment argue that EASA imposes burdensome regulations on the UK aviation industry, such as fees, audits, and inspections, and that the UK should seek a more flexible arrangement with EASA or establish its own national aviation authority.
+
+Decision - Voting 'Aye' in the division: Committee of the whole House Amdt 86 is associated with globalisation and strengthening ties with the European Union and other foreign affairs, because it implies that the UK values its cooperation and integration with other European countries in the field of aviation safety and wants to maintain its influence and involvement in EASA.
+
+Sentiment - A

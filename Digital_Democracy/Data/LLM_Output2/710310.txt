@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I have reviewed the text file open in your current webpage and here is my response:
+
+Summary - The text file is a transcript of a debate in the UK House of Commons on the European Union (Notification of Withdrawal) Bill, which would allow the Prime Minister to trigger Article 50 and start the Brexit process. The debate focuses on two amendments passed by the House of Lords: one on the rights of EU citizens living in the UK, and one on the parliamentary vote on the final deal.
+
+For - Voting 'Ayes' in the division on Lords Amendment 2 Motion to disagree means rejecting the amendment that would give Parliament a meaningful vote on the final deal. It means supporting the Government's position that it should have the freedom to negotiate and walk away from a bad deal without being constrained by Parliament[1].
+
+Against - Voting 'Noes' in the division on Lords Amendment 2 Motion to disagree means accepting the amendment that would give Parliament a meaningful vote on the final deal. It means opposing the Government's position that it should have the freedom to negotiate and walk away from a bad deal without being constrained by Parliament.
+
+Decision - Voting 'Aye' in the division on Lords Amendment 2 Motion to disagree is associated with protectionism and independence from the European Union and other Foreign Affairs. It implies that the UK should prioritise its own interests and sovereignty over maintaining close ties and co-operation with the EU and other countries.
+
+Sentiment - B

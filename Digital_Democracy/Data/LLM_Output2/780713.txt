@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I have reviewed the text file open in your current webpage and here is my response:
+
+Summary - The text file is a transcript of a debate in the UK Parliament on the Finance Bill, which deals with tax reforms. The main topic is the status and treatment of non-domiciled individuals and offshore trusts.
+
+For - Voting for the amendment 1 means supporting a review of the effects of the provisions for protecting overseas trusts from the new rules on deemed domicile[1]. The amendment is proposed by the Labour party, which argues that the exemption for offshore trusts undermines the fairness and effectiveness of the tax reforms.
+
+Against - Voting against the amendment 1 means rejecting a review of the effects of the provisions for protecting overseas trusts from the new rules on deemed domicile[1]. The amendment is opposed by the Conservative party, which argues that the tax reforms are balanced and progressive, and that the review is unnecessary and costly.
+
+Decision - Voting for the amendment 1 is associated with austerity and regulation, as it implies a stricter scrutiny and potential removal of the tax benefits for non-domiciled individuals and offshore trusts. Voting for the amendment 1 also reflects a distrust of the Government's record and claims on tackling tax avoidance and evasion.
+
+Sentiment - B

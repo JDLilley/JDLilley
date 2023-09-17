@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I can help you review the text file open in your current webpage. Here is my response based on your request:
+
+Summary - The text file is a transcript of a parliamentary debate on the European Union (Withdrawal) Bill, which aims to transfer EU law into UK law after Brexit. The debate covers various amendments and clauses related to the powers of Ministers, the role of Parliament, and the protection of rights and standards.
+
+For - Voting 'Ayes' in the division on Amendment 158 means supporting the amendment, which would require the Government to publish an assessment of the impact of Brexit on the UK's devolution arrangements. The amendment was proposed by members of the Scottish National Party (SNP), who argued that Brexit would undermine the devolved powers and interests of Scotland, Wales and Northern Ireland.
+
+Against - Voting 'Noes' in the division on Amendment 158 means opposing the amendment, which would require the Government to publish an assessment of the impact of Brexit on the UK's devolution arrangements. The amendment was rejected by members of the Conservative Party, who argued that Brexit would respect and strengthen the devolved powers and interests of Scotland, Wales and Northern Ireland.
+
+Decision - Voting 'Aye' in the division on Amendment 158 is associated with globalisation and strengthening ties with the European Union and other foreign affairs, because it implies a concern for maintaining the existing cooperation and coordination between the UK and its devolved nations, as well as between the UK and the EU.
+
+Sentiment - A

@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I can help you review the text file open in your current webpage. Here is my response based on your request:
+
+Summary - The text file is a transcript of a parliamentary debate on the European Union (Withdrawal) Bill, which aims to transfer EU law into UK law after Brexit. The debate covers various amendments and issues related to the Bill, such as environmental protection, human rights, devolution, and parliamentary scrutiny.
+
+For - Voting 'Ayes' in the division: Committee of the whole House Amendment 25 means supporting the amendment, which would prevent the Government from using delegated powers under Clause 7 to reduce rights or protections[1]. The amendment is proposed by Labour MPs who argue that the Bill gives Ministers too much power to change laws without proper oversight.
+
+Against - Voting 'Noes' in the division: Committee of the whole House Amendment 25 means opposing the amendment, which would limit the Government's ability to use delegated powers under Clause 7 to correct deficiencies in retained EU law. The amendment is opposed by Conservative MPs who argue that the Bill is necessary to ensure legal certainty and continuity after Brexit.
+
+Decision - Voting 'Aye' in the division: Committee of the whole House Amendment 25 is associated with globalisation and strengthening ties with the European Union and other Foreign Affairs, because it would preserve the standards and rights that the UK has adopted as a member of the EU and that facilitate its cooperation with other countries.
+
+Sentiment - A

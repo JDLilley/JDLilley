@@ -1,0 +1,11 @@
+## Bing
+
+Summary - The text file is a transcript of a parliamentary debate on the Finance Bill, which contains measures to raise taxes, reduce avoidance, and support businesses and workers.
+
+For - Voting for the Finance Bill means supporting the government's economic policy of reducing the deficit, increasing fairness, and encouraging growth and productivity.
+
+Against - Voting against the Finance Bill means opposing the government's economic policy of cutting public spending, raising taxes on individuals and small businesses, and failing to address inequality and poverty.
+
+Decision - Voting for the Finance Bill is associated with austerity and regulation, as the government is trying to balance the budget by increasing taxes and reducing spending, and also introducing more rules to prevent tax avoidance and evasion.
+
+Sentiment - B

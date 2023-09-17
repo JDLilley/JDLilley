@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I can help you review the text file open in your current webpage. Here is my response:
+
+Summary - The text file is a transcript of a parliamentary debate on the Commonwealth Development Corporation Bill, which aims to increase the limit on government assistance to the CDC, a development finance institution that invests in private sector projects in poor countries.
+
+For - Voting 'Ayes' in the division: Report Stage New Clause 1 means supporting a condition that any proposal to increase the limit by secondary legislation must be accompanied by an analysis of the CDC's use of separate financial centres, also known as tax havens, where countries do not have robust regulatory environments[1].
+
+Against - Voting 'Noes' in the division: Report Stage New Clause 1 means opposing such a condition and trusting the CDC's judgement on using separate financial centres to ensure legal certainty and reduce risk for investors, without compromising on transparency and accountability.
+
+Decision - Voting 'Aye' in the division: Report Stage New Clause 1 is associated with globalisation and strengthening ties with the European Union and other foreign affairs, because it implies a concern for the tax justice and development impact of CDC's investments, as well as a willingness to align with international standards and norms on financial transparency.
+
+Sentiment - A

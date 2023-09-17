@@ -1,0 +1,11 @@
+## Bing
+
+Summary - The text file is a transcript of a debate in the UK Parliament on the Finance (No. 2) Bill, which contains tax and spending measures. The debate focuses on two new clauses that propose equality impact analyses of the Bill's provisions.
+
+For - Voting for the new clauses means supporting the idea that the Treasury should review and publish the effects of the Bill on different groups of people, such as women, ethnic minorities, disabled people and low-income households.
+
+Against - Voting against the new clauses means opposing the idea that the Treasury should conduct and disclose such equality impact analyses. It may imply that the Government believes that the Bill is fair and balanced, or that such analyses are impractical or unnecessary.
+
+Decision - Voting for the new clauses is associated with austerity and regulation, because it implies that the Government should be more accountable and transparent about how its fiscal policies affect different segments of society, and that it should address any inequalities or injustices that may arise from them.
+
+Sentiment - B

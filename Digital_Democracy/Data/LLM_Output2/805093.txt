@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I can help you review the text file open in your current webpage. Here is my response based on your request:
+
+Summary - The text file is a transcript of a parliamentary debate on the European Union (Withdrawal) Bill, which aims to transfer EU law into UK law after Brexit. The debate covers various amendments and new clauses proposed by MPs to limit or modify the powers of Ministers to make regulations under the Bill.
+
+For - Voting 'Ayes' in the division: Committee of the whole House Amendment 49 means supporting the amendment, which would place a general provision on the face of the Bill that the delegated powers granted by the Bill should be used only so far as necessary. This would reduce the wide discretion for using delegated legislation and limit it to those aspects which are unavoidable.
+
+Against - Voting 'Noes' in the division: Committee of the whole House Amendment 49 means opposing the amendment, which would place a general provision on the face of the Bill that the delegated powers granted by the Bill should be used only so far as necessary. This would restrict the flexibility and adaptability of Ministers to make regulations under the Bill to deal with any deficiencies or changes arising from withdrawal from the EU.
+
+Decision - Voting 'Aye' in the division: Committee of the whole House Amendment 49 is associated with protectionism and independence from the European Union and other Foreign Affairs, because it would limit the scope and extent of delegated legislation that could be used to align UK law with EU law or international standards after Brexit.
+
+Sentiment - B

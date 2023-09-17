@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I can help you review the text file open in your current webpage. Here is my response based on your request:
+
+Summary - The text file is a transcript of a debate in the UK Parliament on the European Union (Withdrawal) Bill, which aims to transfer EU law into UK law after Brexit. The debate covers various amendments and issues related to the Bill, such as transparency, judicial notice, and impact assessments.
+
+For - Voting 'Ayes' in the division on amendments 381 and 399 means supporting the proposal to require the Government to publish a report on the effect of Brexit on human rights and equality law in the UK, and to ensure that no changes are made to those laws without parliamentary approval.
+
+Against - Voting 'Noes' in the division on amendments 381 and 399 means opposing the proposal to require the Government to publish a report on the effect of Brexit on human rights and equality law in the UK, and to allow the Government to make changes to those laws by secondary legislation without parliamentary approval.
+
+Decision - Voting 'Aye' in the division on amendments 381 and 399 is associated with globalisation and strengthening ties with the European Union and other foreign affairs, because it implies a commitment to uphold the standards of human rights and equality law that are shared by many countries in the world, and to respect the role of Parliament as a representative of the people in making decisions on those matters.
+
+Sentiment - A

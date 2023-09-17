@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I can help you review the text file open in your current webpage. Here is my response:
+
+Summary - The text file is a transcript of a debate in the UK Parliament on the Policing and Crime Bill, which covers various issues related to law enforcement and criminal justice. The debate focuses on several amendments proposed by the House of Lords and the Government's response to them.
+
+For - Voting 'Ayes' in the division on Lords amendment 96 means supporting the principle of parity of legal funding for bereaved families at inquests involving the police[1][2]. It means challenging the unequal and unfair system that allows public money to be used to protect public institutions rather than to discover the truth[3].
+
+Against - Voting 'Noes' in the division on Lords amendment 96 means opposing the principle of parity of legal funding for bereaved families at inquests involving the police[1]. It means waiting for the report from Bishop James Jones on the experiences of the Hillsborough families before considering any changes to the current system[4]. It also means taking into account the potential significant financial implications of the amendment[5].
+
+Decision - Voting 'Aye' in the division on Lords amendment 96 is associated with freedom & autonomy, limiting police powers & softer punishments, limiting Crime & Justice. It is based on the idea that bereaved families should have equal access to justice and that public funds should not be used to cover up wrongdoing by the police or other public bodies.
+
+Sentiment - B

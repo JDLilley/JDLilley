@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I can help you review the text file open in your current webpage. Here is my response based on your request:
+
+Summary - The text file is a transcript of a debate in the UK Parliament on the police funding settlement for 2017-18. The Minister for Policing and the Fire Service defends the Government's proposal to maintain stable and fair funding for police forces, while the Opposition criticises the cuts and the lack of a new funding formula.
+
+For - Voting 'Ayes' in the division means supporting the Government's motion to approve the police grant report. This implies agreeing that the police funding settlement provides enough resources for the police to reform, transform and respond to changing threats, and that local precept income can compensate for any reductions in central grants.
+
+Against - Voting 'Noes' in the division means opposing the Government's motion to approve the police grant report. This implies disagreeing that the police funding settlement is fair and stable, and that it puts frontline policing at risk. It also implies demanding a new funding formula that reflects the needs and demands of different areas[1].
+
+Decision - Voting 'Aye' in the division is associated with greater police powers, harsher punishments, strengthening Crime & Justice. This is because it supports the Government's view that the police funding settlement enables essential policing reform and transformation, and that it invests in national programmes such as counter-terrorism, firearms and serious and organised crime[2].
+
+Sentiment - A

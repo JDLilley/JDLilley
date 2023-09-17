@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I have reviewed the text file open in your current webpage and I will try to answer your questions as best as I can.
+
+Summary - The text file is a transcript of a parliamentary debate on the European Union (Withdrawal) Bill, which aims to transfer EU law into UK law after Brexit. The debate covers various amendments and clauses related to human rights, equality, data protection, and the role of the courts.
+
+For - Voting 'Ayes' in the division: Committee of the whole House Amdt 46 means supporting the removal of the exclusion of the Charter of Fundamental Rights from retained EU law[1]. This would allow the Charter to continue to apply domestically in the interpretation and application of retained EU law[2].
+
+Against - Voting 'Noes' in the division: Committee of the whole House Amdt 46 means opposing the removal of the exclusion of the Charter of Fundamental Rights from retained EU law. This would prevent the Charter from having any legal effect in the UK after Brexit.
+
+Decision - Voting 'Aye' in the division: Committee of the whole House Amdt 46 is associated with globalisation and strengthening ties with the European Union and other foreign affairs. This is because retaining the Charter would ensure that the UK maintains a high standard of human rights protection that is consistent with the EU and other international obligations.
+
+Sentiment - A

@@ -1,0 +1,11 @@
+## Bing
+
+Summary - The text file is a transcript of a parliamentary debate on the Finance (No. 2) Bill 2023, which covers various tax and spending measures. The debate focuses on the proposed new clauses 6 and 7, which require equality impact analyses of the Bill's provisions.
+
+For - Voting for new clause 8 means supporting an assessment of the costs and benefits of extending R&D tax relief to cloud computing services. This could encourage more innovation and investment in the digital sector and benefit businesses that use cloud services.
+
+Against - Voting against new clause 8 means opposing an assessment of the costs and benefits of extending R&D tax relief to cloud computing services. This could reflect concerns about the fiscal impact, the effectiveness or the fairness of such a policy.
+
+Decision - Voting for new clause 8 is associated with stimulus and the free market, as it implies a preference for lower taxes and less regulation for businesses that engage in R&D activities and use cloud computing services.
+
+Sentiment - A

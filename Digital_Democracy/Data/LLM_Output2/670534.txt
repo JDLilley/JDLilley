@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I have reviewed the text file open in your current webpage and I will try to answer your questions as best as I can.
+
+Summary - The text file is a transcript of a debate in the UK Parliament on the Policing and Crime Bill, which covers various issues related to law enforcement and criminal justice. The debate focuses on several amendments proposed by the House of Lords and the Government's response to them.
+
+For - Voting 'Ayes' in the division on Lords Amendment 136 Motion to disagree means rejecting the amendment, which would create a statutory duty on elected police leadership to produce an area victims plan depending on local needs[1]. The Government argues that this amendment is unnecessary, vague and duplicative, and that they are already looking at ways to strengthen victims' rights[2].
+
+Against - Voting 'Noes' in the division on Lords Amendment 136 Motion to disagree means accepting the amendment, which would improve the way the criminal justice system interacts with victims of crime. The amendment is based on the work of Keir Starmer, a Labour MP and former Director of Public Prosecutions. The amendment would also enact the Conservative manifesto commitment to introduce a victims' bill of rights[3].
+
+Decision - Voting 'Aye' in the division on Lords Amendment 136 Motion to disagree is associated with limiting Crime & Justice, as it would oppose a measure that aims to enhance the rights and entitlements of victims of crime. It would also go against the promise made by the Conservative party in their manifesto.
+
+Sentiment - B

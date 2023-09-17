@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I can help you review the text file open in your current webpage. Here is my response based on your request:
+
+Summary - The text file is a transcript of a debate in the UK Parliament on the European Union (Withdrawal) Bill, which aims to transfer EU law into UK law after Brexit. The debate covers various amendments and clauses related to the publication, interpretation and impact of retained EU law.
+
+For - Voting 'Ayes' in the division on New Clause 13 means supporting the amendment that would require the Government to publish a report on the effect of Brexit on the UK's devolution settlements, and to consult the devolved Administrations before making any changes to their powers or competences.
+
+Against - Voting 'Noes' in the division on New Clause 13 means opposing the amendment that would require the Government to publish a report on the effect of Brexit on the UK's devolution settlements, and to consult the devolved Administrations before making any changes to their powers or competences.
+
+Decision - Voting 'Aye' in the division on New Clause 13 is associated with globalisation and strengthening ties with the European Union and other Foreign Affairs, because it shows respect for the different nations and regions of the UK, and their interests and views on Brexit. It also recognises the importance of maintaining a coherent and co-operative approach to devolution within the UK and with the EU.
+
+Sentiment - A

@@ -1,0 +1,13 @@
+## Bing
+
+Here is my response based on the text file open in your current webpage:
+
+Summary - The text file is a transcript of a debate in the UK Parliament on the Finance Bill, which deals with tax changes. The debate focuses on clause 5, which affects termination payments for workers who lose their jobs.
+
+For - Voting for clause 5 means supporting the Government's intention to prevent tax avoidance and abuse by some employers and employees who use termination payments as a way to reduce their tax liabilities. It also means accepting the Government's assurance that the £30,000 tax-free threshold will not be lowered.
+
+Against - Voting against clause 5 means opposing the Government's plan to tax more of the termination payments that workers receive when they lose their jobs[1]. It also means challenging the Government's power to change the definition of basic pay and injury for the purpose of calculating termination payments[2].
+
+Decision - Voting for clause 5 is associated with austerity and regulation, as it increases the tax burden on workers who lose their jobs and gives the Government more control over how termination payments are treated. It also reduces the scope for workers to claim compensation for injury or discrimination.
+
+Sentiment - B

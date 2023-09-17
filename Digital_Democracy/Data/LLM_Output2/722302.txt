@@ -1,0 +1,13 @@
+## Bing
+
+Thank you for your request. Here is my response based on the text file open in your current webpage:
+
+Summary - The text file is a transcript of a debate in the UK Parliament on the Technical and Further Education Bill, which aims to improve the quality and accessibility of technical education and apprenticeships. The debate focuses on two amendments proposed by the House of Lords, one on financial support for apprentices and care leavers, and the other on careers guidance in further education colleges.
+
+For - Voting 'Ayes' in the division: Lords Amendment 1 Motion to disagree means rejecting the amendment that would extend child benefit and bursary to families and care leavers of apprentices. The arguments for this are that apprenticeships are jobs that offer high-quality training and decent wages, and that the amendment would cost more than £200 million per year.
+
+Against - Voting 'Noes' in the division: Lords Amendment 1 Motion to disagree means accepting the amendment that would extend child benefit and bursary to families and care leavers of apprentices. The arguments against this are that apprenticeships are not treated equally as other forms of education and training, and that the amendment would remove financial barriers and disincentives for young people, especially those from disadvantaged backgrounds, to pursue apprenticeships[1].
+
+Decision - Voting 'Aye' in the division: Lords Amendment 1 Motion to disagree is associated with limiting Education & Learning, because it denies financial support to a group of learners who may face challenges and difficulties in accessing and completing apprenticeships. It also sends a signal that apprenticeships are not valued as much as other educational pathways, which may discourage young people from choosing them.
+
+Sentiment - B

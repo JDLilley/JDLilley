@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I can help you review the text file open in your current webpage. Here is my response based on your request:
+
+Summary - The text file is a transcript of a parliamentary debate on the European Union (Withdrawal) Bill, which aims to transfer EU law into UK law after Brexit. The debate covers various amendments and clauses related to human rights, data protection, environmental law, and the role of the courts.
+
+For - Voting 'Ayes' in the division: Committee of the whole House Amdt 336 means supporting the amendment that would retain the existing principles of EU law within domestic law whether they originate in the case law of the European Court, the EU treaties, direct EU legislation or EU directives. The freeze date would be at the end of any transitional arrangements[1].
+
+Against - Voting 'Noes' in the division: Committee of the whole House Amdt 336 means opposing the amendment that would retain the existing principles of EU law within domestic law. This implies that the UK should have full sovereignty over its own laws and not be bound by any EU principles or rulings after Brexit.
+
+Decision - Voting 'Aye' in the division: Committee of the whole House Amdt 336 is associated with globalisation and strengthening ties with the European Union and other foreign affairs. This is because retaining the existing principles of EU law would ensure consistency and compatibility with the EU legal system and facilitate cooperation and trade with other countries that follow similar standards.
+
+Sentiment - A
