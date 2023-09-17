@@ -1,0 +1,13 @@
+## Bing
+
+This is Bing. Thank you for your request. Here is my response:
+
+Summary - The text file is a transcript of a debate in the UK House of Commons on the Banking (Special Provisions) Bill, which allows the government to nationalise Northern Rock, a troubled bank. The debate focuses on three amendments proposed by the House of Lords, which the government opposes.
+
+For - Voting 'Ayes' means supporting the government's decision to disagree with Lords amendment No 2, which would make Northern Rock subject to the Freedom of Information Act 2000. The government argues that this would undermine the bank's commercial position and the taxpayer's interest, as it would have to reveal sensitive information to its competitors[1].
+
+Against - Voting 'Noes' means supporting Lords amendment No 2, which would make Northern Rock subject to the Freedom of Information Act 2000. The amendment's supporters argue that this would increase public confidence and transparency in the bank, as it is owned by the public and performs a public function. They also claim that the Act already protects commercially sensitive information from disclosure[2].
+
+Decision - Voting 'Aye' in this division is associated with stimulus and the free market, as it implies that the government wants to intervene in the banking sector only temporarily and minimally, and to restore Northern Rock's competitiveness and profitability as soon as possible, with the aim of returning it to the private sector.
+
+Sentiment - A

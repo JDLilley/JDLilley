@@ -1,0 +1,11 @@
+## Bing
+
+Summary - The text file is a transcript of a debate in the UK Parliament about the issue of national insurance numbers and illegal immigrants. The opposition accuses the government of incompetence and laxity in managing the system, while the government defends its record and policies.
+
+For - Voting 'Ayes' in the division means supporting the opposition's motion, which expresses concern about the government's failure to prevent illegal immigrants from obtaining national insurance numbers[1]. It implies a criticism of the government's immigration and employment policies, and a demand for more checks and controls.
+
+Against - Voting 'Noes' in the division means rejecting the opposition's motion, and backing the government's amendment, which welcomes the new measures that the government has introduced to reduce illegal working by foreign nationals. It implies a confidence in the government's ability to manage the system and protect British workers.
+
+Decision - Voting 'Aye' in the division is not directly associated with either greater or lower spending on welfare and social housing, as the motion does not address those issues explicitly. However, it could be argued that voting 'Aye' reflects a concern for the impact of immigration on public services and social cohesion, which could imply a preference for more investment in welfare and social housing.
+
+Sentiment - C

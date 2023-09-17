@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I can help you review the text file open in your current webpage. Here is my response based on your request:
+
+Summary - The text file is a transcript of a debate in the UK House of Commons on the Banking (Special Provisions) Bill in 2023. The bill aims to nationalise Northern Rock, a troubled bank, and give the government wide powers to intervene in the banking sector. The debate focuses on three amendments proposed by the House of Lords, which the government opposes.
+
+For - Voting 'Ayes' in the division means supporting the government's rejection of Lords amendment No. 1, which would require an independent audit of Northern Rock's assets and liabilities within three months. The government argues that such an audit is unnecessary, as Northern Rock's annual accounts will be published soon and will be subject to normal auditing standards. The government also claims that an audit by the Bank of England would not be appropriate, as it is not a professional auditor[1].
+
+Against - Voting 'Noes' in the division means supporting Lords amendment No. 1, which would require an independent audit of Northern Rock's assets and liabilities within three months. The opposition argues that such an audit is essential, as the public are being asked to buy a pig in a poke without knowing the true value of Northern Rock's loan book. The opposition also raises concerns about the role of Granite, a special purpose vehicle that holds some of Northern Rock's best assets and may pose a risk to its solvency.
+
+Decision - Voting 'Aye' in the division is associated with stimulus and the free market, as it implies trusting the government's intervention in the banking sector and its decision to nationalise Northern Rock without further scrutiny. It also implies accepting the government's view that Northern Rock should operate on a commercial basis and compete with other banks, without revealing commercially sensitive information.
+
+Sentiment - A

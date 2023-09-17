@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I have reviewed the text file open in your current webpage and here is my response:
+
+Summary - The text file is a transcript of a debate in the UK Parliament on the European Union (Amendment) Bill, which aimed to ratify the Treaty of Lisbon. The debate focused on the implications of changing the terminology from European Communities to European Union.
+
+For - Voting 'Ayes' in the division means supporting the amendment proposed by Mr. Heathcoat-Amory, which would require any changes of terminology or numbering arising out of the Treaty of Lisbon to be approved by both Houses of Parliament. This would enhance parliamentary scrutiny and sovereignty over EU matters.
+
+Against - Voting 'Noes' in the division means opposing the amendment and accepting the Government's proposal to allow the Secretary of State or the Treasury to make changes of terminology or numbering by statutory instrument, subject to the negative resolution procedure. This would simplify and expedite the process of implementing the Treaty of Lisbon.
+
+Decision - Voting 'Aye' in the division is associated with protectionism and independence from the European Union and other foreign affairs, as it reflects a distrust of the EU institutions and a desire to retain national control over EU legislation. It also implies a rejection of the Treaty of Lisbon, which would deepen EU integration and cooperation.
+
+Sentiment - B

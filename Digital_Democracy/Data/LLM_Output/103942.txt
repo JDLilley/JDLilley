@@ -1,0 +1,13 @@
+## Bing
+
+Thank you for your request. Here is my response based on the text file open in your current webpage:
+
+Summary - The text file is a transcript of a parliamentary debate on a resolution to authorize fees for a new health adjudication body. The resolution is part of the Health and Social Care Bill, which aims to reform the regulation and quality of health and social care services.
+
+For - Voting 'Ayes' means supporting the resolution and the creation of the Office of the Health Professions Adjudicator (OHPA). The OHPA will take over the adjudication of fitness to practise cases from the General Medical Council (GMC) and the General Optical Council (GOC), making the process more independent and transparent[1].
+
+Against - Voting 'Noes' means opposing the resolution and the establishment of the OHPA. The OHPA will impose additional fees on the GMC and the GOC, which will be passed on to their members. The OHPA will also lack accountability and consultation with the professions that it regulates.
+
+Decision - Voting 'Aye' in this division is associated with investment in public health and improving standards of care, in the context of Health & Healthcare. The OHPA is intended to enhance public confidence and trust in the health professions by ensuring that fitness to practise cases are handled fairly and impartially. The OHPA is also a response to the recommendations of the Shipman inquiry, which exposed serious flaws in the current system of adjudication.
+
+Sentiment - A

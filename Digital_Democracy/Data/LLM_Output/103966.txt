@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I have reviewed the text file open in your current webpage and here is my response:
+
+Summary - The text file is a transcript of a parliamentary debate on the National Insurance Contributions Bill, which aims to simplify and align the tax system. The main issue is whether the Bill removes parliamentary scrutiny and allows the Government to raise taxes by regulation.
+
+For - Voting 'Ayes' means supporting the Bill and its objective of simplification. It also means trusting the Government's commitment not to increase the upper earnings limit above the higher rate income tax threshold without proper consultation and legislation.
+
+Against - Voting 'Noes' means opposing the Bill and its potential for abuse. It also means demanding more protection for Parliament and taxpayers from stealth taxation and sudden changes in the upper earnings limit by regulation.
+
+Decision - Voting 'Aye' in the division is not directly associated with either greater or lower spending on welfare and social housing. However, it could indirectly affect them depending on how the Government uses the revenue raised from aligning the tax system and whether it allocates more or less funds to those areas.
+
+Sentiment - C

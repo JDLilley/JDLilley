@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I can help you review the text file open in your current webpage. Here is my response based on your request:
+
+Summary - The text file is a transcript of a debate in the UK Parliament on the economic and social impacts of repossessions and the housing market. The speakers include members of different political parties and the Treasury Ministers.
+
+For - Voting 'Ayes' in the division means supporting the amendment proposed by the Liberal Democrats, which criticises the Government for failing to prevent a housing crisis and calls for measures to stop mass repossessions, change the Bank of England's mandate, and improve banking regulation.
+
+Against - Voting 'Noes' in the division means rejecting the amendment proposed by the Liberal Democrats, and backing the Government's motion, which defends its record on managing the economy and providing affordable housing, and outlines its plans to increase supply, help first-time buyers, and reform the planning system.
+
+Decision - Voting 'Aye' in the division is associated with greater spending on and provision of welfare and social housing, as the amendment advocates for more intervention and support for vulnerable households facing repossessions and difficulties in accessing decent homes.
+
+Sentiment - A

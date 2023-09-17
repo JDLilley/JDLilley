@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I can help you review the text file open in your current webpage. Here is my response based on your request:
+
+Summary - The text file is a transcript of a parliamentary debate on the European Union (Amendment) Bill, which seeks to ratify the Lisbon Treaty. The debate covers various aspects of the treaty, such as its impact on sovereignty, democracy, security, and trade. The main division is on whether to hold a referendum on the treaty or not.
+
+For - Voting 'Ayes' in the division means supporting the clause that would require a referendum on the Lisbon Treaty. The arguments for this position are that the treaty is a significant constitutional change that affects the rights and powers of the British people and Parliament, and that the government has broken its promise to hold a referendum on the previous EU Constitution, which was largely incorporated into the treaty.
+
+Against - Voting 'Noes' in the division means opposing the clause that would require a referendum on the Lisbon Treaty. The arguments against this position are that the treaty is not a constitutional change but a reform of the existing EU treaties, which have already been approved by Parliament, and that holding a referendum would be costly, divisive, and unnecessary, as the treaty has been ratified by most other EU member states.
+
+Decision - Voting 'Aye' in the division is associated with protectionism and independence from the European Union and other foreign affairs. This is because it implies a distrust of the EU institutions and policies, and a desire to preserve or reclaim national sovereignty and control over domestic matters. It also suggests a preference for bilateral or multilateral agreements over supranational integration.
+
+Sentiment - B

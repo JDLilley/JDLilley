@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I can help you review the text file open in your current webpage. Here is my response based on your request:
+
+Summary - The text file is a transcript of a debate in the UK Parliament on the European Union (Amendment) Bill, which aimed to ratify the Treaty of Lisbon. The debate focused on the implications of changing the terminology from European Communities to European Union, and the powers granted to the Government to amend existing UK laws.
+
+For - Voting 'Ayes' in the division means supporting the clause as part of the Bill. It means accepting that the Treaty of Lisbon is not a constitutional treaty, but a reform treaty that simplifies and clarifies the EU's legal framework. It also means trusting the Government to make necessary changes to UK legislation without requiring parliamentary approval for each amendment.
+
+Against - Voting 'Noes' in the division means opposing the clause as part of the Bill. It means rejecting that the Treaty of Lisbon is different from the failed European Constitution, which was promised a referendum by the Government. It also means challenging the Government's power to amend UK legislation without proper parliamentary scrutiny and oversight.
+
+Decision - Voting 'Aye' in the division is associated with globalisation and strengthening ties with the European Union and other foreign affairs. It shows a willingness to embrace the EU's integration and co-operation in various policy areas, such as energy, justice, security, and foreign policy. It also shows a confidence in the Government's ability to represent and protect the UK's interests within the EU.
+
+Sentiment - A

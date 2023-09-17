@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I have reviewed the text file open in your current webpage and I will try to answer your questions as best as I can.
+
+Summary - The text file is a transcript of a debate in the UK Parliament on the European Union (Amendment) Bill, which aimed to ratify the Lisbon Treaty. The debate focused on the implications of the treaty for national sovereignty, parliamentary scrutiny, and animal welfare.
+
+For - Voting 'Ayes' in the division means supporting the Government's position that the treaty does not impose any obligations on the UK Parliament, and that it enhances the role of national parliaments in the EU. It also means agreeing with the Government's opinion that the treaty respects the principles of subsidiarity and proportionality, and that it does not affect the Bill of Rights 1689.
+
+Against - Voting 'Noes' in the division means opposing the Government's position and arguing that the treaty does impose obligations on the UK Parliament, and that it undermines the sovereignty and independence of national parliaments in the EU. It also means disagreeing with the Government's opinion and claiming that the treaty violates the principles of subsidiarity and proportionality, and that it affects the Bill of Rights 1689.
+
+Decision - Voting 'Aye' in the division is associated with globalisation and strengthening ties with the European Union and other foreign affairs, because it implies accepting the treaty as a way of enhancing co-operation and integration within the EU, and promoting common values and interests with other countries.
+
+Sentiment - A

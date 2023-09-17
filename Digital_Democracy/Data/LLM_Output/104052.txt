@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I can help you review the text file open in your current webpage. Here is my response based on your request:
+
+Summary - The text file is a transcript of a debate in the UK Parliament on the Finance Bill 2023, which contains various tax measures. The main issue is the increase in the small companies rate of corporation tax from 19% to 22% over three years.
+
+For - Voting 'Ayes' in the division means supporting the amendment to keep the small companies rate at 20% and scrap the annual investment allowance. The amendment argues that the tax increase is unfair, damaging and unnecessary for small businesses, especially in a difficult economic climate.
+
+Against - Voting 'Noes' in the division means rejecting the amendment and backing the Government's plan to raise the small companies rate to 21% this year and 22% next year. The Government claims that the tax increase is part of a wider reform to simplify and modernise the tax system and to tackle tax avoidance.
+
+Decision - Voting 'Aye' in the division is associated with stimulus and the free market, because it favours lower taxes and more freedom for small businesses to decide how to invest and grow. It also opposes the Government's interventionist approach of using reliefs and allowances to influence business behaviour.
+
+Sentiment - A

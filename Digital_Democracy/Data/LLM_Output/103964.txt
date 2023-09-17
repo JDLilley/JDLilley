@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I have reviewed the text file open in your current webpage and here is my response:
+
+Summary - The text file is a transcript of a debate in the UK Parliament on the European Union (Amendment) Bill, which aimed to ratify the Lisbon Treaty. The debate focused on the energy policy and shared competences of the EU and the UK.
+
+For - Voting 'Ayes' in the division means supporting the amendment that would exclude energy from the list of shared competences between the EU and the UK. This would imply that the UK wants to retain its sovereignty and independence on energy matters and not be bound by EU directives or regulations.
+
+Against - Voting 'Noes' in the division means opposing the amendment and accepting energy as a shared competence between the EU and the UK. This would imply that the UK recognises the benefits of co-operation and co-ordination with the EU on energy policy, especially in terms of security, efficiency, and environmental goals.
+
+Decision - Voting 'Aye' in the division is associated with protectionism and independence from the EU and other foreign affairs. It reflects a distrust of the EU's role and influence on energy issues and a preference for national control and autonomy.
+
+Sentiment - B

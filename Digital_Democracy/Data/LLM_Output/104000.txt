@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I can help you review the text file open in your current webpage. Here is my response based on your request:
+
+Summary - The text file is a transcript of a debate in the UK Parliament on the European Union (Amendment) Bill in 2023. The bill aims to ratify the Lisbon treaty, which reforms the EU institutions and policies. The debate focuses on the division of competences between the EU and the member states, and the role of national Parliaments.
+
+For - Voting 'Ayes' in the division means supporting the amendment proposed by Mr. Cash, which seeks to remove some articles from the bill that grant new or expanded competences to the EU. The amendment argues that the bill undermines the sovereignty of the UK Parliament and the rights of the British people.
+
+Against - Voting 'Noes' in the division means opposing the amendment and backing the original bill. The bill supporters claim that the Lisbon treaty enhances the democratic legitimacy and efficiency of the EU, and that it respects the national identities and essential state functions of the member states.
+
+Decision - Voting 'Aye' in the division is associated with protectionism and independence from the EU and other foreign affairs. It reflects a sceptical and critical view of the EU integration process, and a preference for retaining national control over policy areas that affect British interests.
+
+Sentiment - B

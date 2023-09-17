@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I have reviewed the text file open in your current webpage and here is my response:
+
+Summary - The text file is a transcript of a parliamentary debate on the National Insurance Contributions Bill, which aims to simplify and align the tax system. The debate focuses on the amendments proposed by the opposition to limit the government's power to change the upper earnings limit.
+
+For - Voting 'Ayes' in the division means supporting the amendments that would prevent the government from raising the upper earnings limit above the level of higher rate income tax or above inflation without proper parliamentary scrutiny[1]. This would protect taxpayers from stealth taxation and ensure accountability.
+
+Against - Voting 'Noes' in the division means rejecting the amendments and allowing the government to have more flexibility in setting the upper earnings limit by regulation. This would enable the government to achieve its objective of aligning national insurance contributions with income tax and simplifying the tax system[2].
+
+Decision - Voting 'Aye' in the division is associated with cutting spending on, and provision of, welfare and social housing. This is because raising the upper earnings limit would increase the revenue from national insurance contributions, which are partly used to fund social security benefits and public services.
+
+Sentiment - B

@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I have reviewed the text file open in your current webpage and here is my response:
+
+Summary - The text file is a transcript of a debate in the UK House of Commons on the Treaty of Lisbon, a document that amends the existing treaties of the European Union. The debate focuses on the foreign, security and defence aspects of the treaty and whether it requires a referendum.
+
+For - The MPs who voted for the amendment argued that the treaty would undermine NATO, create a European army, erode national sovereignty and security, and break the promise of a referendum made by the Government.
+
+Against - The MPs who voted against the amendment claimed that the treaty would enhance EU-NATO cooperation, respect national defence policies, strengthen collective security and defence capabilities, and reflect the changes made from the original constitution.
+
+Decision - The Treaty of Lisbon (No. 5), Question put, That the amendment be made would not directly affect immigration and borders, as it deals with foreign, security and defence policy. However, it could be argued that by rejecting the treaty, the UK would signal its intention to distance itself from the EU and its common policies on migration and asylum, which could be seen as an attempt to tighten immigration and borders.
+
+Sentiment - A

@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I have reviewed the text file open in your current webpage and here is my response:
+
+Summary - The text file is a transcript of a debate in the UK Parliament on a bill that would grant equal rights to temporary and agency workers. The bill is supported by Labour MPs and opposed by Conservative MPs.
+
+For - Voting 'Ayes' in the division means supporting the bill and its aim to protect vulnerable workers from exploitation and discrimination. It also means endorsing the moral principle of equal value for equal work, regardless of employment status.
+
+Against - Voting 'Noes' in the division means rejecting the bill and its potential impact on the UK's flexible labour market. It also means defending the interests of businesses and employers who rely on temporary workers to meet their needs and challenges.
+
+Decision - Voting 'Aye' in the division is associated with greater spending on and provision of welfare and social housing, because it would increase the costs of employing temporary workers and reduce their availability. This could affect the public sector, which uses a large number of agency workers, as well as small businesses, which may struggle to cope with the extra expenses.
+
+Sentiment - A

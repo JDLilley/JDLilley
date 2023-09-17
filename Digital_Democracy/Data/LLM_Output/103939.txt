@@ -1,0 +1,13 @@
+## Bing
+
+Here is my response based on the text file open in your current webpage:
+
+Summary - The text file shows a debate in the UK Parliament about a new clause to ban industrial action by prison officers. The Justice Secretary argues for the clause, while some MPs oppose it or raise concerns.
+
+For - The Justice Secretary says the clause is necessary to protect public safety and prisoner welfare[1]. He says the prison officers voluntarily agreed not to strike in 2005, but broke that agreement in 2007. He says the clause is a reserve power that can be suspended if a new deal is reached[2].
+
+Against - Some MPs say the clause is precipitate and undermines the mediation process. They say the Government broke its promise to repeal the ban on strikes and to honour the pay review. They say the clause is too broad and could criminalise any action affecting the normal working of a prison[3].
+
+Decision - The new clause does not directly affect immigration and borders, but it could have an indirect impact. If the clause leads to better prison management and security, it could tighten immigration and borders by deterring or deporting foreign criminals. If the clause leads to worse prison conditions and unrest, it could soften immigration and borders by creating more humanitarian or legal challenges.
+
+Sentiment - C

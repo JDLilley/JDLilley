@@ -1,0 +1,13 @@
+## Bing
+
+Hello, this is Bing. I can help you review the text file open in your current webpage. Here is my response based on your request:
+
+Summary - The text file is a transcript of a debate in the UK Parliament on the European Union (Amendment) Bill in 2008. The bill aimed to ratify the Lisbon Treaty, which would reform the EU institutions and policies. The debate focused on the division of competences between the EU and the member states, and the implications for national sovereignty and democracy.
+
+For - Voting 'Ayes' in the division means supporting the amendment proposed by Mr. William Cash, which would exclude several articles and protocols from the bill that would grant more powers to the EU or limit the UK's ability to act independently. The amendment was based on the argument that the Lisbon Treaty was substantially the same as the rejected EU Constitution, and that it would undermine the UK's national identity, security, and parliamentary supremacy.
+
+Against - Voting 'Noes' in the division means opposing the amendment and supporting the original bill. The argument was that the Lisbon Treaty was different from the EU Constitution, and that it would enhance the EU's efficiency, transparency, and democratic accountability. The bill also contained safeguards for the UK's interests, such as opt-outs and red lines on certain policy areas.
+
+Decision - Voting 'Aye' in the division is associated with protectionism and independence from the European Union and other foreign affairs. It reflects a sceptical view of the EU integration process and a preference for retaining national sovereignty and control over domestic policies.
+
+Sentiment - B

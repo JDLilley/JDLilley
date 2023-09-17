@@ -1,0 +1,13 @@
+## Bing
+
+Thank you for your request. Here is my response based on the text file open in your current webpage:
+
+Summary - The text file is a transcript of a parliamentary debate on the National Insurance Contributions Bill, which proposes to align the upper earnings limit for national insurance with the higher rate income tax threshold, and to introduce a new upper accruals point for the state second pension.
+
+For - Voting 'Ayes' means supporting the Bill, which the Government claims will simplify the personal tax system, reduce child poverty, take pensioners out of income tax, and create a flat rate state second pension by 2030.
+
+Against - Voting 'Noes' means opposing the Bill, which the Opposition argues will increase taxes for higher earners without giving them any additional benefits, break up the package of pension reforms agreed in the Pensions Act 2007, and weaken Parliament's scrutiny of tax changes.
+
+Decision - Voting 'Aye' in the division is associated with cutting spending on and provision of welfare and social housing, because it reduces the state second pension entitlement and contracted-out rebates for high earners, who would otherwise contribute more to the social security system.
+
+Sentiment - B
