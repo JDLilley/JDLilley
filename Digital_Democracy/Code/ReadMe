@@ -1,4 +1,5 @@
 - The R file will not run from top to bottom it reqires some manual process such as cluster assignment & manual interaction with LLMs
 - Dependancies are included
 
-- THIS FILE IS SLOW AND COMPUTATIONALLY EXPENSIVE. Help converting my nested for loops into matrix multiplication is desired.
+- THIS FILE IS SLOW AND COMPUTATIONALLY EXPENSIVE. It is not designed for optimisation, or readabillity. 
+  To help, the file can be run for Party or MP diagrams, '##' are used to signify the split. '#' is necassary for both.
