@@ -22,11 +22,18 @@ library(gtools)
 library(gifski)
 library(nortest)
 library(SGmisc)
+library(pdpr)
+library(httr)
 
 ### Create Functions ###
 # Process_text - Function to remove anything after ':' using regular expressions
 remove_text_after_colon <- function(input_text) {
   result_text <- sub(":.*", "", input_text)
+  return(result_text)
+}
+# Process_text - Function to remove anything after '_' using regular expressions
+remove_text_after_underScore <- function(input_text) {
+  result_text <- sub("_.*", "", input_text)
   return(result_text)
 }
 # Process_text - Rmv_punct
@@ -204,7 +211,15 @@ remove_text_before_colon <- function(input_text) {
   }
 }
 
-# MP Data
+# Remove text Before '_'
+remove_text_before_underScore <- function(input_text) {
+  result_text <- sub(".*_", "", input_text)
+  return(result_text)
+}
+
+
+## MP Data
+# check if MP exists & add or tally
 check_add_mp <- function(df,division) {
   add_mp <- c()
   for (j in division$member_printed_value){
@@ -217,12 +232,48 @@ check_add_mp <- function(df,division) {
 }
 # Remove the titles
 format <- function(name){
-  name <- gsub("Sir |Dame |Dr |Mr |Mrs |Miss |Ms ", "", name)
+  name <- gsub("Sir |Dame |Dr |Mr |Mrs |Miss |Ms |Lord ", "", name)
   name <- gsub("^\\s+", "", name)
   return(name)
 }
 
-#Visualisation
+
+## Party Data
+# check if MP exists & add or tally
+check_add_party <- function(df,division) {
+  add_mp <- c()
+  for (j in 1:nrow(division)){
+    name <- format(division$member_printed_value[j])
+    party <- division$member_party[j]
+    if (!(paste0(party,'_',name) %in%  colnames(df))){
+      add_mp <- c(add_mp, paste0(party,'_',name))
+    }
+  }
+  return(add_mp)
+}
+# Party member count - Define a function to make API requests and append results 
+fetch_and_append <- function(base_url, date, skip, take) {
+  url <- paste(base_url, 
+               paste("MembershipInDateRange.WasMemberOnOrAfter=", date,'&',
+                     paste("MembershipInDateRange.WasMemberOnOrBefore=", date,'&',
+                           paste("MembershipInDateRange.WasMemberOfHouse=1",'&',
+                                 paste("skip=", skip, '&',
+                                       paste("take=", take, sep=""), 
+                                       sep=""),
+                                 sep=""), 
+                           sep=""), 
+                     sep=""), 
+               sep="?")
+  
+  response <- GET(url)
+  
+  api_data <- content(response, "parsed")
+  all_results <<- append(all_results, api_data$items)
+  TR <<- api_data$totalResults
+}
+
+
+## Visualisation
 create_beautiful_radarchart_simple <- function(data, color = "#00AFBB", 
                                                vlabels = colnames(data), vlcex = 0.8, plwd = 2, plty = 1,
                                                caxislabels = NULL, title = paste(rownames(profile)[3],'vote profile 2006-2023',colapse = ''), ...){
@@ -296,6 +347,37 @@ make_bar <- function(df,titles){
     coord_cartesian(ylim = c(0, 1000))
   
 }
+
+# Create 2 extra frames for smooth animation
+smooth_animie <- function(i,frame1,title,subtitle,party,p) {
+  df_rad_year <- read.csv(paste0('df_animate_',(i+1),'.csv',collapse = ''))
+  frame2 <-  data.frame(df_rad_year[party,])
+  rownames(frame2) <- p
+  
+  # frame1.1
+  #df 
+  frame1_1 <- frame1
+  for (f in 1:11){
+    frame1_1[3,f] <- frame1_1[3,f] + (((frame2[(f+1)] - frame1_1[3,f]) / 100) * 40) 
+  }
+  #png
+  png(filename = paste0("/Users/jdlilley/Desktop/Data Science and Modelling/Dissertation/DataBase/party_temp_png/df_animate_",(i+1),"_1.png",collapse = ''), width = 1000, height = 850)
+  create_beautiful_radarchart(frame1_1,title,subtitle, caxislabels = c(0, 0.25, 0.5,0.75,1))
+  dev.off()
+  
+  # frame1.2
+  #df
+  frame1_2 <- frame1
+  for (f in 1:11){
+    frame1_2[3,f] <- frame1_2[3,f] + (((frame2[(f+1)] - frame1_2[3,f]) / 100) * 75) 
+  }
+  #png
+  png(filename = paste0("/Users/jdlilley/Desktop/Data Science and Modelling/Dissertation/DataBase/party_temp_png/df_animate_",(i+1),"_2.png",collapse = ''), width = 1000, height = 850)
+  create_beautiful_radarchart(frame1_2,title,subtitle, caxislabels = c(0, 0.25, 0.5,0.75,1))
+  dev.off()
+  return()
+}
+
 
 
 ####################################
@@ -375,8 +457,8 @@ for (i in 1:nrow(Previous_clusters)){
 
 
 # Potential Help
-word <- 'finance' # Word or phrase that can be assigned clearly
-cat <- 'Parliamentary Procedures' # Cluster for assignment
+word <- 'levelling' # Word or phrase that can be assigned clearly
+cat <- 'Environment & Energy' # Cluster for assignment
 for (i in grep(word, subset_data$value, ignore.case = TRUE, perl = FALSE, value = FALSE)){
   if (subset_data$cluster[i] == 'Miscellaneous'){
     subset_data$cluster[i] <- cat
@@ -399,9 +481,29 @@ for (i in subset_data$value){
 }
 # Remove Non-Clustered
 df <-  df[-which(df$cluster == 'Miscellaneous'),]
-# Load file for + vs - 
-prompt <-  read.csv('Prompt_clus.csv')
+# Manual fix for Level up
+df$cluster[which(df[,1] == 1665252)] <- 'Economy & Financial Services'
+df$cluster[which(df[,1] == 1665248)] <- 'Economy & Financial Services'
+df$cluster[which(df[,1] == 1665241)] <- 'Economy & Financial Services'
+df$cluster[which(df[,1] == 1665239)] <- 'Economy & Financial Services'
+df$cluster[which(df[,1] == 1665243)] <- 'Standards & Technology'
+df$cluster[which(df[,1] == 1665242)] <- 'Parliamentary Procedures'
+df$cluster[which(df[,1] == 1665240)] <- 'Parliamentary Procedures'
+df$cluster[which(df[,1] == 1665229)] <- 'Parliamentary Procedures'
+df$cluster[which(df[,1] == 1665236)] <- 'Parliamentary Procedures'
+df$cluster[which(df[,1] == 1665238)] <- 'Health & Healthcare'
+df$cluster[which(df[,1] == 1665237)] <- 'Health & Healthcare'
+df$cluster[which(df[,1] == 1544798)] <- 'Parliamentary Procedures'
+df$cluster[which(df[,1] == 1544799)] <- 'Parliamentary Procedures'
+df$cluster[which(df[,1] == 1544800)] <- 'Education & Learning'
+df$cluster[which(df[,1] == 1544801)] <- 'Parliamentary Procedures'
+df$cluster[which(df[,1] == 1550925)] <- 'Economy & Financial Services'
 
+
+
+# Load file for + vs - 
+setwd("~/Desktop/Data Science and Modelling/Dissertation/DataBase")
+prompt <-  read.csv('Prompt_clus.csv')
 # Get the motion details for prompt
 df$motion <- 'x'
 for (i in 1:nrow(df)){
@@ -414,7 +516,7 @@ for (i in 1:nrow(df)){
 
 df$prompt <- 'x'
 for (i in 1:nrow(df)){
-  df$prompt[i] <- paste(c("Review the text file open in my current webpage. First, summarise the debate generally in 50 words. Next briefly summarise the arguments voting 'Ayes' (For), and 'Noes' (Against) in the division related to: '", df$title[i], "'. Finally this file is classified under '", prompt$cluster[i], "', I want you to consider if voting 'Aye' is, A: ", prompt$plus[which(prompt$cluster == df$cluster[i])]," , or B: ", prompt$minus[which(prompt$cluster == df$cluster[i])] , ". Please format your response strictly in the following manner: 'Summary - (50 words, about the text file)', 'For - (30-50 words, what it means to vote ‘Ayes’ in the division: ", df$motion[i],")', 'Against - (30-50 words, what it means to vote ‘Noes’ in the division: ",df$motion[i],")', 'Decision - (Justify if voting 'Aye' in the division: " , df$motion[i],",  is '",prompt$plus[which(prompt$cluster == df$cluster[i])],"', or '",prompt$minus[which(prompt$cluster == df$cluster[i])],"')' , 'Sentiment - (Based on your 'Decision', return either 'A', or 'B'. If voting 'Aye' is not associated with either, or associated with both A & B, return C)"),collapse = '')
+  df$prompt[i] <- paste(c("Review the text file open in my current webpage. First, summarise the debate generally in 50 words. Next briefly summarise the arguments voting 'Ayes' (For), and 'Noes' (Against) in the division related to: '", df$title[i], "'. Finally this file is classified under '", df$cluster[i], "', I want you to consider if voting 'Aye' is, A: ", prompt$plus[which(prompt$cluster == df$cluster[i])]," , or B: ", prompt$minus[which(prompt$cluster == df$cluster[i])] , ". Please format your response strictly in the following manner: 'Summary - (50 words, about the text file)', 'For - (30-50 words, what it means to vote ‘Ayes’ in the division: ", df$motion[i],")', 'Against - (30-50 words, what it means to vote ‘Noes’ in the division: ",df$motion[i],")', 'Decision - (Justify if voting 'Aye' in the division: " , df$motion[i],",  is '",prompt$plus[which(prompt$cluster == df$cluster[i])],"', or '",prompt$minus[which(prompt$cluster == df$cluster[i])],"')' , 'Sentiment - (Based on your 'Decision', return either 'A', or 'B'. If voting 'Aye' is not associated with either, or associated with both A & B, return C)"),collapse = '')
 }
 
 #### Manual LLM response extraction ####
@@ -423,7 +525,7 @@ for (i in 1:nrow(df)){
 
 
 ## Use:
-manual_prompt <- select(df,about,prompt)
+manual_prompt <- select(df,about,prompt,file.name)
 
 
 
@@ -459,15 +561,23 @@ df <- df[-which(df$sentiment == 'C'), ]
 ## MP data
 df$cluster[which(df$cluster ==  "European Union & Foreign Affairs\n")] <- "European Union & Foreign Affairs" 
 
-# Pull hansard data
+# Pull hansard data individual MP
 df_mp <- select(df,about,cluster,sentiment)
 n <- 0
 for (i in 1:nrow(df_mp)){
   # Get division info
-  y <- commons_divisions(division_id = df_mp[i,1], summary = FALSE)
+  y <- commons_divisions(division_id = df_PARTY[i,1], summary = FALSE)
+  #### Fix broken API ###
+  if (!'member_printed_value'%in% colnames(y)){
+    colnames(y)[5] <- 'member_printed_value'
+    y <- y[-which(y$type == 'Abstains'),]
+    for (t in 1:nrow(y)){
+      y$member_printed_value[t] <- data.frame(y$member_printed_value[t])
+    }
+  }
   n <- n+1
   print(n)
-  Sys.sleep(0.05)
+  Sys.sleep(0.1)
   # check if new MP
   add <- check_add_mp(df_mp,y)
   for (j in add) {
@@ -475,6 +585,12 @@ for (i in 1:nrow(df_mp)){
   }
   # If voted assign Aye or Noe value to mp, row
   for (k in 1:nrow(y)){
+    #API error
+    name_mp <- y$member_printed_value[k]
+    if (is.null(name_mp)){
+      name_mp <- data.frame(y$member_printed[k])
+      
+    }
     MP <- which(colnames(df_mp) == format(y$member_printed_value[k]))
     if (y$type[k]== 'Aye_Vote'){
       df_mp[i,MP] <- 1
@@ -486,6 +602,40 @@ for (i in 1:nrow(df_mp)){
   }
 }
 
+# Pull hansard data PARTY
+  df_PARTY <- select(df,about,cluster,sentiment)
+  n <- 0
+  for (i in 1:nrow(df_PARTY)){
+    # Get division info
+    y <- commons_divisions(division_id = df_PARTY[i,1], summary = FALSE)
+    #### Fix broken API ###
+    if (!'member_printed_value'%in% colnames(y)){
+      colnames(y)[5] <- 'member_printed_value'
+      y <- y[-which(y$type == 'Abstains'),]
+      for (t in 1:nrow(y)){
+        y$member_printed_value[t] <- data.frame(y$member_printed_value[t])
+      }
+    }
+    n <- n+1
+    print(n)
+    Sys.sleep(0.1)
+    # check if new MP
+    add <- check_add_party(df_PARTY,y)
+    for (j in add) {
+      df_PARTY[[j]] <- rep(0, nrow(df_PARTY))
+    }
+    # If voted assign Aye or Noe value to mp, row
+    for (k in 1:nrow(y)){
+      MP <- which(colnames(df_PARTY) == format(paste0(y$member_party[k],'_',y$member_printed_value[k])))
+      if (y$type[k]== 'Aye_Vote'){
+        df_PARTY[i,MP] <- 1
+      }
+      if (y$type[k]== 'No_Vote'){
+        df_PARTY[i,MP] <- -1
+      }
+    }
+  }
+
 # Turn sentiment into 1 or -1
 for (i in 1:nrow(df_mp)){
   if (df_mp$sentiment[i] == 'A'){
@@ -494,12 +644,27 @@ for (i in 1:nrow(df_mp)){
     df_mp$sentiment[i] <- -1
   }
 }
+# Party
+for (i in 1:nrow(df_PARTY)){
+  if (df_PARTY$sentiment[i] == 'A'){
+    df_PARTY$sentiment[i] <- 1
+  }else{
+    df_PARTY$sentiment[i] <- -1
+  }
+}
 
-# Save and Load MP data 
+#### Save and Load MP data 
 setwd("~/Desktop/Data Science and Modelling/Dissertation/DataBase")
 write.csv(df_mp, "/Users/jdlilley/Desktop/Data Science and Modelling/Dissertation/DataBase/df_mp.csv", row.names=FALSE)
-df_mp <-  read.csv('df_mp.csv')
+write.csv(df_PARTY, "/Users/jdlilley/Desktop/Data Science and Modelling/Dissertation/DataBase/df_party.csv", row.names=FALSE)
+
+#### Load data
+setwd("~/Desktop/Data Science and Modelling/Dissertation/DataBase")
+df_mp <-  read.csv('df_mp.csv',check.names = FALSE)
+df_PARTY <- read.csv('df_party.csv',check.names = FALSE)
+# Convert sentiment from A/B (Char --> int) 1/-1
 df_mp$sentiment <- as.integer(df_mp$sentiment)
+df_PARTY$sentiment <- as.integer(df_PARTY$sentiment)
 
 ## Radial df
 df_radial <- as_tibble(colnames(df_mp[4:length(df_mp)]))
@@ -515,21 +680,214 @@ df_radial$"Crime & Justice"  <- 0
 df_radial$"Defence & Armed Forces" <- 0
 df_radial$'Immigration & Borders' <- 0
 
-# Create full Radial
-df_mp_in <- df_mp
+# Create full Radial MP
 for (mp in df_radial$value){
-  mp_n <- which(colnames(df_mp_in) == mp)
+  mp_n <- which(colnames(df_mp) == mp)
   for (clus in colnames(df_radial[2:12])){
     count <- 0
-    for (div in 1:nrow(df_mp_in)){
-      if (df_mp_in$cluster[div] == clus){
-        count <- count + (df_mp_in[div,mp_n] * df_mp_in$sentiment[div])
+    for (div in 1:nrow(df_mp)){
+      if (df_mp$cluster[div] == clus){
+        count <- count + (df_mp[div,mp_n] * df_mp$sentiment[div])
       }
     }
     df_radial[which(df_radial$value == mp) ,which(colnames(df_radial) == clus)] <- count
   }
 }
 
+# Create full Radial Party
+# df Party
+PartyList <- colnames(df_PARTY)
+# Strip name leave party
+for (i in 1:length(PartyList)){
+ PartyList[i] <- remove_text_after_underScore(PartyList[i])
+}
+# remove 'party' from list of names
+PartyList <- gsub("\\bparty\\b", "", PartyList, ignore.case = TRUE)
+# remove the space party leaves
+PartyList <- trimws(PartyList)
+# Because API doesn't distinguish between Labour & Labour (Co-op)
+PartyList[which(PartyList == 'Labour (Co-op)')] <- "Labour"
+# create df in
+df_PARTY_in <- df_PARTY
+colnames(df_PARTY_in) <- PartyList
+# fix anomalous party artifacts
+Parties <- unique(colnames(df_PARTY_in))
+Parties <- Parties[-grep("Sinn", Parties)]
+Parties <- Parties[-grep("Chairman", Parties)]
+Parties <- Parties[-grep(", ", Parties)]
+Parties <- Parties[-grep("Speaker", Parties)]
+Parties <- Parties[-grep("Change", Parties)]
+Parties <- Parties[-grep("Reclaim", Parties)]
+Parties <- Parties[4:length(Parties)]
+
+# create out
+########
+df_party_radial <- as_tibble(Parties)
+df_party_radial$"European Union & Foreign Affairs" <- 0
+df_party_radial$"Parliamentary Procedures" <- 0
+df_party_radial$"Environment & Energy" <- 0
+df_party_radial$"Health & Healthcare"  <- 0
+df_party_radial$"Welfare & Social Housing"  <- 0
+df_party_radial$"Education & Learning"    <- 0
+df_party_radial$"Economy & Financial Services" <- 0
+df_party_radial$"Standards & Technology"  <- 0
+df_party_radial$"Crime & Justice"  <- 0
+df_party_radial$"Defence & Armed Forces" <- 0
+df_party_radial$'Immigration & Borders' <- 0
+
+
+
+#####
+# Data Engineering 
+## MP ##
+for (mp in df_radial$value){
+  mp_n <- which(colnames(df_mp) == mp)
+  for (clus in colnames(df_radial[2:12])){
+    count <- 0
+    for (div in 1:nrow(df_mp)){
+      if (df_mp$cluster[div] == clus){
+        count <- count + (df_mp[div,mp_n] * df_mp$sentiment[div])
+      }
+    }
+    df_radial[which(df_radial$value == mp) ,which(colnames(df_radial) == clus)] <- count
+  }
+}
+
+
+## Party ##
+# CURRENTLY NOT NEEDED
+#### DONT RUN UNLESS NEC (22hr run time 1.4m API calls) ####
+# create df for party count in each div
+count_Party <- tibble(df_PARTY_in$about)
+count_Party$Conservative <- 0
+count_Party$'Democratic Unionist'   <-0
+count_Party$Independent      <- 0       
+count_Party$Labour          <- 0          
+count_Party$"Labour (Co-op)"      <- 0     
+count_Party$"Scottish National"   <- 0       
+count_Party$"Liberal Democrat"    <- 0    
+count_Party$"Plaid Cymru"       <- 0       
+count_Party$"The Reclaim"       <- 0        
+count_Party$Green              <- 0     
+count_Party$Alliance           <- 0       
+count_Party$Alba                <- 0   
+count_Party$"Social Democratic & Labour" <- 0
+count_Party$"Ulster Unionist"            <- 0
+count_Party$"UK Independence"          <- 0
+count_Party$Respect            <- 0
+count_Party$"Independent Conservative"   <- 0
+count_Party$"Independent Labour"       <- 0
+# Base URL and initial parameters
+base_url <- "https://members-api.parliament.uk/api/Members/Search"
+url_id <- 'https://members-api.parliament.uk/api/Members/History?ids='
+date <- "d"
+name <- 'n'
+party <- 'p'
+## For every division
+for (div in 1:nrow(df_PARTY_in)){
+  # Original date in "DD/MM/YYYY" format ---> "YYYY-MM-DD"
+  date <- dmy(df$date_value[div])
+  take <- 20  # Number of records to retrieve per request
+  skip <- 0   # Starting with the first page
+  ## Pull a list of all MPs in Parliment
+  # Create an empty list to store all the results
+  all_results <- list()
+  # Loop to fetch all pages
+  repeat {
+    # Make the API request
+    fetch_and_append(base_url, date, skip, take)
+    # Check if there are more pages to fetch
+    if (length(all_results) < skip + take) {
+      break
+    }
+    # Increment the skip parameter for the next request
+    skip <- skip + take
+    Sys.sleep(0.003)
+  }
+  # Track how many MPs pulled
+  print(skip)
+  ## store name & id from MP list
+  
+  # create df
+  party_mem <- tibble(name = rep('x',TR) ,id = rep('z', TR),party = rep('y', TR))
+  #pull name & id
+  for (mem in 1:TR){
+    member_data <- all_results[[mem]]$value
+    party_mem$name[mem] <- format(member_data$nameDisplayAs)
+    party_mem$id[mem] <- member_data$id
+  }
+  ## For each MP in Parliment check & store party
+  for (mp in 1:length(party_mem$id)){
+    # Extract id & use to pull party history for mp i
+    id <- party_mem$id[mp]
+    url <- paste(url_id,id,sep = '')
+    Sys.sleep(0.003)
+    response <- GET(url)
+    api_data <- content(response, "parsed")
+    # create df to match current division date & extract party
+    MP_hist <- tibble(Date_end = rep(as.Date(Sys.Date()),length(api_data[[1]]$value$partyHistory)))
+    # Extract MP party history from API
+    for (j in 1:nrow(MP_hist)){
+      if (class(api_data[[1]]$value$partyHistory[[j]]$endDate) == 'NULL'){
+      }
+      else{ MP_hist$Date_end[j] <- as.Date(api_data[[1]]$value$partyHistory[[j]]$endDate)
+      }
+    }
+    # Sort & find the correct period
+    MP_hist_sort <- MP_hist %>% arrange(Date_end)
+    event_row <- which(MP_hist$Date_end == MP_hist_sort$Date_end[which(MP_hist$Date_end >= date)][1])
+    # Identify party in period & assign to df
+    party_mem$party[mp] <- trimws(gsub("\\bparty\\b", "", api_data[[1]]$value$partyHistory[[event_row[1]]]$party$name, ignore.case = TRUE))
+  }
+  # Count how many party members are in parliment & store
+  for (p in Parties){
+    count_Party[div,which(colnames(count_Party)== p)] <- length(which(party_mem$party == p))
+  }
+  # Save data so no need to repeat
+  write.csv(party_mem, paste0("/Users/jdlilley/Desktop/Data Science and Modelling/Dissertation/DataBase/Parliment_membership_historical/",df$about[div],".csv"), row.names=FALSE)
+  print(div)
+}
+write.csv(count_Party, "/Users/jdlilley/Desktop/Data Science and Modelling/Dissertation/DataBase/count_Party.csv", row.names=FALSE)
+
+# Load count_Party
+setwd("~/Desktop/Data Science and Modelling/Dissertation/DataBase")
+count_Party <-  read.csv('count_Party.csv')
+#### Continue ####
+
+# Count the party vote profiles / by the number of mps voted
+for (party in df_party_radial$value){
+  party_n <- which(colnames(df_PARTY_in) == party)
+   for (clus in colnames(df_party_radial[2:12])){
+     count_per_mp <- 0
+     clus_count <- 0
+     for (div in 1:nrow(df_PARTY_in)){
+       count <- 0
+       if (df_PARTY_in$cluster[div] == clus){
+          count <- count + (sum(df_PARTY_in[div, party_n]) * df_PARTY_in$sentiment[div])
+          clus_count <- clus_count + 1
+          if (sum(abs(df_PARTY_in[div, party_n]))> 0){
+            count_per_mp <- count_per_mp + count/ sum(abs(df_PARTY_in[div, party_n]))
+          }
+       }
+     }
+     # Radial df = the count_per_mp / the number of votes in the cluster which at least one mp has voted on
+     if (clus_count < 5){
+       df_party_radial[which(df_party_radial$value == party) ,which(colnames(df_party_radial) == clus)] <- 0
+     }
+     else{
+     df_party_radial[which(df_party_radial$value == party) ,which(colnames(df_party_radial) == clus)] <- count_per_mp/length(which(rowSums(df_PARTY_in[which(df_PARTY_in$cluster == clus),party_n],na.rm = TRUE) != 0))   # (length(party_n)-count_noVote)
+     }
+   }
+}
+# Convert from Nan
+for (i in 2:length(df_party_radial)){
+  for (j in 1:nrow(df_party_radial)){
+    if (df_party_radial[j,i] == 'NaN'){
+      df_party_radial[j,i] <- 0
+    }
+}}
+
+# Norm MP
 df_radial_norm <- df_radial
 for (col in 2:12){
   for (row in 1:nrow(df_radial)){
@@ -537,13 +895,29 @@ for (col in 2:12){
   }
 }
 
+# Norm Party
+df_party_radial_norm <- df_party_radial
+for (col in 2:12){
+  for (row in 1:nrow(df_party_radial_norm)){
+    df_party_radial_norm[row,col] <- ((df_party_radial_norm[row,col] + 1)/(1+1))
+  }
+}
+
+
+
 setwd("~/Desktop/Data Science and Modelling/Dissertation/DataBase")
 write.csv(df_radial_norm, "/Users/jdlilley/Desktop/Data Science and Modelling/Dissertation/DataBase/df_rad_FULL.csv", row.names=FALSE)
-df_rad_FULL <-  read.csv('df_rad_FULL.csv')
-########### Visualisation ################
+write.csv(df_party_radial_norm, "/Users/jdlilley/Desktop/Data Science and Modelling/Dissertation/DataBase/df_party_rad_FULL.csv", row.names=FALSE)
 
-## Create DF
-# Define the variable ranges: maximum and minimum
+
+########### Visualisation ################
+df_rad_FULL <-  read.csv('df_rad_FULL.csv',check.names = FALSE)
+df_party_rad_FULL <-  read.csv('df_party_rad_FULL.csv',check.names = FALSE)
+
+
+### INDIVIDUAL RADAR PLOTS - MP & Party ###
+## Define the variable ranges: maximum and minimum
+#####
 max_min <- data.frame(
   'European Union & Foreign Affairs' = c(1, 0), "Parliamentary Procedures" = c(1, 0), "Environment & Energy" = c(1,0),
   "Health & Healthcare" = c(1, 0), "Welfare & Social Housing" = c(1, 0), "Education & Learning" = c(1, 0),
@@ -551,41 +925,63 @@ max_min <- data.frame(
   'Immigration & Borders' = c(1, 0)
 )
 rownames(max_min) <- c("Max", "Min")
+#####
 
-## Create Simple visuals
-for (i in df_rad_FULL$value){
+### MP ###
+# Create Simple visuals
+for (name in df_rad_FULL$value){
   # set var + df
-name <- i
 mp <- which(df_rad_FULL$value == name)
 profile <-  data.frame(df_rad_FULL[mp,])
 rownames(profile) <- df_rad_FULL[mp,1]
 profile <- profile[,2:12]
 title <- paste0(rownames(profile)[3],'vote profile 2006-2023',colapse = '')
-
 # Bind the variable ranges to the data
 df_p <- rbind(max_min, profile)
 profile <- df_p[c("Max", "Min", name), ]
 colnames(profile) <- colnames(df_radial)[2:12]
 profile <- profile %>% 
   rename("Standards &\nTechnology" = "Standards & Technology"  ,"Crime &\nJustice" = "Crime & Justice" , "Defence & Armed\nForces" = "Defence & Armed Forces", "Education &\nLearning" ="Education & Learning" ,"Economy &\nFinancial Services" =  "Economy & Financial Services" ,"Immigration\n& Borders" = "Immigration & Borders" ,"Welfare &\nSocial Housing"="Welfare & Social Housing","Health & \nHealthcare" ="Health & Healthcare","Environment\n& Energy"="Environment & Energy","European Union &\nForeign Affairs"="European Union & Foreign Affairs",'Parliamentary\nProcedures' = 'Parliamentary Procedures', )
-
 # Create PNG
-png(filename = paste0("/Users/jdlilley/Desktop/Data Science and Modelling/Dissertation/DataBase/2006+_LT_Diagram/",name,title,".png",collapse = ''), width = 1200, height = 1000)
+png(filename = paste0("/Users/jdlilley/Desktop/Data Science and Modelling/Dissertation/DataBase/2006+_MP/",name,title,".png",collapse = ''), width = 1200, height = 1000)
 create_beautiful_radarchart_simple(profile, caxislabels = c(0, 0.25, 0.5,0.75,1),vlcex = 1.8,cex.main = 4,plwd = 5)
 dev.off()
 }
 
-# View Visual
-create_beautiful_radarchart_simple(profile, caxislabels = c(0, 0.25, 0.5,0.75,1), vlcex = 0.6)
+### Party ###
+# Create Simple visuals
+for (name in df_party_rad_FULL$value){
+  # Check ref number
+  party <- which(df_party_rad_FULL$value == name)
+  # Create DF for radial plot per party
+  profile <-  data.frame(df_party_rad_FULL[party,])
+  rownames(profile) <- df_party_rad_FULL[party,1]
+  profile <- profile[,2:12]
+  title <- paste0(rownames(profile),' vote profile 2006-2023',colapse = '')
+  # Bind the variable ranges to the data
+  df_p <- rbind(max_min, profile)
+  profile <- df_p[c("Max", "Min", name), ]
+  colnames(profile) <- colnames(df_radial)[2:12]
+  # Format Dimension Titles 
+  profile <- profile %>% 
+   rename("Standards &\nTechnology" = "Standards & Technology"  ,"Crime &\nJustice" = "Crime & Justice" , "Defence & Armed\nForces" = "Defence & Armed Forces", "Education &\nLearning" ="Education & Learning" ,"Economy &\nFinancial Services" =  "Economy & Financial Services" ,"Immigration\n& Borders" = "Immigration & Borders" ,"Welfare &\nSocial Housing"="Welfare & Social Housing","Health & \nHealthcare" ="Health & Healthcare","Environment\n& Energy"="Environment & Energy","European Union &\nForeign Affairs"="European Union & Foreign Affairs",'Parliamentary\nProcedures' = 'Parliamentary Procedures', )
+  # Create PNG
+  png(filename = paste0("/Users/jdlilley/Desktop/Data Science and Modelling/Dissertation/DataBase/2006+_Party/",name,title,".png",collapse = ''), width = 1200, height = 1000)
+  create_beautiful_radarchart_simple(profile, caxislabels = c(0, 0.25, 0.5,0.75,1),vlcex = 1.8,cex.main = 4,plwd = 5)
+  dev.off()
+}
 
 
-## Create 5-plot
-#### Prep Data == Plot 5 Radar Plots of Politician #####
-# df
+### 5-POINT RADAR PLOTS - MP & Party ###
+
+## Data Engineering
+## How many graphs / How many divisions in each plot
 Years <- year(as.Date(df$date_value[1], format = "%d/%m/%Y"))-year(as.Date(df$date_value[nrow(df)], format = "%d/%m/%Y"))
-Num_graphs <- floor(Years/3.333333) ##### If Greater than 5 new radial added
+Num_graphs <- floor(Years/3.333333) # NOTE: If > 5 + new radial plot
 n_div <- round(nrow(df)/5,0)
-# assign df
+
+### MP ###
+# Split data into 5 chunks
 for(i in 1:Num_graphs){
   df_name <- paste0('df_mp',i,collapse = '')
   if(i == 1){
@@ -598,7 +994,8 @@ for(i in 1:Num_graphs){
     assign(df_name, df_mp[(n_div*(i-1)):nrow(df_mp),])
   }
 }
-# Create Radial df for each graph
+
+# Create Radial df for each plot
 n <- 0
 for (i in 1:Num_graphs){
   df_mp_in <- get(paste0('df_mp',i,collapse = ''))
@@ -615,8 +1012,7 @@ for (mp in df_radial$value){
     df_radial[which(df_radial$value == mp) ,which(colnames(df_radial) == clus)] <- count
   }
 }
-
-# Normalise the 
+# Normalise 
 df_radial_norm <- df_radial
 for (col in 2:12){
   for (row in 1:nrow(df_radial)){
@@ -628,7 +1024,7 @@ n <- n+1
 print(n)
 }
 
-# Year on year Radar DF
+# Combine 5-Point Radar Plot DF
 for (i in df_rad_FULL$value){
 rownames(max_min) <- c("Max", "Min")
 name <- i
@@ -664,7 +1060,7 @@ colnames(df_yearly) <-  colnames(df_radial)[2:12]
 df_yearly <- df_yearly %>% 
   rename("Standards &\nTechnology" = "Standards & Technology"  ,"Crime &\nJustice" = "Crime & Justice" , "Defence & Armed\nForces" = "Defence & Armed Forces", "Education &\nLearning" ="Education & Learning" ,"Economy &\nFinancial Services" =  "Economy & Financial Services" ,"Immigration\n& Borders" = "Immigration & Borders" ,"Welfare &\nSocial Housing"="Welfare & Social Housing","Health & \nHealthcare" ="Health & Healthcare","Environment\n& Energy"="Environment & Energy","European Union &\nForeign Affairs"="European Union & Foreign Affairs",'Parliamentary\nProcedures' = 'Parliamentary Procedures', )
 
-#### Plot 5 Radar Plots of Politician #####
+## Plot 5 Radar Plots of MP 
 png(filename = paste0("/Users/jdlilley/Desktop/Data Science and Modelling/Dissertation/DataBase/3Year_LT_Diagram/",name,".png",collapse = ''), width = 1680, height = 1059)
 opar <- par() 
 # Define settings for plotting in a 3x4 grid, with appropriate margins:
@@ -680,12 +1076,129 @@ par <- par(opar)
 dev.off()
 }
 
-# ggsave(file= paste0("/Users/jdlilley/Desktop/Data Science and Modelling/Dissertation/DataBase/3Year_LT_Diagram/Comp_",name,".png",collapse = ''),plot = last_plot())
+### Party ###
+# Split data into 5 chunks
+for(i in 1:Num_graphs){
+  df_name <- paste0('df_p',i,collapse = '')
+  if(i == 1){
+    assign(df_name, df_PARTY_in[1:n_div,])
+  }
+  if (i > 1 && i < 5){
+    assign(df_name, df_PARTY_in[(n_div*(i-1)):(n_div*i),])
+  }
+  if(i==5){
+    assign(df_name, df_PARTY_in[(n_div*(i-1)):nrow(df_mp),])
+  }
+}
 
+# Create Radial df for each plot
+n <- 0
+for (i in 1:Num_graphs){
+  df_party_in <- get(paste0('df_p',i,collapse = ''))
+  # For each party 
+  for (party in df_party_radial$value){
+    party_n <- which(colnames(df_party_in) == party)
+    # For each Cluster
+    for (clus in colnames(df_party_radial[2:12])){
+      count_per_mp <- 0
+      clus_count <- 0
+      # For each division
+      for (div in 1:nrow(df_party_in)){
+        count <- 0
+        # Count if division is in cluster
+        if (df_party_in$cluster[div] == clus){
+          count <- count + (sum(df_party_in[div, party_n]) * df_party_in$sentiment[div])
+          clus_count <- clus_count +1
+          # Count the total mps that voted in this division in this Party
+          if (sum(abs(df_party_in[div, party_n]))> 0){
+            count_per_mp <- count_per_mp + count/ sum(abs(df_party_in[div, party_n]))
+          }
+        }
+      }
+     
+      if (clus_count < 5){
+        # If there are less than 5 votes in the cluster remove the outlier by setting to neutral stance
+        df_party_radial[which(df_party_radial$value == party) ,which(colnames(df_party_radial) == clus)] <- 0 
+      }
+      else{
+        # Radial df = the count_per_mo / the number of votes in the cluster which at least one mp has voted on
+      df_party_radial[which(df_party_radial$value == party) ,which(colnames(df_party_radial) == clus)] <- count_per_mp/length(which(rowSums(df_party_in[which(df_party_in$cluster == clus),party_n],na.rm = TRUE) != 0))   # (length(party_n)-count_noVote)
+      }
+    }
+  }
+  
+  # Fix nan values
+  for (k in 2:length(df_party_radial)){
+    for (j in 1:nrow(df_party_radial)){
+      if (df_party_radial[j,k] == 'NaN'){
+        df_party_radial[j,k] <- 0
+      }
+    }}
+
+  # Normalise 
+  df_party_radial_norm <- df_party_radial
+  for (col in 2:12){
+    for (row in 1:nrow(df_party_radial_norm)){
+      df_party_radial_norm[row,col] <- ((df_party_radial_norm[row,col] + 1)/(1+1))
+    }
+  }
+  assign(paste0('df_p_rad_',i,collapse = ''),df_party_radial_norm)
+  n <- n+1
+  print(n)
+}
+
+# Combine 5-Point Radar Plot DF
+for (name in df_party_rad_FULL$value){
+  rownames(max_min) <- c("Max", "Min")
+  party <- which(df_party_rad_FULL$value == name)
+  
+  profile_5 <-  data.frame(df_p_rad_1[party,])
+  rownames(profile_5) <- paste(df_p_rad_1[party,1],'2021-2023',collapse = '')
+  profile_5 <- profile_5[,2:12]
+  
+  profile_4 <-  data.frame(df_p_rad_2[party,])
+  rownames(profile_4) <- paste(df_p_rad_2[party,1],'2016-2021',collapse = '')
+  profile_4 <- profile_4[,2:12]
+  
+  profile_3 <-  data.frame(df_p_rad_3[party,])
+  rownames(profile_3) <- paste(df_p_rad_3[party,1],'2012-2016',collapse = '')
+  profile_3 <- profile_3[,2:12]
+  
+  profile_2 <-  data.frame(df_p_rad_4[party,])
+  rownames(profile_2) <- paste(df_p_rad_4[party,1],'2009-2012',collapse = '')
+  profile_2 <- profile_2[,2:12]
+  
+  profile_1 <-  data.frame(df_p_rad_5[party,])
+  rownames(profile_1) <- paste(df_p_rad_5[party,1],'2006-2009',collapse = '')
+  profile_1 <- profile_1[,2:12]
+  
+  # Bind the variable ranges to the data
+  df_yearly <- rbind(max_min, profile_1,profile_2,profile_3,profile_4,profile_5)
+  colnames(df_yearly) <-  colnames(df_radial)[2:12]
+  df_yearly <- df_yearly %>% 
+    rename("Standards &\nTechnology" = "Standards & Technology"  ,"Crime &\nJustice" = "Crime & Justice" , "Defence & Armed\nForces" = "Defence & Armed Forces", "Education &\nLearning" ="Education & Learning" ,"Economy &\nFinancial Services" =  "Economy & Financial Services" ,"Immigration\n& Borders" = "Immigration & Borders" ,"Welfare &\nSocial Housing"="Welfare & Social Housing","Health & \nHealthcare" ="Health & Healthcare","Environment\n& Energy"="Environment & Energy","European Union &\nForeign Affairs"="European Union & Foreign Affairs",'Parliamentary\nProcedures' = 'Parliamentary Procedures', )
+  
+  ## Plot 5 Radar Plots of MP 
+  png(filename = paste0("/Users/jdlilley/Desktop/Data Science and Modelling/Dissertation/DataBase/3Year_LT_Party/",name,".png",collapse = ''), width = 1680, height = 1059)
+  opar <- par() 
+  # Define settings for plotting in a 3x4 grid, with appropriate margins:
+  par(mar = rep(1,4))
+  par(mfrow = c(2,3))
+  par(mai = c(0, 0, 0.5, 0))
+  # Produce a radar-chart for each student
+  for (i in 3:nrow(df_yearly)) {
+    create_beautiful_radarchart_comp(df_yearly[c(1:2,i-1, i), ],vlcex = 1.8,cex.main = 3.5,cex.axis = 5,plwd = 6,plty = 1,caxislabels = c(0, 0.25, 0.5,0.75,1),cglwd = 2) #,caxislabels = c(0, 0.25, 0.5,0.75,1),axis.text = 2 
+  }
+  # Restore the standard par() settings
+  par <- par(opar) 
+  dev.off()
+}
 
 
 ########### Animate Gif (radar plot) ################
-## DF
+## Create DF
+
+# MP
 # set var
 end <- nrow(df_mp) - 250
 start <- nrow(df_mp)
@@ -724,8 +1237,70 @@ while (end > 0){
   print(No)
 }
 
-# #### Get Year #####
-# set df
+# Party
+# set var
+end <- nrow(df_mp) - n_div
+start <- nrow(df_mp)
+# How many divisions
+jump <- 10
+No <- 1
+# Loop for every div
+while (end > 0){
+  df_party_temp <- df_PARTY_in[start:end,]
+  # create radial for each party
+  for (party in df_party_radial$value){
+    party_n <- which(colnames(df_party_temp) == party)
+    for (clus in colnames(df_party_radial[2:12])){
+      count_per_mp <- 0
+      clus_count <- 0
+      for (div in 1:nrow(df_party_temp)){
+        count <- 0
+        if (df_party_temp$cluster[div] == clus){
+          count <- count + (sum(df_party_temp[div, party_n]) * df_party_temp$sentiment[div])
+          clus_count <- clus_count + 1
+          if (sum(abs(df_party_temp[div, party_n]))> 0){
+            count_per_mp <- count_per_mp + count/ sum(abs(df_party_temp[div, party_n]))
+          }
+        }
+      }
+      # Radial df = the count_per_mp / the number of votes in the cluster which at least one mp has voted on
+      if (clus_count < 5){
+        df_party_radial[which(df_party_radial$value == party) ,which(colnames(df_party_radial) == clus)] <- 0
+      }
+      else{
+        df_party_radial[which(df_party_radial$value == party) ,which(colnames(df_party_radial) == clus)] <- count_per_mp/length(which(rowSums(df_party_temp[which(df_party_temp$cluster == clus),party_n],na.rm = TRUE) != 0))   # (length(party_n)-count_noVote)
+      }
+    }
+  }
+  # Convert from Nan
+  for (i in 2:length(df_party_radial)){
+    for (j in 1:nrow(df_party_radial)){
+      if (df_party_radial[j,i] == 'NaN'){
+        df_party_radial[j,i] <- 0
+      }
+    }}
+  
+  # Norm Party
+  df_party_radial_norm <- df_party_radial
+  for (col in 2:12){
+    for (row in 1:nrow(df_party_radial_norm)){
+      df_party_radial_norm[row,col] <- ((df_party_radial_norm[row,col] + 1)/(1+1))
+    }
+  }
+  
+  write.csv(df_party_radial_norm, paste0("/Users/jdlilley/Desktop/Data Science and Modelling/Dissertation/DataBase/party_gif_df/df_animate_",No,".csv",collapse = ''), row.names=FALSE)
+  start <- start - jump
+  end <- end - jump
+  No <- No+1
+  Num <- No -1
+  print(No)
+}
+
+
+
+
+##### Get Year #####
+## set df
 date_div <- as_tibble(df$about)
 date_div$date <- 'x'
 
@@ -736,13 +1311,13 @@ for (i in 1:nrow(date_div)){
 }
 
 ## Extract start & end date
-# set var & df
+## set var & df
 No <- 1
 file_date <- as_tibble(rep('x',Num))
 colnames(file_date) <- 'file'
 file_date$start <- 'x'
 file_date$end <- 'x'
-end <- nrow(df_mp) - 250
+end <- nrow(df_mp) - n_div # based on MP - 250
 start <- nrow(df_mp)
 
 for (i in 1:Num){
@@ -759,16 +1334,9 @@ for (i in 1:Num){
   file_Year$end[i] <- year(as.Date(file_Year$end[i]))
 }
 
-### Create png
-# Define the variable ranges: maximum and minimum
-max_min <- data.frame(
-  'European Union & Foreign Affairs' = c(1, 0), "Parliamentary Procedures" = c(1, 0), "Environment & Energy" = c(1,0),
-  "Health & Healthcare" = c(1, 0), "Welfare & Social Housing" = c(1, 0), "Education & Learning" = c(1, 0),
-  "Economy & Financial Services" = c(1, 0), "Standards & Technology" = c(1, 0), "Crime & Justice" = c(1, 0), "Defence & Armed Forces" = c(1,0),
-  'Immigration & Borders' = c(1, 0)
-)
-rownames(max_min) <- c("Max", "Min")
+### Create Gif (via png) ###
 
+# MP
 # Loop through mp
 for (mp in df_rad_FULL$value){
 mp_n <- which(df_rad_FULL$value == mp)
@@ -804,6 +1372,49 @@ png_files <- list.files(pattern = "*.png")
 png_files <-  mixedsort(png_files)
 
 gifski(png_files, paste0("/Users/jdlilley/Desktop/Data Science and Modelling/Dissertation/DataBase/mp_gif/",rownames(df_temp)[3],'.gif',collapse=''), width = 1000, height = 850, delay = 0.1)
+}
+
+# Party
+# Loop through mp
+for (p in df_party_rad_FULL$value){
+  # Check ref number
+  party <- which(df_party_rad_FULL$value == p)
+  # create png in temp file
+  setwd("~/Desktop/Data Science and Modelling/Dissertation/DataBase/party_gif_df")
+  for (i in 1:Num){
+    df_rad_year <- read.csv(paste0('df_animate_',i,'.csv',collapse = ''))
+    profile <-  data.frame(df_rad_year[party,])
+    rownames(profile) <- p
+    
+    # Bind the variable ranges to the data
+    df_temp <- max_min
+    df_temp[3,] <- profile[2:12]
+    rownames(df_temp)[3] <- p
+    df_temp <- df_temp %>% 
+      rename("Standards &\nTechnology" = "Standards...Technology"  ,"Crime &\nJustice" = "Crime...Justice" , "Defence & Armed\nForces" = "Defence...Armed.Forces", "Education &\nLearning" ="Education...Learning" ,"Economy &\nFinancial Services" =  "Economy...Financial.Services" ,"Immigration\n& Borders" = "Immigration...Borders" ,"Welfare &\nSocial Housing"="Welfare...Social.Housing","Health & \nHealthcare" ="Health...Healthcare","Environment\n& Energy"="Environment...Energy","European Union &\nForeign Affairs"="European.Union...Foreign.Affairs",'Parliamentary\nProcedures' = 'Parliamentary.Procedures', )
+    
+    title = paste(rownames(df_temp)[3],'voting profile',colapse = '')
+    subtitle = paste(file_Year$start[which(file_Year$file == paste0('df_animate_',i,'.csv',collapse = ''))],'-',file_Year$end[which(file_Year$file == paste0('df_animate_',i,'.csv',collapse = ''))],collapse = '')
+    
+    # Saving the graph as a PNG file
+    png(filename = paste0("/Users/jdlilley/Desktop/Data Science and Modelling/Dissertation/DataBase/party_temp_png/df_animate_",i,".png",collapse = ''), width = 1000, height = 850)
+    create_beautiful_radarchart(df_temp,title,subtitle, caxislabels = c(0, 0.25, 0.5,0.75,1))
+    dev.off()
+    # Smooth animations
+    if (i < Num){
+      smooth_animie(i,df_temp,title,subtitle,party,p)
+    }
+  }
+  
+  ## Create gif
+  setwd("~/Desktop/Data Science and Modelling/Dissertation/DataBase/party_temp_png")
+  png_files <- list.files()
+  
+  # List all PNG files in the directory
+  png_files <- list.files(pattern = "*.png")
+  png_files <-  mixedsort(png_files)
+  
+  gifski(png_files, paste0("/Users/jdlilley/Desktop/Data Science and Modelling/Dissertation/DataBase/party_gif/",rownames(df_temp)[3],'.gif',collapse=''), width = 1000, height = 850, delay = 0.0333)
 }
 
 
@@ -855,7 +1466,8 @@ while (end > 0){
       df_radial_norm[row,col] <- (df_radial[row,col] - min(df_radial[,col]))/(max(df_radial[,col])-min(df_radial[,col]))
     }
   }
-  write.csv(df_radial_norm, paste0("/Users/jdlilley/Desktop/Data Science and Modelling/Dissertation/DataBase/Polar_df_5/df_animate_",No,".csv",collapse = ''), row.names=FALSE)
+  # ADJUST SAVE LOCATION BASED ON JUMP
+  write.csv(df_radial_norm, paste0("/Users/jdlilley/Desktop/Data Science and Modelling/Dissertation/DataBase/Polar_df/df_animate_",No,".csv",collapse = ''), row.names=FALSE)
   start <- start - jump
   end <- end - jump
   No <- No+1
@@ -913,12 +1525,14 @@ df <- data.frame(
   date = x_date,
   value = AD_test
 )
+
 ggplot(df, aes(x = date, y = value)) +
   geom_line() +
   xlab("Mean Year") +
   ylab("AD-test Scores")+
   ggtitle("Polarisation measured by AD test Normal Dist ")+
   theme(plot.title = element_text(hjust = 0.5))
+ggsave(file=paste0("/Users/jdlilley/Desktop/Data Science and Modelling/Dissertation/DataBase/Polar_Indicator",Sys.Date(),".png",collapse = ''))
 
 
 
