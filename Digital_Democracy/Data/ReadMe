@@ -5,5 +5,3 @@ In the interest of reproducibility, here are some functional steps to convert De
 Start by opening the ‘Hansard debate’ .txt file in Microsoft Edge as a fresh tab, disabling safety, and enabling viewer access to the ‘BingChat’ sidebar. Each division had a unique algorithmically produced prompt crafted in R, which was pasted into the sidebar manually because no API was available at the time of writing. The model took approximately 30 seconds to produce a response, theoretically this could have had a total run-time of 16 hours excluding prompt engineering edits and testing. The lack of an API meant that the manual file extraction turned a 16 hour task into 20 hours even running two browsers in parallel. 
 Further limitations included a daily limit which could be exceeded by running multiple accounts, and a hard 2,000 character limit which occasionally broke prompts due to long division titles.
 
-
-- Will notify if project abandoned
